@@ -3,10 +3,10 @@ A simple project used for scraping thermodynamical properties from http://www.dd
 # Useage:
 
 for verbose output:
-'''
+```
 python downloader.py
-'''
+```
 for no output:
-'''
+```
 python downloader.py False
-'''
+```
