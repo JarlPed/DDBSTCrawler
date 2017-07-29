@@ -1,0 +1,74 @@
+$$$Vapor-Liquid Equilibrium Data Set 3971	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+348.45	0.04600	0.10200	
+346.95	0.09500	0.19500	
+345.35	0.14900	0.28850	
+344.35	0.17150	0.31100	
+343.35	0.21900	0.38000	
+341.95	0.26250	0.43700	
+340.75	0.32750	0.52100	
+338.25	0.43250	0.61900	
+336.95	0.50000	0.67800	
+335.95	0.53750	0.70250	
+335.35	0.61250	0.76600	
+333.35	0.72600	0.84500	
+332.35	0.79500	0.88500	
+331.25	0.86040	0.92750	
+330.35	0.91000	0.94800	
+329.75	0.98000	0.98900	
+Source	
+Subrahmanyam V.; Murty P.D.: Vapor-Liquid Equilibria: Systems Acetone Ethyl Acetate Acetone-n-Propyl Acetate. J.Appl.Chem. 14 (1964) 500-502	
+$$$Vapor-Liquid Equilibrium Data Set 8455	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Pressure	96.93	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+348.05	0.02390	0.06520	
+347.15	0.05650	0.12230	
+346.55	0.07610	0.15660	
+345.35	0.11670	0.22040	
+343.75	0.16740	0.29840	
+342.20	0.22450	0.37860	
+338.80	0.36190	0.54310	
+337.05	0.44190	0.62460	
+335.05	0.54180	0.71270	
+333.35	0.63890	0.78670	
+331.95	0.72680	0.84550	
+330.55	0.81680	0.90080	
+329.80	0.86750	0.92830	
+329.15	0.91880	0.95520	
+328.65	0.96110	0.97790	
+328.36	0.98100	0.98900	
+Source	
+Gilburd M.M.; Yurkevich B.P.; Polytanskaya T.I.: Liquid-Vapor Phase Equilibria in Ethyl Acetate-Acetone and Ethyl Acetate Allyl Alcohol Systems. J.Appl.Chem.USSR 52 (1979) 2247-2249	
+$$$Vapor-Liquid Equilibrium Data Set 10020	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Pressure	53.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+332.55	0.00000	0.00000	
+330.15	0.05690	0.12620	
+330.05	0.06280	0.13830	
+328.33	0.11790	0.23770	
+324.85	0.24970	0.42750	
+324.75	0.25430	0.43310	
+323.65	0.30220	0.49000	
+321.55	0.39780	0.59320	
+317.55	0.60750	0.77180	
+315.35	0.73860	0.86010	
+313.95	0.85280	0.92500	
+313.75	0.86680	0.93220	
+312.85	0.94680	0.97260	
+312.45	1.00000	1.00000	
+Source	
+Gilburd M.M.; Politanskaya T.I.; Yurkevich B.P.: Liquid-Vapor Equilibrium in the Systems Ethyl Acetate-Acetone, Acetone-Allyl Alcohol, and Ethyl Acetate-Acetic Acid Under Reduced Pressure. J.Appl.Chem.USSR 54 (1981) 938-940	
+Source	
+Subrahmanyam V.; Murty P.D.: Vapor-Liquid Equilibria: Systems Acetone Ethyl Acetate Acetone-n-Propyl Acetate. J.Appl.Chem. 14 (1964) 500-502	
+Gilburd M.M.; Yurkevich B.P.; Polytanskaya T.I.: Liquid-Vapor Phase Equilibria in Ethyl Acetate-Acetone and Ethyl Acetate Allyl Alcohol Systems. J.Appl.Chem.USSR 52 (1979) 2247-2249	
+Gilburd M.M.; Politanskaya T.I.; Yurkevich B.P.: Liquid-Vapor Equilibrium in the Systems Ethyl Acetate-Acetone, Acetone-Allyl Alcohol, and Ethyl Acetate-Acetic Acid Under Reduced Pressure. J.Appl.Chem.USSR 54 (1981) 938-940	

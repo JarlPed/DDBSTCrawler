@@ -1,0 +1,14 @@
+$$$Solid-Liquid Equilibrium Data Set 59731	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	
+291.07	0.00000	
+290.41	0.11193	
+290.78	0.20587	
+290.52	0.96003	
+290.59	0.97293	
+285.95	0.98499	
+275.11	0.99586	
+Source	
+Goetsch T.; Zimmermann P.; van den Bongard R.; Enders S.; Zeiner T.: Binary Systems. Ind.Eng.Chem.Res. 55 (2016) 11167-11174	

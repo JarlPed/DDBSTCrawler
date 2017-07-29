@@ -1,0 +1,30 @@
+$$$Vapor-Liquid Equilibrium Data Set 627	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+409.69	0.00600	0.04800	
+406.27	0.01900	0.13800	
+403.18	0.03300	0.22000	
+401.03	0.04400	0.28000	
+396.59	0.07000	0.38400	
+392.23	0.10000	0.47500	
+389.12	0.12400	0.53000	
+384.28	0.16500	0.61200	
+378.20	0.23500	0.69500	
+372.77	0.31000	0.77100	
+368.15	0.39900	0.82500	
+366.32	0.44000	0.84700	
+363.27	0.52400	0.87800	
+359.69	0.63500	0.91600	
+358.80	0.66700	0.92500	
+356.25	0.76500	0.94800	
+354.06	0.84600	0.96700	
+352.35	0.91200	0.98100	
+351.32	0.94900	0.98900	
+351.07	0.96500	0.99200	
+Source	
+Carr A.D.; Kropholler H.W.: Vapor-Liquid Equilibria at Atmospheric Pressure. J.Chem.Eng.Data 7 (1962) 26-28	
+Source	
+Carr A.D.; Kropholler H.W.: Vapor-Liquid Equilibria at Atmospheric Pressure. J.Chem.Eng.Data 7 (1962) 26-28	

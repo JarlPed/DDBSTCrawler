@@ -1,0 +1,50 @@
+$$$Solid-Liquid Equilibrium Data Set 450	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4	16.043	74-82-8	Methane	
+2	C6H14	86.177	110-54-3	Hexane	
+T [K]	xL1 [mol/mol]	
+176.20	0.08500	
+174.60	0.16200	
+173.10	0.24300	
+173.20	0.24600	
+172.50	0.28300	
+171.10	0.31500	
+170.60	0.35000	
+170.10	0.37000	
+168.80	0.43100	
+169.00	0.43200	
+167.90	0.45700	
+166.30	0.51200	
+166.30	0.52700	
+165.10	0.59300	
+163.80	0.65900	
+163.40	0.68400	
+162.90	0.73600	
+162.70	0.76400	
+162.30	0.79500	
+162.10	0.87500	
+161.70	0.91900	
+161.70	0.93800	
+Source	
+Dickinson E.; Knobler C.M.; Scott R.L.: Solid-Liquid Phase Equilibria in the Mixtures Methane + n-Hexane and Methane + n-Pentane. J.Chem.Soc.Faraday Trans.1 69 (1973) 2179-2187	
+$$$Solid-Liquid Equilibrium Data Set 639	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4	16.043	74-82-8	Methane	
+2	C6H14	86.177	110-54-3	Hexane	
+T [K]	P [bar]	xL1 [mol/mol]	
+164.00	17.23	0.66050	
+162.00	16.755	0.92250	
+160.00	15.7	0.95790	
+158.00	14.516	0.97220	
+156.00	13.372	0.97730	
+154.00	12.308	0.98170	
+152.00	11.315	0.98510	
+150.00	10.383	0.98780	
+148.00	9.482	0.98990	
+146.00	8.702	0.99150	
+144.00	7.901	0.99290	
+142.00	7.314	0.99400	
+140.00	6.564	0.99490	
+138.00	5.875	0.99580	
+Source	
+Luks K.D.; Hottovy J.D.; Kohn J.P.: Three-Phase Solid-Liquid-Vapor Equilibria in the Binary Hydrocarbon Systems Methane-n-Hexane and Methane-Benzene. J.Chem.Eng.Data 26 (1981) 402-403	

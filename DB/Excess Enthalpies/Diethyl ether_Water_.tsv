@@ -1,0 +1,53 @@
+$$$Enthalpy of Mixing Data Set 4439	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	308.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-43.900	0.00290	
+-70.100	0.00460	
+-93.800	0.00630	
+-115.300	0.00780	
+-158.800	0.01170	
+276.300	0.95260	
+278.800	0.95550	
+226.600	0.96640	
+210.800	0.96880	
+190.800	0.97310	
+143.500	0.98000	
+115.500	0.98500	
+91.800	0.98760	
+Source	
+Villamanan M.A.; Allawi A.J.; van Ness H.C.: Vapor-Liquid-Liquid Equilibrium and Heats of Mixing for Diethyl Ether/Water at 35 °C. J.Chem.Eng.Data 29 (1984) 431-435	
+$$$Enthalpy of Mixing Data Set 14453	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-263.768	0.01590	
+-242.834	0.05000	
+-217.714	0.10000	
+-188.406	0.15000	
+-159.098	0.20000	
+-129.791	0.25000	
+-104.670	0.30000	
+-75.362	0.35000	
+-46.055	0.40000	
+-16.747	0.45000	
+8.374	0.50000	
+37.681	0.55000	
+66.989	0.60000	
+96.296	0.65000	
+121.417	0.70000	
+150.725	0.75000	
+180.032	0.80000	
+209.340	0.85000	
+234.461	0.90000	
+263.768	0.95000	
+263.768	0.95020	
+Source	
+Signer R.; Arm H.; Daeniker H.: 8. Mitteilung: Dampfdrücke, Dichten, thermodynamische Mischungsfunktionen und Brechungsindices der binären Systeme Wasser - Tetrahydrofuran und Wasser - Diäthyläther bei 25 °C. Helv.Chim.Acta 52 (1969) 2347-2351	
+Source	
+Signer R.; Arm H.; Daeniker H.: 8. Mitteilung: Dampfdrücke, Dichten, thermodynamische Mischungsfunktionen und Brechungsindices der binären Systeme Wasser - Tetrahydrofuran und Wasser - Diäthyläther bei 25 °C. Helv.Chim.Acta 52 (1969) 2347-2351	
+Villamanan M.A.; Allawi A.J.; van Ness H.C.: Vapor-Liquid-Liquid Equilibrium and Heats of Mixing for Diethyl Ether/Water at 35 °C. J.Chem.Eng.Data 29 (1984) 431-435	

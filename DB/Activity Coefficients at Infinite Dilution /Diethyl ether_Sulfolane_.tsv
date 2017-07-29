@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C4H8O2S	120.172	126-33-0	Sulfolane	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+303.81	6.5900	GLCR	1	
+317.90	6.4090	GLCR	1	
+333.60	6.2080	GLCR	1	
+Short Term	Explanation	
+GLCR	GLC (with gas phase correction)	
+1	Möllmann C.; Gmehling J.: 5. Results for N-Methylacetamide, N,N-Dimethylacetamide, N,N-Dibutylformamide, and Sulfolane as Stationary Phases. J.Chem.Eng.Data 42 (1997) 35-40	

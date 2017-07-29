@@ -1,0 +1,23 @@
+$$$Enthalpy of Mixing Data Set 21534	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C6H6	78.114	71-43-2	Benzene	
+3	ClNa	58.442	7647-14-5	Sodium chloride	
+Temperature	303.150	K	
+hE [cal/mol]	x1 [mol/mol]	x2 [mol/mol]	
+66.200	0.03000	0.96900	
+112.000	0.05500	0.94300	
+135.200	0.09100	0.90600	
+164.400	0.18800	0.80700	
+174.000	0.26200	0.73000	
+175.000	0.30800	0.68300	
+174.800	0.39000	0.59900	
+159.000	0.48700	0.49900	
+144.800	0.56000	0.42400	
+102.000	0.71400	0.26500	
+65.000	0.83100	0.14500	
+19.600	0.95000	0.02300	
+Source	
+Rajendran M.; Renganarayanan S.; Madhavan P.R.; Srinivasan D.: Effect of Dissolved Salts on the Heat of Mixing of Three Binary Systems. J.Chem.Eng.Data 34 (1989) 375-382	
+Source	
+Rajendran M.; Renganarayanan S.; Madhavan P.R.; Srinivasan D.: Effect of Dissolved Salts on the Heat of Mixing of Three Binary Systems. J.Chem.Eng.Data 34 (1989) 375-382	

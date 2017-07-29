@@ -1,0 +1,27 @@
+$$$Solid-Liquid Equilibrium Data Set 8135	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2S	120.172	126-33-0	Sulfolane	
+2	C2H6O	46.069	64-17-5	Ethanol	
+T [K]	xL1 [mol/mol]	
+261.82	0.05890	
+266.16	0.10210	
+267.84	0.14710	
+268.56	0.20770	
+268.79	0.25180	
+269.01	0.29890	
+269.25	0.34930	
+269.55	0.40140	
+269.87	0.44900	
+270.40	0.50080	
+270.91	0.54550	
+271.86	0.59830	
+273.06	0.64910	
+274.53	0.69980	
+276.40	0.75080	
+278.04	0.78930	
+280.98	0.84780	
+283.87	0.89600	
+285.35	0.92080	
+301.64	1.00000	
+Source	
+Ahlers J.; Lohmann J.; Gmehling J.: Binary Solid-Liquid Equilibria of Organic Systems Containing Different Amides and Sulfolane. J.Chem.Eng.Data 44 (1999) 727-730	

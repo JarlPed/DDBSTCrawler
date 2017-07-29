@@ -1,0 +1,56 @@
+$$$Solid-Liquid Equilibrium Data Set 277	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	
+291.27	0.00000	
+291.13	0.00680	
+290.58	0.04940	
+290.06	0.08790	
+288.86	0.16740	
+287.60	0.25030	
+285.75	0.35430	
+284.63	0.40550	
+283.43	0.46630	
+281.87	0.53110	
+280.49	0.58760	
+277.91	0.68180	
+276.24	0.73510	
+274.47	0.78720	
+272.51	0.83600	
+271.59	0.85720	
+272.21	0.87040	
+272.75	0.88360	
+274.35	0.91900	
+275.57	0.94510	
+276.56	0.96520	
+277.28	0.97820	
+278.24	0.99450	
+278.64	1.00000	
+Source	
+Snow R.L.; Ott J.B.; Goates J.R.; Marsh K.N.; O'Shea S.; Stokes R.H.: Comparison of GEm calculated from (vapor + liquid ) and (solid + liquid) equilibria. J.Chem.Thermodyn. 18 (1986) 107-130	
+$$$Solid-Liquid Equilibrium Data Set 1418	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	
+271.85	0.85810	
+283.15	0.44610	
+288.15	0.16760	
+Source	
+Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328	
+$$$Solid-Liquid Equilibrium Data Set 6851	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	P [bar]	xL1 [mol/mol]	
+291.10	1.0	0.00000	
+293.20	82.0	0.00000	
+298.20	280.0	0.00000	
+303.20	482.0	0.00000	
+308.20	711.0	0.00000	
+313.20	965.0	0.00000	
+318.20	1242.0	0.00000	
+323.20	1472.0	0.00000	
+Source	
+Tanaka Y.; Kawakami M.: Solid-liquid phase equilibria in binary (benzene, cyclohexane + n-tetradecane, n-hexadecane) systems at temperatures 230-323 K and pressures up to 120 MPa. Fluid Phase Equilib. 125 (1996) 103-114	

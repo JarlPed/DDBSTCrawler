@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	CH4O	32.042	67-56-1	Methanol	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	312.670	37.544	n.a.	0.72000	Phase equilibrium	DDBST	1	
+homPmax	322.310	56.449	n.a.	0.76400	Phase equilibrium	DDBST	1	
+homPmax	336.910	101.325	n.a.	0.82500	Phase equilibrium	DDBST from VLE	2	
+homPmax	homogeneous pressure maximum	
+1	Dohnal V.; Holub R.; Pick J.: Vapor-Liquid Equilibrium in the Methanol-Acetonitrile System. Collect.Czech.Chem.Commun. 42 (1977) 1445-1452	
+2	Tamir A.; Wisniak J.: Liquid-Vapor Equilibria at 760 mmHg in the Systems Methanol- Acetonitrile and Acetonitrile-Propyl Bromide. J.Chem.Eng.Data 31 (1986) 363-364	

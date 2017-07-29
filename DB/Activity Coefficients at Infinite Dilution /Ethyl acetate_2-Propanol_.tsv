@@ -1,0 +1,15 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+288.15	4.6300	STAT	1	
+Short Term	Explanation	
+STAT	static method	
+1	Pividal K.A.; Birtigh A.; Sandler S.I.: Infinite Dilution Activity Coefficients for Oxygenate Systems Determined Using a Differential Static Cell. J.Chem.Eng.Data 37 (1992) 484-487	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+288.15	3.5500	STAT	1	
+288.15	5.3400	STAT	2	
+Short Term	Explanation	
+STAT	static method	
+1	Pividal K.A.; Birtigh A.; Sandler S.I.: Infinite Dilution Activity Coefficients for Oxygenate Systems Determined Using a Differential Static Cell. J.Chem.Eng.Data 37 (1992) 484-487	
+2	Pividal K.A.: Infinite Dilution Activity Coefficients Measurement and Application. Thesis  (1991)	

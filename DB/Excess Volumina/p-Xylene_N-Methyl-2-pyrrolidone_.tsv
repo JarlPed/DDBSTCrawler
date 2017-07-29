@@ -1,0 +1,70 @@
+$$$Excess Volume Data Set 8419	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C8H10	106.167	106-42-3	p-Xylene	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.1209	0.04250	
+-0.2189	0.07830	
+-0.2743	0.10220	
+-0.3410	0.12950	
+-0.4018	0.15820	
+-0.4518	0.18490	
+-0.5022	0.21030	
+-0.5591	0.24570	
+-0.6011	0.27250	
+-0.6077	0.27960	
+-0.6335	0.29830	
+-0.6657	0.32550	
+-0.6942	0.34970	
+-0.7119	0.37250	
+-0.7317	0.39820	
+-0.7486	0.42580	
+-0.7617	0.44930	
+-0.7659	0.47250	
+-0.7715	0.49810	
+-0.7754	0.51870	
+-0.7724	0.53380	
+-0.7687	0.56270	
+-0.7553	0.59620	
+-0.7258	0.63830	
+-0.7001	0.66830	
+-0.6735	0.69370	
+-0.6346	0.72510	
+-0.5948	0.75530	
+-0.5597	0.77540	
+-0.5206	0.79890	
+-0.4680	0.82540	
+-0.4068	0.85360	
+-0.3257	0.88790	
+-0.2690	0.91020	
+-0.2043	0.93470	
+-0.1201	0.96220	
+Source	
+Liu X.; Su Z.; Wang H.; Zhong X.: IV. (1-Methyl-2-pyrrolidinone + an aromatic hydrocarbon). J.Chem.Thermodyn. 28 (1996) 277-283	
+$$$Excess Volume Data Set 13381	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C8H10	106.167	106-42-3	p-Xylene	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	298.150	K	
+Pressure	1.0132	bar	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+0.0000	0.00000	
+-0.0842	0.02100	
+-0.1926	0.06700	
+-0.3914	0.13400	
+-0.5769	0.23600	
+-0.6790	0.32100	
+-0.7642	0.40000	
+-0.7929	0.49700	
+-0.7683	0.57200	
+-0.7033	0.67000	
+-0.5329	0.79500	
+-0.3254	0.89200	
+-0.0789	0.97700	
+0.0000	1.00000	
+Source	
+Letcher T.M.; Naicker P.K.: Excess molar enthalpies and excess molar volumes of mixtures containing N-methyl-2-pyrrolidinone and an aromatic hydrocarbon at T = 298.15 K and p = 0.101325 MPa. J.Chem.Thermodyn. 31 (1999) 1585-1595	
+Source	
+Liu X.; Su Z.; Wang H.; Zhong X.: IV. (1-Methyl-2-pyrrolidinone + an aromatic hydrocarbon). J.Chem.Thermodyn. 28 (1996) 277-283	
+Letcher T.M.; Naicker P.K.: Excess molar enthalpies and excess molar volumes of mixtures containing N-methyl-2-pyrrolidinone and an aromatic hydrocarbon at T = 298.15 K and p = 0.101325 MPa. J.Chem.Thermodyn. 31 (1999) 1585-1595	

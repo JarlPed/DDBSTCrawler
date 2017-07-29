@@ -1,0 +1,36 @@
+$$$Enthalpy of Mixing Data Set 5604	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+103.000	0.05000	
+197.200	0.10000	
+280.100	0.14990	
+347.800	0.19950	
+416.100	0.25030	
+476.500	0.29990	
+519.500	0.35020	
+561.000	0.39970	
+593.200	0.45040	
+611.400	0.49980	
+615.900	0.49990	
+622.300	0.54920	
+618.700	0.59970	
+620.000	0.60000	
+605.900	0.64990	
+608.400	0.65020	
+578.000	0.69960	
+576.900	0.69970	
+534.500	0.74970	
+531.200	0.75000	
+469.700	0.79990	
+472.200	0.80000	
+391.600	0.85010	
+293.200	0.90000	
+163.500	0.95000	
+84.000	0.97600	
+Source	
+Luo B.; Benson G.C.; Lu B.C.-Y.: Excess enthalpies for (diethyl ether + n-alkane) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 267-271	
+Source	
+Luo B.; Benson G.C.; Lu B.C.-Y.: Excess enthalpies for (diethyl ether + n-alkane) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 267-271	

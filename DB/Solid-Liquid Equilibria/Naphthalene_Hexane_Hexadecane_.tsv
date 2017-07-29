@@ -1,0 +1,12 @@
+$$$Solid-Liquid Equilibrium Data Set 41184	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C10H8	128.174	91-20-3	Naphthalene	
+2	C6H14	86.177	110-54-3	Hexane	
+3	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
+298.15	0.13480	0.73640	
+298.15	0.15970	0.49430	
+298.15	0.17430	0.32730	
+298.15	0.19240	0.12700	
+Source	
+Heric E.L.; Posey C.D.: Solubility of Naphthalene at 25° in Some Mixed Nonaromatic Solvents. J.Chem.Eng.Data 10 (1965) 25-29	

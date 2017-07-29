@@ -1,0 +1,66 @@
+$$$Solid-Liquid Equilibrium Data Set 1790	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C4H10O	74.123	60-29-7	Diethyl ether	
+T [K]	xL1 [mol/mol]	
+151.95	0.10000	
+153.15	0.16300	
+159.15	0.25000	
+181.55	0.50000	
+178.35	0.57000	
+183.75	0.66700	
+Source	
+Fisher Wyatt W.: Part III.The Transition Points of Carbon Tetrachloride, and Compounds of Carbon Tetrachloride or Chloroform with Acetone, Ether, and Benzene. Trans.Faraday Soc. 25 (1929) 48-53	
+$$$Solid-Liquid Equilibrium Data Set 40819	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	CHCl3	119.377	67-66-3	Chloroform	
+T [K]	xL1 [mol/mol]	
+211.59	0.00000	
+209.31	0.05920	
+Source	
+Mitsukuri S.: The Heats of Fusion of Some Organic Solvents Whose Melting Points are Relatively Low. Bull.Chem.Soc.Japan 1 (1926) 30-34	
+$$$Solid-Liquid Equilibrium Data Set 53165	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C4H10O	74.123	60-29-7	Diethyl ether	
+T [K]	xL1 [mol/mol]	
+206.65	1.00000	
+200.55	0.90040	
+194.45	0.81770	
+179.65	0.70000	
+178.95	0.69890	
+179.55	0.68000	
+179.65	0.68100	
+179.65	0.66660	
+179.85	0.66660	
+179.55	0.65000	
+179.25	0.65000	
+177.15	0.61000	
+176.75	0.60000	
+176.35	0.59620	
+178.05	0.55000	
+178.75	0.50000	
+178.75	0.50000	
+177.35	0.45130	
+173.45	0.40000	
+173.25	0.40030	
+168.35	0.35000	
+168.25	0.35000	
+165.05	0.33330	
+161.75	0.30050	
+161.75	0.29970	
+161.75	0.29840	
+158.85	0.27000	
+158.45	0.25000	
+158.85	0.25000	
+155.95	0.20030	
+155.55	0.20000	
+154.75	0.18650	
+151.65	0.14990	
+153.25	0.10010	
+152.95	0.09990	
+154.85	0.05130	
+156.75	0.00000	
+Source	
+Smits A.; Berckmans V.S.F.: On the System Ether - Chloroform. Proc.Sec.Sci./K.Akad.Wet.Amsterdam 21 (1919) 401-404	

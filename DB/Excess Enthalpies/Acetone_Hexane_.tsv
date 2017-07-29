@@ -1,0 +1,70 @@
+$$$Enthalpy of Mixing Data Set 1380	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C6H14	86.177	110-54-3	Hexane	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+409.887	0.05130	
+498.229	0.06710	
+572.754	0.07710	
+917.328	0.14660	
+1047.540	0.17480	
+1517.710	0.35870	
+1576.750	0.55610	
+1209.150	0.73570	
+551.401	0.89880	
+Source	
+Murakami S.; Amaya K.; Fujishiro R.: The Energy of Hydrogen Bonding between Alcohol and Ketone Molecules. Bull.Chem.Soc.Japan 37 (1964) 1776-1780	
+$$$Enthalpy of Mixing Data Set 1384	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C6H14	86.177	110-54-3	Hexane	
+Temperature	243.200	K	
+hE [J/mol]	x1 [mol/mol]	
+334.000	0.04070	
+618.000	0.09320	
+806.000	0.13950	
+1048.000	0.23240	
+1179.000	0.33140	
+1232.000	0.38030	
+1252.000	0.43180	
+1267.000	0.52780	
+1236.000	0.60300	
+1112.000	0.72060	
+980.000	0.78720	
+955.000	0.79360	
+883.000	0.81820	
+718.000	0.86700	
+534.000	0.90870	
+216.000	0.96790	
+Source	
+Schäfer K.: Excess Enthalpies of Acetone + n-Alkane (C3 - C6) Binary Mixtures. Int.Data Series Sel.Data Mixtures Ser. A 1978 (1978) 74-77	
+$$$Enthalpy of Mixing Data Set 1385	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C6H14	86.177	110-54-3	Hexane	
+Temperature	253.200	K	
+hE [J/mol]	x1 [mol/mol]	
+587.000	0.08500	
+934.000	0.17120	
+1148.000	0.25650	
+1301.000	0.35840	
+1331.000	0.42250	
+1357.000	0.45990	
+1379.000	0.49020	
+1326.000	0.55260	
+1328.000	0.56040	
+1316.000	0.59000	
+1274.000	0.63650	
+1261.000	0.66070	
+1100.000	0.74800	
+1093.000	0.75350	
+815.000	0.84500	
+623.000	0.89210	
+559.000	0.90620	
+223.000	0.95020	
+Source	
+Schäfer K.: Excess Enthalpies of Acetone + n-Alkane (C3 - C6) Binary Mixtures. Int.Data Series Sel.Data Mixtures Ser. A 1978 (1978) 74-77	
+Source	
+Murakami S.; Amaya K.; Fujishiro R.: The Energy of Hydrogen Bonding between Alcohol and Ketone Molecules. Bull.Chem.Soc.Japan 37 (1964) 1776-1780	
+Schäfer K.: Excess Enthalpies of Acetone + n-Alkane (C3 - C6) Binary Mixtures. Int.Data Series Sel.Data Mixtures Ser. A 1978 (1978) 74-77	

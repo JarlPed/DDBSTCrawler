@@ -1,0 +1,60 @@
+$$$Enthalpy of Mixing Data Set 10017	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+10.700	0.00980	
+24.900	0.02590	
+35.800	0.03240	
+59.000	0.05330	
+89.000	0.08330	
+104.000	0.09520	
+143.000	0.13480	
+181.000	0.16600	
+Source	
+Sitnyakovskii I.B.; Semenov L.V.; Gaile A.A.; Koldobovskaya L.L.: Intermolecular interactions of N-methylpyrrolidone with oxygen-containing organic substances. Zh.Prikl.Khim. 63 (1990) 898-902	
+$$$Enthalpy of Mixing Data Set 16594	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	298.150	K	
+Pressure	1.010	bar	
+hE [J/mol]	x1 [mol/mol]	
+359.600	0.25610	
+428.400	0.30670	
+492.400	0.38720	
+529.900	0.45140	
+548.300	0.59730	
+508.400	0.65470	
+471.000	0.69960	
+394.300	0.75500	
+403.800	0.75890	
+346.800	0.79160	
+342.300	0.80260	
+Source	
+Letcher T.M.; Lachwa J.; Domanska U.: The excess molar volumes and enthalpies of (N-methyl-2-pyrrolidinone + an alcohol) at T = 298.15 K and the application of the ERAS theory). J.Chem.Thermodyn. 33 (2001) 1169-1179	
+$$$Enthalpy of Mixing Data Set 18385	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+271.100	0.10800	
+474.300	0.21260	
+613.700	0.31120	
+729.600	0.40500	
+994.400	0.54380	
+1028.900	0.59410	
+1039.300	0.65290	
+1003.600	0.71060	
+932.300	0.77210	
+796.800	0.82980	
+572.700	0.89180	
+296.500	0.94840	
+Source	
+Gnanakumari P.; Venkatesu P.; Rama Mohan K.; Prabhakara Rao M.V.; Prasad D.H.L.: Excess volumes and excess enthalpies of N-methyl-2-pyrrolidone with branched alcohols. Fluid Phase Equilib. 252 (2007) 137-142	
+Source	
+Sitnyakovskii I.B.; Semenov L.V.; Gaile A.A.; Koldobovskaya L.L.: Intermolecular interactions of N-methylpyrrolidone with oxygen-containing organic substances. Zh.Prikl.Khim. 63 (1990) 898-902	
+Letcher T.M.; Lachwa J.; Domanska U.: The excess molar volumes and enthalpies of (N-methyl-2-pyrrolidinone + an alcohol) at T = 298.15 K and the application of the ERAS theory). J.Chem.Thermodyn. 33 (2001) 1169-1179	
+Gnanakumari P.; Venkatesu P.; Rama Mohan K.; Prabhakara Rao M.V.; Prasad D.H.L.: Excess volumes and excess enthalpies of N-methyl-2-pyrrolidone with branched alcohols. Fluid Phase Equilib. 252 (2007) 137-142	

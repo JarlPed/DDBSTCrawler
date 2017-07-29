@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	CO2	44.010	124-38-9	Carbon dioxide	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	273.150	n.a.	n.a.	n.a.	n.a.	Author from diagram from VLE	2	
+none	283.150	n.a.	n.a.	n.a.	n.a.	Author from diagram from VLE	2	
+none	298.150	n.a.	n.a.	n.a.	n.a.	Author	1	
+none	zeotropic	
+1	Ohgaki K.; Katayama T.: Methanol-Carbon Dioxide, n-Hexane-Carbon Dioxide, and Benzene-Carbon Dioxide Systems. J.Chem.Eng.Data 21 (1976) 53-55	
+2	Kaminishi G.-I.; Yokoyama C.; Takahashi S.: Vapor Pressures of Binary Mixtures of Carbon Dioxide with Benzene, N-Hexane and Cyclohexane up to 7 MPa. Fluid Phase Equilib. 34 (1987) 83-99	

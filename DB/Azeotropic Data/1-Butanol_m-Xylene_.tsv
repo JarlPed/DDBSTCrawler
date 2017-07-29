@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	C8H10	106.167	108-38-3	m-Xylene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	n.a.	99.992	0.80000	n.a.	Phase equilibrium	Author	3	
+homPmax	389.100	101.325	0.78700	n.a.	n.a.	Author	2	
+homPmax	389.650	101.325	0.78231	n.a.	Distillation	Author	1	
+homPmax	homogeneous pressure maximum	
+1	Lecat M.: Azéotropes binaires orthobares. Ann.Chim.(Paris) 2 (1947) 158-202	
+2	Galska-Krajewska A.: Ternary Positive-Negative Azeotropes Containing Pyridine, Butanol, and C8 Hydrocarbons. Rocz.Chem. 41 (1970) 1255-1262	
+3	Bonauguri E.; Bicelli L.; Spiller G.: Ricerche sulla distillazione - I: Idrocarburi aromatici e alcooli. Chim.Ind. Milano 33 (1951) 81-90	

@@ -1,0 +1,14 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	H2O	18.015	7732-18-5	Water	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+296.15	72.900	HENR	3	
+298.15	68.820	GLCI	2	
+298.45	106.60	GLCR	1	
+Short Term	Explanation	
+GLCI	GLC (without gas phase correction)	
+GLCR	GLC (with gas phase correction)	
+HENR	calculated from Henry coefficients	
+1	Kohn J.: Messung und Vorausberechnung von Octanol-Wasser-Verteilungskoeffizienten. Master's Thesis  (1988)	
+2	Dallas A.J.: Vol. I - IV. Thesis  (1995)	
+3	Nielsen F.; Olsen E.; Fredenslund A.: Henry's Law Constants and Infinite Dilution Activity Coefficients for Volatile Organic Components in Water by a Validated Batch Air Stripping Method. Environ.Sci.Technol. 28 (1994) 2133-2138	

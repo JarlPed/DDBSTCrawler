@@ -1,0 +1,71 @@
+$$$Vapor-Liquid Equilibrium Data Set 4967	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H6	78.114	71-43-2	Acetic acid butyl ester	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+395.75	0.04400	0.13800	
+393.55	0.07800	0.22500	
+391.55	0.11400	0.29800	
+388.85	0.15900	0.38400	
+385.95	0.20600	0.47300	
+383.85	0.23800	0.52200	
+378.85	0.33100	0.65300	
+377.55	0.36100	0.68200	
+373.45	0.44100	0.76600	
+369.05	0.53600	0.83300	
+366.45	0.59800	0.87000	
+364.15	0.65500	0.89200	
+362.25	0.70400	0.91500	
+360.35	0.75700	0.93400	
+357.75	0.83500	0.95900	
+356.65	0.88000	0.97100	
+355.75	0.91100	0.98000	
+Source	
+Nagata I.: Vapor-Liquid Equilibrium Data for Binary Systems, Acetone-Methyl Acetate, Methyl Acetate-Carbon Tetrachloride, Benzene- Butyl Acetate and Cyclohexane-Butyl Actate. Mem.Fac.Technol.Kanazawa Univ. 3 (1964) 197-205	
+$$$Vapor-Liquid Equilibrium Data Set 6848	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H6	78.114	71-43-2	Acetic acid butyl ester	
+Pressure	101.33	kPa	
+x1 [mol/mol]	y1 [mol/mol]	
+0.06570	0.17750	
+0.13850	0.31570	
+0.17350	0.37300	
+0.22350	0.42840	
+0.31950	0.57250	
+0.44700	0.70300	
+0.52150	0.76950	
+0.64750	0.85750	
+0.76070	0.91460	
+0.83450	0.95270	
+0.89300	0.97100	
+0.93400	0.98400	
+0.95600	0.98800	
+Source	
+Bushmakin I.N.; Baldangiin B.; Molodenko P.Ya.: Liquid-Vapor Equilibrium in the Systems Benzene Butyl Acetate and Carbon Tetrachloride Butyl Acetate. J.Appl.Chem.USSR 38 (1965) 1392-1394	
+$$$Vapor-Liquid Equilibrium Data Set 8099	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H6	78.114	71-43-2	Acetic acid butyl ester	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+399.25	0.00000	0.00000	
+395.15	0.05000	0.16500	
+391.75	0.10000	0.30000	
+385.95	0.20000	0.50300	
+380.65	0.30000	0.64300	
+375.75	0.40000	0.74300	
+370.95	0.50000	0.81700	
+366.65	0.60000	0.87700	
+362.95	0.70000	0.92300	
+359.35	0.80000	0.95800	
+356.15	0.90000	0.98200	
+354.65	0.95000	0.99000	
+353.25	1.00000	1.00000	
+Source	
+Anton N.D.; Zheleznova N.I.; Tikhonova N.K.; Timofeev V.S.; Serafimov L.A.: Untersuchung physikalisch-chemischer Eigenschaften im System Benzol-Butylacetat-Wasser. Tr.Mosk.Inst.Tonkoj Khim.Tekhnol. 3 (1973) 115-120	
+Source	
+Nagata I.: Vapor-Liquid Equilibrium Data for Binary Systems, Acetone-Methyl Acetate, Methyl Acetate-Carbon Tetrachloride, Benzene- Butyl Acetate and Cyclohexane-Butyl Actate. Mem.Fac.Technol.Kanazawa Univ. 3 (1964) 197-205	
+Bushmakin I.N.; Baldangiin B.; Molodenko P.Ya.: Liquid-Vapor Equilibrium in the Systems Benzene Butyl Acetate and Carbon Tetrachloride Butyl Acetate. J.Appl.Chem.USSR 38 (1965) 1392-1394	
+Anton N.D.; Zheleznova N.I.; Tikhonova N.K.; Timofeev V.S.; Serafimov L.A.: Untersuchung physikalisch-chemischer Eigenschaften im System Benzol-Butylacetat-Wasser. Tr.Mosk.Inst.Tonkoj Khim.Tekhnol. 3 (1973) 115-120	

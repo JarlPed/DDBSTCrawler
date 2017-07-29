@@ -1,0 +1,8 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+3	C4H10O	74.123	71-36-3	Acetic acid butyl ester	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	n.a.	Phase equilibrium	Author	1	
+none	zeotropic	
+1	Beldeeva L.N.; Pilyuckenko S.L.; Iordan V.F.; Garber Y.N.: Separation of C1-C4 Alcohol from Their Alkyl Acetates by Extractive Rectification with Reference to A Butanol-Butyl Acetate Mixture. J.Appl.Chem.USSR 64 (1991) 2497-2500	

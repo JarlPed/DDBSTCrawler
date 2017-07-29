@@ -1,0 +1,26 @@
+$$$Vapor-Liquid Equilibrium Data Set 15543	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+3	H2O	18.015	7732-18-5	Water	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
+341.15	0.05100	0.17800	0.13500	0.59000	
+338.05	0.15200	0.15900	0.36500	0.41500	
+333.15	0.40500	0.11100	0.59500	0.15300	
+330.35	0.70300	0.05600	0.85000	0.04500	
+341.95	0.05200	0.36100	0.13000	0.59500	
+339.15	0.15500	0.32100	0.32300	0.45000	
+333.75	0.40800	0.22500	0.61100	0.22000	
+330.95	0.70700	0.11100	0.81000	0.12100	
+342.15	0.05200	0.55000	0.11800	0.61000	
+339.65	0.15000	0.51000	0.27500	0.49000	
+335.15	0.40000	0.36000	0.55000	0.27400	
+331.55	0.70000	0.18000	0.78500	0.11000	
+342.45	0.05200	0.74800	0.10000	0.63000	
+339.85	0.15000	0.68000	0.25000	0.53000	
+335.55	0.40000	0.48000	0.52600	0.32500	
+332.25	0.70100	0.24000	0.77800	0.13800	
+Source	
+Timofeev V.S.; Ponomarev V.N.; Baikalova N.M.; Rudakovskaya T.S.: Entwicklung eines technologischen Trennprozesses von Aceton-Methanol-Ethylacetat-Wasser-Mischungen. Fiziko-chimiceskie osnovy rektifikacii  (1977) 180-193	
+Source	

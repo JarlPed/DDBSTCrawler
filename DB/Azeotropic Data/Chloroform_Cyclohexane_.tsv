@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	95.000	n.a.	n.a.	Phase equilibrium	DDBST from VLE	3	
+none	n.a.	101.325	n.a.	n.a.	Distillation	Author	1	
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	2	
+none	zeotropic	
+1	Lecat M.: Tome Premier: Azeotropes binaires orthobares. Tables Azeotropiques. Tome Premier: Azeotropes binaires orthobares  (1949) 1-406	
+2	Norrish R.S.; Twigg G.H.: Single Constant Linear Equation for Vapor-Liquid Equilibria in Binary Systems. Ind.Eng.Chem. 46 (1954) 201-204	
+3	Vittal Prasad T.E.; Naidu B.R.P.N.; Madhukiran D.; Prasad D.H.L.: Boiling Temperature Measurements on the Binary Mixtures of Cyclohexane with Some Alcohols and Chlorohydrocarbons. J.Chem.Eng.Data 46 (2001) 414-416	

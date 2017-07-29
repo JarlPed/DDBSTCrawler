@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C4H10O	74.123	60-29-7	Diethyl ether	
+3	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+noneMisGap	n.a.	287.483	n.a.	n.a.	n.a.	Phase equilibrium	Author	1	
+noneMisGap	n.a.	515.010	n.a.	n.a.	n.a.	Phase equilibrium	Author	1	
+noneMisGap	n.a.	721.851	n.a.	n.a.	n.a.	Phase equilibrium	Author	1	
+noneMisGap	zeotropic miscibility gap	
+1	Moeller W.P.; Englund S.W.; Tsui T.K.; Othmer D.F.: Compositions of Vapors from Boiling Solutions. Ind.Eng.Chem. 43 (1951) 711-717	

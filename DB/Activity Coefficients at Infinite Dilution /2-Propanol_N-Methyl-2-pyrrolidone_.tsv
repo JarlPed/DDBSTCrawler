@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+298.15	0.7200	GLCR	2	
+323.35	0.7500	GLCR	1	
+333.15	0.7500	GLCR	1	
+Short Term	Explanation	
+GLCR	GLC (with gas phase correction)	
+1	Weidlich U.; Roehm H.-J.; Gmehling J.: 2. Results for the Stationary Phases N-Formylmorpholine and N-Methylpyrrolidone. J.Chem.Eng.Data 32 (1987) 450-453	
+2	Sitnyakovskii I.B.; Gaile A.A.; Semenov L.V.: Selectivity of Solvents in Separation of Mixtures of Oxygen-Containing Organic Compounds. J.Appl.Chem.USSR 62 (1989) 2564-2566	

@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	10.000	n.a.	n.a.	Phase equilibrium	Author	1	
+none	n.a.	25.000	n.a.	n.a.	Phase equilibrium	Author	1	
+none	n.a.	50.000	n.a.	n.a.	Phase equilibrium	Author	1	
+none	zeotropic	
+1	Hirawan R.; Sinha S.; Iwarere S.A.; Raal J.D.; Naidoo P.; Ramjugernath D.: VaporLiquid Equilibrium Data for 1-Methyl-2-Pyrrolidone + (1-Butanol or 1-Hexene or Water) Binary Mixtures. J.Chem.Eng.Data 59 (2014) 1643-1650	

@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	n.a.	101.330	n.a.	n.a.	n.a.	Author from VLE	3	
+none	308.000	n.a.	n.a.	n.a.	n.a.	Author	2	
+none	zeotropic	
+1	Michishita T.; Arai Y.; Saito S.: Vapor-Liquid Equilibria of Hydrocarbons at Atmospheric Pressure. Kagaku Kogaku 35 (1971) 111	
+2	Ott J.B.; Marsh K.N.; Stokes R.H.: Excess Enthalpies, Excess Volumes, and Excess Gibbs Free Energies for Benzene + p-Xylene at 288.15, 298.15, 308.15 and 318.15 K. J.Chem.Thermodyn. 12 (1980) 493-503	
+3	Jin Z.; Hu A.; Liu K.: VLE of Binary and Ternary Systems for Benzene, Methylbenzene and p-Xylene Mixtures. Huaxue-gongcheng 19 (1991) 56-60	

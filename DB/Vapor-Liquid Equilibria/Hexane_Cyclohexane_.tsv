@@ -1,0 +1,87 @@
+$$$Vapor-Liquid Equilibrium Data Set 2109	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+353.87	0.00000	0.00000	
+352.65	0.08200	0.12100	
+352.15	0.12100	0.16700	
+351.35	0.16700	0.22600	
+350.50	0.22600	0.30000	
+349.90	0.27000	0.35300	
+349.55	0.30000	0.38400	
+348.85	0.35300	0.43800	
+348.55	0.38400	0.46800	
+347.85	0.43800	0.52300	
+346.85	0.52300	0.60200	
+346.05	0.59100	0.67100	
+345.20	0.67100	0.74000	
+344.55	0.74000	0.79200	
+344.00	0.79700	0.84000	
+343.55	0.84000	0.87700	
+343.20	0.87700	0.90400	
+341.85	1.00000	1.00000	
+Source	
+Ridgway K.; Butler P.A.: Some Physical Properties of the Ternary System Benzene-Cyclohexane-n-Hexane. J.Chem.Eng.Data 12 (1967) 509-515	
+$$$Vapor-Liquid Equilibrium Data Set 3009	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Temperature	343.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+77.327	0.12500	0.17900	
+81.607	0.25000	0.33600	
+85.673	0.37500	0.46500	
+90.033	0.50000	0.59000	
+94.019	0.62500	0.70800	
+97.965	0.74200	0.80600	
+100.818	0.87500	0.90100	
+Source	
+Susarev M.P.; Chen S.T.: The Benzene-n-Hexane-Cyclo-Hexane System. Russ.J.Phys.Chem. 37 (1963) 938-943	
+$$$Vapor-Liquid Equilibrium Data Set 4202	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+353.95	0.00000	0.00000	
+353.75	0.00800	0.01800	
+353.50	0.01900	0.03200	
+353.15	0.04500	0.07000	
+352.90	0.06300	0.09750	
+352.45	0.09350	0.13500	
+351.80	0.13300	0.18700	
+351.15	0.18150	0.24700	
+350.30	0.23850	0.31600	
+349.65	0.28700	0.37300	
+349.20	0.31800	0.40000	
+348.50	0.36900	0.45750	
+347.95	0.41450	0.50500	
+347.65	0.44250	0.53350	
+347.40	0.46200	0.55300	
+346.90	0.49800	0.58350	
+346.75	0.51550	0.59950	
+346.55	0.53550	0.61750	
+346.40	0.54900	0.63000	
+345.90	0.59550	0.67300	
+345.25	0.65450	0.72400	
+344.85	0.69250	0.75750	
+344.55	0.72400	0.78600	
+344.10	0.75700	0.80800	
+344.05	0.76850	0.81800	
+343.95	0.77700	0.82950	
+343.70	0.80700	0.85200	
+343.50	0.83100	0.87150	
+343.30	0.85000	0.88300	
+343.10	0.87350	0.90200	
+342.90	0.90000	0.92600	
+342.50	0.93500	0.95000	
+342.20	0.96900	0.97600	
+341.95	1.00000	1.00000	
+Source	
+Myers H.S.: V-L Equilibrium for Naphthenes and Paraffins. Petrol.Refiner 36 (1957) 175-178	
+Source	
+Susarev M.P.; Chen S.T.: The Benzene-n-Hexane-Cyclo-Hexane System. Russ.J.Phys.Chem. 37 (1963) 938-943	
+Ridgway K.; Butler P.A.: Some Physical Properties of the Ternary System Benzene-Cyclohexane-n-Hexane. J.Chem.Eng.Data 12 (1967) 509-515	
+Myers H.S.: V-L Equilibrium for Naphthenes and Paraffins. Petrol.Refiner 36 (1957) 175-178	

@@ -1,0 +1,121 @@
+$$$Enthalpy of Mixing Data Set 2949	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature	323.150	K	
+hE [J/mol]	x1 [mol/mol]	
+343.000	0.12280	
+455.000	0.16480	
+595.000	0.22280	
+699.000	0.26730	
+779.000	0.30480	
+911.000	0.37210	
+1008.000	0.42800	
+1072.000	0.47540	
+1115.000	0.51410	
+1146.000	0.54910	
+1164.000	0.57940	
+1174.000	0.60540	
+1175.000	0.62930	
+1172.000	0.65050	
+1165.000	0.66870	
+1156.000	0.68540	
+1147.000	0.70040	
+1135.000	0.71420	
+1123.000	0.72690	
+1109.000	0.73840	
+1094.000	0.74910	
+1079.000	0.75900	
+1060.000	0.76820	
+1044.000	0.77650	
+1028.000	0.78420	
+1012.000	0.79170	
+1000.000	0.79850	
+986.000	0.80490	
+904.000	0.83510	
+879.000	0.84280	
+853.000	0.85070	
+826.000	0.85830	
+797.000	0.86630	
+766.000	0.87440	
+736.000	0.88260	
+701.000	0.89110	
+663.000	0.89960	
+623.000	0.90840	
+580.000	0.91700	
+537.000	0.92550	
+494.000	0.93360	
+459.000	0.93830	
+439.000	0.94300	
+419.000	0.94620	
+382.000	0.95260	
+352.000	0.95710	
+318.000	0.96220	
+281.000	0.96720	
+244.000	0.97210	
+205.000	0.97680	
+164.000	0.98170	
+123.000	0.98650	
+87.000	0.99050	
+37.000	0.99580	
+Source	
+Diaz Pena M.; Menduina C.: Excess Enthalpies at 323.15 K of Binary Mixtures of Benzene with n-Alkanes. J.Chem.Thermodyn. 6 (1974) 1097-1102	
+$$$Enthalpy of Mixing Data Set 2950	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+456.000	0.14540	
+531.000	0.16720	
+816.000	0.26890	
+927.000	0.31920	
+1013.000	0.34990	
+1145.000	0.42890	
+1263.000	0.50620	
+1321.000	0.56750	
+1345.000	0.62620	
+1343.000	0.67140	
+1319.000	0.70880	
+1302.000	0.73300	
+1287.000	0.73950	
+1267.000	0.75250	
+1252.000	0.76420	
+1223.000	0.77400	
+1211.000	0.78510	
+1167.000	0.79700	
+1171.000	0.80250	
+1097.000	0.82010	
+1016.000	0.84360	
+915.000	0.86770	
+795.000	0.89280	
+645.000	0.91930	
+488.000	0.94330	
+323.000	0.96480	
+165.000	0.98300	
+Source	
+Diaz Pena M.; Menduina C.: Excess Enthalpies at 298.15 K of Binary Mixtures of Benzene with n-Alkanes. J.Chem.Thermodyn. 6 (1974) 387-393	
+$$$Enthalpy of Mixing Data Set 2951	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+1088.000	0.40150	
+1128.000	0.43330	
+1296.000	0.57390	
+1302.000	0.60490	
+1300.000	0.66930	
+1280.000	0.69720	
+1248.000	0.72950	
+1212.000	0.75440	
+1129.000	0.78370	
+1015.000	0.82850	
+828.000	0.87900	
+526.000	0.93540	
+Source	
+Lundberg G.W.: XI. Heats of Mixing of Hydrocarbons. J.Chem.Eng.Data 9 (1964) 193-198	
+Source	
+Lundberg G.W.: XI. Heats of Mixing of Hydrocarbons. J.Chem.Eng.Data 9 (1964) 193-198	
+Diaz Pena M.; Menduina C.: Excess Enthalpies at 298.15 K of Binary Mixtures of Benzene with n-Alkanes. J.Chem.Thermodyn. 6 (1974) 387-393	
+Diaz Pena M.; Menduina C.: Excess Enthalpies at 323.15 K of Binary Mixtures of Benzene with n-Alkanes. J.Chem.Thermodyn. 6 (1974) 1097-1102	

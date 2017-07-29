@@ -1,0 +1,41 @@
+$$$Solid-Liquid Equilibrium Data Set 532	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	60-29-7	Diethyl ether	
+T [K]	xL1 [mol/mol]	
+156.75	0.00000	
+155.15	0.13262	
+154.45	0.19721	
+154.25	0.20628	
+154.15	0.29632	
+151.95	0.51080	
+153.55	0.63477	
+155.75	0.69903	
+159.75	0.79614	
+166.55	0.90956	
+166.85	0.91333	
+175.35	1.00000	
+Source	
+Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408	
+$$$Solid-Liquid Equilibrium Data Set 25362	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	60-29-7	Diethyl ether	
+T [K]	xL1 [mol/mol]	
+149.75	0.00000	
+148.15	0.13262	
+147.45	0.19721	
+147.45	0.20628	
+147.65	0.29632	
+150.15	0.51080	
+Source	
+Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408	
+$$$Solid-Liquid Equilibrium Data Set 25363	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	60-29-7	Diethyl ether	
+T [K]	xS1 [mol/mol]	
+153.65	0.19721	
+153.65	0.20628	
+Source	
+Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408	

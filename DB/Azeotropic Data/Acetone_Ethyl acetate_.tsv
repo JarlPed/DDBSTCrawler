@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	53.329	n.a.	n.a.	n.a.	Author	3	
+none	n.a.	96.925	n.a.	n.a.	n.a.	Author	2	
+none	n.a.	101.325	n.a.	n.a.	Distillation	Author	1	
+none	zeotropic	
+1	Lecat M.: Azéotropes binaires orthobares. Ann.Chim.(Paris) 2 (1947) 158-202	
+2	Gilburd M.M.; Yurkevich B.P.; Polytanskaya T.I.: Liquid-Vapor Phase Equilibria in Ethyl Acetate-Acetone and Ethyl Acetate Allyl Alcohol Systems. J.Appl.Chem.USSR 52 (1979) 2247-2249	
+3	Gilburd M.M.; Politanskaya T.I.; Yurkevich B.P.: Liquid-Vapor Equilibrium in the Systems Ethyl Acetate-Acetone, Acetone-Allyl Alcohol, and Ethyl Acetate-Acetic Acid Under Reduced Pressure. J.Appl.Chem.USSR 54 (1981) 938-940	

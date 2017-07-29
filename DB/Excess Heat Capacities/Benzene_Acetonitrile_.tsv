@@ -1,0 +1,50 @@
+$$$Excess Heat Capacity Data Set 570	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	298.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+-0.1280	0.04920	
+-0.2470	0.10020	
+-0.3290	0.18360	
+-0.3300	0.29370	
+-0.2450	0.39490	
+-0.0820	0.50060	
+0.0840	0.59990	
+0.2700	0.70320	
+0.4010	0.79950	
+0.3330	0.91030	
+0.3100	0.91790	
+Source	
+Grolier J.-P.E.; Roux-Desgranges G.; Berkane M.; Wilhelm E.: 1. Mixtures containing acetonitrile. J.Chem.Thermodyn. 23 (1991) 421-429	
+$$$Excess Heat Capacity Data Set 708	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	298.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+-0.2040	0.02499	
+-0.2830	0.04997	
+-0.4190	0.09995	
+-0.4640	0.14993	
+-0.4880	0.19991	
+-0.4620	0.24990	
+-0.4290	0.29988	
+-0.4150	0.34987	
+-0.3540	0.39987	
+-0.2840	0.44986	
+-0.1710	0.49987	
+-0.0760	0.54986	
+0.1010	0.59987	
+0.1610	0.64988	
+0.3150	0.69988	
+0.4280	0.79991	
+0.5340	0.84993	
+0.5470	0.89995	
+0.4050	0.94997	
+0.2220	0.97499	
+Source	
+Miyanaga S.; Tamura K.; Murakami S.: Excess Enthalpies and Excess Heat Capacities of the Binary Mixtures of Acetonitrile, Dimethylformamide, and Benzene at 298.15 K. J.Therm.Anal. 38 (1992) 1767-1774	
+Source	
+Grolier J.-P.E.; Roux-Desgranges G.; Berkane M.; Wilhelm E.: 1. Mixtures containing acetonitrile. J.Chem.Thermodyn. 23 (1991) 421-429	
+Miyanaga S.; Tamura K.; Murakami S.: Excess Enthalpies and Excess Heat Capacities of the Binary Mixtures of Acetonitrile, Dimethylformamide, and Benzene at 298.15 K. J.Therm.Anal. 38 (1992) 1767-1774	

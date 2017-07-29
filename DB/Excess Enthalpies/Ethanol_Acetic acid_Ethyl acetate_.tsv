@@ -1,0 +1,32 @@
+$$$Enthalpy of Mixing Data Set 21418	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+3	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Temperature	298.000	K	
+Pressure	1.000	bar	
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
+0.000	0.00000	0.50000	
+105.000	0.05000	0.47500	
+190.000	0.10000	0.45000	
+270.000	0.15000	0.42500	
+336.000	0.20000	0.40000	
+390.000	0.25000	0.37500	
+435.000	0.30000	0.35000	
+469.000	0.35000	0.32500	
+493.000	0.40000	0.30000	
+508.000	0.45000	0.27500	
+513.000	0.50000	0.25000	
+510.000	0.55000	0.22500	
+496.000	0.60000	0.20000	
+474.000	0.65000	0.17500	
+441.000	0.70000	0.15000	
+397.000	0.75000	0.12500	
+343.000	0.80000	0.10000	
+275.000	0.85000	0.07500	
+195.000	0.90000	0.05000	
+110.000	0.95000	0.02500	
+Source	
+Balland L.; Talouba I.B.; Mouhab N.; Abdelghani-Idrissi A.: Evaluation of Excess Molar Enthalpies for a Quaternary Mixture System of Acetic Anhydride, Ethanol, Acetic Acid, and Ethyl Acetate. J.Chem.Eng.Data 57 (2012) 811-816	
+Source	
+Balland L.; Talouba I.B.; Mouhab N.; Abdelghani-Idrissi A.: Evaluation of Excess Molar Enthalpies for a Quaternary Mixture System of Acetic Anhydride, Ethanol, Acetic Acid, and Ethyl Acetate. J.Chem.Eng.Data 57 (2012) 811-816	

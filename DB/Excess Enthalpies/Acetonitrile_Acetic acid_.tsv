@@ -1,0 +1,61 @@
+$$$Enthalpy of Mixing Data Set 10136	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	308.150	K	
+hE [J/mol]	x1 [mol/mol]	
+125.800	0.11480	
+160.300	0.14410	
+234.900	0.20900	
+327.900	0.34760	
+337.700	0.39370	
+337.000	0.44060	
+327.700	0.51200	
+294.900	0.59490	
+260.600	0.67970	
+241.400	0.71520	
+192.600	0.79500	
+166.000	0.84280	
+141.600	0.87120	
+106.200	0.91340	
+Source	
+Lark B.S.; Banipal T.S.: Excess volumes and excess enthalpies of acetic and its methyl-substituted acids + acetonitrile.. Can.J.Chem. 63 (1985) 3269-3275	
+$$$Enthalpy of Mixing Data Set 11840	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	295.150	K	
+hE [J/mol]	x1 [mol/mol]	
+156.866	0.07400	
+227.016	0.13620	
+260.207	0.19440	
+287.650	0.24107	
+301.366	0.28677	
+Source	
+Popov P.G.: Mischungswärme von Acetonitril mit einigen organischen Lösungsmitteln. Ukr.Khim.Zh.(Russ.Ed.) 2 (1926) 387-390	
+$$$Enthalpy of Mixing Data Set 14427	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+96.200	0.09270	
+150.100	0.14090	
+197.300	0.20720	
+245.900	0.27870	
+267.100	0.32210	
+291.200	0.38100	
+304.700	0.44600	
+302.400	0.48850	
+284.300	0.57100	
+247.900	0.65140	
+198.300	0.74160	
+158.700	0.80900	
+112.300	0.87220	
+79.400	0.91500	
+Source	
+Letcher T.M.; Redhi G.G.: Excess Enthalpies and Volumes for Mixtures of (Acetonitrile + a Carboxylic Acid) at 298,15K. J.Chem.Eng.Data 45 (2000) 57-60	
+Source	
+Lark B.S.; Banipal T.S.: Excess volumes and excess enthalpies of acetic and its methyl-substituted acids + acetonitrile.. Can.J.Chem. 63 (1985) 3269-3275	
+Popov P.G.: Mischungswärme von Acetonitril mit einigen organischen Lösungsmitteln. Ukr.Khim.Zh.(Russ.Ed.) 2 (1926) 387-390	
+Letcher T.M.; Redhi G.G.: Excess Enthalpies and Volumes for Mixtures of (Acetonitrile + a Carboxylic Acid) at 298,15K. J.Chem.Eng.Data 45 (2000) 57-60	

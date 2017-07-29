@@ -1,0 +1,58 @@
+$$$Excess Volume Data Set 40	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.10457	0.01956	
+-0.28345	0.05995	
+-0.40195	0.10013	
+-0.5006	0.15957	
+-0.5547	0.22986	
+-0.5734	0.30243	
+-0.5717	0.35015	
+-0.5600	0.39875	
+-0.5425	0.45052	
+-0.5167	0.49724	
+-0.4846	0.54856	
+-0.4415	0.59972	
+-0.3930	0.64990	
+-0.3367	0.70212	
+-0.2831	0.74743	
+-0.21656	0.80082	
+-0.15263	0.85062	
+-0.08553	0.90514	
+-0.08015	0.91033	
+-0.036355	0.95022	
+Source	
+Park S.J.; Oh J.H.; Choi H.J.; Paek S.K.; Fischer K.; Gmehling J.: Phase Equilibria and the Excess Molar Volume of the Systems Acrylonitrile + Water, Acetonitrile + Water, and Acrylonitrile + Acetonitrile. Hwahak Konghak 35 (1997) 678-683	
+$$$Excess Volume Data Set 2331	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	308.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.04078	0.05000	
+-0.0858	0.10000	
+-0.14454	0.15000	
+-0.2125	0.20000	
+-0.2797	0.25000	
+-0.3427	0.30000	
+-0.4032	0.35000	
+-0.4525	0.40000	
+-0.4922	0.45000	
+-0.5228	0.50000	
+-0.5481	0.55000	
+-0.5664	0.60000	
+-0.5786	0.65000	
+-0.5809	0.70000	
+-0.5720	0.75000	
+-0.5437	0.80000	
+-0.4839	0.85000	
+-0.3827	0.90000	
+-0.2270	0.95000	
+Source	
+Moreau C.; Douheret G.: Excess Volumes and Viscosities. Thermochim.Acta 13 (1975) 385-392	
+Source	
+Park S.J.; Oh J.H.; Choi H.J.; Paek S.K.; Fischer K.; Gmehling J.: Phase Equilibria and the Excess Molar Volume of the Systems Acrylonitrile + Water, Acetonitrile + Water, and Acrylonitrile + Acetonitrile. Hwahak Konghak 35 (1997) 678-683	
+Moreau C.; Douheret G.: Excess Volumes and Viscosities. Thermochim.Acta 13 (1975) 385-392	

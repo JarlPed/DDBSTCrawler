@@ -1,0 +1,13 @@
+$$$Solid-Liquid Equilibrium Data Set 1422	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	
+243.15	0.99540	
+253.15	0.98260	
+263.15	0.94940	
+273.15	0.82680	
+283.15	0.50290	
+288.15	0.20290	
+Source	
+Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328	

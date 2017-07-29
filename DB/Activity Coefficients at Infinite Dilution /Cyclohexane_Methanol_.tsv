@@ -1,0 +1,12 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	CH4O	32.042	67-56-1	Methanol	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+273.15	240.00	DILU	1	
+283.15	118.80	STAT	2	
+293.15	77.800	STAT	2	
+Short Term	Explanation	
+DILU	dilutor	
+STAT	static method	
+1	Warsow K.: . Master's Thesis  (1987)	
+2	Pividal K.A.; Birtigh A.; Sandler S.I.: Infinite Dilution Activity Coefficients for Oxygenate Systems Determined Using a Differential Static Cell. J.Chem.Eng.Data 37 (1992) 484-487	

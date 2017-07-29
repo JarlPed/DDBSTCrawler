@@ -1,0 +1,8 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	CH4O	32.042	67-56-1	Methanol	
+3	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+hetPmax	325.450	101.325	0.70000	0.23500	n.a.	n.a.	Author	1	
+hetPmax	heterogeneous pressure maximum	
+1	Kudryavtseva L.S.; Susarev M.P.; Eizen O.G.: VII. Ternary Systems Containing Two Binary Azeotropes. Zh.Fiz.Khim. 43 (1969) 437-441	

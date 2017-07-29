@@ -1,0 +1,8 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C6H6	78.114	71-43-2	Benzene	
+3	C6H12	84.161	110-82-7	Cyclohexane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	n.a.	n.a.	Author	1	
+none	zeotropic	
+1	Chao K.C.; Hougen O.A.: Vapour-Liquid Equilibria in the Ternary System Ethyl Acetate-Benzene-Cyclohexane. Chem.Eng.Sci. 7 (1958) 246-260	

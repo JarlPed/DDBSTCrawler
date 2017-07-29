@@ -1,0 +1,13 @@
+$$$Solid-Liquid Equilibrium Data Set 14171	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	ClNa	58.442	7647-14-5	Sodium chloride	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+3	H2O	18.015	7732-18-5	Water	
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
+269.50	0.008518	0.017893	
+268.30	0.01762	0.015966	
+264.80	0.02830	0.02862	
+261.30	0.04059	0.038905	
+252.26	0.05893	0.05476	
+Source	
+Masoudi R.; Tohidi B.; Anderson R.; Burgass R.W.; Yang J.: Experimental Measurement and Thermodynamic Modelling of Clathrate Hydrate Equilibria and Salt Solubility in Aqueous Ethylene Glycol and Electrolyte Solutions. Fluid Phase Equilib. 219 (2004) 157-163	

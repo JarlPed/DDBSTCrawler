@@ -1,0 +1,46 @@
+$$$Solid-Liquid Equilibrium Data Set 2265	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+322.85	0.89640	
+288.85	0.97080	
+298.95	0.95780	
+308.35	0.94050	
+316.25	0.91710	
+320.15	0.90000	
+330.25	0.81840	
+336.15	0.70060	
+340.85	0.50350	
+Source	
+Sunier A.A.: The Solubility of Naphthalene in some Aliphatic Alcohols. J.Phys.Chem. 34 (1930) 2582-2597	
+$$$Solid-Liquid Equilibrium Data Set 2290	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+313.15	0.92700	
+Source	
+Rong W.Z.; Qian Y.: Solid-Liquid Equilibria Using UNIFAC Model. Jisuanji-yu-yingyong-huaxue 1 (1984) 173-177	
+$$$Solid-Liquid Equilibrium Data Set 3832	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C10H8	128.174	91-20-3	Naphthalene	
+2	C2H6O	46.069	64-17-5	Ethanol	
+T [K]	xL1 [mol/mol]	
+327.05	0.15000	
+331.35	0.20000	
+334.05	0.25000	
+335.65	0.30000	
+336.85	0.35000	
+338.45	0.40000	
+339.75	0.45000	
+340.45	0.50000	
+341.25	0.55000	
+342.25	0.60000	
+343.05	0.65000	
+344.35	0.70000	
+345.05	0.75000	
+345.55	0.80000	
+347.35	0.85000	
+Source	
+Yoshida T.; Yamada I.; Machii H.: Solid Liquid Equilibria with Crystals of Single Component. Kagaku Kogaku 32 (1968) 1091-1094	

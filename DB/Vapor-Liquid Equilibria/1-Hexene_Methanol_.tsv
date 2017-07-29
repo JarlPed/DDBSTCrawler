@@ -1,0 +1,63 @@
+$$$Vapor-Liquid Equilibrium Data Set 6150	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	CH4O	32.042	67-56-1	Methanol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+337.85	0.00000	0.00000	
+328.55	0.05000	0.35400	
+324.65	0.10000	0.47100	
+321.55	0.20000	0.53300	
+321.35	0.30000	0.55400	
+321.25	0.40000	0.56400	
+321.15	0.50000	0.57300	
+321.25	0.60000	0.58200	
+321.35	0.70000	0.59000	
+321.45	0.80000	0.60200	
+322.55	0.90000	0.63300	
+325.75	0.95000	0.72000	
+336.45	1.00000	1.00000	
+Source	
+Budantseva L.S.; Lesteva T.M.; Nemtsov M.S.: The Liquid Vapor Equilibria in Systems Comprising Methanol and C6 Hydrocarbons of Different Classes. Viniti  (1974) 1-17	
+$$$Vapor-Liquid Equilibrium Data Set 6508	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	CH4O	32.042	67-56-1	Methanol	
+Temperature	293.15	K	
+x1 [mol/mol]	y1 [mol/mol]	
+0.00000	0.00000	
+0.05000	0.37700	
+0.10000	0.53200	
+0.20000	0.59700	
+0.30000	0.61900	
+0.40000	0.62700	
+0.80000	0.62900	
+0.90000	0.69300	
+0.95000	0.79800	
+1.00000	1.00000	
+Source	
+Lesteva T.M.; Logunova G.I.; Chernaya V.I.: Certain Physicochemical Properties of Hex-1-ene-Solvent Systems. Zh.Fiz.Khim. 53 (1979) 1180-1183	
+$$$Vapor-Liquid Equilibrium Data Set 6509	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	CH4O	32.042	67-56-1	Methanol	
+Temperature	313.15	K	
+x1 [mol/mol]	y1 [mol/mol]	
+0.00000	0.00000	
+0.05000	0.34700	
+0.10000	0.47300	
+0.20000	0.53900	
+0.30000	0.55800	
+0.40000	0.57300	
+0.50000	0.58000	
+0.60000	0.58200	
+0.70000	0.58300	
+0.80000	0.58700	
+0.90000	0.64500	
+0.95000	0.74700	
+1.00000	1.00000	
+Source	
+Lesteva T.M.; Logunova G.I.; Chernaya V.I.: Certain Physicochemical Properties of Hex-1-ene-Solvent Systems. Zh.Fiz.Khim. 53 (1979) 1180-1183	
+Source	
+Budantseva L.S.; Lesteva T.M.; Nemtsov M.S.: The Liquid Vapor Equilibria in Systems Comprising Methanol and C6 Hydrocarbons of Different Classes. Viniti  (1974) 1-17	
+Lesteva T.M.; Logunova G.I.; Chernaya V.I.: Certain Physicochemical Properties of Hex-1-ene-Solvent Systems. Zh.Fiz.Khim. 53 (1979) 1180-1183	

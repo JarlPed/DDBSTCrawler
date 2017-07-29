@@ -1,0 +1,52 @@
+$$$Enthalpy of Mixing Data Set 3288	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+103.800	0.01050	
+201.300	0.02040	
+315.000	0.03460	
+394.300	0.04440	
+493.300	0.06050	
+567.700	0.07190	
+523.400	0.13700	
+511.500	0.16190	
+419.800	0.31350	
+264.100	0.55830	
+229.900	0.61400	
+119.100	0.79450	
+57.800	0.89110	
+-2.800	0.99010	
+-8.100	0.99910	
+-5.800	0.99940	
+-3.500	0.99960	
+-1.800	0.99980	
+Source	
+Richon D.; Viallard A.: I. Étude calorimétrique des systèmes eau/acétate d´alcoyle. Can.J.Chem. 54 (1976) 2584-2593	
+$$$Enthalpy of Mixing Data Set 7880	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
+Temperature	298.000	K	
+Pressure	1.000	bar	
+hE [J/mol]	x1 [mol/mol]	
+509.000	0.06900	
+552.000	0.11700	
+554.000	0.20000	
+523.000	0.29700	
+455.000	0.40000	
+390.000	0.49600	
+315.000	0.59100	
+230.000	0.70100	
+89.000	0.88000	
+73.000	0.90100	
+34.000	0.95100	
+20.000	0.97000	
+5.300	0.99000	
+-0.400	0.99800	
+Source	
+Bender M.; Heintz A.; Lichtenthaler R.N.: Excess Enthalpy of the System Butyl Acetate + Butan-1-ol + Acetic Acid + Water at 313 K and Ambient Pressure. Thermochim.Acta 187 (1991) 79-94	
+Source	
+Bender M.; Heintz A.; Lichtenthaler R.N.: Excess Enthalpy of the System Butyl Acetate + Butan-1-ol + Acetic Acid + Water at 313 K and Ambient Pressure. Thermochim.Acta 187 (1991) 79-94	
+Richon D.; Viallard A.: I. Étude calorimétrique des systèmes eau/acétate d´alcoyle. Can.J.Chem. 54 (1976) 2584-2593	

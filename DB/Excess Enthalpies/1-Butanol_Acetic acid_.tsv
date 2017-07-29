@@ -1,0 +1,43 @@
+$$$Enthalpy of Mixing Data Set 6524	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+70.090	0.02130	
+152.660	0.05980	
+254.010	0.11920	
+329.100	0.19450	
+374.730	0.27070	
+394.540	0.33820	
+403.340	0.40720	
+395.880	0.48820	
+359.220	0.59100	
+300.870	0.69150	
+239.230	0.76510	
+94.840	0.90430	
+Source	
+Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818	
+$$$Enthalpy of Mixing Data Set 7881	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	298.000	K	
+Pressure	1.000	bar	
+hE [J/mol]	x1 [mol/mol]	
+149.000	0.05000	
+251.000	0.09700	
+403.000	0.19900	
+480.000	0.29700	
+503.000	0.40300	
+491.000	0.50000	
+449.000	0.59900	
+390.000	0.70200	
+291.000	0.80300	
+171.000	0.90000	
+99.000	0.95000	
+Source	
+Bender M.; Heintz A.; Lichtenthaler R.N.: Excess Enthalpy of the System Butyl Acetate + Butan-1-ol + Acetic Acid + Water at 313 K and Ambient Pressure. Thermochim.Acta 187 (1991) 79-94	
+Source	
+Bender M.; Heintz A.; Lichtenthaler R.N.: Excess Enthalpy of the System Butyl Acetate + Butan-1-ol + Acetic Acid + Water at 313 K and Ambient Pressure. Thermochim.Acta 187 (1991) 79-94	
+Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818	

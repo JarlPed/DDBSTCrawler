@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	298.020	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	305.040	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	312.480	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	zeotropic	
+1	Gomez-Ibanez J.D.; Shieh J.J.C.: The Excess Free Energy of Mixtures of Cyclohexane and n-Hexadecane. J.Phys.Chem. 69 (1965) 1660-1666	

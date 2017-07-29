@@ -1,0 +1,12 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+298.15	26.500	GLCR	1	
+298.15	26.520	STAT	2	
+313.15	18.500	GLCR	1	
+Short Term	Explanation	
+GLCR	GLC (with gas phase correction)	
+STAT	static method	
+1	Kwantes A.; Rijnders G.W.A.: The determination of activity coefficients at infinite dilution by gas-liquid chromatography. Gas Chromatography 1958 : proceedings of the second symposium 2 (1958) 125-136	
+2	Dallas A.J.; Carr P.W.: Critical Evaluation of Predicted and Measured Gas-Liquid Partition Coefficients in n-Hexadecane. J.Phys.Chem. 98 (1994) 4927-4939	

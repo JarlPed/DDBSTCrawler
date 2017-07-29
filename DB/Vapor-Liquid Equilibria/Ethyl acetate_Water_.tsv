@@ -1,0 +1,46 @@
+$$$Vapor-Liquid Equilibrium Data Set 1130	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	H2O	18.015	7732-18-5	Water	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+347.25	0.94000	0.84900	
+347.75	0.95800	0.86900	
+348.95	0.97600	0.92200	
+Source	
+Griswold J.; Chu P.L.; Winsauer W.O.: (Separation of Synthesis Mixtures) Phase Equilibria in Ethyl Alcohol-Ethyl Acetate-Water System. Ind.Eng.Chem. 41 (1949) 2352-2358	
+$$$Vapor-Liquid Equilibrium Data Set 1131	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	H2O	18.015	7732-18-5	Water	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+347.95	0.97100	0.91400	
+348.15	0.97400	0.92700	
+348.75	0.98300	0.94700	
+349.05	0.98400	0.95300	
+348.85	0.98600	0.95400	
+Source	
+Garner F.H.; Ellis S.R.M.; Pearce C.J.: Extraction of Acetic from Water. Chem.Eng.Sci. 3 (1954) 48-54	
+$$$Vapor-Liquid Equilibrium Data Set 1132	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	H2O	18.015	7732-18-5	Water	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+372.00	0.00056	0.04055	
+369.35	0.00114	0.12560	
+359.65	0.00489	0.59100	
+349.35	0.00858	0.66800	
+343.70	0.04590	0.71400	
+343.60	0.69000	0.70700	
+343.65	0.77500	0.69900	
+344.60	0.87370	0.76500	
+346.50	0.94445	0.86500	
+348.70	0.98070	0.94110	
+Source	
+Ellis S.R.M.; Garbett R.D.: A New Equilibrium Still for the Study of Partially Miscible Systems. Ind.Eng.Chem. Int.Ed. 52 (1960) 385-388	
+Source	
+Ellis S.R.M.; Garbett R.D.: A New Equilibrium Still for the Study of Partially Miscible Systems. Ind.Eng.Chem. Int.Ed. 52 (1960) 385-388	
+Garner F.H.; Ellis S.R.M.; Pearce C.J.: Extraction of Acetic from Water. Chem.Eng.Sci. 3 (1954) 48-54	
+Griswold J.; Chu P.L.; Winsauer W.O.: (Separation of Synthesis Mixtures) Phase Equilibria in Ethyl Alcohol-Ethyl Acetate-Water System. Ind.Eng.Chem. 41 (1949) 2352-2358	

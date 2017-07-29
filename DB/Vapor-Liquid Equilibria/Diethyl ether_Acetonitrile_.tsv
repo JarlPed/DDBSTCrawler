@@ -1,0 +1,63 @@
+$$$Vapor-Liquid Equilibrium Data Set 420	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	293.65	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+9.413	0.00000	0.00000	
+23.465	0.09800	0.61500	
+33.464	0.20400	0.75000	
+42.876	0.38000	0.83100	
+53.996	0.75300	0.93100	
+59.608	1.00000	1.00000	
+Source	
+Joukovsky N.I.: XI. Contribution a l'Etude des Proprietes Thermodynamiques des Solutions Concentrees de Composes Organiques Azotes de la Serie Grasse. Bull.Soc.Chim.Belg. 43 (1934) 397-446	
+$$$Vapor-Liquid Equilibrium Data Set 11844	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	298.14	K	
+P [kPa]	x1 [mol/mol]	
+11.838	0.00000	
+20.705	0.04300	
+27.220	0.08150	
+35.070	0.14090	
+41.721	0.20680	
+48.469	0.30060	
+53.430	0.39620	
+57.490	0.49810	
+60.700	0.59650	
+63.660	0.69710	
+66.111	0.78570	
+67.870	0.85110	
+69.540	0.91420	
+70.450	0.95020	
+71.499	1.00000	
+Source	
+Srivastava R.; Natarajan G.; Smith B.D.: Total Pressure Vapor-Liquid Equilibrium Data for Binary Systems of Diethyl Ether with Acetone, Acetonitrile, and Methanol. J.Chem.Eng.Data 31 (1986) 89-93	
+$$$Vapor-Liquid Equilibrium Data Set 11845	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	338.16	K	
+P [kPa]	x1 [mol/mol]	
+58.630	0.00000	
+87.370	0.04280	
+109.110	0.08140	
+135.740	0.14040	
+158.900	0.20060	
+183.500	0.29970	
+201.910	0.39490	
+217.650	0.49720	
+230.020	0.59550	
+241.520	0.69640	
+250.419	0.78510	
+256.590	0.85080	
+262.050	0.91400	
+264.760	0.95010	
+267.430	1.00000	
+Source	
+Srivastava R.; Natarajan G.; Smith B.D.: Total Pressure Vapor-Liquid Equilibrium Data for Binary Systems of Diethyl Ether with Acetone, Acetonitrile, and Methanol. J.Chem.Eng.Data 31 (1986) 89-93	
+Source	
+Joukovsky N.I.: XI. Contribution a l'Etude des Proprietes Thermodynamiques des Solutions Concentrees de Composes Organiques Azotes de la Serie Grasse. Bull.Soc.Chim.Belg. 43 (1934) 397-446	
+Srivastava R.; Natarajan G.; Smith B.D.: Total Pressure Vapor-Liquid Equilibrium Data for Binary Systems of Diethyl Ether with Acetone, Acetonitrile, and Methanol. J.Chem.Eng.Data 31 (1986) 89-93	

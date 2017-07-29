@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	CH4	16.043	74-82-8	Methane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+nonesupercrit	421.050	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from VLE	1	
+nonesupercrit	461.850	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from VLE	1	
+nonesupercrit	501.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from VLE	1	
+nonesupercrit	zeotropic supercritical	
+1	Lin H.M.; Sebastian H.M.; Simnick J.J.; Chao K.-C.: Gas-Liquid Equilibrium in Binary Mixtures of Methane with n-Decane, Benzene, and Toluene. J.Chem.Eng.Data 24 (1979) 146-149	

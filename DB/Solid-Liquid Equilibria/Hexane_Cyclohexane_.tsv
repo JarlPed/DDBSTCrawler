@@ -1,0 +1,65 @@
+$$$Solid-Liquid Equilibrium Data Set 18	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+T [K]	xL1 [mol/mol]	
+279.73	0.00000	
+278.60	0.00450	
+270.87	0.03680	
+263.61	0.06750	
+251.67	0.11760	
+242.43	0.15530	
+231.83	0.19860	
+220.18	0.24660	
+208.79	0.29330	
+207.08	0.30080	
+199.95	0.32880	
+189.52	0.37160	
+186.12	0.38850	
+185.98	0.39130	
+184.67	0.41760	
+182.43	0.46020	
+180.26	0.50250	
+177.76	0.54540	
+175.09	0.59220	
+171.37	0.65570	
+170.59	0.66830	
+171.16	0.68750	
+171.88	0.72040	
+173.27	0.78200	
+174.61	0.84050	
+175.88	0.90650	
+176.73	0.94610	
+176.82	0.94990	
+177.73	0.99360	
+177.79	1.00000	
+Source	
+Goates J.R.; Ott J.B.; Moellmer J.F.; Farrell D.W.: (Solid + Liquid) Phase Equilibria in n-Hexane + Cyclohexane and Benzene + p-Xylene. J.Chem.Thermodyn. 11 (1979) 709-711	
+$$$Solid-Liquid Equilibrium Data Set 508	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+T [K]	xL1 [mol/mol]	
+262.75	0.07100	
+252.15	0.12800	
+233.15	0.18800	
+218.15	0.25200	
+201.15	0.30900	
+181.15	0.39400	
+173.15	0.55200	
+166.15	0.72700	
+173.15	0.82900	
+Source	
+Timmermans J.: VI. Application de l'analyse thermique à la détermination des courbes de congélation de mélanges binaires de composés organiques fondant à basse température. Bull.Soc.Chim.Belg. 37 (1928) 409-423	
+$$$Solid-Liquid Equilibrium Data Set 31635	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+T [K]	xS1 [mol/mol]	
+164.15	0.19600	
+164.15	0.39400	
+165.15	0.55200	
+164.15	0.72700	
+164.15	0.82900	
+Source	
+Timmermans J.: VI. Application de l'analyse thermique à la détermination des courbes de congélation de mélanges binaires de composés organiques fondant à basse température. Bull.Soc.Chim.Belg. 37 (1928) 409-423	

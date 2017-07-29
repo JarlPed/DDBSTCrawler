@@ -1,0 +1,12 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	CHCl3	119.377	67-66-3	Chloroform	
+3	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+hetPmax	324.950	101.325	0.10700	0.76400	n.a.	Distillation	Author	2	
+hetPmax	328.450	101.325	0.07700	0.79400	n.a.	n.a.	Author	1	
+hetPmax	328.600	101.325	0.08223	0.73382	n.a.	Distillation	Author	3	
+hetPmax	heterogeneous pressure maximum	
+1	Kudryavtseva L.S.; Susarev M.P.; Eizen O.G.: V. Reinvestigation of Certain Binary and Ternary Heteroazeotropes. Russ.J.Phys.Chem. 40 (1966) 895-897	
+2	Kudryavtseva L.S.; Toome M.Yu.; Susarev M.P.: XI. Calculation of the Compositions of Ternary Hydrocarbon (Halogenohydrocarbon) - Water - Ethyl (Butyl) Alcohol Ternary Azeotropes. Viniti  (1973) 1-7	
+3	Durrans T.H.: A Treatise on Distillation. Perfum.Essent.Oil Rec. 11 (1920) 154-198	

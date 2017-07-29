@@ -1,0 +1,13 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+298.15	6.3000	GLCR	2	
+303.15	4.6600	GLCN	1	
+305.85	5.0100	GLCR	3	
+Short Term	Explanation	
+GLCN	GLC (not specified)	
+GLCR	GLC (with gas phase correction)	
+1	Alimova G.V.; Pavlyuk N.F.; Gaile A.A.; Semenov L.V.: Untersuchung der Lösungsmittelselektivität beim Dearomatisierungsprozess der flüssigen Paraffine. Issledovanija v oblasti chimii i technologii produktov pererabotki gorjucich iskop.  (1980) 92-95	
+2	Kwantes A.; Rijnders G.W.A.: The determination of activity coefficients at infinite dilution by gas-liquid chromatography. Gas Chromatography 1958 : proceedings of the second symposium 2 (1958) 125-136	
+3	Alessi P.; Kikic I.; Fredenslund A.; Rasmussen P.: UNIFAC and Infinite Dilution Activity Coefficients. Can.J.Chem.Eng. 60 (1982) 300-304	

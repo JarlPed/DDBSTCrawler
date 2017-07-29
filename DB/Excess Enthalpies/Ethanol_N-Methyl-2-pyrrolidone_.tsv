@@ -1,0 +1,50 @@
+$$$Enthalpy of Mixing Data Set 10014	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-5.900	0.02950	
+-8.400	0.04590	
+-9.600	0.05160	
+-19.900	0.11200	
+Source	
+Sitnyakovskii I.B.; Semenov L.V.; Gaile A.A.; Koldobovskaya L.L.: Intermolecular interactions of N-methylpyrrolidone with oxygen-containing organic substances. Zh.Prikl.Khim. 63 (1990) 898-902	
+$$$Enthalpy of Mixing Data Set 16877	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+2	C2H6O	46.069	64-17-5	Ethanol	
+Temperature	298.150	K	
+Pressure	1.0132	bar	
+hE [J/mol]	x1 [mol/mol]	
+48.900	0.14470	
+57.200	0.18490	
+65.000	0.24130	
+61.200	0.35210	
+16.200	0.54730	
+15.700	0.56130	
+7.700	0.57400	
+-12.700	0.68050	
+-15.800	0.70990	
+-20.300	0.71760	
+-24.900	0.74060	
+Source	
+Letcher T.M.; Lachwa J.; Domanska U.: The excess molar enthalpies and volumes of (N-methyl-2-pyrrolidinone + an alkan-a-ol) at T = 298.15 K. J.Chem.Thermodyn. 34 (2002) 1581-1599	
+$$$Enthalpy of Mixing Data Set 21962	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+2	C2H6O	46.069	64-17-5	Ethanol	
+Temperature	298.150	K	
+Pressure	1.0132	bar	
+hE [J/mol]	x1 [mol/mol]	
+1.600	0.00269	
+1.700	0.002804	
+1.600	0.002817	
+1.700	0.002842	
+2.000	0.002893	
+Source	
+Kimura F.; Sugiura T.; Ogawa H.: Solvation of N-methyl-2-pyrrolidone and N,N-dimethylpropanamide in cyclohexane, heptane, n-alkan-1-ols(C1C4) and water at 298.15 K. Thermochim.Acta 573 (2013) 206-212	
+Source	
+Sitnyakovskii I.B.; Semenov L.V.; Gaile A.A.; Koldobovskaya L.L.: Intermolecular interactions of N-methylpyrrolidone with oxygen-containing organic substances. Zh.Prikl.Khim. 63 (1990) 898-902	
+Letcher T.M.; Lachwa J.; Domanska U.: The excess molar enthalpies and volumes of (N-methyl-2-pyrrolidinone + an alkan-a-ol) at T = 298.15 K. J.Chem.Thermodyn. 34 (2002) 1581-1599	
+Kimura F.; Sugiura T.; Ogawa H.: Solvation of N-methyl-2-pyrrolidone and N,N-dimethylpropanamide in cyclohexane, heptane, n-alkan-1-ols(C1C4) and water at 298.15 K. Thermochim.Acta 573 (2013) 206-212	

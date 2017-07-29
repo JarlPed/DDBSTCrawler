@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H14	86.177	110-54-3	Hexane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	298.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	2	
+homPmax	298.150	20.216	n.a.	0.90882	n.a.	Author	3	
+homPmax	341.650	101.325	n.a.	0.94800	n.a.	Author	1	
+homPmax	homogeneous pressure maximum	
+1	Marschner R.F.; Cropper W.P.: Hydrocarbon Azeotropes of Benzene. Ind.Eng.Chem. 38 (1946) 262-268	
+2	Smith V.C.; Robinson, Jr.R.L.: Vapor-Liquid Equilibria at 25°C in the Binary Mixtures Formed by Hexane, Benzene and Ethanol. J.Chem.Eng.Data 15 (1970) 391-395	
+3	Harris K.R.; Dunlop P.J.: Vapor Pressures and Excess Gibbs Energies of Mixtures of Benzene with Chlorobenzene, n-Hexane and n-Heptane at 25°C. J.Chem.Thermodyn. 2 (1970) 805-811	

@@ -1,0 +1,68 @@
+$$$Vapor-Liquid Equilibrium Data Set 1621	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	323.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+5.306	0.00650	0.13430	
+19.678	0.14460	0.78580	
+24.065	0.20830	0.83740	
+27.104	0.26630	0.86110	
+31.357	0.39540	0.88910	
+34.264	0.55580	0.90840	
+35.864	0.68920	0.91990	
+36.597	0.78070	0.92670	
+37.024	0.84180	0.93430	
+37.277	0.89000	0.93830	
+37.370	0.94870	0.95120	
+37.437	0.95890	0.95330	
+37.357	0.97040	0.95820	
+36.704	0.99640	0.99100	
+Source	
+Vonka P.; Svoboda V.; Strubl K.; Holub R.: XLVI System Cyclohexane-1-Butanol at 50 and 70°C. Collect.Czech.Chem.Commun. 36 (1971) 18-34	
+$$$Vapor-Liquid Equilibrium Data Set 1622	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	343.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+18.865	0.02130	0.28180	
+25.398	0.05920	0.48440	
+37.677	0.12050	0.66480	
+44.716	0.17210	0.73240	
+50.463	0.21220	0.76750	
+59.742	0.31790	0.82420	
+63.968	0.39830	0.83650	
+67.114	0.46090	0.85450	
+72.701	0.66010	0.88120	
+74.861	0.78030	0.90660	
+75.540	0.88600	0.91870	
+76.127	0.89550	0.91740	
+75.767	0.92280	0.92370	
+75.554	0.96910	0.94750	
+74.634	0.98330	0.97200	
+74.541	0.98470	0.97340	
+Source	
+Vonka P.; Svoboda V.; Strubl K.; Holub R.: XLVI System Cyclohexane-1-Butanol at 50 and 70°C. Collect.Czech.Chem.Commun. 36 (1971) 18-34	
+$$$Vapor-Liquid Equilibrium Data Set 2178	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	383.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+77.754	0.00000	0.00000	
+121.107	0.10000	0.41170	
+153.897	0.20000	0.57790	
+178.521	0.30000	0.65630	
+196.896	0.40000	0.70170	
+210.448	0.50000	0.75220	
+220.123	0.60000	0.77920	
+226.387	0.70000	0.79840	
+229.212	0.80000	0.82610	
+228.093	0.90000	0.87500	
+222.040	1.00000	1.00000	
+Source	
+Ramalho R.S.; Delmas J.: Isothermal and Isobaric Vapor-Liquid Equilibrium Data and Excess Free Energies by the Total Pressure Method. J.Chem.Eng.Data 13 (1968) 161-164	
+Source	
+Vonka P.; Svoboda V.; Strubl K.; Holub R.: XLVI System Cyclohexane-1-Butanol at 50 and 70°C. Collect.Czech.Chem.Commun. 36 (1971) 18-34	
+Ramalho R.S.; Delmas J.: Isothermal and Isobaric Vapor-Liquid Equilibrium Data and Excess Free Energies by the Total Pressure Method. J.Chem.Eng.Data 13 (1968) 161-164	

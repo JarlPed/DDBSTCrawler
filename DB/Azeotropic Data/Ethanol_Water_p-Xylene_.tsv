@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	H2O	18.015	7732-18-5	Water	
+3	C8H10	106.167	106-42-3	p-Xylene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmaxMisGap	n.a.	101.300	n.a.	n.a.	n.a.	Phase equilibrium	Author	2	
+homPmaxMisGap	334.030	49.400	0.77700	0.16000	n.a.	Phase equilibrium	Author from VLE by regression	1	
+homPmaxMisGap	348.370	90.400	0.77200	0.17000	n.a.	Phase equilibrium	Author from VLE by regression	1	
+homPmaxMisGap	homogeneous pressure maximum miscibility gap	
+1	Fele L.; Stemberger N.Z.; Grilc V.: Separation of Water + Ethanol + (o-, m-, p-) Xylene Systems. J.Chem.Eng.Data 45 (2000) 784-791	
+2	Gomis V.; Pequenin A.; Asensi J.C.: Isobaric vapor-liquid-liquid equilibrium and vapor-liquid equilibrium for the system water-ethanol-1,4-dimethylbenzene at 101.3 kPa. Fluid Phase Equilib. 281 (2009) 1-4	

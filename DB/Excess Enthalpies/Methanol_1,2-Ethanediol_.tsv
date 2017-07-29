@@ -1,0 +1,77 @@
+$$$Enthalpy of Mixing Data Set 687	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+53.000	0.26400	
+70.000	0.32100	
+80.000	0.37000	
+89.000	0.43000	
+93.000	0.47150	
+96.000	0.51810	
+99.000	0.54810	
+97.000	0.57310	
+101.000	0.62900	
+102.000	0.65500	
+97.000	0.72620	
+89.000	0.77570	
+88.000	0.78030	
+76.000	0.82700	
+66.000	0.84600	
+43.000	0.91500	
+Source	
+Jimenez E.; Paz-Andrade M.I.; Casanova C.: Enthalpies and Volumes of Mixing of 1,2-Ethanediol - n-Alkanol Systems. J.Chim.Phys.Phys.-Chim.Biol. 76 (1979) 46-50	
+$$$Enthalpy of Mixing Data Set 13974	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Temperature	285.650	K	
+Pressure	1.010	bar	
+hE [J/mol]	x1 [mol/mol]	
+12.000	0.05000	
+31.000	0.10000	
+48.000	0.15000	
+60.000	0.20000	
+75.000	0.25000	
+85.000	0.30000	
+94.000	0.35000	
+103.000	0.40000	
+110.000	0.45000	
+113.000	0.50000	
+114.000	0.55000	
+114.000	0.60000	
+110.000	0.65000	
+101.000	0.70000	
+Source	
+Kracht C.; Ulbig P.; Schulz S.: Molar excess enthalpies of binary mixtures of the three glycols ethanediol, 1,2-propanediol and 1,2-butanediol with methanol or ethanol. Thermochim.Acta 337 (1999) 209-217	
+$$$Enthalpy of Mixing Data Set 13975	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Temperature	298.150	K	
+Pressure	1.010	bar	
+hE [J/mol]	x1 [mol/mol]	
+12.000	0.05000	
+48.000	0.15000	
+60.000	0.20000	
+75.000	0.25000	
+89.000	0.30000	
+100.000	0.35000	
+108.000	0.40000	
+118.000	0.45000	
+123.000	0.50000	
+124.000	0.55000	
+124.000	0.60000	
+121.000	0.65000	
+115.000	0.70000	
+106.000	0.75000	
+94.000	0.80000	
+77.000	0.85000	
+58.000	0.90000	
+32.000	0.95000	
+Source	
+Kracht C.; Ulbig P.; Schulz S.: Molar excess enthalpies of binary mixtures of the three glycols ethanediol, 1,2-propanediol and 1,2-butanediol with methanol or ethanol. Thermochim.Acta 337 (1999) 209-217	
+Source	
+Jimenez E.; Paz-Andrade M.I.; Casanova C.: Enthalpies and Volumes of Mixing of 1,2-Ethanediol - n-Alkanol Systems. J.Chim.Phys.Phys.-Chim.Biol. 76 (1979) 46-50	
+Kracht C.; Ulbig P.; Schulz S.: Molar excess enthalpies of binary mixtures of the three glycols ethanediol, 1,2-propanediol and 1,2-butanediol with methanol or ethanol. Thermochim.Acta 337 (1999) 209-217	

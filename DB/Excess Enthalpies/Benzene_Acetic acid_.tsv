@@ -1,0 +1,44 @@
+$$$Enthalpy of Mixing Data Set 1010	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	293.150	K	
+hE [J/mol]	x1 [mol/mol]	
+217.714	0.08200	
+293.076	0.13800	
+343.317	0.19600	
+368.438	0.25800	
+389.372	0.42100	
+360.065	0.59800	
+343.317	0.62400	
+276.329	0.71100	
+284.702	0.75500	
+96.296	0.92000	
+Source	
+Liszi J.: Study of Thermodynamic Properties of Binary Mixtures containing Acetic Acid. Acta Chim.Acad.Sci.Hung. 66 (1970) 411-430	
+$$$Enthalpy of Mixing Data Set 1011	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	308.150	K	
+hE [J/mol]	x1 [mol/mol]	
+31.400	0.01940	
+50.660	0.03340	
+118.490	0.09160	
+130.630	0.10340	
+190.080	0.17690	
+259.580	0.29780	
+286.380	0.40620	
+285.960	0.50810	
+266.280	0.62060	
+231.950	0.70610	
+182.540	0.80640	
+119.320	0.90260	
+117.230	0.90680	
+86.250	0.94710	
+66.990	0.96480	
+Source	
+Nagata I.; Nagashima M.; Kazuma K.; Nagagawa M.: Heats of Mixing for Binary Systems and Data Reduction Based on a Triplet Model of Guggenheim. J.Chem.Eng.Japan 8 (1975) 261-265	
+Source	
+Liszi J.: Study of Thermodynamic Properties of Binary Mixtures containing Acetic Acid. Acta Chim.Acad.Sci.Hung. 66 (1970) 411-430	
+Nagata I.; Nagashima M.; Kazuma K.; Nagagawa M.: Heats of Mixing for Binary Systems and Data Reduction Based on a Triplet Model of Guggenheim. J.Chem.Eng.Japan 8 (1975) 261-265	

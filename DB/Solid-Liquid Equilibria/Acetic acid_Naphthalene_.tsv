@@ -1,0 +1,33 @@
+$$$Solid-Liquid Equilibrium Data Set 1177	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H4O2	60.053	64-19-7	Acetic acid	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+348.25	0.18200	
+341.45	0.41800	
+338.05	0.52300	
+332.75	0.65900	
+323.55	0.80450	
+318.35	0.85100	
+309.65	0.89840	
+302.15	0.92700	
+296.65	0.94200	
+288.75	0.95630	
+Source	
+Ward H.L.: The Solubility Relations of Naphthalene. J.Phys.Chem. 30 (1926) 1316-1333	
+$$$Solid-Liquid Equilibrium Data Set 2296	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H4O2	60.053	64-19-7	Acetic acid	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+313.15	0.88300	
+Source	
+Rong W.Z.; Qian Y.: Solid-Liquid Equilibria Using UNIFAC Model. Jisuanji-yu-yingyong-huaxue 1 (1984) 173-177	
+$$$Solid-Liquid Equilibrium Data Set 49308	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C10H8	128.174	91-20-3	Naphthalene	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+T [K]	xL1 [mol/mol]	
+298.15	0.05420	
+Source	
+Van Meter F.M.; Neumann H.M.: Solvation of the Tris(1,10-phenanthroline)iron(II) Cation as Measured by Solubility and Nuclear Magnetic Resonance Shifts. J.Am.Chem.Soc. 98 (1976) 1382-1388	

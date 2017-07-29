@@ -1,0 +1,68 @@
+$$$Vapor-Liquid Equilibrium Data Set 202	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+391.25	0.00000	0.00000	
+383.15	0.05000	0.16200	
+376.95	0.10000	0.30600	
+366.25	0.20000	0.55700	
+358.95	0.30000	0.72500	
+352.85	0.40000	0.84000	
+347.75	0.50000	0.91200	
+343.35	0.60000	0.94700	
+339.25	0.70000	0.96900	
+335.75	0.80000	0.98400	
+332.35	0.90000	0.99300	
+329.25	1.00000	1.00000	
+Source	
+Othmer D.F.: Composition of Vapors from Boiling Binary Solutions. Ind.Eng.Chem. 35 (1943) 614-620	
+$$$Vapor-Liquid Equilibrium Data Set 268	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+385.25	0.04200	0.10800	
+380.55	0.10300	0.25700	
+379.45	0.12000	0.28900	
+379.25	0.12700	0.31000	
+378.55	0.11800	0.30300	
+377.75	0.15800	0.35600	
+374.55	0.19400	0.43300	
+371.85	0.18600	0.46400	
+367.45	0.22600	0.56400	
+365.65	0.23600	0.58000	
+363.55	0.27100	0.63000	
+360.15	0.29400	0.66000	
+359.45	0.30700	0.70900	
+351.75	0.43300	0.84400	
+347.35	0.53800	0.92000	
+343.95	0.55000	0.91800	
+338.75	0.66800	0.96600	
+336.75	0.76100	0.98100	
+333.85	0.93500	0.99700	
+Source	
+York R.; Holmes R.C.: Vapor-Liquid Equilibria of the System Acetone-Acetic Acid-Water. Ind.Eng.Chem. Ind.Ed. 34 (1942) 345-350	
+$$$Vapor-Liquid Equilibrium Data Set 3811	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	303.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+2.640	0.00000	0.00000	
+6.906	0.15100	0.65600	
+11.732	0.29320	0.83020	
+18.558	0.48130	0.92820	
+20.692	0.54060	0.94730	
+23.465	0.61360	0.96560	
+27.184	0.72420	0.98300	
+32.464	0.87360	0.99550	
+36.530	1.00000	1.00000	
+Source	
+Meehan G.F.; Murphy N.F.: A New Correlation for Binary Systems with an Associating Component. Chem.Eng.Sci. 20 (1965) 757-769	
+Source	
+York R.; Holmes R.C.: Vapor-Liquid Equilibria of the System Acetone-Acetic Acid-Water. Ind.Eng.Chem. Ind.Ed. 34 (1942) 345-350	
+Othmer D.F.: Composition of Vapors from Boiling Binary Solutions. Ind.Eng.Chem. 35 (1943) 614-620	
+Meehan G.F.; Murphy N.F.: A New Correlation for Binary Systems with an Associating Component. Chem.Eng.Sci. 20 (1965) 757-769	

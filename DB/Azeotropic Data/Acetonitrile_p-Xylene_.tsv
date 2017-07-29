@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	28.000	n.a.	n.a.	n.a.	Author	2	
+none	n.a.	101.300	n.a.	n.a.	n.a.	Author	2	
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1	
+none	zeotropic	
+1	Bagga O.P.; Katyal R.C.; Raju K.S.N.: Acetonitrile-Ethylbenzene and Acetonitrile-p-Xylene. J.Chem.Eng.Data 22 (1977) 416-418	
+2	Di Cave S.; Mazzarotta B.: Isobaric Vapor-Liquid Equilibria for the Binary Systems Formed by Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 36 (1991) 293-297	

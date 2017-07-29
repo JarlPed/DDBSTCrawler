@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	Distillation	Author	1	
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	3	
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	2	
+none	zeotropic	
+1	Lecat M.: Tome Premier: Azeotropes binaires orthobares. Tables Azeotropiques. Tome Premier: Azeotropes binaires orthobares  (1949) 1-406	
+2	Conti J.J.; Othmer D.F.; Gilmont R.: Composition of Vapors from Boiling Binary Solutions. Systems Containing Formic Acid, Acetic Acid, Water and Chloroform. J.Chem.Eng.Data 5 (1960) 301-307	
+3	Shishkin K.N.; Kotsyuba A.A.; Eltsova T.P.: Dampf-Flüssig-Gleichgewicht in Vierkomponentenmischungen. Ukr.Khim.Zh.(Russ.Ed.) 30 (1964) 137-143	

@@ -1,0 +1,83 @@
+$$$Enthalpy of Mixing Data Set 789	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C6H14	86.177	110-54-3	Hexane	
+Temperature	318.150	K	
+hE [J/mol]	x1 [mol/mol]	
+660.000	0.16320	
+690.000	0.18400	
+756.000	0.28670	
+761.000	0.31550	
+748.000	0.52510	
+749.000	0.53520	
+606.000	0.75590	
+594.000	0.77090	
+594.000	0.77120	
+359.000	0.90470	
+Source	
+Brown I.; Fock W.; Smith F.: V. Systems of n-Alcohols with n-Hexane. Aust.J.Chem. 17 (1964) 1106-1118	
+$$$Enthalpy of Mixing Data Set 5805	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C6H14	86.177	110-54-3	Hexane	
+Temperature	298.150	K	
+Pressure	2.100	bar	
+hE [J/mol]	x1 [mol/mol]	
+273.300	0.03600	
+309.100	0.05160	
+345.800	0.07150	
+394.600	0.10480	
+420.100	0.12540	
+461.300	0.16580	
+487.200	0.19920	
+501.900	0.22070	
+516.000	0.25180	
+452.200	0.81900	
+419.300	0.84620	
+383.200	0.87000	
+325.800	0.90040	
+225.400	0.92960	
+164.600	0.95930	
+67.900	0.98470	
+Source	
+van Ness H.C.; Abbott M.M.: Excess Enthalpy. Int.Data Series Sel.Data Mixtures Ser. A 1976 (1976) 1-52	
+$$$Enthalpy of Mixing Data Set 5806	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C6H14	86.177	110-54-3	Hexane	
+Temperature	303.150	K	
+Pressure	2.100	bar	
+hE [J/mol]	x1 [mol/mol]	
+176.000	0.01040	
+206.600	0.01410	
+234.500	0.01870	
+263.300	0.02490	
+288.700	0.03180	
+310.300	0.03880	
+329.800	0.04600	
+351.900	0.05620	
+430.100	0.10100	
+488.400	0.15030	
+529.200	0.19680	
+579.600	0.28920	
+583.100	0.30040	
+587.700	0.31430	
+588.000	0.31870	
+533.000	0.74920	
+525.700	0.76050	
+518.200	0.77010	
+503.700	0.78720	
+479.500	0.81120	
+449.900	0.83520	
+415.200	0.85870	
+359.900	0.88880	
+312.700	0.91010	
+256.000	0.93170	
+208.300	0.94740	
+152.500	0.96370	
+92.500	0.97920	
+Source	
+van Ness H.C.; Abbott M.M.: Excess Enthalpy. Int.Data Series Sel.Data Mixtures Ser. A 1976 (1976) 1-52	
+Source	
+Brown I.; Fock W.; Smith F.: V. Systems of n-Alcohols with n-Hexane. Aust.J.Chem. 17 (1964) 1106-1118	
+van Ness H.C.; Abbott M.M.: Excess Enthalpy. Int.Data Series Sel.Data Mixtures Ser. A 1976 (1976) 1-52	

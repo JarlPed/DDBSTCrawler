@@ -1,0 +1,24 @@
+$$$Excess Heat Capacity Data Set 472	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C6H14	86.177	110-54-3	Hexane	
+Temperature	298.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+0.3100	0.06110	
+0.4100	0.06670	
+0.5100	0.07470	
+0.5700	0.07490	
+1.0400	0.12400	
+1.0800	0.19520	
+3.2100	0.40120	
+3.0700	0.40360	
+3.4900	0.61230	
+2.4200	0.68880	
+1.7600	0.79490	
+2.4300	0.80330	
+1.0100	0.89250	
+0.8700	0.93710	
+Source	
+Saint-Victor M.E.; Patterson D.: The W-Shape Concentration Dependence of CPE and Solution Non-Randomness: Ketones + Normal and Branched Alkanes. Fluid Phase Equilib. 35 (1987) 237-252	
+Source	
+Saint-Victor M.E.; Patterson D.: The W-Shape Concentration Dependence of CPE and Solution Non-Randomness: Ketones + Normal and Branched Alkanes. Fluid Phase Equilib. 35 (1987) 237-252	

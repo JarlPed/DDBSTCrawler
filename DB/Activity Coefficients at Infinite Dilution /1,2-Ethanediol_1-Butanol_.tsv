@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+313.15	5.3800	GLCI	1	
+323.15	5.0400	GLCI	1	
+333.15	5.0000	GLCI	1	
+Short Term	Explanation	
+GLCI	GLC (without gas phase correction)	
+1	Endler I.: Untersuchungen zur Bestimmung der Grenzaktivitätskoeffizienten von Ethandiol- und 2,2-Oxy-Diethanol (Diethylenglycol)-Systemen. Thesis  (1983)	

@@ -1,0 +1,30 @@
+$$$Enthalpy of Mixing Data Set 21837	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C4H8O2	88.106	141-78-6	Acetic acid butyl ester	
+Temperature	298.000	K	
+Pressure	1.000	bar	
+hE [J/mol]	x1 [mol/mol]	
+23.200	0.09910	
+43.700	0.19820	
+59.400	0.29930	
+70.000	0.39930	
+76.000	0.49820	
+74.700	0.59940	
+67.000	0.69850	
+52.400	0.79880	
+30.000	0.89950	
+Source	
+Laavi H.; Pokki J.-P.; Uusi-Kyyny P.; Massimi A.; Kim Y.; Sapei E.; Alopaeus V.: VaporLiquid Equilibrium at 350 K, Excess Molar Enthalpies at 298 K, and Excess Molar Volumes at 298 K of Binary Mixtures Containing Ethyl Acetate, Butyl Acetate, and 2-Butanol. J.Chem.Eng.Data 58 (2013) 1011-1019	
+$$$Enthalpy of Mixing Data Set 22351	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C4H8O2	88.106	141-78-6	Acetic acid butyl ester	
+Temperature	303.150	K	
+hE [J/mol]	x1 [mol/mol]	
+31.000	0.50000	
+Source	
+Deshpande D.D.; Prabhu C.S.: Heats of Mixing and Contact Interaction of Hydrocarbons with n-Alkyl Acetates. J.Phys.Chem. 85 (1981) 1261-1264	
+Source	
+Deshpande D.D.; Prabhu C.S.: Heats of Mixing and Contact Interaction of Hydrocarbons with n-Alkyl Acetates. J.Phys.Chem. 85 (1981) 1261-1264	
+Laavi H.; Pokki J.-P.; Uusi-Kyyny P.; Massimi A.; Kim Y.; Sapei E.; Alopaeus V.: VaporLiquid Equilibrium at 350 K, Excess Molar Enthalpies at 298 K, and Excess Molar Volumes at 298 K of Binary Mixtures Containing Ethyl Acetate, Butyl Acetate, and 2-Butanol. J.Chem.Eng.Data 58 (2013) 1011-1019	

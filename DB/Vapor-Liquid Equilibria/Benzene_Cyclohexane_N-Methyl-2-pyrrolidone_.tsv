@@ -1,0 +1,26 @@
+$$$Vapor-Liquid Equilibrium Data Set 30029	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	342.85	K	
+P [kPa]	x1 [mol/mol]	x2 [mol/mol]	
+43.180	0.03950	0.15930	
+57.570	0.07830	0.31570	
+64.130	0.12050	0.48550	
+68.710	0.15740	0.63420	
+39.200	0.07960	0.11940	
+55.540	0.16130	0.24180	
+64.070	0.24280	0.36410	
+70.180	0.31700	0.47530	
+31.970	0.11590	0.07930	
+50.290	0.23750	0.16240	
+60.680	0.35280	0.24130	
+69.410	0.47550	0.32520	
+24.600	0.15740	0.03820	
+42.970	0.32020	0.07780	
+56.000	0.48590	0.11810	
+66.500	0.46100	0.15580	
+Source	
+Dojcansky J.; Surovy J.: Influence of N-Methylpyrrolidone on the Relative Volatility in the System Benzene - Cyclohexane. Chem.Papers 50 (1996) 258-261	
+Source	

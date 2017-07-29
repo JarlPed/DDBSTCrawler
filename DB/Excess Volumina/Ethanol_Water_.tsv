@@ -1,0 +1,103 @@
+$$$Excess Volume Data Set 70	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.0500	0.01280	
+-0.0880	0.02130	
+-0.1510	0.03410	
+-0.2340	0.04960	
+-0.3200	0.06510	
+-0.4090	0.08070	
+-0.4870	0.09540	
+-0.5750	0.11310	
+-0.6420	0.12780	
+-0.7500	0.15600	
+-0.8840	0.20380	
+-0.9270	0.22670	
+-0.9860	0.26310	
+-1.0600	0.35050	
+-1.0680	0.39540	
+-1.0670	0.46190	
+-0.9990	0.57450	
+-0.6780	0.78050	
+-0.4540	0.86650	
+-0.2220	0.93730	
+Source	
+Grolier J.-P.E.; Wilhelm E.: Excess Volumes and Excess Heat Capacities of Water + Ethanol at 298.15 K. Fluid Phase Equilib. 6 (1981) 283-287	
+$$$Excess Volume Data Set 946	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	298.150	K	
+Pressure	0.400	bar	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.0400	0.01060	
+-0.0910	0.02160	
+-0.1490	0.03330	
+-0.2140	0.04550	
+-0.2880	0.05830	
+-0.3600	0.07180	
+-0.4420	0.08610	
+-0.5220	0.10120	
+-0.5970	0.11710	
+-0.6720	0.13400	
+-0.8020	0.17110	
+-0.9080	0.21320	
+-0.9890	0.26140	
+-1.0410	0.31710	
+-1.0690	0.36510	
+-1.0800	0.41940	
+-1.0800	0.45990	
+-1.0650	0.50430	
+-1.0310	0.55330	
+-0.9830	0.60760	
+-0.8990	0.66810	
+-0.8480	0.70090	
+-0.7830	0.73590	
+-0.7140	0.77300	
+-0.6160	0.81250	
+-0.5050	0.85470	
+-0.3710	0.89980	
+-0.2040	0.94810	
+Source	
+Ott J.B.; Sipowska J.T.; Gruszkiewicz M.S.; Woolley A.T.: Excess Volumes for (Ethanol + Water) at the Temperatures (298.15 and 348.15) K and Pressures (0.4, 5, and 15) MPa and at the Temperature 323.15 K and Pressures (5 and 15) MPa. J.Chem.Thermodyn. 25 (1993) 307-318	
+$$$Excess Volume Data Set 947	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	298.150	K	
+Pressure	5.000	bar	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.0600	0.01610	
+-0.0830	0.02170	
+-0.1410	0.03340	
+-0.2040	0.04560	
+-0.2720	0.05850	
+-0.3420	0.07200	
+-0.4220	0.08630	
+-0.4990	0.10150	
+-0.5750	0.11740	
+-0.7470	0.16180	
+-0.8770	0.21370	
+-0.9550	0.26190	
+-1.0080	0.31780	
+-1.0370	0.36580	
+-1.0430	0.40120	
+-1.0400	0.46060	
+-1.0230	0.50500	
+-0.9910	0.55400	
+-0.9360	0.60820	
+-0.8650	0.66870	
+-0.8110	0.70160	
+-0.7550	0.73650	
+-0.5920	0.81300	
+-0.4850	0.85510	
+-0.3520	0.90010	
+-0.1910	0.94820	
+Source	
+Ott J.B.; Sipowska J.T.; Gruszkiewicz M.S.; Woolley A.T.: Excess Volumes for (Ethanol + Water) at the Temperatures (298.15 and 348.15) K and Pressures (0.4, 5, and 15) MPa and at the Temperature 323.15 K and Pressures (5 and 15) MPa. J.Chem.Thermodyn. 25 (1993) 307-318	
+Source	
+Grolier J.-P.E.; Wilhelm E.: Excess Volumes and Excess Heat Capacities of Water + Ethanol at 298.15 K. Fluid Phase Equilib. 6 (1981) 283-287	
+Ott J.B.; Sipowska J.T.; Gruszkiewicz M.S.; Woolley A.T.: Excess Volumes for (Ethanol + Water) at the Temperatures (298.15 and 348.15) K and Pressures (0.4, 5, and 15) MPa and at the Temperature 323.15 K and Pressures (5 and 15) MPa. J.Chem.Thermodyn. 25 (1993) 307-318	

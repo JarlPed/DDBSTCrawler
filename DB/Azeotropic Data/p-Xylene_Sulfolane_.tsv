@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C8H10	106.167	106-42-3	p-Xylene	
+2	C4H8O2S	120.172	126-33-0	Sulfolane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.330	n.a.	n.a.	Phase equilibrium	Author	2	
+none	348.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from VLE by regression	1	
+none	zeotropic	
+1	Yu Y.-X.; Gao G.-H.; Tong J.S.: Experimental Determination of Vapour-Liquid Equilibria of Sulfolane-Aromatic Hydrocarbon Systems and their Correlation. Proceedings / International Symposium on Thermodynamics in Chemical Engineering and Industry (ISTCEI)  (1994) 420-425	
+2	Yu Y.-X.; He M.-Y.; Gao G.-H.; Li Z.-C.: Boiling points for five binary systems of sulfolane with aromatic hydrocarbons at 101.33 kPa. Fluid Phase Equilib. 190 (2001) 61-71	

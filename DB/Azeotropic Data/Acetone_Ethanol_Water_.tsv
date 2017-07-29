@@ -1,0 +1,8 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H6O	46.069	64-17-5	Ethanol	
+3	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+none	323.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	1	
+none	zeotropic	
+1	Chaudhry M.M.; van Ness H.C.; Abbott M.M.: 6. Total-Pressure Data and GE for Acetone-Ethanol-Water at 50°C. J.Chem.Eng.Data 25 (1980) 254-257	

@@ -1,0 +1,826 @@
+Formula	Molar Mass	CAS Registry Number	Name	
+C8H10	106.167	106-42-3	p-Xylene	
+$$$Compressibility (isentropic)	
+T [K]	P [kPa]	Compressibility (isentropic) [/kPa]	State	Reference	
+298.15		6.80590005686E-007	Liquid	3	
+303.15		7.02999955138E-007	Liquid	1	
+303.15	100.000	7.02400029695E-007	Liquid	2	
+303.15	10000.000	6.4350001594E-007	Liquid	2	
+303.15	20000.000	5.95400024395E-007	Liquid	2	
+303.15	30000.000	5.57600003503E-007	Liquid	2	
+303.15	40000.000	5.23799997154E-007	Liquid	2	
+303.15	50000.000	4.94400012485E-007	Liquid	2	
+Number	Source	
+1	Rao D.N.; Krishnaiah A.; Naidu P.R.: Excess Thermodynamic Properties of Liquid (Ethylenediamine + an Aromatic Hydrocarbon).. J.Chem.Thermodyn. 13 (1981) 677-682	
+2	Takagi T.: Ultrasonic Speeds and Thermodynamics of (Benzene + an Isomeric Xylene) under High Pressures. J.Chem.Thermodyn. 13 (1981) 291-299	
+3	Tardajos G.; Diaz Pena M.; Aicart E.: Speed of sound in pure liquids by a pulse-echo-overlap method. J.Chem.Thermodyn. 18 (1986) 683-689	
+$$$Critical Data	
+T [K]	P [kPa]	State	Reference	
+615.90		Critical Point	3	
+616.15	3511.000	Critical Point	6	
+616.20	3511.000	Critical Point	5	
+616.23	3510.700	Critical Point	1	
+617.45	3236.190	Critical Point	4	
+617.55	3432.000	Critical Point	2	
+Number	Source	
+1	Ambrose D.: Vapour pressure of some aromatic hydrocarbons.. J.Chem.Thermodyn. 19 (1987) 1007-1008	
+2	Altschul M.: Critical properties of several organic compounds. (Ger). Z.Phys.Chem.(Leipzig) 11 (1893) 577-597	
+3	Simon M.: Methods and instruments employed at the Bureau of physisochemical standards. XV. Critical constants and straight-line diameters of 10 hydrocarbons. (Fr). Bull.Soc.Chim.Belg. 66 (1957) 375-381	
+4	Glaser F.; Rüland H.: Untersuchungen über Dampfdruckkurven und kritische Daten einiger technisch wichtiger organischer Substanzen. Chem.Ing.Tech. CIT 29 (1957) 772-775	
+5	Tsonopoulos C.; Ambrose D.: 3. Aromatic Hydrocarbons.. J.Chem.Eng.Data 40 (1995) 547-558	
+6	Ambrose D.; Broderick B.E.; Townsend R.: The vapour pressures above the normal boiling point and the critical pressures of some aromatic hydrocarbons. J.Chem.Soc.A  (1967) 633-641	
+$$$Density	
+T [K]	P [kPa]	Density [kg/m3]	State	Reference	
+323.15	431.500	835.003	Liquid	1	
+323.15	1133.100	835.561	Liquid	1	
+323.15	2637.600	836.960	Liquid	1	
+323.15	4583.100	838.574	Liquid	1	
+323.15	7564.000	841.184	Liquid	1	
+323.15	10263.000	843.384	Liquid	1	
+323.15	15232.000	848.104	Liquid	1	
+323.15	20411.000	852.079	Liquid	1	
+323.15	25080.000	855.652	Liquid	1	
+323.15	30260.000	859.328	Liquid	1	
+323.15	35638.000	862.962	Liquid	1	
+323.15	40464.000	866.101	Liquid	1	
+323.15	48881.000	871.384	Liquid	1	
+323.15	49555.000	868.961	Liquid	1	
+348.15	547.700	813.206	Liquid	1	
+348.15	2663.600	815.395	Liquid	1	
+348.15	5124.900	817.862	Liquid	1	
+348.15	10437.000	822.977	Liquid	1	
+348.15	15628.000	827.678	Liquid	1	
+348.15	20310.000	831.670	Liquid	1	
+348.15	25444.000	836.120	Liquid	1	
+348.15	30338.000	839.983	Liquid	1	
+348.15	35797.000	844.096	Liquid	1	
+348.15	40344.000	847.386	Liquid	1	
+348.15	45253.000	850.774	Liquid	1	
+348.15	49165.000	853.534	Liquid	1	
+373.15	472.600	790.014	Liquid	1	
+373.15	1153.100	790.889	Liquid	1	
+373.15	2567.000	792.581	Liquid	1	
+373.15	5131.700	795.545	Liquid	1	
+373.15	7935.000	798.850	Liquid	1	
+373.15	10391.000	801.475	Liquid	1	
+373.15	12639.000	803.923	Liquid	1	
+373.15	15720.000	806.972	Liquid	1	
+373.15	17715.000	808.931	Liquid	1	
+373.15	20342.000	811.491	Liquid	1	
+373.15	25500.000	816.460	Liquid	1	
+373.15	31010.000	821.288	Liquid	1	
+373.15	35804.000	825.219	Liquid	1	
+373.15	40558.000	829.187	Liquid	1	
+373.15	45325.000	832.778	Liquid	1	
+373.15	50000.000	837.030	Liquid	1	
+398.15	359.500	766.695	Liquid	1	
+398.15	2628.100	770.001	Liquid	1	
+398.15	4953.700	773.216	Liquid	1	
+398.15	10070.000	779.910	Liquid	1	
+398.15	15650.000	786.596	Liquid	1	
+398.15	20749.000	792.268	Liquid	1	
+398.15	25374.000	797.321	Liquid	1	
+398.15	30565.000	802.568	Liquid	1	
+398.15	35429.000	807.103	Liquid	1	
+398.15	39970.000	811.096	Liquid	1	
+398.15	45000.000	815.794	Liquid	1	
+398.15	50001.000	820.008	Liquid	1	
+423.15	433.200	741.400	Liquid	1	
+423.15	1091.000	742.721	Liquid	1	
+423.15	2595.600	745.323	Liquid	1	
+423.15	5466.300	749.400	Liquid	1	
+423.15	7661.000	753.579	Liquid	1	
+423.15	10058.000	757.174	Liquid	1	
+423.15	12692.000	760.919	Liquid	1	
+423.15	15877.000	765.287	Liquid	1	
+423.15	20499.000	771.248	Liquid	1	
+423.15	25101.000	776.940	Liquid	1	
+423.15	30319.000	782.779	Liquid	1	
+423.15	35151.000	787.836	Liquid	1	
+423.15	39502.000	792.017	Liquid	1	
+423.15	45500.000	796.686	Liquid	1	
+423.15	48001.000	800.320	Liquid	1	
+448.15	514.900	715.973	Liquid	1	
+448.15	2663.200	720.669	Liquid	1	
+448.15	5081.100	725.584	Liquid	1	
+448.15	7672.000	730.514	Liquid	1	
+448.15	10302.000	735.240	Liquid	1	
+448.15	15218.000	743.329	Liquid	1	
+448.15	20023.000	750.525	Liquid	1	
+448.15	25336.000	757.805	Liquid	1	
+448.15	30206.000	763.359	Liquid	1	
+448.15	35011.000	769.704	Liquid	1	
+448.15	40028.000	775.254	Liquid	1	
+448.15	44825.000	780.396	Liquid	1	
+448.15	49663.000	785.114	Liquid	1	
+Number	Source	
+1	Akhundov T.S.; Imanov Sh.Yu.: Experimental observation of specific volumes of p-xylene at temperatures 50-400°C and pressures up to 500 bar.. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1969) 66-68	
+$$$Dielectric Constant	
+T [K]	P [kPa]	Dielectric Constant [-]	State	Reference	
+202.75		2.37200	Solid	3	
+218.35		2.38000	Solid	3	
+230.95		2.38800	Solid	3	
+243.15		2.40000	Solid	3	
+253.05		2.41400	Solid	3	
+261.15		2.43000	Solid	3	
+268.95		2.44600	Solid	3	
+276.90		2.46400	Solid	3	
+287.10		2.28600	Liquid	3	
+290.25		2.27900	Liquid	3	
+293.15		2.26700	Liquid	4	
+297.15		2.26500	Liquid	3	
+298.15		2.26800	Liquid	2	
+302.15		2.25400	Liquid	3	
+303.15		2.25200	Liquid	4	
+303.15	98.066	2.21300	Liquid	1	
+303.15	30890.900	2.25000	Liquid	1	
+303.15	30890.900	2.25500	Liquid	1	
+303.15	64233.602	2.28900	Liquid	1	
+303.15	66685.203	2.28700	Liquid	1	
+308.15		2.11900	Liquid	2	
+308.40		2.24100	Liquid	3	
+313.15		2.23500	Liquid	4	
+323.15		2.22000	Liquid	4	
+Number	Source	
+1	Skinner J.F.; Cussler E.L.; Fuoss R.M.: Pressure Dependence of Dielectric Constant and Density of Liquids.. J.Phys.Chem. 72 (1968) 1057-1064	
+2	George J.; Sastry N.V.: Densities, Excess Molar Volumes, Viscosities, Speeds of Sound, Excess Isentropic Compressibilities, and Relative Permittivities for CmH2m+1(OCH2CH2)nOH (m= 1 or 2 or 4 and n=1) + Benzene, + Toluene, + (o-, m-, and p-) Xylenes, + Ethylbenzene, and + Cyclohexane. J.Chem.Eng.Data 48 (2003) 977-989	
+3	Philippe R.; Piette A.M.: VII. Contribution à l'étude de la constante diélectrique des composés organiques purs. Bull.Soc.Chim.Belg. 64 (1955) 600-627	
+4	Watanabe A.; Moroto S.: Temperature Coefficient of Dielectric Constant for Organic Liquid with Branched-Chain. Nagoya-Kogyo-Gijutsu-Shikensho-hokoku 26 (1977) 264-273	
+$$$Dynamic Viscosity	
+T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference	
+473.15	102.700	0.01013	Vapor	1	
+523.15	102.700	0.01118	Vapor	1	
+523.15	525.900	0.01139	Vapor	1	
+573.15	102.700	0.01224	Vapor	1	
+573.15	1060.400	0.01278	Vapor	1	
+573.15	1568.000	0.01309	Vapor	1	
+598.15	102.700	0.0128	Vapor	1	
+598.15	975.000	0.01324	Vapor	1	
+598.15	2032.400	0.01393	Vapor	1	
+598.15	2425.700	0.01424	Vapor	1	
+623.15	102.700	0.01334	Vapor	1	
+623.15	1024.900	0.01378	Vapor	1	
+623.15	2069.000	0.01441	Vapor	1	
+623.15	3120.800	0.01568	Vapor	1	
+623.15	3678.700	0.01742	Vapor	1	
+623.15	3738.000	0.02036	Vapor	1	
+648.15	102.700	0.01387	Vapor	1	
+648.15	1080.400	0.01427	Vapor	1	
+648.15	2289.100	0.01498	Vapor	1	
+648.15	2945.500	0.01563	Vapor	1	
+648.15	3410.700	0.01628	Vapor	1	
+648.15	3724.400	0.01706	Vapor	1	
+Number	Source	
+1	Abdullaev F.G.; Akhundov R.T.: Experimentelle Untersuchung der Viskosität von Ethylbenzen und o-, m-, p-Xylolen in gasförmige Phase. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1983) 28-64	
+$$$Enthalpy (H-H0)/T	
+T [K]	Enthalpy (H-H0)/T [J/(K*mol)]	State	Reference	
+250.00	325.66	Vapor	2	
+260.00	317.35	Vapor	2	
+280.00	302.88	Vapor	2	
+286.41	298.64	Vapor	1	
+290.00	296.44	Vapor	1	
+298.15	291.77	Vapor	1	
+298.15	291.90	Vapor	2	
+300.00	290.74	Vapor	1	
+300.00	290.91	Vapor	2	
+310.00	285.54	Vapor	1	
+320.00	280.76	Vapor	1	
+320.00	280.93	Vapor	2	
+330.00	276.40	Vapor	1	
+340.00	272.35	Vapor	1	
+340.00	272.70	Vapor	2	
+350.00	268.64	Vapor	1	
+360.00	265.23	Vapor	1	
+360.00	265.72	Vapor	2	
+370.00	262.05	Vapor	1	
+380.00	259.09	Vapor	1	
+380.00	259.98	Vapor	2	
+390.00	256.37	Vapor	1	
+400.00	253.84	Vapor	1	
+400.00	255.16	Vapor	2	
+420.00	251.17	Vapor	2	
+440.00	247.92	Vapor	2	
+460.00	245.26	Vapor	2	
+480.00	243.02	Vapor	2	
+500.00	241.27	Vapor	2	
+520.00	239.86	Vapor	2	
+540.00	238.70	Vapor	2	
+550.00	238.20	Vapor	2	
+Number	Source	
+1	Messerly J.F.; Finke H.L.; Good W.D.; Gammon B.E.: Condensed-phase heat capacities and derived thermodynamic properties for 1,4-dimethylbenzene, 1,2-diphenylethane, and 2,3-dimethylnaphtalene. J.Chem.Thermodyn. 20 (1988) 485-501	
+2	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: Thermodynamic equilibria in xylene isomerization. 1. The thermodynamic properties of p-xylene. J.Chem.Eng.Data 42 (1997) 248-261	
+$$$Entropy	
+T [K]	Molar Entropy [J/(mol*K)]	State	Reference	
+298.00	352.10	Vapor	2	
+298.00	352.20	Vapor	4	
+298.00	352.42	Vapor	1	
+298.00	353.88	Vapor	5	
+Number	Source	
+1	Taylor W.J.; Wagman D.D.; Williams M.G.; Pitzer K.S.; Rossini F.D.: Heats, equilibrium constants, and free energies of formation of the alkylbenzenes.. J.Res. NBS 37 (1946) 95-122	
+2	Kuhne H.; Ha T.K.; Meyer R.; Gunthard H.H.: Formic acid anhydride. Matrix infrared spectra of five isotopic species, vibrational analysis, empirical and ab initio harmonic force field and thermodynamic functions.. J.Mol.Spectrosc. 77 (1979) 251-269	
+3	Draeger J.A.; Scott D.W.: Ideal gas thermodynamic properties of 1,4-dimethylbenzene. J.Chem.Phys. 74 (1981) 4748-4749	
+4	Chao J.; Hall K.R.; Yao J.-M.: Chemical Thermodynamic Properties of Toluene, o-, m- and p-Xylenes. Thermochim.Acta 72 (1984) 323-334	
+5	Pitzer K.S.; Scott D.W.: The Thermodynamics and Molecular Structure of Benzene and Its Methyl Derivatives. J.Am.Chem.Soc. 65 (1943) 803-829	
+$$$Entropy (S-S0)	
+T [K]	P [kPa]	Molar Entropy [J/(mol*K)]	State	Reference	
+10.00		0.43235	Solid	1	
+15.00		1.455	Solid	1	
+20.00		3.3424	Solid	1	
+30.00		9.296	Solid	1	
+40.00		16.895	Solid	1	
+50.00		25.15	Solid	1	
+60.00		33.55	Solid	1	
+70.00		41.855	Solid	1	
+80.00		49.98	Solid	1	
+90.00		57.86	Solid	1	
+100.00		65.51	Solid	1	
+120.00		80.12	Solid	1	
+140.00		93.90	Solid	1	
+160.00		106.96	Solid	1	
+180.00		119.41	Solid	1	
+200.00		131.39	Solid	1	
+220.00		143.00	Solid	1	
+240.00		154.35	Solid	1	
+250.00		216.49	Liquid	1	
+250.00	101.325	331.75	Ideal Gas	1	
+260.00		165.51	Solid	1	
+260.00		223.07	Liquid	1	
+260.00	101.325	335.99	Ideal Gas	1	
+280.00		176.56	Solid	1	
+280.00		235.87	Liquid	1	
+280.00	101.325	344.55	Ideal Gas	1	
+286.40		180.08	Solid	1	
+286.40		239.87	Liquid	1	
+298.15		247.12	Liquid	1	
+298.15	101.325	352.20	Ideal Gas	1	
+300.00		248.25	Liquid	1	
+300.00	101.325	353.03	Ideal Gas	1	
+320.00		260.28	Liquid	1	
+320.00	101.325	361.52	Ideal Gas	1	
+340.00		272.01	Liquid	1	
+340.00	101.325	370.00	Ideal Gas	1	
+360.00		283.51	Liquid	1	
+360.00	101.325	378.48	Ideal Gas	1	
+380.00	101.325	386.96	Ideal Gas	1	
+400.00	101.325	395.36	Ideal Gas	1	
+420.00	101.325	403.75	Ideal Gas	1	
+440.00	101.325	412.07	Ideal Gas	1	
+460.00	101.325	420.47	Ideal Gas	1	
+480.00	101.325	428.70	Ideal Gas	1	
+500.00	101.325	436.93	Ideal Gas	1	
+520.00	101.325	444.99	Ideal Gas	1	
+540.00	101.325	453.06	Ideal Gas	1	
+550.00	101.325	456.97	Ideal Gas	1	
+Number	Source	
+1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: Thermodynamic equilibria in xylene isomerization. 1. The thermodynamic properties of p-xylene. J.Chem.Eng.Data 42 (1997) 248-261	
+$$$Entropy of Formation	
+T [K]	P [kPa]	Molar Entropy [J/(mol*K)]	State	Reference	
+250.00	101.325	-331.08	Ideal Gas	1	
+260.00	101.325	-334.58	Ideal Gas	1	
+280.00	101.325	-341.14	Ideal Gas	1	
+298.15	101.325	-346.55	Ideal Gas	1	
+300.00	101.325	-347.05	Ideal Gas	1	
+320.00	101.325	-352.54	Ideal Gas	1	
+340.00	101.325	-357.44	Ideal Gas	1	
+360.00	101.325	-361.93	Ideal Gas	1	
+380.00	101.325	-366.09	Ideal Gas	1	
+400.00	101.325	-369.91	Ideal Gas	1	
+420.00	101.325	-373.32	Ideal Gas	1	
+440.00	101.325	-376.48	Ideal Gas	1	
+460.00	101.325	-379.39	Ideal Gas	1	
+480.00	101.325	-382.05	Ideal Gas	1	
+500.00	101.325	-384.55	Ideal Gas	1	
+520.00	101.325	-386.79	Ideal Gas	1	
+540.00	101.325	-388.95	Ideal Gas	1	
+550.00	101.325	-390.03	Ideal Gas	1	
+Number	Source	
+1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: Thermodynamic equilibria in xylene isomerization. 1. The thermodynamic properties of p-xylene. J.Chem.Eng.Data 42 (1997) 248-261	
+$$$Flash Point	
+T [K]	P [kPa]	State	Reference	
+		Liquid	3	
+292.15		Liquid	5	
+298.15		Liquid	2	
+308.15		Liquid	1	
+Number	Source	
+1	Ellis W.H.: Solvent Flash Points -  Expected and Unexpected. J.Coat.Technol. 48 (1976) 44-57	
+2	Wu D.T.; Finkelman R.: A Mathematical Mode for Prediction of Closed Cup Flash Points. Org.Coat.Plastics Chem. 38 (1978) 61-68	
+3	Ha D.-M.; Han J.-G.: Prediction and Measurement of Flash Point and Fire Point of Aromatic Hydrocarbons. J.Korean Inst.Gas 9 (2005) 21-26	
+4	Ha D.-M.; Lee S.: The Measurement and Estimation of the Lower Flash Points for tert-Pentanol + Propionic Acid and p-Xylene + Propionic Acid Systems Using Open-Cup Apparatus. Fire Sci.Eng. 23 (2009) 161-166	
+5	Ha D.M.; Lee S.J.: Measurement of Flash Points and Autoignition Temperatures for Xylene Isomers. J.Korean Inst.Gas 13 (2009) 40-45	
+$$$G-function (G-G0)/T	
+T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference	
+273.15	-272.10	Vapor	2	
+273.16	-272.10	Vapor	3	
+298.15	-278.40	Vapor	2	
+298.15	-277.23	Vapor	1	
+298.16	-278.40	Vapor	3	
+298.16	-278.15	Vapor	4	
+300.00	-278.80	Vapor	2	
+300.00	-277.69	Vapor	1	
+400.00	-302.75	Vapor	4	
+400.00	-302.60	Vapor	2	
+400.00	-301.88	Vapor	1	
+500.00	-325.60	Vapor	4	
+500.00	-325.20	Vapor	2	
+500.00	-324.64	Vapor	1	
+600.00	-347.40	Vapor	4	
+600.00	-347.00	Vapor	2	
+600.00	-346.56	Vapor	1	
+700.00	-368.20	Vapor	2	
+700.00	-367.73	Vapor	1	
+800.00	-388.95	Vapor	4	
+800.00	-388.70	Vapor	2	
+800.00	-388.11	Vapor	1	
+900.00	-408.60	Vapor	2	
+900.00	-407.86	Vapor	1	
+1000.00	-427.80	Vapor	2	
+1000.00	-427.73	Vapor	4	
+1000.00	-426.85	Vapor	1	
+1100.00	-445.26	Vapor	1	
+1200.00	-463.00	Vapor	1	
+1300.00	-480.20	Vapor	1	
+1400.00	-496.81	Vapor	1	
+1500.00	-514.17	Vapor	4	
+1500.00	-512.92	Vapor	1	
+Number	Source	
+1	Taylor W.J.; Wagman D.D.; Williams M.G.; Pitzer K.S.; Rossini F.D.: Heats, equilibrium constants, and free energies of formation of the alkylbenzenes.. J.Res. NBS 37 (1946) 95-122	
+2	Kuhne H.; Ha T.K.; Meyer R.; Gunthard H.H.: Formic acid anhydride. Matrix infrared spectra of five isotopic species, vibrational analysis, empirical and ab initio harmonic force field and thermodynamic functions.. J.Mol.Spectrosc. 77 (1979) 251-269	
+3	Draeger J.A.; Scott D.W.: Ideal gas thermodynamic properties of 1,4-dimethylbenzene. J.Chem.Phys. 74 (1981) 4748-4749	
+4	Pitzer K.S.; Scott D.W.: The Thermodynamics and Molecular Structure of Benzene and Its Methyl Derivatives. J.Am.Chem.Soc. 65 (1943) 803-829	
+$$$Gibbs Energy of Form./T	
+T [K]	Energy of formation/T [J/(K*mol)]	State	Reference	
+250.00	419.94	Vapor	2	
+260.00	416.53	Vapor	2	
+280.00	410.88	Vapor	2	
+286.41	409.47	Vapor	1	
+290.00	408.72	Vapor	1	
+298.15	406.80	Vapor	2	
+298.15	406.97	Vapor	1	
+300.00	406.47	Vapor	2	
+300.00	406.56	Vapor	1	
+310.00	404.64	Vapor	1	
+320.00	402.90	Vapor	1	
+330.00	401.40	Vapor	1	
+340.00	399.99	Vapor	1	
+340.00	400.07	Vapor	2	
+350.00	398.74	Vapor	1	
+360.00	397.58	Vapor	1	
+360.00	397.83	Vapor	2	
+370.00	396.50	Vapor	1	
+380.00	395.50	Vapor	1	
+380.00	396.08	Vapor	2	
+390.00	394.58	Vapor	1	
+400.00	393.75	Vapor	1	
+400.00	394.67	Vapor	2	
+420.00	393.50	Vapor	2	
+440.00	392.67	Vapor	2	
+460.00	392.01	Vapor	2	
+480.00	391.42	Vapor	2	
+500.00	391.09	Vapor	2	
+520.00	390.76	Vapor	2	
+540.00	390.51	Vapor	2	
+550.00	390.43	Vapor	2	
+Number	Source	
+1	Messerly J.F.; Finke H.L.; Good W.D.; Gammon B.E.: Condensed-phase heat capacities and derived thermodynamic properties for 1,4-dimethylbenzene, 1,2-diphenylethane, and 2,3-dimethylnaphtalene. J.Chem.Thermodyn. 20 (1988) 485-501	
+2	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: Thermodynamic equilibria in xylene isomerization. 1. The thermodynamic properties of p-xylene. J.Chem.Eng.Data 42 (1997) 248-261	
+$$$Heat of Fusion	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+286.30		17110.00	Solid-Liquid	4	
+286.30		17154.40	Solid-Liquid	5	
+286.35	101.325	16900.00	Solid-Liquid	1	
+286.39	101.325	17110.00	Solid-Liquid	2	
+286.40		17117.40	Solid-Liquid	3	
+286.74		16945.00	Solid-Liquid	6	
+Number	Source	
+1	Parks G.S.; Huffman H.M.: Some Fusion and Transition Data for Hydrocarbons. Ind.Eng.Chem. Ind.Ed. 23 (1931) 1138-1139	
+2	Pitzer K.S.; Scott D.W.: The Thermodynamics and Molecular Structure of Benzene and Its Methyl Derivatives. J.Am.Chem.Soc. 65 (1943) 803-829	
+3	Messerly J.F.; Finke H.L.; Good W.D.; Gammon B.E.: Condensed-phase heat capacities and derived thermodynamic properties for 1,4-dimethylbenzene, 1,2-diphenylethane, and 2,3-dimethylnaphtalene. J.Chem.Thermodyn. 20 (1988) 485-501	
+4	Huyghe R.; Rasmussen P.; Thomsen K.: Solid-Liquid Equilibria for the Binary Mixtures 1,4-Xylene + Ethylbenzene and 1,4-Xylene + Toluene. Chem.Eng.Commun. 191 (2004) 1017-1023	
+5	Nakatsuchi A.: I. Fusion Curves of the Systems o-Xylene - m-Xylene and o-Xylene - p-Xylene. J.Soc.Chem.Ind.Jap. 32 (1929) 333-1023	
+6	Wei D.-W.; Yan F.; Zhang W.-X.; Ma H.-H.: Solid-Liquid Equilibrium of o-or p-Cresol with p-Xylene. Tianjin-Daxue-Xuebao 38 (2005) 167-170	
+$$$Heat of Vaporization	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+298.00	42340.00	Vapor-Liquid	1	
+298.00	42590.00	Vapor-Liquid	1	
+298.00	42720.00	Vapor-Liquid	1	
+298.15	42372.60	Vapor-Liquid	4	
+347.77	39579.00	Vapor-Liquid	3	
+358.33	38953.00	Vapor-Liquid	3	
+366.30	38471.00	Vapor-Liquid	3	
+387.36	37203.00	Vapor-Liquid	3	
+410.27	36018.00	Vapor-Liquid	5	
+411.40	36100.00	Vapor-Liquid	2	
+411.49	36001.00	Vapor-Liquid	6	
+411.51	35686.00	Vapor-Liquid	3	
+418.27	35558.00	Vapor-Liquid	6	
+422.71	35294.00	Vapor-Liquid	6	
+426.40	35051.00	Vapor-Liquid	6	
+427.36	34623.00	Vapor-Liquid	3	
+431.81	34697.00	Vapor-Liquid	6	
+435.60	34478.00	Vapor-Liquid	6	
+439.48	33769.00	Vapor-Liquid	3	
+440.16	34159.00	Vapor-Liquid	6	
+447.01	33677.00	Vapor-Liquid	6	
+452.26	33298.00	Vapor-Liquid	6	
+483.58	30544.00	Vapor-Liquid	6	
+509.27	28137.00	Vapor-Liquid	6	
+526.29	26370.00	Vapor-Liquid	6	
+540.20	24698.00	Vapor-Liquid	6	
+557.25	22523.00	Vapor-Liquid	6	
+Number	Source	
+1	Chickos J.S.; Hosseini S.; Hesse D.G.: Determination of Vaporization Enthalpies of Simple Organic Molecules by Correlations of Changes in Gas Chromatographic Net Retention Times. Thermochim.Acta 249 (1995) 41-62	
+2	Matyushov D.V.; Schmid R.: Properties of Liquids at the Boiling Point: Equation of State, Internal Pressure and Vaporization Entropy. Int.J.Phys.Chem.Ber.Bunsen-Ges. 98 (1994) 1590-1595	
+3	Hossenlopp I.A.; Scott D.W.: Vapor heat capacities and enthalpies of vaporization of four aromaticand/or cycloalkane hydrocarbons. J.Chem.Thermodyn. 13 (1981) 423-428	
+4	Osborne N.S.; Ginnings D.C.: Measurements of Heat of Vaporization and Heat Capacity of a Number of Hydrocarbons.. J.Res. NBS 39 (1947) 453-477	
+5	Mathews J.H.: The Accurate Measurement of the Heats of Vaporization of Liquids. J.Am.Chem.Soc. 48 (1926) 562-576	
+6	Natarajan G.; Viswanath D.S.: Enthalpy of Vaporization and Vapor Pressure of Benzene, Toluene, p-Xylene, and Tetralin between 1 and 16 bar. J.Chem.Eng.Data 30 (1985) 137-140	
+$$$Ideal Gas Heat Capacity	
+T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference	
+50.00	44.67	Ideal Gas	4	
+100.00	54.98	Ideal Gas	4	
+150.00	69.79	Ideal Gas	4	
+200.00	87.00	Ideal Gas	4	
+273.15	115.30	Ideal Gas	2	
+273.15	115.70	Ideal Gas	4	
+273.16	115.30	Ideal Gas	3	
+298.15	125.60	Ideal Gas	2	
+298.15	126.00	Ideal Gas	4	
+298.15	126.86	Ideal Gas	1	
+298.16	125.60	Ideal Gas	3	
+298.16	126.52	Ideal Gas	5	
+300.00	126.40	Ideal Gas	2	
+300.00	126.80	Ideal Gas	4	
+300.00	127.57	Ideal Gas	1	
+400.00	166.02	Ideal Gas	5	
+400.00	166.11	Ideal Gas	1	
+400.00	167.20	Ideal Gas	2	
+400.00	167.40	Ideal Gas	4	
+500.00	201.08	Ideal Gas	1	
+500.00	201.25	Ideal Gas	5	
+500.00	203.30	Ideal Gas	4	
+500.00	203.40	Ideal Gas	2	
+600.00	230.79	Ideal Gas	1	
+600.00	231.04	Ideal Gas	5	
+600.00	233.20	Ideal Gas	4	
+600.00	234.10	Ideal Gas	2	
+700.00	255.73	Ideal Gas	1	
+700.00	258.10	Ideal Gas	4	
+700.00	259.80	Ideal Gas	2	
+800.00	276.73	Ideal Gas	1	
+800.00	277.07	Ideal Gas	5	
+800.00	278.90	Ideal Gas	4	
+800.00	281.60	Ideal Gas	2	
+900.00	294.51	Ideal Gas	1	
+900.00	296.40	Ideal Gas	4	
+900.00	300.10	Ideal Gas	2	
+1000.00	309.70	Ideal Gas	1	
+1000.00	309.95	Ideal Gas	5	
+1000.00	311.40	Ideal Gas	4	
+1000.00	316.10	Ideal Gas	2	
+1100.00	322.71	Ideal Gas	1	
+1100.00	324.20	Ideal Gas	4	
+1200.00	333.88	Ideal Gas	1	
+1200.00	335.20	Ideal Gas	4	
+1300.00	343.47	Ideal Gas	1	
+1300.00	344.70	Ideal Gas	4	
+1400.00	351.75	Ideal Gas	1	
+1400.00	352.80	Ideal Gas	4	
+1500.00	358.95	Ideal Gas	1	
+1500.00	359.20	Ideal Gas	5	
+1500.00	359.90	Ideal Gas	4	
+1750.00	373.80	Ideal Gas	4	
+2000.00	383.90	Ideal Gas	4	
+2250.00	391.30	Ideal Gas	4	
+2500.00	396.90	Ideal Gas	4	
+2750.00	401.20	Ideal Gas	4	
+3000.00	404.60	Ideal Gas	4	
+Number	Source	
+1	Taylor W.J.; Wagman D.D.; Williams M.G.; Pitzer K.S.; Rossini F.D.: Heats, equilibrium constants, and free energies of formation of the alkylbenzenes.. J.Res. NBS 37 (1946) 95-122	
+2	Kuhne H.; Ha T.K.; Meyer R.; Gunthard H.H.: Formic acid anhydride. Matrix infrared spectra of five isotopic species, vibrational analysis, empirical and ab initio harmonic force field and thermodynamic functions.. J.Mol.Spectrosc. 77 (1979) 251-269	
+3	Draeger J.A.; Scott D.W.: Ideal gas thermodynamic properties of 1,4-dimethylbenzene. J.Chem.Phys. 74 (1981) 4748-4749	
+4	Chao J.; Hall K.R.; Yao J.-M.: Chemical Thermodynamic Properties of Toluene, o-, m- and p-Xylenes. Thermochim.Acta 72 (1984) 323-334	
+5	Pitzer K.S.; Scott D.W.: The Thermodynamics and Molecular Structure of Benzene and Its Methyl Derivatives. J.Am.Chem.Soc. 65 (1943) 803-829	
+$$$Kinematic Viscosity	
+T [K]	P [kPa]	Kinematic Viscosity [m2/s]	State	Reference	
+288.15		7.97999973656E-07	Liquid	2	
+293.15		7.52000005377E-07	Liquid	2	
+298.15		6.97500013302E-07	Liquid	4	
+298.15		7.01999965713E-07	Liquid	1	
+298.15		7.0499999083E-07	Liquid	5	
+298.15		7.12999963071E-07	Liquid	2	
+298.15	101.325	7.06399987394E-07	Liquid	3	
+303.15		6.75999956457E-07	Liquid	2	
+303.15	101.325	6.68999973641E-07	Liquid	3	
+308.15	101.325	6.34599985005E-07	Liquid	3	
+313.15	101.325	6.03999978921E-07	Liquid	3	
+318.15	101.325	5.75400008529E-07	Liquid	3	
+Number	Source	
+1	Fermeglia M.; Lapasin R.; Torriano G.: Excess Volumes and Viscositues of Binary Systems Containing 4-Methyl-2-pentanone. J.Chem.Eng.Data 35 (1990) 260-265	
+2	Serrano L.; Silva J.A.; Farelo F.: Densities and Viscosities of Binary and Ternary Liquid Systems Containing Xylenes. J.Chem.Eng.Data 35 (1990) 288-291	
+3	Tasioula-Margari M.; Demetropoulos I.N.: Viscosities of Dilute Solutions of the Triglycerides Triolein, Trilinolein, Tristearin, Tripalmitin, and Trimyristin In Benzene and P-Xylene. J.Chem.Eng.Data 37 (1992) 77-79	
+4	Chevalier J.L.E.; Petrino P.J.; Gaston-Bonhomme Y.H.: Viscosity and Density of Some Aliphatic, Cyclic, and Aromatic Hydrocarbons Binary Liquid Mixtures. J.Chem.Eng.Data 35 (1990) 206-212	
+5	Fermeglia M.; Lapasin R.: Excess Volumes and Viscosities of Binary Mixtures of Organics. J.Chem.Eng.Data 33 (1988) 415-417	
+6	Petrino P.J.; Gaston-Bonhomme Y.H.; Chevalier J.L.E.: Viscosity and Density of Binary Liquid Mixtures of Hydrocarbons, Esters, Ketones, and Normal Chloroalkanes. J.Chem.Eng.Data 40 (1995) 136-140	
+$$$Melting Point	
+T [K]	P [kPa]	State	Reference	
+285.26	3000.000	Solid-Liquid	1	
+286.28	5900.000	Solid-Liquid	1	
+286.36	101.325	Solid-Liquid	5	
+286.39	101.325	Solid-Liquid	2	
+286.78	6800.000	Solid-Liquid	1	
+287.30	8900.000	Solid-Liquid	1	
+287.67	9300.000	Solid-Liquid	1	
+288.62	12400.000	Solid-Liquid	1	
+288.97	12900.000	Solid-Liquid	1	
+289.66	15400.000	Solid-Liquid	1	
+290.44	17000.000	Solid-Liquid	1	
+291.14	19400.000	Solid-Liquid	1	
+291.74	20700.000	Solid-Liquid	1	
+292.36	22800.000	Solid-Liquid	1	
+292.82	23800.000	Solid-Liquid	1	
+293.64	26400.000	Solid-Liquid	1	
+294.13	27500.000	Solid-Liquid	1	
+294.90	29900.000	Solid-Liquid	1	
+295.34	31000.000	Solid-Liquid	1	
+296.37	33900.000	Solid-Liquid	1	
+296.43	34200.000	Solid-Liquid	1	
+297.66	37600.000	Solid-Liquid	1	
+Number	Source	
+1	Castro S.; Taravillo M.; Garcia Baonza V.; Caceres M.; Nunez J.: Thermodynamic Behaviour of Liquid p-Xylene Near Freezing. J.Chem.Soc.Faraday Trans. 90 (1994) 3645-3649	
+2	Goates J.R.; Ott J.B.; Moellmer J.F.; Farrell D.W.: (Solid + Liquid) Phase Equilibria in n-Hexane + Cyclohexane and Benzene + p-Xylene. J.Chem.Thermodyn. 11 (1979) 709-711	
+3	Ott J.B.; Goates J.R.; Cardon D.L.: Benzene + Hexafluorobenzene Solid Addition Compounds. J.Chem.Thermodyn. 8 (1976) 505-512	
+4	Goates J.R.; Ott J.B.; Moellmer J.F.: Solid + Liquid Phase Equilibria and Solid-Compound Formation in Halobenzenes + Aromatic Hydrocarbons. J.Chem.Thermodyn. 8 (1976) 217-224	
+5	Boerio-Goates J.; Goates R.S.; Ott J.B.; Goates J.R.: Enthalpies of formation of molecular addition compounds in tetrachloromethane + p-xylene, + toluene, and + benzene from (solid + liquid) phase equilibria. J.Chem.Thermodyn. 17 (1985) 665-670	
+$$$Molar Heat Capacity (cP)	
+T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
+484.08	500.000	208.28	Vapor	1	
+485.59	500.000	208.53	Vapor	1	
+491.76	500.000	209.60	Vapor	1	
+503.86	500.000	211.89	Vapor	1	
+515.80	500.000	214.27	Vapor	1	
+524.50	500.000	216.32	Vapor	1	
+525.58	1000.000	236.61	Vapor	1	
+528.90	1000.000	235.66	Vapor	1	
+537.58	1000.000	234.53	Vapor	1	
+541.93	500.000	220.46	Vapor	1	
+547.79	500.000	223.05	Vapor	1	
+549.43	1000.000	234.55	Vapor	1	
+550.86	1500.000	268.16	Vapor	1	
+551.47	1500.000	267.63	Vapor	1	
+551.75	1500.000	267.29	Vapor	1	
+552.98	1500.000	265.86	Vapor	1	
+560.12	1500.000	260.49	Vapor	1	
+562.03	500.000	225.45	Vapor	1	
+566.76	1000.000	235.78	Vapor	1	
+572.27	2000.000	307.20	Vapor	1	
+572.80	2000.000	304.38	Vapor	1	
+573.95	2000.000	301.56	Vapor	1	
+574.33	500.000	228.60	Vapor	1	
+576.33	2000.000	294.85	Vapor	1	
+577.96	1500.000	252.95	Vapor	1	
+582.06	2000.000	284.10	Vapor	1	
+586.40	1000.000	238.37	Vapor	1	
+589.13	2500.000	360.96	Vapor	1	
+589.23	2500.000	360.64	Vapor	1	
+589.40	2500.000	357.74	Vapor	1	
+590.00	500.000	232.26	Vapor	1	
+590.51	2500.000	349.74	Vapor	1	
+591.10	2000.000	274.32	Vapor	1	
+591.93	1500.000	250.75	Vapor	1	
+592.07	2500.000	336.82	Vapor	1	
+595.90	2500.000	323.27	Vapor	1	
+599.56	2500.000	308.83	Vapor	1	
+601.72	1500.000	250.43	Vapor	1	
+602.53	1000.000	241.06	Vapor	1	
+604.77	2000.000	266.22	Vapor	1	
+606.44	3000.000	449.76	Vapor	1	
+607.14	3000.000	433.58	Vapor	1	
+607.27	500.000	236.49	Vapor	1	
+607.40	2500.000	293.80	Vapor	1	
+607.76	3000.000	419.64	Vapor	1	
+608.43	3000.000	405.47	Vapor	1	
+609.40	3000.000	388.70	Vapor	1	
+610.77	3000.000	368.85	Vapor	1	
+611.75	3000.000	354.34	Vapor	1	
+613.63	3000.000	337.73	Vapor	1	
+617.56	2500.000	282.55	Vapor	1	
+617.73	3000.000	319.94	Vapor	1	
+618.13	1500.000	251.21	Vapor	1	
+618.43	2000.000	262.51	Vapor	1	
+623.31	3000.000	306.43	Vapor	1	
+624.13	1000.000	245.13	Vapor	1	
+624.50	500.000	240.51	Vapor	1	
+626.53	2500.000	276.51	Vapor	1	
+632.26	3000.000	294.15	Vapor	1	
+634.23	2500.000	273.48	Vapor	1	
+634.78	2000.000	261.21	Vapor	1	
+635.36	1500.000	253.11	Vapor	1	
+639.96	500.000	244.34	Vapor	1	
+641.38	3000.000	286.66	Vapor	1	
+641.56	1000.000	248.63	Vapor	1	
+641.74	1500.000	255.01	Vapor	1	
+649.57	2500.000	270.34	Vapor	1	
+651.53	2000.000	261.48	Vapor	1	
+654.33	3000.000	280.34	Vapor	1	
+657.15	1000.000	251.57	Vapor	1	
+660.26	500.000	249.25	Vapor	1	
+664.33	2500.000	269.17	Vapor	1	
+665.50	1500.000	257.09	Vapor	1	
+667.53	3000.000	277.30	Vapor	1	
+668.98	2000.000	263.72	Vapor	1	
+669.63	1000.000	254.01	Vapor	1	
+677.66	2500.000	268.98	Vapor	1	
+678.76	500.000	253.38	Vapor	1	
+680.00	3000.000	275.65	Vapor	1	
+680.18	1500.000	259.49	Vapor	1	
+682.51	2000.000	264.10	Vapor	1	
+692.14	2000.000	265.40	Vapor	1	
+692.24	500.000	256.24	Vapor	1	
+692.65	3000.000	274.83	Vapor	1	
+692.83	1000.000	258.70	Vapor	1	
+693.48	2500.000	269.84	Vapor	1	
+693.71	1500.000	261.81	Vapor	1	
+Number	Source	
+1	Akhundov T.S.; Sultanov Ch.I.: Experimentelle Untersuchung  der Isobar-Dampfwärmekapazität von o-, m-, p-Xylol bei unterkritischen Drücken und Temperaturen bis 420°C. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1975) 50-80	
+$$$Speed of Sound	
+T [K]	Ultrasonic Velocity [m/s]	State	Reference	
+293.15	1324.000	Liquid	5	
+293.15	1330.000	Liquid	2	
+298.15	1308.200	Liquid	4	
+298.15	1326.000	Liquid	3	
+302.65	1310.000	Liquid	6	
+303.15	1290.000	Liquid	1	
+303.15	1301.000	Liquid	5	
+308.15	1276.000	Liquid	4	
+313.15	1263.000	Liquid	5	
+Number	Source	
+1	Oswal S.L.; Oswal P.; Phalak R.P.: Speed of Sound, Isentropic Compressibilities, and Excess Molar Volume of Binary Mixtures Containing p-Dioxane. J.Solution Chem. 27 (1998) 507-520	
+2	Schaaffs W.: I.Teil: Die Schallgeschwindigkeit in organischen Flüssigkeiten. Z.Phys.Chem.(Leipzig) 194 (1944) 28-38	
+3	Nayak J.N.; Aralaguppi M.I.; Aminabhavi T.M.: Density, Viscosity, Refractive Index, and Speed of Sound in the Binary Mixtures of Ethyl Chloroacetate with Aromatic Liquids at 298.15, 303.15, and 308.15 K. J.Chem.Eng.Data 47 (2002) 964-969	
+4	George J.; Sastry N.V.: Measurements of Densities, Viscosites, Speeds of Sound and Relative Permittivities and Excess Molar Volumes, Excess Isentropic Compressibilities and Deviations in Relative Permittivities and Molar Polarizations for Dibutyl Ether + Benzene, + Toluene and + p-P-Xylene at Different Temperatures. J.Chem.Thermodyn. 35 (2003) 1837-1853	
+5	Zeliznyi A.M.; Dyakiv F.V.; Shevchenko E.F.: Xylene-Dimethylformamide Binary Systems. Zh.Obshch.Khim. 46 (1976) 1913-1919	
+6	Reddy K.C.; Subrahmanyam S.V.; Bhimasenachar J.: Ultrasonic Behaviour of Binary Liquid Mixtures Containing Triethylamine. Part I. Trans.Faraday Soc. 58 (1962) 2352-2357	
+$$$Standard Heat of Vaporization	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+298.15	42570.00	Vapor-Liquid	1	
+Number	Source	
+1	Zhao H.; Unhannanant P.; Hanshaw W.; Chickos J.S.: Liquid-Vapor Pressure Isotope Effects. J.Chem.Eng.Data 53 (2008) 1545-1556	
+$$$Std. Heat of Combustion	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+290.65	-4543770.00	Liquid	3	
+298.00	-4552860.00	Liquid	2	
+298.00	-4549640.00	Liquid	1	
+Number	Source	
+1	Coops J.; Mulder D.; Dienske J.W.; Smittenberg J.: The heats of combustion of a number of hydrocarbons.. Recl.Trav.Chim.Pays-Bas 65 (1946) 128-128	
+2	Prosen E.J.; Gilmont R.; Rossini F.D.: Heats of combustion of benzene, toluene, ethylbenzene, o-xylene, m-xylene, p-xylene, n-propylbenzene, and styrene.. J.Res. NBS 34 (1945) 65-71	
+3	Stohmann F.; Rodatz P.; Herzberg W.: Ueber den Wärmewerth der Homologen des Benzols. J.Prakt.Chem. 35 (1887) 40-42	
+$$$Std. Heat of Formation	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+250.00	101.325	22220.50	Ideal Gas	3	
+260.00	101.325	21315.10	Ideal Gas	3	
+280.00	101.325	19555.70	Ideal Gas	3	
+298.00		17949.00	Vapor	1	
+298.00		17996.00	Vapor	2	
+298.15	101.325	17972.60	Ideal Gas	3	
+300.00	101.325	17834.60	Ideal Gas	3	
+320.00	101.325	16150.10	Ideal Gas	3	
+340.00	101.325	14502.20	Ideal Gas	3	
+360.00	101.325	12930.70	Ideal Gas	3	
+380.00	101.325	11405.80	Ideal Gas	3	
+400.00	101.325	9910.90	Ideal Gas	3	
+420.00	101.325	8485.79	Ideal Gas	3	
+440.00	101.325	7133.85	Ideal Gas	3	
+460.00	101.325	5775.26	Ideal Gas	3	
+480.00	101.325	4509.79	Ideal Gas	3	
+500.00	101.325	3284.23	Ideal Gas	3	
+520.00	101.325	2032.07	Ideal Gas	3	
+540.00	101.325	853.07	Ideal Gas	3	
+550.00	101.325	228.65	Ideal Gas	3	
+Number	Source	
+1	Prosen E.J.; Johnson W.H.; Rossini F.D.: Heats of combustion and formation at 25 oC of the alkylbenzenes through C10H14, and of the higher normal monoalkylbenzenes.. J.Res. NBS 36 (1946) 455-461	
+2	Messerly J.F.; Finke H.L.; Good W.D.; Gammon B.E.: Condensed-phase heat capacities and derived thermodynamic properties for 1,4-dimethylbenzene, 1,2-diphenylethane, and 2,3-dimethylnaphtalene. J.Chem.Thermodyn. 20 (1988) 485-501	
+3	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: Thermodynamic equilibria in xylene isomerization. 1. The thermodynamic properties of p-xylene. J.Chem.Eng.Data 42 (1997) 248-261	
+$$$Surface Tension	
+T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference	
+288.15		28.9100	Liquid	6	
+288.15		28.9500	Liquid	4	
+293.15		28.2240	Liquid	1	
+293.15		28.3100	Liquid	2	
+293.15		28.3600	Liquid Phase of VLE	5	
+296.05	19.330	28.2700	Liquid	3	
+298.15		27.7600	Liquid	2	
+303.15		27.1810	Liquid	1	
+303.15		27.2900	Liquid	6	
+307.90	38.660	26.8900	Liquid	3	
+308.15		26.6700	Liquid	2	
+313.15		25.8990	Liquid	1	
+313.15		26.2000	Liquid Phase of VLE	5	
+318.15		25.7300	Liquid	2	
+333.15		24.0400	Liquid Phase of VLE	5	
+333.75	46.660	24.2100	Liquid	3	
+Number	Source	
+1	Narayan J.; Wanchoo R.K.; Raina G.K.; Wani G.A.: Viscosity and Surface Tension of p-Xylene - Ethylacetate Liquid Mixtures. Can.J.Chem.Eng. 66 (1988) 1021-1026	
+2	Wanchoo R.K.; Narayan J.: Excess Properties of (Methanol + Toluene or p-Xylene) Binary Liquid Mixture. Phys.Chem.Liq. 25 (1992) 15-26	
+3	Richards T.W.; Speyers C.L.; Carver E.K.: The determination of surface tension with very small volumes of liquid, and the surface tensions of octanes and xylenes at several temperatures.. J.Am.Chem.Soc. 46 (1924) 1196-1207	
+4	Mahl B.S.; Chopra S.L.; Singh P.P.: Surface Tension of Binary Mixtures. Z.Phys.Chem.(Leipzig) 249 (1972) 337-343	
+5	Jasper J.J.; Herrington K.D.: A new type of precision capillarimeter.. J.Am.Chem.Soc. 68 (1946) 2142-2144	
+6	Hennaut-Roland L.; Lek M.: Methods and equipment used at the Bureau of Physico-Chem. Standards.IV. Surface tension of a series of org. substances.. Bull.Soc.Chim.Belg. 40 (1931) 177-188	
+$$$Thermal Conductivity	
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
+293.15	98.000	0.1313	Liquid	1	
+313.15	98.000	0.1263	Liquid	1	
+313.15	21900.000	0.1345	Liquid	1	
+313.15	42000.000	0.1415	Liquid	1	
+313.15	59700.000	0.1468	Liquid	1	
+333.15	98.000	0.1216	Liquid	1	
+333.15	21900.000	0.1300	Liquid	1	
+333.15	42000.000	0.1371	Liquid	1	
+333.15	59700.000	0.1427	Liquid	1	
+333.15	79900.000	0.1480	Liquid	1	
+333.15	100800.000	0.1525	Liquid	1	
+353.15	98.000	0.1168	Liquid	1	
+353.15	21900.000	0.1254	Liquid	1	
+353.15	42000.000	0.1327	Liquid	1	
+353.15	59700.000	0.1388	Liquid	1	
+353.15	79900.000	0.1440	Liquid	1	
+353.15	100800.000	0.1493	Liquid	1	
+373.15	98.000	0.1120	Liquid	1	
+373.15	21900.000	0.1207	Liquid	1	
+373.15	42000.000	0.1284	Liquid	1	
+373.15	59700.000	0.1345	Liquid	1	
+373.15	79900.000	0.1404	Liquid	1	
+373.15	100800.000	0.1460	Liquid	1	
+393.15	98.000	0.1075	Liquid	1	
+393.15	21900.000	0.1162	Liquid	1	
+393.15	42000.000	0.1241	Liquid	1	
+393.15	59700.000	0.1305	Liquid	1	
+393.15	79900.000	0.1369	Liquid	1	
+393.15	100800.000	0.1427	Liquid	1	
+413.15	98.000	0.1027	Liquid	1	
+413.15	21900.000	0.1123	Liquid	1	
+413.15	42000.000	0.1204	Liquid	1	
+413.15	59700.000	0.1270	Liquid	1	
+413.15	79900.000	0.1339	Liquid	1	
+413.15	100800.000	0.1397	Liquid	1	
+433.15	21900.000	0.1088	Liquid	1	
+433.15	42000.000	0.1169	Liquid	1	
+433.15	59700.000	0.1238	Liquid	1	
+433.15	79900.000	0.1307	Liquid	1	
+433.15	100800.000	0.1370	Liquid	1	
+453.15	21900.000	0.1056	Liquid	1	
+453.15	42000.000	0.1137	Liquid	1	
+453.15	59700.000	0.1210	Liquid	1	
+453.15	79900.000	0.1282	Liquid	1	
+453.15	100800.000	0.1348	Liquid	1	
+Number	Source	
+1	Rastorguev Yu.L.; Pugach V.V.: Untersuchung der Wärmeleitfähigkeit von aromatischen  Kohlenwasserstoffen bei hohem Druck. Izv.Vyssh.Uchebn.Zaved.Neft Gaz 13 (1970) 69-72	
+$$$Vapor Pressure	
+T [K]	P [kPa]	State	Reference	
+263.65	0.044	Solid-Gas	5	
+270.65	0.116	Solid-Gas	5	
+273.15	0.208	Vapor-Liquid	4	
+273.35	0.155	Solid-Gas	5	
+283.15	0.307	Solid-Gas	3	
+283.15	0.4146	Vapor-Liquid	4	
+293.15	0.7866	Vapor-Liquid	4	
+303.15	1.4265	Vapor-Liquid	4	
+313.15	2.453	Vapor-Liquid	4	
+323.15	4.093	Vapor-Liquid	4	
+333.15	6.573	Vapor-Liquid	4	
+343.15	10.226	Vapor-Liquid	4	
+353.15	15.452	Vapor-Liquid	4	
+411.25	101.325	Vapor-Liquid	1	
+420.00	126.500	Vapor-Liquid	2	
+440.00	205.200	Vapor-Liquid	2	
+460.00	317.100	Vapor-Liquid	2	
+480.00	470.900	Vapor-Liquid	2	
+500.00	675.800	Vapor-Liquid	2	
+520.00	941.900	Vapor-Liquid	2	
+540.00	1280.800	Vapor-Liquid	2	
+560.00	1705.700	Vapor-Liquid	2	
+580.00	2232.400	Vapor-Liquid	2	
+600.00	2880.400	Vapor-Liquid	2	
+Number	Source	
+1	Panchenkov G.M.; Maksareva T.S.; Erchenkov V.V.: Temperature Dependence of Diffusion Coefficients of Some Organic Liquids. Zh.Fiz.Khim. 32 (1958) 2787-2791	
+2	Ambrose D.; Broderick B.E.; Townsend R.: The vapour pressures above the normal boiling point and the critical pressures of some aromatic hydrocarbons. J.Chem.Soc.A  (1967) 633-641	
+3	Rintelen J.C.Jr.; Saylor J.H.; Gross P.M.: The Desities and Vapor Pressures of some Alkylbenzenes, Aliphatic Ketones and n-Amyl Chloride.. J.Am.Chem.Soc. 59 (1937) 1129-1130	
+4	Kassel L.S.: Vapor pressures of the Xylenes and Mesitylene. J.Am.Chem.Soc. 58 (1936) 670-671	
+5	Linder E.G.: Vapor Pressures of some Hydrocarbons. J.Phys.Chem. 35 (1931) 531-535	
+$$$Virial Coefficients	
+T [K]	Second Virial Coefficient [cm3/mol]	State	Reference	
+347.77	-2360.0000	Vapor	1	
+358.33	-2270.0000	Vapor	1	
+366.30	-2180.0000	Vapor	1	
+376.85	-2117.0000	Vapor	2	
+387.36	-1850.0000	Vapor	1	
+393.05	-1777.0000	Vapor	2	
+408.95	-1543.0000	Vapor	3	
+411.51	-1540.0000	Vapor	1	
+424.15	-1371.0000	Vapor	3	
+427.36	-1380.0000	Vapor	1	
+437.75	-1178.0000	Vapor	3	
+439.48	-1280.0000	Vapor	1	
+Number	Source	
+1	Hossenlopp I.A.; Scott D.W.: Vapor heat capacities and enthalpies of vaporization of four aromaticand/or cycloalkane hydrocarbons. J.Chem.Thermodyn. 13 (1981) 423-428	
+2	Andon R.L.J.; Cox J.D.; Herington E.F.G.; Martin J.F.: The Second Virial Coefficients of Pyridine and Benzene, and Certain of their Methyl Homologues. Trans.Faraday Soc. 53 (1957) 1074-1082	
+3	Cox J.D.; Andon R.J.L.: The Second Virial Coefficients of Pyridine and Benzene and some Methyl Homologues between 135 and 165° C. Trans.Faraday Soc. 54 (1958) 1622-1629	

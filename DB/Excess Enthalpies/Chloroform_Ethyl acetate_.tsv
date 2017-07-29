@@ -1,0 +1,57 @@
+$$$Enthalpy of Mixing Data Set 447	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-1109.080	0.21450	
+-1749.240	0.37660	
+-1967.380	0.45810	
+-2035.200	0.58500	
+-1985.800	0.62550	
+-1841.350	0.69550	
+-1778.550	0.71580	
+-721.385	0.91020	
+Source	
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
+$$$Enthalpy of Mixing Data Set 448	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Temperature	308.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-121.100	0.02400	
+-391.400	0.07700	
+-778.900	0.15600	
+-1147.200	0.23800	
+-1460.000	0.31700	
+-1698.400	0.39100	
+-1833.800	0.44600	
+-1902.100	0.48600	
+-1957.900	0.55000	
+-1898.200	0.62400	
+-1781.700	0.68200	
+-1569.100	0.74800	
+-1245.600	0.81800	
+-1027.300	0.85800	
+-633.100	0.91700	
+-176.300	0.97700	
+Source	
+Ohta T.; Asano H.; Nagata I.: Thermodynamic Study of Complex Formation in Four Binary Liquid Mixtures Containing Chloroform. Fluid Phase Equilib. 4 (1980) 105-114	
+$$$Enthalpy of Mixing Data Set 6156	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Temperature	328.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-7.410	0.00200	
+-9.500	0.00270	
+-11.770	0.00340	
+-14.430	0.00410	
+-16.610	0.00470	
+Source	
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	
+Source	
+Ohta T.; Asano H.; Nagata I.: Thermodynamic Study of Complex Formation in Four Binary Liquid Mixtures Containing Chloroform. Fluid Phase Equilib. 4 (1980) 105-114	
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	

@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C2H3N	41.053	75-05-8	Acetic acid butyl ester	
+3	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.320	n.a.	n.a.	n.a.	Phase equilibrium	Author	1	
+none	n.a.	102.258	n.a.	n.a.	n.a.	n.a.	Author	2	
+none	zeotropic	
+1	Acosta J.; Arce A.; Rodil E.; Soto A.: A Thermodynamic Study on Binary and Ternary Mixtures of Acetonitrile, Water and Butyl Acetate. Fluid Phase Equilib. 203 (2002) 83-98	
+2	Pratt H.R.C.: Continuous Purification and Azeotropic Dehydration of Acetonitrile Produced by the Catalytic Acetic Acid-Ammonia Reaction. Trans.Inst.Chem.Engr. 25 (1947) 43-67	

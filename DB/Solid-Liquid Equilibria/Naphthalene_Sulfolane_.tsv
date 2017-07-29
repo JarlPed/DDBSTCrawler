@@ -1,0 +1,11 @@
+$$$Solid-Liquid Equilibrium Data Set 45222	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C10H8	128.174	91-20-3	Naphthalene	
+2	C4H8O2S	120.172	126-33-0	Sulfolane	
+T [K]	xL1 [mol/mol]	
+303.15	0.22480	
+313.15	0.29950	
+323.15	0.42050	
+333.15	0.57870	
+Source	
+Zaretskii M.I.; Golub V.B.; Podolyak V.G.; Usyshkina I.V.; Taits S.Z.; Kononov N.F.: Solubility of naphthalene in some organic solvents. Khim.Tverdogo Topl.  (1977) 160-165	

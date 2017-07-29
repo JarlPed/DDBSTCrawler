@@ -1,0 +1,56 @@
+$$$Vapor-Liquid Equilibrium Data Set 158	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	CH4O	32.042	67-56-1	Methanol	
+Pressure	13.332	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+290.75	0.06340	0.13810	
+288.95	0.11460	0.23680	
+285.75	0.22130	0.36470	
+283.95	0.34640	0.50610	
+282.35	0.56870	0.69490	
+281.15	0.76490	0.80940	
+Source	
+Fordyce C.R.; Simonsen D.R.: Evaporation in Binary Solvent Mixtures. Ind.Eng.Chem. 41 (1949) 104-111	
+$$$Vapor-Liquid Equilibrium Data Set 586	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	CH4O	32.042	67-56-1	Methanol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+337.75	0.00000	0.00000	
+336.65	0.03600	0.08200	
+335.35	0.08100	0.16100	
+333.85	0.14100	0.25100	
+332.55	0.20600	0.33600	
+331.25	0.29300	0.42300	
+330.05	0.39400	0.50000	
+329.35	0.51300	0.58000	
+329.05	0.58400	0.63900	
+328.95	0.68300	0.70500	
+328.95	0.74200	0.74500	
+328.95	0.82300	0.80600	
+328.95	0.86100	0.84300	
+329.25	1.00000	1.00000	
+Source	
+Amer H.H.; Paxton R.R.; van Winkle M.: Vapor-liquid equilibria. Ind.Eng.Chem. 48 (1956) 142-146	
+$$$Vapor-Liquid Equilibrium Data Set 587	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	CH4O	32.042	67-56-1	Methanol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+335.95	0.06000	0.09700	
+333.95	0.15000	0.25000	
+331.75	0.29500	0.42000	
+330.35	0.39800	0.51700	
+329.45	0.52500	0.62500	
+328.95	0.73200	0.75400	
+328.85	0.80000	0.80000	
+329.05	0.89200	0.87500	
+Source	
+Griswold J.; Buford C.B.: Separation of synthesis mixtures Vapor-liquid equilibria of acetone-methanol-water. Ind.Eng.Chem. 41 (1949) 2347-2351	
+Source	
+Griswold J.; Buford C.B.: Separation of synthesis mixtures Vapor-liquid equilibria of acetone-methanol-water. Ind.Eng.Chem. 41 (1949) 2347-2351	
+Amer H.H.; Paxton R.R.; van Winkle M.: Vapor-liquid equilibria. Ind.Eng.Chem. 48 (1956) 142-146	
+Fordyce C.R.; Simonsen D.R.: Evaporation in Binary Solvent Mixtures. Ind.Eng.Chem. 41 (1949) 104-111	

@@ -1,0 +1,12 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+3	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmaxMisGap	343.350	101.325	0.11500	0.59500	n.a.	n.a.	Author	3	
+homPmaxMisGap	343.450	101.325	0.12423	0.60050	n.a.	n.a.	Author	1	
+homPmaxMisGap	343.450	101.325	n.a.	n.a.	n.a.	n.a.	Author	2	
+homPmaxMisGap	homogeneous pressure maximum miscibility gap	
+1	Wuyts H.: Quelques applications de l´azéotropisme à la préparation de composés organique. Bull.Soc.Chim.Belg. 33 (1924) 167-192	
+2	Griswold J.; Chu P.L.; Winsauer W.O.: (Separation of Synthesis Mixtures) Phase Equilibria in Ethyl Alcohol-Ethyl Acetate-Water System. Ind.Eng.Chem. 41 (1949) 2352-2358	
+3	van Zandijcke F.; Verhoeye L.: The Vapor-Liquid Equilibrium of Ternary Systems with Limited Miscibility at Atmospheric Pressure. J.Appl.Chem.Biotechnol. 24 (1974) 709-729	

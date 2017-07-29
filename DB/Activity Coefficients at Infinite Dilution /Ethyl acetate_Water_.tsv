@@ -1,0 +1,13 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	H2O	18.015	7732-18-5	Water	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+288.15	18.100	STAT	3	
+309.45	12.200	EBUL	2	
+313.15	11.880	EBUL	1	
+Short Term	Explanation	
+EBUL	ebulliometry	
+STAT	static method	
+1	Tochigi K.; Minami S.; Kojima K.: Prediction of Vapor-Liquid Equilibria with Chemical Reaction by Analytical Solutions of Groups. J.Chem.Eng.Japan 10 (1977) 349-354	
+2	Bergmann D.L.; Eckert C.A.: Measurement of Limiting Activity Coefficients for Aqueous Systems by Differential Ebulliometry. Fluid Phase Equilib. 63 (1991) 141-150	
+3	Pividal K.A.; Birtigh A.; Sandler S.I.: Infinite Dilution Activity Coefficients for Oxygenate Systems Determined Using a Differential Static Cell. J.Chem.Eng.Data 37 (1992) 484-487	

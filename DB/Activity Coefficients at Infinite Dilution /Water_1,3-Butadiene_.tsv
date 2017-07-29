@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C4H6	54.092	106-99-0	1,3-Butadiene	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+310.93	1600.0	CSOD	1	
+344.26	1243.8	CSOD	1	
+Short Term	Explanation	
+CSOD	calculated from solubility data	
+1	Reed C.D.; McKetta J.J.: Solubility of 1,3-Butadiene in Water. J.Chem.Eng.Data 4 (1959) 294-295	

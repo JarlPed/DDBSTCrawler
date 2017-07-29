@@ -1,0 +1,74 @@
+$$$Vapor-Liquid Equilibrium Data Set 1133	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+384.65	0.03900	0.26700	
+383.75	0.04700	0.29900	
+382.75	0.05500	0.32300	
+381.95	0.07000	0.35200	
+371.05	0.25700	0.62900	
+370.35	0.27500	0.64100	
+369.85	0.29200	0.65500	
+369.45	0.30500	0.66200	
+366.65	0.49600	0.73600	
+366.55	0.50600	0.74000	
+366.05	0.55200	0.75000	
+366.05	0.56400	0.75200	
+366.05	0.57100	0.74800	
+365.95	0.57700	0.75000	
+365.85	0.97500	0.75200	
+366.15	0.98000	0.75600	
+365.95	0.98200	0.75800	
+366.55	0.98500	0.77500	
+366.55	0.98600	0.78400	
+366.85	0.98800	0.80800	
+368.55	0.99200	0.84300	
+369.95	0.99400	0.88400	
+371.45	0.99700	0.92900	
+371.55	0.99800	0.95100	
+372.55	0.99900	0.98100	
+Source	
+Stockhardt J.S.; Hull C.M.: Vapor-Liquid Equilibria and Boiling-Point Composition Relations for Systems n-Butanol-Water and Isobutanol-Water. Ind.Eng.Chem. Ind.Ed. 23 (1931) 1438-1440	
+$$$Vapor-Liquid Equilibrium Data Set 1134	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	298.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+0.928	0.00000	0.00000	
+2.557	0.15000	0.68820	
+3.409	0.30000	0.79000	
+3.716	0.51240	0.82530	
+3.716	0.98120	0.82530	
+3.516	0.99000	0.88740	
+Source	
+Butler J.A.V.; Thomson D.W.; MacLennan W.N.: Part III. The Theory of Binary Solutions, and its Application to Aqueous-Alcoholic Solutions.. J.Chem.Soc.London  (1933) 674-686	
+$$$Vapor-Liquid Equilibrium Data Set 1135	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Pressure	102.26	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+384.10	0.05000	0.25300	
+380.00	0.09200	0.38800	
+379.55	0.09700	0.40200	
+374.00	0.18100	0.55600	
+369.80	0.29100	0.66000	
+369.50	0.30300	0.66600	
+367.15	0.41700	0.72400	
+366.17	0.54600	0.75000	
+366.15	0.55000	0.75300	
+365.85	0.75200	0.75400	
+365.91	0.90200	0.75400	
+365.95	0.98000	0.76000	
+366.00	0.98100	0.76300	
+368.55	0.99100	0.83900	
+368.95	0.99200	0.85000	
+Source	
+Smith T.E.; Bonner R.F.: Vapor-Liquid Equilibrium Still for Partially Miscible Liquids. Ind.Eng.Chem. 41 (1949) 2867-2871	
+Source	
+Butler J.A.V.; Thomson D.W.; MacLennan W.N.: Part III. The Theory of Binary Solutions, and its Application to Aqueous-Alcoholic Solutions.. J.Chem.Soc.London  (1933) 674-686	
+Stockhardt J.S.; Hull C.M.: Vapor-Liquid Equilibria and Boiling-Point Composition Relations for Systems n-Butanol-Water and Isobutanol-Water. Ind.Eng.Chem. Ind.Ed. 23 (1931) 1438-1440	
+Smith T.E.; Bonner R.F.: Vapor-Liquid Equilibrium Still for Partially Miscible Liquids. Ind.Eng.Chem. 41 (1949) 2867-2871	

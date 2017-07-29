@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+hetPmax	n.a.	101.325	n.a.	n.a.	n.a.	Author	1	
+hetPmax	298.150	71.960	0.96000	n.a.	n.a.	Author	2	
+hetPmax	308.150	104.698	0.94630	n.a.	n.a.	Author	2	
+hetPmax	heterogeneous pressure maximum	
+1	Bonauguri E.; Carpani Z.; Dall'Orto D.: Parte II. Curve di equilibrio a pressione atmosferica dei sistemi binari; curve di distillazione, di ebollizione e di rugiada del sistema ternario. Chim.Ind. Milano 38 (1956) 768-777	
+2	Villamanan M.A.; Allawi A.J.; van Ness H.C.: Vapor-Liquid-Liquid Equilibrium and Heats of Mixing for Diethyl Ether/Water at 35 °C. J.Chem.Eng.Data 29 (1984) 431-435	

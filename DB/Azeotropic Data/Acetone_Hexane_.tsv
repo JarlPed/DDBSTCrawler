@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C6H14	86.177	110-54-3	Hexane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	318.150	85.012	0.64200	n.a.	Phase equilibrium	DDBST	2	
+homPmax	322.750	101.325	0.62500	n.a.	n.a.	Author	3	
+homPmax	322.850	101.325	0.63061	n.a.	Distillation	Author	1	
+homPmax	homogeneous pressure maximum	
+1	Lecat M.: Azéotropes binaires orthobares. Ann.Chim.(Paris) 2 (1947) 158-202	
+2	Schaefer K.; Rall W.: Dampfdruckuntersuchungen und Aktivitätskoeffizienten des Systems Aceton-n-Hexan. Z.Elektrochem. 62 (1958) 1090-1092	
+3	Ogorodnikov S.K.; Kogan V.B.; Nemtsov M.S.: Liquid-Vapor Equilibrium in Binary Systems of Hydrocarbons with Acetone. III.. J.Appl.Chem.USSR 34 (1961) 313-319	

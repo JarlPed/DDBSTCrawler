@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C8H10	106.167	106-42-3	p-Xylene	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	373.150	n.a.	n.a.	n.a.	n.a.	Author from VLE	1	
+none	373.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from VLE	2	
+none	473.150	n.a.	n.a.	n.a.	n.a.	Author from VLE	1	
+none	zeotropic	
+1	Wilding W.V.; Wilson L.C.; Wilson G.M.: Vapor Liquid Equilibrium Measurements on Ten Binary Systems of Industrial Interest. AIChE Symp.Ser. 83 (1987) 49-69	
+2	Gupta S.K.: Isothermal Vapor-Liquid Equilibria of o-, m-m and p-Xylene with N-Methylpyrrolidone at 373.15 K and 393.15 K. J.Chem.Eng.Data 44 (1999) 23-25	

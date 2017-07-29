@@ -1,0 +1,56 @@
+$$$Vapor-Liquid Equilibrium Data Set 1210	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
+Temperature	317.75	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+4.426	0.00000	0.00000	
+6.199	0.02000	0.30000	
+7.973	0.04000	0.46700	
+9.746	0.06000	0.57300	
+11.519	0.08000	0.64600	
+13.279	0.09990	0.70000	
+13.279	0.99910	0.70000	
+11.519	0.99950	0.80800	
+Source	
+Schuberth H.: III. Vorausberechnung von Gleichgewichtsdaten dampfförmig-flüssig stark nichtidealer binärer Systeme und experimentelle Prüfung derselben. J.Prakt.Chem. 6 (1958) 266-288	
+$$$Vapor-Liquid Equilibrium Data Set 1211	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
+Pressure	13.332	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+341.85	0.00000	0.00000	
+335.15	0.02000	0.26800	
+330.15	0.03900	0.42600	
+324.95	0.06100	0.56000	
+320.15	0.08600	0.65900	
+318.15	0.09800	0.69500	
+318.15	0.99920	0.71300	
+320.15	0.99940	0.78800	
+324.95	1.00000	1.00000	
+Source	
+Schuberth H.: III. Vorausberechnung von Gleichgewichtsdaten dampfförmig-flüssig stark nichtidealer binärer Systeme und experimentelle Prüfung derselben. J.Prakt.Chem. 6 (1958) 266-288	
+$$$Vapor-Liquid Equilibrium Data Set 3881	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
+Temperature	317.55	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+4.333	0.00000	0.00000	
+13.332	0.10030	0.69700	
+13.332	0.19850	0.69700	
+13.332	0.29880	0.69700	
+13.332	0.40080	0.69700	
+13.332	0.49940	0.69700	
+13.332	0.60040	0.69700	
+13.332	0.70020	0.69700	
+13.332	0.80010	0.69700	
+13.332	0.90010	0.69700	
+13.332	0.99910	0.69700	
+9.293	1.00000	1.00000	
+Source	
+Weller R.; Schuberth H.; Leibnitz E.: Die Phasengleichgewichte dampfförmig-flüssig des Systems Phenol n-Butylacetat-Wasser bei 44,4°C. J.Prakt.Chem. 21 (1963) 234-249	
+Source	
+Weller R.; Schuberth H.; Leibnitz E.: Die Phasengleichgewichte dampfförmig-flüssig des Systems Phenol n-Butylacetat-Wasser bei 44,4°C. J.Prakt.Chem. 21 (1963) 234-249	
+Schuberth H.: III. Vorausberechnung von Gleichgewichtsdaten dampfförmig-flüssig stark nichtidealer binärer Systeme und experimentelle Prüfung derselben. J.Prakt.Chem. 6 (1958) 266-288	

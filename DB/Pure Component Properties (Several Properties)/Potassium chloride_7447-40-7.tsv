@@ -1,0 +1,498 @@
+Formula	Molar Mass	CAS Registry Number	Name	
+ClK	74.551	7447-40-7	Potassium chloride	
+$$$Density	
+T [K]	Density [kg/m3]	State	Reference	
+1044.15	1519.000	Liquid	4	
+1045.15	1515.000	Liquid	4	
+1058.15	1517.000	Liquid	3	
+1073.15	1494.000	Liquid	6	
+1073.15	1495.000	Liquid	5	
+1101.00	1471.000	Liquid	1	
+1106.15	1479.000	Liquid	4	
+1110.15	1485.000	Liquid	3	
+1112.00	1470.700	Liquid	1	
+1113.15	1477.000	Liquid	4	
+1123.15	1465.000	Liquid	5	
+1151.15	1461.000	Liquid	3	
+1173.15	1434.000	Liquid	5	
+1173.15	1441.000	Liquid	4	
+1173.15	1450.000	Liquid	2	
+1174.15	1439.000	Liquid	4	
+1184.00	1427.700	Liquid	1	
+1197.00	1422.200	Liquid	1	
+1248.15	1400.000	Liquid	4	
+1250.15	1398.000	Liquid	4	
+1273.15	1391.000	Liquid	2	
+1294.00	1368.800	Liquid	1	
+1317.00	1364.000	Liquid	1	
+1373.15	1332.000	Liquid	2	
+1410.00	1303.000	Liquid	1	
+1420.00	1297.000	Liquid	1	
+1473.15	1273.000	Liquid	2	
+1507.00	1264.000	Liquid	1	
+1607.00	1202.000	Liquid	1	
+Number	Source	
+1	Kirshenbaum A.D.; Cahill J.A.; McGonigal P.J.; Grosse A.V.: The Density of Liquid NaCl and KCl and an Estimate of Their Critical Constants Togesther with Those of the Other Alkali Halides. J.Inorg.Nucl.Chem. 24 (1962) 1287-1296	
+2	Burlakova V.M.; Bukhalova G.A.: Dichte und Molarvolumen von Schmelzen der Systeme Me(I)Cl - SrCl2. Zh.Prikl.Khim. 48 (1975) 2448-2450	
+3	Jaeger F.M.: Über die Temperaturabhängigkeit der molekularen freien Oberflächenenergie von Flüssigkeiten im Temperaturbereich von -80°C bis +1650°C. Z.Anorg.Allg.Chem. 101 (1917) 1-214	
+4	Mashovets V.P.; Lundina Z.F.: Dichte von einigen geschmolzenen Elektroliten. Sb.Tr.Vses.Konf.Nevod.Rast. 1 (1935) 191-212	
+5	Sandonnini C.: Sulla conduttivila elettrica di miscele di sali allo stato fuso e solido. Gazz.Chim.Ital. 50 (1920) 289-321	
+6	Treadwell W.D.; Cohen A.: Über das Gleichgewicht von Magnesiumchlorid und von Carnallitschmelzen mit Sauerstoff. Helv.Chim.Acta 22 (1939) 433-449	
+$$$Diffusion Coefficient	
+T [K]	Diffusion Coefficient [cm2/s]	State	Reference	
+1077.15	0.00215	Liquid	1	
+1147.15	0.00234	Liquid	1	
+1203.15	0.00234	Liquid	1	
+1303.15	0.00241	Liquid	1	
+Number	Source	
+1	Nagasaka Y.; Nagashima A.: Measurement of the Thermal Diffusivity of Molten KCl up to 1000°C by the Forced Rayleigh Scattering Method. Int.J.Thermophys. 9 (1988) 923-931	
+$$$Dynamic Viscosity	
+T [K]	Dynamic Viscosity [mPas]	State	Reference	
+1053.15	1.1850	Liquid	4	
+1054.15	1.0739	Liquid	1	
+1054.15	1.0742	Liquid	1	
+1054.15	1.0743	Liquid	1	
+1061.25	1.0527	Liquid	1	
+1061.25	1.0528	Liquid	1	
+1061.25	1.0529	Liquid	1	
+1061.25	1.0532	Liquid	1	
+1063.15	1.1320	Liquid	4	
+1073.15	1.0140	Liquid	5	
+1073.15	1.1000	Liquid	4	
+1073.15	1.2800	Liquid	2	
+1073.35	1.0231	Liquid	1	
+1073.35	1.0233	Liquid	1	
+1073.35	1.0234	Liquid	1	
+1073.35	1.0266	Liquid	1	
+1083.15	1.0700	Liquid	4	
+1084.45	0.9911	Liquid	1	
+1084.45	0.9915	Liquid	1	
+1084.45	0.9916	Liquid	1	
+1092.85	0.9300	Liquid	3	
+1093.15	1.0300	Liquid	4	
+1095.05	0.9668	Liquid	1	
+1095.05	0.9670	Liquid	1	
+1095.05	0.9671	Liquid	1	
+1102.25	0.9477	Liquid	1	
+1102.25	0.9478	Liquid	1	
+1102.25	0.9480	Liquid	1	
+1102.25	0.9481	Liquid	1	
+1103.15	1.0020	Liquid	4	
+1111.05	0.9274	Liquid	1	
+1111.05	0.9275	Liquid	1	
+1111.05	0.9279	Liquid	1	
+1113.15	0.9800	Liquid	4	
+1122.55	0.9017	Liquid	1	
+1122.55	0.9028	Liquid	1	
+1122.55	0.9030	Liquid	1	
+1123.15	0.9180	Liquid	4	
+1123.15	1.0800	Liquid	2	
+1133.15	0.9250	Liquid	4	
+1133.65	0.8800	Liquid	1	
+1133.65	0.8801	Liquid	1	
+1133.65	0.8804	Liquid	1	
+1133.65	0.8813	Liquid	1	
+1142.95	0.8593	Liquid	1	
+1142.95	0.8600	Liquid	1	
+1142.95	0.8601	Liquid	1	
+1142.95	0.8605	Liquid	1	
+1143.15	0.9080	Liquid	4	
+1153.15	0.8850	Liquid	4	
+1154.25	0.8383	Liquid	1	
+1154.25	0.8384	Liquid	1	
+1154.25	0.8386	Liquid	1	
+1154.25	0.8387	Liquid	1	
+1162.15	0.8232	Liquid	1	
+1162.15	0.8234	Liquid	1	
+1162.15	0.8235	Liquid	1	
+1162.15	0.8237	Liquid	1	
+1163.15	0.8690	Liquid	4	
+1173.15	0.8450	Liquid	4	
+1173.15	0.9200	Liquid	2	
+1174.65	0.8012	Liquid	1	
+1174.65	0.8018	Liquid	1	
+1174.65	0.8020	Liquid	1	
+1183.15	0.8300	Liquid	4	
+1203.15	0.8000	Liquid	4	
+Number	Source	
+1	Brockner W.; Torklep K.; Oye H.A.: Viscosity of Molten Alkali Chlorides. J.Chem.Eng.Data 26 (1981) 250-253	
+2	Sheiko I.N.: Investigation of some physical-chemical properties of the fluoride-chloride fused systems of sodium potassium  and zirconium. Fiziceskaja Chimija rasplavlennych solej : Trudy 2-go Vsesojuznogo Sovescanija po Fiziceskoj Chimii Rasplavlennych Solej 2 (1965) 79-87	
+3	Dumas D.; Fjeld B.; Grjotheim K.; Oye H.A.: Viscosities of some binary mixtures between MgCl2, CaCl2 and AlkCl. Acta Chem.Scand. 27 (1973) 319-328	
+4	Murgulescu I.G.; Zuga S.: Les systèmes: KCl + NaCl, KCl + KBr, PbBr2 + KBr. Rev.Roum.Chim. 10 (1965) 129-139	
+5	Brockner W.; Grjotheim K.; Ohta T.; Oye H.A.: Part II: Viscosities of the Alkali Chlorides. Ber.Bunsen-Ges.Phys.Chem. 79 (1975) 344-347	
+$$$Entropy	
+T [K]	Molar Entropy [J/(mol*K)]	State	Reference	
+298.16	82.34	Solid	1	
+Number	Source	
+1	Strelkov P.G.; Itskevich E.S.; Kostryukov V.N.; Mirskaya G.G.: Entropy of Potassium Chloride at 298.16 K. Zh.Fiz.Khim. 28 (1954) 645-649	
+$$$Heat of Sublimation	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+900.00	222589.00	Solid-Gas	1	
+Number	Source	
+1	Mayer J.E.; Hoelder Wintner I.: Measurements of low vapor pressures of alkali halides. J.Chem.Phys. 6 (1938) 301-306	
+$$$Melting Point	
+T [K]	P [kPa]	State	Reference	
+1041.15		Solid-Liquid	1	
+1043.15		Solid-Liquid	5	
+1043.15	100.000	Solid-Liquid	4	
+1047.00	101.325	Solid-Liquid	2	
+1056.15	50000.000	Solid-Liquid	4	
+1068.15	100000.000	Solid-Liquid	4	
+1081.15	150000.000	Solid-Liquid	4	
+1094.15	200000.000	Solid-Liquid	4	
+Number	Source	
+1	Yamada M.; Tago M.; Fukusako S.; Horibe A.: Melting Point and Supercooling Characteristics of Molten Salt. Thermochim.Acta 218 (1993) 401-411	
+2	Wang S.; Reddy R.G.: Experimental Determination of Vapor Pressures of KCl. Proceedings of the Ninth International Symposium on Molten Salts 94-13 (1994) 146-155	
+3	Jaeger F.M.: Über die Temperaturabhängigkeit der molekularen freien Oberflächenenergie von Flüssigkeiten im Temperaturbereich von -80°C bis +1650°C. Z.Anorg.Allg.Chem. 101 (1917) 1-214	
+4	Chou I.-M.; Sterner S.M.; Pitzer K.S.: IV. Differential Thermal Analysis of the Sylvite Liquidus in the KCl-H2O Binary, the Liquidus in the NaCl-KCl-H2O Ternary, and the Solidus in the NaCl-KCl Binary to 2 Kilobars Pressure, and a Summary of Experimental Data for Thermodynamic-PTX Analysis of Solid-Liquid Equilibria at Elevated P-T Conditions. Geochim.Cosmochim.Acta 56 (1992) 2281-2293	
+5	Marchidan D.I.; Gambino M.: Enthalpie de Fusion des Melanges Binaires de quelques Halogenures Alcalins. Bull.Soc.Chim.Fr. 6 (1966) 1954-1956	
+6	Yastrebova L.F.; Borina A.F.; Ravich M.I.: Solubility of Calcium Molybdate and Tungstate in Aqueous Potassium and Sodium Chlorides at High Temperatures. Russ.J.Inorg.Chem. 8 (1963) 105-110	
+$$$Molar Heat Capacity (cP)	
+T [K]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
+2.924	0.00771	Solid	4	
+2.925	0.00771	Solid	4	
+3.312	0.01101	Solid	4	
+3.316	0.01142	Solid	4	
+3.567	0.01419	Solid	4	
+3.567	0.01425	Solid	4	
+3.912	0.01828	Solid	4	
+3.929	0.01854	Solid	4	
+4.23	0.02304	Solid	4	
+4.231	0.02304	Solid	4	
+60.00	26.255	Solid	1	
+65.00	28.715	Solid	1	
+70.00	30.744	Solid	1	
+75.00	32.52	Solid	1	
+80.00	34.125	Solid	1	
+85.00	35.606	Solid	1	
+90.00	36.886	Solid	1	
+95.00	38.01	Solid	1	
+100.00	39.01	Solid	1	
+105.00	39.91	Solid	1	
+110.00	40.74	Solid	1	
+115.00	41.52	Solid	1	
+120.00	42.22	Solid	1	
+123.15	41.80	Solid	3	
+125.00	42.84	Solid	1	
+130.00	43.43	Solid	1	
+135.00	43.97	Solid	1	
+140.00	44.48	Solid	1	
+143.15	43.915	Solid	3	
+145.00	44.89	Solid	1	
+150.00	45.31	Solid	1	
+155.00	45.69	Solid	1	
+160.00	46.07	Solid	1	
+163.15	46.35	Solid	3	
+165.00	46.40	Solid	1	
+170.00	46.69	Solid	1	
+175.00	46.99	Solid	1	
+180.00	47.24	Solid	1	
+185.00	47.49	Solid	1	
+190.00	47.74	Solid	1	
+193.15	48.49	Solid	3	
+195.00	47.99	Solid	1	
+200.00	48.20	Solid	1	
+205.00	48.41	Solid	1	
+210.00	48.62	Solid	1	
+215.00	48.83	Solid	1	
+220.00	48.99	Solid	1	
+225.00	49.20	Solid	1	
+230.00	49.37	Solid	1	
+233.15	49.45	Solid	3	
+235.00	49.50	Solid	1	
+240.00	49.66	Solid	1	
+245.00	49.79	Solid	1	
+250.00	49.92	Solid	1	
+253.15	49.87	Solid	3	
+255.00	50.08	Solid	1	
+260.00	50.21	Solid	1	
+265.00	50.38	Solid	1	
+270.00	50.50	Solid	1	
+273.00	49.28	Solid	2	
+273.00	49.91	Solid	2	
+273.00	51.78	Solid	2	
+273.15	50.25	Solid	3	
+275.00	50.63	Solid	1	
+280.00	50.75	Solid	1	
+283.15	50.53	Solid	3	
+285.00	50.88	Solid	1	
+290.00	51.00	Solid	1	
+293.15	50.80	Solid	3	
+295.00	51.13	Solid	1	
+298.00	49.60	Solid	2	
+298.00	50.84	Solid	2	
+298.00	52.40	Solid	2	
+298.16	51.17	Solid	1	
+300.00	51.21	Solid	1	
+303.15	50.99	Solid	3	
+305.00	51.34	Solid	1	
+310.00	51.46	Solid	1	
+313.15	51.29	Solid	3	
+315.00	51.59	Solid	1	
+320.00	51.71	Solid	1	
+323.00	50.22	Solid	2	
+323.00	50.53	Solid	2	
+323.00	52.71	Solid	2	
+323.15	51.42	Solid	3	
+325.00	51.84	Solid	1	
+330.00	51.97	Solid	1	
+333.15	51.77	Solid	3	
+335.00	52.09	Solid	1	
+340.00	52.22	Solid	1	
+343.15	51.97	Solid	3	
+345.00	52.38	Solid	1	
+348.00	50.53	Solid	2	
+348.00	50.84	Solid	2	
+348.00	53.03	Solid	2	
+350.00	52.55	Solid	1	
+353.15	52.11	Solid	3	
+363.15	52.11	Solid	3	
+373.00	50.84	Solid	2	
+373.00	51.47	Solid	2	
+373.00	53.34	Solid	2	
+373.15	52.23	Solid	3	
+383.15	52.33	Solid	3	
+393.15	52.39	Solid	3	
+403.15	52.46	Solid	3	
+413.15	52.49	Solid	3	
+423.15	52.72	Solid	3	
+433.15	52.79	Solid	3	
+443.15	52.88	Solid	3	
+453.15	53.05	Solid	3	
+463.15	53.15	Solid	3	
+473.15	53.26	Solid	3	
+493.15	53.48	Solid	3	
+513.15	53.74	Solid	3	
+523.15	53.86	Solid	3	
+Number	Source	
+1	Kolesov V.P.; Paukov I.E.; Skuratov S.M.: Free Energy Change in the Polymerisation of Lactams under Standard Conditions [Low Temperature Heat Capacities of Lactams and of Potassium Chloride]. Russ.J.Phys.Chem. 36 (1962) 400-405	
+2	Burns J.A.; Verrall R.E.: II. Heat Capacities of Solid State from 273 to 373 K.. Thermochim.Acta 9 (1974) 277-287	
+3	Barskii Yu.P.; Egorov G.M.: Investigation of Heat Capacity of some Inorganic Salts. Viniti  (1973) 1-39	
+4	Keesom P.H.; Pearlman N.: The Heat Capacity of KCl below 4°K. Phys.Rev. 91 (1953) 1354-1355	
+$$$Speed of Sound	
+T [K]	Ultrasonic Velocity [m/s]	State	Reference	
+273.15	2273.000	Solid	5	
+1053.15	1579.600	Liquid	4	
+1058.15	1585.800	Liquid	3	
+1073.15	1581.000	Liquid	1	
+1103.15	1535.600	Liquid	4	
+1103.15	1555.050	Liquid	5	
+1123.15	1528.700	Liquid	3	
+1133.15	1529.100	Liquid	5	
+1153.15	1491.600	Liquid	4	
+1163.15	1503.150	Liquid	5	
+1173.15	1494.500	Liquid	1	
+1193.15	1467.200	Liquid	3	
+1193.15	1477.200	Liquid	5	
+1203.15	1447.600	Liquid	4	
+1243.15	1433.950	Liquid	5	
+1248.15	1419.000	Liquid	3	
+1253.15	1403.600	Liquid	4	
+1273.15	1408.000	Liquid	2	
+1279.15	1391.700	Liquid	3	
+1283.15	1377.200	Liquid	4	
+1293.15	1379.400	Liquid	3	
+Number	Source	
+1	Sternberg S.; Vasilescu V.: KCl + KBr, PbCl2 + NaCI, PbCl2 + KCl. Rev.Roum.Chim. 12 (1967) 1187-1197	
+2	Sternberg S.; Vasilescu V.: Ultrasonic Velocity Compressibility, and Excess Volume for Binary Mixtures of Molten salts MgCl2 + BaCl2, MgCl2 + KCl. J.Chem.Thermodyn. 1 (1969) 595-606	
+3	Bockris J.O'M.; Richards N.E.: Some Alkali Halides and Nitrates. Proc.Roy.Soc.London Ser.A 241 (1957) 44-66	
+4	Richards N.E.; Brauner E.J.; Bockris J.O'M.: . Br.J.Appl.Phys. 6 (1955) 387-390	
+5	Sternberg S.; Vasilescu V.: Ultrasonic Velocity and Compressibility in fused AgCl-AgBr, AgCl-KCl and AgI. Rev.Roum.Chim. 21 (1976) 1457-1461	
+$$$Surface Tension	
+T [K]	Surface Tension [mN/m]	State	Reference	
+1072.65	95.8000	Liquid	3	
+1073.00	98.9000	Liquid	1	
+1073.15	96.1000	Liquid	4	
+1073.15	96.3000	Liquid	5	
+1098.15	95.0000	Liquid	2	
+1100.25	94.0000	Liquid	3	
+1103.15	94.0000	Liquid	6	
+1107.15	93.7000	Liquid	6	
+1117.15	93.4000	Liquid	6	
+1121.15	92.8000	Liquid	6	
+1123.15	92.3000	Liquid	4	
+1123.15	92.8000	Liquid	6	
+1131.15	91.8000	Liquid	6	
+1134.65	91.3000	Liquid	3	
+1139.15	91.7000	Liquid	6	
+1141.15	91.2000	Liquid	6	
+1142.15	90.8000	Liquid	6	
+1148.15	92.0000	Liquid	2	
+1151.15	90.5000	Liquid	6	
+1153.15	90.6000	Liquid	6	
+1158.15	90.0000	Liquid	2	
+1158.25	89.7000	Liquid	3	
+1165.15	89.8000	Liquid	6	
+1173.15	88.6000	Liquid	4	
+1181.65	88.0000	Liquid	3	
+1192.15	87.9000	Liquid	6	
+1214.15	85.8000	Liquid	3	
+1259.15	82.2000	Liquid	3	
+1302.15	79.1000	Liquid	3	
+1327.15	77.2000	Liquid	3	
+1360.65	75.2000	Liquid	3	
+1376.75	73.7000	Liquid	3	
+1398.15	72.5000	Liquid	3	
+1440.15	69.6000	Liquid	3	
+Number	Source	
+1	Patrov B.V.: Surface tension of melts of mutual systems Na,K/Cl,SO4 and Li,K/Cl,NO3. Zh.Prikl.Khim. 70 (1997) 1900-1902	
+2	Karamyshev E.P.; Vitkin A.I.; Ozhegov P.I.; Levenkov V.V.; Kipov I.G.: Oberflächenspannung von KCl-ZnCl2-Schmelzen. Zh.Fiz.Khim. 47 (1973) 1049-1049	
+3	Jaeger F.M.: Über die Temperaturabhängigkeit der molekularen freien Oberflächenenergie von Flüssigkeiten im Temperaturbereich von -80°C bis +1650°C. Z.Anorg.Allg.Chem. 101 (1917) 1-214	
+4	Sheiko I.N.: Investigation of some physical-chemical properties of the fluoride-chloride fused systems of sodium potassium  and zirconium. Fiziceskaja Chimija rasplavlennych solej : Trudy 2-go Vsesojuznogo Sovescanija po Fiziceskoj Chimii Rasplavlennych Solej 2 (1965) 79-87	
+5	Zezyanov S.P.; Il'ichev V.A.: Surface Tension of Melts of the CaCl2 - KCl and CaCl2 - MgCl2 Systems. Russ.J.Inorg.Chem. 11 (1966) 936-937	
+6	Peake J.S.; Bothwell M.R.: The Surface Tensions and their Temperature Coefficients of Molten Mixtures of Potassium Chloride and Barium Chloride. J.Am.Chem.Soc. 76 (1954) 2656-2659	
+$$$Thermal Conductivity	
+T [K]	Thermal Conductivity [W/(m*K)]	State	Reference	
+299.15	6.6570	Solid	2	
+1056.00	0.3890	Liquid	1	
+1057.00	0.3780	Liquid	1	
+1057.00	0.3830	Liquid	1	
+1057.00	0.3860	Liquid	1	
+1058.00	0.3620	Liquid	1	
+1091.00	0.3600	Liquid	1	
+1091.00	0.3690	Liquid	1	
+1091.00	0.3820	Liquid	1	
+1091.00	0.3890	Liquid	1	
+1093.15	0.3609	Liquid	3	
+1104.00	0.3740	Liquid	1	
+1104.00	0.3850	Liquid	1	
+1106.00	0.3820	Liquid	1	
+1106.00	0.3850	Liquid	1	
+1108.00	0.3840	Liquid	1	
+1143.15	0.4124	Liquid	3	
+1150.00	0.3640	Liquid	1	
+1151.00	0.3540	Liquid	1	
+1152.00	0.3450	Liquid	1	
+1152.00	0.3510	Liquid	1	
+1155.00	0.3450	Liquid	1	
+1158.00	0.3740	Liquid	1	
+1159.00	0.3660	Liquid	1	
+1160.00	0.3660	Liquid	1	
+1161.00	0.3550	Liquid	1	
+1162.00	0.3450	Liquid	1	
+1189.00	0.3640	Liquid	1	
+1190.00	0.3660	Liquid	1	
+1190.00	0.3690	Liquid	1	
+1191.00	0.3580	Liquid	1	
+1192.00	0.3580	Liquid	1	
+1196.00	0.3660	Liquid	1	
+1197.00	0.3570	Liquid	1	
+1198.00	0.3630	Liquid	1	
+1198.00	0.3800	Liquid	1	
+1199.00	0.3570	Liquid	1	
+1245.00	0.3350	Liquid	1	
+1245.00	0.3470	Liquid	1	
+1246.00	0.3170	Liquid	1	
+1247.00	0.3560	Liquid	1	
+1249.00	0.3400	Liquid	1	
+1289.00	0.3560	Liquid	1	
+1291.00	0.3490	Liquid	1	
+1291.00	0.3550	Liquid	1	
+1297.00	0.3640	Liquid	1	
+1331.00	0.3260	Liquid	1	
+1335.00	0.3100	Liquid	1	
+Number	Source	
+1	Nagasaka Y.; Nakazawa N.; Nagashima A.: I. Molten LiCl, NaCl, KCl, RbCl, and CsCl. Int.J.Thermophys. 13 (1992) 555-574	
+2	Srinivasan R.: A Simple Apparatus for the Determination of the Thermal Conductivity of Crystals. J.Indian Inst.Sci.Sec.A Sci. 37 (1955) 200-214	
+3	McDonald J.; Davis H.T.: Hot-Wire Technique. Phys.Chem.Liq. 2 (1971) 119-134	
+$$$Thermal Expansion Coefficient	
+T [K]	Thermal Expansion Coefficient [/K]	State	Reference	
+103.15	2.34599992837E-5	Solid	1	
+123.15	2.78999996226E-5	Solid	1	
+143.15	2.99000002997E-5	Solid	1	
+163.15	3.09999995807E-5	Solid	1	
+183.15	3.23399981426E-5	Solid	1	
+203.15	3.3579999581E-5	Solid	1	
+223.15	3.46199994965E-5	Solid	1	
+243.15	3.37199999194E-5	Solid	1	
+263.15	3.42999992426E-5	Solid	1	
+283.15	3.44100008078E-5	Solid	1	
+303.15	3.55900010618E-5	Solid	1	
+323.15	3.72399990738E-5	Solid	1	
+343.15	3.70499983546E-5	Solid	1	
+363.15	3.82200014428E-5	Solid	1	
+383.15	3.89000015275E-5	Solid	1	
+403.15	3.96200011892E-5	Solid	1	
+423.15	4.05200007663E-5	Solid	1	
+443.15	3.98800002586E-5	Solid	1	
+463.15	4.11299988627E-5	Solid	1	
+483.15	4.13199995819E-5	Solid	1	
+503.15	4.13099987782E-5	Solid	1	
+523.15	4.16199982283E-5	Solid	1	
+543.15	4.33300010627E-5	Solid	1	
+563.15	4.40000003437E-5	Solid	1	
+583.15	4.484999954E-5	Solid	1	
+603.15	4.61700001324E-5	Solid	1	
+623.15	4.69400001748E-5	Solid	1	
+643.15	4.75800006825E-5	Solid	1	
+663.15	4.82399991597E-5	Solid	1	
+Number	Source	
+1	Salimäki K.E.: Die Wärmeausdehnungskoeffizienten von KCl und KBr sowie ihrer festen Lösungen im Temperaturintervall -180° bis 400° C. Ann.Acad.Sci.Fenn.Ser.A6: Phys. 56 (1960) 1-40	
+$$$Vapor Pressure	
+T [K]	P [kPa]	State	Reference	
+623.83	3.58842000558E-009	Solid-Gas	2	
+646.00	1.2159099505E-008	Solid-Gas	2	
+650.20	1.67843001719E-008	Solid-Gas	2	
+668.00	4.73045993488E-008	Solid-Gas	2	
+687.76	1.75753001486E-007	Solid-Gas	2	
+706.71	3.58841987236E-007	Solid-Gas	2	
+738.01	2.01791999643E-006	Solid-Gas	2	
+753.01	3.84505983675E-006	Solid-Gas	2	
+757.00	4.84064003103E-006	Solid-Gas	2	
+768.64	7.85060001363E-006	Solid-Gas	2	
+771.01	9.01370003703E-006	Solid-Gas	2	
+775.19	9.88331976259E-006	Solid-Gas	2	
+791.77	1.97200006369E-005	Solid-Gas	2	
+794.91	2.37099993683E-005	Solid-Gas	2	
+818.33	6.68200009386E-005	Solid-Gas	2	
+838.22	0.000139600000693	Solid-Gas	2	
+847.20	0.000135	Crystal 1-Vapor	5	
+855.60	0.000189	Crystal 1-Vapor	5	
+865.80	0.00035879999632	Solid-Gas	2	
+879.40	0.000395	Crystal 1-Vapor	5	
+887.31	0.000732699991204	Solid-Gas	2	
+892.10	0.000622	Crystal 1-Vapor	5	
+899.28	0.000943900027778	Solid-Gas	2	
+899.40	0.000930589972995	Solid-Gas	1	
+903.80	0.000886	Crystal 1-Vapor	5	
+910.00	0.00111	Crystal 1-Vapor	5	
+918.00	0.00138	Crystal 1-Vapor	5	
+920.10	0.00190650997683	Solid-Gas	1	
+921.66	0.00184	Solid-Gas	2	
+926.50	0.002373	Solid-Gas	1	
+929.10	0.00203	Crystal 1-Vapor	5	
+932.30	0.00282643991522	Solid-Gas	1	
+935.30	0.002933	Solid-Gas	1	
+936.20	0.00249	Crystal 1-Vapor	5	
+945.18	0.003349	Solid-Gas	2	
+1179.15	0.5733	Vapor-Liquid	3	
+1205.15	0.8346	Vapor-Liquid	3	
+1232.15	1.204	Vapor-Liquid	3	
+1258.35	1.712	Vapor-Liquid	3	
+1284.25	2.412	Vapor-Liquid	3	
+1310.05	3.313	Vapor-Liquid	3	
+1335.75	4.533	Vapor-Liquid	3	
+1361.15	6.051	Vapor-Liquid	3	
+1378.15	7.271	Vapor-Liquid	3	
+1389.15	9.013	Vapor-Liquid	4	
+1402.15	9.853	Vapor-Liquid	4	
+1461.15	16.639	Vapor-Liquid	4	
+1463.15	15.959	Vapor-Liquid	4	
+1475.15	17.425	Vapor-Liquid	4	
+1539.15	34.064	Vapor-Liquid	4	
+1543.15	30.571	Vapor-Liquid	4	
+1551.15	34.971	Vapor-Liquid	4	
+1555.15	35.237	Vapor-Liquid	4	
+1631.15	65.901	Vapor-Liquid	4	
+1631.15	70.567	Vapor-Liquid	4	
+1639.15	70.288	Vapor-Liquid	4	
+1641.15	69.488	Vapor-Liquid	4	
+1684.15	100.752	Vapor-Liquid	4	
+1684.15	100.858	Vapor-Liquid	4	
+1691.15	101.112	Vapor-Liquid	4	
+Number	Source	
+1	Mayer J.E.; Hoelder Wintner I.: Measurements of low vapor pressures of alkali halides. J.Chem.Phys. 6 (1938) 301-306	
+2	Zimm B.H.; Mayer J.E.: Vapor pressures, heats of vaporization, and entropies of some alkali halides. J.Chem.Phys. 12 (1944) 362-369	
+3	Fiock E.F.; Rodebush W.H.: The vapor pressures and thermal properties of potassium and some alkali halides. J.Am.Chem.Soc. 48 (1926) 2522-2528	
+4	Von Wartenberg H.; Albrecht P.: Die Dampfdrucke einiger Salze.. Z.Elektrochem.Angew.Physik.Chem. 27 (1921) 162-167	
+5	Deitz V.: The Vapor Pressure of Potassium Chloride and Caesium Iodide Crystals. J.Chem.Phys. 4 (1936) 575-580	

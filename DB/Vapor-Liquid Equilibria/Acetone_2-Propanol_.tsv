@@ -1,0 +1,59 @@
+$$$Vapor-Liquid Equilibrium Data Set 591	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+Temperature	298.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+5.906	0.00000	0.00000	
+13.332	0.17500	0.59900	
+18.612	0.33900	0.73500	
+22.291	0.51400	0.79800	
+25.331	0.66900	0.85500	
+29.544	0.83900	0.91000	
+30.198	1.00000	1.00000	
+Source	
+Parks G.S.; Chaffee C.S.: Some Physical-Chemical Properties of Mixtures of Acetone and Iso-Propyl Alcohol. J.Phys.Chem. 31 (1927) 439-447	
+$$$Vapor-Liquid Equilibrium Data Set 1522	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+Temperature	328.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+34.393	0.02370	0.11660	
+39.930	0.06420	0.27770	
+44.208	0.09710	0.36250	
+52.026	0.15910	0.47620	
+59.050	0.23530	0.57220	
+60.848	0.26870	0.60240	
+69.000	0.38790	0.69950	
+71.177	0.43140	0.72840	
+75.068	0.52340	0.76550	
+80.287	0.60840	0.80980	
+85.038	0.72160	0.86170	
+85.942	0.73380	0.87290	
+91.220	0.85690	0.92400	
+94.308	0.92140	0.96290	
+Source	
+Freshwater D.C.; Pike K.A.: Vapor-Liquid Equilibrium Data for Systems of Acetone-Methanol Isopropanol. J.Chem.Eng.Data 12 (1967) 179-183	
+$$$Vapor-Liquid Equilibrium Data Set 1524	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+352.93	0.03590	0.11350	
+348.56	0.10800	0.30180	
+346.56	0.14680	0.37930	
+344.78	0.19270	0.45250	
+342.47	0.24860	0.52610	
+338.16	0.39970	0.68600	
+337.75	0.42150	0.69740	
+336.95	0.46290	0.72420	
+334.34	0.60770	0.80810	
+331.90	0.76910	0.88730	
+329.93	0.92490	0.96140	
+Source	
+Freshwater D.C.; Pike K.A.: Vapor-Liquid Equilibrium Data for Systems of Acetone-Methanol Isopropanol. J.Chem.Eng.Data 12 (1967) 179-183	
+Source	
+Parks G.S.; Chaffee C.S.: Some Physical-Chemical Properties of Mixtures of Acetone and Iso-Propyl Alcohol. J.Phys.Chem. 31 (1927) 439-447	
+Freshwater D.C.; Pike K.A.: Vapor-Liquid Equilibrium Data for Systems of Acetone-Methanol Isopropanol. J.Chem.Eng.Data 12 (1967) 179-183	

@@ -1,0 +1,18 @@
+$$$Excess Heat Capacity Data Set 313	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	298.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+5.2930	0.09997	
+8.4340	0.19995	
+10.6650	0.29993	
+12.0360	0.39992	
+3.8390	0.98500	
+2.6180	0.99000	
+1.9710	0.99250	
+1.3180	0.99500	
+Source	
+Ogawa H.; Murakami S.: Excess Isobaric Heat Capacities for Water + Alkanol Mixtures at 298.15 K. Thermochim.Acta 109 (1986) 145-154	
+Source	
+Ogawa H.; Murakami S.: Excess Isobaric Heat Capacities for Water + Alkanol Mixtures at 298.15 K. Thermochim.Acta 109 (1986) 145-154	

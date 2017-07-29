@@ -1,0 +1,65 @@
+$$$Vapor-Liquid Equilibrium Data Set 1034	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+448.95	0.030333	0.57499	
+411.75	0.11977	0.93894	
+400.75	0.19062	0.97603	
+394.75	0.23049	0.98181	
+388.95	0.35928	0.98212	
+380.45	0.56891	0.99110	
+375.95	0.74121	0.99530	
+373.95	0.79786	0.99737	
+374.65	0.88029	0.99825	
+375.65	0.92391	0.99884	
+373.65	0.96672	0.99942	
+Source	
+Kireev V.A.; Popov A.A.: Gleichgewicht in flüssigen Mischungen und Lösungen. I.Siedetemperaturen und  Dampfzusammensetzung  der wässrigen Lösungen von Ethylenglykol und Ethylenoxyd. Zh.Prikl.Khim. 7 (1934) 489-494	
+$$$Vapor-Liquid Equilibrium Data Set 4730	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Pressure	1.3332	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+360.15	0.00800	0.33200	
+359.15	0.01200	0.43700	
+350.25	0.02800	0.67900	
+339.45	0.05100	0.82900	
+335.95	0.07400	0.88000	
+335.15	0.10300	0.91700	
+326.65	0.14500	0.95000	
+320.35	0.19600	0.96900	
+308.25	0.31900	0.98700	
+302.35	0.39200	0.99200	
+296.65	0.51700	0.99580	
+295.15	0.59000	0.99710	
+293.45	0.64800	0.99780	
+292.65	0.70100	0.99830	
+291.55	0.75600	0.99870	
+Source	
+Sokolov N.M.; Tsygankova L.N.; Zhavoronkov N.M.: The Liquid - Vapor Equilibrium in the Water -  Ethylene Glycol and Water -  1,2 - Proylene Glycol Systems at Various Pressures. Theor.Found.Chem.Eng. 5 (1971) 817-820	
+$$$Vapor-Liquid Equilibrium Data Set 4731	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Pressure	3.333	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+376.65	0.00900	0.30200	
+366.95	0.02400	0.56300	
+356.15	0.05300	0.77900	
+347.65	0.10000	0.89600	
+337.15	0.15200	0.94400	
+330.15	0.21800	0.97000	
+321.25	0.31500	0.98400	
+315.95	0.40400	0.99050	
+312.15	0.51000	0.99400	
+309.95	0.59800	0.99600	
+306.15	0.70600	0.99780	
+303.55	0.79500	0.99870	
+Source	
+Sokolov N.M.; Tsygankova L.N.; Zhavoronkov N.M.: The Liquid - Vapor Equilibrium in the Water -  Ethylene Glycol and Water -  1,2 - Proylene Glycol Systems at Various Pressures. Theor.Found.Chem.Eng. 5 (1971) 817-820	
+Source	
+Kireev V.A.; Popov A.A.: Gleichgewicht in flüssigen Mischungen und Lösungen. I.Siedetemperaturen und  Dampfzusammensetzung  der wässrigen Lösungen von Ethylenglykol und Ethylenoxyd. Zh.Prikl.Khim. 7 (1934) 489-494	
+Sokolov N.M.; Tsygankova L.N.; Zhavoronkov N.M.: The Liquid - Vapor Equilibrium in the Water -  Ethylene Glycol and Water -  1,2 - Proylene Glycol Systems at Various Pressures. Theor.Found.Chem.Eng. 5 (1971) 817-820	

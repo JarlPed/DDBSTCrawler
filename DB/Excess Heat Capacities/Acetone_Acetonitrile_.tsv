@@ -1,0 +1,22 @@
+$$$Excess Heat Capacity Data Set 575	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	298.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+-0.0660	0.07690	
+-0.0160	0.16920	
+0.0320	0.26220	
+0.0760	0.35860	
+0.1170	0.44170	
+0.1310	0.50560	
+0.1480	0.58280	
+0.1470	0.67440	
+0.1290	0.75950	
+0.1160	0.81460	
+0.0660	0.90610	
+0.0400	0.95020	
+Source	
+Grolier J.-P.E.; Roux-Desgranges G.; Berkane M.; Wilhelm E.: 1. Mixtures containing acetonitrile. J.Chem.Thermodyn. 23 (1991) 421-429	
+Source	
+Grolier J.-P.E.; Roux-Desgranges G.; Berkane M.; Wilhelm E.: 1. Mixtures containing acetonitrile. J.Chem.Thermodyn. 23 (1991) 421-429	

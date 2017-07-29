@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	C4H10O	74.123	71-36-3	Acetic acid butyl ester	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	323.850	6.666	0.37000	n.a.	n.a.	Author	2	
+homPmax	389.970	101.325	0.77000	n.a.	n.a.	Author	3	
+homPmax	390.980	103.470	0.81400	n.a.	n.a.	Author	1	
+homPmax	homogeneous pressure maximum	
+1	Figurski G.; von Weber U.: Experimentelle Bestimmung und Auswertung. Chem.Techn.(Leipzig) 43 (1991) 18-21	
+2	Sheinker Yu.N.; Peresleni E.M.: Dampf-Flüssig-Gleichgewicht in einigen binären Systemen bei niedrigen Drücken. Zh.Fiz.Khim. 26 (1952) 1103-1109	
+3	Beregovykh V.V.; Timofeev V.S.; Lukyanova P.N.; Yakushev V.M.; Serafimov L.A.: Dampf-Flüssig-Gleichgewicht in Systemen, die aus Wasser, n-Butylacetat und C1-C5-Alkoholen gebildet werden. Uch.Zap.Mosk.Inst.Tonkoj Khim.Tekhnol. 1 (1971) 38-44	

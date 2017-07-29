@@ -1,0 +1,44 @@
+$$$Vapor-Liquid Equilibrium Data Set 536	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+355.05	0.12400	0.14100	
+354.55	0.24000	0.26650	
+354.45	0.24250	0.27300	
+354.15	0.34800	0.38450	
+353.65	0.45550	0.48500	
+353.65	0.45700	0.49550	
+353.35	0.55200	0.58950	
+353.25	0.55900	0.59700	
+353.05	0.61350	0.64600	
+352.55	0.74250	0.77000	
+352.25	0.82950	0.85450	
+352.25	0.83350	0.85800	
+351.95	0.91500	0.92950	
+Source	
+Ballard L.H.; van Winkle M.: Vapor-Liquid Equilibria at 760 Mm. Pressure. 2-Propanol-Methanol, 2-Propanol-Ethyl Alcohol, 2-Propanol-Propanol, and 2-Propanol-2-Butyl Alcohol Systems. Ind.Eng.Chem. 44 (1952) 2450-2453	
+$$$Vapor-Liquid Equilibrium Data Set 2850	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+355.54	0.00000	0.00000	
+354.65	0.18000	0.19350	
+354.30	0.30200	0.32350	
+354.03	0.36550	0.41400	
+353.83	0.40100	0.42750	
+353.42	0.51400	0.56000	
+353.25	0.54100	0.57250	
+353.05	0.62900	0.66200	
+352.72	0.71820	0.75360	
+352.18	0.79160	0.82500	
+352.10	0.86060	0.87050	
+351.61	1.00000	1.00000	
+Source	
+Kojima K.; Ochi K.; Nakazawa Y.: Relationship between Liquid Activity Coefficient and Composition for Ternary Systems. Int.Chem.Eng. 9 (1969) 342-347	
+Source	
+Ballard L.H.; van Winkle M.: Vapor-Liquid Equilibria at 760 Mm. Pressure. 2-Propanol-Methanol, 2-Propanol-Ethyl Alcohol, 2-Propanol-Propanol, and 2-Propanol-2-Butyl Alcohol Systems. Ind.Eng.Chem. 44 (1952) 2450-2453	
+Kojima K.; Ochi K.; Nakazawa Y.: Relationship between Liquid Activity Coefficient and Composition for Ternary Systems. Int.Chem.Eng. 9 (1969) 342-347	

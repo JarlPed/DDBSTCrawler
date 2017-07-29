@@ -1,0 +1,95 @@
+$$$Excess Volume Data Set 7437	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H6	78.114	71-43-2	Benzene	
+3	C6H12	84.161	110-82-7	Cyclohexane	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
+0.2057	0.79840	0.09990	
+0.2512	0.70070	0.10240	
+0.26316	0.60770	0.10100	
+0.3001	0.50790	0.10070	
+0.3186	0.40500	0.09980	
+0.3402	0.30100	0.10270	
+0.33836	0.20230	0.10280	
+0.33005	0.10210	0.10170	
+0.3377	0.69770	0.20410	
+0.3831	0.59640	0.20330	
+0.42145	0.49630	0.20340	
+0.4389	0.40000	0.20190	
+0.4967	0.30120	0.20280	
+0.5113	0.20120	0.20280	
+0.4763	0.10300	0.19840	
+0.4194	0.59450	0.30530	
+0.45625	0.50010	0.30220	
+0.4580	0.40050	0.30420	
+0.5459	0.30030	0.30440	
+0.5767	0.20540	0.30370	
+0.5901	0.10330	0.30280	
+0.4788	0.50160	0.40000	
+0.5174	0.40040	0.40040	
+0.5687	0.29680	0.40200	
+0.6116	0.20190	0.39880	
+0.6442	0.10420	0.40100	
+0.4991	0.40440	0.49670	
+0.5588	0.29980	0.49980	
+0.6339	0.19850	0.50340	
+0.6452	0.10370	0.49570	
+0.4937	0.30170	0.59480	
+0.5945	0.19930	0.59810	
+0.6570	0.10390	0.59340	
+0.4641	0.19930	0.69840	
+0.5303	0.10290	0.69720	
+0.3898	0.10040	0.80110	
+0.11964	0.89360	0.05590	
+0.14436	0.84000	0.05690	
+0.20556	0.10040	0.05010	
+0.19755	0.05420	0.05320	
+0.20322	0.84380	0.10230	
+0.2889	0.05280	0.10400	
+0.3000	0.10110	0.84520	
+0.32016	0.04960	0.85300	
+0.2279	0.05020	0.89780	
+Source	
+Dominguez M.; Pardo J.; Santafe J.; Royo F.M.; Urieta J.S.: Densities, Speeds of Sound and Isentropic Compressibilities of Binary and Ternary Mixtures containing Benzene, Cyclohexane and Hexane at 298.15 K. Fluid Phase Equilib. 118 (1996) 227-240	
+$$$Excess Volume Data Set 10791	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H6	78.114	71-43-2	Benzene	
+3	C6H12	84.161	110-82-7	Cyclohexane	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
+0.2424	0.09710	0.10720	
+0.16322	0.79000	0.10890	
+0.3785	0.16930	0.18680	
+0.2524	0.63580	0.18890	
+0.3785	0.24090	0.26580	
+0.4985	0.48460	0.26730	
+0.5265	0.31980	0.35280	
+0.6174	0.23640	0.52160	
+0.5192	0.16330	0.66940	
+0.4850	0.09210	0.81350	
+Source	
+Tukur N.M.; Beg S.A.: Densities of ternary mixtures of benzene + cyclohexane + hexane between 298.15 and 473.15 K. Fluid Phase Equilib. 132 (1997) 247-252	
+$$$Excess Volume Data Set 10792	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H6	78.114	71-43-2	Benzene	
+3	C6H12	84.161	110-82-7	Cyclohexane	
+Temperature	303.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
+0.1984	0.09710	0.10720	
+0.16312	0.79000	0.10890	
+0.2460	0.16930	0.18680	
+0.20415	0.63580	0.18890	
+0.33004	0.24090	0.26580	
+0.3306	0.48460	0.26730	
+0.4471	0.31980	0.35280	
+0.5701	0.23640	0.52160	
+0.5361	0.16330	0.66940	
+0.4869	0.09210	0.81350	
+Source	
+Tukur N.M.; Beg S.A.: Densities of ternary mixtures of benzene + cyclohexane + hexane between 298.15 and 473.15 K. Fluid Phase Equilib. 132 (1997) 247-252	
+Source	
+Dominguez M.; Pardo J.; Santafe J.; Royo F.M.; Urieta J.S.: Densities, Speeds of Sound and Isentropic Compressibilities of Binary and Ternary Mixtures containing Benzene, Cyclohexane and Hexane at 298.15 K. Fluid Phase Equilib. 118 (1996) 227-240	
+Tukur N.M.; Beg S.A.: Densities of ternary mixtures of benzene + cyclohexane + hexane between 298.15 and 473.15 K. Fluid Phase Equilib. 132 (1997) 247-252	

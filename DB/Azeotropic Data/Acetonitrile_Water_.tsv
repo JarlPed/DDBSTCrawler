@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	298.150	13.332	0.81065	n.a.	n.a.	Author	1	
+homPmax	305.950	17.332	0.78381	n.a.	n.a.	Author	1	
+homPmax	323.150	38.130	0.75750	n.a.	n.a.	Author	2	
+homPmax	homogeneous pressure maximum	
+1	Pavlov S.Yu.; Pavlova S.P.; Kirnos A.B.: Azeotropes of Acetonitrile with C5 Hydrocarbons and with Water. Zh.Prikl.Khim. 39 (1966) 1555-1559	
+2	Villamanan M.A.; Allawi A.J.; van Ness H.C.: 11. Total Pressure Data and GE for Ethylene Glycol/Acetone/Water and for Ethylene Glycol/Acetonitrile/Water at 50 °C. J.Chem.Eng.Data 29 (1984) 293-296	

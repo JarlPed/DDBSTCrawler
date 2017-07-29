@@ -1,0 +1,14 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+293.15	3.0600	GLCI	3	
+298.15	2.8000	GLCR	2	
+303.15	2.5800	GLCN	1	
+Short Term	Explanation	
+GLCI	GLC (without gas phase correction)	
+GLCN	GLC (not specified)	
+GLCR	GLC (with gas phase correction)	
+1	Alimova G.V.; Pavlyuk N.F.; Gaile A.A.; Semenov L.V.: Untersuchung der Lösungsmittelselektivität beim Dearomatisierungsprozess der flüssigen Paraffine. Issledovanija v oblasti chimii i technologii produktov pererabotki gorjucich iskop.  (1980) 92-95	
+2	Kwantes A.; Rijnders G.W.A.: The determination of activity coefficients at infinite dilution by gas-liquid chromatography. Gas Chromatography 1958 : proceedings of the second symposium 2 (1958) 125-136	
+3	Melder L.I.; Ebber A.V.: Aktivitätskoeffizienten der Ester in Hexadekan und Wasser. Tr.Tallinskogo Politekh.Inst. 449 (1978) 3-11	

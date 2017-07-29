@@ -1,0 +1,102 @@
+$$$Enthalpy of Mixing Data Set 804	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Temperature	298.150	K	
+Pressure	1.700	bar	
+hE [J/mol]	x1 [mol/mol]	
+482.900	0.05740	
+637.700	0.11350	
+682.900	0.15300	
+689.400	0.15810	
+717.100	0.19260	
+717.700	0.19700	
+736.000	0.22530	
+743.300	0.23940	
+744.400	0.25640	
+747.900	0.28600	
+745.800	0.28670	
+744.400	0.29140	
+747.500	0.31420	
+742.300	0.34370	
+742.300	0.34810	
+735.900	0.36450	
+721.600	0.39810	
+716.000	0.42910	
+684.400	0.47850	
+686.500	0.48660	
+674.200	0.50370	
+656.900	0.52820	
+650.600	0.53810	
+628.400	0.56310	
+629.400	0.56320	
+626.500	0.56360	
+613.100	0.58450	
+576.600	0.62650	
+531.700	0.66330	
+532.500	0.66770	
+431.400	0.74370	
+433.100	0.75080	
+354.200	0.81100	
+342.200	0.81880	
+263.600	0.86980	
+250.300	0.87550	
+221.400	0.89310	
+174.800	0.91820	
+162.400	0.92340	
+86.500	0.96280	
+79.800	0.96440	
+Source	
+Christensen J.J.; Rossiter B.E.; O'Neill T.K.; Hanks R.W.: The Excess Enthalpies of Six p-Xylene + Alcohol Mixtures at 298.15 K. J.Chem.Thermodyn. 10 (1978) 829-833	
+$$$Enthalpy of Mixing Data Set 805	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+433.100	0.04620	
+587.300	0.09910	
+671.900	0.16010	
+710.600	0.22280	
+723.500	0.27970	
+714.200	0.36710	
+665.800	0.48260	
+574.700	0.60690	
+508.000	0.67560	
+465.800	0.71860	
+430.600	0.74340	
+414.300	0.76050	
+356.700	0.80300	
+286.500	0.84980	
+213.700	0.89380	
+126.100	0.94130	
+46.400	0.97960	
+Source	
+Nagata I.; Ogasawara Y.: Prediction of Ternary Excess Enthalpies from Binary Data.. Thermochim.Acta 52 (1982) 155-168	
+$$$Enthalpy of Mixing Data Set 7177	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Temperature	298.200	K	
+hE [J/mol]	x1 [mol/mol]	
+520.500	0.08640	
+617.400	0.12460	
+689.600	0.18260	
+715.000	0.25700	
+720.800	0.28580	
+715.000	0.32610	
+709.400	0.34810	
+705.300	0.39420	
+680.500	0.43840	
+615.700	0.56320	
+526.800	0.65810	
+465.900	0.70660	
+376.100	0.78140	
+227.200	0.88260	
+139.500	0.93200	
+Source	
+Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770	
+Source	
+Christensen J.J.; Rossiter B.E.; O'Neill T.K.; Hanks R.W.: The Excess Enthalpies of Six p-Xylene + Alcohol Mixtures at 298.15 K. J.Chem.Thermodyn. 10 (1978) 829-833	
+Nagata I.; Ogasawara Y.: Prediction of Ternary Excess Enthalpies from Binary Data.. Thermochim.Acta 52 (1982) 155-168	
+Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770	

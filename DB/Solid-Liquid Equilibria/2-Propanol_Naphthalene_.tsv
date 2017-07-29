@@ -1,0 +1,35 @@
+$$$Solid-Liquid Equilibrium Data Set 2267	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+297.55	0.96290	
+304.05	0.95080	
+308.45	0.93920	
+310.95	0.93120	
+315.95	0.91150	
+318.35	0.89880	
+324.85	0.85030	
+328.05	0.81220	
+333.35	0.71240	
+338.95	0.52270	
+343.05	0.32950	
+Source	
+Sunier A.A.: The Solubility of Naphthalene in some Aliphatic Alcohols. J.Phys.Chem. 34 (1930) 2582-2597	
+$$$Solid-Liquid Equilibrium Data Set 2292	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+313.15	0.92400	
+Source	
+Rong W.Z.; Qian Y.: Solid-Liquid Equilibria Using UNIFAC Model. Jisuanji-yu-yingyong-huaxue 1 (1984) 173-177	
+$$$Solid-Liquid Equilibrium Data Set 15278	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C10H8	128.174	91-20-3	Naphthalene	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+T [K]	xL1 [mol/mol]	
+298.15	0.03176	
+298.15	0.03122	
+Source	
+Morris K.R.: Solubility of Aromatic Compounds in Mixed Solvents. Thesis  (1988)	

@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	303.150	30.837	n.a.	0.58000	Phase equilibrium	DDBST	2	
+homPmax	313.150	45.690	n.a.	0.58500	Phase equilibrium	DDBST	2	
+homPmax	336.150	101.325	n.a.	0.60000	Phase equilibrium	DDBST	1	
+homPmax	homogeneous pressure maximum	
+1	Lampa J.; Matous J.; Novak J.P.; Pick J.: Liquid-Vapour and Liquid-Liquid Equilibria in the Tetrahydrofuran (1)-n-Hexane (2)-Water (3) System. Collect.Czech.Chem.Commun. 45 (1980) 1159-1167	
+2	Geier K.; Bittrich H.-J.: Zur Thermodynamik der Flüssig-Dampf-Gleichgewichte der binären Systeme n-Hexan-Benzol, Cyclohexan-Benzol und Tetrahydrofuran mit n-Hexan, Cyclohexan, Benzol und Dimethylformamid. Z.Phys.Chem.(Leipzig) 260 (1979) 705-718	

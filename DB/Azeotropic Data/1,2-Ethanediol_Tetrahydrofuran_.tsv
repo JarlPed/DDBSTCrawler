@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1	
+none	313.150	n.a.	n.a.	n.a.	n.a.	Author	2	
+none	zeotropic	
+1	Shnitko V.A.; Kogan V.B.: Liquid-Vapor Equilibrium in the Systems Tetrahydrofuran-Water and Tetrahydrofuran-Ethylene Glycol and a Method for Dehydration of Tetrahydrofuran. J.Appl.Chem.USSR 41 (1968) 1236-1242	
+2	Sedletskaya I.S.; Kogan V.B.: Investigation of Liquid-Vapor Equilibrium and Tests of Thermodynamic Consistency of experimental Data for a Ternary System with a Nonvolatile Component. J.Appl.Chem.USSR 42 (1969) 2403-2407	

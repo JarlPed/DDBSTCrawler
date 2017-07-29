@@ -1,0 +1,115 @@
+$$$Excess Volume Data Set 2447	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+0.02385	0.003754	
+0.05931	0.01031	
+0.08154	0.01556	
+0.09467	0.01908	
+0.1124	0.02505	
+0.1518	0.04051	
+0.2021	0.06538	
+0.2413	0.08801	
+0.2863	0.11940	
+0.3573	0.17920	
+0.3964	0.21910	
+0.4015	0.22600	
+0.4291	0.26260	
+0.4583	0.28400	
+0.4442	0.28940	
+0.4613	0.36180	
+0.3135	0.69970	
+0.2746	0.78430	
+0.2513	0.83190	
+0.2386	0.85470	
+0.2231	0.89210	
+0.1983	0.95170	
+0.1760	0.96230	
+0.1508	0.96940	
+0.1190	0.97720	
+0.08606	0.98030	
+Source	
+French H.T.; Richards A.; Stokes R.H.: Thermodynamics of the Partially Miscible System Ethanol + Hexadecane. J.Chem.Thermodyn. 11 (1979) 671-686	
+$$$Excess Volume Data Set 2448	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature	318.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+0.03683	0.005209	
+0.06981	0.01005	
+0.0907	0.01323	
+0.1088	0.01636	
+0.1409	0.02259	
+0.2400	0.04858	
+0.2765	0.06133	
+0.3529	0.09371	
+0.3612	0.10880	
+0.4216	0.13130	
+0.5050	0.18940	
+0.5656	0.24560	
+0.5980	0.28560	
+0.5860	0.30470	
+0.6177	0.31360	
+0.6094	0.34770	
+0.6262	0.38870	
+0.6356	0.44460	
+0.6351	0.45770	
+0.6346	0.48810	
+0.6175	0.57600	
+0.5972	0.60410	
+0.5148	0.70440	
+0.4701	0.75950	
+0.4442	0.79370	
+0.4228	0.81650	
+0.4074	0.83550	
+0.3992	0.84730	
+0.3650	0.89010	
+0.3460	0.90700	
+0.2909	0.93270	
+0.1984	0.96250	
+0.1313	0.97790	
+0.04889	0.99240	
+Source	
+French H.T.; Richards A.; Stokes R.H.: Thermodynamics of the Partially Miscible System Ethanol + Hexadecane. J.Chem.Thermodyn. 11 (1979) 671-686	
+$$$Excess Volume Data Set 35242	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C16H34	226.446	544-76-3	Hexadecane	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+0.0181	0.00278	
+0.0297	0.00490	
+0.0355	0.00604	
+0.0456	0.00758	
+0.0596	0.01025	
+0.0641	0.01120	
+0.0713	0.01304	
+0.0819	0.01544	
+0.0928	0.01854	
+0.1177	0.02594	
+0.1417	0.03578	
+0.1698	0.05120	
+0.2067	0.07047	
+0.2317	0.08346	
+0.2561	0.09791	
+0.2803	0.11362	
+0.3103	0.13793	
+0.3537	0.17608	
+0.3917	0.22126	
+0.4298	0.27195	
+0.2082	0.96075	
+0.1918	0.96578	
+0.1722	0.97064	
+0.1506	0.97460	
+0.1280	0.98049	
+0.1043	0.98545	
+0.0757	0.99052	
+0.0479	0.99515	
+Source	
+Roux A.H.; Roux-Desgranges G.; Grolier J.-P.E.: Excess Molar Heat Capacities and Enthalpies for 1-Alkanol + N-Alkane Binary Mixtures. New Measurements and Recommended Data. Fluid Phase Equilib. 89 (1993) 57-88	
+Source	
+French H.T.; Richards A.; Stokes R.H.: Thermodynamics of the Partially Miscible System Ethanol + Hexadecane. J.Chem.Thermodyn. 11 (1979) 671-686	
+Roux A.H.; Roux-Desgranges G.; Grolier J.-P.E.: Excess Molar Heat Capacities and Enthalpies for 1-Alkanol + N-Alkane Binary Mixtures. New Measurements and Recommended Data. Fluid Phase Equilib. 89 (1993) 57-88	

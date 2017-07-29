@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.300	n.a.	n.a.	Phase equilibrium	Author	3	
+none	323.150	n.a.	n.a.	n.a.	n.a.	Author	2	
+none	323.150	n.a.	n.a.	n.a.	n.a.	Author	1	
+none	zeotropic	
+1	Villamanan M.A.; Allawi A.J.; van Ness H.C.: 11. Total Pressure Data and GE for Ethylene Glycol/Acetone/Water and for Ethylene Glycol/Acetonitrile/Water at 50 °C. J.Chem.Eng.Data 29 (1984) 293-296	
+2	Villamanan M.A.; Allawi A.J.; Van Ness H.C.: Liquid-Vapor Equilibrium and Excess Gibbs Energy of 1,2-Ethanediol + 2-Propanone or + Ethanenitrile. Int.Data Series Sel.Data Mixtures Ser. A 1984 (1984) 31-36	
+3	Qian G.-F.; Liu W.; Wang L.-T.; Wang D.-C.; Song H.: (Vapour + liquid) equilibria in the ternary system (acetonitrile + n-propanol + ethylene glycol) and corresponding binary systems at 101.3 kPa. J.Chem.Thermodyn. 67 (2013) 241-246	

@@ -1,0 +1,23 @@
+$$$Enthalpy of Mixing Data Set 13500	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	N2	28.013	7727-37-9	Nitrogen	
+2	CHCl3	119.377	67-66-3	Chloroform	
+x	0.50000	mol/mol	
+Pressure	1.010	bar	
+hE [J/mol]	T [K]	
+80.500	333.200	
+72.800	338.200	
+70.700	343.200	
+69.200	348.200	
+61.900	353.200	
+54.500	363.200	
+51.300	373.200	
+46.100	383.200	
+42.600	393.200	
+37.600	403.200	
+36.300	413.200	
+31.500	423.200	
+Source	
+Doyle J.A.; Hutchings D.J.; Lancaster N.M.; Wormald C.J.: Second virial coefficient of chloroform from measurements of the excess molar enthalpy of (nitrogen + chloroform)(g). J.Chem.Soc.Faraday Trans. 94 (1998) 1263-1265	
+Source	
+Doyle J.A.; Hutchings D.J.; Lancaster N.M.; Wormald C.J.: Second virial coefficient of chloroform from measurements of the excess molar enthalpy of (nitrogen + chloroform)(g). J.Chem.Soc.Faraday Trans. 94 (1998) 1263-1265	

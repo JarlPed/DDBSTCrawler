@@ -1,0 +1,75 @@
+$$$Vapor-Liquid Equilibrium Data Set 3584	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Pressure	94.13	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+388.95	0.00000	0.00000	
+385.95	0.05500	0.10700	
+385.05	0.07300	0.14400	
+383.15	0.10300	0.19700	
+380.85	0.13300	0.27400	
+380.35	0.16600	0.31200	
+377.85	0.20700	0.39300	
+376.65	0.23300	0.43700	
+373.05	0.28200	0.52600	
+371.95	0.34700	0.59700	
+366.15	0.46000	0.75000	
+364.25	0.51600	0.79300	
+362.05	0.58700	0.85400	
+359.65	0.65900	0.90000	
+356.95	0.72800	0.93400	
+354.45	0.81600	0.96600	
+351.45	0.92400	0.99000	
+349.95	1.00000	1.00000	
+Source	
+Rius A.; Otero J.L.; Macarron A.: systèmes méthanolacide acétique; éthanolacide acétique; n-propanolacide acétique; n-butanolacide acétique. Chem.Eng.Sci. 10 (1959) 105-111	
+$$$Vapor-Liquid Equilibrium Data Set 7651	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	308.15	K	
+P [kPa]	x1 [mol/mol]	
+3.5864	0.00000	
+3.866	0.06000	
+3.933	0.06800	
+4.000	0.08600	
+4.266	0.13100	
+4.746	0.19900	
+5.540	0.29600	
+6.413	0.40700	
+6.933	0.46000	
+7.239	0.50300	
+7.566	0.55000	
+8.559	0.59400	
+9.766	0.69400	
+10.630	0.76200	
+13.800	1.00000	
+Source	
+Wagner M.; Apelblat A.; Tamir A.: Excess Gibbs Free Energy in Methanol + Acetic Acid and Ethanol + Acetic Acid. J.Chem.Thermodyn. 12 (1980) 181-186	
+$$$Vapor-Liquid Equilibrium Data Set 7652	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	318.15	K	
+P [kPa]	x1 [mol/mol]	
+5.813	0.00000	
+6.366	0.06000	
+6.333	0.06800	
+6.599	0.08600	
+7.053	0.13100	
+7.886	0.19900	
+9.095	0.29600	
+10.590	0.40700	
+11.520	0.46000	
+12.330	0.50300	
+13.300	0.55000	
+14.280	0.59400	
+16.311	0.69400	
+17.651	0.76200	
+23.130	1.00000	
+Source	
+Wagner M.; Apelblat A.; Tamir A.: Excess Gibbs Free Energy in Methanol + Acetic Acid and Ethanol + Acetic Acid. J.Chem.Thermodyn. 12 (1980) 181-186	
+Source	
+Rius A.; Otero J.L.; Macarron A.: systèmes méthanolacide acétique; éthanolacide acétique; n-propanolacide acétique; n-butanolacide acétique. Chem.Eng.Sci. 10 (1959) 105-111	
+Wagner M.; Apelblat A.; Tamir A.: Excess Gibbs Free Energy in Methanol + Acetic Acid and Ethanol + Acetic Acid. J.Chem.Thermodyn. 12 (1980) 181-186	

@@ -1,0 +1,113 @@
+$$$Vapor-Liquid Equilibrium Data Set 15009	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	363.61	K	
+P [kPa]	x1 [mol/mol]	
+2.1105	0.00000	
+5.122	0.00297	
+7.239	0.00498	
+10.831	0.00865	
+15.801	0.01389	
+18.666	0.01697	
+22.603	0.02128	
+26.382	0.02555	
+31.692	0.03168	
+36.769	0.03782	
+44.646	0.04768	
+51.980	0.05739	
+58.723	0.06684	
+58.753	0.06684	
+63.613	0.07401	
+69.672	0.08324	
+75.222	0.09219	
+80.367	0.10093	
+85.381	0.10989	
+91.674	0.12170	
+102.678	0.14456	
+108.324	0.15753	
+113.368	0.16993	
+118.464	0.18353	
+125.186	0.20288	
+135.488	0.23716	
+143.564	0.26925	
+150.188	0.30000	
+156.475	0.33387	
+161.617	0.36611	
+166.154	0.39796	
+167.192	0.40779	
+169.775	0.42694	
+169.965	0.43233	
+172.778	0.45324	
+172.658	0.45907	
+174.972	0.48374	
+177.907	0.51741	
+180.492	0.55000	
+183.212	0.58671	
+185.715	0.62192	
+188.408	0.65984	
+190.992	0.69752	
+193.685	0.73538	
+195.812	0.76369	
+197.845	0.78964	
+200.108	0.81632	
+201.925	0.83648	
+203.997	0.85761	
+206.138	0.87778	
+208.399	0.89711	
+211.025	0.91760	
+214.054	0.93844	
+216.773	0.95518	
+219.049	0.96867	
+220.502	0.97600	
+222.036	0.98332	
+224.043	1.00000	
+Source	
+Fischer K.; Gmehling J.: Vapor-liquid equilibria, activity coefficients at infinite dilution and heats of mixing for mixtures of N-methyl pyrrolidone-2 with C5 or C6 hydrocarbons and for hydrocarbon mixtures. Fluid Phase Equilib. 119 (1996) 113-130	
+$$$Vapor-Liquid Equilibrium Data Set 15016	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	413.37	K	
+P [kPa]	x1 [mol/mol]	
+16.895	0.00000	
+18.374	0.00072	
+21.012	0.00183	
+24.703	0.00342	
+29.522	0.00540	
+37.177	0.00877	
+44.864	0.01218	
+59.152	0.01827	
+104.923	0.04030	
+144.197	0.06072	
+175.834	0.07862	
+214.161	0.10241	
+260.176	0.13438	
+312.465	0.17713	
+361.764	0.22617	
+403.755	0.27763	
+434.031	0.32244	
+483.359	0.41674	
+495.366	0.44472	
+Source	
+Fischer K.; Gmehling J.: Vapor-liquid equilibria, activity coefficients at infinite dilution and heats of mixing for mixtures of N-methyl pyrrolidone-2 with C5 or C6 hydrocarbons and for hydrocarbon mixtures. Fluid Phase Equilib. 119 (1996) 113-130	
+$$$Vapor-Liquid Equilibrium Data Set 33620	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Pressure	45.00	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+445.70	0.00000	0.00000	
+366.34	0.05600	0.93100	
+325.84	0.29300	0.99300	
+320.87	0.34500	0.99600	
+317.84	0.57200	0.99700	
+317.26	0.69000	0.99700	
+316.87	0.73000	0.99700	
+316.47	0.78800	0.99700	
+313.39	1.00000	1.00000	
+Source	
+Moodley P.: Vapour-Liquid Equilibria Studies for Binary Systems Containing 1-Hexene and n-Hexane. Master's Thesis  (2009)	
+Source	
+Fischer K.; Gmehling J.: Vapor-liquid equilibria, activity coefficients at infinite dilution and heats of mixing for mixtures of N-methyl pyrrolidone-2 with C5 or C6 hydrocarbons and for hydrocarbon mixtures. Fluid Phase Equilib. 119 (1996) 113-130	
+Moodley P.: Vapour-Liquid Equilibria Studies for Binary Systems Containing 1-Hexene and n-Hexane. Master's Thesis  (2009)	

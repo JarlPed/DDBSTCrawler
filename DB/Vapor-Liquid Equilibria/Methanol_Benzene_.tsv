@@ -1,0 +1,81 @@
+$$$Vapor-Liquid Equilibrium Data Set 6	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C6H6	78.114	71-43-2	Benzene	
+Temperature	328.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+65.808	0.04050	0.35180	
+72.754	0.06380	0.42100	
+75.340	0.07710	0.44620	
+86.366	0.22980	0.54220	
+90.433	0.59880	0.60560	
+Source	
+Scatchard G.; Ticknor L.B.: IX. The Methanol-Carbon Tetrachloride-Benzene System. J.Am.Chem.Soc. 74 (1952) 3724-3729	
+$$$Vapor-Liquid Equilibrium Data Set 18	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C6H6	78.114	71-43-2	Benzene	
+Temperature	363.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+248.646	0.11700	0.50200	
+281.710	0.25700	0.59400	
+295.709	0.37600	0.61800	
+303.042	0.54900	0.65000	
+305.575	0.70700	0.68900	
+294.376	0.85600	0.76500	
+Source	
+Jost W.; Roeck H.; Schroeder W.; Sieg L.; Wagner H.G.: Apparatur zur Messung von Dampf-Flüssigkeits-Gleichgewichten bei Überdruck. Z.Phys.Chem.(München) 10 (1957) 133-136	
+$$$Vapor-Liquid Equilibrium Data Set 39	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C6H6	78.114	71-43-2	Benzene	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+351.76	0.00200	0.04100	
+350.80	0.00280	0.06600	
+350.67	0.00300	0.06840	
+350.43	0.00300	0.08120	
+350.37	0.00410	0.08200	
+349.20	0.00550	0.11720	
+348.45	0.00580	0.13860	
+346.92	0.01340	0.19240	
+346.21	0.01900	0.20600	
+344.11	0.02760	0.26580	
+341.10	0.04600	0.33920	
+340.90	0.04800	0.34400	
+337.17	0.08300	0.43000	
+334.23	0.14370	0.49980	
+334.19	0.17000	0.51800	
+333.07	0.18580	0.52120	
+332.55	0.27600	0.54420	
+331.58	0.36400	0.57360	
+331.30	0.45580	0.58700	
+331.19	0.52400	0.59810	
+331.12	0.59700	0.61140	
+331.12	0.63700	0.62000	
+331.13	0.67390	0.62900	
+331.14	0.68000	0.63220	
+331.20	0.70240	0.64080	
+331.21	0.70710	0.64160	
+331.28	0.72980	0.65090	
+331.37	0.74400	0.65310	
+331.60	0.77680	0.66910	
+331.80	0.80310	0.68380	
+332.14	0.83800	0.70900	
+332.75	0.87540	0.74800	
+333.33	0.89980	0.77420	
+333.75	0.91780	0.80020	
+334.05	0.92500	0.81180	
+334.79	0.94240	0.85100	
+335.75	0.96520	0.89980	
+336.72	0.98490	0.94920	
+336.87	0.98800	0.95720	
+336.93	0.98900	0.96100	
+337.10	0.99180	0.96840	
+337.36	0.99490	0.97990	
+Source	
+Ocon J.; Espantoso J.: Equilibrio Vapor-Liquido. Anal.Fis.Quim.Ser.B 54 (1958) 421-430	
+Source	
+Scatchard G.; Ticknor L.B.: IX. The Methanol-Carbon Tetrachloride-Benzene System. J.Am.Chem.Soc. 74 (1952) 3724-3729	
+Ocon J.; Espantoso J.: Equilibrio Vapor-Liquido. Anal.Fis.Quim.Ser.B 54 (1958) 421-430	
+Jost W.; Roeck H.; Schroeder W.; Sieg L.; Wagner H.G.: Apparatur zur Messung von Dampf-Flüssigkeits-Gleichgewichten bei Überdruck. Z.Phys.Chem.(München) 10 (1957) 133-136	

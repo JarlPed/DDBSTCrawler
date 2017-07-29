@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C4H8O2	88.106	141-78-6	Acetic acid butyl ester	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	350.100	n.a.	n.a.	n.a.	Phase equilibrium	Author	2	
+none	zeotropic	
+1	Shono H.; Kanazawa N.; Hashitani M.; Komatsu H.; Hirata M.: Vapor-Liquid Equilibrium in Extractive Distillation of Ethyl Acetate-Ethanol System. Kogyo Kagaku Zasshi 72 (1969) 815-819	
+2	Laavi H.; Pokki J.-P.; Uusi-Kyyny P.; Massimi A.; Kim Y.; Sapei E.; Alopaeus V.: VaporLiquid Equilibrium at 350 K, Excess Molar Enthalpies at 298 K, and Excess Molar Volumes at 298 K of Binary Mixtures Containing Ethyl Acetate, Butyl Acetate, and 2-Butanol. J.Chem.Eng.Data 58 (2013) 1011-1019	

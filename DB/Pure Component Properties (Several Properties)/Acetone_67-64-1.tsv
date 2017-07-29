@@ -1,0 +1,656 @@
+Formula	Molar Mass	CAS Registry Number	Name	
+C3H6O	58.080	67-64-1	Acetone	
+$$$Boiling Point	
+T [K]	P [kPa]	State	Reference	
+329.10		Vapor-Liquid	2	
+329.26		Vapor-Liquid	1	
+Number	Source	
+1	Ku H.-C.; Tu C.-H.: Isobaric Vapor-Liquid Equilibria for Mixtures of Acetone, Ethanol, and 2,2,4-Trimethylpentane at 101.3 kPa. Fluid Phase Equilib. 231 (2005) 99-108	
+2	Karunanithi B.; Bogeshwaran K.; Sofia K.: Isobaric Vapour Liquid Equilibrium for Acetone + Methanol + Calcium Bromide at Different Concentration. Int.J.Eng.Res.Develop.IJERD 3 (2012) 45-49	
+$$$Compressibility (isentropic)	
+T [K]	Compressibility (isentropic) [/kPa]	State	Reference	
+293.15	8.92999992175E-007	Liquid	1	
+298.15	9.38999960454E-007	Liquid	1	
+308.15	1.03000002127E-006	Liquid	1	
+Number	Source	
+1	Nath J.; Dixit A.P.: Ultrasonic Velocities in, and Adiabatic Compressibilities and Excess Volumes for, Binary Liquid Mixtures of Acetone with Tetrachloroethylene, Trichloroethylene, Methylene Chloride, 1,2-Dichloroethane, and Cyclohexane. J.Chem.Eng.Data 29 (1984) 313-316	
+$$$Critical Data	
+T [K]	P [kPa]	State	Reference	
+506.80	4738.000	Critical Point	2	
+506.85	4740.000	Critical Point	2	
+507.65	4701.000	Critical Point	4	
+508.10	4700.000	Critical Point	5	
+508.15		Critical Point	1	
+509.10		Critical Point	3	
+Number	Source	
+1	Campbell A.N.; Musbally G.M.: (1) Aceton - Chloroform, (2) Aceton - Carbon Tetrachloride, (3) Benzene-Carbon Tetrachloride. Can.J.Chem. 48 (1970) 3173-3184	
+2	Kuenen J.P.; Robson W.G.: Observations on Mixtures with Maximum or Minimum Vapour-Pressure. London Edinb.Dub.Philos.Mag.J.Sci. 4 (1902) 116-132	
+3	Rätzsch M.: Kritische Temperaturen binärer Systeme. Z.Phys.Chem.(Leipzig) 243 (1970) 212-220	
+4	Kay W.B.: Acetone-n-Alkane-Systems. J.Phys.Chem. 68 (1964) 827-831	
+5	Ambrose D.; Sprake C.H.S.; Townsend R.: XXXIII. The Vapour Pressure of Acetone. J.Chem.Thermodyn. 6 (1974) 693-700	
+$$$Density	
+T [K]	P [kPa]	Density [kg/m3]	State	Reference	
+288.15		796.200	Liquid	3	
+293.15		790.600	Liquid	2	
+298.15		781.800	Liquid	1	
+298.15		785.800	Liquid	3	
+303.15		779.000	Liquid	3	
+308.15		770.600	Liquid	1	
+308.15		772.900	Liquid	2	
+308.15		773.000	Liquid	3	
+323.15		753.200	Liquid	1	
+348.15	182.385	723.288	Liquid	4	
+373.15	364.770	692.253	Liquid	4	
+398.15	668.745	655.531	Liquid	4	
+Number	Source	
+1	Babak S.F.; Udovenko V.V.: The Viscosity of Systems Containing Nicotine. V.. Zh.Obshch.Khim. 20 (1950) 2124-2126	
+2	Levichev S.A.: Oberflächenspannung, Dichte und Exzessvolumina in binären und ternären Lösungen. Fiziko-chimiceskie Svojstva Rastvorov (J.80)  (1964) 219-226	
+3	Rusanov A.I.; Levichev S.A.; Tyushin V.Ya.: Composition of the Surface Layer in the n-Hexane-Acetone System. Vestn.Leningr.Univ.  (1966) 121-127	
+4	Tugarev I.A.; Avdus Z.I.; Nozdrev V.F.: An Experimental Study of the P-V-T Parameters of the Liquid Phase in Acetone-Benzene Mixtures Along the Boundary Curve. Zh.Fiz.Khim. 49 (1975) 1256-1258	
+$$$Dielectric Constant	
+T [K]	P [kPa]	Dielectric Constant [-]	State	Reference	
+278.15		22.53000	Liquid	3	
+283.15		21.98000	Liquid	3	
+288.15		21.44000	Liquid	3	
+288.15		22.31000	Liquid	2	
+293.15		20.89000	Liquid	3	
+293.15		20.96000	Liquid	1	
+293.15		21.80000	Liquid	4	
+293.15		21.83000	Liquid	2	
+298.15		20.34000	Liquid	3	
+298.15		21.23000	Liquid	2	
+298.15		21.46000	Liquid	5	
+303.15		19.80000	Liquid	3	
+303.15		20.79000	Liquid	2	
+303.15	98.066	20.20000	Liquid	6	
+303.15	12748.601	20.41000	Liquid	6	
+303.15	25693.400	20.68000	Liquid	6	
+303.15	37951.699	21.01000	Liquid	6	
+303.15	50504.199	21.32000	Liquid	6	
+303.15	61978.000	21.64000	Liquid	6	
+303.15	71784.703	21.84000	Liquid	6	
+303.15	81591.305	21.97000	Liquid	6	
+303.15	91398.000	22.15000	Liquid	6	
+303.15	101008.000	22.27000	Liquid	6	
+303.15	110815.000	22.40000	Liquid	6	
+308.15		19.25000	Liquid	3	
+308.15		19.82000	Liquid	2	
+313.15		18.71000	Liquid	3	
+318.15		18.16000	Liquid	3	
+318.15		19.30000	Liquid	2	
+323.15		17.62000	Liquid	3	
+323.15		18.18000	Liquid	2	
+Number	Source	
+1	Goss F.R.: Part III. Polarisation and Association of Alcohols in the Liquid Phase. J.Chem.Soc.London  (1940) 888-894	
+2	Khimenko M.T.; Aleksandrov V.V.; Gritsenko N.N.: Polarizability and radii of molecules of some pure liquids. Zh.Fiz.Khim. 47 (1973) 2914-2915	
+3	Khimenko M.T.; Litinskaya V.V.; Tkachenko E.P.: Physico-chemical study of acetone-ethylene glycol and 2-propanol-ethylene glycol systems at  different temperatures.. Oniitekhim  (1982) 1-15	
+4	Joerges M.; Nikuradse A.: Ueber die Konzentrationsabhaengigkeit von Volumeneffekt und Dipolmoment binaerer und ternaerer Gemische einiger organischer Fluessigkeiten. Z.Naturforsch.A 5 (1950) 259-269	
+5	Pimenova N.I.; Afanas'ev V.N.; Davydova O.I.; Krestov G.A.: Dielectric Constant Measurement in Nonaqueous Systems on the Basis of Acetone. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 27 (1984) 1043-1045	
+6	Schadow E.; Steiner R.: Zusammenhang zeischen der Dielektrizitätskonstante und der Dichte von Flüssigkeiten bei hohen Drücken. Z.Phys.Chem.(München) 66 (1969) 105-117	
+$$$Dynamic Viscosity	
+T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference	
+278.20	101.300	0.3750	Liquid	3	
+288.20	101.300	0.3380	Liquid	3	
+293.15		0.3250	Liquid	5	
+293.20		0.3270	Liquid	4	
+298.15		0.3049	Liquid	6	
+298.15		0.3050	Liquid	2	
+298.15		0.3332	Liquid	1	
+298.20	101.300	0.3150	Liquid	3	
+308.15		0.3097	Liquid	1	
+323.15		0.2725	Liquid	1	
+Number	Source	
+1	Babak S.F.; Udovenko V.V.: The Viscosity of Systems Containing Nicotine. V.. Zh.Obshch.Khim. 20 (1950) 2124-2126	
+2	Barabanov V.P.; Tsentovskii V.M.; Tretyakova A.Ya.: Physikalisch-chemische Analyse binärer Systeme Dimethylformamid-Alkohole. Viniti  (1975) 1-10	
+3	Wong C.F.; Hayduk W.: Correlations for Prediction of Molecular Diffusivities in Liquids Infinite Dilution. Can.J.Chem.Eng. 68 (1990) 849-859	
+4	Schumpe A.; Lühring P.: Oxygen Diffusivities in Organic Liquids at 293.2 K. J.Chem.Eng.Data 35 (1990) 24-25	
+5	Masy J.C.; Cournil M.: Using a Turbidimetric Method to Study the Kinetics of Agglomeration of Potassium Sulphate in a Liquid Medium. Chem.Eng.Sci. 46 (1991) 693-701	
+6	de Lorenzi L.; Fermeglia M.; Torriano G.: Densities and Viscosities of 1,1,1-Trichloroethane with 13 Different Solvents at 298.15 K. J.Chem.Eng.Data 40 (1995) 1172-1177	
+$$$Entropy	
+T [K]	Molar Entropy [J/(mol*K)]	State	Reference	
+298.00	293.05	Vapor	1	
+298.00	294.93	Vapor	5	
+298.00	295.35	Vapor	3	
+298.00	295.89	Vapor	6	
+298.00	297.62	Vapor	4	
+329.30	304.18	Vapor	2	
+Number	Source	
+1	Buckley E.; Herington E.F.G.: Equilibria in some Secondary Alcohol+Hydrogen+Ketone Systems.. Trans.Faraday Soc. 61 (1965) 1618-1625	
+2	Schuman S.C.; Aston J.G.: The entropy of acetone and isopropylalcohol from molecular data. The equilibrium in the dehydrogenation of isopropyl alcohol.. J.Chem.Phys. 6 (1938) 485-488	
+3	Chao J.; Zwolinski B.J.: Ideal gas thermodynamic properties of propanone and 2-butanone.. J.Phys.Chem.Ref.Data 5 (1976) 319-328	
+4	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
+5	Pennington R.E.; Kobe K.A.: The Thermodynamic Properties of Acetone. J.Am.Chem.Soc. 79 (1957) 300-305	
+6	Godnev I.; Payukhina A.; Sverdlin A.: Thermodynamic functions of acetone. Zh.Fiz.Khim. 14 (1940) 374-379	
+$$$Flash Point	
+T [K]	P [kPa]	State	Reference	
+253.15		Liquid	3	
+253.65		Liquid	2	
+254.15		Liquid	2	
+254.26		Liquid	4	
+254.55		Liquid	1	
+254.65		Liquid	2	
+255.15		Liquid	5	
+Number	Source	
+1	Liaw H.-J.; Gerbaud V.; Chiu C.-Y.: Flash Point for Ternary Partially Miscible Mixtures of Flammable Solvents. J.Chem.Eng.Data 55 (2010) 134-146	
+2	Choe M.-H.: Experimentelle und theoretische Untersuchungen zur Flammpunktbestimmung von Flüssigkeitsgemischen. Thesis  (1988)	
+3	Wu D.T.; Finkelman R.: A Mathematical Mode for Prediction of Closed Cup Flash Points. Org.Coat.Plastics Chem. 38 (1978) 61-68	
+4	Culver L.J.: Flash Points of Oxygenated Solvents in Aqueous Environs. Modern Paint Coat. 71 (1981) 145-149	
+5	Shebeko Yu.N.; Kruglyakova N.M.; Ivanov A.V.; Korol'chenko A.Ya.: Method for Calculation of Lower Temperature Limits of Ognition and the Flashpoint of Mixtures of Combustible and Noncombustible Liquids. Lakokras.Mater.Primen.  (1983) 63-66	
+$$$G-function (G-G0)/T	
+T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference	
+50.00	-162.80	Vapor	1	
+100.00	-189.89	Vapor	2	
+100.00	-189.49	Vapor	1	
+150.00	-207.76	Vapor	2	
+150.00	-207.07	Vapor	1	
+200.00	-221.45	Vapor	2	
+200.00	-220.50	Vapor	1	
+273.15	-237.44	Vapor	2	
+273.15	-236.19	Vapor	1	
+273.16	-235.60	Vapor	3	
+298.15	-242.21	Vapor	2	
+298.15	-240.92	Vapor	1	
+298.16	-240.37	Vapor	3	
+300.00	-242.56	Vapor	2	
+300.00	-241.25	Vapor	1	
+300.00	-240.71	Vapor	3	
+400.00	-259.45	Vapor	2	
+400.00	-257.90	Vapor	1	
+400.00	-257.40	Vapor	3	
+500.00	-274.19	Vapor	2	
+500.00	-272.50	Vapor	1	
+500.00	-272.09	Vapor	3	
+600.00	-287.63	Vapor	2	
+600.00	-285.85	Vapor	1	
+600.00	-285.43	Vapor	3	
+700.00	-300.14	Vapor	2	
+700.00	-298.28	Vapor	1	
+700.00	-297.86	Vapor	3	
+800.00	-311.92	Vapor	2	
+800.00	-309.99	Vapor	1	
+800.00	-309.62	Vapor	3	
+900.00	-323.10	Vapor	2	
+900.00	-321.12	Vapor	1	
+900.00	-320.79	Vapor	3	
+1000.00	-333.76	Vapor	2	
+1000.00	-331.71	Vapor	1	
+1000.00	-331.46	Vapor	3	
+1100.00	-343.95	Vapor	2	
+1100.00	-341.88	Vapor	1	
+1100.00	-341.75	Vapor	3	
+1200.00	-353.72	Vapor	2	
+1200.00	-351.62	Vapor	1	
+1200.00	-351.54	Vapor	3	
+1300.00	-363.12	Vapor	2	
+1300.00	-361.00	Vapor	1	
+1400.00	-372.16	Vapor	2	
+1400.00	-370.12	Vapor	3	
+1400.00	-370.03	Vapor	1	
+1500.00	-380.87	Vapor	2	
+1500.00	-378.82	Vapor	3	
+1500.00	-378.74	Vapor	1	
+Number	Source	
+1	Chao J.; Zwolinski B.J.: Ideal gas thermodynamic properties of propanone and 2-butanone.. J.Phys.Chem.Ref.Data 5 (1976) 319-328	
+2	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
+3	Pennington R.E.; Kobe K.A.: The Thermodynamic Properties of Acetone. J.Am.Chem.Soc. 79 (1957) 300-305	
+$$$Heat of Fusion	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+176.62	101.325	5715.00	Solid-Liquid	1	
+177.60	101.325	5695.00	Solid-Liquid	2	
+178.96		5765.00	Solid-Liquid	3	
+Number	Source	
+1	Kelley K.K.: The Heat Capacities of Isopropyl Alcohol and Acetone from 16 to 298°K. and the Corresponding Entropies and Free Energies. J.Am.Chem.Soc. 51 (1929) 1145-1150	
+2	Parks G.S.; Kelley K.K.: Thermal Data on Organic Compounds. II. The Heat Capacities of Five Organic Compounds. The Entropies and Free Energies of Some Homologous Series of Aliphatic Compounds. J.Am.Chem.Soc. 47 (1925) 2089-2097	
+3	Nan Z.; Liu N.; Tan Z.-C.: Thermodynamic properties of the azeotropic mixture of acetone and methanol. J.Therm.Anal.Calorim 86 (2006) 819-823	
+$$$Heat of Transition	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+126.16	42.00	Solid-Solid	1	
+Number	Source	
+1	Nan Z.; Liu N.; Tan Z.-C.: Thermodynamic properties of the azeotropic mixture of acetone and methanol. J.Therm.Anal.Calorim 86 (2006) 819-823	
+$$$Heat of Vaporization	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+298.15	30500.00	Vapor-Liquid	3	
+298.15	30900.00	Vapor-Liquid	1	
+300.42	30844.00	Vapor-Liquid	5	
+317.90	29828.00	Vapor-Liquid	5	
+329.15	29688.60	Vapor-Liquid	4	
+329.28	29087.00	Vapor-Liquid	5	
+329.30	29100.00	Vapor-Liquid	2	
+329.65	29037.00	Vapor-Liquid	6	
+337.94	28577.00	Vapor-Liquid	5	
+345.03	28104.00	Vapor-Liquid	5	
+Number	Source	
+1	Dionisio M.S.; Moura Ramos J.J.; Goncalves R.M.: The enthalpy and entropy of cavity formation in liquids and Corresponding States Principle. Can.J.Chem. 68 (1990) 1937-1949	
+2	Matyushov D.V.; Schmid R.: Properties of Liquids at the Boiling Point: Equation of State, Internal Pressure and Vaporization Entropy. Int.J.Phys.Chem.Ber.Bunsen-Ges. 98 (1994) 1590-1595	
+3	Della Gatta G.; Stradella L.; Venturello P.: Enthalpies of Solvation in Cyclohexane and in Water for Homologous Aliphatic Ketones and Esters. J.Solution Chem. 10 (1981) 209-220	
+4	Mathews J.H.: The Accurate Measurement of the Heats of Vaporization of Liquids. J.Am.Chem.Soc. 48 (1926) 562-576	
+5	Pennington R.E.; Kobe K.A.: The Thermodynamic Properties of Acetone. J.Am.Chem.Soc. 79 (1957) 300-305	
+6	Collins B.T.; Coleman C.F.; De Vries T.: The heat capacity of organic vapors. VI. Acetone.. J.Am.Chem.Soc. 71 (1949) 2929-2930	
+$$$Ideal Gas Heat Capacity	
+T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference	
+50.00	42.09	Ideal Gas	1	
+100.00	50.46	Ideal Gas	1	
+100.00	51.73	Ideal Gas	2	
+150.00	54.98	Ideal Gas	1	
+150.00	56.18	Ideal Gas	2	
+200.00	60.29	Ideal Gas	1	
+200.00	61.20	Ideal Gas	2	
+273.15	70.50	Ideal Gas	1	
+273.15	71.09	Ideal Gas	2	
+273.16	70.92	Ideal Gas	3	
+298.10	76.90	Ideal Gas	5	
+298.15	74.52	Ideal Gas	1	
+298.15	75.02	Ideal Gas	2	
+298.16	74.89	Ideal Gas	3	
+300.00	74.81	Ideal Gas	1	
+300.00	75.19	Ideal Gas	3	
+300.00	75.32	Ideal Gas	2	
+300.00	77.28	Ideal Gas	5	
+332.60	91.21	Ideal Gas	4	
+334.00	91.21	Ideal Gas	4	
+338.20	81.50	Ideal Gas	3	
+347.80	90.79	Ideal Gas	4	
+348.00	90.79	Ideal Gas	4	
+363.00	92.47	Ideal Gas	4	
+371.20	87.15	Ideal Gas	3	
+372.30	92.05	Ideal Gas	4	
+378.00	93.30	Ideal Gas	4	
+393.00	94.98	Ideal Gas	4	
+400.00	91.76	Ideal Gas	1	
+400.00	92.05	Ideal Gas	3	
+400.00	92.06	Ideal Gas	2	
+400.00	94.94	Ideal Gas	5	
+405.20	92.89	Ideal Gas	3	
+408.00	96.65	Ideal Gas	4	
+422.60	98.74	Ideal Gas	4	
+428.00	101.25	Ideal Gas	4	
+438.00	102.09	Ideal Gas	4	
+439.20	98.62	Ideal Gas	3	
+500.00	107.86	Ideal Gas	1	
+500.00	108.08	Ideal Gas	2	
+500.00	108.32	Ideal Gas	3	
+500.00	111.13	Ideal Gas	5	
+600.00	122.05	Ideal Gas	1	
+600.00	122.20	Ideal Gas	2	
+600.00	122.76	Ideal Gas	3	
+600.00	125.23	Ideal Gas	5	
+700.00	134.31	Ideal Gas	1	
+700.00	134.43	Ideal Gas	2	
+700.00	135.31	Ideal Gas	3	
+700.00	137.19	Ideal Gas	5	
+800.00	144.93	Ideal Gas	1	
+800.00	145.00	Ideal Gas	2	
+800.00	146.15	Ideal Gas	3	
+800.00	147.57	Ideal Gas	5	
+900.00	154.10	Ideal Gas	1	
+900.00	154.15	Ideal Gas	2	
+900.00	155.60	Ideal Gas	3	
+900.00	156.65	Ideal Gas	5	
+1000.00	162.05	Ideal Gas	1	
+1000.00	162.09	Ideal Gas	2	
+1000.00	163.34	Ideal Gas	5	
+1000.00	163.80	Ideal Gas	3	
+1100.00	168.91	Ideal Gas	1	
+1100.00	168.96	Ideal Gas	2	
+1100.00	170.75	Ideal Gas	5	
+1100.00	170.92	Ideal Gas	3	
+1200.00	174.89	Ideal Gas	1	
+1200.00	174.92	Ideal Gas	2	
+1200.00	176.94	Ideal Gas	5	
+1200.00	177.07	Ideal Gas	3	
+1300.00	180.08	Ideal Gas	1	
+1300.00	180.09	Ideal Gas	2	
+1300.00	182.42	Ideal Gas	5	
+1300.00	182.46	Ideal Gas	3	
+1400.00	184.56	Ideal Gas	1	
+1400.00	184.58	Ideal Gas	2	
+1400.00	185.94	Ideal Gas	5	
+1400.00	187.19	Ideal Gas	3	
+1500.00	188.45	Ideal Gas	1	
+1500.00	188.49	Ideal Gas	2	
+1500.00	189.74	Ideal Gas	5	
+1500.00	191.29	Ideal Gas	3	
+Number	Source	
+1	Chao J.; Zwolinski B.J.: Ideal gas thermodynamic properties of propanone and 2-butanone.. J.Phys.Chem.Ref.Data 5 (1976) 319-328	
+2	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
+3	Pennington R.E.; Kobe K.A.: The Thermodynamic Properties of Acetone. J.Am.Chem.Soc. 79 (1957) 300-305	
+4	Collins B.T.; Coleman C.F.; De Vries T.: The heat capacity of organic vapors. VI. Acetone.. J.Am.Chem.Soc. 71 (1949) 2929-2930	
+5	Godnev I.; Payukhina A.; Sverdlin A.: Thermodynamic functions of acetone. Zh.Fiz.Khim. 14 (1940) 374-379	
+$$$Kinematic Viscosity	
+T [K]	Kinematic Viscosity [m2/s]	State	Reference	
+278.15	4.59700004285E-07	Liquid	1	
+288.15	4.31900019748E-07	Liquid	1	
+293.15	4.00400011813E-07	Liquid	4	
+293.15	4.00700002956E-07	Liquid	6	
+298.15	3.831000015E-07	Liquid	3	
+298.15	3.84600014058E-07	Liquid	4	
+298.15	3.89400014456E-07	Liquid	1	
+298.15	3.97999997404E-07	Liquid	5	
+308.15	3.57200008239E-07	Liquid	1	
+310.95	3.48100002157E-07	Liquid	4	
+318.15	3.20200001624E-07	Liquid	1	
+318.15	3.33000002684E-07	Liquid	2	
+323.20	3.19299999774E-07	Liquid	4	
+Number	Source	
+1	Nikiforov M.Yu.; Kondratev E.A.; Alper G.A.: Viskosität binärer chloroform- und acetonitrilhaltigen Nichtelektrolyt-Lösungen. Viniti  (1986) 1-7	
+2	Eduljee G.H.; Boyes A.P.: Viscosity of some Binary Liquid Mixtures of Oleic Acid and Triolein with Selected Solvents. J.Chem.Eng.Data 25 (1980) 249-252	
+3	Petrino P.J.; Gaston-Bonhomme Y.H.; Chevalier J.L.E.: Viscosity and Density of Binary Liquid Mixtures of Hydrocarbons, Esters, Ketones, and Normal Chloroalkanes. J.Chem.Eng.Data 40 (1995) 136-140	
+4	Howard K.S.; Pike F.P.: Viscosities and Densities of Acetone-Benzene and Acetone-Acetic Acid Systems up to Their Normal Boiling Points. J.Chem.Eng.Data 4 (1959) 331-333	
+5	Dusart O.; Piekarski C.; Piekarski S.: Viscosités d`Excès des Mélanges Binaires Heptane + Esters et Heptanes + Cétons en Séries Homologues. J.Chim.Phys.Phys.-Chim.Biol. 75 (1978) 919-929	
+6	Bauer H.; Meerlender G.: Newtonian reference materials with v < 1mm²/s and their application in extending the range of capillary viscometers. Rheologica Acta 21 (1982) 499-501	
+$$$Melting Point	
+T [K]	P [kPa]	State	Reference	
+177.55		Solid-Liquid	6	
+177.60	101.325	Solid-Liquid	3	
+177.70		Solid-Liquid	5	
+177.80	101.325	Solid-Liquid	2	
+178.32		Solid-Liquid	1	
+Number	Source	
+1	Ibberson R.M.; David W.I.F.; Yamamuro O.; Miyoshi Y.; Matsuo T.; Suga H.: Calorimetric, Dielectric, and Neutron Diffraction Studies on Phase Transitions in Ordinary and Deuterated Acetone Crystals. J.Phys.Chem. 99 (1995) 14167-14173	
+2	Dreisbach R.R.; Martin R.A.: Physical Data on some Organic Compounds. Ind.Eng.Chem. 41 (1949) 2875-2878	
+3	Parks G.S.; Kelley K.K.: The application of the third law of thermodynamics to some organic reactions.. J.Phys.Chem. 32 (1928) 734-750	
+4	Parks G.S.; Kelley K.K.: Thermal Data on Organic Compounds. II. The Heat Capacities of Five Organic Compounds. The Entropies and Free Energies of Some Homologous Series of Aliphatic Compounds. J.Am.Chem.Soc. 47 (1925) 2089-2097	
+5	Spinolo G.: Solid-Liquid Phase Diagrams of Cyclohexane + 2-Propanone or + Methyl ethanoate. Int.Data Series Sel.Data Mixtures Ser. A 1985 (1985) 3-4	
+6	Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408	
+$$$Molar Heat Capacity (cP)	
+T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
+258.15		122.30	Liquid	1	
+278.15		124.20	Liquid	1	
+278.15	100.000	122.55	Liquid	4	
+288.15	100.000	124.29	Liquid	4	
+293.15		126.38	Liquid	2	
+298.15		126.60	Liquid	1	
+298.15	100.000	125.45	Liquid	4	
+313.15		130.10	Liquid	2	
+318.15		130.10	Liquid	1	
+333.15		133.82	Liquid	2	
+Number	Source	
+1	Peshekhodov P.B.; Nikiforov M.Yu.; Petrov A.N.; Alper G.A.: Wärmekapazität binärer Nichtelektrolyt-Lösungen mit Chloroform. Viniti  (1986) 1-6	
+2	Rastorguev Yu.L.; Ganiev Yu.A.: Untersuchung der Wärmekapazität von selektiven Lösungsmitteln. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1967) 79-82	
+3	Peshekhodov P.B.; Petrov A.N.; Alper G.A.: Assoziationsprozesse in Nichtelektrolyt-Lösungen von Diethylamin. Zh.Obshch.Khim. 63 (1993) 1223-1227	
+4	Malhotra R.; Woolf L.A.: Thermodynamic Properties of Propanone (Acetone) at Temperatures from 298 K to 323 K and Pressures up to 400 MPa. J.Chem.Thermodyn. 23 (1991) 867-876	
+$$$Molar Heat Capacity (cV)	
+T [K]	Molar Heat Capacity (Cv) [J/(mol*K)]	State	Reference	
+200.00	50.79	Vapor	2	
+280.00	61.50	Vapor	2	
+298.15	92.88	Liquid	1	
+308.15	95.81	Liquid	1	
+318.15	98.32	Liquid	1	
+Number	Source	
+1	Deshpande D.D.; Bhatgadde L.G.: Heat Capacities at Constant Volume, Free Volumes, and Rotational Freedom in Some Liquids. Aust.J.Chem. 24 (1971) 1817-1822	
+2	Ahlburg H.: Molwärmemessung an Dämpfen bei kleinen Drucken. Master's Thesis  (1948)	
+$$$Speed of Sound	
+T [K]	P [kPa]	Ultrasonic Velocity [m/s]	State	Reference	
+293.15	100.000	1192.000	Liquid	4	
+293.15	20000.000	1292.000	Liquid	4	
+293.15	60000.000	1460.000	Liquid	4	
+296.15		1200.000	Liquid	1	
+298.15		1160.960	Liquid	3	
+298.15	101.325	1161.000	Liquid	2	
+373.15	20000.000	989.000	Liquid	4	
+373.15	60000.000	1205.000	Liquid	4	
+473.15	20000.000	610.000	Liquid	4	
+473.15	60000.000	886.000	Liquid	4	
+Number	Source	
+1	Prasad N.; Prakash S.: Sound Velocities and Related Properties in Ternary Solutions of o-Xylene. J.Chem.Eng.Data 22 (1977) 49-50	
+2	Iglesias M.; Orge B.; Pineiro M.M.; de Cominges B.E.; Marino G.; Tojo J.: Thermodynamic Properties of the Ternary Mixture Acetone + Methanol + Ethanol at 298.15 K. J.Chem.Eng.Data 43 (1998) 776-780	
+3	Tourino A.; Casas L.M.; Marino G.; Iglesias M.; Orge B.; Tojo J.: Liquid phase behaviour and thermodynamics of acetone + methanol + n-alkane (C9-C12) mixtures. Fluid Phase Equilib. 206 (2003) 61-85	
+4	Atoyan V.A.; Mamedov I.A.: Acoustic and Viscosity Properties of Liquid Ketones at Constant Volumes as a Function of Molecular Weight. Zh.Fiz.Khim. 54 (1980) 856-860	
+$$$Std. Heat of Combustion	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+298.00	-1821380.00	Vapor	2	
+298.00	-1790420.00	Liquid	2	
+298.00	-1789790.00	Liquid	1	
+Number	Source	
+1	Miles C.B.; Hunt H.: I .The Heat of Combustion of Acetone.. J.Phys.Chem. 45 (1941) 1346-1359	
+2	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
+$$$Std. Heat of Formation	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+298.00	-247609.00	Liquid	2	
+298.00	-217526.00	Vapor	1	
+298.00	-216648.00	Vapor	2	
+Number	Source	
+1	Buckley E.; Herington E.F.G.: Equilibria in some Secondary Alcohol+Hydrogen+Ketone Systems.. Trans.Faraday Soc. 61 (1965) 1618-1625	
+2	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
+$$$Surface Tension	
+T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference	
+273.15		25.1700	Liquid	4	
+273.15		25.1920	Liquid	4	
+287.15		24.7000	Liquid	5	
+288.15		23.3660	Liquid	4	
+288.15		23.9500	Liquid	2	
+293.15		22.7760	Liquid	4	
+293.15		23.2900	Liquid	2	
+293.15		23.3000	Liquid	1	
+297.95		22.9900	Liquid	3	
+298.15		22.1630	Liquid	4	
+298.15		22.1700	Liquid	4	
+298.15		22.6700	Liquid	2	
+298.15	101.325	22.9960	Liquid	6	
+303.15		21.5780	Liquid	4	
+303.15		22.0300	Liquid	2	
+308.15		20.9530	Liquid	4	
+308.15		21.2000	Liquid	1	
+308.15		21.4300	Liquid	2	
+313.15		20.8000	Liquid	2	
+318.15		19.7800	Liquid	4	
+318.15		19.7810	Liquid	4	
+318.15		19.7840	Liquid	4	
+318.15		20.1600	Liquid	2	
+323.15		19.5100	Liquid	2	
+328.15		18.5970	Liquid	4	
+Number	Source	
+1	Levichev S.A.: Oberflächenspannung, Dichte und Exzessvolumina in binären und ternären Lösungen. Fiziko-chimiceskie Svojstva Rastvorov (J.80)  (1964) 219-226	
+2	Rusanov A.I.; Levichev S.A.; Tyushin V.Ya.: Composition of the Surface Layer in the n-Hexane-Acetone System. Vestn.Leningr.Univ.  (1966) 121-127	
+3	Owen K.; Quayle O.R.; Clegg W.J.: A study of organic parachors. V. Constitutive variations of the parachors of a series of normal ketones.. J.Am.Chem.Soc. 64 (1942) 1294-1296	
+4	Morgan J.L.R.; Scarlett A.J.Jr.: IV. The Law of Mixtures. II.. J.Am.Chem.Soc. 39 (1917) 2275-2293	
+5	Green S.J.; Olden M.J.F.: The insoluble matter of coal tar. VII. Dilution of tars.. J.Appl.Chem. 1 (1951) 433-443	
+6	Ernst R.C.; Litkenhous E.E.; Spanyer J.W.: The Physical Properties of the Ternary System Acetone-n-Butyl Alcohol-Water. J.Phys.Chem. 36 (1932) 842-854	
+$$$Thermal Conductivity	
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
+288.70	98.000	0.1642	Liquid	3	
+288.70	4900.000	0.1667	Liquid	3	
+288.70	9800.000	0.1684	Liquid	3	
+311.20	98.000	0.1543	Liquid	3	
+311.20	4900.000	0.1581	Liquid	3	
+311.20	9800.000	0.1599	Liquid	3	
+338.10	4900.000	0.1469	Liquid	3	
+338.10	9800.000	0.1512	Liquid	3	
+340.50		0.01345	Vapor	1	
+340.50		0.0135	Vapor	1	
+340.50		0.0145	Vapor	2	
+359.00	4900.000	0.1352	Liquid	3	
+359.00	9800.000	0.1424	Liquid	3	
+362.00		0.01565	Vapor	1	
+362.00		0.01582	Vapor	1	
+362.00		0.0165	Vapor	2	
+372.30		0.01721	Vapor	1	
+372.30		0.0174	Vapor	2	
+372.30		0.01742	Vapor	1	
+391.00	4900.000	0.1239	Liquid	3	
+391.00	9800.000	0.1291	Liquid	3	
+397.00		0.0198	Vapor	2	
+397.00		0.01981	Vapor	1	
+397.00		0.01985	Vapor	1	
+423.00	4900.000	0.1112	Liquid	3	
+423.00	9800.000	0.1158	Liquid	3	
+436.70		0.0236	Vapor	1	
+436.70		0.0237	Vapor	1	
+454.30		0.02478	Vapor	1	
+454.30		0.0248	Vapor	1	
+454.30		0.0260	Vapor	2	
+463.90	4900.000	0.0966	Liquid	3	
+463.90	9800.000	0.1032	Liquid	3	
+470.00		0.02718	Vapor	1	
+470.00		0.0272	Vapor	1	
+488.50	4900.000	0.0894	Liquid	3	
+488.50	9800.000	0.0959	Liquid	3	
+494.30	4900.000	0.0898	Critical Point	3	
+494.30	9800.000	0.0965	Liquid	3	
+498.00		0.0307	Vapor	1	
+498.00		0.03071	Vapor	1	
+498.30	4900.000	0.0903	Critical Point	3	
+498.30	9800.000	0.0969	Liquid	3	
+502.40	4900.000	0.0921	Critical Point	3	
+502.40	9800.000	0.0956	Liquid	3	
+504.00		0.03085	Vapor	1	
+504.00		0.0311	Vapor	1	
+504.00	4900.000	0.0997	Critical Point	3	
+506.80	4900.000	0.1202	Critical Point	3	
+508.50	4900.000	0.1956	Critical Point	3	
+508.50	9800.000	0.0959	Liquid	3	
+509.90	4900.000	0.0939	Critical Point	3	
+513.80	4900.000	0.0697	Critical Point	3	
+516.80	4900.000	0.0566	Critical Point	3	
+522.40	4900.000	0.0544	Critical Point	3	
+522.60		0.0337	Vapor	2	
+522.60		0.03375	Vapor	1	
+534.60		0.0340	Vapor	1	
+534.60		0.0346	Vapor	1	
+535.70	4900.000	0.0471	Critical Point	3	
+548.50		0.0356	Vapor	1	
+548.50		0.0357	Vapor	1	
+553.70	4900.000	0.0498	Critical Point	3	
+557.90		0.0368	Vapor	1	
+557.90		0.0371	Vapor	1	
+571.70		0.03835	Vapor	1	
+571.70		0.0384	Vapor	2	
+571.70		0.0385	Vapor	1	
+572.70	4900.000	0.0544	Critical Point	3	
+Number	Source	
+1	Madzhidov Kh.; Khalilov M.: Thermal Conductivity of Acetone at Various Temperatures and Pressures. Zh.Fiz.Khim. 52 (1978) 542-545	
+2	Madzhidov Kh.; Safarov M.M.: Wärmeleitfähigkeit von gasförmigen Ketonen in Abhängigkeit von Temperaur. Teplofiz.Vys.Temp. 21 (1983) 1229-1231	
+3	Madzhidov Kh.: Thermal Conductivity of Ketones as a Function of Temperature. Inzh.Fiz.Zh. 47 (1984) 256-262	
+$$$Transition Temperature	
+T [K]	P [kPa]	State	Reference	
+100.15		Glass > Crystal	1	
+Number	Source	
+1	Lesikar A.V.: Effect of Association Complexes on the Glass Transition in Organic Halide Mixtures. J.Phys.Chem. 80 (1976) 1005-1011	
+$$$Vapor Pressure	
+T [K]	P [kPa]	State	Reference	
+203.65	0.05893	Vapor-Liquid	3	
+209.55	0.0944	Vapor-Liquid	3	
+212.45	0.11852	Vapor-Liquid	3	
+234.05	0.7971	Vapor-Liquid	3	
+237.04	0.9965	Vapor-Liquid	3	
+243.25	1.5812	Vapor-Liquid	3	
+249.35	2.365	Vapor-Liquid	3	
+253.34	3.480	Vapor-Liquid	3	
+257.25	3.893	Vapor-Liquid	3	
+262.12	5.182	Vapor-Liquid	3	
+264.50	6.041	Vapor-Liquid	3	
+267.05	6.853	Vapor-Liquid	3	
+268.95	7.442	Vapor-Liquid	3	
+269.74	7.935	Vapor-Liquid	3	
+272.95	9.290	Vapor-Liquid	3	
+273.46	9.639	Vapor-Liquid	3	
+275.97	10.983	Vapor-Liquid	3	
+276.61	11.283	Vapor-Liquid	3	
+277.23	13.014	Vapor-Liquid	3	
+282.03	14.775	Vapor-Liquid	3	
+283.06	15.559	Vapor-Liquid	3	
+288.94	20.364	Vapor-Liquid	3	
+291.49	22.883	Vapor-Liquid	3	
+293.15	24.478	Vapor-Liquid	2	
+293.15	24.598	Vapor-Liquid	2	
+293.85	25.131	Vapor-Liquid	5	
+294.25	25.665	Vapor-Liquid	5	
+294.45	25.931	Vapor-Liquid	5	
+294.60	25.998	Vapor-Liquid	5	
+294.63	26.079	Vapor-Liquid	3	
+294.85	26.264	Vapor-Liquid	5	
+297.05	29.064	Vapor-Liquid	5	
+297.45	29.598	Vapor-Liquid	5	
+298.15	30.397	Vapor-Liquid	2	
+298.15	30.544	Vapor-Liquid	1	
+298.15	30.611	Vapor-Liquid	2	
+298.15	30.784	Vapor-Liquid	4	
+298.15	30.851	Vapor-Liquid	4	
+299.86	32.636	Vapor-Liquid	3	
+300.75	33.931	Vapor-Liquid	5	
+301.35	34.864	Vapor-Liquid	5	
+303.15	37.637	Vapor-Liquid	2	
+303.15	37.824	Vapor-Liquid	2	
+304.35	39.330	Vapor-Liquid	5	
+304.85	40.130	Vapor-Liquid	5	
+305.45	41.063	Vapor-Liquid	5	
+306.25	42.396	Vapor-Liquid	5	
+308.15	45.996	Vapor-Liquid	5	
+308.15	46.090	Vapor-Liquid	2	
+308.15	46.356	Vapor-Liquid	2	
+308.22	45.462	Vapor-Liquid	3	
+308.35	46.263	Vapor-Liquid	5	
+308.45	46.396	Vapor-Liquid	5	
+308.85	47.129	Vapor-Liquid	5	
+309.05	47.396	Vapor-Liquid	5	
+311.65	52.996	Vapor-Liquid	5	
+311.85	52.929	Vapor-Liquid	5	
+311.85	53.262	Vapor-Liquid	5	
+311.95	53.062	Vapor-Liquid	5	
+312.25	53.796	Vapor-Liquid	5	
+314.68	58.169	Vapor-Liquid	3	
+314.85	59.328	Vapor-Liquid	5	
+317.75	66.395	Vapor-Liquid	5	
+317.85	66.461	Vapor-Liquid	5	
+318.05	67.461	Vapor-Liquid	5	
+318.15	67.661	Vapor-Liquid	5	
+318.66	67.424	Vapor-Liquid	3	
+320.35	72.927	Vapor-Liquid	5	
+320.35	73.127	Vapor-Liquid	5	
+320.45	73.061	Vapor-Liquid	5	
+320.65	73.927	Vapor-Liquid	5	
+322.55	79.127	Vapor-Liquid	5	
+322.65	79.527	Vapor-Liquid	5	
+322.85	80.393	Vapor-Liquid	5	
+322.95	79.927	Vapor-Liquid	5	
+322.95	80.127	Vapor-Liquid	5	
+323.35	81.993	Vapor-Liquid	5	
+323.55	80.175	Vapor-Liquid	3	
+324.65	85.393	Vapor-Liquid	5	
+324.75	85.660	Vapor-Liquid	5	
+324.85	85.993	Vapor-Liquid	5	
+324.85	86.260	Vapor-Liquid	5	
+325.15	86.660	Vapor-Liquid	5	
+327.05	92.726	Vapor-Liquid	5	
+327.15	92.992	Vapor-Liquid	5	
+327.20	92.992	Vapor-Liquid	5	
+327.25	93.126	Vapor-Liquid	5	
+327.35	93.326	Vapor-Liquid	5	
+328.22	94.366	Vapor-Liquid	3	
+328.75	98.325	Vapor-Liquid	5	
+328.85	98.592	Vapor-Liquid	5	
+333.73	113.737	Vapor-Liquid	3	
+338.95	136.626	Vapor-Liquid	3	
+Number	Source	
+1	Rusanov A.I.; Levichev S.A.; Tyushin V.Ya.: Composition of the Surface Layer in the n-Hexane-Acetone System. Vestn.Leningr.Univ.  (1966) 121-127	
+2	Beare W.G.; McVicar G.A.; Fergusson J.B.: The Determination of Vapour and Liquid Compositions in Binary Systems. II. Acetone-Water 25°C. J.Phys.Chem. 34 (1930) 1310-1318	
+3	Felsing W.A.; Durban S.A.: The Vapor Pressures, Densities, and some Derived Quantities for Acetone. J.Am.Chem.Soc. 48 (1926) 2885-2893	
+4	Davis G.L.; Burrows G.H.: Equilibrium and Free Energy Relationships in the System Acetone-Diacetone Alcohol. J.Am.Chem.Soc. 58 (1936) 311-312	
+5	Taylor A.E.: Vapor-Pressure Relations in Mixtures of Two Liquids, II.. J.Phys.Chem. 4 (1900) 355-369	
+$$$Virial Coefficients	
+T [K]	Second Virial Coefficient [cm3/mol]	State	Reference	
+303.15	-1835.0000	Vapor	3	
+308.15	-1691.0000	Vapor	4	
+323.15	-1535.0000	Vapor	1	
+333.15	-1370.0000	Vapor	1	
+333.15	-1360.0000	Vapor	2	
+343.15	-1206.0000	Vapor	2	
+343.15	-1200.0000	Vapor	1	
+353.15	-1035.0000	Vapor	1	
+353.15	-1024.0000	Vapor	2	
+358.15	-1001.0000	Vapor	6	
+358.15	-1000.0000	Vapor	6	
+363.15	-874.0000	Vapor	2	
+373.15	-740.0000	Vapor	2	
+383.15	-620.0000	Vapor	2	
+393.10	-726.6000	Vapor	5	
+418.00	-599.2000	Vapor	5	
+433.10	-558.2000	Vapor	5	
+433.10	-538.2000	Vapor	5	
+Number	Source	
+1	Zaalishvili Sh.D.; Kolysko L.E.: I. Das System Diethylester-Aceton. Zh.Fiz.Khim. 34 (1960) 2596-2600	
+2	Zaalishvili Sh.D.; Belousova Z.S.: IY. Das System Aceton-Benzen. Zh.Fiz.Khim. 38 (1964) 503-506	
+3	Hopkins J.A.; Bhethanabotla V.R.; Campbell S.W.: Total Pressure Measurements for Chloroform + Acetine + Toluene at 303.15 K. J.Chem.Eng.Data 39 (1994) 488-492	
+4	Fenclova D.; Dohnal V.: (Vapour + liquid) equilibria of {1-bromo-1-chloro-2,2,2-trifluoroethane (halothane) + an oxygenated solvent or hexane}. J.Chem.Thermodyn. 25 (1993) 689-697	
+5	Olf G.; Schnitzler A.; Gaube J.: Virial coefficients of binary mixtures composed of polar substances.. Fluid Phase Equilib. 49 (1989) 49-65	
+6	Abuselme J.A.; Vera J.H.: Pure compound and cross second virial coefficients for n-amylamine-al cohol systems at 363.15 K. Measurements with a low pressure Burnett-t ype apparatus.. Fluid Phase Equilib. 45 (1989) 287-302	

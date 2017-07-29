@@ -1,0 +1,64 @@
+$$$Vapor-Liquid Equilibrium Data Set 1304	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+391.25	0.00000	0.00000	
+379.95	0.03000	0.21510	
+374.85	0.03000	0.26420	
+374.45	0.08100	0.33800	
+368.85	0.11720	0.45150	
+368.55	0.12220	0.45680	
+361.95	0.18630	0.57850	
+354.55	0.28140	0.70610	
+347.55	0.40080	0.80580	
+343.65	0.50620	0.85720	
+343.05	0.52560	0.88020	
+340.95	0.61270	0.90880	
+338.05	0.75070	0.94280	
+334.35	1.00000	1.00000	
+Source	
+Conti J.J.; Othmer D.F.; Gilmont R.: Composition of Vapors from Boiling Binary Solutions. Systems Containing Formic Acid, Acetic Acid, Water and Chloroform. J.Chem.Eng.Data 5 (1960) 301-307	
+$$$Vapor-Liquid Equilibrium Data Set 1892	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	298.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+2.1065	0.00000	0.00000	
+6.186	0.08507	0.52358	
+6.839	0.10677	0.58751	
+7.813	0.13385	0.65426	
+10.319	0.20873	0.77255	
+12.466	0.28163	0.82735	
+13.559	0.31364	0.84581	
+18.812	0.52590	0.92719	
+23.131	0.74635	0.96484	
+26.544	1.00000	1.00000	
+Source	
+Campbell A.N.; Kartzmark E.M.; Gieskes J.M.T.M.: Vapor-Liquid Equilibria, Densities and Refractives in the System Acetic Acid-Chloroform-Water at 25°C. Can.J.Chem. 41 (1963) 407-429	
+$$$Vapor-Liquid Equilibrium Data Set 8843	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+391.25	0.00000	0.00000	
+386.85	0.00709	0.06991	
+379.15	0.04739	0.22129	
+369.95	0.09944	0.43826	
+366.65	0.12046	0.50639	
+354.95	0.26299	0.70194	
+354.65	0.27508	0.69619	
+344.15	0.48079	0.85946	
+342.95	0.51094	0.87158	
+336.45	0.83401	0.96869	
+334.65	0.97642	0.99603	
+334.55	1.00000	1.00000	
+Source	
+Campbell A.N.; Gieskes J.M.T.M.: The Isobaric Boiling Points of the System Acetic Acid-Chloroform-Water at a Pressure of 760mmHg. Can.J.Chem. 42 (1964) 186-189	
+Source	
+Conti J.J.; Othmer D.F.; Gilmont R.: Composition of Vapors from Boiling Binary Solutions. Systems Containing Formic Acid, Acetic Acid, Water and Chloroform. J.Chem.Eng.Data 5 (1960) 301-307	
+Campbell A.N.; Kartzmark E.M.; Gieskes J.M.T.M.: Vapor-Liquid Equilibria, Densities and Refractives in the System Acetic Acid-Chloroform-Water at 25°C. Can.J.Chem. 41 (1963) 407-429	
+Campbell A.N.; Gieskes J.M.T.M.: The Isobaric Boiling Points of the System Acetic Acid-Chloroform-Water at a Pressure of 760mmHg. Can.J.Chem. 42 (1964) 186-189	

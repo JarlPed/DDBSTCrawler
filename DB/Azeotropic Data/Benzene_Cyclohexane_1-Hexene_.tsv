@@ -1,0 +1,8 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+3	C6H12	84.161	592-41-6	1-Hexene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+none	313.150	n.a.	n.a.	n.a.	n.a.	Phase equilibrium	Author	1	
+none	zeotropic	
+1	Chamorro C.R.; Segovia J.J.; Martin M.C.; Villamanan M.A.: Thermodynamics of Octane-Enhancing Additives in Gasolines: Vapor-Liquid Equilibrium of Ternary Mixtures Containing Di-isopropyl Ether of Cyclohexane and 1-Hexene + Benzene at 313.15 K. J.Chem.Eng.Data 47 (2002) 316-321	

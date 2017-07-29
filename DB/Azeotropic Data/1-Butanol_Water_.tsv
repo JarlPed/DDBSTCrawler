@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+hetPmax	335.150	26.664	n.a.	0.80700	n.a.	Author	1	
+hetPmax	365.750	101.325	n.a.	0.75700	n.a.	Author	2	
+hetPmax	365.750	101.325	n.a.	0.71426	n.a.	Author	3	
+hetPmax	heterogeneous pressure maximum	
+1	Reshetov S.A.; Zhvanetskii I.B.; Pilyugin A.B.; Luzyanina G.N.; Chekanina N.N.; Platonov V.M.: Study of Polyazeotropy in n-Alcohol-Acrylic Acid Ester-Water-beta-Alkoxypropionic Acid Ester-Acrylic Acid Five-Component Systems. Zh.Prikl.Khim. 61 (1988) 97-100	
+2	Kudryavtseva L.S.; Susarev M.P.; Eizen O.G.: V. Reinvestigation of Certain Binary and Ternary Heteroazeotropes. Russ.J.Phys.Chem. 40 (1966) 895-897	
+3	Wuyts H.: Quelques applications de l´azéotropisme à la préparation de composés organique. Bull.Soc.Chim.Belg. 33 (1924) 167-192	

@@ -1,0 +1,26 @@
+$$$Vapor-Liquid Equilibrium Data Set 6698	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	C6H14	86.177	110-54-3	Hexane	
+3	C2H6O	46.069	64-17-5	Ethanol	
+Temperature	328.15	K	
+x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
+0.10000	0.10000	0.31500	0.31300	
+0.20000	0.20000	0.34400	0.32200	
+0.40000	0.10000	0.57500	0.12700	
+0.30000	0.20000	0.41700	0.26000	
+0.10000	0.40000	0.14800	0.52900	
+0.30000	0.30000	0.37100	0.33500	
+0.60000	0.10000	0.60700	0.09600	
+0.50000	0.20000	0.51200	0.18900	
+0.30000	0.40000	0.30300	0.39800	
+0.20000	0.50000	0.21000	0.47100	
+0.70000	0.10000	0.64400	0.08300	
+0.40000	0.40000	0.35300	0.34900	
+0.70000	0.20000	0.60600	0.16100	
+0.50000	0.40000	0.43900	0.30100	
+0.40000	0.50000	0.36200	0.38000	
+0.20000	0.70000	0.18500	0.54200	
+Source	
+Kudryavtseva L.S.; Viit Kh.Kh.; Eizen O.G.: Liquid-Vapour Equilibria in the Ethanol-Heptane-Isooctane and Hex-1-ene-Hexane-Ethanol Ternary Systems. Viniti  (1971) 1-11	
+Source	

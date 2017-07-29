@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	CH4O	32.042	67-56-1	Methanol	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1	
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	2	
+none	313.150	n.a.	n.a.	n.a.	n.a.	Author from diagram from VLE	3	
+none	zeotropic	
+1	Patlasov V.P.; Naumova T.B.; Sergacheva N.I.; Balashov M.I.: Untersuchung und Berechnung des Dampf-Flüssig-Gleichgewichtes im System Methylacetat-Methanol-n-Butanol-Butylacetat. Tr.Inst.Mosk.Inst.Tonkoj Khim.Tekhnol. 7 (1977) 179-183	
+2	Koshelkov V.A.; Grudinina T.A.; Pavlenko T.G.; Timofeev V.S.; Serafimov L.A.: Untersuchung des Phasengleichgewichtes in den Mischungen Methanol-n-Propanol-n-Butanol, Ethanol-n-Propanol-n-Butanol, Ethanol-n-Propanol-Wasser. Uch.Zap.Mosk.Inst.Tonkoj Khim.Tekhnol. 1 (1971) 44-48	
+3	Oracz P.: Liquid-Vapor Equilibrium and Excess Gibbs Energy of Binary 1-Alkanol (C1 - C5) Mixtures. Int.Data Series Sel.Data Mixtures Ser. A 1986 (1986) 72-101	

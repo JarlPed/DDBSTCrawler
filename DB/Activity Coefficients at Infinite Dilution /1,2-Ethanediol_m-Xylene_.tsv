@@ -1,0 +1,12 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+2	C8H10	106.167	108-38-3	m-Xylene	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+298.15	124.00	GLCI	2	
+313.15	120.00	GLCN	1	
+321.15	108.00	GLCN	1	
+Short Term	Explanation	
+GLCI	GLC (without gas phase correction)	
+GLCN	GLC (not specified)	
+1	Leitman Y.I.; Gaile A.A.: IV. Selectivity of Aliphatic Compounds. Russ.J.Phys.Chem. 45 (1971) 39-41	
+2	Arancibia E.L.; Catoggio J.A.: II. Ethylene Glycol. J.Chromatogr. 238 (1982) 281-290	

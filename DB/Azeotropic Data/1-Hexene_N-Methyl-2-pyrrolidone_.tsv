@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	45.000	n.a.	n.a.	Phase equilibrium	Author from VLE	2	
+none	363.610	n.a.	n.a.	n.a.	Phase equilibrium	Author	1	
+none	413.370	n.a.	n.a.	n.a.	Phase equilibrium	Author	1	
+none	zeotropic	
+1	Fischer K.; Gmehling J.: Vapor-liquid equilibria, activity coefficients at infinite dilution and heats of mixing for mixtures of N-methyl pyrrolidone-2 with C5 or C6 hydrocarbons and for hydrocarbon mixtures. Fluid Phase Equilib. 119 (1996) 113-130	
+2	Moodley P.: Vapour-Liquid Equilibria Studies for Binary Systems Containing 1-Hexene and n-Hexane. Master's Thesis  (2009)	

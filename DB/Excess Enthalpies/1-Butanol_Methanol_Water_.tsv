@@ -1,0 +1,71 @@
+$$$Enthalpy of Mixing Data Set 4708	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	CH4O	32.042	67-56-1	Methanol	
+3	H2O	18.015	7732-18-5	Water	
+Temperature	293.150	K	
+Pressure	1.010	bar	
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
+-839.680	0.07250	0.27590	
+-612.250	0.13760	0.25660	
+-431.060	0.19640	0.23910	
+-277.740	0.24980	0.22320	
+-159.850	0.29850	0.20870	
+158.610	0.48910	0.15200	
+263.800	0.62140	0.11260	
+301.230	0.71850	0.08370	
+289.620	0.79290	0.06160	
+257.920	0.85170	0.04410	
+215.920	0.89940	0.02990	
+155.020	0.93780	0.01820	
+75.720	0.97180	0.00840	
+Source	
+Battler J.R.; Rowley R.L.: Excess enthalpies between 293 and 323 K for constituent binaries of ternary mixtures exhibiting partial miscibility. J.Chem.Thermodyn. 17 (1985) 719-732	
+$$$Enthalpy of Mixing Data Set 4709	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	CH4O	32.042	67-56-1	Methanol	
+3	H2O	18.015	7732-18-5	Water	
+Temperature	298.150	K	
+Pressure	1.010	bar	
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
+-782.910	0.07250	0.27590	
+-557.680	0.13760	0.25660	
+-353.380	0.19640	0.23910	
+-179.760	0.24980	0.22320	
+-69.355	0.29850	0.20870	
+244.750	0.48910	0.15200	
+349.440	0.62140	0.11260	
+368.620	0.71850	0.08370	
+353.510	0.79290	0.06160	
+308.750	0.85170	0.04410	
+247.380	0.89940	0.02990	
+178.880	0.93780	0.01820	
+89.120	0.97180	0.00840	
+Source	
+Battler J.R.; Rowley R.L.: Excess enthalpies between 293 and 323 K for constituent binaries of ternary mixtures exhibiting partial miscibility. J.Chem.Thermodyn. 17 (1985) 719-732	
+$$$Enthalpy of Mixing Data Set 4710	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	CH4O	32.042	67-56-1	Methanol	
+3	H2O	18.015	7732-18-5	Water	
+Temperature	303.150	K	
+Pressure	1.010	bar	
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
+-700.100	0.07250	0.27590	
+-472.840	0.13760	0.25660	
+-280.290	0.19640	0.23910	
+-121.010	0.24980	0.22320	
+-6.095	0.29850	0.20870	
+323.770	0.48910	0.15200	
+401.240	0.62140	0.11260	
+418.500	0.71850	0.08370	
+389.150	0.79290	0.06160	
+333.070	0.85170	0.04410	
+274.970	0.89940	0.02990	
+189.740	0.93780	0.01820	
+88.460	0.97180	0.00840	
+Source	
+Battler J.R.; Rowley R.L.: Excess enthalpies between 293 and 323 K for constituent binaries of ternary mixtures exhibiting partial miscibility. J.Chem.Thermodyn. 17 (1985) 719-732	
+Source	
+Battler J.R.; Rowley R.L.: Excess enthalpies between 293 and 323 K for constituent binaries of ternary mixtures exhibiting partial miscibility. J.Chem.Thermodyn. 17 (1985) 719-732	

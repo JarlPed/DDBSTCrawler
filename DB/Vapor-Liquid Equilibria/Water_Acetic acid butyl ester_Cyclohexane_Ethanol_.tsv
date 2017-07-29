@@ -1,0 +1,52 @@
+$$$Vapor-Liquid Equilibrium Data Set 33553	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
+3	C6H12	84.161	110-82-7	Cyclohexane	
+4	C2H6O	46.069	64-17-5	Ethanol	
+Pressure	29.77	kPa	
+T [K]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	
+314.00	0.26540	0.10930	0.07670	
+312.85	0.10420	0.16910	0.16690	
+311.85	0.53280	0.02550	0.02000	
+311.10	0.45560	0.06580	0.05080	
+314.45	0.28040	0.19720	0.10760	
+313.95	0.32140	0.18600	0.10150	
+308.35	0.21260	0.06620	0.18800	
+Source	
+Li G.; Li Z.: Determination and Prediction of VaporLiquid Equilibria for a System Containing Water + Butyl Acetate + Cyclohexane + Ethanol. J.Chem.Eng.Data 57 (2012) 2543-2548	
+$$$Vapor-Liquid Equilibrium Data Set 33554	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
+3	C6H12	84.161	110-82-7	Cyclohexane	
+4	C2H6O	46.069	64-17-5	Ethanol	
+Pressure	58.85	kPa	
+T [K]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	
+329.55	0.26540	0.10930	0.07670	
+328.80	0.10420	0.16910	0.16690	
+328.00	0.53280	0.02550	0.02000	
+327.35	0.45560	0.06580	0.05080	
+330.50	0.28040	0.19720	0.10760	
+329.55	0.32140	0.18600	0.10150	
+324.25	0.21260	0.06620	0.18800	
+Source	
+Li G.; Li Z.: Determination and Prediction of VaporLiquid Equilibria for a System Containing Water + Butyl Acetate + Cyclohexane + Ethanol. J.Chem.Eng.Data 57 (2012) 2543-2548	
+$$$Vapor-Liquid Equilibrium Data Set 33555	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
+3	C6H12	84.161	110-82-7	Cyclohexane	
+4	C2H6O	46.069	64-17-5	Ethanol	
+Pressure	87.65	kPa	
+T [K]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	
+339.95	0.26540	0.10930	0.07670	
+339.90	0.10420	0.16910	0.16690	
+338.95	0.53280	0.02550	0.02000	
+337.25	0.45560	0.06580	0.05080	
+340.50	0.28040	0.19720	0.10760	
+339.95	0.32140	0.18600	0.10150	
+335.05	0.21260	0.06620	0.18800	
+Source	
+Li G.; Li Z.: Determination and Prediction of VaporLiquid Equilibria for a System Containing Water + Butyl Acetate + Cyclohexane + Ethanol. J.Chem.Eng.Data 57 (2012) 2543-2548	
+Source	

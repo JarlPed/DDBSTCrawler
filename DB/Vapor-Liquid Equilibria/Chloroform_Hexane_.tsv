@@ -1,0 +1,59 @@
+$$$Vapor-Liquid Equilibrium Data Set 1338	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C6H14	86.177	110-54-3	Hexane	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+341.90	0.00000	0.00000	
+339.68	0.10550	0.15900	
+337.93	0.20550	0.29200	
+336.65	0.29150	0.38300	
+335.47	0.39690	0.48400	
+334.55	0.49970	0.56600	
+334.02	0.59370	0.64100	
+333.62	0.69980	0.72000	
+333.56	0.80000	0.79600	
+333.80	0.90010	0.88400	
+334.42	1.00000	1.00000	
+Source	
+Kudryavtseva L.S.; Susarev M.P.: Liquid-Vapor Equilibrium in Chloroform-Hexane and Acetone-Chloroform Systems. J.Appl.Chem.USSR 36 (1963) 1180-1185	
+$$$Vapor-Liquid Equilibrium Data Set 1339	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C6H14	86.177	110-54-3	Hexane	
+Temperature	328.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+64.395	0.00000	0.00000	
+69.248	0.10350	0.16100	
+73.607	0.20350	0.29600	
+76.674	0.29050	0.38500	
+79.407	0.39640	0.48400	
+82.300	0.49920	0.56900	
+83.673	0.59650	0.64000	
+84.673	0.69910	0.72000	
+84.913	0.80000	0.79400	
+84.153	0.90030	0.88300	
+82.393	1.00000	1.00000	
+Source	
+Kudryavtseva L.S.; Susarev M.P.: Liquid-Vapor Equilibrium in Chloroform-Hexane and Acetone-Chloroform Systems. J.Appl.Chem.USSR 36 (1963) 1180-1185	
+$$$Vapor-Liquid Equilibrium Data Set 1340	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C6H14	86.177	110-54-3	Hexane	
+Temperature	318.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+45.130	0.00000	0.00000	
+48.663	0.10150	0.16300	
+52.182	0.20250	0.30100	
+54.582	0.28950	0.39200	
+56.662	0.39590	0.48400	
+58.595	0.49820	0.57100	
+59.515	0.59790	0.64000	
+60.275	0.69860	0.71500	
+60.462	0.80000	0.79300	
+59.915	0.90060	0.88200	
+57.729	1.00000	1.00000	
+Source	
+Kudryavtseva L.S.; Susarev M.P.: Liquid-Vapor Equilibrium in Chloroform-Hexane and Acetone-Chloroform Systems. J.Appl.Chem.USSR 36 (1963) 1180-1185	
+Source	
+Kudryavtseva L.S.; Susarev M.P.: Liquid-Vapor Equilibrium in Chloroform-Hexane and Acetone-Chloroform Systems. J.Appl.Chem.USSR 36 (1963) 1180-1185	

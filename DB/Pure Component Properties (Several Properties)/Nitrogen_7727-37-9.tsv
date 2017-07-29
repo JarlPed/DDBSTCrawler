@@ -1,0 +1,1202 @@
+Formula	Molar Mass	CAS Registry Number	Name	
+N2	28.013	7727-37-9	Nitrogen	
+$$$Compressibility Factor (isothermal)	
+T [K]	P [kPa]	Compressibility Factor (isothermal) [-]	State	Reference	
+399.30	557.094	1.001	Vapor	1	
+399.30	839.089	1.003	Vapor	1	
+399.30	1265.180	1.005	Vapor	1	
+399.30	1909.840	1.009	Vapor	1	
+399.30	2880.620	1.011	Vapor	1	
+399.30	4387.810	1.019	Vapor	1	
+399.30	6632.730	1.029	Vapor	1	
+399.30	10149.000	1.046	Vapor	1	
+399.30	15713.101	1.078	Vapor	1	
+399.30	24972.701	1.138	Vapor	1	
+Number	Source	
+1	Watson G.M.; Stevens A.B.; Evans R.B.; Hodges Jr. D.: Compressibility Factors of Nitrogen-Propane Mixtures in the Gas Phase. Ind.Eng.Chem. 46 (1954) 362-364	
+$$$Critical Data	
+T [K]	P [kPa]	State	Reference	
+126.15	3362.100	Critical Point	4	
+126.20		Critical Point	5	
+126.25		Critical Point	3	
+126.26	3398.400	Critical Point	6	
+127.15	3550.000	Critical Point	2	
+128.15	3550.000	Critical Point	1	
+Number	Source	
+1	Olszewski C.: On the Liquefaction of Gases. London Edinb.Dub.Philos.Mag.J.Sci. 39 (1895) 188-212	
+2	Olszewski K.: Températures d'ébullition de l'azote et de l'éthylène sous de faibles pressions. C.R.Hebd.Seanc.Acad.Sci.Paris 99 (1884) 133-136	
+3	Terry M.J.; Lynch J.T.; Bunclark M.; Mansell K.R.; Staveley L.A.K.: The Densities of Liquid Argon, Krypton, Xenon, Oxygen, Nitrogen, Carbon Monoxide, Methane, and Carbon Tetrafluoride Along the Orthobaric Liquid Curve.. J.Chem.Thermodyn. 1 (1969) 413-424	
+4	Friedman A.S.; White D.: The vapor pressure of liquid nitrogen.. J.Am.Chem.Soc. 72 (1950) 3931-3932	
+5	Jones I.W.; Rowlinson J.S.: Part 2. Trans.Faraday Soc. 59 (1963) 1702-1708	
+6	White D.; Friedman A.S.; Johnston H.L.: The critical temperature and critical pressure of nitrogen.. J.Am.Chem.Soc. 73 (1951) 5713-5715	
+$$$Density	
+T [K]	P [kPa]	Density [kg/m3]	State	Reference	
+294.65	151988.000	668.018	Vapor	1	
+294.65	202650.000	733.246	Vapor	1	
+294.65	253312.000	779.788	Vapor	1	
+294.65	303975.000	818.288	Vapor	1	
+294.65	354638.000	851.109	Vapor	1	
+294.65	405300.000	880.264	Vapor	1	
+294.65	455962.000	907.353	Vapor	1	
+294.65	506625.000	933.667	Vapor	1	
+294.65	557288.000	954.019	Vapor	1	
+294.65	607950.000	977.661	Vapor	1	
+294.65	658612.000	997.152	Vapor	1	
+453.15	151988.000	542.829	Vapor	1	
+453.15	202650.000	612.910	Vapor	1	
+453.15	253312.000	665.321	Vapor	1	
+453.15	303975.000	710.733	Vapor	1	
+453.15	354638.000	749.732	Vapor	1	
+453.15	405300.000	783.935	Vapor	1	
+453.15	455962.000	814.244	Vapor	1	
+453.15	506625.000	840.636	Vapor	1	
+473.15	151988.000	525.220	Vapor	1	
+473.15	202650.000	597.228	Vapor	1	
+473.15	253312.000	651.395	Vapor	1	
+473.15	303975.000	699.027	Vapor	1	
+473.15	354638.000	738.855	Vapor	1	
+473.15	405300.000	773.116	Vapor	1	
+473.15	455962.000	803.730	Vapor	1	
+473.15	506625.000	831.651	Vapor	1	
+473.15	557288.000	856.313	Vapor	1	
+473.15	607950.000	879.159	Vapor	1	
+473.15	658612.000	900.354	Vapor	1	
+473.15	709275.000	920.171	Vapor	1	
+473.15	759938.000	937.730	Vapor	1	
+473.15	810600.000	954.669	Vapor	1	
+573.15	151988.000	470.994	Vapor	1	
+573.15	202650.000	545.472	Vapor	1	
+573.15	253312.000	601.589	Vapor	1	
+573.15	303975.000	649.432	Vapor	1	
+573.15	354638.000	688.883	Vapor	1	
+573.15	405300.000	722.839	Vapor	1	
+573.15	455962.000	752.957	Vapor	1	
+573.15	506625.000	779.788	Vapor	1	
+573.15	557288.000	803.500	Vapor	1	
+573.15	607950.000	828.698	Vapor	1	
+573.15	658612.000	850.076	Vapor	1	
+573.15	709275.000	872.314	Vapor	1	
+573.15	759938.000	891.187	Vapor	1	
+573.15	810600.000	909.120	Vapor	1	
+573.15	861262.000	925.033	Vapor	1	
+573.15	911925.000	940.248	Vapor	1	
+573.15	962588.000	954.019	Vapor	1	
+573.15	1013250.000	966.529	Vapor	1	
+673.15	151988.000	426.527	Vapor	1	
+673.15	202650.000	500.179	Vapor	1	
+673.15	253312.000	555.313	Vapor	1	
+673.15	303975.000	604.576	Vapor	1	
+673.15	354638.000	643.760	Vapor	1	
+673.15	405300.000	678.208	Vapor	1	
+673.15	455962.000	708.576	Vapor	1	
+673.15	506625.000	736.718	Vapor	1	
+673.15	557288.000	763.840	Vapor	1	
+673.15	607950.000	787.904	Vapor	1	
+673.15	658612.000	810.006	Vapor	1	
+673.15	709275.000	830.911	Vapor	1	
+673.15	759938.000	850.076	Vapor	1	
+673.15	810600.000	867.720	Vapor	1	
+673.15	861262.000	884.433	Vapor	1	
+673.15	911925.000	899.775	Vapor	1	
+673.15	962588.000	912.973	Vapor	1	
+673.15	1013250.000	925.950	Vapor	1	
+T [K]	P [kPa]	Density [kg/m3]	State	Reference	
+400.00	100000.000	478.000	Supercritical	2	
+500.00	100000.000	412.000	Supercritical	2	
+600.00	100000.000	362.000	Supercritical	2	
+700.00	100000.000	323.000	Supercritical	2	
+800.00	100000.000	292.000	Supercritical	2	
+900.00	100000.000	267.000	Supercritical	2	
+1000.00	100000.000	246.000	Supercritical	2	
+1100.00	100000.000	228.000	Supercritical	2	
+1200.00	100000.000	213.000	Supercritical	2	
+1300.00	100000.000	200.000	Supercritical	2	
+1400.00	100000.000	188.000	Supercritical	2	
+1500.00	100000.000	179.000	Supercritical	2	
+1600.00	100000.000	169.000	Supercritical	2	
+1700.00	100000.000	161.000	Supercritical	2	
+1800.00	100000.000	153.000	Supercritical	2	
+Number	Source	
+1	Tsiklis D.S.; Polyakov E.V.: Nitrogen Compressibility at Pressures up to 10,000 atm and Temperatures to 400 °. Dokl.Akad.Nauk SSSR 176 (1967) 308-311	
+2	Antanovich A.A.; Plotnikov M.A.: Untersuchung  thermodynamischer  Eigenschaften von Stickstoff bei Drücken bis  8kbar und Temperaturen bis  1800K. Inzh.Fiz.Zh. 33 (1977) 280-286	
+$$$Dielectric Constant	
+T [K]	P [kPa]	Dielectric Constant [-]	State	Reference	
+91.00		1.39320	Liquid	2	
+91.00	410.000	1.39288	Liquid	3	
+91.00	2000.000	1.39666	Liquid	3	
+91.00	3940.000	1.40088	Liquid	3	
+91.00	5910.000	1.40500	Liquid	3	
+91.00	8030.000	1.40900	Liquid	3	
+91.00	9990.000	1.41253	Liquid	3	
+91.00	12040.000	1.41594	Liquid	3	
+91.00	14070.000	1.41920	Liquid	3	
+91.00	15960.000	1.42198	Liquid	3	
+91.00	18020.000	1.42494	Liquid	3	
+91.00	19890.000	1.42748	Liquid	3	
+100.00		1.36340	Liquid	2	
+100.00	790.000	1.36371	Liquid	3	
+100.00	1990.000	1.36780	Liquid	3	
+100.00	4050.000	1.37420	Liquid	3	
+100.00	5990.000	1.37963	Liquid	3	
+100.00	8010.000	1.38472	Liquid	3	
+100.00	10010.000	1.38925	Liquid	3	
+100.00	12020.000	1.39348	Liquid	3	
+100.00	14040.000	1.39743	Liquid	3	
+100.00	15940.000	1.40090	Liquid	3	
+100.00	17930.000	1.40440	Liquid	3	
+100.00	19890.000	1.40780	Liquid	3	
+108.00		1.33280	Liquid	2	
+108.00	1330.000	1.33301	Liquid	3	
+108.00	2030.000	1.33690	Liquid	3	
+108.00	3970.000	1.34601	Liquid	3	
+108.00	5970.000	1.35417	Liquid	3	
+108.00	8030.000	1.36116	Liquid	3	
+108.00	10040.000	1.36715	Liquid	3	
+108.00	12070.000	1.37256	Liquid	3	
+108.00	13930.000	1.37712	Liquid	3	
+108.00	16010.000	1.38169	Liquid	3	
+108.00	17960.000	1.38581	Liquid	3	
+108.00	19950.000	1.38981	Liquid	3	
+115.00		1.30010	Liquid	2	
+273.15	1013.250	1.00609	Vapor	1	
+273.15	2026.500	1.01220	Vapor	1	
+273.15	4053.000	1.02468	Vapor	1	
+273.15	6079.500	1.03732	Vapor	1	
+273.15	8106.000	1.04999	Vapor	1	
+273.15	10132.500	1.06262	Vapor	1	
+273.15	15198.800	1.09343	Vapor	1	
+273.15	20265.000	1.12170	Vapor	1	
+273.15	25331.201	1.14730	Vapor	1	
+373.15	1013.250	1.00446	Vapor	1	
+373.15	2026.500	1.00883	Vapor	1	
+373.15	4053.000	1.01770	Vapor	1	
+373.15	6079.500	1.02662	Vapor	1	
+373.15	8106.000	1.03528	Vapor	1	
+373.15	10132.500	1.04389	Vapor	1	
+373.15	15198.800	1.06448	Vapor	1	
+373.15	20265.000	1.08353	Vapor	1	
+373.15	25331.201	1.10060	Vapor	1	
+Number	Source	
+1	Uhlig H.H.; Kirkwood J.G.; Keyes F.G.: The Dependence of the Dielectric Constants of Gases on Temperature and Density. J.Chem.Phys. 1 (1933) 155-159	
+2	Pan W.P.; Mady M.H.; Miller R.C.: Systems Containing Nitrogen, Argon and Light Hydrocarbons. AIChE J. 21 (1975) 283-289	
+3	Singh S.P.; Miller R.C.: Compressed-Liquid Dielectric Constants and Derived Excess Volumes for Simple Liquid Mixtures: N2 + CH4 and Ar + CH4. J.Chem.Thermodyn. 10 (1978) 747-763	
+$$$Diffusion Coefficient	
+T [K]	P [kPa]	Diffusion Coefficient [cm2/s]	State	Reference	
+77.65		0.0168	Vapor	2	
+194.65		0.1040	Vapor	2	
+273.15		0.1850	Vapor	2	
+293.15	100.000	0.3040	Vapor	1	
+298.15		0.2120	Vapor	2	
+353.15		0.2870	Vapor	2	
+Number	Source	
+1	Stephan K.; Rothacker V.; Hurdelbrink W.: Thermal Diffusivities Determined by Photoacoustic Spectroscopy. Chem.Eng.Process. 26 (1989) 257-261	
+2	Winn E.B.: The Temperature Dependence of the Self-Diffusion Coefficients of Argon, Neon, Nitrogen, Oxygen, Carbon Dioxide, and Methane. Phys.Rev. 80 (1950) 1024-1027	
+$$$Dynamic Viscosity	
+T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference	
+273.15	9806.649	0.0189	Vapor	4	
+273.15	29419.900	0.0270	Vapor	4	
+273.15	49033.199	0.03575	Vapor	4	
+273.15	68646.500	0.0440	Vapor	4	
+273.15	93163.203	0.0530	Vapor	4	
+273.15	133370.000	0.0670	Vapor	4	
+273.15	156906.000	0.07505	Vapor	4	
+273.15	172597.000	0.0802	Vapor	4	
+273.15	211824.000	0.0930	Vapor	4	
+273.15	249089.000	0.10475	Vapor	4	
+273.15	282432.000	0.1149	Vapor	4	
+273.15	327542.000	0.12815	Vapor	4	
+280.15	9806.649	0.01925	Vapor	4	
+280.15	29419.900	0.02675	Vapor	4	
+280.15	49033.199	0.0353	Vapor	4	
+280.15	88259.898	0.0502	Vapor	4	
+280.15	125525.000	0.0630	Vapor	4	
+280.15	156906.000	0.0736	Vapor	4	
+280.15	194172.000	0.0857	Vapor	4	
+280.15	248108.000	0.1022	Vapor	4	
+280.15	276548.000	0.11125	Vapor	4	
+280.15	319697.000	0.12345	Vapor	4	
+293.15	9806.649	0.01965	Vapor	4	
+293.15	29419.900	0.02645	Vapor	4	
+293.15	49033.199	0.03445	Vapor	4	
+293.15	93163.203	0.0502	Vapor	4	
+293.15	121602.000	0.05965	Vapor	4	
+293.15	165732.000	0.0740	Vapor	4	
+293.15	202998.000	0.0852	Vapor	4	
+293.15	241244.000	0.0968	Vapor	4	
+293.15	279490.000	0.1079	Vapor	4	
+293.15	313813.000	0.1181	Vapor	4	
+293.15	351078.000	0.1287	Vapor	4	
+300.00	7.000	0.0179	Vapor	3	
+300.00	27.000	0.0179	Vapor	3	
+375.00		0.02133	Vapor	2	
+419.00		0.02303	Vapor	2	
+451.00		0.02423	Vapor	2	
+500.00		0.0261	Vapor	2	
+554.00		0.02799	Vapor	2	
+615.00		0.03003	Vapor	2	
+667.00		0.03178	Vapor	2	
+726.00		0.03366	Vapor	2	
+773.00		0.03499	Vapor	2	
+826.00		0.03652	Vapor	2	
+876.00		0.03802	Vapor	2	
+893.00		0.03845	Vapor	2	
+925.00		0.03939	Vapor	2	
+970.00		0.04075	Vapor	2	
+1000.00		0.04149	Vapor	2	
+1015.00		0.04186	Vapor	2	
+1050.00		0.04282	Vapor	2	
+1094.00		0.04406	Vapor	2	
+1096.00		0.04393	Vapor	2	
+1133.00		0.04489	Vapor	2	
+1168.00		0.04569	Vapor	2	
+1192.00		0.04657	Vapor	2	
+1205.00		0.04655	Vapor	2	
+1206.00		0.04682	Vapor	2	
+1228.00		0.0475	Vapor	2	
+1257.00		0.04796	Vapor	2	
+1263.00		0.04845	Vapor	2	
+1291.00		0.04901	Vapor	2	
+1294.00		0.04888	Vapor	2	
+1321.00		0.05005	Vapor	2	
+1343.00		0.05029	Vapor	2	
+1347.00		0.05023	Vapor	2	
+1378.00		0.05117	Vapor	2	
+1393.00		0.05141	Vapor	2	
+1397.00		0.05156	Vapor	2	
+1432.00		0.05265	Vapor	2	
+1442.00		0.0529	Vapor	2	
+1468.00		0.0534	Vapor	1	
+1468.00		0.05343	Vapor	2	
+1476.00		0.05377	Vapor	2	
+1499.00		0.05419	Vapor	2	
+1504.00		0.05412	Vapor	2	
+1521.00		0.0549	Vapor	2	
+1574.00		0.0562	Vapor	1	
+1574.00		0.05621	Vapor	2	
+1624.00		0.0572	Vapor	1	
+1673.00		0.05838	Vapor	2	
+1673.00		0.0584	Vapor	1	
+1722.00		0.05949	Vapor	2	
+1722.00		0.0595	Vapor	1	
+1782.00		0.06079	Vapor	2	
+1782.00		0.0608	Vapor	1	
+1823.00		0.06177	Vapor	2	
+1823.00		0.0618	Vapor	1	
+1868.00		0.0625	Vapor	1	
+1868.00		0.06251	Vapor	2	
+1892.00		0.0631	Vapor	1	
+1892.00		0.06312	Vapor	2	
+1904.00		0.06345	Vapor	2	
+1925.00		0.06386	Vapor	2	
+1950.00		0.06434	Vapor	2	
+1989.00		0.06542	Vapor	2	
+Number	Source	
+1	Lyusternik V.E.; Lavushchev A.V.: Untersuchung der Viskosität von Argon bei 2000K. Teplofiz.Vys.Temp. 14 (1976) 970-978	
+2	Lavushchev A.V.; Lyusternik V.E.: Experimentelle Bestimmung der Viskosität von Stickstoff bis 2000 K. Teplofiz.Vys.Temp.  (1978) 209-211	
+3	Borisov S.F.; Kalinin B.A.; Porodnov B.T.; Suetin P.E.: Bestimmung der Viskositätskoeffizienten von Gasen nach Unstationärstrom-Methode. Inzh.Fiz.Zh. 24 (1973) 67-69	
+4	Golubev I.F.; Kurin V.I.: Untersuchung der Viskosität von Gasen bei Drücken bis  4000kgf/cm² und verschiedenen Temperaturen. Teploenergetika 21 (1974) 83-85	
+$$$Enthalpy	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+130.00	5070.000	2241.08	Supercritical	1	
+140.00	5070.000	3902.28	Supercritical	1	
+150.00	5070.000	4790.31	Supercritical	1	
+160.00	5070.000	5370.18	Supercritical	1	
+170.00	5070.000	5854.82	Supercritical	1	
+180.00	5070.000	6331.05	Supercritical	1	
+190.00	5070.000	6667.21	Supercritical	1	
+200.00	5070.000	7031.38	Supercritical	1	
+210.00	5070.000	7395.56	Supercritical	1	
+220.00	5070.000	7731.72	Supercritical	1	
+230.00	5070.000	8067.88	Supercritical	1	
+240.00	5070.000	8404.04	Supercritical	1	
+250.00	5070.000	8740.21	Supercritical	1	
+260.00	5070.000	9076.37	Supercritical	1	
+270.00	5070.000	9384.52	Supercritical	1	
+Number	Source	
+1	Lammers J.N.J.J.; van Kasteren P.H.G.; Kroon G.F.; Zeldenrust H.: Enthalpy Measurements of Natural Gas Components and Mixed Refrigerants with a Flow Calorimeter. Proceedings, fifty-seventh Annual Convention GPA 57 (1978) 18-24	
+$$$Entropy	
+T [K]	Molar Entropy [J/(mol*K)]	State	Reference	
+77.32	152.72	Vapor	1	
+100.00	23.00	Liquid	2	
+110.00	24.55	Liquid	2	
+115.20	25.30	Liquid	2	
+120.30	26.45	Liquid	2	
+123.20	27.05	Liquid	2	
+124.20	27.35	Liquid	2	
+125.20	28.10	Liquid	2	
+125.96	29.00	Liquid	2	
+298.00	192.05	Vapor	1	
+Number	Source	
+1	Giauque W.F.; Clayton J.O.: The heat capacity and entropy of nitrogen. Heat of vaporization. Vapor pressures of solid and liquid. The reaction 1/2 N2 + 1/2 O2 = NO from spectroscopic data.. J.Am.Chem.Soc. 55 (1933) 4875-4889	
+2	Rodebush W.H.; Andrews J.W.; Taylor J.B.: The Temperature-Entropy Diagrams for Nitrogen and Oxygen. J.Am.Chem.Soc. 47 (1925) 313-319	
+$$$Heat of Fusion	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+63.08		715.70	Solid-Liquid	2	
+63.14	98.000	726.00	Solid-Liquid	1	
+Number	Source	
+1	Grilly E.R.; Mills R.L.: Volume change on melting of N2 up to 3500 kg/cm2.. Phys.Rev. 105 (1957) 1140-1145	
+2	Clusius K.: Über die spezifische Wärme einiger kondensierter Gase zwischen 10° abs.und ihrem Tripelpunkt.. Z.Phys.Chem.Abt.B 3 (1929) 41-79	
+$$$Heat of Transition	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+35.40	215.20	Solid-Solid	1	
+35.62	215.00	Solid-Solid	2	
+Number	Source	
+1	Clusius K.: Über die spezifische Wärme einiger kondensierter Gase zwischen 10° abs.und ihrem Tripelpunkt.. Z.Phys.Chem.Abt.B 3 (1929) 41-79	
+2	Lipinski L.; Kowal A.; Szmyrka-Grzebyk A.; Manuszkiewicz H.; Steur P.P.M.; Pavese F.: The alpha - beta Transition of Nitrogen. Int.J.Thermophys. 28 (2007) 1904-1912	
+$$$Heat of Vaporization	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+77.00		5656.77	Vapor-Liquid	2	
+77.32		5575.98	Vapor-Liquid	1	
+77.32		5578.49	Vapor-Liquid	1	
+77.32		5583.93	Vapor-Liquid	1	
+77.32		5584.35	Vapor-Liquid	1	
+77.32	101.325	5576.85	Vapor-Liquid	1	
+99.40		4560.56	Vapor-Liquid	3	
+111.90		3468.54	Vapor-Liquid	3	
+119.50		2581.53	Vapor-Liquid	3	
+124.50		1468.58	Vapor-Liquid	3	
+Number	Source	
+1	Giauque W.F.; Clayton J.O.: The heat capacity and entropy of nitrogen. Heat of vaporization. Vapor pressures of solid and liquid. The reaction 1/2 N2 + 1/2 O2 = NO from spectroscopic data.. J.Am.Chem.Soc. 55 (1933) 4875-4889	
+2	England C.: Gas Solubilities in Physical Solvents. Chem.Engineering (NY) 93 (1986) 63-66	
+3	Rodebush W.H.; Andrews J.W.; Taylor J.B.: The Temperature-Entropy Diagrams for Nitrogen and Oxygen. J.Am.Chem.Soc. 47 (1925) 313-319	
+$$$Ideal Gas Heat Capacity	
+T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference	
+200.00	29.10	Ideal Gas	2	
+249.97	29.106	Ideal Gas	3	
+249.97	29.11	Ideal Gas	3	
+269.83	29.10	Ideal Gas	3	
+273.15	29.116	Ideal Gas	1	
+289.64	29.093	Ideal Gas	3	
+289.64	29.097	Ideal Gas	3	
+300.00	29.10	Ideal Gas	2	
+303.70	29.06	Ideal Gas	1	
+310.23	29.09	Ideal Gas	3	
+331.88	29.087	Ideal Gas	3	
+331.88	29.09	Ideal Gas	3	
+350.81	29.09	Ideal Gas	3	
+350.81	29.093	Ideal Gas	3	
+400.00	29.104	Ideal Gas	2	
+500.00	29.12	Ideal Gas	2	
+600.00	29.25	Ideal Gas	2	
+700.00	29.585	Ideal Gas	2	
+800.00	30.125	Ideal Gas	2	
+900.00	30.77	Ideal Gas	2	
+1000.00	31.45	Ideal Gas	2	
+1100.00	32.116	Ideal Gas	2	
+1200.00	32.72	Ideal Gas	2	
+1300.00	34.18	Ideal Gas	2	
+1500.00	34.87	Ideal Gas	2	
+1750.00	35.52	Ideal Gas	2	
+2000.00	36.00	Ideal Gas	2	
+2500.00	36.656	Ideal Gas	2	
+3000.00	37.08	Ideal Gas	2	
+3500.00	37.384	Ideal Gas	2	
+4000.00	37.614	Ideal Gas	2	
+4500.00	37.81	Ideal Gas	2	
+5000.00	37.98	Ideal Gas	2	
+Number	Source	
+1	Lestz S.S.: Acoustic isotherms for nitrogen, argon, and krypton.. J.Chem.Phys. 38 (1963) 2830-2834	
+2	Johnston H.L.; Davis C.O.: Heat capacity curves of the simpler gases. IV. Extension of the "free energy" formula of Giauque and overstreet to yield reliable approx.formulas for calc.of entropy and heat cap. from spectroscop.data. Entropy and capacity of Carbon Monoxide and of Nitrogen from near zero absolute to 5000°K. J.Am.Chem.Soc. 56 (1934) 271-276	
+3	Esper G.; Lemming W.; Beckermann W.; Kohler F.: Acoustic Determination of Ideal Gas Capacity and Second Virial Coefficient of Small Hydrocarbons. Fluid Phase Equilib. 105 (1995) 173-192	
+$$$Joule-Thomson Coefficient (isenthalpic dT/dP)	
+T [K]	P [kPa]	Joule-Thomson Coefficient (isenthalpic dT/dP) [K/MPa]	State	Reference	
+93.15	101.325	22.84730	Vapor	1	
+103.15	101.325	19.14630	Vapor	1	
+103.15	2026.500	-0.07402	Liquid	1	
+103.15	3394.390	-0.35529	Liquid	1	
+106.15	2026.500	0.00000	Liquid	1	
+110.75	6079.500	0.00000	Liquid	1	
+113.15	101.325	15.59340	Vapor	1	
+113.15	2026.500	0.72045	Liquid	1	
+113.15	3394.390	0.32568	Liquid	1	
+113.15	6079.500	0.07402	Liquid	1	
+113.15	10132.500	-0.07402	Liquid	1	
+113.15	14185.500	-0.15791	Liquid	1	
+113.15	18238.500	-0.23193	Liquid	1	
+113.15	20265.000	-0.29114	Liquid	1	
+116.65	10132.500	0.00000	Liquid	1	
+123.15	101.325	12.08980	Vapor	1	
+123.15	2026.500	10.82650	Vapor	1	
+123.15	3394.390	1.75179	Liquid	1	
+123.15	6079.500	0.61189	Liquid	1	
+123.15	10132.500	0.21219	Liquid	1	
+123.15	14185.500	-0.024673	Liquid	1	
+123.15	18238.500	-0.17765	Liquid	1	
+123.15	20265.000	-0.25166	Liquid	1	
+125.15	14185.500	0.00000	Liquid	1	
+135.65	101.325	9.52381	Vapor	1	
+135.65	2026.500	8.98100	Vapor	1	
+135.65	3394.390	7.80656	Vapor	1	
+135.65	6079.500	2.46731	Vapor	1	
+135.65	10132.500	0.67604	Vapor	1	
+135.65	14185.500	0.20725	Vapor	1	
+135.65	18238.500	-0.03948	Vapor	1	
+135.65	20265.000	-0.13817	Vapor	1	
+138.45	18238.500	0.00000	Vapor	1	
+148.15	101.325	8.17172	Vapor	1	
+148.15	2026.500	7.62398	Vapor	1	
+148.15	3394.390	6.78016	Vapor	1	
+148.15	6079.500	4.88034	Vapor	1	
+148.15	10132.500	1.45571	Vapor	1	
+148.15	14185.500	0.52307	Vapor	1	
+148.15	18238.500	0.19738	Vapor	1	
+148.15	20265.000	0.06908	Vapor	1	
+155.95	22291.500	0.00000	Vapor	1	
+160.65	101.325	7.09598	Vapor	1	
+160.65	2026.500	6.55810	Vapor	1	
+160.65	3394.390	5.97089	Vapor	1	
+160.65	6079.500	4.81619	Vapor	1	
+160.65	10132.500	2.34394	Vapor	1	
+160.65	14185.500	0.96719	Vapor	1	
+160.65	18238.500	0.50827	Vapor	1	
+160.65	20265.000	0.37010	Vapor	1	
+173.15	101.325	6.19788	Vapor	1	
+173.15	2026.500	5.70935	Vapor	1	
+173.15	3394.390	5.28497	Vapor	1	
+173.15	6079.500	4.37207	Vapor	1	
+173.15	10132.500	2.77325	Vapor	1	
+173.15	14185.500	1.40637	Vapor	1	
+173.15	18238.500	0.78954	Vapor	1	
+173.15	20265.000	0.61189	Vapor	1	
+176.75	26344.500	0.00000	Vapor	1	
+185.65	101.325	5.45275	Vapor	1	
+185.65	2026.500	5.02837	Vapor	1	
+185.65	3394.390	4.66815	Vapor	1	
+185.65	6079.500	3.96743	Vapor	1	
+185.65	10132.500	2.78806	Vapor	1	
+185.65	14185.500	1.65310	Vapor	1	
+185.65	18238.500	0.96719	Vapor	1	
+185.65	20265.000	0.75006	Vapor	1	
+198.15	101.325	4.80632	Vapor	1	
+198.15	2026.500	4.47570	Vapor	1	
+198.15	3394.390	4.14508	Vapor	1	
+198.15	6079.500	3.59240	Vapor	1	
+198.15	10132.500	2.64495	Vapor	1	
+198.15	14185.500	1.74685	Vapor	1	
+198.15	18238.500	1.07575	Vapor	1	
+198.15	20265.000	0.82902	Vapor	1	
+204.45	30397.500	0.00000	Vapor	1	
+223.15	101.325	3.78979	Vapor	1	
+223.15	2026.500	3.57760	Vapor	1	
+223.15	3394.390	3.32593	Vapor	1	
+223.15	6079.500	2.95584	Vapor	1	
+223.15	10132.500	2.28473	Vapor	1	
+223.15	14185.500	1.67283	Vapor	1	
+223.15	18238.500	1.13990	Vapor	1	
+223.15	20265.000	0.92771	Vapor	1	
+237.85	34450.500	0.00000	Vapor	1	
+248.15	101.325	3.07920	Vapor	1	
+248.15	2026.500	2.88675	Vapor	1	
+248.15	3394.390	2.73871	Vapor	1	
+248.15	6079.500	2.44264	Vapor	1	
+248.15	10132.500	1.94917	Vapor	1	
+248.15	14185.500	1.49025	Vapor	1	
+248.15	18238.500	1.10535	Vapor	1	
+248.15	20265.000	0.93758	Vapor	1	
+263.15	36477.000	0.00000	Vapor	1	
+273.15	101.325	2.53639	Vapor	1	
+273.15	2026.500	2.38835	Vapor	1	
+273.15	3394.390	2.27979	Vapor	1	
+273.15	6079.500	2.01332	Vapor	1	
+273.15	10132.500	1.63829	Vapor	1	
+273.15	14185.500	1.29287	Vapor	1	
+273.15	18238.500	1.00666	Vapor	1	
+273.15	20265.000	0.88823	Vapor	1	
+298.15	101.325	2.11695	Vapor	1	
+298.15	2026.500	1.97385	Vapor	1	
+298.15	3394.390	1.88009	Vapor	1	
+298.15	6079.500	1.66790	Vapor	1	
+298.15	10132.500	1.36195	Vapor	1	
+298.15	14185.500	1.08562	Vapor	1	
+298.15	18238.500	0.86356	Vapor	1	
+298.15	20265.000	0.76980	Vapor	1	
+313.15	38098.199	0.00000	Vapor	1	
+323.15	101.325	1.77153	Vapor	1	
+323.15	2026.500	1.63829	Vapor	1	
+323.15	3394.390	1.55440	Vapor	1	
+323.15	6079.500	1.39650	Vapor	1	
+323.15	10132.500	1.13496	Vapor	1	
+323.15	14185.500	0.89810	Vapor	1	
+323.15	18238.500	0.72045	Vapor	1	
+323.15	20265.000	0.65137	Vapor	1	
+348.15	101.325	1.48532	Vapor	1	
+348.15	2026.500	1.36195	Vapor	1	
+348.15	3394.390	1.28300	Vapor	1	
+348.15	6079.500	1.14977	Vapor	1	
+348.15	10132.500	0.91784	Vapor	1	
+348.15	14185.500	0.72539	Vapor	1	
+348.15	18238.500	0.57241	Vapor	1	
+348.15	20265.000	0.52800	Vapor	1	
+366.85	36477.000	0.00000	Vapor	1	
+373.15	101.325	1.23365	Vapor	1	
+373.15	2026.500	1.12509	Vapor	1	
+373.15	3394.390	1.05601	Vapor	1	
+373.15	6079.500	0.94251	Vapor	1	
+373.15	10132.500	0.75006	Vapor	1	
+373.15	14185.500	0.57241	Vapor	1	
+373.15	18238.500	0.45399	Vapor	1	
+373.15	20265.000	0.40957	Vapor	1	
+394.45	34450.500	0.00000	Vapor	1	
+398.15	101.325	1.02147	Vapor	1	
+398.15	2026.500	0.93264	Vapor	1	
+398.15	3394.390	0.86849	Vapor	1	
+398.15	6079.500	0.75993	Vapor	1	
+398.15	10132.500	0.60696	Vapor	1	
+398.15	14185.500	0.45399	Vapor	1	
+398.15	18238.500	0.34049	Vapor	1	
+398.15	20265.000	0.31582	Vapor	1	
+423.15	101.325	0.82902	Vapor	1	
+423.15	2026.500	0.74513	Vapor	1	
+423.15	3394.390	0.70565	Vapor	1	
+423.15	6079.500	0.60696	Vapor	1	
+423.15	10132.500	0.47372	Vapor	1	
+423.15	14185.500	0.34542	Vapor	1	
+423.15	18238.500	0.24673	Vapor	1	
+423.15	20265.000	0.22206	Vapor	1	
+431.85	30397.500	0.00000	Vapor	1	
+460.15	26344.500	0.00000	Vapor	1	
+473.15	101.325	0.53294	Vapor	1	
+473.15	2026.500	0.45399	Vapor	1	
+473.15	3394.390	0.41451	Vapor	1	
+473.15	6079.500	0.36023	Vapor	1	
+473.15	10132.500	0.25660	Vapor	1	
+473.15	14185.500	0.16778	Vapor	1	
+473.15	18238.500	0.09869	Vapor	1	
+473.15	20265.000	0.07402	Vapor	1	
+485.65	22291.500	0.00000	Vapor	1	
+508.15	18238.500	0.00000	Vapor	1	
+523.15	101.325	0.31582	Vapor	1	
+523.15	2026.500	0.24673	Vapor	1	
+523.15	3394.390	0.22206	Vapor	1	
+523.15	6079.500	0.15791	Vapor	1	
+523.15	10132.500	0.07402	Vapor	1	
+523.15	14185.500	0.014804	Vapor	1	
+523.15	18238.500	-0.02961	Vapor	1	
+523.15	20265.000	-0.04935	Vapor	1	
+529.65	14185.500	0.00000	Vapor	1	
+550.35	10132.500	0.00000	Vapor	1	
+572.75	6079.500	0.00000	Vapor	1	
+573.15	101.325	0.13323	Vapor	1	
+573.15	2026.500	0.09376	Vapor	1	
+573.15	3394.390	0.04935	Vapor	1	
+573.15	6079.500	-0.00987	Vapor	1	
+573.15	10132.500	-0.06908	Vapor	1	
+573.15	14185.500	-0.11843	Vapor	1	
+573.15	18238.500	-0.14804	Vapor	1	
+573.15	20265.000	-0.15791	Vapor	1	
+603.15	2026.500	0.00000	Vapor	1	
+621.15	101.325	0.00000	Vapor	1	
+Number	Source	
+1	Roebuck J.R.; Osterberg H.: The Joule-Thomson Effect in Nitrogen. Phys.Rev. 48 (1935) 450-457	
+$$$Kinematic Viscosity	
+T [K]	P [kPa]	Kinematic Viscosity [m2/s]	State	Reference	
+90.15	3495.710	1.29000000015E-07	Liquid	1	
+90.15	3738.890	1.23999996049E-07	Liquid	1	
+90.15	5360.090	1.43999997704E-07	Liquid	1	
+90.15	5836.320	1.33999989771E-07	Liquid	1	
+90.15	7619.640	1.33999989771E-07	Liquid	1	
+90.15	8947.000	1.59999999028E-07	Liquid	1	
+90.15	14013.200	1.45999990764E-07	Liquid	1	
+90.15	14357.800	1.4900000167E-07	Liquid	1	
+90.15	14479.300	1.38999993737E-07	Liquid	1	
+90.15	15117.700	1.62999995723E-07	Liquid	1	
+133.15	7123.150	6.69999948855E-08	Vapor	1	
+133.15	8480.900	6.38000017261E-08	Vapor	1	
+133.15	13445.800	7.1800002388E-08	Vapor	1	
+153.15	4711.610	9.13000022251E-08	Vapor	1	
+153.15	10081.800	6.14000015275E-08	Vapor	1	
+153.15	11429.500	6.07999979252E-08	Vapor	1	
+153.15	14124.700	6.42000017592E-08	Vapor	1	
+173.15	5633.670	1.06999998195E-07	Vapor	1	
+173.15	9453.620	7.07999987526E-08	Vapor	1	
+173.15	10497.300	6.59000036762E-08	Vapor	1	
+173.15	14084.200	5.58000010642E-08	Vapor	1	
+173.15	14215.900	6.3400001693E-08	Vapor	1	
+223.15	12929.101	8.96000003081E-08	Vapor	1	
+223.15	14033.500	7.74999975306E-08	Vapor	1	
+223.15	14307.101	8.33000015632E-08	Vapor	1	
+273.15	7994.540	1.85999994073E-07	Vapor	1	
+273.15	14114.601	1.12999998692E-07	Vapor	1	
+Number	Source	
+1	Filippova G.P.; Ishkin I.P.: The Viscosity of Air, Nitrogen and Argon at Low Temperatures and Pressures to 150 Atm. Inzh.Fiz.Zh. 4 (1961) 105-109	
+$$$Melting Point	
+T [K]	P [kPa]	State	Reference	
+63.10		Solid-Liquid	2	
+63.14		Solid-Liquid	1	
+63.30		Solid-Liquid	3	
+Number	Source	
+1	Giauque W.F.; Clayton J.O.: The heat capacity and entropy of nitrogen. Heat of vaporization. Vapor pressures of solid and liquid. The reaction 1/2 N2 + 1/2 O2 = NO from spectroscopic data.. J.Am.Chem.Soc. 55 (1933) 4875-4889	
+2	Omar M.H.; Dokoupil Z.; Schroten H.G.M.: Determination of the Solid-Liquid Equilibrium Diagram for the Nitrogen-Methane System. Physica (Amsterdam) 28 (1962) 309-329	
+3	Moran D.W.: Low Temperature Equilibria in Binary Systems, Including the Solid Phases. Thesis  (1959)	
+4	Din F.; Goldman K.; Monroe A.G.: The Solid-Liquid Equilibria of the Systems Argon-Nitrogen and Argon-Oxygen. IXth International Congress of Refrigeration 9 (1955) 1003-1010	
+5	Ruhemann M.; Lichter A.; Komarow P.: II. Das Schmelzdiagramm Sauerstoff-Stickstoff und das Zustandsdiagramm Stickstoff-Kohlenoxyd. Phys.Z.Sowjetunion 8 (1935) 326-336	
+6	Fedorova M.F.: . Zh.Eksp.Teor.Fiz. 8 (1938) 425-435	
+$$$Molar Heat Capacity (cP)	
+T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
+173.15	200000.000	40.97	Vapor	1	
+173.15	250000.000	40.57	Vapor	1	
+173.15	300000.000	40.26	Vapor	1	
+173.15	350000.000	40.00	Vapor	1	
+173.15	400000.000	39.76	Vapor	1	
+173.15	450000.000	39.54	Vapor	1	
+173.15	500000.000	39.33	Vapor	1	
+173.15	550000.000	39.13	Vapor	1	
+173.15	600000.000	38.92	Vapor	1	
+173.15	650000.000	38.72	Vapor	1	
+198.15	200000.000	40.48	Vapor	1	
+198.15	250000.000	40.12	Vapor	1	
+198.15	300000.000	39.84	Vapor	1	
+198.15	350000.000	39.62	Vapor	1	
+198.15	400000.000	39.42	Vapor	1	
+198.15	450000.000	39.23	Vapor	1	
+198.15	500000.000	39.06	Vapor	1	
+198.15	550000.000	38.89	Vapor	1	
+198.15	600000.000	38.72	Vapor	1	
+198.15	650000.000	38.55	Vapor	1	
+198.15	700000.000	38.37	Vapor	1	
+223.15	200000.000	40.16	Vapor	1	
+223.15	250000.000	39.89	Vapor	1	
+223.15	300000.000	39.69	Vapor	1	
+223.15	350000.000	39.52	Vapor	1	
+223.15	400000.000	39.36	Vapor	1	
+223.15	450000.000	39.21	Vapor	1	
+223.15	500000.000	39.07	Vapor	1	
+223.15	550000.000	38.93	Vapor	1	
+223.15	600000.000	38.80	Vapor	1	
+223.15	650000.000	38.66	Vapor	1	
+223.15	700000.000	38.52	Vapor	1	
+223.15	750000.000	38.38	Vapor	1	
+248.15	200000.000	39.80	Vapor	1	
+248.15	250000.000	39.74	Vapor	1	
+248.15	300000.000	39.68	Vapor	1	
+248.15	350000.000	39.63	Vapor	1	
+248.15	400000.000	39.56	Vapor	1	
+248.15	450000.000	39.50	Vapor	1	
+248.15	500000.000	39.43	Vapor	1	
+248.15	550000.000	39.35	Vapor	1	
+248.15	600000.000	39.27	Vapor	1	
+248.15	650000.000	39.18	Vapor	1	
+248.15	700000.000	39.08	Vapor	1	
+248.15	750000.000	38.97	Vapor	1	
+248.15	800000.000	38.87	Vapor	1	
+248.15	850000.000	38.75	Vapor	1	
+273.15	200000.000	39.07	Vapor	1	
+273.15	250000.000	39.25	Vapor	1	
+273.15	300000.000	39.38	Vapor	1	
+273.15	350000.000	39.48	Vapor	1	
+273.15	400000.000	39.55	Vapor	1	
+273.15	450000.000	39.60	Vapor	1	
+273.15	500000.000	39.61	Vapor	1	
+273.15	550000.000	39.62	Vapor	1	
+273.15	600000.000	39.61	Vapor	1	
+273.15	650000.000	39.58	Vapor	1	
+273.15	700000.000	39.55	Vapor	1	
+273.15	750000.000	39.51	Vapor	1	
+273.15	800000.000	39.46	Vapor	1	
+273.15	850000.000	39.40	Vapor	1	
+273.15	900000.000	39.33	Vapor	1	
+298.15	200000.000	38.16	Vapor	1	
+298.15	250000.000	38.26	Vapor	1	
+298.15	300000.000	38.40	Vapor	1	
+298.15	350000.000	38.52	Vapor	1	
+298.15	400000.000	38.63	Vapor	1	
+298.15	450000.000	38.71	Vapor	1	
+298.15	500000.000	38.79	Vapor	1	
+298.15	550000.000	38.85	Vapor	1	
+298.15	600000.000	38.90	Vapor	1	
+298.15	650000.000	38.93	Vapor	1	
+298.15	700000.000	38.95	Vapor	1	
+298.15	750000.000	38.96	Vapor	1	
+298.15	800000.000	38.96	Vapor	1	
+298.15	850000.000	38.95	Vapor	1	
+298.15	900000.000	38.94	Vapor	1	
+298.15	950000.000	38.91	Vapor	1	
+298.15	1000000.000	38.87	Vapor	1	
+Number	Source	
+1	Biswas S.N.; Ten Seldam C.A.: The Equation of State and Heat Capacity of Nitrogen at High Pressures Determinated from Speeds of Sound. J.Chem.Thermodyn. 23 (1991) 725-737	
+$$$Molar Heat Capacity (cV)	
+T [K]	P [kPa]	Molar Heat Capacity (Cv) [J/(mol*K)]	State	Reference	
+173.15	200000.000	28.68	Vapor	1	
+173.15	250000.000	29.33	Vapor	1	
+173.15	300000.000	29.86	Vapor	1	
+173.15	350000.000	30.31	Vapor	1	
+173.15	400000.000	30.68	Vapor	1	
+173.15	450000.000	31.01	Vapor	1	
+173.15	500000.000	31.29	Vapor	1	
+173.15	550000.000	31.53	Vapor	1	
+173.15	600000.000	31.74	Vapor	1	
+173.15	650000.000	31.92	Vapor	1	
+198.15	200000.000	27.85	Vapor	1	
+198.15	250000.000	28.48	Vapor	1	
+198.15	300000.000	29.00	Vapor	1	
+198.15	350000.000	29.44	Vapor	1	
+198.15	400000.000	29.81	Vapor	1	
+198.15	450000.000	30.14	Vapor	1	
+198.15	500000.000	30.43	Vapor	1	
+198.15	550000.000	30.68	Vapor	1	
+198.15	600000.000	30.90	Vapor	1	
+198.15	650000.000	31.10	Vapor	1	
+198.15	700000.000	31.27	Vapor	1	
+223.15	200000.000	27.32	Vapor	1	
+223.15	250000.000	27.94	Vapor	1	
+223.15	300000.000	28.47	Vapor	1	
+223.15	350000.000	28.91	Vapor	1	
+223.15	400000.000	29.29	Vapor	1	
+223.15	450000.000	29.63	Vapor	1	
+223.15	500000.000	29.92	Vapor	1	
+223.15	550000.000	30.18	Vapor	1	
+223.15	600000.000	30.42	Vapor	1	
+223.15	650000.000	30.63	Vapor	1	
+223.15	700000.000	30.81	Vapor	1	
+223.15	750000.000	30.98	Vapor	1	
+248.15	200000.000	26.92	Vapor	1	
+248.15	250000.000	27.62	Vapor	1	
+248.15	300000.000	28.19	Vapor	1	
+248.15	350000.000	28.67	Vapor	1	
+248.15	400000.000	29.09	Vapor	1	
+248.15	450000.000	29.46	Vapor	1	
+248.15	500000.000	29.79	Vapor	1	
+248.15	550000.000	30.08	Vapor	1	
+248.15	600000.000	30.34	Vapor	1	
+248.15	650000.000	30.57	Vapor	1	
+248.15	700000.000	30.78	Vapor	1	
+248.15	750000.000	30.96	Vapor	1	
+248.15	800000.000	31.13	Vapor	1	
+248.15	850000.000	31.29	Vapor	1	
+273.15	200000.000	26.44	Vapor	1	
+273.15	250000.000	27.20	Vapor	1	
+273.15	300000.000	27.84	Vapor	1	
+273.15	350000.000	28.38	Vapor	1	
+273.15	400000.000	28.86	Vapor	1	
+273.15	450000.000	29.27	Vapor	1	
+273.15	500000.000	29.64	Vapor	1	
+273.15	550000.000	29.97	Vapor	1	
+273.15	600000.000	30.26	Vapor	1	
+273.15	650000.000	30.53	Vapor	1	
+273.15	700000.000	30.77	Vapor	1	
+273.15	750000.000	30.99	Vapor	1	
+273.15	800000.000	31.19	Vapor	1	
+273.15	850000.000	31.38	Vapor	1	
+273.15	900000.000	31.54	Vapor	1	
+298.15	200000.000	25.87	Vapor	1	
+298.15	250000.000	26.51	Vapor	1	
+298.15	300000.000	27.08	Vapor	1	
+298.15	350000.000	27.59	Vapor	1	
+298.15	400000.000	28.04	Vapor	1	
+298.15	450000.000	28.45	Vapor	1	
+298.15	500000.000	28.82	Vapor	1	
+298.15	550000.000	29.16	Vapor	1	
+298.15	600000.000	29.46	Vapor	1	
+298.15	650000.000	29.75	Vapor	1	
+298.15	700000.000	30.01	Vapor	1	
+298.15	750000.000	30.25	Vapor	1	
+298.15	800000.000	30.47	Vapor	1	
+298.15	850000.000	30.68	Vapor	1	
+298.15	900000.000	30.87	Vapor	1	
+298.15	950000.000	31.05	Vapor	1	
+298.15	1000000.000	31.21	Vapor	1	
+Number	Source	
+1	Biswas S.N.; Ten Seldam C.A.: The Equation of State and Heat Capacity of Nitrogen at High Pressures Determinated from Speeds of Sound. J.Chem.Thermodyn. 23 (1991) 725-737	
+$$$Speed of Sound	
+T [K]	P [kPa]	Ultrasonic Velocity [m/s]	State	Reference	
+170.00	25.020	265.672	Vapor	1	
+170.00	49.840	265.573	Vapor	1	
+170.00	99.810	265.375	Vapor	1	
+170.00	149.630	265.179	Vapor	1	
+170.00	199.450	264.984	Vapor	1	
+170.00	249.410	264.790	Vapor	1	
+170.00	299.610	264.595	Vapor	1	
+170.00	349.710	264.402	Vapor	1	
+170.00	399.900	264.209	Vapor	1	
+170.00	449.870	264.017	Vapor	1	
+170.00	499.710	263.828	Vapor	1	
+190.00	60.670	280.833	Vapor	1	
+190.00	151.080	280.632	Vapor	1	
+190.00	240.330	280.437	Vapor	1	
+190.00	328.810	280.247	Vapor	1	
+190.00	419.250	280.055	Vapor	1	
+190.00	509.130	279.869	Vapor	1	
+190.00	603.460	279.678	Vapor	1	
+215.00	70.530	298.825	Vapor	1	
+215.00	172.580	298.746	Vapor	1	
+215.00	270.800	298.674	Vapor	1	
+215.00	363.200	298.611	Vapor	1	
+215.00	469.120	298.542	Vapor	1	
+215.00	575.200	298.478	Vapor	1	
+215.00	683.350	298.418	Vapor	1	
+250.00	69.620	322.322	Vapor	1	
+250.00	210.260	322.395	Vapor	1	
+250.00	318.510	322.456	Vapor	1	
+250.00	439.000	322.528	Vapor	1	
+250.00	558.830	322.605	Vapor	1	
+250.00	669.860	322.684	Vapor	1	
+250.00	677.890	322.686	Vapor	1	
+250.00	802.040	322.771	Vapor	1	
+300.00	49.790	353.090	Vapor	1	
+300.00	99.470	353.166	Vapor	1	
+300.00	149.180	353.242	Vapor	1	
+300.00	199.520	353.320	Vapor	1	
+300.00	299.070	353.476	Vapor	1	
+300.00	398.600	353.635	Vapor	1	
+300.00	498.520	353.796	Vapor	1	
+300.00	597.870	353.959	Vapor	1	
+300.00	697.600	354.124	Vapor	1	
+300.00	797.550	354.292	Vapor	1	
+300.00	897.290	354.462	Vapor	1	
+350.00	119.200	381.450	Vapor	1	
+350.00	298.250	381.826	Vapor	1	
+350.00	477.500	382.207	Vapor	1	
+350.00	655.310	382.591	Vapor	1	
+350.00	836.200	382.986	Vapor	1	
+350.00	1016.070	383.384	Vapor	1	
+350.00	1205.870	383.809	Vapor	1	
+Number	Source	
+1	Estela-Uribe J.F.; Trusler J.P.M.: Acoustic and volumetric virial coefficients of nitrogen. Int.J.Thermophys. 21 (2000) 1033-1044	
+$$$Surface Tension	
+T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference	
+64.80		11.8000	Liquid	2	
+65.00		11.7700	Liquid	5	
+65.20		11.7000	Liquid	2	
+67.00		11.3000	Liquid	2	
+68.00		11.0000	Liquid	3	
+69.00		10.7600	Liquid	3	
+69.20		10.8000	Liquid	2	
+70.00		10.5300	Liquid	3	
+70.00		10.5800	Liquid	5	
+71.00		10.3000	Liquid	3	
+71.10		10.3000	Liquid	2	
+72.00		10.0700	Liquid	3	
+72.60		10.0000	Liquid	2	
+72.70		9.9000	Liquid	2	
+73.00		9.8400	Liquid	3	
+74.00		9.6200	Liquid	3	
+74.70		9.5000	Liquid	2	
+75.00		9.3900	Liquid	3	
+75.00		9.4100	Liquid	5	
+75.60		9.2000	Liquid	2	
+76.00		9.1600	Liquid	3	
+77.00		8.9400	Liquid	3	
+77.70		8.9000	Liquid	2	
+78.00		8.7200	Liquid	3	
+78.09	101.325	8.6900	Liquid	4	
+79.00		8.5000	Liquid	3	
+79.23		8.4400	Liquid	1	
+79.62	101.325	8.3300	Liquid	4	
+80.00		8.2700	Liquid	3	
+80.00		8.2800	Liquid	5	
+80.00	135.000	8.2600	Liquid Phase of VLE	6	
+81.00		8.0600	Liquid	3	
+81.01	101.325	8.0400	Liquid	4	
+81.80		7.8500	Liquid	1	
+82.00		7.8400	Liquid	3	
+82.23	101.325	7.7400	Liquid	4	
+82.57		7.7000	Liquid	1	
+82.58	101.325	7.6900	Liquid	4	
+82.90	101.325	7.5700	Liquid	4	
+83.00		7.6300	Liquid	3	
+83.37	101.325	7.5400	Liquid	4	
+83.56	101.325	7.4500	Liquid	4	
+83.82	101.325	7.4200	Liquid	4	
+84.00		7.4200	Liquid	3	
+84.00	101.325	7.4000	Liquid	4	
+84.18	101.325	7.3000	Liquid	4	
+84.63	101.325	7.2600	Liquid	4	
+85.00		7.1600	Liquid	5	
+85.00		7.2000	Liquid	3	
+85.38		7.1000	Liquid	1	
+85.98	101.325	6.9700	Liquid	4	
+86.00		6.9900	Liquid	3	
+87.00		6.7800	Liquid	3	
+87.01		6.7600	Liquid	1	
+87.77	101.325	6.5900	Liquid	4	
+87.99	101.325	6.5400	Liquid	4	
+88.00		6.5700	Liquid	3	
+88.34		6.4700	Liquid	1	
+89.00		6.3700	Liquid	3	
+89.42	101.325	6.2300	Liquid	4	
+89.80		6.1800	Liquid	1	
+90.00		6.1000	Liquid	5	
+90.00		6.1600	Liquid	3	
+90.00	361.000	6.1300	Liquid Phase of VLE	6	
+90.67	101.325	5.9800	Liquid	4	
+91.03	101.325	5.8800	Liquid	4	
+91.31		5.8500	Liquid	1	
+92.44		5.6300	Liquid	1	
+94.30		5.2500	Liquid	1	
+95.00		5.0600	Liquid	5	
+95.85		4.9500	Liquid	1	
+97.19		4.6700	Liquid	1	
+99.47		4.2100	Liquid	1	
+100.00		4.0600	Liquid	5	
+100.00	780.000	4.1000	Liquid Phase of VLE	6	
+100.42		4.0400	Liquid	1	
+102.01		3.7000	Liquid	1	
+104.74		3.2100	Liquid	1	
+105.00		3.1100	Liquid	5	
+105.83		3.0000	Liquid	1	
+106.77		2.8200	Liquid	1	
+107.76		2.6600	Liquid	1	
+109.66		2.3100	Liquid	1	
+110.00		2.2200	Liquid	5	
+110.58		2.1500	Liquid	1	
+111.84		1.9370	Liquid	1	
+113.93		1.5840	Liquid	1	
+114.32		1.5250	Liquid	1	
+115.00		1.3900	Liquid	5	
+115.00	1938.000	1.4000	Liquid Phase of VLE	6	
+115.11		1.4010	Liquid	1	
+115.85		1.2850	Liquid	1	
+116.59		1.1680	Liquid	1	
+117.79		0.9850	Liquid	1	
+119.73		0.7120	Liquid	1	
+120.00		0.6500	Liquid	5	
+120.00	2508.000	0.6630	Liquid Phase of VLE	6	
+120.24		0.6440	Liquid	1	
+Number	Source	
+1	Baidakov V.G.; Khvostov K.V.; Muratov G.N.: Surface Tension of Nitrogen, Oxygen, and Methane over a Wilde Range of Temperature. Zh.Fiz.Khim. 56 (1982) 814-817	
+2	Ostromoukhov V.B.; Ostronov M.G.: Surface Tension of Liquid Solutions O2-N2 at 54-77 K. Zh.Fiz.Khim. 68 (1994) 39-43	
+3	Baly E.C.C.; Donnan F.G.: The variation with temperature of the surface energies and densities of liquid oxygen, nitrogen, argon, and carbon monoxide.. J.Chem.Soc.London 81 (1902) 907-923	
+4	Sprow F.B.; Prausnitz J.M.: Surface tension of simple liquids.. Trans.Faraday Soc. 62 (1966) 1097-1104	
+5	Stansfield D.: The surface tension of liquid argon and nitrogen.. Proc.Phys.Soc.London 72 (1958) 854-866	
+6	Baidakov V.G.; Kaverin A.M.; Andbaeva V.N.: 1. Surface Tension. Fluid Phase Equilib. 270 (2008) 116-120	
+$$$Thermal Conductivity	
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
+80.00	101.320	0.00773	Vapor	3	
+90.00	101.320	0.0087	Vapor	3	
+100.00	101.320	0.00966	Vapor	3	
+120.00	101.320	0.01157	Vapor	3	
+140.00	101.320	0.01342	Vapor	3	
+150.00	101.320	0.01433	Vapor	3	
+200.00	101.320	0.01861	Vapor	3	
+250.00	101.320	0.02251	Vapor	3	
+300.00	101.320	0.02604	Vapor	3	
+303.75		0.026694	Vapor	1	
+305.70	25.000	0.02565	Vapor	2	
+305.70	33.000	0.02568	Vapor	2	
+305.70	50.000	0.02572	Vapor	2	
+305.70	100.000	0.02575	Vapor	2	
+323.25		0.027865	Vapor	1	
+333.20	50.000	0.0281	Vapor	2	
+341.63	50.000	0.02865	Vapor	2	
+351.50	50.000	0.02941	Vapor	2	
+361.01	50.000	0.03015	Vapor	2	
+400.00	101.320	0.03271	Vapor	3	
+500.00	101.320	0.03896	Vapor	3	
+586.15		0.04443	Vapor	1	
+600.00	101.320	0.04501	Vapor	3	
+677.15		0.0500	Vapor	1	
+690.75		0.0500	Vapor	1	
+700.00	101.320	0.05099	Vapor	3	
+765.15		0.05356	Vapor	1	
+775.15		0.05397	Vapor	1	
+800.00	101.320	0.05691	Vapor	3	
+900.00	101.320	0.06274	Vapor	3	
+974.15		0.0636	Vapor	1	
+982.15		0.06318	Vapor	1	
+1000.00	101.320	0.06844	Vapor	3	
+1100.00	101.320	0.07396	Vapor	3	
+1121.15		0.06945	Vapor	1	
+1134.15		0.07071	Vapor	1	
+1200.00	101.320	0.07932	Vapor	3	
+1300.00	101.320	0.08456	Vapor	3	
+1400.00	101.320	0.08968	Vapor	3	
+1500.00	101.320	0.0947	Vapor	3	
+1600.00	101.320	0.09962	Vapor	3	
+1800.00	101.320	0.10906	Vapor	3	
+2000.00	101.320	0.11826	Vapor	3	
+Number	Source	
+1	Vargaftik N.B.; Zimina N.Kh.: Thermal Conductivity of Nitrogen at High Temperatures. Teplofiz.Vys.Temp. 2 (1964) 869-878	
+2	Shashkov A.G.; Kurbatov V.A.; Zolotukhina A.F.; Abramenko T.N.: Experimental Investigation of the Conductivity of Vapor-Gas Mixtures with Low Vapor Concentration. Inzh.Fiz.Zh. 45 (1983) 275-282	
+3	Zimina N.Kh.; Fomicheva I.G.: III. Nitrogen. Zh.Fiz.Khim. 66 (1992) 3184-3190	
+$$$Transition Temperature	
+T [K]	P [kPa]	State	Reference	
+35.40		Crystal 2 > Crystal 1	2	
+35.61		Solid-Solid	1	
+295.15	2329000.000	Solid-Gas	3	
+Number	Source	
+1	Giauque W.F.; Clayton J.O.: The heat capacity and entropy of nitrogen. Heat of vaporization. Vapor pressures of solid and liquid. The reaction 1/2 N2 + 1/2 O2 = NO from spectroscopic data.. J.Am.Chem.Soc. 55 (1933) 4875-4889	
+2	Fedorova M.F.: . Zh.Eksp.Teor.Fiz. 8 (1938) 425-435	
+3	Kimura M.; Hanayama Y.; Nishitake T.: Measurements of Ultrasound Velocity in Gases under High Pressures up to 3.5 GPa. Jap.J.Appl.Phys. 26 (1987) 1366-1377	
+$$$Triple Point	
+T [K]	P [kPa]	State	Reference	
+62.63	11.466	Solid-Liquid-Vapor	6	
+63.14	12.534	Solid-Liquid-Vapor	1	
+63.14	12.612	Solid-Liquid-Vapor	5	
+63.15		Solid-Liquid-Vapor	4	
+63.15	12.523	Solid-Liquid-Vapor	2	
+63.20	12.159	Solid-Liquid-Vapor	3	
+Number	Source	
+1	Giauque W.F.; Clayton J.O.: The heat capacity and entropy of nitrogen. Heat of vaporization. Vapor pressures of solid and liquid. The reaction 1/2 N2 + 1/2 O2 = NO from spectroscopic data.. J.Am.Chem.Soc. 55 (1933) 4875-4889	
+2	Nowak P.; Kleinrahm R.; Wagner W.: II. Saturated-Liquid and Saturated-Vapour Densities and Vapour Pressures Along the Entire Coexistence Curve. J.Chem.Thermodyn. 29 (1997) 1157-1174	
+3	Verschoyle T.T.H.: The Ternary System Carbon Monoxide-Nitrogen-Hydrogen and the Component Binary Systems between Temperatures of -185° and -215°C., and between Pressures of 0 and 225 Atm. Philos.Trans.Roy.Soc.London Ser. A: Math.Phys.Sci. 230 (1931) 189-220	
+4	Slyusar' V.P.; Tret'yakov V.M.; Rudenko N.S.: Isochoric Thermal Conductivity of Argon, Krypton, Xenon, and Nitrogen as a Function of the Triple Points up to 300 - 330° K at pressures of up to 3000 atm. J.Eng.Phys. 38 (1980) 369-373	
+5	Henning F.; Otto J.: Dampfdruckkurven und Tripelpunkte im Temperaturgebiet von 14° bis 90° abs. Phys.Z. (Leipzig) 37 (1936) 633-638	
+6	Fischer K.T.; Alt H.: Siedepunkt, Gefrierpunkt und Dampfspannung des reinen Stickstoffs bei niedrigen Drucken. Ann.Physik 314 (1902) 1149-1185	
+$$$Vapor Pressure	
+T [K]	P [kPa]	State	Reference	
+54.78	1.6972	Solid-Gas	6	
+55.88	2.280	Solid-Gas	6	
+56.93	2.992	Solid-Gas	6	
+56.97	2.906	Solid-Gas	3	
+57.70	3.520	Solid-Gas	3	
+57.85	3.786	Solid-Gas	6	
+58.71	4.546	Solid-Gas	3	
+58.74	4.701	Solid-Gas	6	
+59.55	5.713	Solid-Gas	6	
+59.95	6.106	Solid-Gas	3	
+60.67	7.367	Solid-Gas	6	
+60.77	7.373	Solid-Gas	3	
+61.70	9.277	Solid-Gas	6	
+61.95	9.586	Solid-Gas	3	
+62.79	11.479	Solid-Gas	3	
+63.15	12.520	Vapor-Liquid	1	
+63.83	14.150	Vapor-Liquid	1	
+65.33	18.430	Vapor-Liquid	1	
+66.65	22.960	Vapor-Liquid	1	
+68.36	30.120	Vapor-Liquid	1	
+72.52	55.030	Vapor-Liquid	1	
+75.06	76.700	Vapor-Liquid	1	
+77.35	101.330	Vapor-Liquid	1	
+77.35	101.350	Vapor-Liquid	1	
+77.86	106.665	Vapor-Liquid	4	
+80.74	148.380	Vapor-Liquid	1	
+81.56	162.000	Vapor-Liquid	1	
+81.57	162.090	Vapor-Liquid	1	
+83.36	194.860	Vapor-Liquid	1	
+83.36	194.900	Vapor-Liquid	1	
+83.37	195.070	Vapor-Liquid	1	
+83.66	200.330	Vapor-Liquid	4	
+84.66	221.530	Vapor-Liquid	1	
+84.67	221.830	Vapor-Liquid	1	
+84.68	222.220	Vapor-Liquid	1	
+85.68	244.380	Vapor-Liquid	1	
+86.85	271.042	Vapor-Liquid	4	
+87.89	299.690	Vapor-Liquid	1	
+90.12	367.911	Vapor-Liquid	2	
+90.21	367.060	Vapor-Liquid	1	
+90.90	387.945	Vapor-Liquid	4	
+91.91	423.450	Vapor-Liquid	1	
+92.73	457.989	Vapor-Liquid	2	
+94.79	532.000	Vapor-Liquid	1	
+94.81	532.700	Vapor-Liquid	1	
+94.82	533.300	Vapor-Liquid	1	
+94.84	534.300	Vapor-Liquid	1	
+95.05	542.146	Vapor-Liquid	4	
+95.44	565.697	Vapor-Liquid	2	
+96.00	589.711	Vapor-Liquid	2	
+96.04	585.100	Vapor-Liquid	1	
+96.04	585.200	Vapor-Liquid	1	
+97.04	630.300	Vapor-Liquid	1	
+97.05	630.700	Vapor-Liquid	1	
+97.42	648.400	Vapor-Liquid	1	
+98.64	714.949	Vapor-Liquid	2	
+98.96	723.019	Vapor-Liquid	4	
+100.05	781.600	Vapor-Liquid	1	
+100.15	787.100	Vapor-Liquid	1	
+100.18	788.500	Vapor-Liquid	1	
+102.02	892.946	Vapor-Liquid	4	
+102.17	902.400	Vapor-Liquid	1	
+103.28	970.800	Vapor-Liquid	1	
+103.31	972.300	Vapor-Liquid	1	
+103.32	973.200	Vapor-Liquid	1	
+103.34	974.600	Vapor-Liquid	1	
+103.35	975.400	Vapor-Liquid	1	
+104.46	1057.830	Vapor-Liquid	2	
+104.55	1053.070	Vapor-Liquid	4	
+106.71	1206.600	Vapor-Liquid	4	
+106.97	1225.200	Vapor-Liquid	1	
+106.97	1235.460	Vapor-Liquid	2	
+108.51	1344.000	Vapor-Liquid	1	
+108.76	1377.410	Vapor-Liquid	2	
+109.09	1391.400	Vapor-Liquid	4	
+110.30	1492.300	Vapor-Liquid	1	
+110.33	1495.200	Vapor-Liquid	1	
+110.81	1537.200	Vapor-Liquid	1	
+110.85	1540.630	Vapor-Liquid	4	
+113.14	1751.800	Vapor-Liquid	1	
+113.60	1808.650	Vapor-Liquid	2	
+113.86	1822.300	Vapor-Liquid	1	
+114.16	1852.760	Vapor-Liquid	4	
+115.15	1954.100	Vapor-Liquid	1	
+116.18	2074.120	Vapor-Liquid	2	
+116.27	2073.420	Vapor-Liquid	4	
+116.55	2103.000	Vapor-Liquid	5	
+116.96	2150.000	Vapor-Liquid	5	
+117.54	2217.100	Vapor-Liquid	1	
+117.76	2240.000	Vapor-Liquid	5	
+117.95	2264.570	Vapor-Liquid	4	
+118.33	2307.000	Vapor-Liquid	5	
+118.94	2388.230	Vapor-Liquid	2	
+119.12	2401.000	Vapor-Liquid	5	
+119.82	2488.000	Vapor-Liquid	5	
+120.08	2522.500	Vapor-Liquid	1	
+120.08	2523.500	Vapor-Liquid	1	
+120.10	2526.000	Vapor-Liquid	1	
+120.12	2528.200	Vapor-Liquid	1	
+120.14	2530.640	Vapor-Liquid	4	
+120.75	2608.700	Vapor-Liquid	1	
+121.25	2675.100	Vapor-Liquid	1	
+121.42	2694.000	Vapor-Liquid	5	
+121.47	2710.440	Vapor-Liquid	2	
+121.57	2717.790	Vapor-Liquid	4	
+122.23	2805.000	Vapor-Liquid	5	
+122.75	2878.600	Vapor-Liquid	1	
+122.78	2883.400	Vapor-Liquid	1	
+122.88	2895.000	Vapor-Liquid	5	
+123.14	2933.450	Vapor-Liquid	4	
+123.51	2988.000	Vapor-Liquid	5	
+124.11	3074.900	Vapor-Liquid	1	
+124.18	3083.000	Vapor-Liquid	5	
+124.50	3132.160	Vapor-Liquid	4	
+124.96	3201.000	Vapor-Liquid	5	
+125.53	3277.630	Vapor-Liquid	4	
+125.65	3310.900	Vapor-Liquid	1	
+125.67	3311.000	Vapor-Liquid	5	
+125.68	3316.000	Vapor-Liquid	1	
+125.70	3319.200	Vapor-Liquid	1	
+125.99	3364.000	Vapor-Liquid	5	
+126.05	3375.000	Vapor-Liquid	5	
+126.12	3387.000	Vapor-Liquid	5	
+126.15	3390.900	Vapor-Liquid	1	
+126.20	3400.200	Vapor-Liquid	1	
+Number	Source	
+1	Wagner W.: New Vapour Pressure Measurements for Argon and Nitrogen and an New Method for Establishing Rational Vapour Pressure Equations. Cryogenics 13 (1973) 470-482	
+2	Porter F.; Perry J.H.: High vapor pressures of nitrogen. J.Am.Chem.Soc. 48 (1926) 2059-2060	
+3	von Siemens H.: Über Dampfdruckmessungen und Thermometrie bei tiefen Temperaturen. Ann.Physik 347 (1913) 871-888	
+4	Friedman A.S.; White D.: The vapor pressure of liquid nitrogen.. J.Am.Chem.Soc. 72 (1950) 3931-3932	
+5	Yang X.: Beitrag zur experimentellen Untersuchung und Berechnung von Dampf-Flüssigkeits-Phasengleichgewichten. Thesis  (1991)	
+6	Giauque W.F.; Clayton J.O.: The heat capacity and entropy of nitrogen. Heat of vaporization. Vapor pressures of solid and liquid. The reaction 1/2 N2 + 1/2 O2 = NO from spectroscopic data.. J.Am.Chem.Soc. 55 (1933) 4875-4889	
+$$$Virial Coefficients	
+T [K]	P [kPa]	Second Virial Coefficient [cm3/mol]	State	Reference	
+103.15		-148.6400	Vapor	6	
+113.15		-118.5200	Vapor	6	
+269.30		-11.1800	Vapor	2	
+273.15		-10.2800	Vapor	4	
+273.15		-10.2300	Vapor	2	
+283.15		-8.0300	Vapor	4	
+290.00		-6.4600	Vapor	2	
+293.15		-5.9400	Vapor	4	
+293.15		-5.8700	Vapor	2	
+296.15		-5.0000	Vapor	1	
+296.15	101.300	-5.4000	Vapor	3	
+303.15		-4.2100	Vapor	6	
+303.15		-4.0200	Vapor	4	
+303.15		-3.8000	Vapor	5	
+310.00		-2.6500	Vapor	2	
+313.15		-2.2200	Vapor	4	
+313.15		-2.0700	Vapor	2	
+318.15		-1.2000	Vapor	5	
+323.15		-0.5600	Vapor	4	
+323.15		-0.4000	Vapor	2	
+330.00		0.6400	Vapor	2	
+333.15		1.0000	Vapor	5	
+348.16		2.8000	Vapor	5	
+350.00		3.6400	Vapor	2	
+353.15		3.9200	Vapor	2	
+Number	Source	
+1	Schramm B.; Elias E.; Kern L.; Natour G.; Schmitt A.; Weber C.: Precise Measurements of Second Virial Coefficients of Simple Gases and Gas Mixtures in the Temperature Range Below 300 K. Int.J.Phys.Chem.Ber.Bunsen-Ges. 95 (1991) 615-621	
+2	Zhang W.; Schouten J.A.; Hinze H.M.; Jaeschke M.: PVT-x Behavior of He-N2 Mixtures from 270 to 353 K and up to 280 bar. J.Chem.Eng.Data 37 (1992) 114-119	
+3	Schramm B.; Mueller W.: Measurements of Second Virial Coefficients of Gases and Gas Mixtures at Room Temperature with an Expansion Apparatus. Ber.Bunsen-Ges.Phys.Chem. 86 (1982) 110-112	
+4	Duschek W.; Kleinrahm R.; Wagner W.; Jaeschke M.: Measurement and Correlation of the (Pressure, Density, Temperature) Relation of Nitrogen in the Temperature Range from 273.15 to 323.15 K at Pressures up to 8 MPa. J.Chem.Thermodyn. 20 (1988) 1069-1077	
+5	McElroy P.J.; Buchmann S.: Second virial coefficients of fuel-gas components: (carbon monoxide + nitrogen) and (carbon monoxide + ethene). J.Chem.Thermodyn. 27 (1995) 755-761	
+6	Patel M.R.; Joffrion L.L.; Eubank P.T.: A Simple Procedure for Estimating Virial Coefficients from Burnett PVT Data. AIChE J. 34 (1988) 1229-1232	

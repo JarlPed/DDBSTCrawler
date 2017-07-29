@@ -1,0 +1,92 @@
+$$$Vapor-Liquid Equilibrium Data Set 9	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Pressure	1378.95	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+491.45	0.00000	0.00000	
+488.15	0.02700	0.06900	
+483.15	0.06900	0.17200	
+473.15	0.15700	0.36100	
+463.15	0.25700	0.52200	
+453.15	0.38000	0.65700	
+443.15	0.53600	0.77900	
+433.15	0.73600	0.89100	
+422.75	1.00000	1.00000	
+Source	
+Kay W.B.; Donham W.E.: Liquid-Vapour Equilibria in the Iso-Butanol, Methanol-n-Butanol and Diethyl Ether-n-Butanol Systems. Chem.Eng.Sci. 4 (1955) 1-16	
+$$$Vapor-Liquid Equilibrium Data Set 10	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Pressure	2757.91	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+531.75	0.00000	0.00000	
+528.15	0.02700	0.05800	
+523.15	0.06600	0.13800	
+513.15	0.14800	0.29200	
+503.15	0.24200	0.44000	
+493.15	0.35200	0.57700	
+483.15	0.47500	0.70000	
+473.15	0.62000	0.81200	
+463.15	0.80000	0.91200	
+453.95	1.00000	1.00000	
+Source	
+Kay W.B.; Donham W.E.: Liquid-Vapour Equilibria in the Iso-Butanol, Methanol-n-Butanol and Diethyl Ether-n-Butanol Systems. Chem.Eng.Sci. 4 (1955) 1-16	
+$$$Vapor-Liquid Equilibrium Data Set 29	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Pressure	4136.85	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+558.55	0.00000	0.00000	
+553.15	0.04200	0.07200	
+543.15	0.12600	0.20700	
+533.15	0.21100	0.33800	
+523.15	0.30500	0.46500	
+513.15	0.40900	0.58800	
+503.15	0.52600	0.70400	
+493.15	0.66700	0.81600	
+483.15	0.83600	0.91800	
+474.55	1.00000	1.00000	
+Source	
+Kay W.B.; Donham W.E.: Liquid-Vapour Equilibria in the Iso-Butanol, Methanol-n-Butanol and Diethyl Ether-n-Butanol Systems. Chem.Eng.Sci. 4 (1955) 1-16	
+$$$Vapor-Liquid Equilibrium Data Set 20414	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	CH4O	32.042	67-56-1	Methanol	
+P [kPa]	T [K]	x1 [mol/mol]	
+773.591	463.15	1.00000	
+957.681	473.15	1.00000	
+1173.487	483.15	1.00000	
+1424.456	493.15	1.00000	
+1710.593	503.15	1.00000	
+2036.713	513.15	1.00000	
+2406.269	523.15	1.00000	
+2821.328	533.15	1.00000	
+3292.249	543.15	1.00000	
+3753.505	553.15	1.00000	
+4415.397	562.89	1.00000	
+Source	
+Kay W.B.; Donham W.E.: Liquid-Vapour Equilibria in the Iso-Butanol, Methanol-n-Butanol and Diethyl Ether-n-Butanol Systems. Chem.Eng.Sci. 4 (1955) 1-16	
+$$$Vapor-Liquid Equilibrium Data Set 20415	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	CH4O	32.042	67-56-1	Methanol	
+P [kPa]	T [K]	x1 [mol/mol]	
+837.712	403.15	0.00000	
+1087.992	413.15	0.00000	
+1392.046	423.15	0.00000	
+1758.162	433.15	0.00000	
+2194.593	443.15	0.00000	
+2711.017	453.15	0.00000	
+3319.140	463.15	0.00000	
+4025.162	473.15	0.00000	
+4844.948	483.15	0.00000	
+5797.110	493.15	0.00000	
+6897.513	503.15	0.00000	
+8097.201	512.58	0.00000	
+Source	
+Kay W.B.; Donham W.E.: Liquid-Vapour Equilibria in the Iso-Butanol, Methanol-n-Butanol and Diethyl Ether-n-Butanol Systems. Chem.Eng.Sci. 4 (1955) 1-16	
+Source	
+Kay W.B.; Donham W.E.: Liquid-Vapour Equilibria in the Iso-Butanol, Methanol-n-Butanol and Diethyl Ether-n-Butanol Systems. Chem.Eng.Sci. 4 (1955) 1-16	

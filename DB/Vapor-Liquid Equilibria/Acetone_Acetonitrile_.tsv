@@ -1,0 +1,62 @@
+$$$Vapor-Liquid Equilibrium Data Set 558	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	318.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+30.038	0.05200	0.12000	
+31.984	0.09500	0.20600	
+35.797	0.19200	0.36700	
+40.357	0.30500	0.51000	
+44.223	0.40300	0.61100	
+47.356	0.48100	0.68200	
+52.422	0.60600	0.78100	
+56.475	0.70600	0.84900	
+60.542	0.80700	0.90400	
+64.181	0.89600	0.95100	
+Source	
+Brown I.; Smith F.: Liquid-Vapor Equilibria X. The Systems Acetone + Nitromethane and Acetone + Acetonitrile at 45°C. Aust.J.Chem. 13 (1960) 30-37	
+$$$Vapor-Liquid Equilibrium Data Set 4378	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Pressure	101.19	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+352.95	0.03330	0.07070	
+353.55	0.04590	0.10000	
+348.95	0.13600	0.26200	
+344.05	0.31500	0.49500	
+340.25	0.47600	0.65300	
+340.15	0.48000	0.66400	
+335.85	0.65700	0.80700	
+333.05	0.79400	0.89700	
+330.75	0.87700	0.94300	
+Source	
+Pratt H.R.C.: Continuous Purification and Azeotropic Dehydration of Acetonitrile Produced by the Catalytic Acetic Acid-Ammonia Reaction. Trans.Inst.Chem.Engr. 25 (1947) 43-67	
+$$$Vapor-Liquid Equilibrium Data Set 5328	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	323.15	K	
+P [kPa]	x1 [mol/mol]	
+33.849	0.00000	
+37.856	0.08240	
+41.466	0.16000	
+46.150	0.25310	
+50.638	0.34510	
+54.874	0.43140	
+56.773	0.47540	
+58.506	0.50770	
+60.404	0.55170	
+64.289	0.63500	
+69.204	0.73860	
+72.869	0.81380	
+77.087	0.89960	
+79.905	0.95810	
+82.015	1.00000	
+Source	
+Di Elsi D.P.; Patel R.B.; Abbott M.M.; van Ness H.C.: Excess Thermodynamic Functions for ternary Systems. 3. Total Pressure Data and GE for Acetone-Acetonitrile-Methyl Acetate at 50°C. J.Chem.Eng.Data 23 (1978) 242-245	
+Source	
+Brown I.; Smith F.: Liquid-Vapor Equilibria X. The Systems Acetone + Nitromethane and Acetone + Acetonitrile at 45°C. Aust.J.Chem. 13 (1960) 30-37	
+Pratt H.R.C.: Continuous Purification and Azeotropic Dehydration of Acetonitrile Produced by the Catalytic Acetic Acid-Ammonia Reaction. Trans.Inst.Chem.Engr. 25 (1947) 43-67	
+Di Elsi D.P.; Patel R.B.; Abbott M.M.; van Ness H.C.: Excess Thermodynamic Functions for ternary Systems. 3. Total Pressure Data and GE for Acetone-Acetonitrile-Methyl Acetate at 50°C. J.Chem.Eng.Data 23 (1978) 242-245	

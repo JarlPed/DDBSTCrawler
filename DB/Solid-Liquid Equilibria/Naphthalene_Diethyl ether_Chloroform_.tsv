@@ -1,0 +1,13 @@
+$$$Solid-Liquid Equilibrium Data Set 2013	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C10H8	128.174	91-20-3	Naphthalene	
+2	C4H10O	74.123	60-29-7	Diethyl ether	
+3	CHCl3	119.377	67-66-3	Chloroform	
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
+298.15	0.34037	0.00000	
+298.15	0.26402	0.25352	
+298.15	0.23084	0.47235	
+298.15	0.24683	0.63197	
+298.15	0.24725	0.75274	
+Source	
+Mahieu J.: XIV. La solubilite dans les melanges de deux solvants miscibles. Bull.Soc.Chim.Belg. 45 (1936) 667-675	

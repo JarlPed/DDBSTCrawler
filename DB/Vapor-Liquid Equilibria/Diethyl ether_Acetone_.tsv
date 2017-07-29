@@ -1,0 +1,62 @@
+$$$Vapor-Liquid Equilibrium Data Set 214	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C3H6O	58.080	67-64-1	Acetone	
+Temperature	293.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+24.691	0.00000	0.00000	
+24.785	0.00410	0.00980	
+26.238	0.02100	0.07840	
+29.504	0.06420	0.20900	
+29.704	0.06830	0.21680	
+33.011	0.11170	0.32190	
+36.210	0.15840	0.40890	
+44.530	0.33380	0.59510	
+46.823	0.38790	0.63890	
+51.596	0.54300	0.72830	
+56.089	0.75100	0.83320	
+58.115	0.87290	0.90415	
+58.902	0.94802	0.95571	
+59.128	1.00000	1.00000	
+Source	
+Sameshima J.: On the System Acetone-Ethyl Ether.. J.Am.Chem.Soc. 40 (1918) 1482-1503	
+$$$Vapor-Liquid Equilibrium Data Set 632	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C3H6O	58.080	67-64-1	Acetone	
+Temperature	273.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+9.279	0.00000	0.00000	
+15.799	0.15600	0.44600	
+15.599	0.19200	0.43600	
+18.972	0.36400	0.61700	
+19.998	0.51000	0.67000	
+22.238	0.61700	0.72800	
+24.158	0.83500	0.86100	
+24.745	1.00000	1.00000	
+Source	
+Cunaeus E.H.J.: Die Bestimmung des Brechungsvermögens als Methode zur Untersuchung der Zusammensetzung koexistierender Dampf- und Flüssigkeitsphasen. Z.Phys.Chem.(Leipzig) 36 (1901) 232-238	
+$$$Vapor-Liquid Equilibrium Data Set 633	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C3H6O	58.080	67-64-1	Acetone	
+Temperature	303.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+37.690	0.00000	0.00000	
+39.650	0.02010	0.06980	
+43.463	0.04720	0.16960	
+45.036	0.06630	0.21010	
+54.609	0.16190	0.40660	
+63.955	0.29530	0.55450	
+67.021	0.34930	0.59970	
+74.367	0.50420	0.69960	
+79.593	0.65460	0.77820	
+82.247	0.74910	0.82700	
+84.926	0.86730	0.89600	
+86.033	0.96133	0.96625	
+86.126	1.00000	1.00000	
+Source	
+Sameshima J.: On the System Acetone-Ethyl Ether.. J.Am.Chem.Soc. 40 (1918) 1482-1503	
+Source	
+Cunaeus E.H.J.: Die Bestimmung des Brechungsvermögens als Methode zur Untersuchung der Zusammensetzung koexistierender Dampf- und Flüssigkeitsphasen. Z.Phys.Chem.(Leipzig) 36 (1901) 232-238	
+Sameshima J.: On the System Acetone-Ethyl Ether.. J.Am.Chem.Soc. 40 (1918) 1482-1503	

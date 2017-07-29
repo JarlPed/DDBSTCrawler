@@ -1,0 +1,65 @@
+$$$Vapor-Liquid Equilibrium Data Set 1838	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H4O2	60.053	64-19-7	Acetic acid	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+401.65	0.10000	0.42100	
+396.45	0.20000	0.52500	
+393.25	0.30000	0.60500	
+391.45	0.40000	0.66400	
+390.15	0.50000	0.70100	
+389.45	0.60000	0.73200	
+388.75	0.70000	0.76400	
+388.35	0.80000	0.80700	
+388.45	0.85000	0.83200	
+388.55	0.90000	0.86500	
+389.35	0.95000	0.91600	
+Source	
+Marek J.: Vapor-Liquid Equilibria in Mixtures Containing an Association Substance II. Binary Mixtures of Acetic Acid at Atmospheric Pressure. Collect.Czech.Chem.Commun. 20 (1955) 1490-1502	
+$$$Vapor-Liquid Equilibrium Data Set 2238	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H4O2	60.053	64-19-7	Acetic acid	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Pressure	96.66	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+398.65	0.11000	0.32000	
+395.65	0.18500	0.44000	
+393.15	0.24000	0.52000	
+391.15	0.32000	0.58500	
+389.65	0.36000	0.64500	
+388.15	0.51000	0.72000	
+387.25	0.74500	0.78500	
+387.15	0.83700	0.83400	
+387.35	0.87000	0.85500	
+387.95	0.92500	0.89500	
+388.45	0.95500	0.93000	
+389.45	0.99600	0.99200	
+Source	
+Bagga O.P.; Raju K.S.N.: Systems Acetic Acid-Ethylbenzene and Acetic Acid-p-Xylene. J.Chem.Eng.Data 15 (1970) 531-534	
+$$$Vapor-Liquid Equilibrium Data Set 34371	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H4O2	60.053	64-19-7	Acetic acid	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+401.46	0.07830	0.33260	
+396.13	0.20920	0.53340	
+391.81	0.36320	0.63460	
+389.76	0.51110	0.69880	
+389.50	0.55200	0.71670	
+388.45	0.67720	0.75640	
+388.44	0.75610	0.78780	
+388.51	0.77820	0.79600	
+388.38	0.79890	0.80670	
+388.40	0.82130	0.81860	
+388.46	0.85970	0.84090	
+388.50	0.88280	0.85520	
+388.67	0.89900	0.87050	
+389.63	0.95610	0.92260	
+Source	
+Huang X.; Zhong W.; Du W.; Qian F.: Thermodynamic Analysis and Process Simulation of an Industrial Acetic Acid Dehydration System via Heterogeneous Azeotropic Distillation. Ind.Eng.Chem.Res. 52 (2013) 2944-2957	
+Source	
+Marek J.: Vapor-Liquid Equilibria in Mixtures Containing an Association Substance II. Binary Mixtures of Acetic Acid at Atmospheric Pressure. Collect.Czech.Chem.Commun. 20 (1955) 1490-1502	
+Bagga O.P.; Raju K.S.N.: Systems Acetic Acid-Ethylbenzene and Acetic Acid-p-Xylene. J.Chem.Eng.Data 15 (1970) 531-534	
+Huang X.; Zhong W.; Du W.; Qian F.: Thermodynamic Analysis and Process Simulation of an Industrial Acetic Acid Dehydration System via Heterogeneous Azeotropic Distillation. Ind.Eng.Chem.Res. 52 (2013) 2944-2957	

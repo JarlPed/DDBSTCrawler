@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+3	C6H14	86.177	110-54-3	Hexane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	n.a.	n.a.	Author	1	
+none	283.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	2	
+none	343.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	2	
+none	zeotropic	
+1	Butler P.A.; Ridgway K.: The Use of a Multi-Stage Still. J.Appl.Chem. 17 (1967) 191-197	
+2	Li I.P.C.; Polak J.; Lu B.C.-Y.: Ternary Vapor-Liquid Equilibria for n-Hexane + Cyclohexane + Benzene. J.Chem.Thermodyn. 6 (1974) 417-424	

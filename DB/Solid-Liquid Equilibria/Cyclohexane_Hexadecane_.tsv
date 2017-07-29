@@ -1,0 +1,79 @@
+$$$Solid-Liquid Equilibrium Data Set 279	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	
+291.27	0.00000	
+290.49	0.05610	
+290.41	0.06320	
+289.04	0.14750	
+288.12	0.20970	
+287.11	0.26880	
+285.41	0.35580	
+283.06	0.45500	
+280.05	0.56170	
+276.13	0.67210	
+275.14	0.69530	
+271.74	0.76550	
+267.34	0.83600	
+265.22	0.86340	
+262.18	0.89620	
+259.86	0.91560	
+259.59	0.91860	
+262.47	0.93060	
+265.46	0.94270	
+269.86	0.96040	
+272.43	0.97020	
+274.75	0.97960	
+277.14	0.98910	
+279.14	0.99760	
+279.74	1.00000	
+Source	
+Snow R.L.; Ott J.B.; Goates J.R.; Marsh K.N.; O'Shea S.; Stokes R.H.: Comparison of GEm calculated from (vapor + liquid ) and (solid + liquid) equilibria. J.Chem.Thermodyn. 18 (1986) 107-130	
+$$$Solid-Liquid Equilibrium Data Set 1001	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	
+291.45	0.00000	
+291.15	0.03530	
+290.80	0.06820	
+290.30	0.10880	
+289.70	0.14670	
+288.90	0.19360	
+288.20	0.24760	
+287.40	0.29160	
+286.60	0.32910	
+285.75	0.36970	
+284.90	0.40560	
+283.95	0.45010	
+283.00	0.48770	
+281.75	0.52900	
+280.45	0.57080	
+278.95	0.61370	
+277.15	0.68330	
+275.00	0.71310	
+270.65	0.74970	
+265.85	0.80460	
+261.25	0.87480	
+258.75	0.90210	
+258.55	0.93010	
+262.55	0.93790	
+266.65	0.94630	
+268.85	0.95470	
+272.45	0.97270	
+275.80	0.98750	
+278.00	0.99480	
+279.75	1.00000	
+Source	
+Domanska U.; Kniaz K.: Solid-Liquid Equilibria of Normal Alkanes (C16, C18, C20) + Hexane, + 3-Methylpentane, + 2,2-Dimethylbutane, or + Cyclohexane. Int.Data Series Sel.Data Mixtures Ser. A 1990 (1990) 83-93	
+$$$Solid-Liquid Equilibrium Data Set 1419	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	
+260.65	0.92650	
+283.15	0.38490	
+288.15	0.15740	
+Source	
+Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328	

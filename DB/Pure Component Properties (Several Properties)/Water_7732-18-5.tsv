@@ -1,0 +1,1788 @@
+Formula	Molar Mass	CAS Registry Number	Name	
+H2O	18.015	7732-18-5	Water	
+$$$Compressibility (isentropic)	
+T [K]	Compressibility (isentropic) [/kPa]	State	Reference	
+298.15	4.44600004812E-007	Liquid	1	
+Number	Source	
+1	Ramkumar D.H.S.; Kudchadker A.P.: 1. Densities of gamma-Butyrolactone + Water at 303.15 - 343.15 K and of Tetrahydrofuran + gamma-Butyrolactone at 278.15 - 298.15 K; Ultrasonic Velocities at 298.15 K for the Three Binary Systems Inclusive of Tetrahydrofurane + Water and the Ternary System Tetrahydrofuran + Water + gamma-Butyrolactone. J.Chem.Eng.Data 34 (1989) 459-463	
+$$$Compressibility (isothermal)	
+T [K]	P [kPa]	Compressibility (isothermal) [/kPa]	State	Reference	
+293.20		4.63600002831E-007	Liquid	1	
+298.15	100.000	4.5030000706E-007	Liquid	2	
+298.15	20000.000	4.32500002034E-007	Liquid	2	
+298.15	40000.000	4.12999980881E-007	Liquid	2	
+298.15	60000.000	3.92999993437E-007	Liquid	2	
+298.15	80000.000	3.74199998987E-007	Liquid	2	
+298.15	100000.000	3.57499999382E-007	Liquid	2	
+298.15	120000.000	3.42899994621E-007	Liquid	2	
+298.15	140000.000	3.2540000916E-007	Liquid	2	
+298.15	160000.000	3.16399990652E-007	Liquid	2	
+298.15	180000.000	3.03700005588E-007	Liquid	2	
+298.15	200000.000	2.92700008231E-007	Liquid	2	
+298.15	220000.000	2.82900003867E-007	Liquid	2	
+298.15	240000.000	2.73399990647E-007	Liquid	2	
+298.15	260000.000	2.6440000056E-007	Liquid	2	
+298.15	280000.000	2.56699991041E-007	Liquid	2	
+298.15	300000.000	2.4780001695E-007	Liquid	2	
+298.15	320000.000	2.40100007431E-007	Liquid	2	
+298.15	340000.000	2.32600001482E-007	Liquid	2	
+298.15	360000.000	2.26600008091E-007	Liquid	2	
+298.15	380000.000	2.20900005843E-007	Liquid	2	
+298.15	400000.000	2.15400007164E-007	Liquid	2	
+298.15	420000.000	2.09800006701E-007	Liquid	2	
+298.15	440000.000	2.03900000884E-007	Liquid	2	
+298.15	460000.000	1.9940000584E-007	Liquid	2	
+298.15	480000.000	1.94500003659E-007	Liquid	2	
+298.15	500000.000	1.89999994404E-007	Liquid	2	
+298.15	520000.000	1.85999994073E-007	Liquid	2	
+298.15	540000.000	1.81399997246E-007	Liquid	2	
+298.15	560000.000	1.78100009407E-007	Liquid	2	
+298.15	580000.000	1.73900005507E-007	Liquid	2	
+298.15	600000.000	1.70700005242E-007	Liquid	2	
+298.15	620000.000	1.67300001408E-007	Liquid	2	
+298.15	640000.000	1.63500004646E-007	Liquid	2	
+298.15	660000.000	1.60799999094E-007	Liquid	2	
+298.15	680000.000	1.58100007752E-007	Liquid	2	
+298.15	700000.000	1.55300000415E-007	Liquid	2	
+298.15	720000.000	1.52400005504E-007	Liquid	2	
+298.15	740000.000	1.49499996382E-007	Liquid	2	
+298.15	760000.000	1.46800005041E-007	Liquid	2	
+298.15	780000.000	1.44400004842E-007	Liquid	2	
+298.15	800000.000	1.42200008213E-007	Liquid	2	
+303.15	100.000	4.49400005209E-007	Liquid	2	
+303.15	20000.000	4.27299994499E-007	Liquid	2	
+303.15	40000.000	4.07599998198E-007	Liquid	2	
+303.15	60000.000	3.80900019081E-007	Liquid	2	
+303.15	80000.000	3.7160000943E-007	Liquid	2	
+303.15	100000.000	3.54900009825E-007	Liquid	2	
+303.15	120000.000	3.39999985499E-007	Liquid	2	
+303.15	140000.000	3.2650001458E-007	Liquid	2	
+303.15	160000.000	3.14099992238E-007	Liquid	2	
+303.15	180000.000	3.0199998946E-007	Liquid	2	
+303.15	200000.000	2.90999992103E-007	Liquid	2	
+303.15	220000.000	2.91100008099E-007	Liquid	2	
+303.15	240000.000	2.72100010079E-007	Liquid	2	
+303.15	260000.000	2.63099991571E-007	Liquid	2	
+303.15	280000.000	2.64699991703E-007	Liquid	2	
+303.15	300000.000	2.47099990247E-007	Liquid	2	
+303.15	320000.000	2.39299993154E-007	Liquid	2	
+303.15	340000.000	2.32600001482E-007	Liquid	2	
+303.15	360000.000	2.25800008025E-007	Liquid	2	
+303.15	380000.000	2.20499998704E-007	Liquid	2	
+303.15	400000.000	2.14300001744E-007	Liquid	2	
+303.15	420000.000	2.08999992424E-007	Liquid	2	
+303.15	440000.000	2.03699997314E-007	Liquid	2	
+303.15	460000.000	1.98800009343E-007	Liquid	2	
+303.15	480000.000	1.94800009012E-007	Liquid	2	
+303.15	500000.000	1.88499996057E-007	Liquid	2	
+303.15	520000.000	1.85399997576E-007	Liquid	2	
+303.15	540000.000	1.80900002533E-007	Liquid	2	
+303.15	560000.000	1.77399996915E-007	Liquid	2	
+303.15	580000.000	1.74400000219E-007	Liquid	2	
+303.15	600000.000	1.70399999888E-007	Liquid	2	
+303.15	620000.000	1.67400003193E-007	Liquid	2	
+303.15	640000.000	1.64500008282E-007	Liquid	2	
+303.15	660000.000	1.60999988452E-007	Liquid	2	
+303.15	680000.000	1.57599998829E-007	Liquid	2	
+303.15	700000.000	1.54500000349E-007	Liquid	2	
+303.15	720000.000	1.52200001935E-007	Liquid	2	
+303.15	740000.000	1.50399998233E-007	Liquid	2	
+303.15	760000.000	1.47700006892E-007	Liquid	2	
+303.15	780000.000	1.44400004842E-007	Liquid	2	
+303.15	800000.000	1.40600008081E-007	Liquid	2	
+303.20		4.48799994501E-007	Liquid	1	
+313.15	100.000	4.43200008249E-007	Liquid	2	
+313.15	20000.000	4.2290000124E-007	Liquid	2	
+313.15	40000.000	4.02900013796E-007	Liquid	2	
+313.15	60000.000	3.83700012208E-007	Liquid	2	
+313.15	80000.000	3.66600005464E-007	Liquid	2	
+313.15	100000.000	3.59799997796E-007	Liquid	2	
+313.15	120000.000	3.36299990522E-007	Liquid	2	
+313.15	140000.000	3.33900004534E-007	Liquid	2	
+313.15	160000.000	3.11099995542E-007	Liquid	2	
+313.15	180000.000	3.00099998185E-007	Liquid	2	
+313.15	200000.000	2.88600006115E-007	Liquid	2	
+313.15	220000.000	2.79299996464E-007	Liquid	2	
+313.15	240000.000	2.70399993951E-007	Liquid	2	
+313.15	260000.000	2.61400003865E-007	Liquid	2	
+313.15	280000.000	2.53300015629E-007	Liquid	2	
+313.15	300000.000	2.44999995402E-007	Liquid	2	
+313.15	320000.000	2.3389999626E-007	Liquid	2	
+313.15	340000.000	2.31400008488E-007	Liquid	2	
+313.15	360000.000	2.25500002671E-007	Liquid	2	
+313.15	380000.000	2.20100005777E-007	Liquid	2	
+313.15	400000.000	2.1399999639E-007	Liquid	2	
+313.15	420000.000	2.08599999496E-007	Liquid	2	
+313.15	440000.000	2.03300004387E-007	Liquid	2	
+313.15	460000.000	1.98899996917E-007	Liquid	2	
+313.15	480000.000	1.9409999652E-007	Liquid	2	
+313.15	500000.000	1.90199997974E-007	Liquid	2	
+313.15	520000.000	1.85399997576E-007	Liquid	2	
+313.15	540000.000	1.81700002599E-007	Liquid	2	
+313.15	560000.000	1.77100005772E-007	Liquid	2	
+313.15	580000.000	1.73800003722E-007	Liquid	2	
+313.15	600000.000	1.70700005242E-007	Liquid	2	
+313.15	620000.000	1.67199999623E-007	Liquid	2	
+313.15	640000.000	1.64300004712E-007	Liquid	2	
+313.15	660000.000	1.60699997309E-007	Liquid	2	
+313.15	680000.000	1.57900004183E-007	Liquid	2	
+313.15	700000.000	1.55099996846E-007	Liquid	2	
+313.15	720000.000	1.52699996647E-007	Liquid	2	
+313.15	740000.000	1.50900007156E-007	Liquid	2	
+313.15	760000.000	1.47600005107E-007	Liquid	2	
+313.15	780000.000	1.45400008478E-007	Liquid	2	
+313.15	800000.000	1.43400001207E-007	Liquid	2	
+313.20		4.39100006133E-007	Liquid	1	
+323.15	100.000	4.42300006398E-007	Liquid	2	
+323.15	20000.000	4.21300001108E-007	Liquid	2	
+323.15	40000.000	4.00999994099E-007	Liquid	2	
+323.15	60000.000	3.82199999649E-007	Liquid	2	
+323.15	80000.000	3.65099992905E-007	Liquid	2	
+323.15	100000.000	3.49400011146E-007	Liquid	2	
+323.15	120000.000	3.35900011805E-007	Liquid	2	
+323.15	140000.000	3.22900007177E-007	Liquid	2	
+323.15	160000.000	3.10199993692E-007	Liquid	2	
+323.15	180000.000	2.97900015767E-007	Liquid	2	
+323.15	200000.000	2.87600016691E-007	Liquid	2	
+323.15	220000.000	2.78900017747E-007	Liquid	2	
+323.15	240000.000	2.69899999239E-007	Liquid	2	
+323.15	260000.000	2.61100012722E-007	Liquid	2	
+323.15	280000.000	2.52400013778E-007	Liquid	2	
+323.15	300000.000	2.46300004392E-007	Liquid	2	
+323.15	320000.000	2.39200005581E-007	Liquid	2	
+323.15	340000.000	2.31800001416E-007	Liquid	2	
+323.15	360000.000	2.24900006174E-007	Liquid	2	
+323.15	380000.000	2.18300002075E-007	Liquid	2	
+323.15	400000.000	2.13800007032E-007	Liquid	2	
+323.15	420000.000	2.08700001281E-007	Liquid	2	
+323.15	440000.000	2.03500007956E-007	Liquid	2	
+323.15	460000.000	1.9830000042E-007	Liquid	2	
+323.15	480000.000	1.94400001874E-007	Liquid	2	
+323.15	500000.000	1.90199997974E-007	Liquid	2	
+323.15	520000.000	1.86700006566E-007	Liquid	2	
+323.15	540000.000	1.81700002599E-007	Liquid	2	
+323.15	560000.000	1.77700002268E-007	Liquid	2	
+323.15	580000.000	1.74299998434E-007	Liquid	2	
+323.15	600000.000	1.70600003457E-007	Liquid	2	
+323.15	620000.000	1.67500004977E-007	Liquid	2	
+323.15	640000.000	1.63999999359E-007	Liquid	2	
+323.15	660000.000	1.61399995591E-007	Liquid	2	
+323.15	680000.000	1.58900007818E-007	Liquid	2	
+323.15	700000.000	1.55500003984E-007	Liquid	2	
+323.15	720000.000	1.5320000557E-007	Liquid	2	
+323.15	740000.000	1.50700003587E-007	Liquid	2	
+323.15	760000.000	1.48099999819E-007	Liquid	2	
+323.15	780000.000	1.45499996052E-007	Liquid	2	
+323.15	800000.000	1.42900006495E-007	Liquid	2	
+323.20		4.33800011024E-007	Liquid	1	
+333.15	100.000	4.48400015785E-007	Liquid	2	
+333.15	20000.000	4.24299997803E-007	Liquid	2	
+333.15	40000.000	4.02799997801E-007	Liquid	2	
+333.15	60000.000	3.85500015909E-007	Liquid	2	
+333.15	80000.000	3.65999994756E-007	Liquid	2	
+333.15	100000.000	3.50100009427E-007	Liquid	2	
+333.15	120000.000	3.35599992241E-007	Liquid	2	
+333.15	140000.000	3.21900017752E-007	Liquid	2	
+333.15	160000.000	3.10500013256E-007	Liquid	2	
+333.15	180000.000	2.99500015899E-007	Liquid	2	
+333.15	200000.000	2.88800009685E-007	Liquid	2	
+333.15	220000.000	2.79299996464E-007	Liquid	2	
+333.15	240000.000	2.70599997521E-007	Liquid	2	
+333.15	260000.000	2.61300016291E-007	Liquid	2	
+333.15	280000.000	2.53199999634E-007	Liquid	2	
+333.15	300000.000	2.45800009679E-007	Liquid	2	
+333.15	320000.000	2.39800016288E-007	Liquid	2	
+333.15	340000.000	2.32499999697E-007	Liquid	2	
+333.15	360000.000	2.2570000624E-007	Liquid	2	
+333.15	380000.000	2.19699998638E-007	Liquid	2	
+333.15	400000.000	2.14199999959E-007	Liquid	2	
+333.15	420000.000	2.0890000485E-007	Liquid	2	
+333.15	440000.000	2.04300008022E-007	Liquid	2	
+333.15	460000.000	1.99300004056E-007	Liquid	2	
+333.15	480000.000	1.94400001874E-007	Liquid	2	
+333.15	500000.000	1.91500006963E-007	Liquid	2	
+333.15	520000.000	1.86700006566E-007	Liquid	2	
+333.15	540000.000	1.82999997378E-007	Liquid	2	
+333.15	560000.000	1.78299998765E-007	Liquid	2	
+333.15	580000.000	1.74900009142E-007	Liquid	2	
+333.15	600000.000	1.72100001805E-007	Liquid	2	
+333.15	620000.000	1.67500004977E-007	Liquid	2	
+333.15	640000.000	1.64599995855E-007	Liquid	2	
+333.15	660000.000	1.61499997375E-007	Liquid	2	
+333.15	680000.000	1.59099997177E-007	Liquid	2	
+333.15	700000.000	1.57300007686E-007	Liquid	2	
+333.15	720000.000	1.53800002067E-007	Liquid	2	
+333.15	740000.000	1.50299996449E-007	Liquid	2	
+333.15	760000.000	1.48099999819E-007	Liquid	2	
+333.15	780000.000	1.45599997836E-007	Liquid	2	
+333.15	800000.000	1.43299999422E-007	Liquid	2	
+Number	Source	
+1	Technische Hochschule Carl Schorlemmer Leuna-Merseburg, Merseburg (GDR): Unpublished data. Unpublished Data  (1989) 1-360	
+2	Brostow W.; Grindley T.; Macip M.A.: Experimental Data and Prediction of Compressibility. Mater.Chem.Phys. 12 (1985) 37-97	
+$$$Compressibility Factor (isothermal)	
+T [K]	P [kPa]	Compressibility Factor (isothermal) [-]	State	Reference	
+423.15	49.040	0.9955	Vapor	1	
+423.15	52.850	0.9953	Vapor	1	
+423.15	74.990	0.9934	Vapor	1	
+423.15	80.230	0.9927	Vapor	1	
+423.15	86.470	0.9924	Vapor	1	
+423.15	122.510	0.9892	Vapor	1	
+423.15	131.050	0.9882	Vapor	1	
+423.15	141.190	0.9876	Vapor	1	
+423.15	199.630	0.9824	Vapor	1	
+423.15	213.470	0.981	Vapor	1	
+423.15	229.840	0.980	Vapor	1	
+423.15	323.890	0.9715	Vapor	1	
+423.15	346.200	0.9697	Vapor	1	
+423.15	372.300	0.9674	Vapor	1	
+473.15	56.010	0.9967	Vapor	1	
+473.15	91.730	0.9949	Vapor	1	
+473.15	120.270	0.9931	Vapor	1	
+473.15	150.030	0.9918	Vapor	1	
+473.15	162.320	0.9908	Vapor	1	
+473.15	196.500	0.989	Vapor	1	
+473.15	244.870	0.9866	Vapor	1	
+473.15	264.860	0.9854	Vapor	1	
+473.15	320.140	0.982	Vapor	1	
+473.15	398.280	0.9781	Vapor	1	
+473.15	430.520	0.9762	Vapor	1	
+473.15	519.250	0.9708	Vapor	1	
+473.15	644.200	0.9643	Vapor	1	
+473.15	695.470	0.9612	Vapor	1	
+473.15	836.050	0.9527	Vapor	1	
+473.15	1031.390	0.941	Vapor	1	
+473.15	1110.720	0.9357	Vapor	1	
+473.15	1327.030	0.9217	Vapor	1	
+523.15	66.050	0.9979	Vapor	1	
+523.15	108.690	0.9964	Vapor	1	
+523.15	144.380	0.9947	Vapor	1	
+523.15	178.670	0.9938	Vapor	1	
+523.15	216.550	0.9922	Vapor	1	
+523.15	237.160	0.9914	Vapor	1	
+523.15	293.210	0.9895	Vapor	1	
+523.15	355.050	0.987	Vapor	1	
+523.15	388.720	0.986	Vapor	1	
+523.15	479.820	0.9825	Vapor	1	
+523.15	580.320	0.9789	Vapor	1	
+523.15	634.860	0.977	Vapor	1	
+523.15	781.620	0.9711	Vapor	1	
+523.15	943.610	0.9658	Vapor	1	
+523.15	1030.940	0.9627	Vapor	1	
+523.15	1263.830	0.9528	Vapor	1	
+523.15	1518.830	0.9432	Vapor	1	
+523.15	1655.450	0.938	Vapor	1	
+523.15	2014.770	0.9216	Vapor	1	
+523.15	2400.970	0.9047	Vapor	1	
+523.15	2604.550	0.8954	Vapor	1	
+523.15	3135.160	0.8701	Vapor	1	
+523.15	3682.600	0.842	Vapor	1	
+Number	Source	
+1	Ellerwald M.: Experimentelle Untersuchungen zum Druck-Volumen-Temperatur-Verhalten gasförmiger Wasser-Ammoniak-Gemische. Thesis  (1981)	
+$$$Critical Data	
+T [K]	P [kPa]	State	Reference	
+647.06	22045.000	Critical Point	5	
+647.14	22064.000	Critical Point	2	
+647.15		Critical Point	3	
+647.30	22129.000	Critical Point	4	
+647.36		Critical Point	1	
+647.77	22060.000	Critical Point	6	
+Number	Source	
+1	Amirkhanov Kh.I.; Kerimov A.M.: Investigation of Heat Capacity on Constant Volume of Water and Water Vapour along Saturation Line including Critical Point by Direct Method. Teploenergetika  (1963) 64-69	
+2	Saul A.; Wagner W.: International Equations for the Saturation Properties of Ordinary Water Substance. J.Phys.Chem.Ref.Data 16 (1987) 893-901	
+3	Ravikovich S.D.; Solomko V.P.: Study of Viscosity and Critical Temperatures of Deuterium Compounds and Their Mixtures. Ukr.Khim.Zh.(Russ.Ed.) 24 (1958) 7-12	
+4	Osborne N.S.; Stimson H.F.; Ginnings D.C.: Thermal Properties of Saturated Water and Steam. J.Res. NBS 23 (1939) 261-270	
+5	Blank G.: New determination of the critical point of water and heavy water. (Ger). Wärme Stoffübertrag. 2 (1969) 53-59	
+6	Holborn L.; Baumann A.: Über den Sättigungsdruck des Wasserdampfes oberhalb 200°. Ann.Physik 336 (1910) 945-970	
+$$$Density	
+T [K]	P [kPa]	Density [kg/m3]	State	Reference	
+293.15	98.066	998.200	Liquid	2	
+293.15	82375.898	1032.800	Liquid	2	
+293.15	128467.000	1050.100	Liquid	2	
+293.15	178971.000	1067.400	Liquid	2	
+293.15	233889.000	1084.700	Liquid	2	
+293.15	293709.000	1102.000	Liquid	2	
+293.15	346175.000	1116.200	Liquid	2	
+293.15	359414.000	1119.300	Liquid	2	
+293.15	416292.000	1133.700	Liquid	2	
+293.15	429531.000	1136.700	Liquid	2	
+293.15	490332.000	1151.200	Liquid	2	
+293.15	507004.000	1154.100	Liquid	2	
+293.15	577612.000	1170.100	Liquid	2	
+293.15	590360.000	1171.600	Liquid	2	
+293.15	666362.000	1186.800	Liquid	2	
+293.15	667833.000	1186.800	Liquid	2	
+293.15	764919.000	1204.600	Liquid	2	
+293.15	766390.000	1204.600	Liquid	2	
+293.15	872792.000	1222.400	Liquid	2	
+298.15		997.100	Liquid	1	
+308.15		994.100	Liquid	1	
+308.15	98.066	994.060	Liquid	2	
+308.15	159848.000	1054.400	Liquid	2	
+308.15	217217.000	1071.900	Liquid	2	
+308.15	275077.000	1089.300	Liquid	2	
+308.15	340291.000	1106.700	Liquid	2	
+308.15	363336.000	1111.800	Liquid	2	
+308.15	410408.000	1124.200	Liquid	2	
+308.15	436886.000	1129.800	Liquid	2	
+308.15	493274.000	1141.800	Liquid	2	
+308.15	514849.000	1147.400	Liquid	2	
+308.15	515830.000	1147.400	Liquid	2	
+308.15	602128.000	1165.200	Liquid	2	
+308.15	694801.000	1182.900	Liquid	2	
+308.15	794829.000	1200.800	Liquid	2	
+308.15	904663.000	1218.700	Liquid	2	
+323.15		988.100	Liquid	1	
+323.15	98.066	988.080	Liquid	2	
+323.15	158868.000	1048.000	Liquid	2	
+323.15	215746.000	1065.400	Liquid	2	
+323.15	276548.000	1082.900	Liquid	2	
+323.15	342252.000	1100.300	Liquid	2	
+323.15	364317.000	1106.100	Liquid	2	
+323.15	413841.000	1117.800	Liquid	2	
+323.15	438357.000	1123.700	Liquid	2	
+323.15	503571.000	1139.500	Liquid	2	
+323.15	519752.000	1141.400	Liquid	2	
+323.15	588399.000	1157.200	Liquid	2	
+323.15	607032.000	1159.100	Liquid	2	
+323.15	680091.000	1175.000	Liquid	2	
+323.15	781100.000	1192.900	Liquid	2	
+323.15	879656.000	1210.700	Liquid	2	
+338.15	98.066	980.590	Liquid	2	
+338.15	154259.000	1040.400	Liquid	2	
+338.15	201723.000	1055.500	Liquid	2	
+338.15	208587.000	1057.800	Liquid	2	
+338.15	263210.000	1072.900	Liquid	2	
+338.15	269291.000	1075.200	Liquid	2	
+338.15	327542.000	1090.400	Liquid	2	
+338.15	334799.000	1092.700	Liquid	2	
+338.15	396679.000	1107.900	Liquid	2	
+338.15	405211.000	1110.200	Liquid	2	
+338.15	474152.000	1125.400	Liquid	2	
+338.15	504846.000	1131.900	Liquid	2	
+338.15	555351.000	1143.000	Liquid	2	
+338.15	590654.000	1149.900	Liquid	2	
+338.15	642041.000	1160.600	Liquid	2	
+338.15	680385.000	1167.400	Liquid	2	
+338.15	782080.000	1185.300	Liquid	2	
+338.15	883383.000	1203.400	Liquid	2	
+633.19	18684.600	514.057	Liquid	3	
+633.19	18686.600	492.992	Liquid	3	
+633.19	18732.701	528.198	Liquid	3	
+633.19	19616.201	542.282	Liquid	3	
+633.19	21580.500	564.063	Liquid	3	
+633.19	23532.000	579.599	Liquid	3	
+633.19	25503.201	592.172	Liquid	3	
+633.19	27464.500	602.675	Liquid	3	
+633.19	29432.701	611.920	Liquid	3	
+633.19	31399.900	620.328	Liquid	3	
+633.19	33071.000	626.767	Liquid	3	
+Number	Source	
+1	Babak S.F.: Viscosity and Density of Binary Mixtures of Nicotine. I.. Zh.Obshch.Khim. 19 (1949) 1604-1609	
+2	Borzunov V.A.; Razumikhin V.N.; Stekolnikov V.A.: Bestimmung der Dichte von n-Hexan und Wasser bei Drücken bis 10000 kg/cm². Teplofiz.Svoistva Vesh.Mater.  (1970) 146-152	
+3	Rivkin S.L.; Akhundov T.S.: Experimentelle Untersuchung der spezifischen Volumina von Wasser. Teploenergetika  (1962) 57-65	
+$$$Dielectric Constant	
+T [K]	P [kPa]	Dielectric Constant [-]	State	Reference	
+291.15		81.10000	Liquid	1	
+301.65	100.000	77.16600	Liquid	2	
+301.65	1000.000	77.20000	Liquid	2	
+301.65	4060.000	77.30901	Liquid	2	
+301.65	6959.000	77.41400	Liquid	2	
+301.65	9909.000	77.52100	Liquid	2	
+301.65	12160.000	77.60400	Liquid	2	
+308.14	100.000	74.91600	Liquid	2	
+308.14	1000.000	74.94801	Liquid	2	
+308.14	3995.000	75.05300	Liquid	2	
+308.14	7025.000	75.16000	Liquid	2	
+308.14	10009.000	75.26501	Liquid	2	
+308.14	12572.000	75.35600	Liquid	2	
+318.10	100.000	71.62200	Liquid	2	
+318.10	1005.000	71.65200	Liquid	2	
+318.10	4030.000	71.75301	Liquid	2	
+318.10	6995.000	71.85400	Liquid	2	
+318.10	10010.000	71.95500	Liquid	2	
+318.10	12350.000	72.03600	Liquid	2	
+328.52	100.000	68.30300	Liquid	2	
+328.52	1007.000	68.33601	Liquid	2	
+328.52	4012.000	68.43700	Liquid	2	
+328.52	7018.000	68.53800	Liquid	2	
+328.52	9975.000	68.63700	Liquid	2	
+328.52	12665.000	68.72701	Liquid	2	
+337.77	98.000	65.51000	Liquid	2	
+337.77	1005.000	65.54100	Liquid	2	
+337.77	4012.000	65.64000	Liquid	2	
+337.77	6999.000	65.73901	Liquid	2	
+337.77	9965.000	65.83900	Liquid	2	
+337.77	11765.000	65.90200	Liquid	2	
+Number	Source	
+1	Herz W.: Über Atom- und Molvolume beim Absoluten Nullpunkte. II.. Z.Anorg.Allg.Chem. 119 (1921) 221-224	
+2	Anderson G.S.; Miller R.C.; Goodwin A.R.H.: Static Dielectric Constants for Liquid Water from 300 K to 350 K at Pressures to 13 MPa Using a New Radio-Frequency Resonator. J.Chem.Eng.Data 45 (2000) 549-554	
+$$$Diffusion Coefficient	
+T [K]	P [kPa]	Diffusion Coefficient [cm2/s]	State	Reference	
+283.15		6.02999989496E-0006	Liquid	1	
+283.15		7.25000018065E-0006	Liquid	1	
+298.15		7.54999973651E-0006	Liquid	3	
+298.15		2.28000008065E-0005	Liquid	2	
+298.15	101.325	0.000023	Liquid	4	
+303.15		1.03599995782E-0005	Liquid	1	
+Number	Source	
+1	Baldauf W.; Knapp H.: Experimental Determination of Diffusion Coefficients, Viscosities, Densities and Refractive Indexes of 11 Binary Liquid Systems. Ber.Bunsen-Ges.Phys.Chem. 87 (1983) 304-309	
+2	Walderhaug H.; Knudsen K.D.: Effect of Temperature and Oil Concentration. J.Solution Chem. 41 (2012) 367-379	
+3	Mouquin H.; Cathcart W.H.: Diffusion Coefficients in Alcohol-Water Mixtures. J.Am.Chem.Soc. 57 (1935) 1791-1794	
+4	Andanson J.-M.; Traikia M.; Husson P.: Ionic association and interactions in aqueous methylsulfate alkyl-imidazolium-based ionic liquids. J.Chem.Thermodyn. 77 (2014) 214-221	
+$$$Dynamic Viscosity	
+T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference	
+298.15		0.8941	Liquid	1	
+308.15		0.7205	Liquid	1	
+323.15		0.5497	Liquid	1	
+548.15	2546.000	0.01896	Vapor	2	
+548.15	3585.000	0.01878	Vapor	2	
+573.15	6792.000	0.01962	Vapor	2	
+573.15	7923.000	0.01942	Vapor	2	
+598.15	3044.000	0.02107	Vapor	2	
+598.15	3547.000	0.02107	Vapor	2	
+598.15	4543.000	0.02094	Vapor	2	
+598.15	4791.000	0.0209	Vapor	2	
+598.15	5535.000	0.02097	Vapor	2	
+598.15	5537.000	0.02096	Vapor	2	
+598.15	5977.000	0.02107	Vapor	2	
+598.15	6288.000	0.02085	Vapor	2	
+598.15	6785.000	0.02083	Vapor	2	
+598.15	6786.000	0.02092	Vapor	2	
+598.15	6971.000	0.02098	Vapor	2	
+598.15	7079.000	0.02094	Vapor	2	
+598.15	7082.000	0.02105	Vapor	2	
+598.15	7757.000	0.02094	Vapor	2	
+598.15	7758.000	0.02098	Vapor	2	
+598.15	7970.000	0.02102	Vapor	2	
+598.15	8527.000	0.02089	Vapor	2	
+598.15	8530.000	0.02082	Vapor	2	
+598.15	8774.000	0.02076	Vapor	2	
+598.15	9262.000	0.02065	Vapor	2	
+598.15	9522.000	0.02072	Vapor	2	
+598.15	10025.000	0.02076	Vapor	2	
+598.15	10026.000	0.02078	Vapor	2	
+598.15	10770.000	0.02092	Vapor	2	
+598.15	10772.000	0.02087	Vapor	2	
+598.15	10960.000	0.02086	Vapor	2	
+623.15	4296.000	0.02227	Vapor	2	
+623.15	4596.000	0.02237	Vapor	2	
+623.15	6035.000	0.02228	Vapor	2	
+623.15	6290.000	0.0222	Vapor	2	
+623.15	7087.000	0.02218	Vapor	2	
+623.15	7531.000	0.0223	Vapor	2	
+623.15	7537.000	0.02227	Vapor	2	
+623.15	8283.000	0.02211	Vapor	2	
+623.15	8586.000	0.0222	Vapor	2	
+623.15	9026.000	0.02216	Vapor	2	
+623.15	9779.000	0.02206	Vapor	2	
+623.15	10090.000	0.02217	Vapor	2	
+623.15	10521.000	0.02215	Vapor	2	
+623.15	11270.000	0.02209	Vapor	2	
+623.15	11275.000	0.02211	Vapor	2	
+623.15	12268.000	0.02227	Vapor	2	
+623.15	13145.000	0.02231	Vapor	2	
+623.15	13517.000	0.02241	Vapor	2	
+623.15	13518.000	0.02233	Vapor	2	
+623.15	14181.000	0.02244	Vapor	2	
+648.15	5544.000	0.02365	Vapor	2	
+648.15	7038.000	0.02352	Vapor	2	
+648.15	8534.000	0.02356	Vapor	2	
+648.15	10030.000	0.02341	Vapor	2	
+648.15	11753.000	0.02338	Vapor	2	
+648.15	13021.000	0.02363	Vapor	2	
+648.15	14333.000	0.02367	Vapor	2	
+Number	Source	
+1	Babak S.F.: Viscosity and Density of Binary Mixtures of Nicotine. I.. Zh.Obshch.Khim. 19 (1949) 1604-1609	
+2	Rivkin S.L.; Levin A.Ya.; Izrailevskii L.B.: Experimentelle Untersuchung der Viskosität von Wasserdampf bei Temperaturen bis 450°C und Drücken bis 350 bar. Teploenergetika  (1968) 74-78	
+$$$Enthalpy	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+273.16	0.011024	Liquid	1	
+273.16	45055.40	Vapor	1	
+373.15	7551.64	Liquid	1	
+373.15	48217.90	Vapor	1	
+647.14	37589.70	Liquid	1	
+Number	Source	
+1	Saul A.; Wagner W.: International Equations for the Saturation Properties of Ordinary Water Substance. J.Phys.Chem.Ref.Data 16 (1987) 893-901	
+$$$Entropy	
+T [K]	Molar Entropy [J/(mol*K)]	State	Reference	
+298.00	188.70	Vapor	3	
+298.00	188.71	Vapor	2	
+298.00	188.74	Vapor	1	
+298.10	188.70	Vapor	4	
+463.10	203.55	Vapor	4	
+485.00	205.48	Vapor	4	
+Number	Source	
+1	Brickwedde F.G.; Moskow M.; Aston J.G.: Equilibrium Constants of some Reactions Involved in the Production Of1,3-Butadiene.. J.Res. NBS 37 (1946) 263-279	
+2	McBride B.J.; Gordon S.: Thermodynamic functions of several triatomic molecules in the ideal gas state.. J.Chem.Phys. 35 (1961) 2198-2206	
+3	Gordon A.R.: Calculation of thermodynamic quantities from spectroscopic data for polyatomic molecules; the free energy, entropy and heat capacity of steam.. J.Chem.Phys. 2 (1934) 65-72	
+4	Giauque W.F.; Archibald R.C.: The Entropy of Water from the Third Law of Thermodynamics. The Dissociation Pressure and Calorimetric Heat for the Reaction Mg(OH)2 = MgO + H2O. The Heat Capacities of Mg(OH)2 and MgO from 20 to 300°K. J.Am.Chem.Soc. 59 (1937) 561-569	
+$$$G-function (G-G0)/T	
+T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference	
+50.00	-96.71	Vapor	3	
+60.00	-102.64	Vapor	3	
+70.00	-107.68	Vapor	3	
+80.00	-112.05	Vapor	3	
+90.00	-115.92	Vapor	3	
+100.00	-119.38	Vapor	2	
+110.00	-122.52	Vapor	3	
+120.00	-125.38	Vapor	3	
+130.00	-128.02	Vapor	3	
+140.00	-130.47	Vapor	3	
+150.00	-132.75	Vapor	3	
+160.00	-134.88	Vapor	3	
+170.00	-136.88	Vapor	3	
+180.00	-138.77	Vapor	3	
+190.00	-140.56	Vapor	3	
+200.00	-142.26	Vapor	2	
+210.00	-143.87	Vapor	3	
+220.00	-145.41	Vapor	3	
+230.00	-146.89	Vapor	3	
+240.00	-148.30	Vapor	3	
+250.00	-149.65	Vapor	3	
+260.00	-150.95	Vapor	3	
+270.00	-152.22	Vapor	3	
+273.15	-152.59	Vapor	2	
+280.00	-153.41	Vapor	3	
+290.00	-154.58	Vapor	3	
+298.15	-155.56	Vapor	4	
+298.15	-155.49	Vapor	2	
+298.16	-155.54	Vapor	1	
+300.00	-155.77	Vapor	4	
+300.00	-155.75	Vapor	1	
+300.00	-155.70	Vapor	2	
+310.00	-156.79	Vapor	3	
+320.00	-157.85	Vapor	3	
+330.00	-158.87	Vapor	3	
+340.00	-159.86	Vapor	3	
+350.00	-160.88	Vapor	4	
+350.00	-160.83	Vapor	3	
+360.00	-161.76	Vapor	3	
+370.00	-162.68	Vapor	3	
+380.00	-163.57	Vapor	3	
+390.00	-164.43	Vapor	3	
+400.00	-165.32	Vapor	1	
+400.00	-165.28	Vapor	2	
+450.00	-169.25	Vapor	4	
+450.00	-169.21	Vapor	3	
+500.00	-172.80	Vapor	1	
+500.00	-172.78	Vapor	4	
+500.00	-172.75	Vapor	2	
+550.00	-175.99	Vapor	4	
+550.00	-175.97	Vapor	3	
+600.00	-178.96	Vapor	1	
+600.00	-178.93	Vapor	4	
+600.00	-178.92	Vapor	2	
+650.00	-181.65	Vapor	3	
+700.00	-184.23	Vapor	1	
+700.00	-184.19	Vapor	2	
+700.00	-184.18	Vapor	4	
+750.00	-186.57	Vapor	3	
+750.00	-186.55	Vapor	4	
+800.00	-188.85	Vapor	1	
+800.00	-188.81	Vapor	2	
+800.00	-188.79	Vapor	4	
+850.00	-190.93	Vapor	3	
+850.00	-190.90	Vapor	4	
+900.00	-193.00	Vapor	1	
+900.00	-192.95	Vapor	2	
+900.00	-192.91	Vapor	4	
+950.00	-194.86	Vapor	3	
+950.00	-194.82	Vapor	4	
+1000.00	-196.74	Vapor	1	
+1000.00	-196.70	Vapor	2	
+1000.00	-196.64	Vapor	4	
+1050.00	-198.45	Vapor	3	
+1050.00	-198.40	Vapor	4	
+1100.00	-200.20	Vapor	1	
+1100.00	-200.15	Vapor	2	
+1100.00	-200.08	Vapor	4	
+1150.00	-201.69	Vapor	4	
+1150.00	-200.14	Vapor	3	
+1200.00	-203.39	Vapor	1	
+1200.00	-203.34	Vapor	2	
+1200.00	-203.26	Vapor	4	
+1200.00	-201.77	Vapor	3	
+1250.00	-204.77	Vapor	4	
+1250.00	-203.34	Vapor	3	
+1300.00	-206.38	Vapor	1	
+1300.00	-206.32	Vapor	2	
+1300.00	-206.23	Vapor	4	
+1400.00	-209.19	Vapor	1	
+1400.00	-209.13	Vapor	2	
+1400.00	-209.12	Vapor	3	
+1400.00	-209.02	Vapor	4	
+1500.00	-211.84	Vapor	1	
+1500.00	-211.78	Vapor	2	
+1500.00	-211.77	Vapor	3	
+1500.00	-211.65	Vapor	4	
+1600.00	-214.29	Vapor	2	
+1600.00	-214.28	Vapor	3	
+1700.00	-216.69	Vapor	2	
+1700.00	-216.67	Vapor	3	
+1800.00	-218.98	Vapor	2	
+1800.00	-218.96	Vapor	3	
+1900.00	-221.17	Vapor	2	
+1900.00	-221.15	Vapor	3	
+2000.00	-223.28	Vapor	2	
+2000.00	-223.26	Vapor	3	
+2100.00	-225.28	Vapor	3	
+2200.00	-227.26	Vapor	2	
+2200.00	-227.24	Vapor	3	
+2300.00	-229.13	Vapor	3	
+2400.00	-230.98	Vapor	2	
+2400.00	-230.95	Vapor	3	
+2500.00	-232.72	Vapor	3	
+2600.00	-234.48	Vapor	2	
+2600.00	-234.44	Vapor	3	
+2700.00	-236.10	Vapor	3	
+2800.00	-237.77	Vapor	2	
+2800.00	-237.72	Vapor	3	
+2900.00	-239.30	Vapor	3	
+3000.00	-240.89	Vapor	2	
+3000.00	-240.83	Vapor	3	
+3200.00	-243.85	Vapor	2	
+3200.00	-243.78	Vapor	3	
+3400.00	-246.68	Vapor	2	
+3400.00	-246.60	Vapor	3	
+3600.00	-249.38	Vapor	2	
+3600.00	-249.28	Vapor	3	
+3800.00	-251.96	Vapor	2	
+3800.00	-251.85	Vapor	3	
+4000.00	-254.44	Vapor	2	
+4000.00	-254.31	Vapor	3	
+4200.00	-256.83	Vapor	2	
+4200.00	-256.68	Vapor	3	
+4400.00	-259.12	Vapor	2	
+4400.00	-258.96	Vapor	3	
+4600.00	-261.34	Vapor	2	
+4600.00	-261.16	Vapor	3	
+4800.00	-263.48	Vapor	2	
+4800.00	-263.28	Vapor	3	
+5000.00	-265.55	Vapor	2	
+5000.00	-265.33	Vapor	3	
+5200.00	-267.55	Vapor	2	
+5400.00	-269.50	Vapor	2	
+5600.00	-271.39	Vapor	2	
+5800.00	-273.22	Vapor	2	
+6000.00	-275.00	Vapor	2	
+Number	Source	
+1	Brickwedde F.G.; Moskow M.; Aston J.G.: Equilibrium Constants of some Reactions Involved in the Production Of1,3-Butadiene.. J.Res. NBS 37 (1946) 263-279	
+2	McBride B.J.; Gordon S.: Thermodynamic functions of several triatomic molecules in the ideal gas state.. J.Chem.Phys. 35 (1961) 2198-2206	
+3	Friedman A.S.; Haar L.: High-speed machine computation of ideal gas thermodynamic functions.I. Isotopic water molecules.. J.Chem.Phys. 22 (1954) 2051-2058	
+4	Gordon A.R.: Calculation of thermodynamic quantities from spectroscopic data for polyatomic molecules; the free energy, entropy and heat capacity of steam.. J.Chem.Phys. 2 (1934) 65-72	
+$$$Heat of Fusion	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+272.85		6040.88	Solid-Liquid	6	
+273.10		6005.00	Solid-Liquid	5	
+273.10	100.000	6012.00	Solid-Liquid	4	
+273.15	101.325	5990.00	Solid-Liquid	3	
+273.15	101.325	6030.00	Solid-Liquid	1	
+273.20	101.325	6021.00	Solid-Liquid	2	
+Number	Source	
+1	Breuer K.-H.; Eysel W.: The Calorimetric Calibration of Differential Scanning Calorimetry Cells. Thermochim.Acta 57 (1982) 317-329	
+2	Handa Y.P.; Hawkins R.E.; Murray J.J.: Calibration and testing of a Tian-Calvet heat-flow calorimeter. Enthalpies of fusion and heat capacities for ice and tetrahydrofuran hydrate in the range 85 to 270 K.. J.Chem.Thermodyn. 16 (1984) 623-632	
+3	Maass O.; Waldbauer L.J.: The specific heats and latent heats of fusion of ice and several organic compounds.. J.Am.Chem.Soc. 47 (1925) 1-9	
+4	Giauque W.F.; Stout J.W.: The entropy of Water and the Third Law of Thermodynamics: The Heat Capacity of Ice from 15 to 273°K. J.Am.Chem.Soc. 58 (1936) 1144-1151	
+5	Nan Z.-D.; Tan Z.-C.: Thermodynamic investigation of the azeotropic mixture composed of water and benzene. Chin.J.Chem. 22 (2004) 4-8	
+6	Gupta A.; Lachance J.; Sloan Jr. E.D.; Koh C.A.: Measurements of Methane Hydrate Heat of Dissociation using High Pressure Differential Scanning Calorimetry. Chem.Eng.Sci. 63 (2008) 5848-5853	
+$$$Heat of Transition	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+	-160.90	Solid-Solid	1	
+Number	Source	
+1	Sugisaki M.; Suga H.; Seki S.: IV. Heat Capacities of Glassy Water and Cubic Ice. Bull.Chem.Soc.Japan 41 (1968) 2591-2599	
+$$$Heat of Vaporization	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+298.15	43850.00	Vapor-Liquid	4	
+298.15	43860.00	Vapor-Liquid	4	
+298.15	43900.00	Vapor-Liquid	4	
+298.15	43930.00	Vapor-Liquid	4	
+298.15	43950.00	Vapor-Liquid	4	
+298.15	44000.00	Vapor-Liquid	1	
+373.10	40700.00	Vapor-Liquid	2	
+373.15	40599.50	Vapor-Liquid	5	
+373.20	41110.00	Vapor-Liquid	3	
+Number	Source	
+1	Dionisio M.S.; Moura Ramos J.J.; Goncalves R.M.: The enthalpy and entropy of cavity formation in liquids and Corresponding States Principle. Can.J.Chem. 68 (1990) 1937-1949	
+2	Matyushov D.V.; Schmid R.: Properties of Liquids at the Boiling Point: Equation of State, Internal Pressure and Vaporization Entropy. Int.J.Phys.Chem.Ber.Bunsen-Ges. 98 (1994) 1590-1595	
+3	Sladkov I.B.: Critical Parameters of Strong Polar Inorganic Compounds. Zh.Prikl.Khim. 68 (1995) 534-541	
+4	An X.; Hu H.: Enthalpies of Vaporization of some Multichloro-Alkanes. Wuli-Huaxue-Xuebao 5 (1989) 565-571	
+5	Svoboda V.; Hynek V.; Vesely F.; Pick J.: Calorimeter for determination of heats of vaporization of pure substances.. Collect.Czech.Chem.Commun. 37 (1972) 3165-3173	
+$$$Ideal Gas Heat Capacity	
+T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference	
+50.00	33.316	Ideal Gas	3	
+60.00	33.31	Ideal Gas	3	
+70.00	33.305	Ideal Gas	3	
+80.00	33.304	Ideal Gas	3	
+90.00	33.30	Ideal Gas	3	
+100.00	33.304	Ideal Gas	2	
+110.00	33.306	Ideal Gas	3	
+120.00	33.31	Ideal Gas	3	
+130.00	33.31	Ideal Gas	3	
+140.00	33.31	Ideal Gas	3	
+150.00	33.315	Ideal Gas	3	
+160.00	33.32	Ideal Gas	3	
+170.00	33.32	Ideal Gas	3	
+180.00	33.31	Ideal Gas	3	
+190.00	33.33	Ideal Gas	3	
+200.00	33.34	Ideal Gas	2	
+210.00	33.35	Ideal Gas	3	
+220.00	33.36	Ideal Gas	3	
+230.00	33.376	Ideal Gas	3	
+240.00	33.394	Ideal Gas	3	
+250.00	33.415	Ideal Gas	3	
+260.00	33.44	Ideal Gas	3	
+270.00	33.47	Ideal Gas	3	
+273.15	33.48	Ideal Gas	2	
+280.00	33.50	Ideal Gas	3	
+290.00	33.54	Ideal Gas	3	
+298.15	33.47	Ideal Gas	4	
+298.15	33.576	Ideal Gas	2	
+298.16	33.59	Ideal Gas	1	
+300.00	33.48	Ideal Gas	4	
+300.00	33.584	Ideal Gas	2	
+300.00	33.635	Ideal Gas	1	
+310.00	33.63	Ideal Gas	3	
+320.00	33.68	Ideal Gas	3	
+330.00	33.74	Ideal Gas	3	
+340.00	33.80	Ideal Gas	3	
+350.00	33.75	Ideal Gas	4	
+350.00	33.865	Ideal Gas	3	
+360.00	33.934	Ideal Gas	3	
+370.00	34.01	Ideal Gas	3	
+380.00	34.084	Ideal Gas	3	
+390.00	34.164	Ideal Gas	3	
+400.00	34.12	Ideal Gas	4	
+400.00	34.25	Ideal Gas	2	
+400.00	34.27	Ideal Gas	1	
+400.00	34.56	Ideal Gas	5	
+450.00	34.56	Ideal Gas	4	
+450.00	34.70	Ideal Gas	3	
+500.00	35.06	Ideal Gas	4	
+500.00	35.206	Ideal Gas	3	
+500.00	35.21	Ideal Gas	2	
+500.00	35.23	Ideal Gas	1	
+500.00	35.355	Ideal Gas	5	
+550.00	35.58	Ideal Gas	4	
+550.00	35.74	Ideal Gas	3	
+600.00	36.13	Ideal Gas	4	
+600.00	36.30	Ideal Gas	3	
+600.00	36.306	Ideal Gas	2	
+600.00	36.32	Ideal Gas	5	
+600.00	36.34	Ideal Gas	1	
+650.00	36.70	Ideal Gas	4	
+650.00	36.87	Ideal Gas	3	
+700.00	37.28	Ideal Gas	4	
+700.00	37.36	Ideal Gas	5	
+700.00	37.46	Ideal Gas	3	
+700.00	37.47	Ideal Gas	2	
+700.00	37.52	Ideal Gas	1	
+750.00	37.88	Ideal Gas	4	
+750.00	38.065	Ideal Gas	3	
+800.00	38.45	Ideal Gas	5	
+800.00	38.49	Ideal Gas	4	
+800.00	38.68	Ideal Gas	3	
+800.00	38.70	Ideal Gas	2	
+800.00	38.76	Ideal Gas	1	
+850.00	39.11	Ideal Gas	4	
+850.00	39.31	Ideal Gas	3	
+900.00	39.58	Ideal Gas	5	
+900.00	39.735	Ideal Gas	4	
+900.00	39.94	Ideal Gas	3	
+900.00	39.96	Ideal Gas	2	
+900.00	40.04	Ideal Gas	1	
+950.00	40.37	Ideal Gas	4	
+950.00	40.575	Ideal Gas	3	
+1000.00	40.75	Ideal Gas	5	
+1000.00	41.00	Ideal Gas	4	
+1000.00	41.21	Ideal Gas	3	
+1000.00	41.24	Ideal Gas	2	
+1000.00	41.34	Ideal Gas	1	
+1050.00	41.62	Ideal Gas	4	
+1050.00	41.84	Ideal Gas	3	
+1100.00	41.92	Ideal Gas	5	
+1100.00	42.24	Ideal Gas	4	
+1100.00	42.51	Ideal Gas	2	
+1100.00	42.61	Ideal Gas	1	
+1150.00	42.47	Ideal Gas	3	
+1150.00	42.84	Ideal Gas	4	
+1200.00	43.05	Ideal Gas	5	
+1200.00	43.09	Ideal Gas	3	
+1200.00	43.44	Ideal Gas	4	
+1200.00	43.74	Ideal Gas	2	
+1200.00	43.85	Ideal Gas	1	
+1250.00	43.69	Ideal Gas	3	
+1250.00	44.02	Ideal Gas	4	
+1300.00	44.03	Ideal Gas	3	
+1300.00	44.585	Ideal Gas	4	
+1300.00	44.93	Ideal Gas	2	
+1300.00	45.03	Ideal Gas	1	
+1400.00	45.66	Ideal Gas	4	
+1400.00	45.965	Ideal Gas	3	
+1400.00	46.04	Ideal Gas	2	
+1400.00	46.15	Ideal Gas	1	
+1500.00	46.66	Ideal Gas	4	
+1500.00	47.00	Ideal Gas	3	
+1500.00	47.09	Ideal Gas	2	
+1500.00	47.19	Ideal Gas	1	
+1600.00	47.95	Ideal Gas	3	
+1600.00	48.07	Ideal Gas	2	
+1700.00	48.84	Ideal Gas	3	
+1700.00	48.97	Ideal Gas	2	
+1800.00	49.655	Ideal Gas	3	
+1800.00	49.81	Ideal Gas	2	
+1900.00	50.41	Ideal Gas	3	
+1900.00	50.59	Ideal Gas	2	
+2000.00	51.10	Ideal Gas	3	
+2000.00	51.31	Ideal Gas	2	
+2100.00	51.73	Ideal Gas	3	
+2200.00	52.32	Ideal Gas	3	
+2200.00	52.58	Ideal Gas	2	
+2300.00	52.86	Ideal Gas	3	
+2400.00	53.35	Ideal Gas	3	
+2400.00	53.69	Ideal Gas	2	
+2500.00	53.81	Ideal Gas	3	
+2600.00	54.24	Ideal Gas	3	
+2600.00	54.64	Ideal Gas	2	
+2700.00	54.63	Ideal Gas	3	
+2800.00	55.00	Ideal Gas	3	
+2800.00	55.48	Ideal Gas	2	
+2900.00	55.34	Ideal Gas	3	
+3000.00	55.66	Ideal Gas	3	
+3000.00	56.23	Ideal Gas	2	
+3200.00	56.23	Ideal Gas	3	
+3200.00	56.89	Ideal Gas	2	
+3400.00	56.74	Ideal Gas	3	
+3400.00	57.50	Ideal Gas	2	
+3600.00	57.19	Ideal Gas	3	
+3600.00	58.06	Ideal Gas	2	
+3800.00	57.59	Ideal Gas	3	
+3800.00	58.57	Ideal Gas	2	
+4000.00	57.94	Ideal Gas	3	
+4000.00	59.05	Ideal Gas	2	
+4200.00	58.27	Ideal Gas	3	
+4200.00	59.51	Ideal Gas	2	
+4400.00	58.56	Ideal Gas	3	
+4400.00	59.94	Ideal Gas	2	
+4600.00	58.83	Ideal Gas	3	
+4600.00	60.35	Ideal Gas	2	
+4800.00	59.07	Ideal Gas	3	
+4800.00	60.75	Ideal Gas	2	
+5000.00	59.30	Ideal Gas	3	
+5000.00	61.14	Ideal Gas	2	
+5200.00	61.52	Ideal Gas	2	
+5400.00	61.89	Ideal Gas	2	
+5600.00	62.25	Ideal Gas	2	
+5800.00	62.61	Ideal Gas	2	
+6000.00	62.97	Ideal Gas	2	
+Number	Source	
+1	Brickwedde F.G.; Moskow M.; Aston J.G.: Equilibrium Constants of some Reactions Involved in the Production Of1,3-Butadiene.. J.Res. NBS 37 (1946) 263-279	
+2	McBride B.J.; Gordon S.: Thermodynamic functions of several triatomic molecules in the ideal gas state.. J.Chem.Phys. 35 (1961) 2198-2206	
+3	Friedman A.S.; Haar L.: High-speed machine computation of ideal gas thermodynamic functions.I. Isotopic water molecules.. J.Chem.Phys. 22 (1954) 2051-2058	
+4	Gordon A.R.: Calculation of thermodynamic quantities from spectroscopic data for polyatomic molecules; the free energy, entropy and heat capacity of steam.. J.Chem.Phys. 2 (1934) 65-72	
+5	Gordon A.R.; Barnes C.: The entropy of steam, and the water-gas reaction.. J.Phys.Chem. 36 (1932) 1143-1151	
+$$$Kinematic Viscosity	
+T [K]	P [kPa]	Kinematic Viscosity [m2/s]	State	Reference	
+646.85	22100.000	1.17399999056E-07	Liquid	1	
+647.03	22100.000	1.19399999221E-07	Liquid	1	
+647.09	22100.000	1.21300004707E-07	Liquid	1	
+647.12	22100.000	1.26200006889E-07	Liquid	1	
+647.15	22100.000	1.34600000479E-07	Liquid	1	
+647.15	22100.000	1.34700002263E-07	Liquid	1	
+647.15	22200.000	1.18100004443E-07	Liquid	1	
+647.15	22300.000	1.16400002526E-07	Liquid	1	
+647.18	22100.000	1.34200007551E-07	Liquid	1	
+Number	Source	
+1	Rivkin S.L.; Levin A.Ya.; Izrailevskii L.B.: Experimentelle Untersuchung der Viskosität von Wasser nahe am  kritischen Punkt. Teplofiz.Svoistva Vesh.Mater.  (1976) 232-241	
+$$$Melting Point	
+T [K]	P [kPa]	State	Reference	
+273.00	101.325	Solid-Liquid	3	
+273.15		Solid-Liquid	5	
+273.15	0.6117	Solid-Liquid	2	
+273.20		Solid-Liquid	1	
+366.15	2240000.000	Crystal 7 > Liquid	4	
+426.15	3120000.000	Crystal 7 > Liquid	4	
+490.15	4280000.000	Crystal 7 > Liquid	4	
+509.15	4870000.000	Crystal 7 > Liquid	4	
+536.15	5520000.000	Crystal 7 > Liquid	4	
+558.65	6230000.000	Crystal 7 > Liquid	4	
+574.15	7030000.000	Crystal 7 > Liquid	4	
+584.65	7580000.000	Crystal 7 > Liquid	4	
+597.65	8520000.000	Crystal 7 > Liquid	4	
+612.15	9510000.000	Crystal 7 > Liquid	4	
+621.15	10520000.000	Crystal 7 > Liquid	4	
+635.15	11520000.000	Crystal 7 > Liquid	4	
+644.65	12500000.000	Crystal 7 > Liquid	4	
+659.65	13980000.000	Crystal 7 > Liquid	4	
+676.15	16020000.000	Crystal 7 > Liquid	4	
+693.15	17970000.000	Crystal 7 > Liquid	4	
+715.65	19910000.000	Crystal 7 > Liquid	4	
+Number	Source	
+1	Sladkov I.B.: Critical Parameters of Strong Polar Inorganic Compounds. Zh.Prikl.Khim. 68 (1995) 534-541	
+2	Saul A.; Wagner W.: International Equations for the Saturation Properties of Ordinary Water Substance. J.Phys.Chem.Ref.Data 16 (1987) 893-901	
+3	McMillan J.A.; Los S.C.: 1,1-Dimethylhydrazine-Water Solid-Liquid System. J.Phys.Chem. 71 (1967) 2132-2137	
+4	Pistorius C.W.F.T.; Pistorius M.C.; Blakey J.P.; Admiral L.J.: Melting Curve of Ice VII to 200 kbar. J.Chem.Phys. 38 (1963) 600-602	
+5	Zhang Y.; He Q.: Solid-Liquid Equilibrium Determination for Binary Systems Containing Butynediol and Water. Shiyou-huagong 20 (1991) 176-179	
+6	Pushin N.A.; Glagoleva A.A.: Methyl Alcohol, Pinacone, Glycerol, and Erythritol. J.Chem.Soc.London 121 (1922) 2813-2822	
+$$$Molar Heat Capacity (cP)	
+T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
+271.56	49033.000	72.79	Liquid	1	
+272.21	88260.000	71.09	Liquid	1	
+272.25	68647.000	71.83	Liquid	1	
+272.71	68647.000	71.84	Liquid	1	
+272.75	88260.000	71.10	Liquid	1	
+272.90	49033.000	72.82	Liquid	1	
+273.00	49033.000	72.77	Liquid	1	
+273.22	29420.000	74.05	Liquid	1	
+273.22	68647.000	71.91	Liquid	1	
+273.22	88260.000	71.11	Liquid	1	
+273.24	49033.000	72.79	Liquid	1	
+273.26	29420.000	73.99	Liquid	1	
+273.29	68647.000	71.83	Liquid	1	
+273.30	49033.000	72.71	Liquid	1	
+273.34	49033.000	72.92	Liquid	1	
+273.35	49033.000	72.79	Liquid	1	
+273.36	68647.000	71.79	Liquid	1	
+276.27	29420.000	73.85	Liquid	1	
+276.33	49033.000	72.76	Liquid	1	
+276.33	68647.000	71.97	Liquid	1	
+276.36	88260.000	71.22	Liquid	1	
+277.26	88260.000	71.19	Liquid	1	
+277.28	49033.000	72.86	Liquid	1	
+277.29	68647.000	71.87	Liquid	1	
+277.36	29420.000	73.86	Liquid	1	
+277.47	39227.000	73.29	Liquid	1	
+277.47	39227.000	73.30	Liquid	1	
+277.48	39227.000	73.28	Liquid	1	
+277.52	29420.000	73.83	Liquid	1	
+277.61	29420.000	73.73	Liquid	1	
+277.67	49033.000	72.73	Liquid	1	
+277.76	19613.000	74.44	Liquid	1	
+278.83	49033.000	72.86	Liquid	1	
+280.23	49033.000	72.87	Liquid	1	
+285.68	49033.000	72.89	Liquid	1	
+285.69	49033.000	72.89	Liquid	1	
+288.33	68647.000	72.23	Liquid	1	
+288.33	88260.000	71.63	Liquid	1	
+300.68	49033.000	73.11	Liquid	1	
+305.52	49033.000	73.22	Liquid	1	
+305.52	49033.000	73.25	Liquid	1	
+305.64	68647.000	72.60	Liquid	1	
+305.66	68647.000	72.63	Liquid	1	
+305.67	88260.000	72.09	Liquid	1	
+Number	Source	
+1	Sirota A.M.; Grishkov A.Ya.; Tomishko A.G.: Experimentelle Untersuchung der Wärmekapazität von  Wasser bei der Schmelzkurve. Teploenergetika  (1970) 60-64	
+$$$Molar Heat Capacity (cV)	
+T [K]	Molar Heat Capacity (Cv) [J/(mol*K)]	State	Reference	
+529.26	45.99	Vapor	1	
+529.45	45.46	Vapor	1	
+529.64	44.96	Vapor	1	
+529.82	45.00	Vapor	1	
+530.95	44.78	Vapor	1	
+532.82	44.15	Vapor	1	
+534.69	43.915	Vapor	1	
+536.23	46.38	Vapor	1	
+536.68	46.005	Vapor	1	
+538.41	42.89	Vapor	1	
+542.15	43.97	Vapor	1	
+543.15	43.59	Vapor	1	
+543.93	48.42	Vapor	1	
+544.11	47.45	Vapor	1	
+545.75	46.65	Vapor	1	
+547.56	41.48	Vapor	1	
+547.56	45.68	Vapor	1	
+549.37	45.12	Vapor	1	
+550.45	42.22	Vapor	1	
+551.17	42.08	Vapor	1	
+552.96	40.87	Vapor	1	
+553.68	49.95	Vapor	1	
+553.85	49.46	Vapor	1	
+554.74	40.60	Vapor	1	
+554.74	44.42	Vapor	1	
+556.52	47.59	Vapor	1	
+557.41	47.37	Vapor	1	
+558.29	43.99	Vapor	1	
+562.46	41.66	Vapor	1	
+562.68	45.50	Vapor	1	
+563.15	41.16	Vapor	1	
+563.50	41.16	Vapor	1	
+563.56	43.37	Vapor	1	
+563.56	45.23	Vapor	1	
+563.56	51.30	Vapor	1	
+563.70	50.92	Vapor	1	
+565.31	42.71	Vapor	1	
+565.31	45.12	Vapor	1	
+566.18	50.01	Vapor	1	
+567.05	42.04	Vapor	1	
+567.05	44.185	Vapor	1	
+567.05	50.17	Vapor	1	
+571.90	49.03	Vapor	1	
+572.26	41.54	Vapor	1	
+572.26	47.88	Vapor	1	
+573.15	40.53	Vapor	1	
+573.99	38.96	Vapor	1	
+573.99	41.63	Vapor	1	
+575.02	40.08	Vapor	1	
+575.02	43.30	Vapor	1	
+575.36	39.95	Vapor	1	
+575.36	42.89	Vapor	1	
+575.36	47.70	Vapor	1	
+575.71	38.815	Vapor	1	
+575.71	40.98	Vapor	1	
+576.05	47.21	Vapor	1	
+577.43	38.62	Vapor	1	
+577.43	42.725	Vapor	1	
+577.70	54.83	Vapor	1	
+578.15	42.98	Vapor	1	
+579.14	53.70	Vapor	1	
+581.70	51.79	Vapor	1	
+582.55	46.58	Vapor	1	
+582.55	51.43	Vapor	1	
+583.15	46.17	Vapor	1	
+583.40	39.446	Vapor	1	
+588.15	39.175	Vapor	1	
+588.15	41.84	Vapor	1	
+589.31	40.31	Vapor	1	
+589.31	49.46	Vapor	1	
+590.99	44.40	Vapor	1	
+590.99	48.89	Vapor	1	
+592.66	44.69	Vapor	1	
+593.15	38.635	Vapor	1	
+594.33	41.68	Vapor	1	
+596.00	37.25	Vapor	1	
+596.00	39.536	Vapor	1	
+596.83	38.51	Vapor	1	
+596.83	44.24	Vapor	1	
+597.66	36.96	Vapor	1	
+597.66	38.33	Vapor	1	
+597.66	40.47	Vapor	1	
+597.66	47.48	Vapor	1	
+598.15	47.75	Vapor	1	
+599.32	38.94	Vapor	1	
+600.97	38.06	Vapor	1	
+600.97	40.455	Vapor	1	
+603.15	40.33	Vapor	1	
+604.26	38.635	Vapor	1	
+605.90	38.80	Vapor	1	
+607.53	46.69	Vapor	1	
+608.15	46.55	Vapor	1	
+609.16	36.15	Vapor	1	
+609.16	46.94	Vapor	1	
+610.79	36.31	Vapor	1	
+612.41	45.86	Vapor	1	
+613.15	37.25	Vapor	1	
+613.15	45.63	Vapor	1	
+613.22	39.43	Vapor	1	
+613.26	42.11	Vapor	1	
+613.87	39.19	Vapor	1	
+614.10	40.89	Vapor	1	
+615.64	38.20	Vapor	1	
+617.25	37.88	Vapor	1	
+620.45	44.455	Vapor	1	
+622.05	35.28	Vapor	1	
+622.05	44.33	Vapor	1	
+625.23	37.734	Vapor	1	
+628.15	41.05	Vapor	1	
+628.56	41.21	Vapor	1	
+631.56	42.62	Vapor	1	
+633.13	42.185	Vapor	1	
+633.15	35.88	Vapor	1	
+633.15	38.365	Vapor	1	
+634.70	42.08	Vapor	1	
+636.26	42.185	Vapor	1	
+637.82	37.25	Vapor	1	
+639.38	36.85	Vapor	1	
+642.48	34.65	Vapor	1	
+642.48	35.75	Vapor	1	
+642.48	36.995	Vapor	1	
+642.48	40.094	Vapor	1	
+643.15	39.93	Vapor	1	
+644.03	34.544	Vapor	1	
+644.03	36.454	Vapor	1	
+645.57	42.08	Vapor	1	
+646.80	33.43	Vapor	1	
+647.11	36.24	Vapor	1	
+647.11	41.57	Vapor	1	
+648.65	34.87	Vapor	1	
+650.18	34.256	Vapor	1	
+651.71	36.11	Vapor	1	
+651.71	41.25	Vapor	1	
+653.23	38.74	Vapor	1	
+653.23	40.96	Vapor	1	
+654.75	35.734	Vapor	1	
+654.75	39.19	Vapor	1	
+663.80	34.74	Vapor	1	
+665.30	34.51	Vapor	1	
+666.80	34.85	Vapor	1	
+666.80	35.535	Vapor	1	
+666.80	36.65	Vapor	1	
+668.30	33.86	Vapor	1	
+668.30	34.69	Vapor	1	
+668.30	36.274	Vapor	1	
+670.55	34.454	Vapor	1	
+671.30	34.33	Vapor	1	
+671.30	37.986	Vapor	1	
+671.30	40.49	Vapor	1	
+672.80	38.11	Vapor	1	
+672.80	40.275	Vapor	1	
+673.15	33.733	Vapor	1	
+673.15	36.33	Vapor	1	
+683.15	34.89	Vapor	1	
+683.15	39.734	Vapor	1	
+683.80	40.02	Vapor	1	
+686.30	37.25	Vapor	1	
+687.80	37.10	Vapor	1	
+688.38	33.986	Vapor	1	
+691.90	33.30	Vapor	1	
+691.90	33.77	Vapor	1	
+693.15	35.535	Vapor	1	
+694.47	35.39	Vapor	1	
+698.15	38.42	Vapor	1	
+699.80	38.69	Vapor	1	
+701.30	36.49	Vapor	1	
+702.80	36.346	Vapor	1	
+713.15	33.97	Vapor	1	
+716.30	33.46	Vapor	1	
+719.30	33.23	Vapor	1	
+719.30	33.57	Vapor	1	
+723.15	34.51	Vapor	1	
+723.15	35.46	Vapor	1	
+723.15	37.55	Vapor	1	
+725.30	37.14	Vapor	1	
+728.30	34.42	Vapor	1	
+728.30	35.43	Vapor	1	
+729.80	36.83	Vapor	1	
+732.80	36.53	Vapor	1	
+734.30	33.16	Vapor	1	
+734.30	33.52	Vapor	1	
+734.30	33.68	Vapor	1	
+750.05	33.10	Vapor	1	
+753.15	34.20	Vapor	1	
+753.15	36.02	Vapor	1	
+753.80	32.94	Vapor	1	
+753.80	33.39	Vapor	1	
+753.80	34.98	Vapor	1	
+753.80	35.77	Vapor	1	
+754.55	33.07	Vapor	1	
+756.27	33.86	Vapor	1	
+756.30	34.87	Vapor	1	
+756.42	33.896	Vapor	1	
+757.80	33.914	Vapor	1	
+757.80	34.92	Vapor	1	
+773.15	34.85	Vapor	1	
+777.30	32.94	Vapor	1	
+777.30	33.28	Vapor	1	
+777.30	34.616	Vapor	1	
+778.80	33.86	Vapor	1	
+783.15	33.79	Vapor	1	
+787.80	33.57	Vapor	1	
+793.15	33.01	Vapor	1	
+793.15	33.19	Vapor	1	
+795.30	33.10	Vapor	1	
+796.80	32.977	Vapor	1	
+796.80	34.346	Vapor	1	
+798.15	33.88	Vapor	1	
+798.30	35.085	Vapor	1	
+801.30	34.80	Vapor	1	
+803.15	32.886	Vapor	1	
+803.15	32.92	Vapor	1	
+803.15	34.24	Vapor	1	
+813.15	32.814	Vapor	1	
+817.80	33.46	Vapor	1	
+818.15	33.39	Vapor	1	
+819.30	34.67	Vapor	1	
+823.15	32.724	Vapor	1	
+823.15	33.39	Vapor	1	
+823.15	33.70	Vapor	1	
+823.15	34.815	Vapor	1	
+833.15	32.724	Vapor	1	
+833.15	33.085	Vapor	1	
+833.15	33.61	Vapor	1	
+843.15	34.166	Vapor	1	
+845.30	32.886	Vapor	1	
+845.30	33.16	Vapor	1	
+845.30	33.23	Vapor	1	
+845.30	33.50	Vapor	1	
+846.80	33.01	Vapor	1	
+846.80	34.04	Vapor	1	
+848.30	34.47	Vapor	1	
+852.80	34.69	Vapor	1	
+853.15	32.92	Vapor	1	
+864.80	32.92	Vapor	1	
+866.30	32.96	Vapor	1	
+866.30	33.05	Vapor	1	
+866.80	32.886	Vapor	1	
+868.80	33.16	Vapor	1	
+869.30	34.47	Vapor	1	
+870.80	33.355	Vapor	1	
+870.80	34.04	Vapor	1	
+872.30	32.83	Vapor	1	
+872.30	33.32	Vapor	1	
+873.15	32.96	Vapor	1	
+873.15	33.896	Vapor	1	
+873.15	34.346	Vapor	1	
+Number	Source	
+1	Kerimov A.M.; Alieva M.K.: Untersuchung der Wärmekapazität von Wasserdampf. Teploenergetika  (1975) 58-60	
+$$$Molar Polarization	
+T [K]	Molar Polarization [ccm/mol]	State	Reference	
+303.15	17.410	Liquid	1	
+Number	Source	
+1	Hovermale R.A.; Sears P.G.; Plucknett W.K.: Polarizations and Refractions of some n-Methylacetamide-N-Alcohol Systems. J.Chem.Eng.Data 8 (1963) 490-493	
+$$$Molar Saturation Heat Capacity	
+T [K]	Molar Saturation Heat Capacity (CS) [J/(mol*K)]	State	Reference	
+613.15	223.990	Vapor Phase of VLE	1	
+623.15	308.320	Vapor Phase of VLE	1	
+633.15	514.110	Vapor Phase of VLE	1	
+Number	Source	
+1	Sirota A.M.; Maltsev B.K.: Experimentelle Untersuchung der Wärmekapazität von Wasserdampf. Teploenergetika  (1962) 70-73	
+$$$Speed of Sound	
+T [K]	Ultrasonic Velocity [m/s]	State	Reference	
+273.15	1413.000	Liquid	6	
+283.00	1447.300	Liquid	5	
+288.00	1465.900	Liquid	5	
+288.15	1465.940	Liquid	3	
+288.15	1492.000	Liquid	6	
+293.00	1482.400	Liquid	5	
+293.15	1482.360	Liquid	3	
+293.15	1482.500	Liquid	1	
+298.00	1496.700	Liquid	5	
+298.15	1496.700	Liquid	3	
+298.15	1498.000	Liquid	2	
+298.15	1500.000	Liquid	6	
+303.00	1509.100	Liquid	5	
+303.15	1509.140	Liquid	3	
+308.15	1519.360	Liquid	4	
+308.15	1519.830	Liquid	3	
+313.15	1528.580	Liquid	4	
+313.15	1528.880	Liquid	3	
+318.15	1535.480	Liquid	4	
+318.15	1536.420	Liquid	3	
+Number	Source	
+1	Jelinska-Kazimierczuk M.; Szydlowski J.: Influence of H/D isotope substitution on physicochemical properties of aqueous solutions of urea and thiourea. Pol.J.Chem. 75 (2001) 115-125	
+2	Willard G W.: Temperature Coefficients of Ultrasonic Velocity in Solutions. J.Acoust.Soc.Am. 19 (1947) 235-241	
+3	Mendonca A.F.S.S.; Dias S.M.A.; Dias F.A.; Barata B.A.S.; Lampreia I.M.S.: Temperature dependenece of thermodynamic properties of leucyl-glycine aqueous solutions from 15 to 45 °C. Fluid Phase Equilib. 212 (2003) 67-79	
+4	Victor P.J.; Hazra D.K.: Excess Molar Volumes, Viscosity Deviations, and Isentropic Compressibility Changes in Binary Mixtures of N-Methylacetamide + 2-Methoxyethanol and N-Methylacetamide + Water at (308.15, 313.15, and 318.15) K. J.Chem.Eng.Data 47 (2002) 79-82	
+5	Lampreia I.M.S.; Dias F.A.; Joao A.Barbas M.; Mendonca A.F.S.S.: Isobaric expansions and isentropic compressions of aqueous binary mixtures of 2-diethylaminoethanol from 283 to 303 K. Phys.Chem.Chem.Phys. (PCCP) 5 (2003) 1419-1425	
+6	Dale W.D.; Flavelle P.A.; Kruus P.: Concentration Fluctuations in Water-Methanol Mixtures a Studied by Ultrasonic Absorption. Can.J.Chem. 54 (1976) 355-366	
+$$$Std. Heat of Formation	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+298.15	101.325	-286000.00	Liquid	1	
+Number	Source	
+1	Rossini F.D.: The Heat of Formation of Water. Bur.Stand.J.Res. 6 (1931) 1-35	
+$$$Surface Tension	
+T [K]	Surface Tension [mN/m]	State	Reference	
+245.95	79.8600	Liquid	5	
+247.75	78.8100	Liquid	5	
+249.55	77.5700	Liquid	5	
+251.05	79.0000	Liquid	5	
+253.05	78.2100	Liquid	5	
+253.15	78.8200	Liquid	5	
+254.35	78.6400	Liquid	5	
+254.65	78.3200	Liquid	5	
+255.65	78.2700	Liquid	5	
+257.35	78.1700	Liquid	5	
+257.85	78.0700	Liquid	5	
+259.05	77.5900	Liquid	5	
+259.65	77.8100	Liquid	5	
+260.65	77.5200	Liquid	5	
+262.05	76.8700	Liquid	5	
+262.55	76.5100	Liquid	5	
+262.55	77.7700	Liquid	5	
+262.65	77.2900	Liquid	5	
+263.35	77.3700	Liquid	5	
+264.05	76.9900	Liquid	5	
+265.15	77.2400	Liquid	5	
+265.55	76.8800	Liquid	5	
+267.45	76.3900	Liquid	5	
+267.85	77.0400	Liquid	5	
+268.15	76.0100	Liquid	5	
+268.15	76.9600	Liquid	5	
+269.55	75.8200	Liquid	5	
+269.75	76.4500	Liquid	5	
+269.95	76.1200	Liquid	5	
+271.35	75.8700	Liquid	5	
+272.15	75.5000	Liquid	5	
+273.45	75.8600	Liquid	5	
+273.55	75.5900	Liquid	1	
+273.65	75.4400	Liquid	5	
+274.65	75.6700	Liquid	5	
+274.75	75.5000	Liquid	5	
+275.45	75.0700	Liquid	5	
+276.67	75.2400	Liquid	1	
+276.85	74.8900	Liquid	5	
+276.85	75.8000	Liquid	5	
+276.89	75.1400	Liquid	1	
+277.45	75.4300	Liquid	5	
+277.95	75.4200	Liquid	5	
+278.75	74.8500	Liquid	5	
+279.81	74.6600	Liquid	1	
+279.97	74.6100	Liquid	1	
+280.45	75.0500	Liquid	5	
+280.55	74.2000	Liquid	5	
+282.75	74.4500	Liquid	5	
+283.15	74.3300	Liquid	6	
+283.16	74.1600	Liquid	1	
+283.19	74.1600	Liquid	1	
+285.25	73.9600	Liquid	5	
+286.08	73.7600	Liquid	1	
+286.16	73.7300	Liquid	1	
+287.15	73.9400	Liquid	5	
+288.15	73.5300	Liquid	6	
+289.27	73.3300	Liquid	1	
+289.35	73.4100	Liquid	5	
+290.05	73.0600	Liquid	1	
+290.33	73.1710	Liquid	1	
+290.60	73.0600	Liquid	1	
+292.76	72.7800	Liquid	1	
+292.78	72.7500	Liquid	1	
+293.15	72.7500	Liquid	3	
+293.15	72.7600	Liquid	6	
+297.15	71.5000	Liquid	4	
+297.95	72.0000	Liquid	5	
+298.05	72.0000	Liquid	5	
+298.15	71.8700	Liquid	2	
+298.15	71.9700	Liquid	3	
+298.15	72.0000	Liquid	5	
+298.15	72.0200	Liquid	6	
+298.55	72.0000	Liquid	5	
+302.85	71.5500	Liquid	5	
+303.15	71.0300	Liquid	2	
+303.15	71.1800	Liquid	3	
+303.59	71.0700	Liquid	1	
+303.72	71.0600	Liquid	1	
+306.45	70.4500	Liquid	5	
+308.15	70.2300	Liquid	2	
+308.15	70.3500	Liquid	6	
+310.35	70.0000	Liquid	5	
+313.15	69.4100	Liquid	2	
+313.15	69.5600	Liquid	3	
+313.62	69.6400	Liquid	1	
+313.62	69.6800	Liquid	1	
+314.05	69.1900	Liquid	5	
+316.15	69.4600	Liquid	5	
+321.15	68.1100	Liquid	5	
+321.55	68.3700	Liquid	5	
+323.48	67.9000	Liquid	1	
+323.49	67.8900	Liquid	1	
+326.15	67.6700	Liquid	5	
+328.15	68.5900	Liquid	2	
+328.55	67.0000	Liquid	5	
+333.15	65.6600	Liquid	5	
+333.15	65.8600	Liquid	5	
+333.15	66.1800	Liquid	3	
+333.42	66.1800	Liquid	1	
+333.43	66.1700	Liquid	1	
+343.26	64.4300	Liquid	1	
+343.27	64.4000	Liquid	1	
+352.84	62.6500	Liquid	1	
+352.84	62.7100	Liquid	1	
+353.41	62.5400	Liquid	1	
+353.43	62.5200	Liquid	1	
+362.29	60.8700	Liquid	1	
+362.30	60.8600	Liquid	1	
+368.21	59.9400	Liquid	1	
+368.23	59.9500	Liquid	1	
+383.31	56.9900	Liquid	1	
+383.31	57.0000	Liquid	1	
+394.88	54.6300	Liquid	1	
+394.89	54.6400	Liquid	1	
+403.89	52.7500	Liquid	1	
+403.89	52.7600	Liquid	1	
+413.17	50.8000	Liquid	1	
+413.17	50.8100	Liquid	1	
+424.68	48.3200	Liquid	1	
+424.69	48.3500	Liquid	1	
+426.45	48.0100	Liquid	1	
+433.70	46.5200	Liquid	1	
+443.68	44.3800	Liquid	1	
+443.68	44.3900	Liquid	1	
+453.41	41.9900	Liquid	1	
+453.42	41.9800	Liquid	1	
+455.79	41.2900	Liquid	1	
+455.81	41.3000	Liquid	1	
+463.73	39.7100	Liquid	1	
+463.74	39.7400	Liquid	1	
+473.49	37.5100	Liquid	1	
+476.09	36.8200	Liquid	1	
+476.10	36.8100	Liquid	1	
+483.64	35.2200	Liquid	1	
+493.32	32.9800	Liquid	1	
+493.37	32.9700	Liquid	1	
+503.37	30.4100	Liquid	1	
+503.38	30.4300	Liquid	1	
+513.04	28.4200	Liquid	1	
+513.05	28.3900	Liquid	1	
+524.71	25.6400	Liquid	1	
+524.74	25.6300	Liquid	1	
+534.61	23.2400	Liquid	1	
+536.75	22.6400	Liquid	1	
+536.76	22.6300	Liquid	1	
+543.66	21.1100	Liquid	1	
+543.67	21.1400	Liquid	1	
+552.20	18.9300	Liquid	1	
+552.23	18.9000	Liquid	1	
+553.77	18.7300	Liquid	1	
+553.79	18.7200	Liquid	1	
+562.11	16.6200	Liquid	1	
+568.64	15.3300	Liquid	1	
+568.65	15.3300	Liquid	1	
+571.84	14.5200	Liquid	1	
+571.85	14.5200	Liquid	1	
+582.80	12.1300	Liquid	1	
+582.83	12.1000	Liquid	1	
+588.44	10.7200	Liquid	1	
+588.45	10.7100	Liquid	1	
+592.67	9.8800	Liquid	1	
+592.68	9.8800	Liquid	1	
+595.00	9.4800	Liquid	1	
+595.01	9.4800	Liquid	1	
+599.35	8.3700	Liquid	1	
+599.38	8.3700	Liquid	1	
+602.33	7.7300	Liquid	1	
+602.49	7.7400	Liquid	1	
+604.98	7.2100	Liquid	1	
+605.00	7.2100	Liquid	1	
+607.64	6.6500	Liquid	1	
+609.04	6.3900	Liquid	1	
+609.05	6.3800	Liquid	1	
+612.33	5.7200	Liquid	1	
+612.35	5.7200	Liquid	1	
+614.02	5.4700	Liquid	1	
+614.03	5.4700	Liquid	1	
+619.31	4.3500	Liquid	1	
+619.34	4.3500	Liquid	1	
+620.21	4.1900	Liquid	1	
+620.23	4.1800	Liquid	1	
+621.77	3.9100	Liquid	1	
+621.80	3.9000	Liquid	1	
+623.15	3.6400	Liquid	1	
+623.18	3.6500	Liquid	1	
+624.26	3.4200	Liquid	1	
+624.28	3.4200	Liquid	1	
+626.52	3.0100	Liquid	1	
+626.53	3.0200	Liquid	1	
+626.53	3.0800	Liquid	1	
+626.57	3.0800	Liquid	1	
+629.01	2.5800	Liquid	1	
+629.02	2.5800	Liquid	1	
+629.11	2.5800	Liquid	1	
+629.13	2.5700	Liquid	1	
+631.10	2.2600	Liquid	1	
+631.35	2.2500	Liquid	1	
+632.57	1.9200	Liquid	1	
+632.57	1.9300	Liquid	1	
+633.77	1.7200	Liquid	1	
+633.85	1.6900	Liquid	1	
+634.07	1.7200	Liquid	1	
+635.59	1.4000	Liquid	1	
+635.60	1.5600	Liquid	1	
+637.57	1.1300	Liquid	1	
+637.58	1.2600	Liquid	1	
+639.44	0.8600	Liquid	1	
+639.45	0.8600	Liquid	1	
+640.65	0.8300	Liquid	1	
+641.52	0.6100	Liquid	1	
+641.57	0.6000	Liquid	1	
+641.75	0.6600	Liquid	1	
+641.79	0.6600	Liquid	1	
+642.40	0.5000	Liquid	1	
+642.41	0.4900	Liquid	1	
+642.88	0.5000	Liquid	1	
+643.06	0.4900	Liquid	1	
+643.53	0.4100	Liquid	1	
+643.54	0.4000	Liquid	1	
+Number	Source	
+1	Vargaftik N.B.; Volyak L.D.; Volkov B.N.: Untersuchung der Oberflächespannung  von H2O und D2O bei der nahe zu kritischen Temperaturen. Teploenergetika  (1973) 80-82	
+2	Fu D.; Lu J.-F.; Bao T.-Z.; Li Y.-G.: Investigation of surface tension and interfacial tension in surfactant solutions by SAFT. Ind.Eng.Chem.Res. 39 (2000) 320-327	
+3	Goncalves F.A.; Kestin J.; Sengers J.V.: Surface-Tension Effects in Suspended-Level Capillary Viscometers. Int.J.Thermophys. 12 (1991) 1013-1028	
+4	Kim K.J.; Berman N.S.; Wood B.D.: Surface Tension of Aqueous Lithium Bromide + 2-Ethyl-1-hexanol. J.Chem.Eng.Data 39 (1994) 122-124	
+5	Floriano M.A.; Angell C.A.: Surface Tension and Molar Surface Free Energy and Entropy of Water to -27.2°C. J.Phys.Chem. 94 (1990) 4199-4202	
+6	Nikitas P.; Pappa-Louisi A.: Thermodynamic and Modelistic Study of Surface Solution: Aqueous Solutions Containing 2-Butanol. J.Phys.Chem. 94 (1990) 361-370	
+$$$Thermal Conductivity	
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
+706.90	29500.000	0.1461	Vapor	1	
+706.90	49100.000	0.3430	Vapor	1	
+707.10	29500.000	0.1452	Vapor	1	
+707.10	39300.000	0.2610	Vapor	1	
+707.10	39300.000	0.2620	Vapor	1	
+707.10	49100.000	0.3420	Vapor	1	
+707.30	9900.000	0.0691	Vapor	1	
+707.30	19700.000	0.0914	Vapor	1	
+707.30	29500.000	0.1458	Vapor	1	
+707.30	39300.000	0.2630	Vapor	1	
+707.30	58900.000	0.3870	Vapor	1	
+707.40	58900.000	0.3880	Vapor	1	
+772.90	29500.000	0.1124	Vapor	1	
+772.90	29500.000	0.1127	Vapor	1	
+772.90	39300.000	0.1490	Vapor	1	
+773.00	39300.000	0.1492	Vapor	1	
+773.10	49100.000	0.1970	Vapor	1	
+773.20	49100.000	0.2022	Vapor	1	
+773.20	58900.000	0.2550	Vapor	1	
+773.30	58900.000	0.2540	Vapor	1	
+832.70	9900.000	0.0844	Vapor	1	
+832.70	19700.000	0.0929	Vapor	1	
+832.70	29500.000	0.1083	Vapor	1	
+832.70	29500.000	0.1085	Vapor	1	
+832.70	39300.000	0.1298	Vapor	1	
+832.80	49100.000	0.1541	Vapor	1	
+832.90	39300.000	0.1275	Vapor	1	
+832.90	39300.000	0.1279	Vapor	1	
+833.00	49100.000	0.1537	Vapor	1	
+833.00	49100.000	0.1539	Vapor	1	
+833.20	58900.000	0.1882	Vapor	1	
+833.40	19700.000	0.0931	Vapor	1	
+833.40	19700.000	0.0939	Vapor	1	
+886.20	49100.000	0.1442	Vapor	1	
+886.20	49100.000	0.1450	Vapor	1	
+886.30	58900.000	0.1673	Vapor	1	
+886.30	58900.000	0.1690	Vapor	1	
+886.40	29500.000	0.1092	Vapor	1	
+886.40	29500.000	0.1104	Vapor	1	
+886.50	39300.000	0.1232	Vapor	1	
+886.50	39300.000	0.1238	Vapor	1	
+886.90	9900.000	0.0878	Vapor	1	
+886.90	9900.000	0.0892	Vapor	1	
+886.90	29500.000	0.1128	Vapor	1	
+886.90	39300.000	0.1281	Vapor	1	
+886.90	49100.000	0.1439	Vapor	1	
+886.90	58900.000	0.1700	Vapor	1	
+887.00	19700.000	0.0991	Vapor	1	
+887.00	19700.000	0.0992	Vapor	1	
+913.30	49100.000	0.1434	Vapor	1	
+913.30	49100.000	0.1435	Vapor	1	
+913.30	58900.000	0.1650	Vapor	1	
+913.40	58900.000	0.1651	Vapor	1	
+913.80	9900.000	0.0922	Vapor	1	
+913.80	9900.000	0.0937	Vapor	1	
+913.90	19700.000	0.1029	Vapor	1	
+913.90	19700.000	0.1030	Vapor	1	
+913.90	29500.000	0.1132	Vapor	1	
+913.90	29500.000	0.1135	Vapor	1	
+914.00	39300.000	0.1264	Vapor	1	
+914.00	39300.000	0.1279	Vapor	1	
+967.10	29500.000	0.1206	Vapor	1	
+967.10	29500.000	0.1211	Vapor	1	
+967.10	39300.000	0.1310	Vapor	1	
+967.10	58900.000	0.1606	Vapor	1	
+967.10	58900.000	0.1609	Vapor	1	
+967.20	9900.000	0.0990	Vapor	1	
+967.20	19700.000	0.1087	Vapor	1	
+967.20	19700.000	0.1089	Vapor	1	
+967.20	49100.000	0.1449	Vapor	1	
+967.20	49100.000	0.1456	Vapor	1	
+1002.80	29500.000	0.1240	Vapor	1	
+1002.80	29500.000	0.1243	Vapor	1	
+1002.80	39300.000	0.1352	Vapor	1	
+1002.80	39300.000	0.1358	Vapor	1	
+1002.90	49100.000	0.1474	Vapor	1	
+1002.90	49100.000	0.1475	Vapor	1	
+1003.00	9900.000	0.1035	Vapor	1	
+1003.00	19700.000	0.1141	Vapor	1	
+1003.00	19700.000	0.1142	Vapor	1	
+1003.40	58900.000	0.1624	Vapor	1	
+1003.40	58900.000	0.1627	Vapor	1	
+1071.80	9900.000	0.1168	Vapor	1	
+1071.80	29500.000	0.1314	Vapor	1	
+1071.90	19700.000	0.1217	Vapor	1	
+1071.90	39300.000	0.1429	Vapor	1	
+1071.90	49100.000	0.1543	Vapor	1	
+1071.90	58900.000	0.1671	Vapor	1	
+Number	Source	
+1	Popov V.N.; Tyurin M.P.: Ergebnisse experimenteller Untersuchung der Wärmeleitfähigkeit von Wasserdampf bei hohen Parametern (bis p=100 MPa und T=1070K). Teplofiz.Svoistva Vesh.Mater.  (1980) 51-59	
+$$$Transition Temperature	
+T [K]	P [kPa]	State	Reference	
+135.00		Glass > Crystal	1	
+194.35	165732.000	Crystal 2 > Crystal 1	2	
+194.35	174558.000	Crystal 2 > Crystal 1	2	
+196.65	163771.000	Crystal 2 > Crystal 1	2	
+203.65	198094.000	Crystal 2 > Crystal 1	2	
+206.35	191230.000	Crystal 2 > Crystal 1	2	
+207.55	181423.000	Crystal 2 > Crystal 1	2	
+207.95	192210.000	Crystal 2 > Crystal 1	2	
+208.45	192210.000	Crystal 2 > Crystal 1	2	
+209.45	187307.000	Crystal 2 > Crystal 1	2	
+211.15	196133.000	Crystal 3 > Crystal 1	2	
+211.95	205940.000	Crystal 3 > Crystal 1	2	
+213.95	186326.000	Crystal 2 > Crystal 1	2	
+214.45	186326.000	Crystal 2 > Crystal 1	2	
+214.45	194172.000	Crystal 2 > Crystal 1	2	
+215.15	196133.000	Crystal 2 > Crystal 1	2	
+218.65	200056.000	Crystal 2 > Crystal 1	2	
+219.05	195152.000	Crystal 2 > Crystal 1	2	
+219.55	196133.000	Crystal 2 > Crystal 1	2	
+219.75	196133.000	Crystal 2 > Crystal 1	2	
+220.15	199075.000	Crystal 2 > Crystal 1	2	
+220.65	205940.000	Crystal 3 > Crystal 1	2	
+220.95	193191.000	Crystal 2 > Crystal 1	2	
+221.05	194172.000	Crystal 2 > Crystal 1	2	
+221.65	198094.000	Crystal 2 > Crystal 1	2	
+223.15	197114.000	Crystal 2 > Crystal 1	2	
+223.15	206920.000	Crystal 3 > Crystal 1	2	
+224.15	202017.000	Crystal 2 > Crystal 1	2	
+226.45	201036.000	Crystal 2 > Crystal 1	2	
+226.75	202998.000	Crystal 2 > Crystal 1	2	
+227.15	213687.000	Crystal 3 > Crystal 1	2	
+227.45	200056.000	Crystal 2 > Crystal 1	2	
+227.65	202017.000	Crystal 2 > Crystal 1	2	
+229.65	208882.000	Crystal 3 > Crystal 1	2	
+230.65	210843.000	Crystal 3 > Crystal 1	2	
+232.35	208882.000	Crystal 2 > Crystal 1	2	
+233.05	205940.000	Crystal 2 > Crystal 1	2	
+233.15	208882.000	Crystal 2 > Crystal 1	2	
+233.65	207901.000	Crystal 2 > Crystal 1	2	
+234.55	207901.000	Crystal 3 > Crystal 1	2	
+234.75	208882.000	Crystal 3 > Crystal 1	2	
+235.15	206920.000	Crystal 2 > Crystal 1	2	
+235.95	213981.000	Crystal 3 > Crystal 1	2	
+236.25	206920.000	Crystal 2 > Crystal 1	2	
+237.85	344606.000	Crystal 3 > Crystal 5	2	
+239.15	411879.000	Crystal 2 > Crystal 5	2	
+239.35	212804.000	Crystal 3 > Crystal 1	2	
+239.75	212804.000	Crystal 3 > Crystal 1	2	
+239.75	224572.000	Crystal 3 > Crystal 2	2	
+240.15	211824.000	Crystal 3 > Crystal 1	2	
+240.35	210843.000	Crystal 3 > Crystal 1	2	
+240.55	210843.000	Crystal 3 > Crystal 1	2	
+241.15	210843.000	Crystal 3 > Crystal 1	2	
+241.45	210843.000	Crystal 3 > Crystal 1	2	
+241.65	212118.000	Crystal 3 > Crystal 1	2	
+242.15	206920.000	Crystal 3 > Crystal 1	2	
+242.15	253012.000	Crystal 3 > Crystal 2	2	
+242.45	206920.000	Crystal 3 > Crystal 1	2	
+242.65	389324.000	Crystal 2 > Crystal 5	2	
+244.15	345881.000	Crystal 3 > Crystal 5	2	
+244.45	210843.000	Crystal 3 > Crystal 1	2	
+245.05	210843.000	Crystal 3 > Crystal 1	2	
+245.15	285374.000	Crystal 3 > Crystal 2	2	
+245.35	211137.000	Crystal 3 > Crystal 1	2	
+245.45	372653.000	Crystal 2 > Crystal 5	2	
+245.55	206920.000	Crystal 3 > Crystal 1	2	
+246.45	209862.000	Crystal 3 > Crystal 1	2	
+246.65	207901.000	Crystal 3 > Crystal 1	2	
+246.75	207901.000	Crystal 3 > Crystal 1	2	
+247.15	315774.000	Crystal 3 > Crystal 2	2	
+247.25	205940.000	Crystal 3 > Crystal 1	2	
+247.35	357943.000	Crystal 2 > Crystal 5	2	
+247.90	207901.000	Crystal 3 > Crystal 1	2	
+247.90	344213.000	Crystal 3 > Crystal 5	2	
+248.10	339310.000	Crystal 3 > Crystal 5	2	
+248.45	206920.000	Crystal 3 > Crystal 1	2	
+248.65	209470.000	Crystal 3 > Crystal 1	2	
+248.75	347352.000	Crystal 3 > Crystal 5	2	
+248.95	339310.000	Crystal 3 > Crystal 5	2	
+249.65	208882.000	Crystal 3 > Crystal 1	2	
+249.85	209274.000	Crystal 3 > Crystal 1	2	
+250.05	209862.000	Crystal 3 > Crystal 1	2	
+250.15	343233.000	Crystal 3 > Crystal 5	2	
+250.35	207901.000	Crystal 3 > Crystal 1	2	
+250.35	344213.000	Crystal 3 > Crystal 5	2	
+251.05	348038.000	Crystal 3 > Crystal 5	2	
+251.65	209862.000	Crystal 3 > Crystal 1	2	
+251.65	343233.000	Crystal 3 > Crystal 5	2	
+252.75	345194.000	Crystal 3 > Crystal 5	2	
+252.85	343233.000	Crystal 3 > Crystal 5	2	
+253.75	349019.000	Crystal 3 > Crystal 5	2	
+254.75	348136.000	Crystal 3 > Crystal 5	2	
+254.80	343233.000	Crystal 3 > Crystal 5	2	
+Number	Source	
+1	Sugisaki M.; Suga H.; Seki S.: IV. Heat Capacities of Glassy Water and Cubic Ice. Bull.Chem.Soc.Japan 41 (1968) 2591-2599	
+2	Bridgman P.W.: Water, in the Liquid and Five Solid Forms, under Pressure. Proc.Am.Acad.Art.Sci. 47 (1912) 439-558	
+$$$Triple Point	
+T [K]	P [kPa]	State	Reference	
+238.45	212804.000	Crystal 1-Crystal 2-Crystal 3	3	
+248.85	344213.000	Crystal 2-Crystal 3-Crystal 5	3	
+251.15	207411.000	Crystal 1-Crystal 3-Liquid	3	
+256.15	346175.000	Crystal 3-Crystal 5-Liquid	3	
+273.18		Solid-Liquid-Vapor	1	
+273.25	0.6121	Solid-Liquid-Vapor	2	
+Number	Source	
+1	Haida O.; Matsuo T.; Suga H.; Seki S.: Calorimetric study of the glassy state. X. Enthalpy relaxation at the glass-transition temperature of hexagonal ice.. J.Chem.Thermodyn. 6 (1974) 815-825	
+2	Douslin D.R.: Vapor Pressure of Water from - 2.5 to 20°C. J.Chem.Thermodyn. 3 (1971) 187-193	
+3	Bridgman P.W.: Water, in the Liquid and Five Solid Forms, under Pressure. Proc.Am.Acad.Art.Sci. 47 (1912) 439-558	
+$$$Vapor Pressure	
+T [K]	P [kPa]	State	Reference	
+293.15	2.400	Vapor-Liquid	3	
+303.15	4.266	Vapor-Liquid	3	
+313.15	7.333	Vapor-Liquid	3	
+323.15	12.332	Vapor-Liquid	3	
+333.15	19.932	Vapor-Liquid	3	
+343.15	31.224	Vapor-Liquid	3	
+412.75	357.000	Vapor-Liquid	1	
+432.85	613.000	Vapor-Liquid	1	
+451.25	960.000	Vapor-Liquid	1	
+463.15	1255.000	Vapor-Liquid	1	
+473.35	1562.000	Vapor-Liquid	1	
+482.55	1885.000	Vapor-Liquid	1	
+492.65	2298.000	Vapor-Liquid	1	
+504.15	2850.000	Vapor-Liquid	1	
+507.77	3043.000	Vapor-Liquid	2	
+521.28	3854.000	Vapor-Liquid	2	
+535.18	4851.000	Vapor-Liquid	2	
+541.49	5364.000	Vapor-Liquid	2	
+552.60	6366.000	Vapor-Liquid	2	
+557.97	6899.000	Vapor-Liquid	2	
+561.69	7288.000	Vapor-Liquid	2	
+571.31	8371.000	Vapor-Liquid	2	
+645.95	21674.000	Vapor-Liquid	4	
+646.04	21794.000	Vapor-Liquid	4	
+646.07	21804.000	Vapor-Liquid	4	
+647.09	21336.000	Vapor-Liquid	4	
+Number	Source	
+1	Chukanov V.N.; Skripov V.P.: Spezifische Volumina vom überhitzten Wasser. Teplofiz.Vys.Temp. 9 (1971) 739-745	
+2	Evstefeev V.N.; Chukanov V.N.; Skripov V.P.: Spezifische Volumina vom überhitzten Wasser. Teplofiz.Vys.Temp. 15 (1977) 659-661	
+3	Gudkov A.N.; Fermor N.A.; Smirnov N.I.: Communication I.. Zh.Prikl.Khim. 37 (1964) 2204-2210	
+4	Rivkin S.L.; Troyanovskaya G.V.; Akhundov T.S.: Experimentelle Untersuchung der spezifischen Volumina von Wasser. Teplofiz.Vys.Temp. 2 (1964) 219-229	
+$$$Virial Coefficients	
+T [K]	Second Virial Coefficient [cm3/mol]	State	Reference	
+308.15	-1062.0000	Vapor	2	
+323.15	-842.0000	Vapor	2	
+338.15	-683.0000	Vapor	2	
+423.15	-276.0000	Vapor	5	
+423.15	-274.0000	Vapor	5	
+448.15	-240.0000	Vapor	5	
+448.15	-239.0000	Vapor	5	
+473.15	-200.9000	Vapor	5	
+473.15	-200.6000	Vapor	5	
+473.15	-197.0000	Vapor	6	
+498.15	-172.0000	Vapor	5	
+498.15	-171.1000	Vapor	5	
+498.15	-166.0000	Vapor	6	
+523.00	-145.4000	Vapor	3	
+523.15	-149.9000	Vapor	5	
+523.15	-149.8000	Vapor	1	
+523.15	-149.7000	Vapor	5	
+523.15	-149.0900	Vapor	4	
+523.15	-140.0000	Vapor	6	
+548.15	-130.8000	Vapor	5	
+573.00	-112.3000	Vapor	3	
+573.15	-115.9200	Vapor	4	
+573.15	-115.9000	Vapor	5	
+573.15	-115.8000	Vapor	1	
+573.15	-115.6000	Vapor	5	
+598.15	-102.0000	Vapor	5	
+623.00	-90.2000	Vapor	3	
+623.15	-91.4000	Vapor	5	
+623.15	-91.2700	Vapor	4	
+623.15	-91.2000	Vapor	5	
+623.15	-90.2100	Vapor	1	
+648.15	-82.0000	Vapor	5	
+648.15	-81.8000	Vapor	5	
+653.15	-82.8900	Vapor	1	
+653.15	-82.3900	Vapor	4	
+673.15	-73.5000	Vapor	5	
+673.15	-73.4000	Vapor	5	
+698.15	-66.7000	Vapor	5	
+698.15	-66.4000	Vapor	5	
+723.15	-60.1000	Vapor	5	
+723.15	-60.0000	Vapor	5	
+748.15	-54.7000	Vapor	5	
+748.15	-54.6000	Vapor	5	
+773.15	-49.9000	Vapor	5	
+773.15	-49.8000	Vapor	5	
+Number	Source	
+1	Abdulagatov I.M.; Bazaev A.R.; Ramazanova A.E.: Volumetric Properties and Virial Coefficients of (Water + Methane). J.Chem.Thermodyn. 25 (1993) 249-259	
+2	McGlashan M.L.; Williamson A.G.: Isothermal Liquid-Vapor Equilibria for System Methanol-Water. J.Chem.Eng.Data 21 (1976) 196-199	
+3	Abdulagatov I.M.; Bazaev A.R.; Ramazanova A.E.: PVTx-Properties and Virial Coefficients of the Water - n-Hexane System. Int.J.Phys.Chem.Ber.Bunsen-Ges. 98 (1994) 1596-1600	
+4	Abdulagatov I.M.; Bazaev A.R.; Gasanov R.K.; Ramazanova A.E.: Measurements of the (P, rho, T) Properties and Virial Coefficients of Pure Water, Methane, n-Hexane, n-Octane, Benzene and of their Aqueous Mixtures in the Supercritical Region. J.Chem.Thermodyn. 28 (1996) 1037-1057	
+5	Kell G.S.; McLaurin G.E.; Whallby E.: VII. Vapour densities of light and heavy water from 150 to 500°C. Proc.Roy.Soc.London Ser.A 425 (1989) 49-71	
+6	Skripka V.G.: Volume Behaviour of Gaseous Mixtures of a Non-Polar Component and Water at High Temperatures. Russ.J.Phys.Chem. 53 (1979) 795-797	

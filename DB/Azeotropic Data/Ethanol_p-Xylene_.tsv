@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	2	
+none	n.a.	101.325	n.a.	n.a.	Distillation	Author	1	
+none	318.150	n.a.	n.a.	n.a.	n.a.	Author	3	
+none	zeotropic	
+1	Lecat M.: Tome Premier: Azeotropes binaires orthobares. Tables Azeotropiques. Tome Premier: Azeotropes binaires orthobares  (1949) 1-406	
+2	Galska-Krajewska A.: Rownowagi Ciez-Para Cisnieniem Atmosferycznym W Ukladach Zloznych Z Alkoholu Etylowego Oraz Etylobenzenu I p-Ksylenu. Rocz.Chem. 40 (1966) 863-871	
+3	Stokes R.H.; French H.T.: Thermodynamic Functions for the System Ethanol+p+Xylene from Vapour Pressures, Ethalpies of Mixing and Volume of Mixing, and Their Interpretation in Terms of Association. J.Chem.Soc.Faraday Trans.1 76 (1980) 537-548	

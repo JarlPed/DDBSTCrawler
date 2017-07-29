@@ -1,0 +1,21 @@
+$$$Vapor-Liquid Equilibrium Data Set 26243	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	333.15	K	
+P [kPa]	x1 [mol/mol]	
+0.500	0.00000	
+28.600	0.21080	
+42.500	0.32110	
+50.500	0.39600	
+54.900	0.44080	
+61.200	0.49570	
+68.400	0.56130	
+74.900	0.62590	
+86.500	0.72260	
+95.700	0.79280	
+115.700	1.00000	
+Source	
+Domanska U.; Lachwa J.: Thermodynamics of binary mixtures of N-methyl-2-pyrrolidinone and ketone. Experimental results and modelling of the (solid + liquid) equilibrium and the (vapour + liquid) equilibrium. The modified UNIFAC (Do) model characterization.. J.Chem.Thermodyn. 37 (2005) 692-704	
+Source	
+Domanska U.; Lachwa J.: Thermodynamics of binary mixtures of N-methyl-2-pyrrolidinone and ketone. Experimental results and modelling of the (solid + liquid) equilibrium and the (vapour + liquid) equilibrium. The modified UNIFAC (Do) model characterization.. J.Chem.Thermodyn. 37 (2005) 692-704	

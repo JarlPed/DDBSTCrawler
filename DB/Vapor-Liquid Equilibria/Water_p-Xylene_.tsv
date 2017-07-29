@@ -1,0 +1,43 @@
+$$$Vapor-Liquid Equilibrium Data Set 35019	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Temperature	573.00	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+6100.005	0.20600	0.60800	
+7799.999	0.33100	0.63700	
+9599.997	0.46600	0.69500	
+10299.994	0.64000	0.65700	
+Source	
+Togo M.; Maeda T.; Ito A.; Shimoyama Y.: Measurement and correlation of phase equilibria for (water + aromatic hydrocarbon) binary mixtures at T = (573 to 623) K using microfluidic mixing. J.Chem.Thermodyn. 67 (2013) 247-252	
+$$$Vapor-Liquid Equilibrium Data Set 35020	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Temperature	583.00	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+4299.993	0.07400	0.37100	
+5000.002	0.15100	0.44100	
+6000.000	0.18300	0.50700	
+6899.992	0.29100	0.51800	
+7699.993	0.30700	0.53800	
+8400.002	0.36300	0.56300	
+8999.993	0.35900	0.55300	
+9400.001	0.42800	0.55800	
+Source	
+Togo M.; Maeda T.; Ito A.; Shimoyama Y.: Measurement and correlation of phase equilibria for (water + aromatic hydrocarbon) binary mixtures at T = (573 to 623) K using microfluidic mixing. J.Chem.Thermodyn. 67 (2013) 247-252	
+$$$Vapor-Liquid Equilibrium Data Set 35021	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Temperature	593.00	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+4899.997	0.14200	0.35900	
+5500.001	0.20500	0.42000	
+6399.994	0.26500	0.43300	
+6899.992	0.29600	0.45500	
+7400.005	0.30600	0.46300	
+Source	
+Togo M.; Maeda T.; Ito A.; Shimoyama Y.: Measurement and correlation of phase equilibria for (water + aromatic hydrocarbon) binary mixtures at T = (573 to 623) K using microfluidic mixing. J.Chem.Thermodyn. 67 (2013) 247-252	
+Source	
+Togo M.; Maeda T.; Ito A.; Shimoyama Y.: Measurement and correlation of phase equilibria for (water + aromatic hydrocarbon) binary mixtures at T = (573 to 623) K using microfluidic mixing. J.Chem.Thermodyn. 67 (2013) 247-252	

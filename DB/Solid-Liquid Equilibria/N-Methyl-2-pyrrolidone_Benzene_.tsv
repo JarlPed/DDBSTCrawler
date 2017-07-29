@@ -1,0 +1,61 @@
+$$$Solid-Liquid Equilibrium Data Set 10216	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+2	C6H6	78.114	71-43-2	Benzene	
+T [K]	xL1 [mol/mol]	
+236.45	0.52730	
+Source	
+Domanska U.; Letcher T.M.: (Solid + liquid) equilibria and solid compound formation in (N-methyl-2-pyrrolidinone + benzene, or toluene, or 1,3,5-trimethylbenzene, or ethylbenzene, or 1,2,4-trichlorobenzene, or 1,1,1-trichloroethane, or dochloromethane). J.Chem.Thermodyn. 32 (2000) 1635-1645	
+$$$Solid-Liquid Equilibrium Data Set 10217	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+2	C6H6	78.114	71-43-2	Benzene	
+T [K]	xL1 [mol/mol]	
+278.70	0.00000	
+277.95	0.02140	
+275.85	0.06510	
+272.65	0.11330	
+269.85	0.16220	
+263.65	0.24500	
+266.85	0.20750	
+260.65	0.28260	
+257.85	0.31490	
+254.75	0.35070	
+252.05	0.37850	
+250.25	0.39950	
+246.95	0.43070	
+244.55	0.45140	
+242.85	0.47120	
+243.15	0.48140	
+243.95	0.50970	
+244.45	0.52730	
+244.95	0.55400	
+245.30	0.58250	
+245.95	0.61090	
+246.35	0.63190	
+246.75	0.65760	
+246.65	0.66600	
+246.75	0.66820	
+246.45	0.67880	
+246.35	0.70560	
+244.95	0.74010	
+243.25	0.76330	
+242.15	0.77800	
+243.55	0.78510	
+244.55	0.82030	
+245.65	0.85600	
+247.53	0.90230	
+248.65	0.93880	
+249.55	0.96710	
+250.40	1.00000	
+Source	
+Domanska U.; Letcher T.M.: (Solid + liquid) equilibria and solid compound formation in (N-methyl-2-pyrrolidinone + benzene, or toluene, or 1,3,5-trimethylbenzene, or ethylbenzene, or 1,2,4-trichlorobenzene, or 1,1,1-trichloroethane, or dochloromethane). J.Chem.Thermodyn. 32 (2000) 1635-1645	
+$$$Solid-Liquid Equilibrium Data Set 10226	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+2	C6H6	78.114	71-43-2	Benzene	
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
+242.85	0.47120	0.47120	
+242.15	0.77800	0.77800	
+Source	
+Domanska U.; Letcher T.M.: (Solid + liquid) equilibria and solid compound formation in (N-methyl-2-pyrrolidinone + benzene, or toluene, or 1,3,5-trimethylbenzene, or ethylbenzene, or 1,2,4-trichlorobenzene, or 1,1,1-trichloroethane, or dochloromethane). J.Chem.Thermodyn. 32 (2000) 1635-1645	

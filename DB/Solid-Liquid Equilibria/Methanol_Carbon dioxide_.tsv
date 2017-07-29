@@ -1,0 +1,36 @@
+$$$Solid-Liquid Equilibrium Data Set 48874	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	CO2	44.010	124-38-9	Carbon dioxide	
+T [K]	xL1 [mol/mol]	
+177.75	1.00000	
+172.55	0.95100	
+170.05	0.91100	
+166.65	0.87100	
+167.75	0.89100	
+185.95	0.77900	
+195.55	0.71900	
+170.05	0.90700	
+173.45	0.85200	
+187.95	0.78300	
+194.75	0.73800	
+201.25	0.68600	
+203.85	0.64900	
+208.35	0.60800	
+172.75	0.94400	
+169.75	0.90200	
+167.35	0.87100	
+208.05	0.62600	
+210.65	0.53800	
+216.45	0.00000	
+177.65	1.00000	
+Source	
+Baume G.; Perrot F.-L.: Densité de quelques gaz liquéfiés. J.Chim.Phys. 12 (1914) 225-241	
+$$$Solid-Liquid Equilibrium Data Set 48875	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	CO2	44.010	124-38-9	Carbon dioxide	
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
+166.55	0.87000	0.87000	
+Source	
+Baume G.; Perrot F.-L.: Densité de quelques gaz liquéfiés. J.Chim.Phys. 12 (1914) 225-241	

@@ -1,0 +1,81 @@
+$$$Enthalpy of Mixing Data Set 456	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	CHCl3	119.377	67-66-3	Chloroform	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-1029.000	0.12740	
+-2129.000	0.30060	
+-2547.000	0.40160	
+-2634.000	0.46220	
+-2609.000	0.52910	
+-2513.000	0.59100	
+-2108.000	0.69460	
+-1201.000	0.85130	
+Source	
+Beath L.A.; Williamson A.G.: I. Enthalpies of Mixing of Ethers with Carbon Tetrachloride and with Chloroform. J.Chem.Thermodyn. 1 (1969) 51-57	
+$$$Enthalpy of Mixing Data Set 457	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	CHCl3	119.377	67-66-3	Chloroform	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-219.807	0.02500	
+-439.614	0.05000	
+-653.141	0.07500	
+-857.038	0.10000	
+-1057.580	0.12500	
+-1248.500	0.15000	
+-1433.140	0.17500	
+-1608.990	0.20000	
+-1773.530	0.22500	
+-1923.830	0.25000	
+-2068.700	0.27500	
+-2200.160	0.30000	
+-2319.490	0.32500	
+-2423.740	0.35000	
+-2515.010	0.37500	
+-2589.120	0.40000	
+-2645.220	0.42500	
+-2696.300	0.45000	
+-2727.280	0.47500	
+-2732.300	0.50000	
+-2717.650	0.52500	
+-2687.090	0.55000	
+-2637.260	0.57500	
+-2572.370	0.60000	
+-2493.660	0.62500	
+-2399.450	0.65000	
+-2294.370	0.67500	
+-2174.200	0.70000	
+-2041.480	0.72500	
+-1897.460	0.75000	
+-1744.220	0.77500	
+-1581.350	0.80000	
+-1411.370	0.82500	
+-1230.080	0.85000	
+-1041.680	0.87500	
+-846.571	0.90000	
+-645.186	0.92500	
+-435.427	0.95000	
+-220.226	0.97500	
+Source	
+Becker F.; Kiefer M.: III. Äther-Chloroform-Systeme. Z.Naturforsch.A 26 (1971) 1040-1046	
+$$$Enthalpy of Mixing Data Set 458	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	CHCl3	119.377	67-66-3	Chloroform	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-791.305	0.09000	
+-1096.940	0.13300	
+-1360.710	0.16700	
+-1444.450	0.17800	
+-2223.190	0.29800	
+-2524.640	0.39300	
+Source	
+Chevalier J.-L.; Bares D.: I. Chaleurs de mélange à 25 °C. J.Chim.Phys.Phys.-Chim.Biol. 66 (1969) 1448-1452	
+Source	
+Beath L.A.; Williamson A.G.: I. Enthalpies of Mixing of Ethers with Carbon Tetrachloride and with Chloroform. J.Chem.Thermodyn. 1 (1969) 51-57	
+Chevalier J.-L.; Bares D.: I. Chaleurs de mélange à 25 °C. J.Chim.Phys.Phys.-Chim.Biol. 66 (1969) 1448-1452	
+Becker F.; Kiefer M.: III. Äther-Chloroform-Systeme. Z.Naturforsch.A 26 (1971) 1040-1046	

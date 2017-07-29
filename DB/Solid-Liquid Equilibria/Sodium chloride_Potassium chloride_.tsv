@@ -1,0 +1,36 @@
+$$$Solid-Liquid Equilibrium Data Set 18876	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	ClNa	58.442	7647-14-5	Sodium chloride	
+2	ClK	74.551	7447-40-7	Potassium chloride	
+Pressure	1.000	bar	
+T [K]	xS1 [mol/mol]	
+1005.15	0.95000	
+963.15	0.85900	
+934.15	0.34700	
+951.15	0.24800	
+980.15	0.13800	
+998.15	0.08000	
+Source	
+Chou I.-M.; Sterner S.M.; Pitzer K.S.: IV. Differential Thermal Analysis of the Sylvite Liquidus in the KCl-H2O Binary, the Liquidus in the NaCl-KCl-H2O Ternary, and the Solidus in the NaCl-KCl Binary to 2 Kilobars Pressure, and a Summary of Experimental Data for Thermodynamic-PTX Analysis of Solid-Liquid Equilibria at Elevated P-T Conditions. Geochim.Cosmochim.Acta 56 (1992) 2281-2293	
+$$$Solid-Liquid Equilibrium Data Set 18877	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	ClNa	58.442	7647-14-5	Sodium chloride	
+2	ClK	74.551	7447-40-7	Potassium chloride	
+T [K]	P [bar]	xS1 [mol/mol]	
+965.15	500.0	0.24800	
+974.15	1000.0	0.24800	
+982.15	1500.0	0.24800	
+994.15	2000.0	0.24800	
+Source	
+Chou I.-M.; Sterner S.M.; Pitzer K.S.: IV. Differential Thermal Analysis of the Sylvite Liquidus in the KCl-H2O Binary, the Liquidus in the NaCl-KCl-H2O Ternary, and the Solidus in the NaCl-KCl Binary to 2 Kilobars Pressure, and a Summary of Experimental Data for Thermodynamic-PTX Analysis of Solid-Liquid Equilibria at Elevated P-T Conditions. Geochim.Cosmochim.Acta 56 (1992) 2281-2293	
+$$$Solid-Liquid Equilibrium Data Set 18878	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	ClNa	58.442	7647-14-5	Sodium chloride	
+2	ClK	74.551	7447-40-7	Potassium chloride	
+T [K]	P [bar]	xS1 [mol/mol]	
+1008.15	500.0	0.08000	
+1023.15	1000.0	0.08000	
+1039.15	1500.0	0.08000	
+1052.15	2000.0	0.08000	
+Source	
+Chou I.-M.; Sterner S.M.; Pitzer K.S.: IV. Differential Thermal Analysis of the Sylvite Liquidus in the KCl-H2O Binary, the Liquidus in the NaCl-KCl-H2O Ternary, and the Solidus in the NaCl-KCl Binary to 2 Kilobars Pressure, and a Summary of Experimental Data for Thermodynamic-PTX Analysis of Solid-Liquid Equilibria at Elevated P-T Conditions. Geochim.Cosmochim.Acta 56 (1992) 2281-2293	

@@ -1,0 +1,44 @@
+$$$Enthalpy of Mixing Data Set 14106	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C8H10	106.167	108-38-3	m-Xylene	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	298.150	K	
+Pressure	1.010	bar	
+hE [J/mol]	x1 [mol/mol]	
+-10.700	0.17200	
+-9.100	0.21000	
+-8.500	0.23300	
+-8.900	0.26000	
+-6.000	0.29000	
+-1.800	0.37900	
+9.500	0.53400	
+25.900	0.59200	
+32.700	0.64600	
+36.100	0.67600	
+45.200	0.74600	
+49.100	0.74700	
+47.500	0.76600	
+50.000	0.78300	
+50.200	0.78900	
+Source	
+Letcher T.M.; Naicker P.K.: Excess molar enthalpies and excess molar volumes of mixtures containing N-methyl-2-pyrrolidinone and an aromatic hydrocarbon at T = 298.15 K and p = 0.101325 MPa. J.Chem.Thermodyn. 31 (1999) 1585-1595	
+$$$Enthalpy of Mixing Data Set 21630	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+2	C8H10	106.167	108-38-3	m-Xylene	
+Temperature	308.150	K	
+hE [J/mol]	x1 [mol/mol]	
+192.600	0.10000	
+301.200	0.20000	
+342.000	0.30000	
+331.600	0.40000	
+285.300	0.50000	
+217.800	0.60000	
+142.900	0.70000	
+73.600	0.80000	
+22.200	0.90000	
+Source	
+Chhikara Y.; Yadav J.S.; Sharma D.; Sharma V.K.: Excess Molar Volumes, Excess Molar Enthalpies, and Excess Isentropic Compressibilities of Binary Mixtures Containing N-Methyl-2-Pyrrolidone and Isomeric Xylenes at 308.15 K. J.Solution Chem. 41 (2012) 1696-1712	
+Source	
+Letcher T.M.; Naicker P.K.: Excess molar enthalpies and excess molar volumes of mixtures containing N-methyl-2-pyrrolidinone and an aromatic hydrocarbon at T = 298.15 K and p = 0.101325 MPa. J.Chem.Thermodyn. 31 (1999) 1585-1595	
+Chhikara Y.; Yadav J.S.; Sharma D.; Sharma V.K.: Excess Molar Volumes, Excess Molar Enthalpies, and Excess Isentropic Compressibilities of Binary Mixtures Containing N-Methyl-2-Pyrrolidone and Isomeric Xylenes at 308.15 K. J.Solution Chem. 41 (2012) 1696-1712	

@@ -1,0 +1,31 @@
+$$$Solid-Liquid Equilibrium Data Set 605	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+T [K]	xL1 [mol/mol]	
+283.65	0.08200	
+276.85	0.18800	
+270.75	0.23700	
+265.25	0.31900	
+259.75	0.36000	
+254.55	0.42500	
+249.15	0.49300	
+244.15	0.54000	
+Source	
+Carta R.; Dernini S.: Solubility of Solid Acetic Acid in Liquid Organic Solvents. J.Chem.Eng.Data 28 (1983) 328-330	
+$$$Solid-Liquid Equilibrium Data Set 15994	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
+173.15	0.85000	0.85000	
+Source	
+Bokhovkin I.M.; Bokhovkina Yu.I.; Chesnokov V.F.: Über die Stabilität der Komplexe von Dimethylsulfoxyd mit Essigsäure in Anwesenheit von Carbamid, Acetamid und Aceton. Zh.Obshch.Khim. 39 (1969) 1437-1442	
+$$$Solid-Liquid Equilibrium Data Set 36244	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
+172.15	0.86500	0.86500	
+Source	
+Chesnokov V.F.; Bokhovkin I.M.: Interaction of Acetone, Urea, Acetamide and Dimethylsulfoxide with some Organic Acids and Phenols in the Solid Phase. Zh.Obshch.Khim. 36 (1966) 1170-1175	

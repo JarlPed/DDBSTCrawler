@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4	16.043	74-82-8	Methane	
+2	N2	28.013	7727-37-9	Nitrogen	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	90.680	n.a.	n.a.	n.a.	n.a.	Author	1	
+none	95.000	n.a.	n.a.	n.a.	n.a.	Author	3	
+none	112.000	n.a.	n.a.	n.a.	n.a.	Author	2	
+none	zeotropic	
+1	McClure D.W.; Lewis K.L.; Miller R.C.; Staveley L.A.K.: Excess Enthalpies and Gibbs Free Energies for Nitrogen + Methane at Temperatures Below the Critical Point of Nitrogen. J.Chem.Thermodyn. 8 (1976) 785-792	
+2	Miller R.C.; Kidnay A.J.; Hiza M.J.: Liquid-Vapor Equilibria at 112.00 K for Systems Containing Nitrogen, Argon, and Methane. AIChE J. 19 (1973) 145-151	
+3	Parrish W.R.; Hiza M.J.: Liquid-Vapor Equilibria in the Nitrogen-Methane System Between 95 and 120 K. Proceedings of the 1973 Cryogenic Engineering Conference 19 (1974) 300-308	

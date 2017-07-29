@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	312.910	17.519	0.94100	n.a.	Phase equilibrium	Author from VLE	1	
+homPmax	327.960	36.784	0.91500	n.a.	Phase equilibrium	Author from VLE	1	
+homPmax	347.940	87.193	0.89800	n.a.	Phase equilibrium	Author from VLE	1	
+homPmax	homogeneous pressure maximum	
+1	Wrewsky M.: Erster Teil.. Z.Phys.Chem.(Leipzig) 81 (1913) 1-29	

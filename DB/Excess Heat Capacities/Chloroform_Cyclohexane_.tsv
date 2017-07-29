@@ -1,0 +1,40 @@
+$$$Excess Heat Capacity Data Set 881	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Temperature	298.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+-0.9100	0.11290	
+-1.4100	0.20730	
+-1.7400	0.30560	
+-1.9200	0.40340	
+-1.9000	0.50210	
+-1.7600	0.60370	
+-1.5200	0.69680	
+-1.1100	0.80650	
+-0.6300	0.90200	
+Source	
+Fenclova D.; Dohnal V.; Perez-Casas S.; Frigolet C.; Costas M.: Excess heat capacities, excess enthalpies, and excess volumes of trichloromethane + some oxygenated solvents or + the corresponding homomorphic hydrocarbons at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 1 (1995) 217-237	
+$$$Excess Heat Capacity Data Set 970	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Temperature	298.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+-0.6700	0.10000	
+-1.1000	0.20980	
+-1.4100	0.30980	
+-1.4300	0.38890	
+-1.5200	0.46620	
+-1.4800	0.50060	
+-1.5400	0.56820	
+-1.5800	0.57140	
+-1.3200	0.70150	
+-1.1100	0.74970	
+-0.9400	0.83840	
+-0.5300	0.91070	
+Source	
+Conti G.; Gianni P.; Tramati M.; Lepori L.; Matteoli E.: Excess molar enthalpies and excess molar heat capacities of (chloroform + tetrahydrofuran + cyclohexane) at the temperature 298.15 K. J.Chem.Thermodyn. 29 (1997) 865-877	
+Source	
+Fenclova D.; Dohnal V.; Perez-Casas S.; Frigolet C.; Costas M.: Excess heat capacities, excess enthalpies, and excess volumes of trichloromethane + some oxygenated solvents or + the corresponding homomorphic hydrocarbons at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 1 (1995) 217-237	
+Conti G.; Gianni P.; Tramati M.; Lepori L.; Matteoli E.: Excess molar enthalpies and excess molar heat capacities of (chloroform + tetrahydrofuran + cyclohexane) at the temperature 298.15 K. J.Chem.Thermodyn. 29 (1997) 865-877	

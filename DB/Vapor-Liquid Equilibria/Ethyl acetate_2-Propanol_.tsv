@@ -1,0 +1,69 @@
+$$$Vapor-Liquid Equilibrium Data Set 459	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+354.15	0.10000	0.16580	
+351.95	0.20000	0.28890	
+350.55	0.30000	0.38760	
+349.55	0.40000	0.48060	
+349.35	0.50000	0.54980	
+349.15	0.60000	0.62680	
+349.55	0.70000	0.70660	
+348.65	0.80000	0.78360	
+349.75	0.90000	0.88540	
+Source	
+Nishi Y.: Vapor-Liquid Equilibria Accompanied by Hypothetical Chemical Reaction. J.Chem.Eng.Japan 5 (1972) 334-339	
+$$$Vapor-Liquid Equilibrium Data Set 609	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+Temperature	313.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+15.732	0.03800	0.13470	
+16.065	0.05000	0.16600	
+16.799	0.07000	0.21750	
+18.265	0.11550	0.30650	
+19.798	0.15000	0.37300	
+20.332	0.19900	0.42300	
+21.532	0.27000	0.49500	
+21.865	0.29000	0.50400	
+23.198	0.38500	0.57800	
+23.731	0.46150	0.62250	
+24.465	0.54000	0.66650	
+25.465	0.64050	0.71200	
+25.865	0.81400	0.81500	
+25.598	0.90850	0.89860	
+Source	
+Murti P.S.; van Winkle M.: Vapor-Liquid Equilibria for Binary Systems of Methanol, Ethyl Alcohol, 1-Propanol, and 2-Propanol with Ethyl Acetate and 1-Propanol-Water. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 72-81	
+$$$Vapor-Liquid Equilibrium Data Set 610	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+Temperature	333.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+41.663	0.04550	0.12540	
+42.863	0.07400	0.15850	
+43.930	0.08550	0.19000	
+44.063	0.09350	0.21760	
+45.730	0.12950	0.26280	
+47.329	0.15900	0.29800	
+47.796	0.17550	0.32050	
+51.329	0.26650	0.42130	
+52.529	0.31350	0.46130	
+53.929	0.36000	0.48810	
+54.862	0.42750	0.53690	
+55.062	0.43200	0.54130	
+55.995	0.49150	0.58320	
+57.395	0.59050	0.64220	
+57.595	0.68000	0.69770	
+57.862	0.75250	0.74450	
+57.395	0.83500	0.82050	
+57.595	0.91950	0.90000	
+56.662	0.92250	0.89320	
+Source	
+Murti P.S.; van Winkle M.: Vapor-Liquid Equilibria for Binary Systems of Methanol, Ethyl Alcohol, 1-Propanol, and 2-Propanol with Ethyl Acetate and 1-Propanol-Water. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 72-81	
+Source	
+Murti P.S.; van Winkle M.: Vapor-Liquid Equilibria for Binary Systems of Methanol, Ethyl Alcohol, 1-Propanol, and 2-Propanol with Ethyl Acetate and 1-Propanol-Water. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 72-81	
+Nishi Y.: Vapor-Liquid Equilibria Accompanied by Hypothetical Chemical Reaction. J.Chem.Eng.Japan 5 (1972) 334-339	

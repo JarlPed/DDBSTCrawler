@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C6H14	86.177	110-54-3	Hexane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	2	
+none	308.150	n.a.	n.a.	n.a.	n.a.	Author	3	
+none	343.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	zeotropic	
+1	Susarev M.P.; Chen S.T.: The Benzene-n-Hexane-Cyclo-Hexane System. Russ.J.Phys.Chem. 37 (1963) 938-943	
+2	Myers H.S.: V-L Equilibrium for Naphthenes and Paraffins. Petrol.Refiner 36 (1957) 175-178	
+3	Ott J.B.; Marsh K.N.; Stokes R.H.: Excess Enthalpies, Excess Gibbs Free Engeries and Excess Volumes for (Cyclohexane + n-Hexane) and Excess Gibbs Free Energies and Excess Volumes for (Cyclohexane + Methylcyclohexane) at 298.15 and 308.15 K. J.Chem.Thermodyn. 12 (1980) 1139-1148	

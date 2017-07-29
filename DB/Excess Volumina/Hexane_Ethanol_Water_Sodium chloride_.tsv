@@ -1,0 +1,30 @@
+$$$Excess Volume Data Set 58179	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C2H6O	46.069	64-17-5	Ethanol	
+3	H2O	18.015	7732-18-5	Water	
+4	ClNa	58.442	7647-14-5	Sodium chloride	
+Temperature	303.150	K	
+Pressure	1.0132	bar	
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	
+0.0354	0.01170	0.81050	0.17670	
+0.0888	0.03100	0.79470	0.17330	
+0.1339	0.04860	0.78020	0.17010	
+0.1811	0.06950	0.76310	0.16640	
+0.2179	0.08780	0.74810	0.16310	
+0.2583	0.11040	0.72960	0.15910	
+0.2970	0.13540	0.70910	0.15460	
+0.3268	0.15830	0.69030	0.15050	
+0.3544	0.18310	0.66990	0.14610	
+0.3779	0.20820	0.64940	0.14160	
+0.4018	0.24020	0.62310	0.13590	
+0.4110	0.25590	0.61020	0.13300	
+0.4257	0.29070	0.58170	0.12680	
+0.4279	0.30070	0.57350	0.12500	
+0.4276	0.31240	0.56390	0.12290	
+0.4273	0.33290	0.54710	0.11930	
+0.4269	0.36090	0.52410	0.11430	
+Source	
+Wang J.; Ewing M.B.; McGlashan M.L.: Excess molar volumes of n-hexane + ethanol, + (ethanol + water) and + (ethanol + water + sodium chloride) at 303.15 K. Fluid Phase Equilib. 124 (1996) 251-256	
+Source	
+Wang J.; Ewing M.B.; McGlashan M.L.: Excess molar volumes of n-hexane + ethanol, + (ethanol + water) and + (ethanol + water + sodium chloride) at 303.15 K. Fluid Phase Equilib. 124 (1996) 251-256	

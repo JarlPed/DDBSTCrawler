@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C4H8O2S	120.172	126-33-0	Sulfolane	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+333.15	1.1270	GLCR	1	
+333.15	1.1320	GLCR	1	
+333.15	1.1410	GLCR	1	
+Short Term	Explanation	
+GLCR	GLC (with gas phase correction)	
+1	Bai T.; Lu J.; Zhou X.: The Measurement of Infinite Activity Coefficients of some Nonpolar or Weak-polar Non-electrolyte Solute in Salts and Sulfolane Solutions. Sepu 8 (1990) 108-110	

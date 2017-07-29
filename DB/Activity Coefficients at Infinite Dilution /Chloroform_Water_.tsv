@@ -1,0 +1,13 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	H2O	18.015	7732-18-5	Water	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+285.65	640.00	GLCI	2	
+293.15	571.00	GLCI	1	
+293.15	818.00	STAT	3	
+Short Term	Explanation	
+GLCI	GLC (without gas phase correction)	
+STAT	static method	
+1	Pecsar R.E.; Martin J.J.: Solution Thermodynamics from Gas-Liquid Chromatography. Anal.Chem. 38 (1966) 1661-1669	
+2	Chatterjee A.K.; King J.W.; Karger B.L.: Adsorption and Solution of Weakly Polar Vapors with Thin Layers of Water as Studied by Gas-Liquid Chromatography. J.Colloid Interface Sci. 41 (1972) 71-76	
+3	Wright D.A.; Sandler S.I.; DeVoll D.: Infinite Dilution Activity Coefficients and Solubilities of Halognated Hydrocarbons in Water at Ambient Temperatures. Environ.Sci.Technol. 26 (1992) 1828-1831	

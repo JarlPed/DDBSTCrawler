@@ -1,0 +1,19 @@
+$$$Vapor-Liquid Equilibrium Data Set 21042	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	313.20	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+9.601	0.01400	0.39000	
+15.800	0.03600	0.59100	
+22.899	0.07200	0.70800	
+34.800	0.24800	0.81700	
+37.900	0.45700	0.84700	
+39.999	0.67200	0.88000	
+42.600	0.88900	0.94000	
+43.300	0.94500	0.96400	
+44.900	0.97800	0.98400	
+Source	
+Miyamoto S.; Nakamura S.; Iwai Y.; Arai Y.: Measurement of Isothermal Vapor-Liquid Equilibria for Hydrocarbon + Monocarboxylic Acid Binary Systems by a Flow-Type Apparatus. J.Chem.Eng.Data 45 (2000) 857-861	
+Source	
+Miyamoto S.; Nakamura S.; Iwai Y.; Arai Y.: Measurement of Isothermal Vapor-Liquid Equilibria for Hydrocarbon + Monocarboxylic Acid Binary Systems by a Flow-Type Apparatus. J.Chem.Eng.Data 45 (2000) 857-861	

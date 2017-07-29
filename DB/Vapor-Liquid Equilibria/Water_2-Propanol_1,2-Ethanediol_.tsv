@@ -1,0 +1,35 @@
+$$$Vapor-Liquid Equilibrium Data Set 38080	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+3	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Pressure	101.30	kPa	
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
+384.14	0.40977	0.023278	0.45140	0.52680	
+374.58	0.53433	0.03083	0.44920	0.54090	
+368.72	0.63097	0.03627	0.44920	0.54520	
+364.57	0.71115	0.04083	0.45410	0.54260	
+361.72	0.77315	0.04439	0.45510	0.54280	
+359.43	0.82746	0.04754	0.45700	0.54170	
+357.74	0.87279	0.05017	0.45420	0.54510	
+356.37	0.91076	0.05236	0.45610	0.54360	
+Source	
+Zhang L.; Wang X.; Zhu X.; Shen D.: Experimental Measurement and Modeling of Vapor-Liquid Equilibrium for the Ternary Systems Water + Ethanol + Ethylene Glycol, Water + 2-Propanol + Ethylene Glycol, and Water + 1-Propanol + Ethylene Glycol. J.Chem.Eng.Data 61 (2016) 2596-2604	
+$$$Vapor-Liquid Equilibrium Data Set 38081	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C3H8O	60.096	67-63-0	2-Propanol	
+3	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Pressure	101.30	kPa	
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
+386.39	0.04281	0.17268	0.01790	0.94970	
+377.06	0.06267	0.27535	0.02070	0.96130	
+372.18	0.08084	0.35903	0.02550	0.96240	
+368.43	0.10034	0.44090	0.03090	0.95990	
+365.35	0.11798	0.51841	0.03670	0.95680	
+362.52	0.13595	0.59737	0.04310	0.95240	
+359.84	0.15348	0.67154	0.05150	0.94550	
+357.41	0.16944	0.74453	0.06000	0.93840	
+Source	
+Zhang L.; Wang X.; Zhu X.; Shen D.: Experimental Measurement and Modeling of Vapor-Liquid Equilibrium for the Ternary Systems Water + Ethanol + Ethylene Glycol, Water + 2-Propanol + Ethylene Glycol, and Water + 1-Propanol + Ethylene Glycol. J.Chem.Eng.Data 61 (2016) 2596-2604	
+Source	

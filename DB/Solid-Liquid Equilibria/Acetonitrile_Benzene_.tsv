@@ -1,0 +1,56 @@
+$$$Solid-Liquid Equilibrium Data Set 492	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C6H6	78.114	71-43-2	Benzene	
+T [K]	xL1 [mol/mol]	
+278.66	0.00000	
+274.38	0.07460	
+270.55	0.15410	
+268.08	0.20090	
+265.15	0.26260	
+262.28	0.32310	
+258.58	0.39930	
+255.73	0.46070	
+253.14	0.51340	
+250.77	0.55740	
+249.12	0.59330	
+247.49	0.63050	
+243.80	0.72040	
+237.75	0.80080	
+235.28	0.82560	
+229.09	0.87860	
+225.48	0.89830	
+225.35	0.92000	
+227.18	0.96120	
+229.30	1.00000	
+Source	
+Goates J.R.; Ott J.B.; Budge A.H.: Solid-Liquid Phase Equilibria and Solid Compound Formation in Acetonitrile-Aromatic Hydrocarbon System. J.Phys.Chem. 65 (1961) 2162-2165	
+$$$Solid-Liquid Equilibrium Data Set 2391	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C6H6	78.114	71-43-2	Benzene	
+T [K]	xL1 [mol/mol]	
+278.15	0.00000	
+267.75	0.18600	
+260.95	0.32200	
+255.15	0.43500	
+248.35	0.56700	
+244.35	0.65800	
+241.15	0.70400	
+231.65	0.83900	
+224.45	0.92800	
+228.15	1.00000	
+Source	
+Joukovsky N.I.: XI. Contribution a l'Etude des Proprietes Thermodynamiques des Solutions Concentrees de Composes Organiques Azotes de la Serie Grasse. Bull.Soc.Chim.Belg. 43 (1934) 397-446	
+$$$Solid-Liquid Equilibrium Data Set 4844	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C6H6	78.114	71-43-2	Benzene	
+T [K]	xS1 [mol/mol]	
+221.45	0.32200	
+221.25	0.43500	
+221.45	0.56700	
+221.75	0.83900	
+221.75	0.92800	
+Source	
+Joukovsky N.I.: XI. Contribution a l'Etude des Proprietes Thermodynamiques des Solutions Concentrees de Composes Organiques Azotes de la Serie Grasse. Bull.Soc.Chim.Belg. 43 (1934) 397-446	

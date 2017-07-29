@@ -1,0 +1,695 @@
+Formula	Molar Mass	CAS Registry Number	Name	
+C4H8O	72.107	109-99-9	Tetrahydrofuran	
+$$$Compressibility (isentropic)	
+T [K]	Compressibility (isentropic) [/kPa]	State	Reference	
+298.15	7.07200001671E-007	Liquid	1	
+Number	Source	
+1	Ramkumar D.H.S.; Kudchadker A.P.: 1. Densities of gamma-Butyrolactone + Water at 303.15 - 343.15 K and of Tetrahydrofuran + gamma-Butyrolactone at 278.15 - 298.15 K; Ultrasonic Velocities at 298.15 K for the Three Binary Systems Inclusive of Tetrahydrofurane + Water and the Ternary System Tetrahydrofuran + Water + gamma-Butyrolactone. J.Chem.Eng.Data 34 (1989) 459-463	
+$$$Critical Data	
+T [K]	P [kPa]	State	Reference	
+540.10		Critical Point	1	
+540.92	5192.000	Critical Point	2	
+543.65		Critical Point	3	
+Number	Source	
+1	Cheng D.C.-H.; McCoubrey J.C.; Phillips D.G.: Critical Temperatures of Some Organo Cyclic Compounds.. Trans.Faraday Soc. 58 (1962) 224-229	
+2	Kobe K.A.; Ravicz A.E.; Vohra S.P.: Critical Properties and Vapor Pressures of some Ethers and Heterocyclic Compounds. Ind.Eng.Chem. Chem.Eng.Data Series 1 (1956) 50-56	
+3	Marshall W.L.; Jones E.V.: Liquid-Vapor Critical Temperature of Several Aqueous-Organic and Organic Solution Systems.. J.Inorg.Nucl.Chem. 36 (1974) 2319-2323	
+$$$Density	
+T [K]	Density [kg/m3]	State	Reference	
+253.00	928.800	Liquid	2	
+263.00	918.400	Liquid	2	
+273.00	908.100	Liquid	2	
+278.15	903.400	Liquid	3	
+283.00	897.700	Liquid	2	
+288.15	892.400	Liquid	3	
+293.00	887.300	Liquid	2	
+293.15	890.247	Liquid	1	
+298.00	882.200	Liquid	2	
+298.15	882.430	Liquid	6	
+298.15	882.700	Liquid	5	
+298.15	883.700	Liquid	4	
+298.15	884.600	Liquid	3	
+303.00	877.000	Liquid	2	
+308.15	873.400	Liquid	3	
+313.00	866.600	Liquid	2	
+313.15	868.795	Liquid	1	
+318.15	862.500	Liquid	3	
+323.00	856.300	Liquid	2	
+333.00	845.900	Liquid	2	
+333.15	844.379	Liquid	1	
+353.15	819.432	Liquid	1	
+373.15	792.418	Liquid	1	
+393.15	765.499	Liquid	1	
+413.15	738.832	Liquid	1	
+433.15	711.846	Liquid	1	
+453.15	684.156	Liquid	1	
+473.15	656.740	Liquid	1	
+493.15	624.870	Liquid	1	
+513.15	579.662	Liquid	1	
+533.15	504.972	Liquid	1	
+Number	Source	
+1	Vasil'eva I.I.; Naumova A.A.; Polyakov A.A.; Tyvina T.N.; Kozlova N.V.: Vapor Pressures and Molar Volumes of Liquid Tetrahydrofuran, gamma-Butyrolactone, and Dibutyl Maleate at Elevated Temperatures and Pressures. Zh.Prikl.Khim. 63 (1990) 1879-1881	
+2	Demakhin A.G.; Ponomarenko S.M.; Yudina O.Yu.: I.Temperaturabhängigkeit der Volumen-Eigenschaften von Lösungsmitteln. Oniitekhim  (1991) 1-23	
+3	Podolyanko V.A.; Volkova N.D.; Svyatskaya T.N.; Kostitsyna O.V.: Untersuchung der intermolekularen Wechselwirkung im System Diethylenglykol-Tetrahydrofuran. Vestn.Khar'k.Univ.  (1977) 32-38	
+4	Stolypin V.F.: Character Intermolecular Interaction in Binary Mixtures of Strong Polar Aprotic Solvents. Zh.Fiz.Khim. 68 (1994) 1587-1590	
+5	Letcher T.M.; Domanska U.: The excess volumes of (tributylamine + an ether) at the temperature 298.15 K. J.Chem.Thermodyn. 26 (1994) 1241-1247	
+6	Francesconi R.; Comelli F.: Excess Molar Volumes of Binary Mixtures Containing Dimethyl Carbonate + Linear and Cyclic Ethers. J.Chem.Eng.Data 39 (1994) 106-107	
+$$$Dielectric Constant	
+T [K]	P [kPa]	Dielectric Constant [-]	State	Reference	
+218.00		10.40000	Liquid	2	
+237.00		9.80000	Liquid	2	
+252.00		9.40000	Liquid	2	
+267.00		9.00000	Liquid	2	
+297.00		8.20000	Liquid	2	
+298.00		7.62000	Liquid	4	
+298.15		7.40000	Liquid	1	
+298.15		7.88100	Liquid	5	
+303.15		7.76200	Liquid	5	
+303.15	101.325	7.26100	Liquid	6	
+303.15	46710.801	7.60500	Liquid	6	
+303.15	106797.000	7.94100	Liquid	6	
+303.15	158675.000	8.19500	Liquid	6	
+303.15	212276.000	8.41400	Liquid	6	
+303.15	300429.000	8.75000	Liquid	6	
+303.15	404793.000	9.15300	Liquid	6	
+303.15	512401.000	9.46100	Liquid	6	
+308.15		7.00000	Liquid	3	
+308.15		7.65200	Liquid	5	
+313.15		7.53400	Liquid	5	
+318.15		6.70000	Liquid	3	
+318.15		7.42200	Liquid	5	
+323.15		7.32400	Liquid	5	
+328.15		7.32000	Liquid	5	
+Number	Source	
+1	Shkodin A.M.; Podolyanko V.A.; Gritsan L.D.: Physico-chemical properties of binary solvent ethylene glycol-tetrahydrofuran. Vestn.Khar'k.Univ.  (1974) 32-35	
+2	Gee N.; Shinsaka K.; Dodelet J.-P.; Freeman G.R.: Dielectric Constant Against Temperature for 43 Liquids. J.Chem.Thermodyn. 18 (1986) 221-234	
+3	Nikolaichuk A.G.; Podolyanko V.A.; Surov Yu.N.: Untersuchung der  Wechselwirkung im System N-Methylformamid - Tetrahydrofuran. Zh.Obshch.Khim. 48 (1978) 2764-2770	
+4	Gill D.S.; Singh J.; Ludwig R.; Zeidler M.D.: Nuclear Magnetic Resonance Relaxation, Permittivity, Viscosity and Ultrasonic Velocity Measurements in Binary Mixtures of Methanol and Tetrahydrofuran. J.Chem.Soc.Faraday Trans. 89 (1993) 3955-3958	
+5	Jatkar S.K.K.; Deshpande C.M.: Dielectric Constant and Dipole Moment: Ethers, Aldehydes and Chloro COmpounds. J.Indian Chem.Soc. 37 (1960) 1-10	
+6	Schornack L.G.; Eckert C.A.: The Effect of Pressure on the Density and Dielectric Constant of Polar Solvents. J.Phys.Chem. 74 (1970) 3014-3020	
+$$$Dynamic Viscosity	
+T [K]	Dynamic Viscosity [mPas]	State	Reference	
+278.15	0.5640	Liquid	6	
+278.15	0.5790	Liquid	1	
+283.15	0.5340	Liquid	6	
+288.15	0.5060	Liquid	6	
+288.15	0.5250	Liquid	1	
+293.15	0.4800	Liquid	6	
+293.15	0.6340	Liquid	3	
+298.00	0.4730	Liquid	2	
+298.15	0.4540	Liquid	6	
+298.15	0.4620	Liquid	5	
+298.15	0.4810	Liquid	4	
+298.15	0.4900	Liquid	1	
+298.15	0.5460	Liquid	3	
+303.15	0.5390	Liquid	3	
+308.15	0.4440	Liquid	1	
+318.15	0.4020	Liquid	1	
+Number	Source	
+1	Podolyanko V.A.; Volkova N.D.; Svyatskaya T.N.; Kostitsyna O.V.: Untersuchung der intermolekularen Wechselwirkung im System Diethylenglykol-Tetrahydrofuran. Vestn.Khar'k.Univ.  (1977) 32-38	
+2	Gill D.S.; Singh J.; Ludwig R.; Zeidler M.D.: Nuclear Magnetic Resonance Relaxation, Permittivity, Viscosity and Ultrasonic Velocity Measurements in Binary Mixtures of Methanol and Tetrahydrofuran. J.Chem.Soc.Faraday Trans. 89 (1993) 3955-3958	
+3	Wencel A.; Czerepko K.: Refractive Indices, Densities and Viscosities of the Tetrahydrofuran-Water Mixtures Taken at Three Temperatures. Pol.J.Chem. 65 (1991) 1809-1823	
+4	Aminabhavi T.M.; Gopalakrishna B.: Density, Viscosity, Refractive Index, and Speed of Sound in Aqueous Mixtures of N,N-Dimethylformamide, Dimethyl Sulfoxide, N,N-Dimethylacetamide, Acetonitrile, Ethylene Glycol, Diethylene Glycol, 1,4-Dioxane, Tetrahydrofuran, 2-Methoxyethanol, and 2-Ethoxyethanol at 298.15 K. J.Chem.Eng.Data 40 (1995) 856-861	
+5	Ponomarenko S.M.; Mushtakova S.P.; Demakhin A.G.; Faifel' B.L.; Kalmanovich D.G.: Physicochemical Properties and Electronic Structure of some Aprotic Solvents. Zh.Obshch.Khim. 65 (1995) 190-198	
+6	Ramkumar D.H.S.; Kudchadker A.P.: 2. Viscosities and Surface Tensions of Gamma-Butyrolactone+Waterat 303.15-343.15 K and Gamma-Butyrolactone+THF at 278.15-298.15 K.. J.Chem.Eng.Data 34 (1989) 463-465	
+$$$Enthalpy (H-H0)	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+5.00		Solid	1	
+10.00		Solid	1	
+15.00		Solid	1	
+20.00		Solid	1	
+25.00		Solid	1	
+30.00		Solid	1	
+35.00		Solid	1	
+40.00		Solid	1	
+45.00		Solid	1	
+50.00		Solid	1	
+60.00		Solid	1	
+70.00		Solid	1	
+80.00		Solid	1	
+90.00		Solid	1	
+100.00		Solid	1	
+110.00		Solid	1	
+120.00		Solid	1	
+130.00		Solid	1	
+140.00		Solid	1	
+150.00		Solid	1	
+160.00		Solid	1	
+164.76		Solid	1	
+170.00		Liquid	1	
+180.00		Liquid	1	
+190.00		Liquid	1	
+200.00		Liquid	1	
+210.00		Liquid	1	
+220.00		Liquid	1	
+230.00		Liquid	1	
+240.00		Liquid	1	
+250.00		Liquid	1	
+260.00		Liquid	1	
+270.00		Liquid	1	
+273.15		Liquid	1	
+280.00		Liquid	1	
+290.00		Liquid	1	
+298.15		Liquid	1	
+300.00		Liquid	1	
+310.00		Liquid	1	
+320.00		Liquid	1	
+338.90		Liquid	2	
+350.00		Vapor	2	
+400.00		Vapor	2	
+Number	Source	
+1	Lebedev B.V.; Lityagov V.Ya.; Krentsina T.I.; Milov V.I.: Thermodynamic Properties of Tetrahydrofuran in the Range 8 - 322 K. Viniti  (1978) 1-21	
+2	Lebedev B.V.; Lityagov V.Ya.: Calorimetric Study of Tetrahydrofuran, Polytetrahydrofuran and of the Tetrahydrofuran Polymerization Process in the Temperature Range 0-400 K. Vysokomol.Soedin.Ser.A 19 (1977) 2283-2290	
+$$$Entropy	
+T [K]	P [kPa]	Molar Entropy [J/(mol*K)]	State	Reference	
+5.00		0.0244	Solid	1	
+10.00		0.3009	Solid	1	
+15.00		1.067	Solid	1	
+20.00		2.508	Solid	1	
+25.00		4.585	Solid	1	
+30.00		7.203	Solid	1	
+35.00		10.19	Solid	1	
+40.00		13.36	Solid	1	
+45.00		16.65	Solid	1	
+50.00		20.04	Solid	1	
+60.00		26.90	Solid	1	
+70.00		33.61	Solid	1	
+80.00		40.05	Solid	1	
+90.00		46.23	Solid	1	
+100.00		52.14	Solid	1	
+100.00	100.000	246.44	Vapor	3	
+110.00		57.84	Solid	1	
+120.00		63.34	Solid	1	
+130.00		68.70	Solid	1	
+140.00		73.93	Solid	1	
+150.00		79.06	Solid	1	
+160.00		84.10	Solid	1	
+164.76		36.47	Solid	2	
+164.76		86.47	Solid	1	
+164.76		138.30	Liquid	1	
+170.00		141.60	Liquid	1	
+180.00		147.70	Liquid	1	
+190.00		153.50	Liquid	1	
+200.00		159.00	Liquid	1	
+200.00	100.000	277.31	Vapor	3	
+210.00		164.30	Liquid	1	
+220.00		169.30	Liquid	1	
+230.00		174.20	Liquid	1	
+240.00		179.00	Liquid	1	
+250.00		183.40	Liquid	1	
+260.00		187.90	Liquid	1	
+270.00		192.40	Liquid	1	
+273.15		193.70	Liquid	1	
+280.00		196.70	Liquid	1	
+290.00		200.90	Liquid	1	
+298.15		203.90	Liquid	1	
+298.15	100.000	302.35	Vapor	3	
+300.00		205.10	Liquid	1	
+300.00	100.000	302.83	Vapor	3	
+310.00		211.30	Liquid	1	
+320.00		213.30	Liquid	1	
+338.90		221.00	Liquid	2	
+338.90		317.40	Vapor	2	
+350.00		320.30	Vapor	2	
+400.00		333.50	Vapor	2	
+400.00	100.000	329.13	Vapor	3	
+500.00	100.000	356.04	Vapor	3	
+600.00	100.000	382.65	Vapor	3	
+700.00	100.000	408.41	Vapor	3	
+800.00	100.000	433.08	Vapor	3	
+900.00	100.000	456.59	Vapor	3	
+1000.00	100.000	478.95	Vapor	3	
+1100.00	100.000	500.19	Vapor	3	
+1200.00	100.000	520.38	Vapor	3	
+1300.00	100.000	539.58	Vapor	3	
+1400.00	100.000	557.86	Vapor	3	
+1500.00	100.000	575.28	Vapor	3	
+Number	Source	
+1	Lebedev B.V.; Lityagov V.Ya.; Krentsina T.I.; Milov V.I.: Thermodynamic Properties of Tetrahydrofuran in the Range 8 - 322 K. Viniti  (1978) 1-21	
+2	Lebedev B.V.; Lityagov V.Ya.: Calorimetric Study of Tetrahydrofuran, Polytetrahydrofuran and of the Tetrahydrofuran Polymerization Process in the Temperature Range 0-400 K. Vysokomol.Soedin.Ser.A 19 (1977) 2283-2290	
+3	Dorofeeva O.V.: Ideal gas thermodynamic properties of oxygen heterocyclic compounds Part 1. Three-membered. fou-membered and five-membered rings. Thermochim.Acta 194 (1992) 9-46	
+$$$Flash Point	
+T [K]	P [kPa]	State	Reference	
+252.15		Liquid	3	
+252.45		Liquid	4	
+252.55		Liquid	4	
+257.59		Liquid	2	
+258.65		Liquid	1	
+Number	Source	
+1	Penn Specialty Chemicals Inc.: Methyltetrahydrofuran. Material Data Sheet  (2005) 1-8	
+2	Culver L.J.: Flash Points of Oxygenated Solvents in Aqueous Environs. Modern Paint Coat. 71 (1981) 145-149	
+3	Astbury G.R.; Bugand-Bugandet J.; Grollet E.; Stell K.M.: Flash Points of Aqueous Solutions of Flammable Solvents. Hazards XVIII 150 (2004) 1-18	
+4	Kong D.; am Ende D.J.; Brenek S.J.; Weston N.P.: Determination of flash point in air and pure oxygen using an equilibrium closed bomb apparatus. J.Hazard.Mater. 102 (2003) 155-165	
+$$$G-function (G-G0)/T	
+T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference	
+100.00	-208.11	Vapor	2	
+100.00	-207.19	Vapor	3	
+150.00	-223.25	Vapor	3	
+200.00	-235.55	Vapor	2	
+200.00	-235.52	Vapor	1	
+200.00	-235.08	Vapor	3	
+273.15	-249.24	Vapor	1	
+273.15	-248.90	Vapor	3	
+298.15	-253.43	Vapor	1	
+298.15	-253.11	Vapor	3	
+300.00	-253.73	Vapor	2	
+300.00	-253.72	Vapor	1	
+300.00	-253.41	Vapor	3	
+400.00	-269.27	Vapor	2	
+400.00	-269.24	Vapor	1	
+400.00	-269.00	Vapor	3	
+500.00	-283.93	Vapor	2	
+500.00	-283.84	Vapor	1	
+500.00	-283.65	Vapor	3	
+600.00	-298.17	Vapor	2	
+600.00	-298.03	Vapor	1	
+600.00	-297.86	Vapor	3	
+700.00	-312.09	Vapor	2	
+700.00	-311.88	Vapor	1	
+700.00	-311.74	Vapor	3	
+800.00	-325.69	Vapor	2	
+800.00	-325.43	Vapor	1	
+800.00	-325.28	Vapor	3	
+900.00	-338.94	Vapor	2	
+900.00	-338.61	Vapor	1	
+900.00	-338.48	Vapor	3	
+1000.00	-351.83	Vapor	2	
+1000.00	-351.41	Vapor	1	
+1000.00	-351.33	Vapor	3	
+1100.00	-364.36	Vapor	2	
+1100.00	-363.82	Vapor	3	
+1200.00	-376.53	Vapor	2	
+1200.00	-375.95	Vapor	3	
+1300.00	-388.34	Vapor	2	
+1300.00	-387.72	Vapor	3	
+1400.00	-399.80	Vapor	2	
+1400.00	-399.15	Vapor	3	
+1500.00	-410.92	Vapor	2	
+1500.00	-410.24	Vapor	3	
+Number	Source	
+1	Scott D.W.: Tetrahydrofuran: vibrational assignment, chemical thermodynamic properties, and vapor pressure.. J.Chem.Thermodyn. 2 (1970) 833-837	
+2	Dorofeeva O.V.: Ideal gas thermodynamic properties of oxygen heterocyclic compounds Part 1. Three-membered. fou-membered and five-membered rings. Thermochim.Acta 194 (1992) 9-46	
+3	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
+$$$Gibbs Energy of Form.	
+T [K]	P [kPa]	Energy of formation [J/mol]	State	Reference	
+298.15	101.325	-83880.00	Liquid	1	
+298.15	101.325	-76930.00	Vapor	1	
+Number	Source	
+1	Lebedev B.V.; Lityagov V.Ya.; Krentsina T.I.; Milov V.I.: Thermodynamic Properties of Tetrahydrofuran in the Range 8 - 322 K. Viniti  (1978) 1-21	
+$$$Heat of Fusion	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+	8540.00	Solid-Liquid	1	
+164.76	8540.00	Solid-Liquid	2	
+165.13	8515.83	Solid-Liquid	3	
+Number	Source	
+1	Lebedev B.V.; Lityagov V.Ya.; Krentsina T.I.; Milov V.I.: Thermodynamic Properties of Tetrahydrofuran in the Range 8 - 322 K. Viniti  (1978) 1-21	
+2	Lebedev B.V.; Lityagov V.Y.; Krentsina T.I.; Milov V.I.: Thermodynamic Properties of Tetrahydrofuran in the Range 8-322 K. Russ.J.Phys.Chem. 53 (1979) 152-152	
+3	Diedrichs A.: Optimierung eines Dynamischen Differenzkalorimeters zur experimentellen Bestimmung von Wärmekapazitäten. Master's Thesis  (2005)	
+$$$Heat of Vaporization	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+273.15		32308.80	Vapor-Liquid	3	
+293.15	19.065	29596.30	Vapor-Liquid	4	
+298.15		31300.00	Vapor-Liquid	2	
+301.80		31803.00	Vapor-Liquid	1	
+308.15		32308.80	Vapor-Liquid	3	
+319.18		30888.00	Vapor-Liquid	1	
+339.11		29815.00	Vapor-Liquid	1	
+339.15	101.325	29566.10	Vapor-Liquid	4	
+Number	Source	
+1	Hossenlopp I.A.; Scott D.W.: Vapor Heat Capacities and Enthalpies of Vaporization of Six Organic Compounds. J.Chem.Thermodyn. 13 (1981) 405-414	
+2	Saito Y.; Kusano K.: Enthalpies of Vaporization. 9th Conference on Chemical Thermodynamics and Thermal Analysis, Japan  (1973) 146-147	
+3	Cabani S.; Conti G.; Lepori L.: Part 2. - Cyclic Ethers. Trans.Faraday Soc. 67 (1971) 1943-1950	
+4	Penn Specialty Chemicals Inc.: Methyltetrahydrofuran. Material Data Sheet  (2005) 1-8	
+$$$Ideal Gas Heat Capacity	
+T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference	
+100.00	40.34	Ideal Gas	2	
+100.00	40.61	Ideal Gas	3	
+150.00	44.77	Ideal Gas	3	
+200.00	52.13	Ideal Gas	1	
+200.00	52.15	Ideal Gas	2	
+273.15	69.23	Ideal Gas	3	
+273.15	69.25	Ideal Gas	1	
+298.15	76.23	Ideal Gas	1	
+298.15	76.25	Ideal Gas	3	
+298.15	76.63	Ideal Gas	2	
+300.00	76.78	Ideal Gas	1	
+300.00	77.18	Ideal Gas	2	
+328.15	85.13	Ideal Gas	4	
+349.15	91.36	Ideal Gas	4	
+399.15	106.12	Ideal Gas	4	
+400.00	106.36	Ideal Gas	1	
+400.00	107.07	Ideal Gas	2	
+449.15	120.39	Ideal Gas	4	
+500.00	133.58	Ideal Gas	3	
+500.00	133.60	Ideal Gas	1	
+500.00	134.43	Ideal Gas	2	
+500.15	133.68	Ideal Gas	4	
+600.00	156.62	Ideal Gas	3	
+600.00	156.65	Ideal Gas	1	
+600.00	157.48	Ideal Gas	2	
+700.00	175.85	Ideal Gas	1	
+700.00	175.86	Ideal Gas	3	
+700.00	176.67	Ideal Gas	2	
+800.00	192.00	Ideal Gas	1	
+800.00	192.02	Ideal Gas	3	
+800.00	192.76	Ideal Gas	2	
+900.00	205.68	Ideal Gas	3	
+900.00	205.69	Ideal Gas	1	
+900.00	206.36	Ideal Gas	2	
+1000.00	217.31	Ideal Gas	3	
+1000.00	217.32	Ideal Gas	1	
+1000.00	217.92	Ideal Gas	2	
+1100.00	227.23	Ideal Gas	3	
+1100.00	227.78	Ideal Gas	2	
+1200.00	235.72	Ideal Gas	3	
+1200.00	236.22	Ideal Gas	2	
+1300.00	243.02	Ideal Gas	3	
+1300.00	243.47	Ideal Gas	2	
+1400.00	249.30	Ideal Gas	3	
+1400.00	249.71	Ideal Gas	2	
+1500.00	254.74	Ideal Gas	3	
+1500.00	255.11	Ideal Gas	2	
+Number	Source	
+1	Scott D.W.: Tetrahydrofuran: vibrational assignment, chemical thermodynamic properties, and vapor pressure.. J.Chem.Thermodyn. 2 (1970) 833-837	
+2	Dorofeeva O.V.: Ideal gas thermodynamic properties of oxygen heterocyclic compounds Part 1. Three-membered. fou-membered and five-membered rings. Thermochim.Acta 194 (1992) 9-46	
+3	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
+4	Hossenlopp I.A.; Scott D.W.: Vapor Heat Capacities and Enthalpies of Vaporization of Six Organic Compounds. J.Chem.Thermodyn. 13 (1981) 405-414	
+$$$Kinematic Viscosity	
+T [K]	Kinematic Viscosity [m2/s]	State	Reference	
+278.15	6.34999992144E-07	Liquid	1	
+288.15	5.71700013552E-07	Liquid	4	
+293.15	5.66999972307E-07	Liquid	3	
+298.15	5.2149999874E-07	Liquid	4	
+298.15	5.35999959084E-07	Liquid	3	
+303.15	5.16999989486E-07	Liquid	3	
+308.15	4.77599996884E-07	Liquid	4	
+313.15	4.59999995428E-07	Liquid	2	
+Number	Source	
+1	Anantaraman A.V.: I. Density and Viscosity of Binary Mixtures of n-Methylpyrrolidone - Tetrahydrofuran and Propylene Carbonate - Acetronitrile. Can.J.Chem. 64 (1986) 46-50	
+2	Rathnam M.V.: Viscosities of Some Binary Ethyl Acetate Mixtures at 313.15 K. J.Chem.Eng.Data 33 (1988) 14-15	
+3	Shkodin A.M.; Podolyanko V.A.; Gritsan L.D.: Physico-chemical properties of binary solvent ethylene glycol-tetrahydrofuran. Vestn.Khar'k.Univ.  (1974) 32-35	
+4	Pintos M.; Calvo E.; Brocos P.; Amigo A.; Bravo R.: Viscosimetric Study of Binary Mixtures of Tetrahydrofuran or Tetrahydropyran + Cyclohexane or Toluene. High Temp.-High Press. 29 (1997) 127-134	
+$$$Melting Point	
+T [K]	P [kPa]	State	Reference	
+162.25		Solid-Liquid	5	
+164.70		Solid-Liquid	1	
+164.70	101.325	Solid-Liquid	2	
+164.76		Solid-Liquid	1	
+164.76	100.000	Solid-Liquid	4	
+164.76	101.325	Solid-Liquid	3	
+Number	Source	
+1	Lebedev B.V.; Lityagov V.Ya.; Krentsina T.I.; Milov V.I.: Thermodynamic Properties of Tetrahydrofuran in the Range 8 - 322 K. Viniti  (1978) 1-21	
+2	Goates J.R.; Ott J.B.; Reeder J.; Shirts R.B.: Solid + liquid phase equilibria and solid-compound formation for hexafluorobenzene + p-dioxane and + each of several related ethers. J.Chem.Thermodyn. 6 (1974) 489-492	
+3	Lebedev B.V.; Rabinovich I.B.; Milov V.I.; Lityagov V.Y.: Thermodynamic properties of tetrahydrofuran from 8 to 322 K.. J.Chem.Thermodyn. 10 (1978) 321-329	
+4	Lebedev B.V.; Lityagov V.Y.; Krentsina T.I.; Milov V.I.: Thermodynamic Properties of Tetrahydrofuran in the Range 8-322 K. Russ.J.Phys.Chem. 53 (1979) 152-152	
+5	Kalali H.E.; Demiriz A.M.; Budde J.; Kohler F.; Dallos A.; Ratkovics F.: Excess Gibbs Energies and Excess Volumes of the Mixtures Ethanoic Acid + 1,4-Dioxane and Oxolane. Fluid Phase Equilib. 54 (1990) 111-120	
+$$$Molar Heat Capacity (cP)	
+T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
+5.00		0.1174	Solid	2	
+8.79		0.6493	Solid	1	
+9.38		0.8414	Solid	1	
+9.73		0.9148	Solid	1	
+10.00		0.90	Solid	2	
+10.57		1.115	Solid	1	
+11.37		1.349	Solid	1	
+12.24		1.775	Solid	1	
+13.28		2.251	Solid	1	
+14.78		3.124	Solid	1	
+16.09		3.909	Solid	1	
+16.73		4.441	Solid	1	
+17.66		5.114	Solid	1	
+18.74		5.966	Solid	1	
+20.11		7.187	Solid	1	
+21.80		8.671	Solid	1	
+23.57		10.46	Solid	1	
+25.00		11.77	Solid	2	
+25.86		12.66	Solid	1	
+28.41		15.20	Solid	1	
+31.02		18.10	Solid	1	
+33.79		20.53	Solid	1	
+36.57		23.12	Solid	1	
+39.44		25.35	Solid	1	
+42.39		27.98	Solid	1	
+45.53		30.07	Solid	1	
+48.29		32.92	Solid	1	
+50.00		34.16	Solid	2	
+51.21		35.05	Solid	1	
+53.22		36.48	Solid	1	
+55.74		38.43	Solid	1	
+58.92		40.41	Solid	1	
+62.55		42.52	Solid	1	
+65.99		44.04	Solid	1	
+69.46		45.81	Solid	1	
+72.58		47.19	Solid	1	
+75.80		48.63	Solid	1	
+79.54		50.24	Solid	1	
+83.21		51.68	Solid	1	
+86.27		52.92	Solid	1	
+89.26		54.05	Solid	1	
+91.71		55.04	Solid	1	
+94.50		55.96	Solid	1	
+96.46		56.66	Solid	1	
+99.37		57.56	Solid	1	
+100.00		57.88	Solid	2	
+102.35		58.75	Solid	1	
+105.32		59.84	Solid	1	
+108.45		61.12	Solid	1	
+111.59		62.20	Solid	1	
+114.74		63.32	Solid	1	
+117.84		64.53	Solid	1	
+119.72		65.07	Solid	1	
+120.89		65.69	Solid	1	
+123.88		66.95	Solid	1	
+126.83		68.29	Solid	1	
+128.61		69.01	Solid	1	
+131.20		70.18	Solid	1	
+132.54		70.68	Solid	1	
+134.03		71.57	Solid	1	
+135.54		72.36	Solid	1	
+135.83		72.55	Solid	1	
+137.28		74.44	Solid	1	
+139.30		74.05	Solid	1	
+141.37		75.96	Solid	1	
+143.96		77.71	Solid	1	
+147.01		79.95	Solid	1	
+149.99		82.47	Solid	1	
+152.89		85.64	Solid	1	
+155.69		89.47	Solid	1	
+161.56		107.50	Liquid	1	
+161.97		107.50	Liquid	1	
+164.27		107.20	Liquid	1	
+164.76		81.65	Solid	2	
+164.76		107.40	Liquid	2	
+165.13		107.20	Liquid	1	
+165.13	101.320	107.20	Liquid	3	
+165.59		107.10	Liquid	1	
+165.59	101.320	107.10	Liquid	3	
+165.88		107.10	Liquid	1	
+165.88	101.320	107.10	Liquid	3	
+167.14		107.00	Liquid	1	
+167.14	101.320	107.00	Liquid	3	
+169.70		106.90	Liquid	1	
+169.70	101.320	106.90	Liquid	3	
+172.81		106.80	Liquid	1	
+172.81	101.320	106.80	Liquid	3	
+174.55		106.80	Liquid	1	
+176.37		106.80	Liquid	1	
+176.37	101.320	106.80	Liquid	3	
+179.86		106.70	Liquid	1	
+179.86	101.320	106.70	Liquid	3	
+183.03		106.70	Liquid	1	
+183.28		106.80	Liquid	1	
+183.28	101.320	106.80	Liquid	3	
+187.64		106.80	Liquid	1	
+190.77		106.90	Liquid	1	
+194.00		107.10	Liquid	1	
+197.37		107.20	Liquid	1	
+200.00		107.30	Liquid	2	
+200.28		107.60	Liquid	1	
+200.86		107.40	Liquid	1	
+204.32		107.50	Liquid	1	
+207.78		107.80	Liquid	1	
+211.22		108.10	Liquid	1	
+214.66		108.40	Liquid	1	
+218.08		108.80	Liquid	1	
+222.32		109.30	Liquid	1	
+225.98		109.80	Liquid	1	
+229.61		110.20	Liquid	1	
+233.22		110.70	Liquid	1	
+236.82		111.20	Liquid	1	
+240.40		111.70	Liquid	1	
+243.84		112.40	Liquid	1	
+247.26		112.90	Liquid	1	
+250.00		113.40	Liquid	2	
+250.79		113.40	Liquid	1	
+274.60		118.40	Liquid	1	
+276.41		118.60	Liquid	1	
+279.85		119.50	Liquid	1	
+283.35		120.40	Liquid	1	
+287.45		121.70	Liquid	1	
+287.45	101.320	121.70	Liquid	3	
+287.58		121.40	Liquid	1	
+290.14		122.00	Liquid	1	
+290.87		122.60	Liquid	1	
+295.54		123.70	Liquid	1	
+298.15		123.90	Liquid	2	
+298.97		124.40	Liquid	1	
+302.72		125.10	Liquid	1	
+306.44		126.30	Liquid	1	
+310.27		127.20	Liquid	1	
+314.28		128.10	Liquid	1	
+318.77		129.80	Liquid	1	
+322.63		130.80	Liquid	1	
+338.90		88.40	Vapor	2	
+338.90		141.40	Liquid	2	
+350.00		91.70	Vapor	2	
+400.00		106.40	Vapor	2	
+Number	Source	
+1	Lebedev B.V.; Lityagov V.Ya.; Krentsina T.I.; Milov V.I.: Thermodynamic Properties of Tetrahydrofuran in the Range 8 - 322 K. Viniti  (1978) 1-21	
+2	Lebedev B.V.; Lityagov V.Ya.: Calorimetric Study of Tetrahydrofuran, Polytetrahydrofuran and of the Tetrahydrofuran Polymerization Process in the Temperature Range 0-400 K. Vysokomol.Soedin.Ser.A 19 (1977) 2283-2290	
+3	Lebedev B.V.; Rabinovich I.B.; Milov V.I.; Lityagov V.Y.: Thermodynamic properties of tetrahydrofuran from 8 to 322 K.. J.Chem.Thermodyn. 10 (1978) 321-329	
+$$$Speed of Sound	
+T [K]	Ultrasonic Velocity [m/s]	State	Reference	
+283.15	1350.400	Liquid	2	
+298.15	1277.800	Liquid	2	
+298.15	1283.000	Liquid	3	
+298.15	1288.000	Liquid	5	
+303.15	1255.400	Liquid	1	
+313.15	1206.000	Liquid	2	
+Number	Source	
+1	Weissler A.: IV. Cyclic Compounds. J.Am.Chem.Soc. 71 (1949) 419-421	
+2	Valen A.; Lopez M.C.; Urieta J.S.; Royo F.M.; Lafuente C.: Thermodynamic Study of Mixtures Containing Oxygenated Compounds. J.Mol.Liq. 95 (2002) 157-165	
+3	Chauhan M.S.; Kumar A.; Chauhan S.: Part 2. 1,2-Dimethoxyethane and Tetrahydrofuran in Some Dipolar Aprotic Solvents. Acoust.Lett. 21 (1998) 228-235	
+4	Valen A.; Gascon I.; Lafuente C.; Urieta J.S.; Royo F.M.; Postigo M.: Volumetric and Acoustic Properties of the Ternary Mixture 1-Butanol+1-Chlorobutane+Tetrahydrofuran at 283.15, 298.15, and 313.15 K. Int.J.Thermophys. 23 (2002) 1587-1598	
+5	Nayak J.N.; Aralaguppi M.I.; Toti U.S.; Aminabhavi T.M.: Density, Viscosity, Refractive Index, and Speed of Sound int he Binary Mixtures of Tri-n-butylamine + Triethylamine, + Tetrahydrofuran, + Tetradecane, + Tetrachloroethylene, + Pyridine, or + Trichloroethylene at (298.15, 303.15, and 308.15) K. J.Chem.Eng.Data 48 (2003) 1483-1488	
+6	Valen A.; Gascon I.; Lafuente C.; Lopez M.C.; Royo F.M.: Densities and Speeds of  Sound of the Ternary Mixture 2-Butanol plus 1-Chlorobutane plus Tetrahydrofuran. Phys.Chem.Liq. 41 (2003) 239-247	
+$$$Std. Heat of Combustion	
+T [K]	Molar Enthalpy [J/mol]	State	Reference	
+298.00	-2534670.00	Vapor	1	
+298.00	-2533160.00	Vapor	3	
+298.00	-2505380.00	Liquid	2	
+298.00	-2503710.00	Liquid	3	
+Number	Source	
+1	Skuratov S.M.; Strepikheev A.A.; Kozina M.P.: Reaction activity of five- and six-member heterocyclic compounds. (Russ). Dokl.Akad.Nauk SSSR 117 (1957) 452-454	
+2	Cass R.C.; Fletcher S.E.; Mortimer C.T.; Springall H.D.; White T.R.: Heats of combustion and molecular structure. Part V. The mean bond energy term for the C-O bond in ethers, and the structures of some cyclic ethers.. J.Chem.Soc.London  (1958) 1406-1410	
+3	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
+$$$Std. Heat of Formation	
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
+298.00		-213802.00	Liquid	3	
+298.00		-184222.00	Vapor	1	
+298.15	101.325	-216230.00	Liquid	2	
+298.15	101.325	-184230.00	Vapor	2	
+Number	Source	
+1	Pell A.S.; Pilcher G.: Part 3. Ethylene Oxide, Trimethylene Oxide, Tetrahydrofuran and Tetrahydropy. Trans.Faraday Soc. 61 (1965) 71-77	
+2	Lebedev B.V.; Rabinovich I.B.; Milov V.I.; Lityagov V.Y.: Thermodynamic properties of tetrahydrofuran from 8 to 322 K.. J.Chem.Thermodyn. 10 (1978) 321-329	
+3	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
+$$$Surface Tension	
+T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference	
+278.15	101.325	29.5000	Liquid	1	
+283.15	101.325	28.5100	Liquid	1	
+293.15		27.3100	Liquid	2	
+293.15	101.325	27.3700	Liquid	1	
+298.15		26.6800	Liquid	6	
+298.15		27.0400	Liquid	3	
+298.15		27.1200	Liquid	5	
+298.15	101.325	26.5900	Liquid	1	
+303.13		26.0400	Liquid	6	
+308.15		25.3800	Liquid	6	
+313.15		25.1400	Liquid	4	
+313.15		25.2400	Liquid	5	
+313.15		25.3900	Liquid	3	
+353.15		19.7300	Liquid	2	
+Number	Source	
+1	Ramkumar D.H.S.; Kudchadker A.P.: 2. Viscosities and Surface Tensions of Gamma-Butyrolactone+Waterat 303.15-343.15 K and Gamma-Butyrolactone+THF at 278.15-298.15 K.. J.Chem.Eng.Data 34 (1989) 463-465	
+2	Korösi G.; Kovats E.S.: Density and Surface Tension of 83 Organic Liquids. J.Chem.Eng.Data 26 (1981) 323-332	
+3	Giner B.; Bandres I.; Artigas H.; Cea P.; Lafuente C.: Surface Tension of Mixtures of Tetrahydrofuran or Tetrahydropyran with Isomeric Chlorobutanes. Int.J.Thermophys. 28 (2007) 1188-1198	
+4	Villares A.; Giner B.; Artigas H.; Lafuente C.; Royo F.M.: Study of the Surface Tensions of Cyclohexane or Methylcyclohexane with Some Cyclic Ethers. J.Solution Chem. 34 (2005) 185-198	
+5	Villares A.; Sanz L.; Giner B.; Lafuente C.; Lopez M.C.: Study of the Surface Tension of Chlorocyclohexane or Bromocyclohexane with Some Cyclic Ethers. J.Chem.Eng.Data 50 (2005) 1334-1337	
+6	Geppert-Rybczynska M.; Lehmann J.K.; Heintz A.: Surface Tensions and the Gibbs Excess Surface Concentration of Binary Mixtures of the Ionic Liquid 1-Ethyl-3-methylimidazolium Bis[(trifluoromethyl)sulfonyl]imide with Tetrahydrofuran and Acetonitrile. J.Chem.Eng.Data 56 (2011) 1443-1448	
+$$$Thermal Conductivity	
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
+253.15	101.325	0.1680	Liquid	1	
+263.15	101.325	0.1647	Liquid	1	
+273.15	101.325	0.1611	Liquid	1	
+283.15	101.325	0.1578	Liquid	1	
+293.15	101.325	0.1544	Liquid	1	
+303.15	101.325	0.1509	Liquid	1	
+303.76	6.733	0.0108	Vapor	2	
+313.14	6.733	0.0115	Vapor	2	
+322.68	6.733	0.0122	Vapor	2	
+332.20	6.733	0.0128	Vapor	2	
+342.45	6.733	0.0138	Vapor	2	
+352.99	6.733	0.0147	Vapor	2	
+362.63	6.733	0.0158	Vapor	2	
+371.98	6.733	0.0166	Vapor	2	
+Number	Source	
+1	Lei Q.-F.; Lin R.-S.; Ni D.-Y.; Hou Y.-C.: Thermal Conductivities of some Organic Solvents and their Binary Mixtures. J.Chem.Eng.Data 42 (1997) 971-974	
+2	Nesterov N.A.; Kurbatov V.A.; Peschenko A.D.: Thermal conductivity of some organic compounds in the 299-374 K temperature range at the pressure lower than atmospheric one. Viniti  (1983) 1-5	
+$$$Transition Temperature	
+T [K]	P [kPa]	State	Reference	
+80.15		Glass > Crystal	1	
+Number	Source	
+1	Lesikar A.V.: Effect of Association Complexes on the Glass Transition in Organic Halide Mixtures. J.Phys.Chem. 80 (1976) 1005-1011	
+$$$Vapor Pressure	
+T [K]	P [kPa]	State	Reference	
+288.15	15.199	Vapor-Liquid	5	
+293.15	16.999	Vapor-Liquid	1	
+298.15	23.465	Vapor-Liquid	5	
+302.05	25.520	Vapor-Liquid	2	
+307.51	32.040	Vapor-Liquid	2	
+308.15	35.064	Vapor-Liquid	5	
+313.06	39.960	Vapor-Liquid	2	
+313.15	40.010	Vapor-Liquid	1	
+313.15	40.100	Vapor-Liquid	2	
+317.59	47.560	Vapor-Liquid	2	
+318.15	51.329	Vapor-Liquid	5	
+321.97	55.990	Vapor-Liquid	2	
+325.35	63.755	Vapor-Liquid	4	
+325.60	63.840	Vapor-Liquid	2	
+326.55	66.554	Vapor-Liquid	4	
+327.55	68.994	Vapor-Liquid	4	
+328.15	73.327	Vapor-Liquid	5	
+328.75	71.914	Vapor-Liquid	4	
+329.31	72.760	Vapor-Liquid	2	
+330.25	75.914	Vapor-Liquid	4	
+331.75	79.767	Vapor-Liquid	4	
+332.85	82.806	Vapor-Liquid	4	
+332.93	82.370	Vapor-Liquid	2	
+333.15	82.940	Vapor-Liquid	2	
+333.15	84.020	Vapor-Liquid	1	
+333.55	84.780	Vapor-Liquid	4	
+334.85	88.713	Vapor-Liquid	4	
+335.75	91.392	Vapor-Liquid	4	
+335.86	90.880	Vapor-Liquid	2	
+336.95	95.299	Vapor-Liquid	4	
+337.95	98.499	Vapor-Liquid	4	
+338.15	101.325	Vapor-Liquid	5	
+338.57	99.360	Vapor-Liquid	2	
+339.05	101.325	Vapor-Liquid	3	
+353.15	156.041	Vapor-Liquid	1	
+373.15	279.070	Vapor-Liquid	1	
+393.15	501.119	Vapor-Liquid	1	
+413.15	740.179	Vapor-Liquid	1	
+433.15	1069.260	Vapor-Liquid	1	
+453.15	1499.370	Vapor-Liquid	1	
+473.15	2062.510	Vapor-Liquid	1	
+493.15	2791.690	Vapor-Liquid	1	
+513.15	3713.920	Vapor-Liquid	1	
+533.15	4793.180	Vapor-Liquid	1	
+Number	Source	
+1	Vasil'eva I.I.; Naumova A.A.; Polyakov A.A.; Tyvina T.N.; Kozlova N.V.: Vapor Pressures and Molar Volumes of Liquid Tetrahydrofuran, gamma-Butyrolactone, and Dibutyl Maleate at Elevated Temperatures and Pressures. Zh.Prikl.Khim. 63 (1990) 1879-1881	
+2	Pividal K.A.; Sterner C.; Sandler S.I.; Orbey H.: Vapor-liquid equilibrium from infinite dilution activity coefficients: measurement and prediction of oxygenated fuel additives with alkanes. Fluid Phase Equilib. 72 (1992) 227-249	
+3	Surendranath K.N.; Krishnaiah A.; Ramakrishna M.: Part III. Excess Enthalpies of Oxolane and 1,4-Dioxane with Chloroethanes and Chloroethenes. Fluid Phase Equilib. 71 (1992) 169-176	
+4	Papousek D.; Pago L.: VI. Gleichgewicht Flüssigkeit-Dampf des Systems Anisol-Äthyläther, Anisol-n-Butyläther und Methylalkohol-Tetrahydrofuran. Collect.Czech.Chem.Commun. 24 (1959) 2666-2672	
+5	Flom D.G.; Alpert N.; Elving P.J.: Systems Involving cis- or trans-Dichloroethylene and an Acetal or Ether. Ind.Eng.Chem. 43 (1951) 1178-1181	
+$$$Virial Coefficients	
+T [K]	Second Virial Coefficient [cm3/mol]	State	Reference	
+298.15	-1155.0000	Vapor	3	
+301.80	-1310.0000	Vapor	2	
+308.15	-1127.0000	Vapor	1	
+318.18	-1120.0000	Vapor	2	
+339.10	-930.0000	Vapor	2	
+Number	Source	
+1	Fenclova D.; Dohnal V.: (Vapour + liquid) equilibria of {1-bromo-1-chloro-2,2,2-trifluoroethane (halothane) + an oxygenated solvent or hexane}. J.Chem.Thermodyn. 25 (1993) 689-697	
+2	Hossenlopp I.A.; Scott D.W.: Vapor Heat Capacities and Enthalpies of Vaporization of Six Organic Compounds. J.Chem.Thermodyn. 13 (1981) 405-414	
+3	Cabani S.; Conti G.; Lepori L.: Part 2. - Cyclic Ethers. Trans.Faraday Soc. 67 (1971) 1943-1950	

@@ -1,0 +1,74 @@
+$$$Vapor-Liquid Equilibrium Data Set 10926	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	302.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+14.004	0.00310	0.01262	
+14.179	0.00723	0.02878	
+14.437	0.01308	0.05050	
+14.772	0.02173	0.08035	
+15.328	0.03440	0.11981	
+15.997	0.05135	0.16606	
+17.061	0.08570	0.24259	
+18.474	0.14045	0.33329	
+19.894	0.21084	0.41757	
+20.974	0.27853	0.47982	
+21.913	0.35277	0.53651	
+22.401	0.39259	0.56390	
+22.538	0.41364	0.57788	
+22.978	0.44700	0.59933	
+23.658	0.52280	0.64664	
+24.355	0.61282	0.70239	
+24.726	0.66645	0.73648	
+25.035	0.71740	0.77008	
+25.299	0.78587	0.81791	
+25.537	0.86237	0.87623	
+25.671	0.93857	0.94119	
+25.678	0.97290	0.97325	
+25.678	0.99050	0.99053	
+Source	
+Govindan A.P.; Varma Y.B.G.; Ananth M.S.: Isothermal Vapor + Liquid Equilibria of Four Binary Mixtures. J.Chem.Thermodyn. 16 (1984) 1-5	
+$$$Vapor-Liquid Equilibrium Data Set 21078	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Pressure	93.80	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+352.30	0.00000	0.00000	
+347.40	0.08500	0.18900	
+346.90	0.08600	0.19200	
+345.90	0.11400	0.25600	
+345.20	0.14100	0.29300	
+344.40	0.17400	0.33200	
+343.70	0.21000	0.37400	
+343.90	0.23900	0.39100	
+342.00	0.35000	0.49500	
+340.70	0.40300	0.53600	
+339.50	0.48800	0.60400	
+339.00	0.53900	0.64100	
+338.10	0.62700	0.70500	
+337.90	0.65200	0.71400	
+337.70	0.68600	0.73400	
+337.20	0.81000	0.83400	
+337.10	0.84400	0.85800	
+337.00	0.89500	0.90300	
+336.90	1.00000	1.00000	
+Source	
+Darwish N.A.; Abdallah W.A.: Experimental and theoretical investigation of the vapor-liquid equilibrium of ethyl acetate-n-propyl acetate and tetrahydrofuran-acetonitrile binaries at 93.8 kPa. Chem.Eng.Process. 39 (2000) 107-111	
+$$$Vapor-Liquid Equilibrium Data Set 36561	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	323.15	K	
+x1 [mol/mol]	y1 [mol/mol]	
+0.35300	0.51600	
+0.65300	0.76000	
+0.84900	0.86900	
+0.95800	0.96300	
+Source	
+Luis P.; Wouters C.; Sweygers N.; Creemers C.; Van der Bruggen B.: The potential of head-space gas chromatography for VLE measurements. J.Chem.Thermodyn. 49 (2012) 128-136	
+Source	
+Govindan A.P.; Varma Y.B.G.; Ananth M.S.: Isothermal Vapor + Liquid Equilibria of Four Binary Mixtures. J.Chem.Thermodyn. 16 (1984) 1-5	
+Darwish N.A.; Abdallah W.A.: Experimental and theoretical investigation of the vapor-liquid equilibrium of ethyl acetate-n-propyl acetate and tetrahydrofuran-acetonitrile binaries at 93.8 kPa. Chem.Eng.Process. 39 (2000) 107-111	
+Luis P.; Wouters C.; Sweygers N.; Creemers C.; Van der Bruggen B.: The potential of head-space gas chromatography for VLE measurements. J.Chem.Thermodyn. 49 (2012) 128-136	

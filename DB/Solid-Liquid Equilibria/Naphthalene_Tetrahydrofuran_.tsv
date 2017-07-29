@@ -1,0 +1,19 @@
+$$$Solid-Liquid Equilibrium Data Set 28560	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C10H8	128.174	91-20-3	Naphthalene	
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+T [K]	xL1 [mol/mol]	
+278.60	0.24120	
+284.35	0.27260	
+288.25	0.29180	
+293.25	0.32420	
+298.00	0.35160	
+303.20	0.38490	
+308.19	0.42840	
+313.25	0.46850	
+318.35	0.51020	
+323.20	0.56570	
+328.21	0.59990	
+333.22	0.62920	
+Source	
+Li Q.-S.; Yi Z.-M.; Su M.-G.; Sun X.-F.: Solubility of Naphthalene in Isobutyl Acetate, n-Butyric Acid, Ethyl Acetate, N-Methyl Pyrrolidone, N,N-Dimethylformamide, and Tetrahydrofuran. J.Chem.Eng.Data 53 (2008) 2701-2703	

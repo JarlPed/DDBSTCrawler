@@ -1,0 +1,54 @@
+$$$Vapor-Liquid Equilibrium Data Set 10968	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C4H8O2	88.106	141-78-6	Acetic acid butyl ester	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+394.95	0.03900	0.14100	
+390.35	0.09600	0.29900	
+384.05	0.17200	0.47100	
+376.45	0.29100	0.63900	
+370.15	0.40600	0.74200	
+366.85	0.47900	0.80700	
+364.55	0.55200	0.83800	
+362.65	0.57800	0.86400	
+359.45	0.68900	0.90300	
+355.55	0.80700	0.94900	
+352.35	0.90400	0.97800	
+352.15	0.91400	0.98000	
+350.75	0.95600	0.99000	
+Source	
+Shono H.; Kanazawa N.; Hashitani M.; Komatsu H.; Hirata M.: Vapor-Liquid Equilibrium in Extractive Distillation of Ethyl Acetate-Ethanol System. Kogyo Kagaku Zasshi 72 (1969) 815-819	
+$$$Vapor-Liquid Equilibrium Data Set 34586	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C4H8O2	88.106	141-78-6	Acetic acid butyl ester	
+Temperature	15.40	K	
+P [kPa]	T [K]	x1 [mol/mol]	y1 [mol/mol]	
+19.170	350.12	0.00000	0.00000	
+23.360	350.07	0.05300	0.22100	
+26.720	350.03	0.09400	0.34600	
+30.070	350.06	0.13800	0.44900	
+33.110	350.07	0.17600	0.51800	
+36.830	350.12	0.22200	0.59400	
+40.480	350.05	0.26500	0.64800	
+44.000	350.11	0.31300	0.69700	
+47.330	350.14	0.34900	0.73000	
+50.030	350.12	0.38200	0.75500	
+54.380	350.11	0.43400	0.79500	
+58.260	350.10	0.47600	0.82200	
+62.190	350.08	0.51900	0.85000	
+67.800	350.04	0.59900	0.88200	
+72.600	350.10	0.65800	0.90500	
+77.090	350.06	0.71500	0.92600	
+82.250	350.08	0.77700	0.94500	
+85.950	350.12	0.81900	0.95700	
+90.330	350.11	0.87300	0.97100	
+94.870	350.05	0.93100	0.98500	
+99.460	350.06	0.98500	0.99700	
+100.680	350.02	1.00000	1.00000	
+Source	
+Laavi H.; Pokki J.-P.; Uusi-Kyyny P.; Massimi A.; Kim Y.; Sapei E.; Alopaeus V.: VaporLiquid Equilibrium at 350 K, Excess Molar Enthalpies at 298 K, and Excess Molar Volumes at 298 K of Binary Mixtures Containing Ethyl Acetate, Butyl Acetate, and 2-Butanol. J.Chem.Eng.Data 58 (2013) 1011-1019	
+Source	
+Shono H.; Kanazawa N.; Hashitani M.; Komatsu H.; Hirata M.: Vapor-Liquid Equilibrium in Extractive Distillation of Ethyl Acetate-Ethanol System. Kogyo Kagaku Zasshi 72 (1969) 815-819	
+Laavi H.; Pokki J.-P.; Uusi-Kyyny P.; Massimi A.; Kim Y.; Sapei E.; Alopaeus V.: VaporLiquid Equilibrium at 350 K, Excess Molar Enthalpies at 298 K, and Excess Molar Volumes at 298 K of Binary Mixtures Containing Ethyl Acetate, Butyl Acetate, and 2-Butanol. J.Chem.Eng.Data 58 (2013) 1011-1019	

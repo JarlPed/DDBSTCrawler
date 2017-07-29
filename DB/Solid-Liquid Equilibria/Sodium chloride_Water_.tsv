@@ -1,0 +1,59 @@
+$$$Solid-Liquid Equilibrium Data Set 17670	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	ClNa	58.442	7647-14-5	Sodium chloride	
+2	H2O	18.015	7732-18-5	Water	
+T [K]	xL1 [mol/mol]	
+272.70	0.003104	
+271.40	0.009443	
+270.00	0.015965	
+268.50	0.022675	
+266.40	0.033116	
+Source	
+Najibi H.; Mohammadi A.H.; Tohidi B.: Estimating the Hydrate Safety Margin in the Presence of Salt and/or Organic Inhibitor Using Freezing Point Depression Data of Aqueous Solutions. Ind.Eng.Chem.Res. 45 (2006) 4441-4446	
+$$$Solid-Liquid Equilibrium Data Set 17743	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	ClNa	58.442	7647-14-5	Sodium chloride	
+2	H2O	18.015	7732-18-5	Water	
+T [K]	xL1 [mol/mol]	
+273.15	5.501749911E-6	
+273.15	1.454510038E-5	
+273.15	2.49681998E-5	
+273.14	3.891090091E-5	
+273.14	5.991430226E-5	
+273.13	8.507759776E-5	
+273.13	0.0001097889981	
+273.12	0.0001341939933	
+273.12	0.0001582370023	
+273.15	7.278009889E-6	
+273.15	1.511440041E-5	
+273.14	3.831640061E-5	
+273.14	6.747960288E-5	
+273.13	8.356459875E-5	
+273.13	0.0001123469992	
+273.12	0.0001644500007	
+273.15	4.269540113E-6	
+273.15	1.201590021E-5	
+273.14	3.222779924E-5	
+273.14	6.250810111E-5	
+273.13	0.0001250990026	
+273.11	0.0002202749893	
+273.08	0.0003340669791	
+273.06	0.0004498119815	
+Source	
+Hausrath H.: Eine Differentialmethode zur Bestimmung kleiner Gefrierpunktsdepressionen. Ann.Physik 314 (1902) 522-554	
+$$$Solid-Liquid Equilibrium Data Set 18672	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	ClNa	58.442	7647-14-5	Sodium chloride	
+2	H2O	18.015	7732-18-5	Water	
+T [K]	xL1 [mol/mol]	
+273.15	0.00000	
+272.63	0.00270736008	
+272.11	0.005451	
+271.57	0.008321	
+271.06	0.010946	
+270.53	0.013723	
+269.98	0.016567	
+269.44	0.019242	
+268.94	0.021697	
+Source	
+Rivett A.D.C.: Neutralsalzwirkung auf die Gefrierpunkte von Mischungen in wässeriger Lösung. Z.Phys.Chem.(Leipzig) 80 (1912) 537-563	

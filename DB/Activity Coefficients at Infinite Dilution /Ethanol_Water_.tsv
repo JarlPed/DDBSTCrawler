@@ -1,0 +1,16 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	H2O	18.015	7732-18-5	Water	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+298.15	3.2800	OTHR	1	
+Short Term	Explanation	
+OTHR	other techniques	
+1	Schmidt T.W.: Determination of Infinite Dilution Activity Coefficients (gamma infinite) using Molecular Beams. US-Patent  (1980) 1-16	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+283.15	3.1800	OTHR	1	
+283.15	4.3800	STAT	2	
+Short Term	Explanation	
+OTHR	other techniques	
+STAT	static method	
+1	Schmidt T.W.: Determination of Infinite Dilution Activity Coefficients (gamma infinite) using Molecular Beams. US-Patent  (1980) 1-16	
+2	Pividal K.A.; Birtigh A.; Sandler S.I.: Infinite Dilution Activity Coefficients for Oxygenate Systems Determined Using a Differential Static Cell. J.Chem.Eng.Data 37 (1992) 484-487	

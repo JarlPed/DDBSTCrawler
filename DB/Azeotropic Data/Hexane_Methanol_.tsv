@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	CH4O	32.042	67-56-1	Methanol	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+hetPmax	293.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	2	
+hetPmax	293.150	28.038	n.a.	0.44500	n.a.	Author	1	
+hetPmax	298.150	35.664	n.a.	0.45300	n.a.	Author	1	
+hetPmax	heterogeneous pressure maximum	
+1	Schmidt R.; Schuberth H.; Werner G.: Die Bestimmung der heteroazeotropen Eigenschaften der Systeme n-Hexan/Methanol und Methylcyclohexan/Methanol mit einer neuen Gleichgewichtsapparatur (G 15). Z.Phys.Chem.(Leipzig) 242 (1969) 381-390	
+2	Goral M.; Oracz P.; Warycha S.: XIV. The ternary system cyclohexane-methanol-hexane at 293.15 K. Fluid Phase Equilib. 169 (2000) 85-99	

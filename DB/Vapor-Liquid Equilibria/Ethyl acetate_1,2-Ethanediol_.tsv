@@ -1,0 +1,31 @@
+$$$Vapor-Liquid Equilibrium Data Set 12971	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+470.35	0.00000	0.00000	
+456.45	0.00500	0.36400	
+447.85	0.00600	0.54600	
+434.75	0.00800	0.74000	
+421.85	0.01000	0.88000	
+413.15	0.01400	0.93600	
+391.15	0.02600	0.97000	
+363.65	0.08000	0.97900	
+357.15	0.12000	0.98500	
+354.65	0.14400	0.98400	
+354.55	0.20600	0.98400	
+354.35	0.22200	0.98400	
+354.25	0.28300	0.98400	
+354.15	0.32100	0.98400	
+353.85	0.40600	0.98400	
+353.35	0.45700	0.98400	
+352.85	0.58300	0.98400	
+351.75	0.78000	0.99000	
+350.95	0.88500	0.99400	
+350.55	0.98800	0.99900	
+350.25	1.00000	1.00000	
+Source	
+Thorat R.T.; Nageshwar G.D.: Ethyl Acetate-Ethylene Glycol. Indian Chem.Eng. 30 (1988) 50-54	
+Source	
+Thorat R.T.; Nageshwar G.D.: Ethyl Acetate-Ethylene Glycol. Indian Chem.Eng. 30 (1988) 50-54	

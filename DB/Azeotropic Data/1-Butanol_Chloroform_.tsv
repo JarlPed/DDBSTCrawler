@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	CHCl3	119.377	67-66-3	Chloroform	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	2	
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1	
+none	n.a.	105.001	n.a.	n.a.	Phase equilibrium	Author	3	
+none	zeotropic	
+1	Lepin L.K.; Matseevsky B.I.: Isobaric Binary System n-Butyl alcohol - Chloroform. Zinatniskie Raksti (Riga) 9 (1956) 65-67	
+2	Rao B.V.S.; Rao C.V.: Isopiestic binary vapour liquid equilibria system chloroform (1) - n-butanol (2). Chem.Eng.Sci. 17 (1962) 574-576	
+3	Chen G.-H.; Wang Q.; Ma Z.M.; Yan X.-H.; Han S.-J.: Phase Equilibria at Superatmospheric Pressures for Systems Containing Halohydrocarbon, Aromatic Hydrocarbon, and Alcohol. J.Chem.Eng.Data 40 (1995) 361-366	

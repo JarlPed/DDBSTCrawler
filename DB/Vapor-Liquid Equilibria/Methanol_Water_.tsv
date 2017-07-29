@@ -1,0 +1,68 @@
+$$$Vapor-Liquid Equilibrium Data Set 466	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	H2O	18.015	7732-18-5	Water	
+Pressure	97.99	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+369.65	0.00840	0.10300	
+365.45	0.02580	0.22700	
+360.65	0.06800	0.39100	
+353.25	0.13700	0.56800	
+349.05	0.24000	0.68000	
+343.75	0.48000	0.79000	
+341.85	0.57200	0.82000	
+339.55	0.74100	0.90600	
+Source	
+Bennett G.W.: A Laboratory Experiment on the Boiling-Point Curves of Non-Azeotropic Binary Mixtures. J.Chem.Educ. 6 (1929) 1544-1549	
+$$$Vapor-Liquid Equilibrium Data Set 467	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	312.91	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+9.079	0.04780	0.25590	
+11.412	0.09250	0.45620	
+11.506	0.09250	0.46280	
+13.012	0.13350	0.62140	
+13.786	0.15230	0.61640	
+14.639	0.18090	0.64860	
+15.785	0.20320	0.67340	
+15.879	0.20270	0.67960	
+16.319	0.22280	0.69540	
+17.599	0.25570	0.72630	
+18.425	0.28660	0.73830	
+19.025	0.30650	0.76120	
+20.705	0.37160	0.80530	
+21.532	0.41720	0.80480	
+22.318	0.43620	0.82380	
+23.385	0.50330	0.84570	
+25.091	0.59330	0.86190	
+26.998	0.69170	0.88350	
+27.518	0.69490	0.89740	
+29.744	0.80020	0.95360	
+32.571	0.92700	0.97610	
+Source	
+Bredig G.; Bayer R.: Die Dampfdrücke des binären Systems Methylalkohol-Wasser. Z.Phys.Chem.(Leipzig) 130 (1927) 1-14	
+$$$Vapor-Liquid Equilibrium Data Set 468	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	322.91	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+15.932	0.04860	0.27410	
+20.932	0.12180	0.47410	
+22.625	0.14780	0.52200	
+26.131	0.21310	0.62940	
+29.024	0.26930	0.71060	
+31.544	0.32520	0.75800	
+37.730	0.51430	0.82030	
+40.850	0.62790	0.86540	
+43.210	0.70830	0.90070	
+46.450	0.80370	0.94060	
+49.796	0.90070	0.96270	
+52.142	0.94610	0.97360	
+Source	
+Bredig G.; Bayer R.: Die Dampfdrücke des binären Systems Methylalkohol-Wasser. Z.Phys.Chem.(Leipzig) 130 (1927) 1-14	
+Source	
+Bredig G.; Bayer R.: Die Dampfdrücke des binären Systems Methylalkohol-Wasser. Z.Phys.Chem.(Leipzig) 130 (1927) 1-14	
+Bennett G.W.: A Laboratory Experiment on the Boiling-Point Curves of Non-Azeotropic Binary Mixtures. J.Chem.Educ. 6 (1929) 1544-1549	

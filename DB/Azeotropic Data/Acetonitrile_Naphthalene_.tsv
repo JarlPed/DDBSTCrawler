@@ -1,0 +1,7 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C10H8	128.174	91-20-3	Naphthalene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	298.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	zeotropic	
+1	Li I.F.; Semenov L.V.; Gaile A.A.; Pultsin N.M.: Thermodynamic Functions of Mixing in Aromatic Hydrocarbon - Acetonitrile Systems. Russ.J.Phys.Chem. 58 (1984) 1481-1483	

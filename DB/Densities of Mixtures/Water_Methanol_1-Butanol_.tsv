@@ -1,0 +1,87 @@
+$$$Density Data Set 10968	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	CH4O	32.042	67-56-1	Methanol	
+3	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	293.150	K	
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
+0.9980	1.00000	0.00000	
+0.7915	0.00000	1.00000	
+0.8100	0.00000	0.00000	
+0.8201	0.10795	0.89205	
+0.8328	0.20157	0.79843	
+0.8430	0.28490	0.71510	
+0.8633	0.43150	0.56850	
+0.9350	0.76486	0.23514	
+0.8307	0.24060	0.00000	
+0.8417	0.37274	0.00000	
+0.8787	0.66647	0.00000	
+0.9066	0.77858	0.00000	
+0.9848	0.94133	0.00000	
+0.7971	0.00000	0.96448	
+0.7981	0.00000	0.87111	
+0.7990	0.00000	0.77766	
+0.8074	0.00000	0.27932	
+0.8076	0.00000	0.25264	
+0.8086	0.00000	0.15698	
+0.8096	0.00000	0.06140	
+0.8099	0.00000	0.03247	
+0.8111	0.11788	0.82791	
+0.8224	0.23027	0.26672	
+0.8197	0.20452	0.47065	
+0.8170	0.18645	0.61600	
+0.8112	0.15460	0.81994	
+0.8213	0.20604	0.69918	
+0.8347	0.29709	0.40904	
+0.8404	0.35177	0.50930	
+0.8492	0.39448	0.41725	
+0.8610	0.47158	0.34405	
+0.8659	0.43480	0.48535	
+0.8679	0.54702	0.23662	
+0.8876	0.53178	0.42920	
+0.8850	0.56303	0.35415	
+0.9181	0.69776	0.26156	
+0.9319	0.78697	0.15675	
+0.9665	0.88760	0.04584	
+Source	
+Khalfaoui B.; Meniai A.H.; Borja R.: Thermodynamic properties of water + normal alcohols and vapor-liquid equilibria for binary systems of methanol or 2-propanol with water. Fluid Phase Equilib. 127 (1997) 181-190	
+$$$Density Data Set 44976	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	H2O	18.015	7732-18-5	Water	
+3	CH4O	32.042	67-56-1	Methanol	
+Temperature	303.150	K	
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
+0.8144	0.69510	0.13020	
+0.8215	0.61500	0.23040	
+0.8280	0.58870	0.26330	
+0.8345	0.49990	0.37450	
+0.8396	0.45710	0.42800	
+0.8446	0.42110	0.47310	
+0.8547	0.36370	0.54490	
+0.8588	0.34050	0.57390	
+0.8600	0.33210	0.58450	
+0.8609	0.32800	0.58950	
+Source	
+Singh R.P.; Haque M.M.: Part I - Kinematic Viscosities of Methanol -n-Butanol-Water Ternary System of Different Compositions. Indian J.Chem.Sect.A 20 (1981) 874-878	
+$$$Density Data Set 44977	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	H2O	18.015	7732-18-5	Water	
+3	CH4O	32.042	67-56-1	Methanol	
+Temperature	303.150	K	
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
+0.9994	0.00120	0.99850	
+0.9981	0.00300	0.99630	
+0.9959	0.00590	0.99260	
+0.9939	0.00880	0.98900	
+0.9922	0.01170	0.98530	
+0.9902	0.01460	0.98190	
+0.9890	0.01630	0.97960	
+0.9881	0.01700	0.97860	
+0.9874	0.01850	0.97680	
+Source	
+Singh R.P.; Haque M.M.: Part I - Kinematic Viscosities of Methanol -n-Butanol-Water Ternary System of Different Compositions. Indian J.Chem.Sect.A 20 (1981) 874-878	
+Source	
+Khalfaoui B.; Meniai A.H.; Borja R.: Thermodynamic properties of water + normal alcohols and vapor-liquid equilibria for binary systems of methanol or 2-propanol with water. Fluid Phase Equilib. 127 (1997) 181-190	
+Singh R.P.; Haque M.M.: Part I - Kinematic Viscosities of Methanol -n-Butanol-Water Ternary System of Different Compositions. Indian J.Chem.Sect.A 20 (1981) 874-878	

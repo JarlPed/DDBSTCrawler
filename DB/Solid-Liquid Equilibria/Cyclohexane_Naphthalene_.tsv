@@ -1,0 +1,33 @@
+$$$Solid-Liquid Equilibrium Data Set 123	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+298.15	0.85130	
+Source	
+Heric E.L.; Posey C.D.: Solubility of Naphthalene in Some Mixed Solvents Containing Benzene. J.Chem.Eng.Data 9 (1964) 35-43	
+$$$Solid-Liquid Equilibrium Data Set 1082	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+300.15	0.84590	
+311.15	0.74800	
+318.75	0.65210	
+325.35	0.54240	
+329.55	0.46200	
+Source	
+McLaughlin E.; Zainal H.A.: Part III. Solubilities in Cyclohexane. J.Chem.Soc.London  (1960) 3854-3856	
+$$$Solid-Liquid Equilibrium Data Set 1104	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+294.85	0.87700	
+297.95	0.86200	
+301.35	0.83900	
+305.45	0.79500	
+308.85	0.77200	
+322.25	0.59000	
+Source	
+Sergeeva V.F.; Eskaraeva L.A.; Usmanova I.Z.; Glybovskaya V.A.: Equilibrium of Liquid Phases in Systems of Cyclohexane and Methanol with Naphthalene, with Diphenylamine, and with Benzoic Acid. J.Gen.Chem.USSR 41 (1971) 1908-1911	

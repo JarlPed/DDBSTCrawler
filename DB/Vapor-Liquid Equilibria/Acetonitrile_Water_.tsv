@@ -1,0 +1,58 @@
+$$$Vapor-Liquid Equilibrium Data Set 480	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	H2O	18.015	7732-18-5	Water	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+359.65	0.02900	0.26300	
+354.25	0.09300	0.50500	
+353.15	0.14200	0.55900	
+351.75	0.25400	0.61700	
+350.55	0.40200	0.65500	
+349.85	0.50700	0.66400	
+349.75	0.52700	0.67300	
+349.15	0.71800	0.72800	
+349.75	0.83900	0.78000	
+349.95	0.85600	0.76100	
+353.55	0.98600	0.94500	
+Source	
+Blackford D.S.; York R.: Vapor-Liquid Equilibria of the System Acrylonitrile-Acetonitrile-Water. J.Chem.Eng.Data 10 (1965) 313-318	
+$$$Vapor-Liquid Equilibrium Data Set 481	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	H2O	18.015	7732-18-5	Water	
+Pressure	20.00	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+333.35	0.00000	0.00000	
+331.85	0.00300	0.06400	
+317.95	0.05200	0.50700	
+309.85	0.16800	0.73200	
+307.65	0.51300	0.81000	
+307.25	0.77200	0.83500	
+307.75	0.90000	0.86000	
+309.15	0.95500	0.91000	
+309.75	0.98000	0.95500	
+309.85	1.00000	1.00000	
+Source	
+Othmer D.F.; Josefowitz S.: Composition of Vapors from Boiling Binary Solutions Acetonitrile-Water System. Ind.Eng.Chem. 39 (1947) 1175-1177	
+$$$Vapor-Liquid Equilibrium Data Set 482	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	H2O	18.015	7732-18-5	Water	
+Pressure	40.00	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+346.65	0.00800	0.10700	
+337.85	0.03000	0.42000	
+327.15	0.11800	0.68600	
+324.85	0.31100	0.73200	
+324.55	0.52000	0.74600	
+324.25	0.70000	0.77200	
+324.35	0.86000	0.80800	
+324.75	0.91400	0.83500	
+325.45	0.98000	0.91400	
+326.35	0.99000	0.95300	
+Source	
+Othmer D.F.; Josefowitz S.: Composition of Vapors from Boiling Binary Solutions Acetonitrile-Water System. Ind.Eng.Chem. 39 (1947) 1175-1177	
+Source	
+Othmer D.F.; Josefowitz S.: Composition of Vapors from Boiling Binary Solutions Acetonitrile-Water System. Ind.Eng.Chem. 39 (1947) 1175-1177	
+Blackford D.S.; York R.: Vapor-Liquid Equilibria of the System Acrylonitrile-Acetonitrile-Water. J.Chem.Eng.Data 10 (1965) 313-318	

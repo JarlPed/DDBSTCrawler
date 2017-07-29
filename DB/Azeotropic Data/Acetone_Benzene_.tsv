@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C6H6	78.114	71-43-2	Benzene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	98.392	n.a.	n.a.	Phase equilibrium	DDBST	3	
+none	n.a.	101.325	n.a.	n.a.	Distillation	Author	1	
+none	318.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	2	
+none	zeotropic	
+1	Lecat M.: Azéotropes de Cétones. Ann.Soc.Sci.Bruxelles Ser.1 60 (1946) 228-259	
+2	Brown I.; Smith F.: VIII. The Systems Acetone + Benzene and Acetone + Carbon tetrachloride at 45°C. Aust.J.Chem. 10 (1957) 423-428	
+3	Tallmadge J.A.; Canjar L.N.: Simultaneous Measurement of Phase Equilibria and Integral Isobaric Heats of Vaporizaton. Ind.Eng.Chem. 46 (1954) 1279-1281	

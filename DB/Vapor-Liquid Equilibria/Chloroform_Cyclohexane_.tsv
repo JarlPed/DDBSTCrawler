@@ -1,0 +1,46 @@
+$$$Vapor-Liquid Equilibrium Data Set 334	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Pressure	101.33	kPa	
+x1 [mol/mol]	y1 [mol/mol]	
+0.15000	0.27000	
+0.31000	0.46200	
+0.51300	0.64100	
+0.80400	0.85900	
+0.90100	0.92900	
+0.93200	0.94900	
+Source	
+Norrish R.S.; Twigg G.H.: Single Constant Linear Equation for Vapor-Liquid Equilibria in Binary Systems. Ind.Eng.Chem. 46 (1954) 201-204	
+$$$Vapor-Liquid Equilibrium Data Set 335	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Pressure	40.00	kPa	
+x1 [mol/mol]	y1 [mol/mol]	
+0.13000	0.26300	
+0.23500	0.41400	
+0.43300	0.60400	
+0.65400	0.76400	
+0.82600	0.87800	
+Source	
+Norrish R.S.; Twigg G.H.: Single Constant Linear Equation for Vapor-Liquid Equilibria in Binary Systems. Ind.Eng.Chem. 46 (1954) 201-204	
+$$$Vapor-Liquid Equilibrium Data Set 21925	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Pressure	95.00	kPa	
+T [K]	x1 [mol/mol]	
+351.65	0.00000	
+347.05	0.15060	
+342.65	0.30050	
+339.65	0.45040	
+337.35	0.60040	
+335.45	0.75050	
+333.85	0.90010	
+332.85	1.00000	
+Source	
+Vittal Prasad T.E.; Naidu B.R.P.N.; Madhukiran D.; Prasad D.H.L.: Boiling Temperature Measurements on the Binary Mixtures of Cyclohexane with Some Alcohols and Chlorohydrocarbons. J.Chem.Eng.Data 46 (2001) 414-416	
+Source	
+Norrish R.S.; Twigg G.H.: Single Constant Linear Equation for Vapor-Liquid Equilibria in Binary Systems. Ind.Eng.Chem. 46 (1954) 201-204	
+Vittal Prasad T.E.; Naidu B.R.P.N.; Madhukiran D.; Prasad D.H.L.: Boiling Temperature Measurements on the Binary Mixtures of Cyclohexane with Some Alcohols and Chlorohydrocarbons. J.Chem.Eng.Data 46 (2001) 414-416	

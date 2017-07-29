@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+2	C10H8	128.174	91-20-3	Naphthalene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+hetPmax	456.150	101.325	n.a.	n.a.	n.a.	Author	2	
+hetPmax	456.650	99.992	0.65000	n.a.	n.a.	Author	3	
+hetPmax	457.050	101.325	0.68246	n.a.	Distillation	Author	1	
+hetPmax	heterogeneous pressure maximum	
+1	Lecat M.: Nouveaux Azéotropes. Première Liste. Ann.Soc.Sci.Bruxelles 45 (1925) 169-177	
+2	Ridley K.F.; Ridley J.: Purification of Ethers of Alkylene Glycols by Distillation. GB-Patent  (1955) 1-6	
+3	Brusset H.; Kaiser L.; Hocquel J.: Etude de Quelques Systemes Binaires du Glycol. Chim.Ind.Genie Chim. 99 (1968) 207-219	

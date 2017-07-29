@@ -1,0 +1,57 @@
+$$$Solid-Liquid Equilibrium Data Set 280	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+T [K]	xL1 [mol/mol]	
+278.63	1.00000	
+278.00	0.98860	
+276.08	0.95890	
+272.88	0.90750	
+267.05	0.80770	
+261.66	0.70860	
+255.30	0.59390	
+249.58	0.49620	
+243.58	0.40340	
+236.11	0.30440	
+232.23	0.26140	
+232.13	0.26100	
+233.12	0.25540	
+243.23	0.19950	
+252.44	0.14960	
+263.43	0.08950	
+270.49	0.05080	
+277.90	0.00970	
+279.74	0.00000	
+Source	
+Ott J.B.; Goates J.R.: An Equation for Representing (Solid + Liquid) Phase Equilibria. J.Chem.Thermodyn. 15 (1983) 267-278	
+$$$Solid-Liquid Equilibrium Data Set 989	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+T [K]	xL1 [mol/mol]	
+266.25	0.80000	
+260.75	0.70000	
+254.75	0.59990	
+248.15	0.50000	
+240.95	0.39990	
+Source	
+Negishi R.: The Solubility of Solid Benzene in Several Non-Polar Liquids. Rev.Phys.Chem.Japan 15 (1941) 98-116	
+$$$Solid-Liquid Equilibrium Data Set 1319	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+T [K]	xL1 [mol/mol]	
+278.65	1.00000	
+271.85	0.83300	
+261.15	0.69900	
+249.55	0.50700	
+239.15	0.36100	
+233.85	0.31100	
+230.65	0.26500	
+232.65	0.24700	
+239.15	0.20800	
+249.05	0.15900	
+260.55	0.10200	
+279.75	0.00000	
+Source	
+Kravchenko V.M.; Eremenko A.P.: Binary Systems of Six-Membered Cyclic Molecules. Zh.Prikl.Khim. 23 (1950) 613-619	

@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	353.310	101.325	0.66450	n.a.	n.a.	Author	2	
+homPmax	353.310	101.325	0.68310	n.a.	n.a.	Author	3	
+homPmax	353.350	101.325	0.68100	n.a.	n.a.	Author	1	
+homPmax	homogeneous pressure maximum	
+1	Dunlop J.G.: . Master's Thesis  (1948)	
+2	Dobroserdov L.L.: Liquid-Vapor Phase Equilibria in the System Isopropyl Alcohol-Water-Calcium Chloride. J.Appl.Chem.USSR 32 (1959) 2657-2660	
+3	Udovenko V.V.; Mazanko T.F.; Plyngeu V.Ya.: Dampf-Flüssig-Gleichgewicht in Systemen  Isopropanol - Wasser  und  Isopropanol - Benzol. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 16 (1973) 686-688	

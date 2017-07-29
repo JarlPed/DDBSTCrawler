@@ -1,0 +1,59 @@
+$$$Excess Heat Capacity Data Set 73	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	298.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+0.2360	0.02460	
+1.1550	0.11910	
+1.5600	0.17010	
+2.0410	0.24880	
+2.1930	0.30080	
+2.2090	0.37120	
+2.3130	0.40120	
+2.2280	0.46250	
+2.2410	0.49780	
+2.2800	0.58660	
+2.3550	0.71350	
+2.4480	0.80470	
+2.3240	0.80830	
+2.3230	0.88240	
+2.3550	0.88490	
+2.0730	0.92050	
+1.9620	0.93980	
+1.5250	0.96020	
+0.7940	0.98040	
+Source	
+Casanova C.; Wilhelm E.; Grolier J.-P.E.; Kehiaian H.V.: Excess Volumes and Excess Heat Capacities of (Water + Alkanoic Acid). J.Chem.Thermodyn. 13 (1981) 241-248	
+$$$Excess Heat Capacity Data Set 845	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	297.05	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+0.3672	0.006634	
+1.1305	0.09343	
+0.9136	0.11913	
+2.2058	0.34021	
+2.1978	0.50152	
+2.1059	0.69058	
+2.4332	0.77166	
+2.4228	0.84353	
+2.0002	0.91718	
+0.6656	0.98303	
+Source	
+Neiman M.B.: Thermochemische Untersuchungen der Lösungen. I. Untersuchung der Wärmekapazität binäres Systems CH3COOH + H2O bei verschiedenen Temperaturen. Zh.Obshch.Khim. 2 (1932) 1-8	
+$$$Excess Heat Capacity Data Set 846	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	H2O	18.015	7732-18-5	Water	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	315.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+2.5623	0.50152	
+2.8148	0.69058	
+3.1590	0.84353	
+Source	
+Neiman M.B.: Thermochemische Untersuchungen der Lösungen. I. Untersuchung der Wärmekapazität binäres Systems CH3COOH + H2O bei verschiedenen Temperaturen. Zh.Obshch.Khim. 2 (1932) 1-8	
+Source	
+Casanova C.; Wilhelm E.; Grolier J.-P.E.; Kehiaian H.V.: Excess Volumes and Excess Heat Capacities of (Water + Alkanoic Acid). J.Chem.Thermodyn. 13 (1981) 241-248	
+Neiman M.B.: Thermochemische Untersuchungen der Lösungen. I. Untersuchung der Wärmekapazität binäres Systems CH3COOH + H2O bei verschiedenen Temperaturen. Zh.Obshch.Khim. 2 (1932) 1-8	

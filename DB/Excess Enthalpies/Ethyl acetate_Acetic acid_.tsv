@@ -1,0 +1,50 @@
+$$$Enthalpy of Mixing Data Set 13698	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+-9.000	0.02380	
+-16.000	0.04640	
+-22.000	0.06800	
+-26.000	0.08870	
+-30.000	0.16300	
+-26.000	0.22600	
+-18.000	0.28020	
+1.000	0.36870	
+25.000	0.46700	
+43.000	0.53880	
+64.000	0.63670	
+74.000	0.70030	
+81.000	0.77800	
+81.000	0.82370	
+75.000	0.87520	
+54.000	0.93340	
+Source	
+Francesconi R.; Comelli F.: Excess molar enthalpies of binary mixtures containing acetic or propionic acid + eight ethyl alkanoates at 298.15 K. Thermochim.Acta 322 (1998) 63-68	
+$$$Enthalpy of Mixing Data Set 22412	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	323.150	K	
+Pressure	15.480	bar	
+hE [J/mol]	x1 [mol/mol]	
+-7.400	0.01480	
+-14.800	0.03000	
+-26.600	0.06130	
+-38.700	0.11080	
+-43.700	0.16370	
+-39.400	0.24030	
+-26.400	0.32460	
+-5.500	0.41790	
+21.900	0.52170	
+53.900	0.63790	
+73.000	0.73470	
+78.600	0.84090	
+63.800	0.91780	
+44.000	0.95820	
+Source	
+Brandt S.; Horstmann S.; Steinigeweg S.; Gmehling J.: Part II. Ethyl acetate synthesis. Fluid Phase Equilib. 376 (2014) 48-54	
+Source	
+Francesconi R.; Comelli F.: Excess molar enthalpies of binary mixtures containing acetic or propionic acid + eight ethyl alkanoates at 298.15 K. Thermochim.Acta 322 (1998) 63-68	
+Brandt S.; Horstmann S.; Steinigeweg S.; Gmehling J.: Part II. Ethyl acetate synthesis. Fluid Phase Equilib. 376 (2014) 48-54	

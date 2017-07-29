@@ -1,0 +1,24 @@
+$$$Vapor-Liquid Equilibrium Data Set 10382	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	H2O	18.015	7732-18-5	Water	
+3	H2O	18.015	7732-18-5	Acetic acid butyl ester	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
+336.65	0.64000	0.16000	0.85700	0.12100	
+342.75	0.48000	0.12000	0.78700	0.15400	
+351.35	0.31900	0.07900	0.68800	0.19500	
+365.25	0.15900	0.03600	0.53700	0.22500	
+339.55	0.48000	0.32000	0.80200	0.16500	
+345.85	0.33800	0.24800	0.64300	0.27400	
+352.05	0.23800	0.16200	0.47300	0.41300	
+365.25	0.11900	0.07500	0.45200	0.30100	
+342.85	0.31900	0.48200	0.72600	0.22800	
+348.15	0.23900	0.36100	0.58500	0.30900	
+354.75	0.15900	0.24100	0.43100	0.41200	
+364.75	0.07900	0.12300	0.32400	0.45600	
+347.35	0.16000	0.64000	0.63200	0.28300	
+365.85	0.03900	0.15500	0.17100	0.55800	
+Source	
+Al-Karadagi M.B.; Rudakovskaya T.S.; Timofeev V.S.: Untersuchung der Phasengleichgewicht in wässrigen Lösungsmittel-Systemen. Osnovnoi Organ.Sintez.Neftekhim. 11 (1979) 77-79	
+Source	

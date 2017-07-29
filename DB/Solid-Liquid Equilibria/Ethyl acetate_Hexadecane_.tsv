@@ -1,0 +1,27 @@
+$$$Solid-Liquid Equilibrium Data Set 1423	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	
+263.15	0.99960	
+273.15	0.98850	
+283.15	0.83710	
+288.15	0.23430	
+Source	
+Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328	
+$$$Solid-Liquid Equilibrium Data Set 54039	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C16H34	226.446	544-76-3	Hexadecane	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+T [K]	xL1 [mol/mol]	
+266.32	0.002657	
+275.94	0.018086	
+281.55	0.05029	
+283.55	0.09486	
+284.03	0.17315	
+284.77	0.32326	
+285.13	0.55621	
+287.04	0.79359	
+289.74	1.00000	
+Source	
+Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328	

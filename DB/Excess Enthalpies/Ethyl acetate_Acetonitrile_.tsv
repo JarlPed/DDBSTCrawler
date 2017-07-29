@@ -1,0 +1,56 @@
+$$$Enthalpy of Mixing Data Set 6602	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+18.003	0.10000	
+30.145	0.20000	
+38.519	0.30000	
+43.961	0.40000	
+45.636	0.50000	
+43.124	0.60000	
+36.844	0.70000	
+27.214	0.80000	
+14.654	0.90000	
+Source	
+Mato F.; Cabezas J.L.; Coca J.: Equilibrio Liquido-Vapor Isobarico y Calor de Mezcla. Anal.Quim. 69 (1973) 123-128	
+$$$Enthalpy of Mixing Data Set 11564	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	308.150	K	
+hE [J/mol]	x1 [mol/mol]	
+10.800	0.04130	
+20.500	0.08500	
+29.200	0.12870	
+37.000	0.17610	
+44.300	0.22980	
+49.900	0.28430	
+52.900	0.32500	
+55.200	0.37200	
+55.900	0.38270	
+56.700	0.42270	
+56.600	0.47820	
+55.000	0.53990	
+52.100	0.60130	
+47.500	0.66790	
+41.500	0.75270	
+32.900	0.80090	
+17.200	0.91240	
+Source	
+Nagata I.; Tamura K.: Excess Enthalpies of Acetonitrile + Trichloromethane, + Ethyl Acetate, and + Methyl Acetate, and of (Acetonitrile + Trichloromethane) + Ethyl Acetate and + Methyl Acetate at 308.15 K. J.Chem.Thermodyn. 15 (1983) 721-724	
+$$$Enthalpy of Mixing Data Set 11839	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	294.150	K	
+hE [J/mol]	x1 [mol/mol]	
+28.585	0.85286	
+19.184	0.92599	
+Source	
+Popov P.G.: Mischungswärme von Acetonitril mit einigen organischen Lösungsmitteln. Ukr.Khim.Zh.(Russ.Ed.) 2 (1926) 387-390	
+Source	
+Mato F.; Cabezas J.L.; Coca J.: Equilibrio Liquido-Vapor Isobarico y Calor de Mezcla. Anal.Quim. 69 (1973) 123-128	
+Popov P.G.: Mischungswärme von Acetonitril mit einigen organischen Lösungsmitteln. Ukr.Khim.Zh.(Russ.Ed.) 2 (1926) 387-390	
+Nagata I.; Tamura K.: Excess Enthalpies of Acetonitrile + Trichloromethane, + Ethyl Acetate, and + Methyl Acetate, and of (Acetonitrile + Trichloromethane) + Ethyl Acetate and + Methyl Acetate at 308.15 K. J.Chem.Thermodyn. 15 (1983) 721-724	

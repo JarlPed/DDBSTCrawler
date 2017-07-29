@@ -1,0 +1,54 @@
+$$$Vapor-Liquid Equilibrium Data Set 11510	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Pressure	101.67	kPa	
+T [K]	x1 [mol/mol]	
+404.55	0.07940	
+388.95	0.18330	
+378.35	0.28730	
+372.95	0.39100	
+369.18	0.49350	
+366.11	0.59650	
+363.38	0.69890	
+360.74	0.80000	
+358.29	0.89990	
+Source	
+Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)	
+$$$Vapor-Liquid Equilibrium Data Set 11511	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Pressure	53.33	kPa	
+T [K]	x1 [mol/mol]	
+386.95	0.07900	
+369.55	0.18300	
+360.40	0.28710	
+355.83	0.39090	
+352.38	0.49340	
+349.65	0.59650	
+347.16	0.69880	
+344.90	0.80000	
+342.87	0.89990	
+Source	
+Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)	
+$$$Vapor-Liquid Equilibrium Data Set 15087	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Pressure	101.38	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+426.15	0.04500	0.73300	
+413.15	0.07000	0.85500	
+401.15	0.11000	0.91200	
+387.15	0.15200	0.96000	
+380.15	0.19000	0.99200	
+375.15	0.26000	0.99400	
+371.15	0.40200	0.99950	
+363.15	0.65100	0.99700	
+355.75	0.96000	0.99900	
+Source	
+Liu F.; Huang F.; Zhang C.; Zhang C.: Mathematical Modelling and Identification in Extractive Distillation of Alcohol-Water with Glycol and Diethylene Glycol. Huadong-Huagong-Xueyuan-Xuebao 19 (1993) 254-262	
+Source	
+Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)	
+Liu F.; Huang F.; Zhang C.; Zhang C.: Mathematical Modelling and Identification in Extractive Distillation of Alcohol-Water with Glycol and Diethylene Glycol. Huadong-Huagong-Xueyuan-Xuebao 19 (1993) 254-262	

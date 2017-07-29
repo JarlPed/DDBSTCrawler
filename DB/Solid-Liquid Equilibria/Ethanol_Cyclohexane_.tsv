@@ -1,0 +1,36 @@
+$$$Solid-Liquid Equilibrium Data Set 6245	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+T [K]	xL1 [mol/mol]	
+279.80	0.00000	
+275.88	0.08082	
+273.61	0.19460	
+272.47	0.29665	
+271.38	0.39758	
+269.75	0.50050	
+266.70	0.60303	
+233.61	0.84544	
+245.42	0.79984	
+260.18	0.69905	
+214.46	0.89682	
+207.43	0.90933	
+199.87	0.92055	
+Source	
+Fiege C.; Joh R.: . Unpublished Data  (1995) 0	
+$$$Solid-Liquid Equilibrium Data Set 41001	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+T [K]	xL1 [mol/mol]	
+279.70	0.00000	
+278.73	0.00900	
+278.71	0.00904	
+278.27	0.01788	
+278.26	0.01790	
+277.54	0.03513	
+277.26	0.04353	
+276.74	0.05990	
+276.32	0.07572	
+Source	
+Aquirre-Ode F.: Activity Coefficients in Cyclohexane-Alcohol Systems Near the Freezing Point of Cyclohexane. J.Chem.Eng.Data 32 (1987) 434-439	

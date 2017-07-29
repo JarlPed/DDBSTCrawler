@@ -1,0 +1,66 @@
+$$$Enthalpy of Mixing Data Set 2227	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+628.900	0.10050	
+944.900	0.18210	
+1185.800	0.25060	
+1261.600	0.30850	
+1313.800	0.35810	
+1335.200	0.40080	
+1350.700	0.43840	
+1360.300	0.47150	
+1355.400	0.50480	
+1352.800	0.54330	
+1335.400	0.58790	
+1345.600	0.64090	
+1300.800	0.70380	
+1162.500	0.78110	
+896.900	0.87750	
+Source	
+Gustin J.-L.; Renon H.: Heats of Mixing of Binary Mixtures of N-Methylpyrrolidone, Ethanolamine, n-Heptane, Cyclohexane, and Benzene by Differential Flow Calorimeter. J.Chem.Eng.Data 18 (1973) 164-166	
+$$$Enthalpy of Mixing Data Set 7681	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	363.150	K	
+Pressure	7.000	bar	
+hE [J/mol]	x1 [mol/mol]	
+285.195	0.04480	
+540.162	0.09020	
+769.762	0.13600	
+982.101	0.18240	
+976.933	0.18240	
+1310.990	0.27660	
+1544.550	0.37290	
+1663.490	0.47150	
+1662.660	0.47150	
+1687.680	0.57230	
+1591.980	0.67550	
+1358.820	0.78110	
+1159.360	0.83490	
+896.294	0.88920	
+535.187	0.94430	
+301.145	0.97210	
+Source	
+Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213	
+$$$Enthalpy of Mixing Data Set 10698	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature	303.150	K	
+hE [J/mol]	x1 [mol/mol]	
+195.000	0.02700	
+402.000	0.04600	
+1780.000	0.27800	
+1730.000	0.46800	
+1160.000	0.66300	
+1390.000	0.78500	
+Source	
+Kedrina N.N.; Semenov L.V.; Gaile A.A.: Mischungswärme der Kohlenwasserstoffe mit polaren Lösungmitteln. Oniitekhim  (1981) 1-10	
+Source	
+Gustin J.-L.; Renon H.: Heats of Mixing of Binary Mixtures of N-Methylpyrrolidone, Ethanolamine, n-Heptane, Cyclohexane, and Benzene by Differential Flow Calorimeter. J.Chem.Eng.Data 18 (1973) 164-166	
+Kedrina N.N.; Semenov L.V.; Gaile A.A.: Mischungswärme der Kohlenwasserstoffe mit polaren Lösungmitteln. Oniitekhim  (1981) 1-10	
+Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213	

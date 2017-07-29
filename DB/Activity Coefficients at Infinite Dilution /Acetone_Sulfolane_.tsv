@@ -1,0 +1,12 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C4H8O2S	120.172	126-33-0	Sulfolane	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+298.15	1.3800	GLCR	2	
+313.15	1.9200	GLCN	1	
+323.15	1.8000	GLCN	1	
+Short Term	Explanation	
+GLCN	GLC (not specified)	
+GLCR	GLC (with gas phase correction)	
+1	Lichotkin E.S.; Shaposhnikov Y.K.: Gaschromatographische Untersuchung der physikalisch-chemischen Lösencharakteristiken von organischen Stoffen in Sulfolan. Tr.Khim.Khim.Tekhnol. (Gorki)  (1970) 119-122	
+2	Sitnyakovskii I.B.; Gaile A.A.; Semenov L.V.: Selectivity of Solvents in Separation of Mixtures of Oxygen-Containing Organic Compounds. J.Appl.Chem.USSR 62 (1989) 2564-2566	

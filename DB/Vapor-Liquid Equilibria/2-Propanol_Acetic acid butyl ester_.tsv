@@ -1,0 +1,81 @@
+$$$Vapor-Liquid Equilibrium Data Set 230	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C3H8O	60.096	67-63-0	Acetic acid butyl ester	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+398.30	0.00500	0.04200	
+396.82	0.01200	0.09900	
+375.90	0.21500	0.59300	
+372.33	0.27500	0.65800	
+366.71	0.41500	0.76200	
+364.54	0.48800	0.80900	
+362.19	0.58500	0.84000	
+360.80	0.65200	0.86500	
+359.39	0.72700	0.89400	
+358.30	0.79600	0.91700	
+356.82	0.89300	0.95200	
+356.38	0.92200	0.96500	
+Source	
+Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
+$$$Vapor-Liquid Equilibrium Data Set 2540	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C3H8O	60.096	67-63-0	Acetic acid butyl ester	
+Pressure	46.66	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+373.58	0.00400	0.02900	
+369.29	0.02900	0.16900	
+364.93	0.06700	0.31400	
+361.31	0.10100	0.41300	
+356.31	0.16300	0.53900	
+353.98	0.20100	0.59200	
+350.34	0.27200	0.67400	
+346.45	0.38600	0.75000	
+344.44	0.47400	0.79300	
+342.61	0.57600	0.83200	
+341.35	0.65200	0.86000	
+340.42	0.72500	0.88500	
+339.51	0.79900	0.91100	
+338.43	0.89200	0.94800	
+338.12	0.92300	0.96100	
+Source	
+Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
+$$$Vapor-Liquid Equilibrium Data Set 16813	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H8O	60.096	67-63-0	2-Propanol	
+2	C3H8O	60.096	67-63-0	Acetic acid butyl ester	
+Pressure	101.32	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+399.26	0.00000	0.00000	
+393.15	0.03450	0.19200	
+389.35	0.06190	0.30150	
+387.39	0.07660	0.34880	
+384.89	0.09870	0.40960	
+382.93	0.11530	0.44650	
+380.62	0.13980	0.49460	
+379.32	0.15450	0.52090	
+378.75	0.16340	0.53580	
+377.55	0.17920	0.55880	
+375.53	0.21020	0.60110	
+373.45	0.24260	0.63950	
+371.29	0.28680	0.67820	
+369.40	0.32800	0.71470	
+367.50	0.37420	0.74560	
+365.81	0.42190	0.77690	
+364.30	0.47280	0.80160	
+362.54	0.54300	0.83040	
+361.31	0.59680	0.85060	
+360.32	0.64750	0.86970	
+359.10	0.72190	0.89210	
+358.13	0.77040	0.90950	
+357.32	0.81720	0.92900	
+356.82	0.86710	0.94700	
+356.15	0.91340	0.96550	
+355.41	0.96100	0.98300	
+355.40	1.00000	1.00000	
+Source	
+Gonzalez E.; Ortega J.: Vapor-Liquid Equilibria at 101.32 kPA Mixtures of Butyl Esters and Propan-2-ol. J.Chem.Eng.Japan 29 (1996) 294-299	
+Source	
+Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
+Gonzalez E.; Ortega J.: Vapor-Liquid Equilibria at 101.32 kPA Mixtures of Butyl Esters and Propan-2-ol. J.Chem.Eng.Japan 29 (1996) 294-299	

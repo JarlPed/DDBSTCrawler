@@ -1,0 +1,98 @@
+$$$Vapor-Liquid Equilibrium Data Set 477	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	318.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+27.778	0.00000	0.00000	
+30.038	0.04270	0.10840	
+32.331	0.10280	0.21310	
+34.372	0.18550	0.30870	
+35.792	0.27940	0.38430	
+36.778	0.40540	0.46250	
+36.978	0.45420	0.49020	
+37.068	0.49310	0.51150	
+36.996	0.60200	0.57260	
+36.457	0.70910	0.63930	
+35.285	0.81710	0.72170	
+33.553	0.90600	0.81820	
+31.957	0.95450	0.89440	
+29.819	1.00000	1.00000	
+Source	
+Brown I.; Smith F.: VI The Systems Acetonitrile + Benzene at 45°C and Acetonitrile + Nitromethane at 60°C. Aust.J.Chem. 8 (1955) 62-67	
+$$$Vapor-Liquid Equilibrium Data Set 1624	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	293.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+9.799	0.01800	0.05400	
+10.106	0.03300	0.09600	
+10.599	0.06300	0.16100	
+10.639	0.06400	0.16200	
+11.106	0.09800	0.22100	
+11.386	0.12800	0.25600	
+11.719	0.16800	0.30000	
+11.852	0.18700	0.32100	
+11.932	0.19800	0.33000	
+12.186	0.24300	0.37000	
+12.226	0.25600	0.37600	
+12.359	0.28400	0.39500	
+12.439	0.31000	0.41200	
+12.466	0.32000	0.41700	
+12.612	0.36800	0.44200	
+12.666	0.42400	0.47300	
+12.679	0.43500	0.47900	
+12.679	0.44600	0.48400	
+12.692	0.44600	0.48600	
+12.719	0.47000	0.49800	
+12.692	0.48100	0.50100	
+12.746	0.51100	0.51800	
+12.732	0.51200	0.51900	
+12.746	0.53500	0.53200	
+12.719	0.57200	0.55100	
+12.719	0.60700	0.57100	
+12.666	0.64800	0.59300	
+12.639	0.65700	0.59700	
+12.612	0.67900	0.61200	
+12.519	0.71000	0.63200	
+12.359	0.75300	0.66200	
+12.186	0.79300	0.69500	
+12.119	0.81500	0.70900	
+12.012	0.84100	0.73400	
+11.866	0.85700	0.75700	
+11.706	0.87400	0.76700	
+11.386	0.90600	0.80800	
+11.252	0.92000	0.82900	
+11.106	0.93300	0.84900	
+11.026	0.93900	0.86000	
+10.879	0.95300	0.88300	
+10.692	0.96600	0.90600	
+10.506	0.97500	0.93000	
+10.319	0.98300	0.95000	
+10.186	0.99100	0.97200	
+Source	
+Werner G.; Schuberth H.: Das Phasengleichgewicht flüssig-flüssig des Systems Benzol/n-Heptan/Acetonitril sowie die Phasengleichgewichte dampfförmig-flüssig der entsprechenden binären Systeme bei 20,0°C. J.Prakt.Chem. 31 (1966) 225-239	
+$$$Vapor-Liquid Equilibrium Data Set 1992	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	318.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+28.851	0.01670	0.04840	
+32.651	0.10880	0.22510	
+34.784	0.20470	0.32410	
+36.157	0.31420	0.40130	
+37.010	0.43200	0.48540	
+37.157	0.47340	0.50380	
+37.117	0.58550	0.56390	
+36.664	0.69090	0.63300	
+35.810	0.77790	0.69820	
+33.131	0.92560	0.84690	
+31.251	0.97530	0.93180	
+Source	
+Palmer D.A.; Smith B.D.: Thermodynamic Excess Property Measurements for Acetonitrile-Benzene-n-Heptane System at 45°C. J.Chem.Eng.Data 17 (1972) 71-76	
+Source	
+Brown I.; Smith F.: VI The Systems Acetonitrile + Benzene at 45°C and Acetonitrile + Nitromethane at 60°C. Aust.J.Chem. 8 (1955) 62-67	
+Werner G.; Schuberth H.: Das Phasengleichgewicht flüssig-flüssig des Systems Benzol/n-Heptan/Acetonitril sowie die Phasengleichgewichte dampfförmig-flüssig der entsprechenden binären Systeme bei 20,0°C. J.Prakt.Chem. 31 (1966) 225-239	
+Palmer D.A.; Smith B.D.: Thermodynamic Excess Property Measurements for Acetonitrile-Benzene-n-Heptane System at 45°C. J.Chem.Eng.Data 17 (1972) 71-76	

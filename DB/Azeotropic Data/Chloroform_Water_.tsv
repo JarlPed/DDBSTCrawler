@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+hetPmax	n.a.	101.325	n.a.	n.a.	n.a.	Author	3	
+hetPmax	329.250	101.325	0.83974	n.a.	n.a.	Author	2	
+hetPmax	329.350	101.325	0.85480	n.a.	Distillation	Author	1	
+hetPmax	heterogeneous pressure maximum	
+1	Durrans T.H.: A Treatise on Distillation. Perfum.Essent.Oil Rec. 11 (1920) 154-198	
+2	Conti J.J.; Othmer D.F.; Gilmont R.: Composition of Vapors from Boiling Binary Solutions. Systems Containing Formic Acid, Acetic Acid, Water and Chloroform. J.Chem.Eng.Data 5 (1960) 301-307	
+3	Campbell A.N.; Gieskes J.M.T.M.: The Isobaric Boiling Points of the System Acetic Acid-Chloroform-Water at a Pressure of 760mmHg. Can.J.Chem. 42 (1964) 186-189	

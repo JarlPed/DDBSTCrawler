@@ -1,0 +1,19 @@
+$$$Vapor-Liquid Equilibrium Data Set 8356	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C6H6	78.114	71-43-2	Benzene	
+3	C4H8O2S	120.172	126-33-0	Sulfolane	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
+344.65	0.06180	0.21100	0.75110	0.24880	
+346.25	0.07500	0.32630	0.63030	0.36960	
+364.35	0.02200	0.24800	0.46600	0.53390	
+354.95	0.03500	0.23500	0.61700	0.38250	
+351.15	0.04500	0.22300	0.70600	0.29380	
+347.75	0.04850	0.22330	0.68530	0.31460	
+347.35	0.06290	0.32010	0.62320	0.37670	
+346.05	0.10830	0.44640	0.56700	0.43290	
+345.75	0.05480	0.19570	0.73730	0.26260	
+Source	
+Rawat B.S.; Goswami A.N.; Krishna S.: Isobaric Vapour-Liquid Equilibria of the Ternary System Hexane-Benzene-Sulpholane. J.Chem.Tech.Biotechnol. 30 (1980) 557-562	
+Source	

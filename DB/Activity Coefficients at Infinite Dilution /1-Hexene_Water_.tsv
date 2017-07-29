@@ -1,0 +1,12 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	H2O	18.015	7732-18-5	Water	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+298.15	93458	CSOD	1	
+298.15	84317	CSOD	2	
+310.93	83472	CSOD	3	
+Short Term	Explanation	
+CSOD	calculated from solubility data	
+1	McAuliffe C.: Solubility in Water of Paraffin, Cycloparaffin, Olefin, Acetylene, Cycloolefin, and Aromatic Hydrocarbons. J.Phys.Chem. 70 (1966) 1267-1275	
+2	Leinonen P.J.; Mackay D.: The Multicomponent Solubility of Hydrocarbons in Water. Can.J.Chem.Eng. 51 (1973) 230-233	
+3	Brady C.J.; Cunningham J.R.; Wilson G.M.: Water-Hydrocarbon Liquid-Liquid-Vapor Equilibrium Measurements to 530°F. GPA Research Rep.  (1982) 1-66	

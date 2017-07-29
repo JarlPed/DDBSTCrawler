@@ -1,0 +1,7 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	95.800	n.a.	n.a.	Phase equilibrium	DDBST from VLE	1	
+none	zeotropic	
+1	Vittal Prasad T.E.; Prasad D.H.L.; Patanjali V.: Bubble Temperature Measurements on Seven Binary Mixtures Containing 1-4-Dimethylbenzene at 95.8 kPa. Chem.Eng.Commun. 192 (2005) 18-22	

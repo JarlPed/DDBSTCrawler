@@ -1,0 +1,74 @@
+$$$Vapor-Liquid Equilibrium Data Set 6042	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	333.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+49.049	0.00000	0.00000	
+50.742	0.04870	0.07680	
+52.156	0.08870	0.13450	
+53.729	0.15000	0.21010	
+55.755	0.22340	0.29060	
+57.075	0.30890	0.37010	
+58.075	0.40400	0.44880	
+58.742	0.49840	0.52760	
+58.755	0.57350	0.58930	
+58.782	0.63840	0.64260	
+58.795	0.65300	0.65300	
+58.715	0.70730	0.69770	
+58.409	0.77790	0.75920	
+57.995	0.84100	0.82080	
+57.422	0.89630	0.87640	
+56.675	0.95930	0.94830	
+55.755	1.00000	1.00000	
+Source	
+Sugi H.; Katayama T.: Ternary Liquid-Liquid and Miscible Binary Vapor-Liquid Equilibrium Data for the Two Systems n-Hexane-Ethanol-Acetonitrile and Water-Acetonitrile-Ethyl Acetate. J.Chem.Eng.Japan 11 (1978) 167-172	
+$$$Vapor-Liquid Equilibrium Data Set 8057	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	313.15	K	
+P [kPa]	x1 [mol/mol]	
+22.766	0.00000	
+23.433	0.04250	
+23.933	0.08140	
+24.589	0.13880	
+25.285	0.21350	
+25.853	0.30140	
+26.309	0.40170	
+26.594	0.50040	
+26.690	0.59600	
+26.612	0.69970	
+26.415	0.78740	
+26.114	0.85480	
+25.762	0.91270	
+25.525	0.95240	
+25.061	1.00000	
+Source	
+Muthu O.; Maher P.J.; Smith B.D.: Vapor-Liquid Equilibrium for the Binary Systems Propionitrile + Ethylbenzene and Acetonitrile + Ethyl Acetate, + Ethyl Alcohol, and + Toluene. J.Chem.Eng.Data 25 (1980) 163-170	
+$$$Vapor-Liquid Equilibrium Data Set 8058	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C2H3N	41.053	75-05-8	Acetonitrile	
+Temperature	353.15	K	
+P [kPa]	x1 [mol/mol]	
+96.369	0.00000	
+99.470	0.04250	
+101.790	0.08150	
+104.890	0.13890	
+108.230	0.21350	
+111.070	0.30140	
+113.429	0.40180	
+115.151	0.50040	
+115.980	0.59600	
+116.230	0.69960	
+115.780	0.78730	
+114.971	0.85470	
+113.811	0.91270	
+112.811	0.95270	
+111.360	1.00000	
+Source	
+Muthu O.; Maher P.J.; Smith B.D.: Vapor-Liquid Equilibrium for the Binary Systems Propionitrile + Ethylbenzene and Acetonitrile + Ethyl Acetate, + Ethyl Alcohol, and + Toluene. J.Chem.Eng.Data 25 (1980) 163-170	
+Source	
+Sugi H.; Katayama T.: Ternary Liquid-Liquid and Miscible Binary Vapor-Liquid Equilibrium Data for the Two Systems n-Hexane-Ethanol-Acetonitrile and Water-Acetonitrile-Ethyl Acetate. J.Chem.Eng.Japan 11 (1978) 167-172	
+Muthu O.; Maher P.J.; Smith B.D.: Vapor-Liquid Equilibrium for the Binary Systems Propionitrile + Ethylbenzene and Acetonitrile + Ethyl Acetate, + Ethyl Alcohol, and + Toluene. J.Chem.Eng.Data 25 (1980) 163-170	

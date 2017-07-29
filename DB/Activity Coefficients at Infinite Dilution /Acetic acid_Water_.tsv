@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H4O2	60.053	64-19-7	Acetic acid	
+2	H2O	18.015	7732-18-5	Water	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+339.58	2.3200	EBUL	1	
+356.11	2.1700	EBUL	1	
+366.66	2.1300	EBUL	1	
+Short Term	Explanation	
+EBUL	ebulliometry	
+1	Tochigi K.; Kojima K.: - For Systems with One Associating Component in Vapor Phase -. J.Chem.Eng.Japan 10 (1977) 343-348	

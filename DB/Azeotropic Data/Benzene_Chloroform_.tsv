@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	CHCl3	119.377	67-66-3	Chloroform	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	2	
+none	273.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	283.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	zeotropic	
+1	Schmidt G.C.: Binäre Gemische. Z.Phys.Chem.(Leipzig) 121 (1926) 221-253	
+2	Kojima K.; Tochigi K.; Kurihara K.; Nakamichi M.: Isobaric Vapor-Liquid Equilibria for Acetone + Chloroform + Benzene and the Three Constituent Binary Systems. J.Chem.Eng.Data 36 (1991) 343-345	

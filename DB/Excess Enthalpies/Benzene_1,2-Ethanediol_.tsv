@@ -1,0 +1,71 @@
+$$$Enthalpy of Mixing Data Set 15580	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Temperature	363.150	K	
+Pressure	16.520	bar	
+hE [J/mol]	x1 [mol/mol]	
+94.000	0.01570	
+191.000	0.03170	
+353.000	0.06470	
+393.000	0.09900	
+403.000	0.13470	
+404.000	0.17190	
+405.000	0.21070	
+405.000	0.25110	
+406.000	0.29340	
+407.000	0.33750	
+409.000	0.38380	
+407.000	0.43220	
+407.000	0.48300	
+407.000	0.53630	
+408.000	0.59240	
+408.000	0.65140	
+411.000	0.71360	
+411.000	0.77920	
+411.000	0.84860	
+413.000	0.92210	
+413.000	0.96050	
+Source	
+Wittig R.; Lohmann J.; Joh R.; Horstmann S.; Gmehling J.: Vapor-Liquid Equilibria and Enthalpies of Mixing in a Temperature Range from 298.15 to 413.15 K for the Further Development of Modified UNIFAC (Dortmund). Ind.Eng.Chem.Res. 40 (2001) 5831-5838	
+$$$Enthalpy of Mixing Data Set 15581	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Temperature	413.150	K	
+Pressure	13.760	bar	
+hE [J/mol]	x1 [mol/mol]	
+138.000	0.01570	
+280.000	0.03170	
+557.000	0.06470	
+823.000	0.09900	
+972.000	0.13470	
+991.000	0.17190	
+1006.000	0.21060	
+1022.000	0.25110	
+1035.000	0.29330	
+1050.000	0.33750	
+1085.000	0.43220	
+1107.000	0.48290	
+1129.000	0.53630	
+1151.000	0.59230	
+1178.000	0.65130	
+1200.000	0.71350	
+1231.000	0.77920	
+1256.000	0.84860	
+1288.000	0.92210	
+815.000	0.96040	
+Source	
+Wittig R.; Lohmann J.; Joh R.; Horstmann S.; Gmehling J.: Vapor-Liquid Equilibria and Enthalpies of Mixing in a Temperature Range from 298.15 to 413.15 K for the Further Development of Modified UNIFAC (Dortmund). Ind.Eng.Chem.Res. 40 (2001) 5831-5838	
+$$$Enthalpy of Mixing Data Set 21678	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
+Temperature	298.150	K	
+hE [cal/mol]	x1 [mol/mol]	
+16.710	0.04100	
+Source	
+Könnecke H.-G.; Steinert H.; Leibnitz E.: Über die Mischungswärmen binärer flüssiger Systeme am Beispiel Benzol/Glykole und Wasser/Glykole. Z.Phys.Chem.(Leipzig) 208 (1958) 147-155	
+Source	
+Könnecke H.-G.; Steinert H.; Leibnitz E.: Über die Mischungswärmen binärer flüssiger Systeme am Beispiel Benzol/Glykole und Wasser/Glykole. Z.Phys.Chem.(Leipzig) 208 (1958) 147-155	
+Wittig R.; Lohmann J.; Joh R.; Horstmann S.; Gmehling J.: Vapor-Liquid Equilibria and Enthalpies of Mixing in a Temperature Range from 298.15 to 413.15 K for the Further Development of Modified UNIFAC (Dortmund). Ind.Eng.Chem.Res. 40 (2001) 5831-5838	

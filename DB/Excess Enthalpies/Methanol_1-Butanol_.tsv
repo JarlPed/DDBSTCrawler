@@ -1,0 +1,75 @@
+$$$Enthalpy of Mixing Data Set 722	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+64.477	0.20390	
+102.158	0.34500	
+102.158	0.34860	
+110.531	0.37730	
+132.722	0.44310	
+146.119	0.63560	
+141.514	0.66800	
+140.258	0.66830	
+140.258	0.67680	
+130.209	0.72930	
+131.884	0.74050	
+127.279	0.77290	
+107.601	0.82770	
+Source	
+Diaz Pena M.; Fernandez Martin F.: Parte 1. Calor de mezcla del sistema n-butanol + metanol a 25,0°C. Anal.Fis.Quim.Ser.B 59 (1963) 323-330	
+$$$Enthalpy of Mixing Data Set 723	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	298.150	K	
+hE [J/mol]	x1 [mol/mol]	
+17.400	0.04530	
+46.100	0.12640	
+78.700	0.22310	
+109.700	0.33170	
+131.200	0.42850	
+144.200	0.51690	
+149.000	0.59200	
+149.800	0.62090	
+147.500	0.65630	
+146.900	0.67400	
+141.600	0.71040	
+139.900	0.72560	
+133.000	0.75510	
+128.300	0.77650	
+111.700	0.82620	
+91.600	0.87110	
+69.100	0.91110	
+46.500	0.94440	
+25.800	0.97100	
+10.200	0.98900	
+Source	
+Pope A.E.; Pflug H.D.; Dacre B.; Benson G.C.: Molar Excess Enthalpies of Binary n-Alcohol Systems at 25 °C. Can.J.Chem. 45 (1967) 2665-2674	
+$$$Enthalpy of Mixing Data Set 4680	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	293.150	K	
+Pressure	1.010	bar	
+hE [J/mol]	x1 [mol/mol]	
+3.720	0.04410	
+19.040	0.08600	
+33.550	0.12600	
+45.660	0.16410	
+58.520	0.20060	
+106.100	0.36080	
+135.470	0.49180	
+152.400	0.60090	
+147.370	0.69310	
+131.110	0.77210	
+105.990	0.84050	
+73.280	0.90030	
+36.030	0.95310	
+Source	
+Battler J.R.; Rowley R.L.: Excess enthalpies between 293 and 323 K for constituent binaries of ternary mixtures exhibiting partial miscibility. J.Chem.Thermodyn. 17 (1985) 719-732	
+Source	
+Diaz Pena M.; Fernandez Martin F.: Parte 1. Calor de mezcla del sistema n-butanol + metanol a 25,0°C. Anal.Fis.Quim.Ser.B 59 (1963) 323-330	
+Pope A.E.; Pflug H.D.; Dacre B.; Benson G.C.: Molar Excess Enthalpies of Binary n-Alcohol Systems at 25 °C. Can.J.Chem. 45 (1967) 2665-2674	
+Battler J.R.; Rowley R.L.: Excess enthalpies between 293 and 323 K for constituent binaries of ternary mixtures exhibiting partial miscibility. J.Chem.Thermodyn. 17 (1985) 719-732	

@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	60-29-7	Diethyl ether	
+2	C4H6	54.092	106-99-0	1,3-Butadiene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	Distillation	Author	1	
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	Author	2	
+none	298.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	3	
+none	zeotropic	
+1	Lecat M.: Azéotropes binaires orthobares que forment des oxydes avec des hydrocarbures. Ann.Soc.Sci.Bruxelles Ser.1 62 (1948) 55-60	
+2	Bushmakin I.N.; Kuchinskaya K.I.: Dampf-Flüssig-Gleichgewicht in Mischungen Divinyl-Pseudebutylen, Divinyl-Ethanol, Divinyl-Acetaldehyd, Divinyl-Ethylester. Sintet.Kaucuk Moskva 5 (1936) 3-6	
+3	Wong K.F.; Eckert C.A.: Vapor-Liquid Equilibria of 1,3-Butadiene Systems. J.Chem.Eng.Data 14 (1969) 432-436	

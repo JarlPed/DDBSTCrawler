@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H4O2	60.053	64-19-7	Acetic acid	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	26.670	n.a.	n.a.	Phase equilibrium	Author from VLE	2	
+none	n.a.	101.330	n.a.	n.a.	Phase equilibrium	DDBST from VLE	1	
+none	zeotropic	
+1	Chang W.; Wan H.; Guan G.; Yao H.: Isobaric Vapor-Liquid Equilibria for Water + Acetic Acid + (N-Methyl Pyrrolidone or n-Methyl Acetamide). Fluid Phase Equilib. 242 (2006) 204-209	
+2	Ping L.-J.; Peng Y.; Mao J.-W.: Vapor-Liquid Equilibria of Acetic Acid-Water-N-Methylpyrrolidone System at 26.67 kPa. Gaoxiao-huaxue-gongcheng-xuebao 25 (2011) 554-557	

@@ -1,0 +1,22 @@
+$$$Excess Heat Capacity Data Set 636	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C4H10O	74.123	71-36-3	1-Butanol	
+Temperature	298.15	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+-0.6040	0.10003	
+-1.0400	0.20006	
+-1.3190	0.30007	
+-1.4280	0.40009	
+-1.4090	0.50009	
+-1.2760	0.60009	
+-1.0390	0.70007	
+-0.8890	0.75007	
+-0.7280	0.80006	
+-0.5590	0.85004	
+-0.3770	0.90003	
+-0.1910	0.95002	
+Source	
+Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326	
+Source	
+Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326	

@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H6	78.114	71-43-2	Benzene	
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	298.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	313.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	333.150	n.a.	n.a.	n.a.	n.a.	Author	2	
+none	zeotropic	
+1	Deshpande D.D.; Oswal S.L.: 1. Excess Gibbs Free Energies and Excess Volumes. J.Chem.Thermodyn. 7 (1975) 155-159	
+2	Geier K.; Bittrich H.-J.: Zur Thermodynamik der Flüssig-Dampf-Gleichgewichte der binären Systeme n-Hexan-Benzol, Cyclohexan-Benzol und Tetrahydrofuran mit n-Hexan, Cyclohexan, Benzol und Dimethylformamid. Z.Phys.Chem.(Leipzig) 260 (1979) 705-718	

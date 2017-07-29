@@ -1,0 +1,76 @@
+$$$Vapor-Liquid Equilibrium Data Set 7182	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+Temperature	303.15	K	
+P [kPa]	x1 [mol/mol]	
+26.880	0.00000	
+26.486	0.01200	
+25.801	0.05250	
+25.030	0.08840	
+23.927	0.13630	
+21.297	0.26620	
+20.824	0.30120	
+20.338	0.33600	
+19.952	0.36950	
+19.692	0.40130	
+19.534	0.42340	
+19.560	0.43970	
+19.504	0.46030	
+19.532	0.47490	
+19.653	0.50990	
+20.174	0.55870	
+20.780	0.59870	
+22.010	0.65710	
+23.694	0.71880	
+25.933	0.79010	
+28.439	0.86820	
+31.609	0.97800	
+32.379	1.00000	
+Source	
+Byer S.M.; Gibbs R.E.; Van Ness H.: Part II. Correlations from P-x Data for 15 Systems. AIChE J. 19 (1973) 245-251	
+$$$Vapor-Liquid Equilibrium Data Set 10097	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+Temperature	293.15	K	
+P [kPa]	x1 [mol/mol]	
+17.252	0.00000	
+16.545	0.04990	
+13.946	0.23300	
+13.012	0.31140	
+12.239	0.40610	
+12.066	0.47310	
+12.146	0.49220	
+12.386	0.54100	
+13.026	0.60510	
+14.572	0.69410	
+17.239	0.82800	
+19.945	0.94560	
+21.025	1.00000	
+Source	
+Oswal S.L.; Deshpande D.D.: Excess Free Energies & Excess Volumes for Chloroform+Tetrahydrofuran System. Indian J.Chem.Sect.A 16 (1978) 798-800	
+$$$Vapor-Liquid Equilibrium Data Set 10098	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CHCl3	119.377	67-66-3	Chloroform	
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+Temperature	303.15	K	
+P [kPa]	x1 [mol/mol]	
+26.838	0.00000	
+25.771	0.04990	
+21.958	0.23300	
+20.638	0.31140	
+19.572	0.40610	
+19.345	0.47310	
+19.452	0.49220	
+19.758	0.54100	
+20.732	0.60510	
+22.905	0.69410	
+26.798	0.82800	
+30.771	0.94560	
+32.277	1.00000	
+Source	
+Oswal S.L.; Deshpande D.D.: Excess Free Energies & Excess Volumes for Chloroform+Tetrahydrofuran System. Indian J.Chem.Sect.A 16 (1978) 798-800	
+Source	
+Byer S.M.; Gibbs R.E.; Van Ness H.: Part II. Correlations from P-x Data for 15 Systems. AIChE J. 19 (1973) 245-251	
+Oswal S.L.; Deshpande D.D.: Excess Free Energies & Excess Volumes for Chloroform+Tetrahydrofuran System. Indian J.Chem.Sect.A 16 (1978) 798-800	

@@ -1,0 +1,27 @@
+$$$Solid-Liquid Equilibrium Data Set 833	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CO2	44.010	124-38-9	Carbon dioxide	
+2	C6H14	86.177	110-54-3	Hexane	
+T [K]	xL1 [mol/mol]	
+215.66	0.97230	
+215.16	0.95260	
+215.16	0.95460	
+215.01	0.95140	
+214.86	0.75060	
+214.66	0.72520	
+214.16	0.65100	
+213.16	0.57220	
+211.16	0.46270	
+210.16	0.35930	
+207.66	0.26620	
+204.16	0.19900	
+200.16	0.15440	
+195.16	0.11770	
+190.16	0.09050	
+186.16	0.06810	
+183.16	0.05690	
+180.16	0.04570	
+178.16	0.04090	
+177.16	0.03820	
+Source	
+Kurata F.: Solubility of Solid Carbon Dioxide in Pure Light Hydrocarbons and Mixtures of Light Hydrocarbons. GPA Research Rep.  (1974) 26-71	

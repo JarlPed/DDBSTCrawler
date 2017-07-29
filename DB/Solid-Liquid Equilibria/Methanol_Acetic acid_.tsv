@@ -1,0 +1,40 @@
+$$$Solid-Liquid Equilibrium Data Set 604	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+T [K]	xL1 [mol/mol]	
+283.55	0.06600	
+280.25	0.12000	
+275.85	0.18000	
+271.15	0.22200	
+265.45	0.28800	
+260.85	0.33700	
+256.05	0.39800	
+248.45	0.47800	
+242.85	0.53600	
+Source	
+Carta R.; Dernini S.: Solubility of Solid Acetic Acid in Liquid Organic Solvents. J.Chem.Eng.Data 28 (1983) 328-330	
+$$$Solid-Liquid Equilibrium Data Set 2429	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	CH4O	32.042	67-56-1	Methanol	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+T [K]	xL1 [mol/mol]	
+285.49	0.06918	
+281.34	0.13561	
+277.39	0.19948	
+273.03	0.26088	
+268.17	0.32056	
+263.09	0.37699	
+256.88	0.43190	
+255.68	0.43190	
+248.98	0.48486	
+249.28	0.48486	
+248.08	0.48486	
+242.78	0.53600	
+236.28	0.58537	
+228.58	0.63311	
+228.98	0.63311	
+217.58	0.67926	
+196.98	0.72390	
+Source	
+Pickering S.U.: A Study of the Properties of some Strong Solutions. J.Chem.Soc.London 63 (1893) 998-1027	

@@ -1,0 +1,25 @@
+$$$Enthalpy of Mixing Data Set 7879	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H4O2	60.053	64-19-7	Acetic acid	
+2	C2H4O2	60.053	64-19-7	Acetic acid butyl ester	
+Temperature	298.000	K	
+Pressure	1.000	bar	
+hE [J/mol]	x1 [mol/mol]	
+49.000	0.02900	
+66.000	0.04500	
+103.000	0.09900	
+129.000	0.20100	
+134.000	0.29500	
+129.000	0.39700	
+106.000	0.50100	
+81.000	0.60200	
+50.000	0.69900	
+24.000	0.79900	
+-0.600	0.90200	
+-3.500	0.95300	
+-3.500	0.97000	
+-2.400	0.99000	
+Source	
+Bender M.; Heintz A.; Lichtenthaler R.N.: Excess Enthalpy of the System Butyl Acetate + Butan-1-ol + Acetic Acid + Water at 313 K and Ambient Pressure. Thermochim.Acta 187 (1991) 79-94	
+Source	
+Bender M.; Heintz A.; Lichtenthaler R.N.: Excess Enthalpy of the System Butyl Acetate + Butan-1-ol + Acetic Acid + Water at 313 K and Ambient Pressure. Thermochim.Acta 187 (1991) 79-94	

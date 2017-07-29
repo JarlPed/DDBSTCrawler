@@ -1,0 +1,8 @@
+any binary system of 30 components include associative systems:
+sum(i, i=1..29) = 435
+trenary:
+435 * sum(i, i=1..28) = 176610
+
+general:
+prod(sum(i,i=1..30-n), n=1..2) = trenary
+

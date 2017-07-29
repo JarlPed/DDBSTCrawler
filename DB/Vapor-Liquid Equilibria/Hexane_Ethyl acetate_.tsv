@@ -1,0 +1,71 @@
+$$$Vapor-Liquid Equilibrium Data Set 6708	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	
+350.30	0.00000	
+345.65	0.09000	
+342.35	0.20200	
+340.55	0.30200	
+339.45	0.40400	
+338.75	0.50000	
+338.45	0.59300	
+338.35	0.70200	
+338.75	0.80300	
+339.75	0.90000	
+342.00	1.00000	
+Source	
+Gorbunova L.V.; Lutugina N.V.; Malenko Yu.I.: Relationship Between Boiling Point and Composition in the Binary Systems Formed by Acetic Acid Ethyl Acetate Methyl Ethyl Ketone and n-Hexane.I.. J.Appl.Chem.USSR 38 (1965) 368-370	
+$$$Vapor-Liquid Equilibrium Data Set 9062	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Pressure	101.33	kPa	
+x1 [mol/mol]	y1 [mol/mol]	
+0.04000	0.09400	
+0.09100	0.19100	
+0.17400	0.31400	
+0.26600	0.40300	
+0.36100	0.47900	
+0.45800	0.53400	
+0.55700	0.59900	
+0.64300	0.64900	
+0.69200	0.67900	
+0.79800	0.75200	
+0.90000	0.84900	
+0.95200	0.92200	
+Source	
+Lutugina N.V.; Pukinskii I.B.; Kaliev S.G.: Dampf-Flüssig-Gleichgewicht in binären und ternären Systemen  aus Essigsäure, Methylethylketon, Ethylacetat und n-Hexan. Vestn.Leningr.Univ.Fiz.Khim.  (1972) 102-105	
+$$$Vapor-Liquid Equilibrium Data Set 22908	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C4H8O2	88.106	141-78-6	Ethyl acetate	
+Temperature	353.15	K	
+x1 [mol/mol]	y1 [mol/mol]	
+0.01890	0.06420	
+0.03920	0.11830	
+0.05830	0.15610	
+0.11960	0.29730	
+0.16530	0.34170	
+0.22750	0.41740	
+0.28560	0.45800	
+0.34620	0.51710	
+0.39690	0.52080	
+0.46730	0.55700	
+0.52870	0.58640	
+0.58870	0.61710	
+0.65180	0.63700	
+0.70860	0.66910	
+0.77040	0.71080	
+0.88120	0.79330	
+0.91470	0.83230	
+0.94100	0.87840	
+0.96130	0.91370	
+0.97840	0.94880	
+Source	
+Park S.-J.; Han K.-J.; Choi M.-J.; Gmehling J.: Isothermal vapor-liquid equilibria and excess molar volumes for the ternary mixtures containing 2-methyl pyrazine. Fluid Phase Equilib. 193 (2002) 109-121	
+Source	
+Lutugina N.V.; Pukinskii I.B.; Kaliev S.G.: Dampf-Flüssig-Gleichgewicht in binären und ternären Systemen  aus Essigsäure, Methylethylketon, Ethylacetat und n-Hexan. Vestn.Leningr.Univ.Fiz.Khim.  (1972) 102-105	
+Gorbunova L.V.; Lutugina N.V.; Malenko Yu.I.: Relationship Between Boiling Point and Composition in the Binary Systems Formed by Acetic Acid Ethyl Acetate Methyl Ethyl Ketone and n-Hexane.I.. J.Appl.Chem.USSR 38 (1965) 368-370	
+Park S.-J.; Han K.-J.; Choi M.-J.; Gmehling J.: Isothermal vapor-liquid equilibria and excess molar volumes for the ternary mixtures containing 2-methyl pyrazine. Fluid Phase Equilib. 193 (2002) 109-121	

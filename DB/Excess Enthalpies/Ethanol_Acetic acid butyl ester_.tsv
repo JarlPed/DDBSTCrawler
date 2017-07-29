@@ -1,0 +1,46 @@
+$$$Enthalpy of Mixing Data Set 11332	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C2H6O	46.069	64-17-5	Acetic acid butyl ester	
+Temperature	298.150	K	
+Pressure	1.010	bar	
+hE [J/mol]	x1 [mol/mol]	
+635.900	0.12660	
+1013.600	0.24260	
+1243.500	0.34780	
+1337.000	0.43870	
+1339.300	0.51540	
+1291.600	0.58030	
+1217.600	0.63410	
+1133.200	0.67870	
+1030.700	0.71550	
+921.000	0.75570	
+793.400	0.79590	
+660.700	0.83610	
+516.400	0.87580	
+380.600	0.91260	
+260.300	0.94210	
+126.100	0.97360	
+Source	
+Ortega J.: Excess Enthalpy of Alcohols + Esters. Int.Data Series Sel.Data Mixtures Ser. A 23 (1995) 154-183	
+$$$Enthalpy of Mixing Data Set 22374	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Acetic acid butyl ester	
+2	C2H6O	46.069	64-17-5	Ethanol	
+Temperature	298.150	K	
+Pressure	1.0132	bar	
+hE [J/mol]	x1 [mol/mol]	
+441.400	0.10490	
+772.900	0.20390	
+1033.700	0.30130	
+1210.500	0.40240	
+1306.100	0.50930	
+1311.700	0.60140	
+1184.000	0.70690	
+936.100	0.80510	
+566.900	0.90080	
+Source	
+Khanlarzadeh K.; Iloukhani H.: Measurement and Correlation of Excess Molar Enthalpy of Binary Mixtures Containing Butyl Acetate + 1-Alkanols (C1-C6) at 298.15 K. J.Solution Chem. 43 (2014) 1259-1269	
+Source	
+Ortega J.: Excess Enthalpy of Alcohols + Esters. Int.Data Series Sel.Data Mixtures Ser. A 23 (1995) 154-183	
+Khanlarzadeh K.; Iloukhani H.: Measurement and Correlation of Excess Molar Enthalpy of Binary Mixtures Containing Butyl Acetate + 1-Alkanols (C1-C6) at 298.15 K. J.Solution Chem. 43 (2014) 1259-1269	

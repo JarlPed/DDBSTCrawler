@@ -1,0 +1,53 @@
+$$$Solid-Liquid Equilibrium Data Set 32101	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C8H10	106.167	108-38-3	m-Xylene	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	
+225.35	1.00000	
+224.65	0.97500	
+224.15	0.96300	
+230.95	0.95800	
+239.65	0.94100	
+252.65	0.91600	
+264.95	0.88000	
+277.15	0.82600	
+285.65	0.78500	
+292.75	0.73800	
+298.15	0.69500	
+305.15	0.64600	
+310.85	0.59500	
+315.15	0.54900	
+324.65	0.44600	
+331.15	0.35400	
+339.15	0.23400	
+345.95	0.11700	
+353.15	0.00000	
+Source	
+Kravchenko V.M.: The Ternary Systems Benzene - Toluene - m-Xylene and Benzene - m-Xylene - Naphthalene. Zh.Fiz.Khim. 13 (1939) 989-1001	
+$$$Solid-Liquid Equilibrium Data Set 32102	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C8H10	106.167	108-38-3	m-Xylene	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xS1 [mol/mol]	
+224.15	0.97500	
+224.15	0.96300	
+224.15	0.95800	
+224.15	0.94100	
+224.15	0.91600	
+223.65	0.88000	
+223.65	0.82600	
+223.15	0.78500	
+223.15	0.73800	
+223.15	0.69500	
+222.65	0.64600	
+222.15	0.59500	
+Source	
+Kravchenko V.M.: The Ternary Systems Benzene - Toluene - m-Xylene and Benzene - m-Xylene - Naphthalene. Zh.Fiz.Khim. 13 (1939) 989-1001	
+$$$Solid-Liquid Equilibrium Data Set 32103	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C8H10	106.167	108-38-3	m-Xylene	
+2	C10H8	128.174	91-20-3	Naphthalene	
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
+224.15	0.96300	0.96300	
+Source	
+Kravchenko V.M.: The Ternary Systems Benzene - Toluene - m-Xylene and Benzene - m-Xylene - Naphthalene. Zh.Fiz.Khim. 13 (1939) 989-1001	

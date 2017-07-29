@@ -1,0 +1,37 @@
+$$$Excess Volume Data Set 2718	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H6O	46.069	64-17-5	Ethanol	
+Temperature	293.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.0380	0.08500	
+-0.0630	0.17400	
+-0.0750	0.26300	
+-0.0800	0.35100	
+-0.0800	0.45100	
+-0.0740	0.54900	
+-0.0620	0.65300	
+-0.0450	0.76600	
+-0.0260	0.87000	
+Source	
+Qin A.; Hoffman D.E.; Munk P.: Excess Volumes of Mixtures of Some Alkyl Esters and Ketones with Alkanols. Collect.Czech.Chem.Commun. 58 (1993) 2625-2641	
+$$$Excess Volume Data Set 4493	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H6O	46.069	64-17-5	Ethanol	
+2	C3H6O	58.080	67-64-1	Acetone	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.02762	0.12285	
+-0.045815	0.23962	
+-0.06137	0.35074	
+-0.07107	0.45662	
+-0.07784	0.55762	
+-0.08186	0.65407	
+-0.07696	0.74627	
+-0.06759	0.83449	
+-0.04111	0.91899	
+Source	
+Miyano Y.; Hayduk W.: Solubilities of n-Butane Gas and Densities for Acetone-Methanol, Acetone-Ethanol, and Acetone-Propanol Solvent Solutions. J.Chem.Eng.Data 31 (1986) 81-83	
+Source	
+Qin A.; Hoffman D.E.; Munk P.: Excess Volumes of Mixtures of Some Alkyl Esters and Ketones with Alkanols. Collect.Czech.Chem.Commun. 58 (1993) 2625-2641	
+Miyano Y.; Hayduk W.: Solubilities of n-Butane Gas and Densities for Acetone-Methanol, Acetone-Ethanol, and Acetone-Propanol Solvent Solutions. J.Chem.Eng.Data 31 (1986) 81-83	

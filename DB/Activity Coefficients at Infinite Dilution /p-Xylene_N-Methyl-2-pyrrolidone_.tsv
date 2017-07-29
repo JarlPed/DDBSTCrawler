@@ -1,0 +1,12 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C8H10	106.167	106-42-3	p-Xylene	
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+333.15	1.7550	GLCR	1	
+333.20	1.8000	GLCN	2	
+343.15	1.7630	GLCR	1	
+Short Term	Explanation	
+GLCN	GLC (not specified)	
+GLCR	GLC (with gas phase correction)	
+1	Schiller M.; Bölts R.: Experimentelle Aktivitätskoeffizienten bei unendlicher Verdünnung. Unpublished Data  (1992) 1-13	
+2	Technische Hochschule Carl Schorlemmer Leuna-Merseburg, Merseburg (GDR): Unpublished data. Unpublished Data  (1989) 1-360	

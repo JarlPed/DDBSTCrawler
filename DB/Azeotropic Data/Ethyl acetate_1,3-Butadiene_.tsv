@@ -1,0 +1,7 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C4H6	54.092	106-99-0	1,3-Butadiene	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	298.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
+none	zeotropic	
+1	Wong K.F.; Eckert C.A.: Vapor-Liquid Equilibria of 1,3-Butadiene Systems. J.Chem.Eng.Data 14 (1969) 432-436	

@@ -1,0 +1,12 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
+298.20	6.7600	DILU	2	
+308.15	5.7700	RADM	1	
+308.20	6.7100	DILU	2	
+Short Term	Explanation	
+DILU	dilutor	
+RADM	Rayleigh distillation method	
+1	Dohnal V.; Horakova I.: A new variant of the Rayleigh distillation method for the determination of limiting activity coefficients. Fluid Phase Equilib. 68 (1991) 173-185	
+2	Bao J.-B.; Hang L.-L.; Ling Y.-P.; Chen G.-H.; Han S.-J.: Studies on the Determination of Infinite Dilution Activity Coefficients of Acetone-Cycloalkane Systems by Gas Stripping Method. Gaodeng Xuexiao Huaxue Xuebao 14 (1993) 1280-1283	

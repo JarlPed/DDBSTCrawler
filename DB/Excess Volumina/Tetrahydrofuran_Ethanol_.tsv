@@ -1,0 +1,51 @@
+$$$Excess Volume Data Set 12336	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+2	C2H6O	46.069	64-17-5	Ethanol	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.0170	0.05960	
+-0.0240	0.09680	
+-0.0280	0.09940	
+-0.0270	0.10150	
+-0.0270	0.10190	
+-0.0340	0.19970	
+-0.0360	0.20320	
+-0.0380	0.30480	
+-0.0310	0.39970	
+-0.0320	0.40540	
+-0.0230	0.47900	
+-0.0230	0.50010	
+-0.0100	0.59230	
+-0.0110	0.60000	
+-0.0100	0.60010	
+0.0000	0.69110	
+0.0090	0.79700	
+0.0110	0.80000	
+0.0100	0.88590	
+0.0090	0.92800	
+0.0060	0.94160	
+0.0060	0.96320	
+0.0037	0.97820	
+Source	
+Lepori L.; Matteoli E.: Excess volumes of the ternary system ethanol + tetrahydrofuran + cyclohexane at 298.15 K. Fluid Phase Equilib. 145 (1998) 69-87	
+$$$Excess Volume Data Set 39426	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+2	C2H6O	46.069	64-17-5	Ethanol	
+Temperature	298.150	K	
+Excess Volume [cm3/mol]	x1 [mol/mol]	
+-0.0030	0.08260	
+-0.0040	0.13040	
+-0.0090	0.24960	
+-0.0070	0.39410	
+0.0010	0.49220	
+0.0090	0.58110	
+0.0150	0.67620	
+0.0180	0.74930	
+0.0220	0.85980	
+Source	
+Chawla B.; Suri S.K.: II. Excess Volumes of Some Mixtures of Tetrahydrofuran with Alcohols. Thermochim.Acta 41 (1980) 147-151	
+Source	
+Lepori L.; Matteoli E.: Excess volumes of the ternary system ethanol + tetrahydrofuran + cyclohexane at 298.15 K. Fluid Phase Equilib. 145 (1998) 69-87	
+Chawla B.; Suri S.K.: II. Excess Volumes of Some Mixtures of Tetrahydrofuran with Alcohols. Thermochim.Acta 41 (1980) 147-151	

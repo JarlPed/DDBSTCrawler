@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C3H6O	58.080	67-64-1	Acetone	
+2	C2H6O	46.069	64-17-5	Ethanol	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1	
+none	n.a.	101.325	n.a.	n.a.	Distillation	Author	2	
+none	305.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	3	
+none	zeotropic	
+1	Haywood J.K.: Some Boiling-Point Curves. J.Phys.Chem. 3 (1899) 317-327	
+2	Lecat M.: Azéotropes de Cétones. Ann.Soc.Sci.Bruxelles Ser.1 60 (1946) 228-259	
+3	Gordon A.R.; Hines W.G.: Liquid-vapour equilibrium for the system ethanol-acetone. Can.J.Res.Sec.B 24 (1946) 254-262	

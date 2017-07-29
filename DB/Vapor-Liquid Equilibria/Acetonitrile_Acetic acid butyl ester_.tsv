@@ -1,0 +1,75 @@
+$$$Vapor-Liquid Equilibrium Data Set 1615	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C2H3N	41.053	75-05-8	Acetic acid butyl ester	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+399.35	0.00000	0.00000	
+395.65	0.01000	0.05700	
+393.65	0.01800	0.10200	
+390.25	0.03000	0.16500	
+388.15	0.04000	0.21500	
+386.15	0.05000	0.25500	
+382.90	0.08000	0.34000	
+378.55	0.13300	0.46000	
+375.65	0.17200	0.53500	
+373.45	0.21500	0.59500	
+367.55	0.37500	0.74000	
+364.85	0.46500	0.79600	
+363.90	0.50800	0.81700	
+362.05	0.56700	0.84700	
+360.90	0.61200	0.86500	
+359.65	0.68000	0.89800	
+358.65	0.74200	0.91500	
+357.65	0.79300	0.92700	
+356.90	0.84600	0.94500	
+356.25	0.89000	0.96000	
+355.85	0.91700	0.96900	
+355.25	0.95000	0.98000	
+354.85	0.97900	0.98900	
+354.65	1.00000	1.00000	
+Source	
+Mato F.; Cabezas J.L.; Coca J.: Equilibrio Liquido-Vapor Isobarico y Calor de Mezcla. Anal.Quim. 69 (1973) 123-128	
+$$$Vapor-Liquid Equilibrium Data Set 7782	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C2H3N	41.053	75-05-8	Acetic acid butyl ester	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+398.55	0.00000	0.00000	
+388.45	0.08600	0.33800	
+378.80	0.20800	0.58800	
+375.75	0.23400	0.60400	
+370.05	0.35200	0.74100	
+366.50	0.46100	0.79900	
+364.95	0.51800	0.82900	
+363.20	0.58800	0.84800	
+362.15	0.64500	0.87100	
+358.35	0.80400	0.93000	
+358.25	0.79400	0.92900	
+354.75	1.00000	1.00000	
+Source	
+Ravi Prasad A.: Data, Measurement, Correlation and Prediction. Thesis  (2004)	
+$$$Vapor-Liquid Equilibrium Data Set 8971	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C2H3N	41.053	75-05-8	Acetonitrile	
+2	C2H3N	41.053	75-05-8	Acetic acid butyl ester	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+398.85	0.00000	0.00000	
+389.55	0.05100	0.28950	
+385.15	0.08500	0.43810	
+380.55	0.14900	0.53220	
+376.75	0.19400	0.60200	
+371.25	0.29200	0.69850	
+366.65	0.42100	0.78680	
+363.15	0.50000	0.82840	
+358.45	0.78700	0.92080	
+356.55	0.91000	0.96410	
+354.65	1.00000	1.00000	
+Source	
+Kesarwani V.S.; Chandak B.S.; Kher M.G.: Acetonitrile-Toluene Systems. Chem.Petro-Chem.J. 10 (1979) 3-8	
+Source	
+Mato F.; Cabezas J.L.; Coca J.: Equilibrio Liquido-Vapor Isobarico y Calor de Mezcla. Anal.Quim. 69 (1973) 123-128	
+Kesarwani V.S.; Chandak B.S.; Kher M.G.: Acetonitrile-Toluene Systems. Chem.Petro-Chem.J. 10 (1979) 3-8	
+Ravi Prasad A.: Data, Measurement, Correlation and Prediction. Thesis  (2004)	

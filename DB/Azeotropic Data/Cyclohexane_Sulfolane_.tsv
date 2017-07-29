@@ -1,0 +1,11 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C4H8O2S	120.172	126-33-0	Sulfolane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+Pmax	n.a.	79.993	n.a.	n.a.	Phase equilibrium	Author	2	
+Pmax	n.a.	93.326	n.a.	n.a.	Phase equilibrium	Author	2	
+none	n.a.	102.778	n.a.	n.a.	Distillation	Author	1	
+none	zeotropic	
+Pmax	pressure maximum	
+1	Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
+2	Mukhopadhyay M.; Pathak A.S.: Infinite-Dilution Activity Coefficients from Ebulliometric Isobaric Bubble Point-Composition Data of Hydrocarbon-Sulfolane Systems. J.Chem.Eng.Data 31 (1986) 148-152	

@@ -1,0 +1,9 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O2	88.106	141-78-6	Ethyl acetate	
+2	C6H12	84.161	110-82-7	Cyclohexane	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+homPmax	293.150	14.086	0.46800	n.a.	Phase equilibrium	DDBST	1	
+homPmax	313.150	32.822	0.48760	n.a.	n.a.	Author	2	
+homPmax	homogeneous pressure maximum	
+1	Slavin A.A.; Abramzon A.A.: Liquid-Vapor and Liquid-Liquid Equilibria in Ester-Organic Solvent Systems. J.Appl.Chem.USSR 50 (1977) 739-743	
+2	Wu H.S.; Sandler S.I.: Vapor-Liquid Equilibria of Tetrahydrofuran Systems. J.Chem.Eng.Data 33 (1988) 157-162	

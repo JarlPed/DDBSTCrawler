@@ -1,0 +1,12 @@
+$$$Solid-Liquid Equilibrium Data Set 1428	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	C16H34	226.446	544-76-3	Hexadecane	
+T [K]	xL1 [mol/mol]	
+253.15	0.99900	
+263.15	0.99610	
+273.15	0.98680	
+283.15	0.94820	
+288.15	0.85940	
+Source	
+Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328	

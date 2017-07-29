@@ -1,0 +1,10 @@
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	592-41-6	1-Hexene	
+2	H2O	18.015	7732-18-5	Water	
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
+hetPmax	298.150	27.690	0.88600	n.a.	n.a.	Author	2	
+hetPmax	318.150	63.350	0.84900	n.a.	n.a.	Author	2	
+hetPmax	331.550	101.325	0.83800	n.a.	n.a.	Author	1	
+hetPmax	heterogeneous pressure maximum	
+1	Michkelson W.; Kudryavtseva A.; Toome M.; Eisen O.: Azeotrop-Charakteristiken binärer Systeme, die von  Alkenen und  Thiophen mit Alkoholen und Wasser gebildet werden. Eesti NSV Tead.Akad.Toim.Keem.Geol. 22 (1973) 125-130	
+2	Pukinskii I.B.; Chernik G.G.; Chistyakova G.O.; Smirnova N.A.: Untersuchung und Berechnung der Phasengleichgewicht in den Systemen Hexen-Propanol-Wasser und Hepten-Propanol-Wasser. Khim.Termodin.Rastvorov Leningrad  (1982) 157-178	

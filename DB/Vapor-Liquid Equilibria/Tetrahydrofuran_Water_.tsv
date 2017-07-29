@@ -1,0 +1,90 @@
+$$$Vapor-Liquid Equilibrium Data Set 1519	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	343.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+102.045	0.03200	0.69700	
+120.590	0.07150	0.74500	
+122.710	0.14100	0.74900	
+122.657	0.24100	0.75000	
+123.003	0.33500	0.75100	
+123.350	0.42900	0.75400	
+124.323	0.55800	0.75800	
+125.256	0.62500	0.76800	
+126.216	0.75400	0.79000	
+126.443	0.80000	0.80500	
+126.056	0.85400	0.83000	
+125.256	0.88600	0.85500	
+123.390	0.92800	0.89300	
+120.097	0.96600	0.94500	
+Source	
+Matous J.; Novak J.P.; Sobr J.; Pick J.: Phase Equilibria in the System Tetrahydrofuran (1) -Water (2). Collect.Czech.Chem.Commun. 37 (1972) 2653-2663	
+$$$Vapor-Liquid Equilibrium Data Set 1520	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+2	H2O	18.015	7732-18-5	Water	
+Temperature	323.15	K	
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
+40.423	0.02800	0.70000	
+47.969	0.03850	0.74500	
+51.116	0.04600	0.76700	
+56.062	0.07500	0.78100	
+58.715	0.11650	0.79700	
+59.382	0.18300	0.80000	
+59.595	0.22800	0.80200	
+59.702	0.26400	0.80000	
+59.915	0.35400	0.80200	
+60.142	0.44100	0.80300	
+60.462	0.53100	0.80500	
+60.822	0.61100	0.81000	
+61.302	0.69800	0.82000	
+61.782	0.76500	0.83200	
+61.968	0.79800	0.84000	
+62.048	0.86800	0.86500	
+61.902	0.88800	0.87050	
+61.608	0.92200	0.90100	
+60.848	0.95600	0.93600	
+59.995	0.97900	0.96500	
+Source	
+Matous J.; Novak J.P.; Sobr J.; Pick J.: Phase Equilibria in the System Tetrahydrofuran (1) -Water (2). Collect.Czech.Chem.Commun. 37 (1972) 2653-2663	
+$$$Vapor-Liquid Equilibrium Data Set 2391	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
+2	H2O	18.015	7732-18-5	Water	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+346.15	0.02000	0.65230	
+339.65	0.04000	0.73810	
+338.73	0.06000	0.75160	
+338.47	0.08000	0.75620	
+338.09	0.10000	0.75870	
+337.85	0.15000	0.76180	
+337.47	0.20000	0.76250	
+337.45	0.25000	0.76290	
+337.42	0.30000	0.76350	
+337.40	0.35000	0.76390	
+337.38	0.40000	0.76430	
+337.35	0.45000	0.76490	
+337.31	0.50000	0.76580	
+337.21	0.55000	0.76840	
+337.09	0.60000	0.77200	
+336.97	0.65000	0.77650	
+336.85	0.70000	0.78310	
+336.76	0.75000	0.79150	
+336.69	0.80000	0.80850	
+336.68	0.82000	0.81800	
+336.72	0.84000	0.82600	
+336.79	0.86000	0.83680	
+336.88	0.88000	0.84980	
+337.02	0.90000	0.86600	
+337.20	0.92000	0.88550	
+337.44	0.94000	0.90700	
+337.76	0.96000	0.93250	
+338.22	0.98000	0.96250	
+338.54	0.99000	0.98050	
+Source	
+Shnitko V.A.; Kogan V.B.: Liquid-Vapor Equilibrium in the Systems Tetrahydrofuran-Water and Tetrahydrofuran-Ethylene Glycol and a Method for Dehydration of Tetrahydrofuran. J.Appl.Chem.USSR 41 (1968) 1236-1242	
+Source	
+Matous J.; Novak J.P.; Sobr J.; Pick J.: Phase Equilibria in the System Tetrahydrofuran (1) -Water (2). Collect.Czech.Chem.Commun. 37 (1972) 2653-2663	
+Shnitko V.A.; Kogan V.B.: Liquid-Vapor Equilibrium in the Systems Tetrahydrofuran-Water and Tetrahydrofuran-Ethylene Glycol and a Method for Dehydration of Tetrahydrofuran. J.Appl.Chem.USSR 41 (1968) 1236-1242	

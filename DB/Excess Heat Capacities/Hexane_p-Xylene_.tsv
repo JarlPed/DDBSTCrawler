@@ -1,0 +1,17 @@
+$$$Excess Heat Capacity Data Set 120	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H14	86.177	110-54-3	Hexane	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Temperature	298.20	K	
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
+-0.2200	0.10320	
+-0.3900	0.24720	
+-0.4700	0.39770	
+-0.4800	0.49820	
+-0.4500	0.59560	
+-0.3600	0.74620	
+-0.1800	0.90390	
+Source	
+Costas M.; Patterson D.: Excess Heat Capacities of Some Normal Alkanes (C6 - C16) + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1985 (1985) 212-223	
+Source	
+Costas M.; Patterson D.: Excess Heat Capacities of Some Normal Alkanes (C6 - C16) + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1985 (1985) 212-223	

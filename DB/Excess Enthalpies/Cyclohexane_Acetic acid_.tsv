@@ -1,0 +1,42 @@
+$$$Enthalpy of Mixing Data Set 1014	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	308.150	K	
+hE [J/mol]	x1 [mol/mol]	
+143.610	0.02630	
+247.020	0.04840	
+458.450	0.10040	
+726.410	0.18810	
+755.720	0.20140	
+900.160	0.28430	
+973.850	0.34630	
+1025.770	0.42710	
+1038.740	0.52070	
+990.180	0.61310	
+880.900	0.71000	
+721.800	0.79420	
+478.130	0.88260	
+262.090	0.94390	
+229.020	0.95220	
+107.600	0.97960	
+Source	
+Nagata I.; Nagashima M.; Kazuma K.; Nagagawa M.: Heats of Mixing for Binary Systems and Data Reduction Based on a Triplet Model of Guggenheim. J.Chem.Eng.Japan 8 (1975) 261-265	
+$$$Enthalpy of Mixing Data Set 12298	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C6H12	84.161	110-82-7	Cyclohexane	
+2	C2H4O2	60.053	64-19-7	Acetic acid	
+Temperature	290.650	K	
+hE [J/mol]	x1 [mol/mol]	
+997.374	0.17500	
+1157.000	0.22800	
+1404.080	0.29900	
+1518.510	0.35700	
+1705.600	0.46000	
+1659.110	0.58300	
+1253.260	0.75760	
+Source	
+Baud E.: Analyse thermique des melanges binaires. Bull.Soc.Chim.Fr. 17 (1915) 329-345	
+Source	
+Nagata I.; Nagashima M.; Kazuma K.; Nagagawa M.: Heats of Mixing for Binary Systems and Data Reduction Based on a Triplet Model of Guggenheim. J.Chem.Eng.Japan 8 (1975) 261-265	
+Baud E.: Analyse thermique des melanges binaires. Bull.Soc.Chim.Fr. 17 (1915) 329-345	

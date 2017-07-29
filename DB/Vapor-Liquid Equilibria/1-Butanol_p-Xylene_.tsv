@@ -1,0 +1,74 @@
+$$$Vapor-Liquid Equilibrium Data Set 4982	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Pressure	101.33	kPa	
+T [K]	x1 [mol/mol]	y1 [mol/mol]	
+411.52	0.00000	0.00000	
+399.39	0.11400	0.35100	
+396.00	0.17300	0.44100	
+394.19	0.23400	0.48800	
+390.53	0.45100	0.60400	
+389.78	0.55200	0.65800	
+389.65	0.60100	0.68100	
+389.37	0.66200	0.71000	
+389.30	0.68400	0.72300	
+389.18	0.73200	0.75300	
+389.16	0.76300	0.76800	
+389.22	0.79600	0.79000	
+389.32	0.85200	0.83200	
+389.50	0.90000	0.87700	
+389.78	0.94000	0.92200	
+390.13	0.97200	0.96100	
+390.51	1.00000	1.00000	
+Source	
+Galska-Krajewska A.: Vpour-Liquid Equilibria in Binary Systems: p-Xylene-Aliphatic Alcohols at 760 mm Hg. Rocz.Chem. 41 (1967) 609-616	
+$$$Vapor-Liquid Equilibrium Data Set 12643	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Temperature	313.15	K	
+P [kPa]	x1 [mol/mol]	
+2.652	0.00000	
+3.0864	0.02400	
+3.304	0.04730	
+3.5304	0.09640	
+3.637	0.13040	
+3.737	0.19160	
+3.768	0.21280	
+3.830	0.29170	
+3.853	0.38230	
+3.869	0.41950	
+3.818	0.56990	
+3.794	0.64230	
+3.793	0.64700	
+3.593	0.78120	
+3.5224	0.80400	
+3.356	0.85570	
+2.7944	0.96470	
+2.516	1.00000	
+Source	
+Oracz P.; Kolasinska G.: III. Total Vapour Pressure Measurements for Binary Mixtures of Methanol, Ethanol, 1-Propanol and 1-Butanol with Benzene, Toluene and p-Xylene at 313.15 K. Fluid Phase Equilib. 35 (1987) 253-278	
+$$$Vapor-Liquid Equilibrium Data Set 18103	
+No.	Formula	Molar Mass	CAS Registry Number	Name	
+1	C4H10O	74.123	71-36-3	1-Butanol	
+2	C8H10	106.167	106-42-3	p-Xylene	
+Pressure	95.70	kPa	
+T [K]	x1 [mol/mol]	
+409.20	0.00000	
+396.10	0.10190	
+391.00	0.20100	
+388.50	0.29880	
+387.20	0.38980	
+386.20	0.50330	
+385.80	0.60590	
+385.60	0.70020	
+385.70	0.80300	
+386.50	0.90060	
+389.20	1.00000	
+Source	
+Vittal Prasad T.E.; Vallabhaneni G.K.; Sameera M.K.; Bose V.P.; Prasad D.H.L.: Bubble-Temperature Measurements on p-Xylene with Methanol, Propan-1-ol, and Butan-1-ol at 95.1 kPa. J.Chem.Eng.Data 43 (1998) 555-557	
+Source	
+Galska-Krajewska A.: Vpour-Liquid Equilibria in Binary Systems: p-Xylene-Aliphatic Alcohols at 760 mm Hg. Rocz.Chem. 41 (1967) 609-616	
+Oracz P.; Kolasinska G.: III. Total Vapour Pressure Measurements for Binary Mixtures of Methanol, Ethanol, 1-Propanol and 1-Butanol with Benzene, Toluene and p-Xylene at 313.15 K. Fluid Phase Equilib. 35 (1987) 253-278	
+Vittal Prasad T.E.; Vallabhaneni G.K.; Sameera M.K.; Bose V.P.; Prasad D.H.L.: Bubble-Temperature Measurements on p-Xylene with Methanol, Propan-1-ol, and Butan-1-ol at 95.1 kPa. J.Chem.Eng.Data 43 (1998) 555-557	
