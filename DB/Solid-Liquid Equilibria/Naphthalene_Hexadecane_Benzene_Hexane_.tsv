@@ -1,11 +1,11 @@
-$$$Solid-Liquid Equilibrium Data Set 146	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C16H34	226.446	544-76-3	Hexadecane	
-3	C6H6	78.114	71-43-2	Benzene	
-4	C6H14	86.177	110-54-3	Hexane	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	xL3 [mol/mol]	
-298.15	0.20060	0.26380	0.26840	
-298.15	0.20000	0.26380	0.26680	
-Source	
-Tucker S.A.; Acree, Jr.W.E.: Solubility of Anthracene in Binary Carbon Tetrachloride + Alkane Solvent Mixtures. Phys.Chem.Liq. 19 (1989) 73-79	
+$$$Solid-Liquid Equilibrium Data Set 146
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C16H34	226.446	544-76-3	Hexadecane
+3	C6H6	78.114	71-43-2	Benzene
+4	C6H14	86.177	110-54-3	Hexane
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]	xL3 [mol/mol]
+298.15	0.20060	0.26380	0.26840
+298.15	0.20000	0.26380	0.26680
+Source
+Tucker S.A.; Acree, Jr.W.E.: Solubility of Anthracene in Binary Carbon Tetrachloride + Alkane Solvent Mixtures. Phys.Chem.Liq. 19 (1989) 73-79

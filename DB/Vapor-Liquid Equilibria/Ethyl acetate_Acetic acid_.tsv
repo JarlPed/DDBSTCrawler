@@ -1,49 +1,49 @@
-$$$Vapor-Liquid Equilibrium Data Set 135	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	333.11	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-17.025	0.10980	0.30550	
-23.585	0.24250	0.55160	
-29.998	0.37250	0.71580	
-31.064	0.39300	0.73320	
-31.197	0.39860	0.73790	
-35.330	0.49390	0.81600	
-44.596	0.73110	0.93900	
-53.382	0.90330	0.97850	
-53.489	0.94100	0.98920	
-Source	
-Shmidt L.L.: Zur Untersuchung der Lösungskinetik. Zh.Russ.Fiz.Khim.Obshch.Khim. 62 (1930) 1847-1858	
-$$$Vapor-Liquid Equilibrium Data Set 232	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-381.25	0.13800	0.32700	
-378.25	0.18200	0.42200	
-372.85	0.28600	0.58900	
-366.75	0.42000	0.73200	
-361.45	0.56100	0.85400	
-352.65	0.87200	0.97800	
-Source	
-Garner F.H.; Ellis S.R.M.; Pearce C.J.: Extraction of Acetic from Water. Chem.Eng.Sci. 3 (1954) 48-54	
-$$$Vapor-Liquid Equilibrium Data Set 826	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	315.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-5.133	0.00000	0.00000	
-9.133	0.16320	0.47250	
-12.772	0.31680	0.68920	
-18.932	0.57960	0.89340	
-21.865	0.73120	0.94880	
-25.078	0.90330	0.97870	
-25.878	0.92950	0.98660	
-Source	
-Shmidt L.L.: Zur Untersuchung der Lösungskinetik. Zh.Russ.Fiz.Khim.Obshch.Khim. 62 (1930) 1847-1858	
-Source	
-Garner F.H.; Ellis S.R.M.; Pearce C.J.: Extraction of Acetic from Water. Chem.Eng.Sci. 3 (1954) 48-54	
-Shmidt L.L.: Zur Untersuchung der Lösungskinetik. Zh.Russ.Fiz.Khim.Obshch.Khim. 62 (1930) 1847-1858	
+$$$Vapor-Liquid Equilibrium Data Set 135
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	333.11	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+17.025	0.10980	0.30550
+23.585	0.24250	0.55160
+29.998	0.37250	0.71580
+31.064	0.39300	0.73320
+31.197	0.39860	0.73790
+35.330	0.49390	0.81600
+44.596	0.73110	0.93900
+53.382	0.90330	0.97850
+53.489	0.94100	0.98920
+Source
+Shmidt L.L.: Zur Untersuchung der Lösungskinetik. Zh.Russ.Fiz.Khim.Obshch.Khim. 62 (1930) 1847-1858
+$$$Vapor-Liquid Equilibrium Data Set 232
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+381.25	0.13800	0.32700
+378.25	0.18200	0.42200
+372.85	0.28600	0.58900
+366.75	0.42000	0.73200
+361.45	0.56100	0.85400
+352.65	0.87200	0.97800
+Source
+Garner F.H.; Ellis S.R.M.; Pearce C.J.: Extraction of Acetic from Water. Chem.Eng.Sci. 3 (1954) 48-54
+$$$Vapor-Liquid Equilibrium Data Set 826
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	315.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+5.133	0.000000.00000
+9.133	0.16320	0.47250
+12.772	0.31680	0.68920
+18.932	0.57960	0.89340
+21.865	0.73120	0.94880
+25.078	0.90330	0.97870
+25.878	0.92950	0.98660
+Source
+Shmidt L.L.: Zur Untersuchung der Lösungskinetik. Zh.Russ.Fiz.Khim.Obshch.Khim. 62 (1930) 1847-1858
+Source
+Garner F.H.; Ellis S.R.M.; Pearce C.J.: Extraction of Acetic from Water. Chem.Eng.Sci. 3 (1954) 48-54
+Shmidt L.L.: Zur Untersuchung der Lösungskinetik. Zh.Russ.Fiz.Khim.Obshch.Khim. 62 (1930) 1847-1858

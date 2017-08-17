@@ -1,42 +1,42 @@
-$$$Vapor-Liquid Equilibrium Data Set 23723	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	
-4.266	0.00380	
-6.613	0.00680	
-7.573	0.00850	
-7.719	0.00870	
-9.066	0.01100	
-11.466	0.01730	
-Source	
-Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102	
-$$$Vapor-Liquid Equilibrium Data Set 23724	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	333.15	K	
-P [kPa]	x1 [mol/mol]	
-8.333	0.00490	
-9.119	0.00500	
-16.345	0.01030	
-17.039	0.01090	
-27.504	0.02090	
-29.064	0.02150	
-Source	
-Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102	
-$$$Vapor-Liquid Equilibrium Data Set 23725	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	363.15	K	
-P [kPa]	x1 [mol/mol]	
-26.864	0.01030	
-30.198	0.01100	
-55.462	0.02010	
-56.915	0.02100	
-Source	
-Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102	
-Source	
-Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102	
+$$$Vapor-Liquid Equilibrium Data Set 23723
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]
+4.266	0.00380
+6.613	0.00680
+7.573	0.00850
+7.719	0.00870
+9.066	0.01100
+11.466	0.01730
+Source
+Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102
+$$$Vapor-Liquid Equilibrium Data Set 23724
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	333.15	K
+P [kPa]	x1 [mol/mol]
+8.333	0.00490
+9.119	0.00500
+16.345	0.01030
+17.039	0.01090
+27.504	0.02090
+29.064	0.02150
+Source
+Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102
+$$$Vapor-Liquid Equilibrium Data Set 23725
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	363.15	K
+P [kPa]	x1 [mol/mol]
+26.864	0.01030
+30.198	0.01100
+55.462	0.02010
+56.915	0.02100
+Source
+Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102
+Source
+Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102

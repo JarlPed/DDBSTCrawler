@@ -1,1024 +1,1024 @@
-Formula	Molar Mass	CAS Registry Number	Name	
-C10H8	128.174	91-20-3	Naphthalene	
-$$$Critical Data	
-T [K]	P [kPa]	State	Reference	
-741.20	3972.000	Critical Point	2	
-742.15		Critical Point	1	
-746.55		Critical Point	4	
-748.00		Critical Point	6	
-748.40	4050.000	Critical Point	5	
-753.15	4120.000	Critical Point	3	
-Number	Source	
-1	Golik A.Z.; Ravikovich S.D.: Viskosität von binären flüssigen Mischungen und Lösungen. Zh.Fiz.Khim. 24 (1950) 524-528	
-2	Guye P.-A.; Mallet E.: Critical Constants and Molecular Structure of Higher Hydrocarbons. C.R.Hebd.Seanc.Acad.Sci.Paris 133 (1901) 1287-1290	
-3	Schroer E.: Study of the critical state. VI. Vapour pressure curve of naphthaleneup to critical state. (Ger). Z.Phys.Chem.Abt.B 49 (1941) 271-278	
-4	Cheng D.C.-H.: Critical temperatures and volumes of some binary systems. Chem.Eng.Sci. 18 (1963) 715-724	
-5	Tsonopoulos C.; Ambrose D.: 3. Aromatic Hydrocarbons.. J.Chem.Eng.Data 40 (1995) 547-558	
-6	Cheng D.C.-H.; McCoubrey J.C.; Phillips D.G.: Critical Temperatures of Some Organo Cyclic Compounds.. Trans.Faraday Soc. 58 (1962) 224-229	
-$$$Density	
-T [K]	P [kPa]	Density [kg/m3]	State	Reference	
-355.00		976.720	Liquid Phase of VLE	3	
-355.35	101.325	976.400	Liquid	6	
-355.45		977.500	Liquid	4	
-360.00		972.740	Liquid Phase of VLE	3	
-361.55		972.700	Liquid	4	
-361.95		972.200	Liquid	4	
-368.95		966.500	Liquid	4	
-370.00		964.730	Liquid Phase of VLE	3	
-372.15	101.325	963.500	Liquid	6	
-372.75		964.100	Liquid	1	
-373.13		962.580	Liquid Phase of VLE	5	
-390.00		948.620	Liquid Phase of VLE	3	
-398.12		942.140	Liquid Phase of VLE	5	
-410.00		932.300	Liquid Phase of VLE	3	
-423.11		921.040	Liquid Phase of VLE	5	
-430.00		915.720	Liquid Phase of VLE	3	
-431.40	101.325	911.000	Liquid	2	
-435.80	101.325	908.700	Liquid	2	
-437.90	101.325	905.500	Liquid	2	
-440.30	101.325	903.600	Liquid	2	
-445.30	101.325	898.700	Liquid	2	
-448.11		899.820	Liquid Phase of VLE	5	
-450.00		898.820	Liquid Phase of VLE	3	
-452.10	101.325	893.700	Liquid	2	
-458.20	101.325	889.000	Liquid	2	
-460.00		890.200	Liquid Phase of VLE	3	
-462.80	101.325	884.900	Liquid	2	
-467.30	101.325	880.900	Liquid	2	
-470.00		881.490	Liquid Phase of VLE	3	
-472.20	101.325	876.300	Liquid	2	
-473.11		878.150	Liquid Phase of VLE	5	
-477.60	101.325	873.300	Liquid	2	
-480.00		872.650	Liquid Phase of VLE	3	
-490.00		863.680	Liquid Phase of VLE	3	
-498.11		855.660	Liquid Phase of VLE	5	
-523.11		831.940	Liquid Phase of VLE	5	
-548.11		806.110	Liquid Phase of VLE	5	
-Number	Source	
-1	von Auwers K.; Frühling A.: Über die Spektrochemie mehrkerniger aromatischer Verbindungen und die Konstitution des Naphthalins. Justus Liebigs Ann.Chem. 422 (1921) 192-230	
-2	Shinsaka K.; Gee N.; Freeman G.R.: Densities Against Temperature of 17 Organic Liquids and of Solid 2,2-Dimethylpropane. J.Chem.Thermodyn. 17 (1985) 1111-1119	
-3	Hales J.L.; Townsend R.: Liquid densities from 293 to 490 K of nine aromatic hydrocarbons. J.Chem.Thermodyn. 4 (1972) 763-772	
-4	Ishchenko E.D.; Roshchina G.P.: 1. Density of Liquid Binary Systems with a Eutectic State Diagram. Ukr.Fiz.Zh.(Ukr.Ed.) 8 (1963) 1241-1249	
-5	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494	
-6	Scheuer O.: Physikochemische Studien an binären Gemischen mit einer optisch aktiven Komponente. Z.Phys.Chem.(Leipzig) 72 (1910) 513-608	
-$$$Dielectric Constant	
-T [K]	Dielectric Constant [-]	State	Reference	
-293.15	2.50000	Liquid	1	
-293.15	2.87000	Solid	2	
-353.65	3.22000	Liquid	3	
-Number	Source	
-1	Gemant A.: Electrical Properties of Hydrocarbons. Physical Chemistry of the Hydrocarbons. Volume 1  (1950) 215-240	
-2	Ishii K.; Kinoshita M.; Kuroda H.: Dielectric Constant Measurement on Organic Crystalline Powder. Bull.Chem.Soc.Japan 46 (1973) 3385-3391	
-3	Cauwood J.D.; Turner W.E.S.: The Dielectric Constants of some Organic Solvents at their Melting or Boiling Points. J.Chem.Soc.London 107 (1915) 276-282	
-$$$Dynamic Viscosity	
-T [K]	Dynamic Viscosity [mPas]	State	Reference	
-293.15	2.4830	Liquid	2	
-323.15	1.4220	Liquid	2	
-353.15	0.8860	Liquid	4	
-353.15	0.9640	Liquid	2	
-353.15	0.9670	Liquid	3	
-353.15	0.9740	Liquid	3	
-353.45	0.7236	Liquid	6	
-355.35	0.7270	Liquid	1	
-363.15	0.7590	Liquid	4	
-372.15	0.5580	Liquid	1	
-373.15	0.7610	Liquid	2	
-373.15	0.7760	Liquid	3	
-373.15	0.7800	Liquid	3	
-423.15	0.2170	Liquid	4	
-425.15	0.1960	Liquid	4	
-574.15	0.2040	Liquid	5	
-584.15	0.1900	Liquid	5	
-594.15	0.1770	Liquid	5	
-604.15	0.1630	Liquid	5	
-614.15	0.1520	Liquid	5	
-624.15	0.1420	Liquid	5	
-634.15	0.1340	Liquid	5	
-644.15	0.1240	Liquid	5	
-654.15	0.1170	Liquid	5	
-664.15	0.1090	Liquid	5	
-673.15	0.1020	Liquid	5	
-Number	Source	
-1	Scheuer O.: Physikochemische Studien an binären Gemischen mit einer optisch aktiven Komponente. Z.Phys.Chem.(Leipzig) 72 (1910) 513-608	
-2	Evans E.B.: Parts VII and VIII.. J.Inst.Petrol.Tech. 24 (1938) 537-553	
-3	Burriel Marti F.: III. Recherche sur les proprétés physico-chimiques de quelques combinaisons organiques solides à la température ordinaire. Bull.Soc.Chim.Belg. 39 (1930) 590-630	
-4	Kurnakow N.S.: Über die innere Reibung und Schmelzbarkeit binärer Systeme. Z.Anorg.Allg.Chem. 135 (1924) 81-117	
-5	Grzyll L.R.; Ramos C.; Back D.D.: Density, Viscosity, and Surface Tension of Liquid Quinoline, Naphthalene, Biphenyl, Decafluorobiphenyl, and 1,2-Diphenylbenzene from 300 to 400°C. J.Chem.Eng.Data 41 (1996) 446-450	
-6	Bassi P.S.; Sachdev G.P.: Eutectic solidification & liquid eutectic: Part I - Binary mixtures of naphthalene & diphenyl. Indian J.Chem. 12 (1974) 727-731	
-$$$Enthalpy (H-H0)/T	
-T [K]	Enthalpy (H-H0)/T [J/(K*mol)]	State	Reference	
-298.15	326.91	Vapor	1	
-300.00	325.66	Vapor	1	
-320.00	313.85	Vapor	1	
-340.00	304.04	Vapor	1	
-360.00	295.81	Vapor	1	
-380.00	289.00	Vapor	1	
-400.00	283.42	Vapor	1	
-420.00	278.77	Vapor	1	
-440.00	274.94	Vapor	1	
-460.00	271.79	Vapor	1	
-480.00	269.21	Vapor	1	
-500.00	267.13	Vapor	1	
-520.00	265.55	Vapor	1	
-540.00	264.22	Vapor	1	
-560.00	263.30	Vapor	1	
-580.00	262.56	Vapor	1	
-600.00	262.14	Vapor	1	
-620.00	261.81	Vapor	1	
-640.00	261.64	Vapor	1	
-660.00	261.64	Vapor	1	
-680.00	261.73	Vapor	1	
-700.00	261.89	Vapor	1	
-Number	Source	
-1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494	
-$$$Entropy	
-T [K]	Molar Entropy [J/(mol*K)]	State	Reference	
-298.00	332.84	Vapor	2	
-298.00	333.15	Vapor	4	
-298.00	335.98	Vapor	6	
-298.00	336.06	Vapor	5	
-298.00	336.52	Vapor	1	
-Number	Source	
-1	Milligan D.E.; Becker E.D.; Pitzer K.S.: Thermodynamic functions of alkylnaphthalenes from 298 to 1500°K.. J.Am.Chem.Soc. 78 (1956) 2707-2711	
-2	Lielmezs J.; Bennett F.; McFee D.G.: Thermodynamic Functions for Naphtalene.. Thermochim.Acta 47 (1981) 287-308	
-3	McClellan A.L.; Pimentel G.C.: Vibrational assignment and thermodynamic properties of naphthalene.. J.Chem.Phys. 23 (1955) 245-248	
-4	Chen S.S.; Kudchadker S.A.; Wilhoit R.C.: Thermodynamic Properties of Normal and Deuterated Naphthalenes. J.Phys.Chem.Ref.Data 8 (1979) 527-535	
-5	McFee D.G.; Lielmezs J.: Thermodynamic Functions for Halogenated Naphthalenes. Thermochim.Acta 30 (1979) 173-186	
-6	Barrow G.M.; McClellan A.L.: The Thermodynamic Properties of Naphthalene.. J.Am.Chem.Soc. 73 (1951) 573-575	
-$$$Entropy (S-S0)	
-T [K]	P [kPa]	Molar Entropy [J/(mol*K)]	State	Reference	
-10.00		0.4739	Solid	2	
-20.00		4.116	Solid	2	
-30.00		10.568	Solid	2	
-40.00		17.968	Solid	2	
-50.00		25.44	Solid	2	
-60.00		32.70	Solid	2	
-70.00		39.65	Solid	2	
-80.00		46.30	Solid	2	
-90.00		52.67	Solid	2	
-100.00		58.81	Solid	2	
-120.00		70.52	Solid	2	
-140.00		81.72	Solid	2	
-160.00		92.63	Solid	2	
-180.00		103.37	Solid	2	
-200.00		114.04	Solid	2	
-220.00		124.73	Solid	2	
-240.00		135.45	Solid	2	
-260.00		146.27	Solid	2	
-280.00		157.19	Solid	2	
-298.15		167.28	Solid	2	
-298.15	101.325	335.16	Vapor	1	
-300.00		168.24	Solid	2	
-300.00	101.325	335.91	Vapor	1	
-320.00		179.45	Solid	2	
-320.00	101.325	344.72	Vapor	1	
-340.00		190.85	Solid	2	
-340.00	101.325	353.62	Vapor	1	
-360.00		256.38	Liquid	2	
-360.00		256.75	Liquid	1	
-360.00	101.325	362.60	Vapor	1	
-380.00		268.48	Liquid	2	
-380.00		268.81	Liquid	1	
-380.00	101.325	371.66	Vapor	1	
-400.00		280.37	Liquid	2	
-400.00		280.70	Liquid	1	
-400.00	101.325	380.64	Vapor	1	
-420.00		292.05	Liquid	2	
-420.00		292.42	Liquid	1	
-420.00	101.325	389.70	Vapor	1	
-440.00		303.55	Liquid	2	
-440.00		303.90	Liquid	1	
-440.00	101.325	398.76	Vapor	1	
-460.00		315.29	Liquid	1	
-460.00	101.325	407.83	Vapor	1	
-480.00		326.43	Liquid	1	
-480.00	101.325	416.72	Vapor	1	
-500.00		337.40	Liquid	1	
-500.00	101.325	425.62	Vapor	1	
-520.00		348.30	Liquid	1	
-520.00	101.325	434.52	Vapor	1	
-540.00		359.02	Liquid	1	
-540.00	101.325	443.25	Vapor	1	
-560.00		369.66	Liquid	1	
-560.00	101.325	451.89	Vapor	1	
-580.00		380.14	Liquid	1	
-580.00	101.325	460.46	Vapor	1	
-600.00		390.45	Liquid	1	
-600.00	101.325	468.94	Vapor	1	
-620.00		400.76	Liquid	1	
-620.00	101.325	477.34	Vapor	1	
-640.00		410.90	Liquid	1	
-640.00	101.325	485.57	Vapor	1	
-660.00		420.96	Liquid	1	
-660.00	101.325	493.72	Vapor	1	
-680.00		430.94	Liquid	1	
-680.00	101.325	501.78	Vapor	1	
-700.00		441.00	Liquid	1	
-700.00	101.325	509.76	Vapor	1	
-Number	Source	
-1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494	
-2	Chirico R.D.; Knipmeyer S.E.; Steele W.V.: Heat capacities, enthalpy increments, and derived thermodynamic functions for naphthalene between the temperatures 5 K and 440 K. J.Chem.Thermodyn. 34 (2002) 1873-1884	
-$$$Entropy of Formation	
-T [K]	P [kPa]	Molar Entropy [J/(mol*K)]	State	Reference	
-298.15	101.325	-244.53	Vapor	1	
-300.00	101.325	-244.95	Vapor	1	
-320.00	101.325	-249.44	Vapor	1	
-340.00	101.325	-253.34	Vapor	1	
-360.00	101.325	-256.92	Vapor	1	
-380.00	101.325	-260.08	Vapor	1	
-400.00	101.325	-262.90	Vapor	1	
-420.00	101.325	-265.40	Vapor	1	
-440.00	101.325	-267.73	Vapor	1	
-460.00	101.325	-269.81	Vapor	1	
-480.00	101.325	-271.72	Vapor	1	
-500.00	101.325	-273.46	Vapor	1	
-520.00	101.325	-275.04	Vapor	1	
-540.00	101.325	-276.54	Vapor	1	
-560.00	101.325	-277.87	Vapor	1	
-580.00	101.325	-279.12	Vapor	1	
-600.00	101.325	-280.28	Vapor	1	
-620.00	101.325	-281.28	Vapor	1	
-640.00	101.325	-282.28	Vapor	1	
-660.00	101.325	-283.19	Vapor	1	
-680.00	101.325	-284.11	Vapor	1	
-700.00	101.325	-284.86	Vapor	1	
-Number	Source	
-1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494	
-$$$G-function (G-G0)/T	
-T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference	
-50.00	-186.19	Vapor	4	
-100.00	-210.51	Vapor	4	
-150.00	-226.67	Vapor	4	
-200.00	-240.08	Vapor	4	
-273.15	-258.65	Vapor	5	
-273.15	-257.83	Vapor	4	
-273.15	-257.32	Vapor	2	
-273.16	-259.07	Vapor	3	
-298.15	-264.68	Vapor	5	
-298.15	-263.68	Vapor	4	
-298.15	-263.17	Vapor	2	
-298.16	-267.07	Vapor	6	
-298.16	-265.10	Vapor	1	
-300.00	-267.48	Vapor	6	
-300.00	-265.52	Vapor	1	
-300.00	-265.14	Vapor	5	
-300.00	-264.11	Vapor	4	
-300.00	-263.59	Vapor	2	
-350.00	-277.02	Vapor	5	
-350.00	-275.22	Vapor	2	
-400.00	-290.33	Vapor	6	
-400.00	-289.16	Vapor	1	
-400.00	-288.78	Vapor	5	
-400.00	-287.17	Vapor	4	
-400.00	-286.77	Vapor	2	
-450.00	-300.45	Vapor	5	
-450.00	-298.28	Vapor	2	
-451.00	-300.70	Vapor	5	
-451.00	-298.53	Vapor	2	
-500.00	-312.96	Vapor	6	
-500.00	-312.34	Vapor	1	
-500.00	-312.09	Vapor	5	
-500.00	-309.97	Vapor	4	
-500.00	-309.74	Vapor	2	
-522.70	-317.32	Vapor	5	
-522.70	-314.93	Vapor	2	
-550.00	-323.59	Vapor	5	
-550.00	-321.12	Vapor	2	
-600.00	-335.35	Vapor	6	
-600.00	-335.06	Vapor	1	
-600.00	-334.97	Vapor	5	
-600.00	-332.49	Vapor	4	
-600.00	-332.42	Vapor	2	
-650.00	-346.27	Vapor	5	
-650.00	-343.59	Vapor	2	
-700.00	-357.40	Vapor	5	
-700.00	-357.31	Vapor	1	
-700.00	-354.64	Vapor	2	
-700.00	-354.55	Vapor	4	
-750.00	-368.36	Vapor	5	
-750.00	-365.51	Vapor	2	
-800.00	-379.15	Vapor	5	
-800.00	-378.90	Vapor	1	
-800.00	-378.78	Vapor	6	
-800.00	-376.23	Vapor	2	
-800.00	-376.05	Vapor	4	
-850.00	-389.82	Vapor	5	
-850.00	-386.81	Vapor	2	
-900.00	-400.28	Vapor	5	
-900.00	-399.82	Vapor	1	
-900.00	-399.53	Vapor	6	
-900.00	-397.23	Vapor	2	
-900.00	-396.91	Vapor	4	
-950.00	-410.53	Vapor	5	
-950.00	-407.44	Vapor	2	
-1000.00	-420.66	Vapor	5	
-1000.00	-420.07	Vapor	1	
-1000.00	-419.74	Vapor	6	
-1000.00	-417.52	Vapor	2	
-1000.00	-417.09	Vapor	4	
-1050.00	-430.58	Vapor	5	
-1050.00	-427.40	Vapor	2	
-1100.00	-440.32	Vapor	5	
-1100.00	-439.61	Vapor	1	
-1100.00	-439.24	Vapor	6	
-1100.00	-437.10	Vapor	2	
-1100.00	-436.60	Vapor	4	
-1150.00	-449.95	Vapor	5	
-1150.00	-446.64	Vapor	2	
-1200.00	-459.36	Vapor	5	
-1200.00	-458.48	Vapor	1	
-1200.00	-457.98	Vapor	6	
-1200.00	-456.06	Vapor	2	
-1200.00	-455.44	Vapor	4	
-1300.00	-476.68	Vapor	1	
-1300.00	-476.31	Vapor	6	
-1300.00	-473.64	Vapor	4	
-1400.00	-494.30	Vapor	1	
-1400.00	-493.88	Vapor	6	
-1400.00	-491.22	Vapor	4	
-1500.00	-511.29	Vapor	1	
-1500.00	-510.87	Vapor	6	
-1500.00	-508.21	Vapor	4	
-Number	Source	
-1	Milligan D.E.; Becker E.D.; Pitzer K.S.: Thermodynamic functions of alkylnaphthalenes from 298 to 1500°K.. J.Am.Chem.Soc. 78 (1956) 2707-2711	
-2	Lielmezs J.; Bennett F.; McFee D.G.: Thermodynamic Functions for Naphtalene.. Thermochim.Acta 47 (1981) 287-308	
-3	McClellan A.L.; Pimentel G.C.: Vibrational assignment and thermodynamic properties of naphthalene.. J.Chem.Phys. 23 (1955) 245-248	
-4	Chen S.S.; Kudchadker S.A.; Wilhoit R.C.: Thermodynamic Properties of Normal and Deuterated Naphthalenes. J.Phys.Chem.Ref.Data 8 (1979) 527-535	
-5	McFee D.G.; Lielmezs J.: Thermodynamic Functions for Halogenated Naphthalenes. Thermochim.Acta 30 (1979) 173-186	
-6	Barrow G.M.; McClellan A.L.: The Thermodynamic Properties of Naphthalene.. J.Am.Chem.Soc. 73 (1951) 573-575	
-$$$Gibbs Energy of Form.	
-T [K]	Energy of formation [J/mol]	State	Reference	
-298.15	224179.00	Vapor	1	
-350.00	210162.00	Vapor	1	
-400.00	197025.00	Vapor	1	
-450.00	184096.00	Vapor	1	
-500.00	171209.00	Vapor	1	
-Number	Source	
-1	Miller G.A.: Vapor Pressure of Naphtalene. Thermodynamic Consistency with Proposed Frequency Assignments.. J.Chem.Eng.Data 8 (1963) 69-72	
-$$$Gibbs Energy of Form./T	
-T [K]	Energy of formation/T [J/(K*mol)]	State	Reference	
-298.15	749.59	Vapor	1	
-300.00	746.43	Vapor	1	
-320.00	715.25	Vapor	1	
-340.00	687.90	Vapor	1	
-360.00	663.87	Vapor	1	
-380.00	642.51	Vapor	1	
-400.00	623.47	Vapor	1	
-420.00	606.42	Vapor	1	
-440.00	590.96	Vapor	1	
-460.00	576.91	Vapor	1	
-480.00	564.19	Vapor	1	
-500.00	552.47	Vapor	1	
-520.00	541.74	Vapor	1	
-540.00	531.93	Vapor	1	
-560.00	522.78	Vapor	1	
-580.00	514.30	Vapor	1	
-600.00	506.41	Vapor	1	
-620.00	499.01	Vapor	1	
-640.00	492.19	Vapor	1	
-660.00	485.70	Vapor	1	
-680.00	479.64	Vapor	1	
-700.00	473.82	Vapor	1	
-Number	Source	
-1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494	
-$$$Heat of Fusion	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-		18770.00	Solid-Liquid	2	
-		19097.30	Solid-Liquid	6	
-		19110.00	Solid-Liquid	1	
-353.38		19050.00	Solid-Liquid-Vapor	4	
-353.40	101.325	18990.00	Solid-Liquid-Vapor	5	
-353.43		18990.00	Solid-Liquid-Vapor	3	
-Number	Source	
-1	Sharma B.L.; Sharma N.K.; Rambal M.: Excess thermodynamic functions: Ge and Se of binary organic eutectic systems. Thermochim.Acta 206 (1992) 71-84	
-2	Djordjevic N.M.: Solubilities of Polycyclic Aromatic Hydrocarbons Solids in n-Octadecane. Thermochim.Acta 177 (1991) 109-118	
-3	McCullough J.P.; Finke H.L.; Messerly J.F.; Todd S.S.; Kincheloe T.C.; Waddington G.: The Low-Temperature Thermodynamic Properties of Naphthalene, 1-Methylnaphthalene, 2-Methylnaphthalene, 1,2,3,4-Tetrahydronaphthalene, tras-Decahydonaphthalene and cis-Decahydronaphthalene. J.Phys.Chem. 61 (1957) 1105-1116	
-4	Andon R.J.L.; Connett J.E.: Measurement of their Enthalpies of Fusion by Adiabatic Calorimetry. Thermochim.Acta 42 (1980) 241-247	
-5	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494	
-6	Rastogi R.P.; Bassi P.S.: Mechanism of eutectic crystallization. J.Phys.Chem. 68 (1964) 2398-2406	
-$$$Heat of Sublimation	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-268.15	67360.00	Solid-Gas	6	
-286.85	72425.00	Solid-Gas	1	
-293.15	71000.00	Solid-Gas	4	
-298.15	66530.00	Solid-Gas	2	
-298.15	72320.00	Solid-Gas	3	
-316.00	74350.00	Solid-Gas	5	
-323.00	70850.00	Solid-Gas	3	
-Number	Source	
-1	Bradley R.S.; Cleasby T.G.: The Vapour Pressure and Lattice Energy of some Aromatic Ring Compounds. J.Chem.Soc.London  (1953) 1690-1692	
-2	Wolf K.L.; Weghofer H.: Heat of sublimation. Z.Phys.Chem.Abt.B 39 (1938) 194-208	
-3	Torres-Gomez L.A.; Barreiro-Rodriguez G.; Galarza-Mondragon A.: A New Method for the Measurement of Enthaplies of Sublimation Using Differential Scanning Calorimetry. Thermochim.Acta 124 (1988) 229-233	
-4	Sanemasa I.; Ishibashi K.; Kumamaru M.; Deguchi T.: A modified vapor saturation method for preparing aqueous solutions of solid aromatic hydrocarbons.. Bull.Chem.Soc.Japan 62 (1989) 2908-2912	
-5	Clark T.; Knox T.; Mackle H.; McKervey M.A.; Rooney J.J.: Heats of Sublimation of some Cage Hydrocarbons by a Temperature Scanning Technique. J.Chem.Soc.Faraday Trans.1 71 (1975) 2107-2110	
-6	Hoyer H.; Peperle W.: Measurement of vapour pressures of organic substances and their sublimation enthalpies. Z.Elektrochem. 62 (1958) 61-66	
-$$$Heat of Transition	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.00	72430.00	Solid	1	
-Number	Source	
-1	Miroshnichenko E.A.; Pavlovich V.K.; Lebedev Y.A.; Stanko V.I.; Galchenko G.L.: Microcalorimetrical determination of enthalpies of carborans sublimation. Termodin.Organic.Soedin. 5 (1976) 3-8	
-$$$Heat of Vaporization	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.00	54180.00	Vapor-Liquid	1	
-298.00	56020.00	Vapor-Liquid	1	
-298.00	56570.00	Vapor-Liquid	1	
-353.43	59800.00	Vapor-Liquid	5	
-355.00	59000.00	Vapor-Liquid	4	
-373.15	51500.00	Vapor-Liquid	3	
-424.15	41400.00	Vapor-Liquid	6	
-440.90	46262.40	Vapor-Liquid	2	
-440.90	46408.90	Vapor-Liquid	2	
-440.90	46429.80	Vapor-Liquid	2	
-440.90	46442.30	Vapor-Liquid	2	
-490.00	59000.00	Vapor-Liquid	4	
-Number	Source	
-1	Chickos J.S.; Hosseini S.; Hesse D.G.: Determination of Vaporization Enthalpies of Simple Organic Molecules by Correlations of Changes in Gas Chromatographic Net Retention Times. Thermochim.Acta 249 (1995) 41-62	
-2	Barrow G.M.; McClellan A.L.: The Thermodynamic Properties of Naphthalene.. J.Am.Chem.Soc. 73 (1951) 573-575	
-3	Matsubara N.; Kuwamoto T.: Vapor Pressure Measurement in Carrier Gas Containing Ligand Vapor Using the Transpiration Technique.. Thermochim.Acta 83 (1985) 193-202	
-4	Beech G.; Lintonbon R.M.: The Measurement of Sublimation Enthalpies by Differential Scanning Calorimetry. Thermochim.Acta 2 (1971) 86-88	
-5	Khudyakov V.L.: Gas chromatographic determination of heats of sublimation and melting of naphthalene. Zh.Fiz.Khim. 62 (1988) 3329-3329	
-6	David D.J.: Determination of Specific Heat and Heat of Fusion by Differential Thermal Analysis. Study of Theory and Operating Parameters. Anal.Chem. 36 (1964) 2162-2166	
-$$$Ideal Gas Heat Capacity	
-T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference	
-50.00	35.71	Ideal Gas	4	
-100.00	46.94	Ideal Gas	4	
-150.00	63.35	Ideal Gas	4	
-200.00	84.22	Ideal Gas	4	
-273.15	119.46	Ideal Gas	4	
-273.15	120.83	Ideal Gas	2	
-273.15	122.63	Ideal Gas	5	
-273.16	122.09	Ideal Gas	3	
-298.15	131.92	Ideal Gas	4	
-298.15	133.47	Ideal Gas	2	
-298.15	135.06	Ideal Gas	5	
-298.16	129.83	Ideal Gas	6	
-298.16	134.22	Ideal Gas	1	
-300.00	130.75	Ideal Gas	6	
-300.00	132.84	Ideal Gas	4	
-300.00	134.39	Ideal Gas	2	
-300.00	135.06	Ideal Gas	1	
-300.00	135.98	Ideal Gas	5	
-350.00	158.91	Ideal Gas	2	
-350.00	160.21	Ideal Gas	5	
-400.00	179.12	Ideal Gas	6	
-400.00	180.07	Ideal Gas	4	
-400.00	180.75	Ideal Gas	1	
-400.00	181.80	Ideal Gas	2	
-400.00	182.84	Ideal Gas	5	
-450.00	202.63	Ideal Gas	2	
-450.00	203.51	Ideal Gas	5	
-451.00	203.01	Ideal Gas	2	
-451.00	203.89	Ideal Gas	5	
-500.00	219.41	Ideal Gas	1	
-500.00	219.49	Ideal Gas	6	
-500.00	219.74	Ideal Gas	4	
-500.00	221.33	Ideal Gas	2	
-500.00	222.05	Ideal Gas	5	
-522.70	229.16	Ideal Gas	2	
-522.70	229.79	Ideal Gas	5	
-550.00	238.03	Ideal Gas	2	
-550.00	238.61	Ideal Gas	5	
-600.00	250.79	Ideal Gas	1	
-600.00	251.53	Ideal Gas	4	
-600.00	251.71	Ideal Gas	6	
-600.00	252.92	Ideal Gas	2	
-600.00	253.43	Ideal Gas	5	
-650.00	266.27	Ideal Gas	2	
-650.00	266.69	Ideal Gas	5	
-700.00	276.19	Ideal Gas	1	
-700.00	277.01	Ideal Gas	4	
-700.00	277.44	Ideal Gas	6	
-700.00	278.24	Ideal Gas	2	
-700.00	278.65	Ideal Gas	5	
-750.00	289.03	Ideal Gas	2	
-750.00	289.41	Ideal Gas	5	
-800.00	297.06	Ideal Gas	1	
-800.00	297.73	Ideal Gas	4	
-800.00	298.40	Ideal Gas	6	
-800.00	298.86	Ideal Gas	2	
-800.00	299.16	Ideal Gas	5	
-850.00	307.73	Ideal Gas	2	
-850.00	308.07	Ideal Gas	5	
-900.00	314.34	Ideal Gas	1	
-900.00	314.85	Ideal Gas	4	
-900.00	315.60	Ideal Gas	6	
-900.00	315.85	Ideal Gas	2	
-900.00	316.10	Ideal Gas	5	
-950.00	323.30	Ideal Gas	2	
-950.00	323.51	Ideal Gas	5	
-1000.00	328.82	Ideal Gas	1	
-1000.00	329.17	Ideal Gas	4	
-1000.00	329.99	Ideal Gas	6	
-1000.00	330.12	Ideal Gas	2	
-1000.00	330.29	Ideal Gas	5	
-1050.00	336.35	Ideal Gas	2	
-1050.00	336.52	Ideal Gas	5	
-1100.00	341.08	Ideal Gas	1	
-1100.00	341.24	Ideal Gas	4	
-1100.00	342.08	Ideal Gas	2	
-1100.00	342.25	Ideal Gas	5	
-1150.00	347.40	Ideal Gas	2	
-1150.00	347.57	Ideal Gas	5	
-1200.00	351.46	Ideal Gas	1	
-1200.00	351.50	Ideal Gas	4	
-1200.00	352.29	Ideal Gas	2	
-1200.00	352.38	Ideal Gas	6	
-1200.00	352.42	Ideal Gas	5	
-1300.00	360.26	Ideal Gas	4	
-1300.00	360.28	Ideal Gas	1	
-1300.00	361.12	Ideal Gas	6	
-1400.00	367.78	Ideal Gas	4	
-1400.00	367.90	Ideal Gas	1	
-1400.00	368.61	Ideal Gas	6	
-1500.00	374.27	Ideal Gas	4	
-1500.00	374.43	Ideal Gas	1	
-1500.00	374.97	Ideal Gas	6	
-Number	Source	
-1	Milligan D.E.; Becker E.D.; Pitzer K.S.: Thermodynamic functions of alkylnaphthalenes from 298 to 1500°K.. J.Am.Chem.Soc. 78 (1956) 2707-2711	
-2	Lielmezs J.; Bennett F.; McFee D.G.: Thermodynamic Functions for Naphtalene.. Thermochim.Acta 47 (1981) 287-308	
-3	McClellan A.L.; Pimentel G.C.: Vibrational assignment and thermodynamic properties of naphthalene.. J.Chem.Phys. 23 (1955) 245-248	
-4	Chen S.S.; Kudchadker S.A.; Wilhoit R.C.: Thermodynamic Properties of Normal and Deuterated Naphthalenes. J.Phys.Chem.Ref.Data 8 (1979) 527-535	
-5	McFee D.G.; Lielmezs J.: Thermodynamic Functions for Halogenated Naphthalenes. Thermochim.Acta 30 (1979) 173-186	
-6	Barrow G.M.; McClellan A.L.: The Thermodynamic Properties of Naphthalene.. J.Am.Chem.Soc. 73 (1951) 573-575	
-$$$Kinematic Viscosity	
-T [K]	Kinematic Viscosity [m2/s]	State	Reference	
-353.15	9.68999984252E-07	Liquid	1	
-362.15	8.85999952516E-07	Liquid	2	
-363.15	8.89299997198E-07	Liquid	3	
-363.15	9.09999982923E-07	Liquid	1	
-372.15	8.43999998779E-07	Liquid	2	
-377.15	8.03999967047E-07	Liquid	2	
-383.15	7.28999964394E-07	Liquid	2	
-383.15	7.31800014364E-07	Liquid	3	
-383.15	7.76999968366E-07	Liquid	1	
-395.75	6.90999968356E-07	Liquid	2	
-403.15	6.09899984738E-07	Liquid	3	
-403.15	6.42999964384E-07	Liquid	1	
-408.65	6.19999980245E-07	Liquid	2	
-418.15	5.83999963055E-07	Liquid	2	
-423.15	5.20000014603E-07	Liquid	3	
-423.15	5.54999985525E-07	Liquid	1	
-425.55	5.58000010642E-07	Liquid	2	
-433.15	5.45999967017E-07	Liquid	2	
-443.15	4.55899993312E-07	Liquid	3	
-443.15	5.37999994776E-07	Liquid	2	
-449.15	5.21999993452E-07	Liquid	2	
-450.65	4.64999999394E-07	Liquid	1	
-463.15	4.04999980219E-07	Liquid	3	
-478.15	4.00999994099E-07	Liquid	1	
-483.15	3.65999994756E-07	Liquid	3	
-503.15	3.60999990789E-07	Liquid	1	
-543.15	3.2099998748E-07	Liquid	1	
-578.15	2.94999978223E-07	Liquid	1	
-606.15	2.68999997388E-07	Liquid	1	
-633.15	2.61999986151E-07	Liquid	1	
-Number	Source	
-1	Golik A.Z.; Ravikovich S.D.: Viskosität von binären flüssigen Mischungen und Lösungen. Zh.Fiz.Khim. 24 (1950) 524-528	
-2	Golik A.Z.; Ravikovich S.D.: Investigation of the Coefficient of Viscosity of Isomorphic Substances. Zh.Fiz.Khim. 23 (1949) 86-89	
-3	Gurevich B.S.; Bednov V.M.: Study of Temperature Dependence of Density and Viscosity of Aromatic Substances. Viniti  (1972) 1-10	
-$$$Melting Point	
-T [K]	P [kPa]	State	Reference	
-352.50		Solid-Liquid	1	
-352.80		Solid-Liquid	2	
-353.35	101.330	Solid-Liquid	5	
-353.50		Solid-Liquid	4	
-Number	Source	
-1	Djordjevic N.M.: Solubilities of Polycyclic Aromatic Hydrocarbons Solids in n-Octadecane. Thermochim.Acta 177 (1991) 109-118	
-2	Coon J.E.; Troth M.; McLaughlin E.: Solubilities of Polynuclear Aromatic Hydrocarbons in Mixtures of Common Organic Solvents. J.Chem.Eng.Data 32 (1987) 233-240	
-3	Choi P.B.; Williams Ch.P.; Buehring K.G.; Mc Laughlin E.: Solubility of Aromatic Hydrocarbon Solids in Mixtures of Benzene and Cyclohexane. J.Chem.Eng.Data 30 (1985) 403-409	
-4	Huang T.-C.; Kang B.-C.: Naphthalene Hydrogenation over Pt/Al2O3 Catalyst in a Trickle Bed Reactor. Ind.Eng.Chem.Res. 34 (1995) 2349-2357	
-5	Karyakin N.V.; Rabinovich I.B.; Pakhomov L.G.: Heats of Sublimation of Naphtahlene and its beta-Derivatives. Zh.Fiz.Khim. 42 (1968) 1814-1816	
-$$$Molar Heat Capacity (cP)	
-T [K]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
-15.14	5.904	Solid	3	
-17.73	8.514	Solid	3	
-21.45	12.401	Solid	3	
-22.25	13.736	Solid	3	
-25.54	16.98	Solid	3	
-26.66	18.146	Solid	3	
-29.79	21.23	Solid	3	
-31.74	23.04	Solid	3	
-34.35	25.39	Solid	3	
-36.47	27.25	Solid	3	
-39.34	29.447	Solid	3	
-41.32	30.94	Solid	3	
-44.64	33.12	Solid	3	
-46.53	34.40	Solid	3	
-50.23	36.526	Solid	3	
-51.95	37.95	Solid	3	
-56.22	40.62	Solid	3	
-57.37	41.33	Solid	3	
-62.32	44.02	Solid	3	
-62.52	44.10	Solid	3	
-67.86	46.44	Solid	3	
-73.36	48.91	Solid	3	
-78.58	51.30	Solid	3	
-83.57	54.06	Solid	3	
-88.38	55.61	Solid	3	
-89.86	56.23	Solid	3	
-93.06	57.40	Solid	3	
-95.39	57.99	Solid	3	
-100.77	60.50	Solid	3	
-106.04	62.17	Solid	3	
-111.18	64.35	Solid	3	
-116.21	66.32	Solid	3	
-121.11	68.41	Solid	3	
-125.94	70.84	Solid	3	
-130.68	72.93	Solid	3	
-135.35	75.02	Solid	3	
-140.33	77.24	Solid	3	
-145.61	79.66	Solid	3	
-150.80	82.30	Solid	3	
-151.99	82.72	Solid	3	
-155.93	84.52	Solid	3	
-161.02	86.99	Solid	3	
-166.00	89.29	Solid	3	
-168.48	87.99	Solid	3	
-168.52	90.12	Solid	3	
-173.49	92.72	Solid	3	
-178.39	95.14	Solid	3	
-183.23	97.74	Solid	3	
-187.99	100.17	Solid	3	
-192.69	103.14	Solid	3	
-197.62	105.31	Solid	3	
-202.85	108.12	Solid	3	
-208.00	110.96	Solid	3	
-213.10	113.76	Solid	3	
-218.13	116.57	Solid	3	
-223.10	119.33	Solid	3	
-226.90	121.71	Solid	3	
-228.01	122.38	Solid	3	
-232.92	124.98	Solid	3	
-232.95	124.85	Solid	3	
-237.78	127.40	Solid	3	
-238.94	128.28	Solid	3	
-242.54	130.88	Solid	3	
-244.83	132.09	Solid	3	
-250.68	135.52	Solid	3	
-256.42	139.03	Solid	3	
-262.09	142.72	Solid	3	
-267.70	146.36	Solid	3	
-273.21	150.04	Solid	3	
-278.69	153.80	Solid	3	
-284.09	157.53	Solid	3	
-289.42	161.25	Solid	3	
-294.68	165.48	Solid	3	
-317.15	188.41	Solid	2	
-357.91	219.34	Liquid	5	
-359.15	239.68	Liquid	2	
-360.00	219.83	Liquid	1	
-361.99	220.90	Liquid	5	
-366.04	222.51	Liquid	5	
-370.00	223.68	Liquid	1	
-374.25	225.72	Liquid	5	
-376.21	226.50	Liquid	5	
-381.95	264.91	Liquid	4	
-386.95	268.13	Liquid	4	
-389.15	231.56	Liquid	5	
-392.05	271.35	Liquid	4	
-397.15	275.10	Liquid	4	
-401.38	236.36	Liquid	5	
-402.35	278.32	Liquid	4	
-404.57	237.58	Liquid	5	
-407.55	282.07	Liquid	4	
-412.75	285.29	Liquid	4	
-415.61	241.89	Liquid	5	
-417.95	289.05	Liquid	4	
-419.94	243.53	Liquid	5	
-423.15	292.26	Liquid	4	
-428.45	296.02	Liquid	4	
-429.20	247.11	Liquid	5	
-433.55	299.24	Liquid	4	
-435.25	249.44	Liquid	5	
-438.75	302.45	Liquid	4	
-440.31	251.41	Liquid	5	
-444.05	306.74	Liquid	4	
-449.25	309.96	Liquid	4	
-454.75	313.71	Liquid	4	
-460.25	317.47	Liquid	4	
-465.85	320.69	Liquid	4	
-Number	Source	
-1	Durupt N.; Aoulmi A.; Bouroukba M.; Rogalski M.: Heat Capacities of Liquid Polycyclic Aromatic Hydrocarbons. Thermochim.Acta 260 (1995) 87-94	
-2	Rastogi R.P.; Bassi P.S.: Mechanism of eutectic crystallization. J.Phys.Chem. 68 (1964) 2398-2406	
-3	Southard J.C.; Brickwedde F.G.: Low Temperature Specific Heats. I. An Improved Calorimeter for Use from 14 to 300 °K. The Heat Capacity and Entropy of Naphthalene. J.Am.Chem.Soc. 55 (1933) 4378-4384	
-4	Blacet F.E.; Leighton P.A.; Bartlett E.P.: The Specific Heats of Five Pure Organic Liquids and of Ethyl Alcohol-Water Mixtures. J.Phys.Chem. 35 (1931) 1935-1943	
-5	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494	
-$$$Speed of Sound	
-T [K]	Ultrasonic Velocity [m/s]	State	Reference	
-352.15	1312.500	Liquid	1	
-352.15	1337.500	Liquid	1	
-352.15	1350.000	Liquid	1	
-352.15	1400.000	Liquid	1	
-352.65	1297.500	Liquid	1	
-353.15	1287.000	Liquid	4	
-353.15	1288.750	Liquid	1	
-353.65	1282.500	Liquid	1	
-354.15	1280.000	Liquid	1	
-354.65	1277.500	Liquid	1	
-355.15	1275.000	Liquid	1	
-356.15	1270.000	Liquid	1	
-357.15	1267.500	Liquid	1	
-358.15	1263.500	Liquid	1	
-358.15	1292.000	Liquid	2	
-364.15	1245.000	Liquid	1	
-368.15	1258.000	Liquid	2	
-369.15	1227.000	Liquid	1	
-373.15	1240.000	Liquid	4	
-373.15	1245.000	Liquid	3	
-373.15	1246.300	Liquid Phase of VLE	6	
-373.15	1276.000	Liquid	5	
-378.15	1281.000	Liquid	1	
-383.15	1185.000	Liquid	1	
-393.15	1174.000	Liquid	3	
-393.15	1177.000	Liquid	4	
-393.15	1179.900	Liquid Phase of VLE	6	
-413.15	1114.000	Liquid	4	
-413.15	1116.300	Liquid Phase of VLE	6	
-433.15	1050.000	Liquid	4	
-433.15	1054.400	Liquid Phase of VLE	6	
-453.15	987.000	Liquid	4	
-453.15	993.800	Liquid Phase of VLE	6	
-473.15	934.300	Liquid Phase of VLE	6	
-493.15	875.600	Liquid Phase of VLE	6	
-513.15	817.700	Liquid Phase of VLE	6	
-533.15	760.400	Liquid Phase of VLE	6	
-553.15	703.600	Liquid Phase of VLE	6	
-573.15	646.900	Liquid Phase of VLE	6	
-593.15	590.200	Liquid Phase of VLE	6	
-613.15	532.800	Liquid Phase of VLE	6	
-633.15	474.600	Liquid Phase of VLE	6	
-653.15	414.900	Liquid Phase of VLE	6	
-673.15	353.700	Liquid Phase of VLE	6	
-Number	Source	
-1	Otpushchennikov N.F.: Ultrasound velocity near the melting temperature of some organic compounds. Primenenie ul'traakustiki k issledovaniju vescestva 9 (1959) 83-93	
-2	Ishchenko E.D.; Roshchina G.P.: On the structure of liquid systems with an eutectic state diagram. II Rate of propagation of ultrasound and the adiabatic compressibility of liquid binary systems with the simple eutectic state diagram.. Ukr.Fiz.Zh.(Ukr.Ed.) 8 (1963) 1250-1256	
-3	Batalin G.I.; Mizernitskii M.P.: Study of the ultrasound velocity in melted binary systems of eutectic type. Ukr.Khim.Zh.(Russ.Ed.) 34 (1968) 927-932	
-4	Lutskii A.E.; Solon'ko V.N.: Compressibility of liquid naphthalene and its substituted Derivatives. Viniti  (1971) 1-9	
-5	Schaaffs W.: Die Schallgeschwindigkeiten von Lösungen und ihre Beziehungen zur Schallgeschwindigkeit des gelösten Stoffes. Z.Phys. (Berlin) 105 (1937) 658-675	
-6	Zotov V.V.; Melikhov Yu.F.; Mel'nikov G.A.; Neruchev Yu.A.: Schallgeschwindigkeit in flüssigen Kohlenwasserstoffen. Monograph  (1995) 1-77	
-$$$Standard Heat of Vaporization	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.15	54640.00	Vapor-Liquid	1	
-Number	Source	
-1	Zhao H.; Unhannanant P.; Hanshaw W.; Chickos J.S.: Liquid-Vapor Pressure Isotope Effects. J.Chem.Eng.Data 53 (2008) 1545-1556	
-$$$Std. Heat of Combustion	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-292.65	-5155850.00	Solid	4	
-298.00	-5153890.00	Solid	1	
-298.00	-5153010.00	Solid	3	
-298.00	-5151480.00	Solid	2	
-298.15	-5163450.00	Solid	6	
-298.15	-4984700.00	Solid	5	
-Number	Source	
-1	Holdiness M.R.: Heats of Atomization and Resonance Energy of some Ortho-Substituted Benzoic Acids. Thermochim.Acta 71 (1983) 257-263	
-2	Keffler L.J.P.; Guthrie F.C.: Investigation on the Heats of Combustion of Proposed Secondary Standard Substances and on Position and Optical Isomers.. J.Phys.Chem. 31 (1927) 58-68	
-3	Richards T.W.; Davis H.S.: The heats of combustion of benzene, toluene, aliphatic alcohols, cyclohexanol, and other carbon compounds.. J.Am.Chem.Soc. 42 (1920) 1599-1615	
-4	Verkade P.E.; Coops Jr. J.: An Investigation as to the Accuracy of Stohmann's Thermochemical Data. Recl.Trav.Chim.Pays-Bas 47 (1928) 606-618	
-5	Stohmann F.: 1. Abhandlung. J.Prakt.Chem. 31 (1885) 273-306	
-6	Stohmann F.; Kleber C.; Langbein H.: 17. Abhandlung: Ueber die Verbrennungswärme des Benzols und anderer Kohlenwasserstoffe der aromatischen Reihe. J.Prakt.Chem. 40 (1889) 77-95	
-$$$Std. Heat of Formation	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-298.00		87170.00	Solid	3	
-298.00		150582.00	Vapor	2	
-298.00		151126.00	Vapor	4	
-298.00		151670.00	Vapor	1	
-298.15		73638.40	Solid	6	
-298.15	101.325	150573.00	Vapor	5	
-300.00	101.325	150459.00	Vapor	5	
-320.00	101.325	149076.00	Vapor	5	
-340.00	101.325	147764.00	Vapor	5	
-360.00	101.325	146548.00	Vapor	5	
-380.00	101.325	145369.00	Vapor	5	
-400.00	101.325	144273.00	Vapor	5	
-420.00	101.325	143211.00	Vapor	5	
-440.00	101.325	142238.00	Vapor	5	
-460.00	101.325	141284.00	Vapor	5	
-480.00	101.325	140362.00	Vapor	5	
-500.00	101.325	139517.00	Vapor	5	
-520.00	101.325	138699.00	Vapor	5	
-540.00	101.325	137928.00	Vapor	5	
-560.00	101.325	137169.00	Vapor	5	
-580.00	101.325	136426.00	Vapor	5	
-600.00	101.325	135693.00	Vapor	5	
-620.00	101.325	135009.00	Vapor	5	
-640.00	101.325	134309.00	Vapor	5	
-660.00	101.325	133677.00	Vapor	5	
-680.00	101.325	132979.00	Vapor	5	
-700.00	101.325	132292.00	Vapor	5	
-Number	Source	
-1	Speros D.M.; Rossini F.D.: Heats of combustion and formation of naphthalene, the two methylnaphthalenes, cis and trans-decahydronaphthalene, and related compounds.. J.Phys.Chem. 64 (1960) 1723-1727	
-2	Coleman D.J.; Pilcher G.: Heats of combustion of biphenyl, bibenzyl, naphthalene, anthracene and phenanthrene.. Trans.Faraday Soc. 62 (1966) 821-827	
-3	Metzger R.M.; Kuo C.S.; Arafat E.S.: A semi-micro rotating-bomb combustion calorimeter. J.Chem.Thermodyn. 15 (1983) 841-951	
-4	Miller G.A.: Vapor Pressure of Naphtalene. Thermodynamic Consistency with Proposed Frequency Assignments.. J.Chem.Eng.Data 8 (1963) 69-72	
-5	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494	
-6	Stohmann F.; Kleber C.; Langbein H.: 17. Abhandlung: Ueber die Verbrennungswärme des Benzols und anderer Kohlenwasserstoffe der aromatischen Reihe. J.Prakt.Chem. 40 (1889) 77-95	
-$$$Surface Tension	
-T [K]	Surface Tension [mN/m]	State	Reference	
-353.25	32.2600	Liquid	3	
-353.65	32.2900	Liquid	6	
-353.95	32.0300	Liquid	2	
-355.15	32.8800	Liquid	1	
-355.15	33.0500	Liquid	1	
-363.15	32.0700	Liquid	1	
-363.15	32.1800	Liquid	1	
-373.15	31.0600	Liquid	1	
-373.15	31.0900	Liquid	1	
-383.15	30.2600	Liquid	1	
-383.15	30.2900	Liquid	1	
-384.15	29.0700	Liquid	6	
-394.15	29.3000	Liquid	4	
-426.15	24.7400	Liquid	6	
-574.15	12.9000	Liquid	5	
-584.15	12.0000	Liquid	5	
-594.15	11.2000	Liquid	5	
-604.15	10.2000	Liquid	5	
-614.15	9.4300	Liquid	5	
-624.15	8.7800	Liquid	5	
-634.15	7.9400	Liquid	5	
-644.15	7.1000	Liquid	5	
-653.15	6.4100	Liquid	5	
-663.15	5.6400	Liquid	5	
-673.15	4.9200	Liquid	5	
-Number	Source	
-1	Burriel Marti F.: III. Recherche sur les proprétés physico-chimiques de quelques combinaisons organiques solides à la température ordinaire. Bull.Soc.Chim.Belg. 39 (1930) 590-630	
-2	Ray S.K.: Determination of parachor in solution. I.. J.Indian Chem.Soc. 11 (1934) 671-679	
-3	Bhatnagar S.-S.; Singh B.: Surface tension of several melted organic substances and Sugden's parachors.. J.Chim.Phys. 25 (1928) 21-27	
-4	Campbell A.N.; Campbell A.J.R.: The System Naphthalene-p-Nitrophenol: An Experimental Investigation of all the Variables in an Equation of the Freezing Point Curve. Can.J.Res.Sec.B 19 (1941) 73-85	
-5	Grzyll L.R.; Ramos C.; Back D.D.: Density, Viscosity, and Surface Tension of Liquid Quinoline, Naphthalene, Biphenyl, Decafluorobiphenyl, and 1,2-Diphenylbenzene from 300 to 400°C. J.Chem.Eng.Data 41 (1996) 446-450	
-6	Hueckel W.; Datow J.; Simmersbach E.: Physikalische Eigenschaften von Pyrazol, Imidazol und 4-Methylimidazol und ihrer Lösungen, besonders in Benzol.. Z.Phys.Chem.Abt.A 186 (1940) 129-179	
-$$$Thermal Conductivity	
-T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
-369.92	98.000	0.1221	Liquid	1	
-371.21	98.000	0.1218	Liquid	1	
-372.22	98.000	0.1219	Liquid	1	
-398.13	49130.000	0.1334	Liquid	1	
-398.20	39320.000	0.1308	Liquid	1	
-398.34	29520.000	0.1280	Liquid	1	
-398.42	19710.000	0.1250	Liquid	1	
-398.55	9905.000	0.1213	Liquid	1	
-398.69	98.000	0.1172	Liquid	1	
-400.05	9905.000	0.1214	Liquid	1	
-400.13	29520.000	0.1280	Liquid	1	
-400.22	98.000	0.1174	Liquid	1	
-400.24	19710.000	0.1246	Liquid	1	
-400.62	49130.000	0.1336	Liquid	1	
-400.72	39320.000	0.1304	Liquid	1	
-418.27	9905.000	0.1181	Liquid	1	
-418.37	98.000	0.1152	Liquid	1	
-418.55	39320.000	0.1279	Liquid	1	
-418.67	49130.000	0.1308	Liquid	1	
-418.69	19710.000	0.1224	Liquid	1	
-418.70	29520.000	0.1249	Liquid	1	
-420.26	9905.000	0.1180	Liquid	1	
-420.53	98.000	0.1150	Liquid	1	
-420.80	29520.000	0.1247	Liquid	1	
-420.85	49130.000	0.1308	Liquid	1	
-420.90	19710.000	0.1219	Liquid	1	
-420.98	39320.000	0.1278	Liquid	1	
-437.82	39320.000	0.1253	Liquid	1	
-438.02	29520.000	0.1221	Liquid	1	
-438.11	19710.000	0.1191	Liquid	1	
-438.11	49130.000	0.1280	Liquid	1	
-438.72	9905.000	0.1154	Liquid	1	
-438.82	98.000	0.1121	Liquid	1	
-440.39	39320.000	0.1250	Liquid	1	
-440.59	29520.000	0.1216	Liquid	1	
-440.68	19710.000	0.1188	Liquid	1	
-440.85	49130.000	0.1277	Liquid	1	
-440.91	9905.000	0.1150	Liquid	1	
-441.04	98.000	0.1117	Liquid	1	
-457.48	19710.000	0.1163	Liquid	1	
-457.58	9905.000	0.1125	Liquid	1	
-457.72	49130.000	0.1257	Liquid	1	
-457.73	98.000	0.1084	Liquid	1	
-457.89	39320.000	0.1226	Liquid	1	
-458.05	29520.000	0.1196	Liquid	1	
-460.46	9905.000	0.1126	Liquid	1	
-460.63	49130.000	0.1255	Liquid	1	
-460.64	98.000	0.1083	Liquid	1	
-460.64	19710.000	0.1160	Liquid	1	
-460.82	39320.000	0.1230	Liquid	1	
-461.01	29520.000	0.1195	Liquid	1	
-462.35	49130.000	0.1255	Liquid	1	
-462.48	39320.000	0.1224	Liquid	1	
-462.61	19710.000	0.1154	Liquid	1	
-462.65	29520.000	0.1184	Liquid	1	
-462.80	9905.000	0.1117	Liquid	1	
-462.95	98.000	0.1076	Liquid	1	
-463.52	9905.000	0.1117	Liquid	1	
-477.70	9905.000	0.1100	Liquid	1	
-477.72	49130.000	0.1236	Liquid	1	
-477.76	29520.000	0.1168	Liquid	1	
-477.83	19710.000	0.1136	Liquid	1	
-477.89	98.000	0.1052	Liquid	1	
-478.00	39320.000	0.1203	Liquid	1	
-479.37	19710.000	0.1132	Liquid	1	
-479.48	9905.000	0.1096	Liquid	1	
-479.72	98.000	0.1052	Liquid	1	
-479.94	49130.000	0.1244	Liquid	1	
-480.00	29520.000	0.1167	Liquid	1	
-480.21	39320.000	0.1199	Liquid	1	
-Number	Source	
-1	Bogatov G.F.; Lapin V.B.; Rastorguev Yu.L.: Wärmeleitfähigkeit von Naphthalen-Reihe-Kohlenwasserstoffen im flüssigen Zustand. I. Naphthalen und Methylnaphthalen. Viniti  (1987) 1-15	
-$$$Transition Temperature	
-T [K]	P [kPa]	State	Reference	
-344.15		Supercooled Liquid > Solid	1	
-Number	Source	
-1	Singh N.B.; Srivastava A.; Singh N.P.: Solid-Liquid Equilibrium for 2,4-Dinitrophenol + Naphthalene. J.Chem.Eng.Data 46 (2001) 47-50	
-$$$Triple Point	
-T [K]	P [kPa]	State	Reference	
-352.15		Solid-Liquid-Vapor	2	
-353.15	1.0586	Solid-Liquid-Vapor	3	
-353.41		Solid-Liquid-Vapor	1	
-353.73		Solid-Liquid-Vapor	4	
-Number	Source	
-1	Andon R.J.L.; Connett J.E.: Measurement of their Enthalpies of Fusion by Adiabatic Calorimetry. Thermochim.Acta 42 (1980) 241-247	
-2	Wolf K.L.; Weghofer H.: Heat of sublimation. Z.Phys.Chem.Abt.B 39 (1938) 194-208	
-3	Campbell A.N.: The System Naphthalene - Benzene considered as an Ideal Solution. Can.J.Res.Sec.B 19 (1941) 143-149	
-4	Sabbah R.; El Watik L.: New Reference Materials for the Calibration (Temperature and Energy) of Differential Thermal Analysers and Scanning Calorimeters. J.Therm.Anal. 38 (1992) 855-863	
-$$$Vapor Pressure	
-T [K]	P [kPa]	State	Reference	
-237.15	4.53295979241E-006	Solid-Gas	4	
-243.15	0.000006	Solid-Gas	4	
-243.15	1.10658002086E-005	Solid-Gas	4	
-243.15	1.11991002996E-005	Solid-Gas	4	
-243.15	1.13324003905E-005	Solid-Gas	4	
-252.15	0.000032	Solid-Gas	4	
-258.15	4.66628007416E-005	Solid-Gas	4	
-258.15	0.00006	Solid-Gas	4	
-258.65	0.000105324994365	Solid-Gas	4	
-267.15	0.000266644987278	Solid-Gas	4	
-273.15	0.00032	Solid-Gas	4	
-273.15	0.000346638000337	Solid-Gas	4	
-276.15	0.000746605976019	Solid-Gas	4	
-280.30	0.00176	Solid-Gas	1	
-285.95	0.003133	Solid-Gas	1	
-291.55	0.005586	Solid-Gas	1	
-292.00	0.005933	Solid-Gas	1	
-299.55	0.012586	Solid-Gas	1	
-305.00	0.02053	Solid-Gas	1	
-313.48	0.0468	Solid-Gas	2	
-322.60	0.0988	Solid-Gas	2	
-327.33	0.14852	Solid-Gas	2	
-333.38	0.2448	Solid-Gas	2	
-334.36	0.2544	Solid-Gas	2	
-338.21	0.3388	Solid-Gas	2	
-339.51	0.3848	Solid-Gas	2	
-343.34	0.5012	Solid-Gas	2	
-344.13	0.5214	Solid-Gas	2	
-348.76	0.7263	Solid-Gas	2	
-349.86	0.7893	Solid-Gas	2	
-352.49	0.932	Solid-Gas	2	
-353.48	1.0024	Vapor-Liquid	2	
-356.04	1.1408	Vapor-Liquid	2	
-356.51	1.1744	Vapor-Liquid	2	
-358.85	1.2956	Vapor-Liquid	2	
-362.00	1.5068	Vapor-Liquid	2	
-365.90	1.8106	Vapor-Liquid	2	
-366.43	1.8476	Vapor-Liquid	2	
-367.47	1.952	Vapor-Liquid	2	
-371.82	2.3565	Vapor-Liquid	2	
-376.09	2.833	Vapor-Liquid	2	
-379.35	3.2444	Vapor-Liquid	2	
-382.38	3.697	Vapor-Liquid	2	
-382.64	3.717	Vapor-Liquid	2	
-382.96	3.771	Vapor-Liquid	2	
-388.71	4.7515	Vapor-Liquid	2	
-388.72	4.756	Vapor-Liquid	2	
-392.37	5.470	Vapor-Liquid	2	
-397.60	6.674	Vapor-Liquid	2	
-398.07	6.798	Vapor-Liquid	2	
-399.06	7.060	Vapor-Liquid	2	
-399.48	6.949	Vapor-Liquid	3	
-403.99	8.338	Vapor-Liquid	3	
-406.43	9.208	Vapor-Liquid	2	
-406.84	9.329	Vapor-Liquid	2	
-407.70	9.537	Vapor-Liquid	3	
-411.63	11.017	Vapor-Liquid	2	
-411.83	10.948	Vapor-Liquid	3	
-412.76	11.477	Vapor-Liquid	2	
-413.99	11.951	Vapor-Liquid	2	
-417.08	13.100	Vapor-Liquid	3	
-422.80	16.000	Vapor-Liquid	2	
-423.53	16.372	Vapor-Liquid	2	
-428.92	19.436	Vapor-Liquid	3	
-431.16	20.758	Vapor-Liquid	2	
-432.24	21.506	Vapor-Liquid	2	
-432.69	21.814	Vapor-Liquid	2	
-434.25	22.878	Vapor-Liquid	3	
-441.69	28.550	Vapor-Liquid	3	
-441.85	28.638	Vapor-Liquid	2	
-448.68	34.819	Vapor-Liquid	3	
-452.67	38.790	Vapor-Liquid	2	
-456.49	43.159	Vapor-Liquid	3	
-464.85	53.774	Vapor-Liquid	3	
-473.62	67.072	Vapor-Liquid	3	
-489.69	98.125	Vapor-Liquid	3	
-490.39	99.729	Vapor-Liquid	3	
-491.00	101.112	Vapor-Liquid	3	
-491.79	102.925	Vapor-Liquid	3	
-Number	Source	
-1	Macknick A.B.; Prausnitz J.M.: Vapor Pressures of High-Molecular-Weight Hydrocarbons. J.Chem.Eng.Data 24 (1979) 175-178	
-2	Fowler L.; Trump W.N.; Vogler C.E.: New Measurements between 40 °C and  180 °C. J.Chem.Eng.Data 13 (1968) 209-210	
-3	Camin D.L.; Rossini F.D.: Physical Properties of 14 American Petroleum Institute  Research Hydrocarbons, C9 to C15. J.Phys.Chem. 59 (1955) 1173-1179	
-4	Andrews M.R.: Vapor Pressure of Naphthalene at Low Temperatures. J.Phys.Chem. 30 (1926) 1497-1500	
+Formula	Molar Mass	CAS Registry Number	Name
+C10H8	128.174	91-20-3	Naphthalene
+$$$Critical Data
+T [K]	P [kPa]	State	Reference
+741.20	3972.000	Critical Point	2
+742.15		Critical Point	1
+746.55		Critical Point	4
+748.00		Critical Point	6
+748.40	4050.000	Critical Point	5
+753.15	4120.000	Critical Point	3
+Number	Source
+1	Golik A.Z.; Ravikovich S.D.: Viskosität von binären flüssigen Mischungen und Lösungen. Zh.Fiz.Khim. 24 (1950) 524-528
+2	Guye P.-A.; Mallet E.: Critical Constants and Molecular Structure of Higher Hydrocarbons. C.R.Hebd.Seanc.Acad.Sci.Paris 133 (1901) 1287-1290
+3	Schroer E.: Study of the critical state. VI. Vapour pressure curve of naphthaleneup to critical state. (Ger). Z.Phys.Chem.Abt.B 49 (1941) 271-278
+4	Cheng D.C.-H.: Critical temperatures and volumes of some binary systems. Chem.Eng.Sci. 18 (1963) 715-724
+5	Tsonopoulos C.; Ambrose D.: 3. Aromatic Hydrocarbons.. J.Chem.Eng.Data 40 (1995) 547-558
+6	Cheng D.C.-H.; McCoubrey J.C.; Phillips D.G.: Critical Temperatures of Some Organo Cyclic Compounds.. Trans.Faraday Soc. 58 (1962) 224-229
+$$$Density
+T [K]	P [kPa]	Density [kg/m3]	State	Reference
+355.00		976.720	Liquid Phase of VLE	3
+355.35	101.325	976.400	Liquid	6
+355.45		977.500	Liquid	4
+360.00		972.740	Liquid Phase of VLE	3
+361.55		972.700	Liquid	4
+361.95		972.200	Liquid	4
+368.95		966.500	Liquid	4
+370.00		964.730	Liquid Phase of VLE	3
+372.15	101.325	963.500	Liquid	6
+372.75		964.100	Liquid	1
+373.13		962.580	Liquid Phase of VLE	5
+390.00		948.620	Liquid Phase of VLE	3
+398.12		942.140	Liquid Phase of VLE	5
+410.00		932.300	Liquid Phase of VLE	3
+423.11		921.040	Liquid Phase of VLE	5
+430.00		915.720	Liquid Phase of VLE	3
+431.40	101.325	911.000	Liquid	2
+435.80	101.325	908.700	Liquid	2
+437.90	101.325	905.500	Liquid	2
+440.30	101.325	903.600	Liquid	2
+445.30	101.325	898.700	Liquid	2
+448.11		899.820	Liquid Phase of VLE	5
+450.00		898.820	Liquid Phase of VLE	3
+452.10	101.325	893.700	Liquid	2
+458.20	101.325	889.000	Liquid	2
+460.00		890.200	Liquid Phase of VLE	3
+462.80	101.325	884.900	Liquid	2
+467.30	101.325	880.900	Liquid	2
+470.00		881.490	Liquid Phase of VLE	3
+472.20	101.325	876.300	Liquid	2
+473.11		878.150	Liquid Phase of VLE	5
+477.60	101.325	873.300	Liquid	2
+480.00		872.650	Liquid Phase of VLE	3
+490.00		863.680	Liquid Phase of VLE	3
+498.11		855.660	Liquid Phase of VLE	5
+523.11		831.940	Liquid Phase of VLE	5
+548.11		806.110	Liquid Phase of VLE	5
+Number	Source
+1	von Auwers K.; Frühling A.: Über die Spektrochemie mehrkerniger aromatischer Verbindungen und die Konstitution des Naphthalins. Justus Liebigs Ann.Chem. 422 (1921) 192-230
+2	Shinsaka K.; Gee N.; Freeman G.R.: Densities Against Temperature of 17 Organic Liquids and of Solid 2,2-Dimethylpropane. J.Chem.Thermodyn. 17 (1985) 1111-1119
+3	Hales J.L.; Townsend R.: Liquid densities from 293 to 490 K of nine aromatic hydrocarbons. J.Chem.Thermodyn. 4 (1972) 763-772
+4	Ishchenko E.D.; Roshchina G.P.: 1. Density of Liquid Binary Systems with a Eutectic State Diagram. Ukr.Fiz.Zh.(Ukr.Ed.) 8 (1963) 1241-1249
+5	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494
+6	Scheuer O.: Physikochemische Studien an binären Gemischen mit einer optisch aktiven Komponente. Z.Phys.Chem.(Leipzig) 72 (1910) 513-608
+$$$Dielectric Constant
+T [K]	Dielectric Constant [-]	State	Reference
+293.15	2.50000	Liquid	1
+293.15	2.87000	Solid	2
+353.65	3.22000	Liquid	3
+Number	Source
+1	Gemant A.: Electrical Properties of Hydrocarbons. Physical Chemistry of the Hydrocarbons. Volume 1  (1950) 215-240
+2	Ishii K.; Kinoshita M.; Kuroda H.: Dielectric Constant Measurement on Organic Crystalline Powder. Bull.Chem.Soc.Japan 46 (1973) 3385-3391
+3	Cauwood J.D.; Turner W.E.S.: The Dielectric Constants of some Organic Solvents at their Melting or Boiling Points. J.Chem.Soc.London 107 (1915) 276-282
+$$$Dynamic Viscosity
+T [K]	Dynamic Viscosity [mPas]	State	Reference
+293.15	2.4830	Liquid	2
+323.15	1.4220	Liquid	2
+353.15	0.8860	Liquid	4
+353.15	0.9640	Liquid	2
+353.15	0.9670	Liquid	3
+353.15	0.9740	Liquid	3
+353.45	0.7236	Liquid	6
+355.35	0.7270	Liquid	1
+363.15	0.7590	Liquid	4
+372.15	0.5580	Liquid	1
+373.15	0.7610	Liquid	2
+373.15	0.7760	Liquid	3
+373.15	0.7800	Liquid	3
+423.15	0.2170	Liquid	4
+425.15	0.1960	Liquid	4
+574.15	0.2040	Liquid	5
+584.15	0.1900	Liquid	5
+594.15	0.1770	Liquid	5
+604.15	0.1630	Liquid	5
+614.15	0.1520	Liquid	5
+624.15	0.1420	Liquid	5
+634.15	0.1340	Liquid	5
+644.15	0.1240	Liquid	5
+654.15	0.1170	Liquid	5
+664.15	0.1090	Liquid	5
+673.15	0.1020	Liquid	5
+Number	Source
+1	Scheuer O.: Physikochemische Studien an binären Gemischen mit einer optisch aktiven Komponente. Z.Phys.Chem.(Leipzig) 72 (1910) 513-608
+2	Evans E.B.: Parts VII and VIII.. J.Inst.Petrol.Tech. 24 (1938) 537-553
+3	Burriel Marti F.: III. Recherche sur les proprétés physico-chimiques de quelques combinaisons organiques solides à la température ordinaire. Bull.Soc.Chim.Belg. 39 (1930) 590-630
+4	Kurnakow N.S.: Über die innere Reibung und Schmelzbarkeit binärer Systeme. Z.Anorg.Allg.Chem. 135 (1924) 81-117
+5	Grzyll L.R.; Ramos C.; Back D.D.: Density, Viscosity, and Surface Tension of Liquid Quinoline, Naphthalene, Biphenyl, Decafluorobiphenyl, and 1,2-Diphenylbenzene from 300 to 400°C. J.Chem.Eng.Data 41 (1996) 446-450
+6	Bassi P.S.; Sachdev G.P.: Eutectic solidification & liquid eutectic: Part I - Binary mixtures of naphthalene & diphenyl. Indian J.Chem. 12 (1974) 727-731
+$$$Enthalpy (H-H0)/T
+T [K]	Enthalpy (H-H0)/T [J/(K*mol)]	State	Reference
+298.15	326.91	Vapor	1
+300.00	325.66	Vapor	1
+320.00	313.85	Vapor	1
+340.00	304.04	Vapor	1
+360.00	295.81	Vapor	1
+380.00	289.00	Vapor	1
+400.00	283.42	Vapor	1
+420.00	278.77	Vapor	1
+440.00	274.94	Vapor	1
+460.00	271.79	Vapor	1
+480.00	269.21	Vapor	1
+500.00	267.13	Vapor	1
+520.00	265.55	Vapor	1
+540.00	264.22	Vapor	1
+560.00	263.30	Vapor	1
+580.00	262.56	Vapor	1
+600.00	262.14	Vapor	1
+620.00	261.81	Vapor	1
+640.00	261.64	Vapor	1
+660.00	261.64	Vapor	1
+680.00	261.73	Vapor	1
+700.00	261.89	Vapor	1
+Number	Source
+1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494
+$$$Entropy
+T [K]	Molar Entropy [J/(mol*K)]	State	Reference
+298.00	332.84	Vapor	2
+298.00	333.15	Vapor	4
+298.00	335.98	Vapor	6
+298.00	336.06	Vapor	5
+298.00	336.52	Vapor	1
+Number	Source
+1	Milligan D.E.; Becker E.D.; Pitzer K.S.: Thermodynamic functions of alkylnaphthalenes from 298 to 1500°K.. J.Am.Chem.Soc. 78 (1956) 2707-2711
+2	Lielmezs J.; Bennett F.; McFee D.G.: Thermodynamic Functions for Naphtalene.. Thermochim.Acta 47 (1981) 287-308
+3	McClellan A.L.; Pimentel G.C.: Vibrational assignment and thermodynamic properties of naphthalene.. J.Chem.Phys. 23 (1955) 245-248
+4	Chen S.S.; Kudchadker S.A.; Wilhoit R.C.: Thermodynamic Properties of Normal and Deuterated Naphthalenes. J.Phys.Chem.Ref.Data 8 (1979) 527-535
+5	McFee D.G.; Lielmezs J.: Thermodynamic Functions for Halogenated Naphthalenes. Thermochim.Acta 30 (1979) 173-186
+6	Barrow G.M.; McClellan A.L.: The Thermodynamic Properties of Naphthalene.. J.Am.Chem.Soc. 73 (1951) 573-575
+$$$Entropy (S-S0)
+T [K]	P [kPa]	Molar Entropy [J/(mol*K)]	State	Reference
+10.00		0.4739	Solid	2
+20.00		4.116	Solid	2
+30.00		10.568	Solid	2
+40.00		17.968	Solid	2
+50.00		25.44	Solid	2
+60.00		32.70	Solid	2
+70.00		39.65	Solid	2
+80.00		46.30	Solid	2
+90.00		52.67	Solid	2
+100.00		58.81	Solid	2
+120.00		70.52	Solid	2
+140.00		81.72	Solid	2
+160.00		92.63	Solid	2
+180.00		103.37	Solid	2
+200.00		114.04	Solid	2
+220.00		124.73	Solid	2
+240.00		135.45	Solid	2
+260.00		146.27	Solid	2
+280.00		157.19	Solid	2
+298.15		167.28	Solid	2
+298.15	101.325	335.16	Vapor	1
+300.00		168.24	Solid	2
+300.00	101.325	335.91	Vapor	1
+320.00		179.45	Solid	2
+320.00	101.325	344.72	Vapor	1
+340.00		190.85	Solid	2
+340.00	101.325	353.62	Vapor	1
+360.00		256.38	Liquid	2
+360.00		256.75	Liquid	1
+360.00	101.325	362.60	Vapor	1
+380.00		268.48	Liquid	2
+380.00		268.81	Liquid	1
+380.00	101.325	371.66	Vapor	1
+400.00		280.37	Liquid	2
+400.00		280.70	Liquid	1
+400.00	101.325	380.64	Vapor	1
+420.00		292.05	Liquid	2
+420.00		292.42	Liquid	1
+420.00	101.325	389.70	Vapor	1
+440.00		303.55	Liquid	2
+440.00		303.90	Liquid	1
+440.00	101.325	398.76	Vapor	1
+460.00		315.29	Liquid	1
+460.00	101.325	407.83	Vapor	1
+480.00		326.43	Liquid	1
+480.00	101.325	416.72	Vapor	1
+500.00		337.40	Liquid	1
+500.00	101.325	425.62	Vapor	1
+520.00		348.30	Liquid	1
+520.00	101.325	434.52	Vapor	1
+540.00		359.02	Liquid	1
+540.00	101.325	443.25	Vapor	1
+560.00		369.66	Liquid	1
+560.00	101.325	451.89	Vapor	1
+580.00		380.14	Liquid	1
+580.00	101.325	460.46	Vapor	1
+600.00		390.45	Liquid	1
+600.00	101.325	468.94	Vapor	1
+620.00		400.76	Liquid	1
+620.00	101.325	477.34	Vapor	1
+640.00		410.90	Liquid	1
+640.00	101.325	485.57	Vapor	1
+660.00		420.96	Liquid	1
+660.00	101.325	493.72	Vapor	1
+680.00		430.94	Liquid	1
+680.00	101.325	501.78	Vapor	1
+700.00		441.00	Liquid	1
+700.00	101.325	509.76	Vapor	1
+Number	Source
+1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494
+2	Chirico R.D.; Knipmeyer S.E.; Steele W.V.: Heat capacities, enthalpy increments, and derived thermodynamic functions for naphthalene between the temperatures 5 K and 440 K. J.Chem.Thermodyn. 34 (2002) 1873-1884
+$$$Entropy of Formation
+T [K]	P [kPa]	Molar Entropy [J/(mol*K)]	State	Reference
+298.15	101.325	-244.53	Vapor	1
+300.00	101.325	-244.95	Vapor	1
+320.00	101.325	-249.44	Vapor	1
+340.00	101.325	-253.34	Vapor	1
+360.00	101.325	-256.92	Vapor	1
+380.00	101.325	-260.08	Vapor	1
+400.00	101.325	-262.90	Vapor	1
+420.00	101.325	-265.40	Vapor	1
+440.00	101.325	-267.73	Vapor	1
+460.00	101.325	-269.81	Vapor	1
+480.00	101.325	-271.72	Vapor	1
+500.00	101.325	-273.46	Vapor	1
+520.00	101.325	-275.04	Vapor	1
+540.00	101.325	-276.54	Vapor	1
+560.00	101.325	-277.87	Vapor	1
+580.00	101.325	-279.12	Vapor	1
+600.00	101.325	-280.28	Vapor	1
+620.00	101.325	-281.28	Vapor	1
+640.00	101.325	-282.28	Vapor	1
+660.00	101.325	-283.19	Vapor	1
+680.00	101.325	-284.11	Vapor	1
+700.00	101.325	-284.86	Vapor	1
+Number	Source
+1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494
+$$$G-function (G-G0)/T
+T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference
+50.00	-186.19	Vapor	4
+100.00	-210.51	Vapor	4
+150.00	-226.67	Vapor	4
+200.00	-240.08	Vapor	4
+273.15	-258.65	Vapor	5
+273.15	-257.83	Vapor	4
+273.15	-257.32	Vapor	2
+273.16	-259.07	Vapor	3
+298.15	-264.68	Vapor	5
+298.15	-263.68	Vapor	4
+298.15	-263.17	Vapor	2
+298.16	-267.07	Vapor	6
+298.16	-265.10	Vapor	1
+300.00	-267.48	Vapor	6
+300.00	-265.52	Vapor	1
+300.00	-265.14	Vapor	5
+300.00	-264.11	Vapor	4
+300.00	-263.59	Vapor	2
+350.00	-277.02	Vapor	5
+350.00	-275.22	Vapor	2
+400.00	-290.33	Vapor	6
+400.00	-289.16	Vapor	1
+400.00	-288.78	Vapor	5
+400.00	-287.17	Vapor	4
+400.00	-286.77	Vapor	2
+450.00	-300.45	Vapor	5
+450.00	-298.28	Vapor	2
+451.00	-300.70	Vapor	5
+451.00	-298.53	Vapor	2
+500.00	-312.96	Vapor	6
+500.00	-312.34	Vapor	1
+500.00	-312.09	Vapor	5
+500.00	-309.97	Vapor	4
+500.00	-309.74	Vapor	2
+522.70	-317.32	Vapor	5
+522.70	-314.93	Vapor	2
+550.00	-323.59	Vapor	5
+550.00	-321.12	Vapor	2
+600.00	-335.35	Vapor	6
+600.00	-335.06	Vapor	1
+600.00	-334.97	Vapor	5
+600.00	-332.49	Vapor	4
+600.00	-332.42	Vapor	2
+650.00	-346.27	Vapor	5
+650.00	-343.59	Vapor	2
+700.00	-357.40	Vapor	5
+700.00	-357.31	Vapor	1
+700.00	-354.64	Vapor	2
+700.00	-354.55	Vapor	4
+750.00	-368.36	Vapor	5
+750.00	-365.51	Vapor	2
+800.00	-379.15	Vapor	5
+800.00	-378.90	Vapor	1
+800.00	-378.78	Vapor	6
+800.00	-376.23	Vapor	2
+800.00	-376.05	Vapor	4
+850.00	-389.82	Vapor	5
+850.00	-386.81	Vapor	2
+900.00	-400.28	Vapor	5
+900.00	-399.82	Vapor	1
+900.00	-399.53	Vapor	6
+900.00	-397.23	Vapor	2
+900.00	-396.91	Vapor	4
+950.00	-410.53	Vapor	5
+950.00	-407.44	Vapor	2
+1000.00	-420.66	Vapor	5
+1000.00	-420.07	Vapor	1
+1000.00	-419.74	Vapor	6
+1000.00	-417.52	Vapor	2
+1000.00	-417.09	Vapor	4
+1050.00	-430.58	Vapor	5
+1050.00	-427.40	Vapor	2
+1100.00	-440.32	Vapor	5
+1100.00	-439.61	Vapor	1
+1100.00	-439.24	Vapor	6
+1100.00	-437.10	Vapor	2
+1100.00	-436.60	Vapor	4
+1150.00	-449.95	Vapor	5
+1150.00	-446.64	Vapor	2
+1200.00	-459.36	Vapor	5
+1200.00	-458.48	Vapor	1
+1200.00	-457.98	Vapor	6
+1200.00	-456.06	Vapor	2
+1200.00	-455.44	Vapor	4
+1300.00	-476.68	Vapor	1
+1300.00	-476.31	Vapor	6
+1300.00	-473.64	Vapor	4
+1400.00	-494.30	Vapor	1
+1400.00	-493.88	Vapor	6
+1400.00	-491.22	Vapor	4
+1500.00	-511.29	Vapor	1
+1500.00	-510.87	Vapor	6
+1500.00	-508.21	Vapor	4
+Number	Source
+1	Milligan D.E.; Becker E.D.; Pitzer K.S.: Thermodynamic functions of alkylnaphthalenes from 298 to 1500°K.. J.Am.Chem.Soc. 78 (1956) 2707-2711
+2	Lielmezs J.; Bennett F.; McFee D.G.: Thermodynamic Functions for Naphtalene.. Thermochim.Acta 47 (1981) 287-308
+3	McClellan A.L.; Pimentel G.C.: Vibrational assignment and thermodynamic properties of naphthalene.. J.Chem.Phys. 23 (1955) 245-248
+4	Chen S.S.; Kudchadker S.A.; Wilhoit R.C.: Thermodynamic Properties of Normal and Deuterated Naphthalenes. J.Phys.Chem.Ref.Data 8 (1979) 527-535
+5	McFee D.G.; Lielmezs J.: Thermodynamic Functions for Halogenated Naphthalenes. Thermochim.Acta 30 (1979) 173-186
+6	Barrow G.M.; McClellan A.L.: The Thermodynamic Properties of Naphthalene.. J.Am.Chem.Soc. 73 (1951) 573-575
+$$$Gibbs Energy of Form.
+T [K]	Energy of formation [J/mol]	State	Reference
+298.15	224179.00	Vapor	1
+350.00	210162.00	Vapor	1
+400.00	197025.00	Vapor	1
+450.00	184096.00	Vapor	1
+500.00	171209.00	Vapor	1
+Number	Source
+1	Miller G.A.: Vapor Pressure of Naphtalene. Thermodynamic Consistency with Proposed Frequency Assignments.. J.Chem.Eng.Data 8 (1963) 69-72
+$$$Gibbs Energy of Form./T
+T [K]	Energy of formation/T [J/(K*mol)]	State	Reference
+298.15	749.59	Vapor	1
+300.00	746.43	Vapor	1
+320.00	715.25	Vapor	1
+340.00	687.90	Vapor	1
+360.00	663.87	Vapor	1
+380.00	642.51	Vapor	1
+400.00	623.47	Vapor	1
+420.00	606.42	Vapor	1
+440.00	590.96	Vapor	1
+460.00	576.91	Vapor	1
+480.00	564.19	Vapor	1
+500.00	552.47	Vapor	1
+520.00	541.74	Vapor	1
+540.00	531.93	Vapor	1
+560.00	522.78	Vapor	1
+580.00	514.30	Vapor	1
+600.00	506.41	Vapor	1
+620.00	499.01	Vapor	1
+640.00	492.19	Vapor	1
+660.00	485.70	Vapor	1
+680.00	479.64	Vapor	1
+700.00	473.82	Vapor	1
+Number	Source
+1	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494
+$$$Heat of Fusion
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+		18770.00	Solid-Liquid	2
+		19097.30	Solid-Liquid	6
+		19110.00	Solid-Liquid	1
+353.38		19050.00	Solid-Liquid-Vapor	4
+353.40	101.325	18990.00	Solid-Liquid-Vapor	5
+353.43		18990.00	Solid-Liquid-Vapor	3
+Number	Source
+1	Sharma B.L.; Sharma N.K.; Rambal M.: Excess thermodynamic functions: Ge and Se of binary organic eutectic systems. Thermochim.Acta 206 (1992) 71-84
+2	Djordjevic N.M.: Solubilities of Polycyclic Aromatic Hydrocarbons Solids in n-Octadecane. Thermochim.Acta 177 (1991) 109-118
+3	McCullough J.P.; Finke H.L.; Messerly J.F.; Todd S.S.; Kincheloe T.C.; Waddington G.: The Low-Temperature Thermodynamic Properties of Naphthalene, 1-Methylnaphthalene, 2-Methylnaphthalene, 1,2,3,4-Tetrahydronaphthalene, tras-Decahydonaphthalene and cis-Decahydronaphthalene. J.Phys.Chem. 61 (1957) 1105-1116
+4	Andon R.J.L.; Connett J.E.: Measurement of their Enthalpies of Fusion by Adiabatic Calorimetry. Thermochim.Acta 42 (1980) 241-247
+5	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494
+6	Rastogi R.P.; Bassi P.S.: Mechanism of eutectic crystallization. J.Phys.Chem. 68 (1964) 2398-2406
+$$$Heat of Sublimation
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+268.15	67360.00	Solid-Gas	6
+286.85	72425.00	Solid-Gas	1
+293.15	71000.00	Solid-Gas	4
+298.15	66530.00	Solid-Gas	2
+298.15	72320.00	Solid-Gas	3
+316.00	74350.00	Solid-Gas	5
+323.00	70850.00	Solid-Gas	3
+Number	Source
+1	Bradley R.S.; Cleasby T.G.: The Vapour Pressure and Lattice Energy of some Aromatic Ring Compounds. J.Chem.Soc.London  (1953) 1690-1692
+2	Wolf K.L.; Weghofer H.: Heat of sublimation. Z.Phys.Chem.Abt.B 39 (1938) 194-208
+3	Torres-Gomez L.A.; Barreiro-Rodriguez G.; Galarza-Mondragon A.: A New Method for the Measurement of Enthaplies of Sublimation Using Differential Scanning Calorimetry. Thermochim.Acta 124 (1988) 229-233
+4	Sanemasa I.; Ishibashi K.; Kumamaru M.; Deguchi T.: A modified vapor saturation method for preparing aqueous solutions of solid aromatic hydrocarbons.. Bull.Chem.Soc.Japan 62 (1989) 2908-2912
+5	Clark T.; Knox T.; Mackle H.; McKervey M.A.; Rooney J.J.: Heats of Sublimation of some Cage Hydrocarbons by a Temperature Scanning Technique. J.Chem.Soc.Faraday Trans.1 71 (1975) 2107-2110
+6	Hoyer H.; Peperle W.: Measurement of vapour pressures of organic substances and their sublimation enthalpies. Z.Elektrochem. 62 (1958) 61-66
+$$$Heat of Transition
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.00	72430.00	Solid	1
+Number	Source
+1	Miroshnichenko E.A.; Pavlovich V.K.; Lebedev Y.A.; Stanko V.I.; Galchenko G.L.: Microcalorimetrical determination of enthalpies of carborans sublimation. Termodin.Organic.Soedin. 5 (1976) 3-8
+$$$Heat of Vaporization
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.00	54180.00	Vapor-Liquid	1
+298.00	56020.00	Vapor-Liquid	1
+298.00	56570.00	Vapor-Liquid	1
+353.43	59800.00	Vapor-Liquid	5
+355.00	59000.00	Vapor-Liquid	4
+373.15	51500.00	Vapor-Liquid	3
+424.15	41400.00	Vapor-Liquid	6
+440.90	46262.40	Vapor-Liquid	2
+440.90	46408.90	Vapor-Liquid	2
+440.90	46429.80	Vapor-Liquid	2
+440.90	46442.30	Vapor-Liquid	2
+490.00	59000.00	Vapor-Liquid	4
+Number	Source
+1	Chickos J.S.; Hosseini S.; Hesse D.G.: Determination of Vaporization Enthalpies of Simple Organic Molecules by Correlations of Changes in Gas Chromatographic Net Retention Times. Thermochim.Acta 249 (1995) 41-62
+2	Barrow G.M.; McClellan A.L.: The Thermodynamic Properties of Naphthalene.. J.Am.Chem.Soc. 73 (1951) 573-575
+3	Matsubara N.; Kuwamoto T.: Vapor Pressure Measurement in Carrier Gas Containing Ligand Vapor Using the Transpiration Technique.. Thermochim.Acta 83 (1985) 193-202
+4	Beech G.; Lintonbon R.M.: The Measurement of Sublimation Enthalpies by Differential Scanning Calorimetry. Thermochim.Acta 2 (1971) 86-88
+5	Khudyakov V.L.: Gas chromatographic determination of heats of sublimation and melting of naphthalene. Zh.Fiz.Khim. 62 (1988) 3329-3329
+6	David D.J.: Determination of Specific Heat and Heat of Fusion by Differential Thermal Analysis. Study of Theory and Operating Parameters. Anal.Chem. 36 (1964) 2162-2166
+$$$Ideal Gas Heat Capacity
+T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference
+50.00	35.71	Ideal Gas	4
+100.00	46.94	Ideal Gas	4
+150.00	63.35	Ideal Gas	4
+200.00	84.22	Ideal Gas	4
+273.15	119.46	Ideal Gas	4
+273.15	120.83	Ideal Gas	2
+273.15	122.63	Ideal Gas	5
+273.16	122.09	Ideal Gas	3
+298.15	131.92	Ideal Gas	4
+298.15	133.47	Ideal Gas	2
+298.15	135.06	Ideal Gas	5
+298.16	129.83	Ideal Gas	6
+298.16	134.22	Ideal Gas	1
+300.00	130.75	Ideal Gas	6
+300.00	132.84	Ideal Gas	4
+300.00	134.39	Ideal Gas	2
+300.00	135.06	Ideal Gas	1
+300.00	135.98	Ideal Gas	5
+350.00	158.91	Ideal Gas	2
+350.00	160.21	Ideal Gas	5
+400.00	179.12	Ideal Gas	6
+400.00	180.07	Ideal Gas	4
+400.00	180.75	Ideal Gas	1
+400.00	181.80	Ideal Gas	2
+400.00	182.84	Ideal Gas	5
+450.00	202.63	Ideal Gas	2
+450.00	203.51	Ideal Gas	5
+451.00	203.01	Ideal Gas	2
+451.00	203.89	Ideal Gas	5
+500.00	219.41	Ideal Gas	1
+500.00	219.49	Ideal Gas	6
+500.00	219.74	Ideal Gas	4
+500.00	221.33	Ideal Gas	2
+500.00	222.05	Ideal Gas	5
+522.70	229.16	Ideal Gas	2
+522.70	229.79	Ideal Gas	5
+550.00	238.03	Ideal Gas	2
+550.00	238.61	Ideal Gas	5
+600.00	250.79	Ideal Gas	1
+600.00	251.53	Ideal Gas	4
+600.00	251.71	Ideal Gas	6
+600.00	252.92	Ideal Gas	2
+600.00	253.43	Ideal Gas	5
+650.00	266.27	Ideal Gas	2
+650.00	266.69	Ideal Gas	5
+700.00	276.19	Ideal Gas	1
+700.00	277.01	Ideal Gas	4
+700.00	277.44	Ideal Gas	6
+700.00	278.24	Ideal Gas	2
+700.00	278.65	Ideal Gas	5
+750.00	289.03	Ideal Gas	2
+750.00	289.41	Ideal Gas	5
+800.00	297.06	Ideal Gas	1
+800.00	297.73	Ideal Gas	4
+800.00	298.40	Ideal Gas	6
+800.00	298.86	Ideal Gas	2
+800.00	299.16	Ideal Gas	5
+850.00	307.73	Ideal Gas	2
+850.00	308.07	Ideal Gas	5
+900.00	314.34	Ideal Gas	1
+900.00	314.85	Ideal Gas	4
+900.00	315.60	Ideal Gas	6
+900.00	315.85	Ideal Gas	2
+900.00	316.10	Ideal Gas	5
+950.00	323.30	Ideal Gas	2
+950.00	323.51	Ideal Gas	5
+1000.00	328.82	Ideal Gas	1
+1000.00	329.17	Ideal Gas	4
+1000.00	329.99	Ideal Gas	6
+1000.00	330.12	Ideal Gas	2
+1000.00	330.29	Ideal Gas	5
+1050.00	336.35	Ideal Gas	2
+1050.00	336.52	Ideal Gas	5
+1100.00	341.08	Ideal Gas	1
+1100.00	341.24	Ideal Gas	4
+1100.00	342.08	Ideal Gas	2
+1100.00	342.25	Ideal Gas	5
+1150.00	347.40	Ideal Gas	2
+1150.00	347.57	Ideal Gas	5
+1200.00	351.46	Ideal Gas	1
+1200.00	351.50	Ideal Gas	4
+1200.00	352.29	Ideal Gas	2
+1200.00	352.38	Ideal Gas	6
+1200.00	352.42	Ideal Gas	5
+1300.00	360.26	Ideal Gas	4
+1300.00	360.28	Ideal Gas	1
+1300.00	361.12	Ideal Gas	6
+1400.00	367.78	Ideal Gas	4
+1400.00	367.90	Ideal Gas	1
+1400.00	368.61	Ideal Gas	6
+1500.00	374.27	Ideal Gas	4
+1500.00	374.43	Ideal Gas	1
+1500.00	374.97	Ideal Gas	6
+Number	Source
+1	Milligan D.E.; Becker E.D.; Pitzer K.S.: Thermodynamic functions of alkylnaphthalenes from 298 to 1500°K.. J.Am.Chem.Soc. 78 (1956) 2707-2711
+2	Lielmezs J.; Bennett F.; McFee D.G.: Thermodynamic Functions for Naphtalene.. Thermochim.Acta 47 (1981) 287-308
+3	McClellan A.L.; Pimentel G.C.: Vibrational assignment and thermodynamic properties of naphthalene.. J.Chem.Phys. 23 (1955) 245-248
+4	Chen S.S.; Kudchadker S.A.; Wilhoit R.C.: Thermodynamic Properties of Normal and Deuterated Naphthalenes. J.Phys.Chem.Ref.Data 8 (1979) 527-535
+5	McFee D.G.; Lielmezs J.: Thermodynamic Functions for Halogenated Naphthalenes. Thermochim.Acta 30 (1979) 173-186
+6	Barrow G.M.; McClellan A.L.: The Thermodynamic Properties of Naphthalene.. J.Am.Chem.Soc. 73 (1951) 573-575
+$$$Kinematic Viscosity
+T [K]	Kinematic Viscosity [m2/s]	State	Reference
+353.15	9.68999984252E-07	Liquid	1
+362.15	8.85999952516E-07	Liquid	2
+363.15	8.89299997198E-07	Liquid	3
+363.15	9.09999982923E-07	Liquid	1
+372.15	8.43999998779E-07	Liquid	2
+377.15	8.03999967047E-07	Liquid	2
+383.15	7.28999964394E-07	Liquid	2
+383.15	7.31800014364E-07	Liquid	3
+383.15	7.76999968366E-07	Liquid	1
+395.75	6.90999968356E-07	Liquid	2
+403.15	6.09899984738E-07	Liquid	3
+403.15	6.42999964384E-07	Liquid	1
+408.65	6.19999980245E-07	Liquid	2
+418.15	5.83999963055E-07	Liquid	2
+423.15	5.20000014603E-07	Liquid	3
+423.15	5.54999985525E-07	Liquid	1
+425.55	5.58000010642E-07	Liquid	2
+433.15	5.45999967017E-07	Liquid	2
+443.15	4.55899993312E-07	Liquid	3
+443.15	5.37999994776E-07	Liquid	2
+449.15	5.21999993452E-07	Liquid	2
+450.65	4.64999999394E-07	Liquid	1
+463.15	4.04999980219E-07	Liquid	3
+478.15	4.00999994099E-07	Liquid	1
+483.15	3.65999994756E-07	Liquid	3
+503.15	3.60999990789E-07	Liquid	1
+543.15	3.2099998748E-07	Liquid	1
+578.15	2.94999978223E-07	Liquid	1
+606.15	2.68999997388E-07	Liquid	1
+633.15	2.61999986151E-07	Liquid	1
+Number	Source
+1	Golik A.Z.; Ravikovich S.D.: Viskosität von binären flüssigen Mischungen und Lösungen. Zh.Fiz.Khim. 24 (1950) 524-528
+2	Golik A.Z.; Ravikovich S.D.: Investigation of the Coefficient of Viscosity of Isomorphic Substances. Zh.Fiz.Khim. 23 (1949) 86-89
+3	Gurevich B.S.; Bednov V.M.: Study of Temperature Dependence of Density and Viscosity of Aromatic Substances. Viniti  (1972) 1-10
+$$$Melting Point
+T [K]	P [kPa]	State	Reference
+352.50		Solid-Liquid	1
+352.80		Solid-Liquid	2
+353.35	101.330	Solid-Liquid	5
+353.50		Solid-Liquid	4
+Number	Source
+1	Djordjevic N.M.: Solubilities of Polycyclic Aromatic Hydrocarbons Solids in n-Octadecane. Thermochim.Acta 177 (1991) 109-118
+2	Coon J.E.; Troth M.; McLaughlin E.: Solubilities of Polynuclear Aromatic Hydrocarbons in Mixtures of Common Organic Solvents. J.Chem.Eng.Data 32 (1987) 233-240
+3	Choi P.B.; Williams Ch.P.; Buehring K.G.; Mc Laughlin E.: Solubility of Aromatic Hydrocarbon Solids in Mixtures of Benzene and Cyclohexane. J.Chem.Eng.Data 30 (1985) 403-409
+4	Huang T.-C.; Kang B.-C.: Naphthalene Hydrogenation over Pt/Al2O3 Catalyst in a Trickle Bed Reactor. Ind.Eng.Chem.Res. 34 (1995) 2349-2357
+5	Karyakin N.V.; Rabinovich I.B.; Pakhomov L.G.: Heats of Sublimation of Naphtahlene and its beta-Derivatives. Zh.Fiz.Khim. 42 (1968) 1814-1816
+$$$Molar Heat Capacity (cP)
+T [K]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference
+15.14	5.904	Solid	3
+17.73	8.514	Solid	3
+21.45	12.401	Solid	3
+22.25	13.736	Solid	3
+25.54	16.98	Solid	3
+26.66	18.146	Solid	3
+29.79	21.23	Solid	3
+31.74	23.04	Solid	3
+34.35	25.39	Solid	3
+36.47	27.25	Solid	3
+39.34	29.447	Solid	3
+41.32	30.94	Solid	3
+44.64	33.12	Solid	3
+46.53	34.40	Solid	3
+50.23	36.526	Solid	3
+51.95	37.95	Solid	3
+56.22	40.62	Solid	3
+57.37	41.33	Solid	3
+62.32	44.02	Solid	3
+62.52	44.10	Solid	3
+67.86	46.44	Solid	3
+73.36	48.91	Solid	3
+78.58	51.30	Solid	3
+83.57	54.06	Solid	3
+88.38	55.61	Solid	3
+89.86	56.23	Solid	3
+93.06	57.40	Solid	3
+95.39	57.99	Solid	3
+100.77	60.50	Solid	3
+106.04	62.17	Solid	3
+111.18	64.35	Solid	3
+116.21	66.32	Solid	3
+121.11	68.41	Solid	3
+125.94	70.84	Solid	3
+130.68	72.93	Solid	3
+135.35	75.02	Solid	3
+140.33	77.24	Solid	3
+145.61	79.66	Solid	3
+150.80	82.30	Solid	3
+151.99	82.72	Solid	3
+155.93	84.52	Solid	3
+161.02	86.99	Solid	3
+166.00	89.29	Solid	3
+168.48	87.99	Solid	3
+168.52	90.12	Solid	3
+173.49	92.72	Solid	3
+178.39	95.14	Solid	3
+183.23	97.74	Solid	3
+187.99	100.17	Solid	3
+192.69	103.14	Solid	3
+197.62	105.31	Solid	3
+202.85	108.12	Solid	3
+208.00	110.96	Solid	3
+213.10	113.76	Solid	3
+218.13	116.57	Solid	3
+223.10	119.33	Solid	3
+226.90	121.71	Solid	3
+228.01	122.38	Solid	3
+232.92	124.98	Solid	3
+232.95	124.85	Solid	3
+237.78	127.40	Solid	3
+238.94	128.28	Solid	3
+242.54	130.88	Solid	3
+244.83	132.09	Solid	3
+250.68	135.52	Solid	3
+256.42	139.03	Solid	3
+262.09	142.72	Solid	3
+267.70	146.36	Solid	3
+273.21	150.04	Solid	3
+278.69	153.80	Solid	3
+284.09	157.53	Solid	3
+289.42	161.25	Solid	3
+294.68	165.48	Solid	3
+317.15	188.41	Solid	2
+357.91	219.34	Liquid	5
+359.15	239.68	Liquid	2
+360.00	219.83	Liquid	1
+361.99	220.90	Liquid	5
+366.04	222.51	Liquid	5
+370.00	223.68	Liquid	1
+374.25	225.72	Liquid	5
+376.21	226.50	Liquid	5
+381.95	264.91	Liquid	4
+386.95	268.13	Liquid	4
+389.15	231.56	Liquid	5
+392.05	271.35	Liquid	4
+397.15	275.10	Liquid	4
+401.38	236.36	Liquid	5
+402.35	278.32	Liquid	4
+404.57	237.58	Liquid	5
+407.55	282.07	Liquid	4
+412.75	285.29	Liquid	4
+415.61	241.89	Liquid	5
+417.95	289.05	Liquid	4
+419.94	243.53	Liquid	5
+423.15	292.26	Liquid	4
+428.45	296.02	Liquid	4
+429.20	247.11	Liquid	5
+433.55	299.24	Liquid	4
+435.25	249.44	Liquid	5
+438.75	302.45	Liquid	4
+440.31	251.41	Liquid	5
+444.05	306.74	Liquid	4
+449.25	309.96	Liquid	4
+454.75	313.71	Liquid	4
+460.25	317.47	Liquid	4
+465.85	320.69	Liquid	4
+Number	Source
+1	Durupt N.; Aoulmi A.; Bouroukba M.; Rogalski M.: Heat Capacities of Liquid Polycyclic Aromatic Hydrocarbons. Thermochim.Acta 260 (1995) 87-94
+2	Rastogi R.P.; Bassi P.S.: Mechanism of eutectic crystallization. J.Phys.Chem. 68 (1964) 2398-2406
+3	Southard J.C.; Brickwedde F.G.: Low Temperature Specific Heats. I. An Improved Calorimeter for Use from 14 to 300 °K. The Heat Capacity and Entropy of Naphthalene. J.Am.Chem.Soc. 55 (1933) 4378-4384
+4	Blacet F.E.; Leighton P.A.; Bartlett E.P.: The Specific Heats of Five Pure Organic Liquids and of Ethyl Alcohol-Water Mixtures. J.Phys.Chem. 35 (1931) 1935-1943
+5	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494
+$$$Speed of Sound
+T [K]	Ultrasonic Velocity [m/s]	State	Reference
+352.15	1312.500	Liquid	1
+352.15	1337.500	Liquid	1
+352.15	1350.000	Liquid	1
+352.15	1400.000	Liquid	1
+352.65	1297.500	Liquid	1
+353.15	1287.000	Liquid	4
+353.15	1288.750	Liquid	1
+353.65	1282.500	Liquid	1
+354.15	1280.000	Liquid	1
+354.65	1277.500	Liquid	1
+355.15	1275.000	Liquid	1
+356.15	1270.000	Liquid	1
+357.15	1267.500	Liquid	1
+358.15	1263.500	Liquid	1
+358.15	1292.000	Liquid	2
+364.15	1245.000	Liquid	1
+368.15	1258.000	Liquid	2
+369.15	1227.000	Liquid	1
+373.15	1240.000	Liquid	4
+373.15	1245.000	Liquid	3
+373.15	1246.300	Liquid Phase of VLE	6
+373.15	1276.000	Liquid	5
+378.15	1281.000	Liquid	1
+383.15	1185.000	Liquid	1
+393.15	1174.000	Liquid	3
+393.15	1177.000	Liquid	4
+393.15	1179.900	Liquid Phase of VLE	6
+413.15	1114.000	Liquid	4
+413.15	1116.300	Liquid Phase of VLE	6
+433.15	1050.000	Liquid	4
+433.15	1054.400	Liquid Phase of VLE	6
+453.15	987.000	Liquid	4
+453.15	993.800	Liquid Phase of VLE	6
+473.15	934.300	Liquid Phase of VLE	6
+493.15	875.600	Liquid Phase of VLE	6
+513.15	817.700	Liquid Phase of VLE	6
+533.15	760.400	Liquid Phase of VLE	6
+553.15	703.600	Liquid Phase of VLE	6
+573.15	646.900	Liquid Phase of VLE	6
+593.15	590.200	Liquid Phase of VLE	6
+613.15	532.800	Liquid Phase of VLE	6
+633.15	474.600	Liquid Phase of VLE	6
+653.15	414.900	Liquid Phase of VLE	6
+673.15	353.700	Liquid Phase of VLE	6
+Number	Source
+1	Otpushchennikov N.F.: Ultrasound velocity near the melting temperature of some organic compounds. Primenenie ul'traakustiki k issledovaniju vescestva 9 (1959) 83-93
+2	Ishchenko E.D.; Roshchina G.P.: On the structure of liquid systems with an eutectic state diagram. II Rate of propagation of ultrasound and the adiabatic compressibility of liquid binary systems with the simple eutectic state diagram.. Ukr.Fiz.Zh.(Ukr.Ed.) 8 (1963) 1250-1256
+3	Batalin G.I.; Mizernitskii M.P.: Study of the ultrasound velocity in melted binary systems of eutectic type. Ukr.Khim.Zh.(Russ.Ed.) 34 (1968) 927-932
+4	Lutskii A.E.; Solon'ko V.N.: Compressibility of liquid naphthalene and its substituted Derivatives. Viniti  (1971) 1-9
+5	Schaaffs W.: Die Schallgeschwindigkeiten von Lösungen und ihre Beziehungen zur Schallgeschwindigkeit des gelösten Stoffes. Z.Phys. (Berlin) 105 (1937) 658-675
+6	Zotov V.V.; Melikhov Yu.F.; Mel'nikov G.A.; Neruchev Yu.A.: Schallgeschwindigkeit in flüssigen Kohlenwasserstoffen. Monograph  (1995) 1-77
+$$$Standard Heat of Vaporization
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.15	54640.00	Vapor-Liquid	1
+Number	Source
+1	Zhao H.; Unhannanant P.; Hanshaw W.; Chickos J.S.: Liquid-Vapor Pressure Isotope Effects. J.Chem.Eng.Data 53 (2008) 1545-1556
+$$$Std. Heat of Combustion
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+292.65	-5155850.00	Solid	4
+298.00	-5153890.00	Solid	1
+298.00	-5153010.00	Solid	3
+298.00	-5151480.00	Solid	2
+298.15	-5163450.00	Solid	6
+298.15	-4984700.00	Solid	5
+Number	Source
+1	Holdiness M.R.: Heats of Atomization and Resonance Energy of some Ortho-Substituted Benzoic Acids. Thermochim.Acta 71 (1983) 257-263
+2	Keffler L.J.P.; Guthrie F.C.: Investigation on the Heats of Combustion of Proposed Secondary Standard Substances and on Position and Optical Isomers.. J.Phys.Chem. 31 (1927) 58-68
+3	Richards T.W.; Davis H.S.: The heats of combustion of benzene, toluene, aliphatic alcohols, cyclohexanol, and other carbon compounds.. J.Am.Chem.Soc. 42 (1920) 1599-1615
+4	Verkade P.E.; Coops Jr. J.: An Investigation as to the Accuracy of Stohmann's Thermochemical Data. Recl.Trav.Chim.Pays-Bas 47 (1928) 606-618
+5	Stohmann F.: 1. Abhandlung. J.Prakt.Chem. 31 (1885) 273-306
+6	Stohmann F.; Kleber C.; Langbein H.: 17. Abhandlung: Ueber die Verbrennungswärme des Benzols und anderer Kohlenwasserstoffe der aromatischen Reihe. J.Prakt.Chem. 40 (1889) 77-95
+$$$Std. Heat of Formation
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+298.00		87170.00	Solid	3
+298.00		150582.00	Vapor	2
+298.00		151126.00	Vapor	4
+298.00		151670.00	Vapor	1
+298.15		73638.40	Solid	6
+298.15	101.325	150573.00	Vapor	5
+300.00	101.325	150459.00	Vapor	5
+320.00	101.325	149076.00	Vapor	5
+340.00	101.325	147764.00	Vapor	5
+360.00	101.325	146548.00	Vapor	5
+380.00	101.325	145369.00	Vapor	5
+400.00	101.325	144273.00	Vapor	5
+420.00	101.325	143211.00	Vapor	5
+440.00	101.325	142238.00	Vapor	5
+460.00	101.325	141284.00	Vapor	5
+480.00	101.325	140362.00	Vapor	5
+500.00	101.325	139517.00	Vapor	5
+520.00	101.325	138699.00	Vapor	5
+540.00	101.325	137928.00	Vapor	5
+560.00	101.325	137169.00	Vapor	5
+580.00	101.325	136426.00	Vapor	5
+600.00	101.325	135693.00	Vapor	5
+620.00	101.325	135009.00	Vapor	5
+640.00	101.325	134309.00	Vapor	5
+660.00	101.325	133677.00	Vapor	5
+680.00	101.325	132979.00	Vapor	5
+700.00	101.325	132292.00	Vapor	5
+Number	Source
+1	Speros D.M.; Rossini F.D.: Heats of combustion and formation of naphthalene, the two methylnaphthalenes, cis and trans-decahydronaphthalene, and related compounds.. J.Phys.Chem. 64 (1960) 1723-1727
+2	Coleman D.J.; Pilcher G.: Heats of combustion of biphenyl, bibenzyl, naphthalene, anthracene and phenanthrene.. Trans.Faraday Soc. 62 (1966) 821-827
+3	Metzger R.M.; Kuo C.S.; Arafat E.S.: A semi-micro rotating-bomb combustion calorimeter. J.Chem.Thermodyn. 15 (1983) 841-951
+4	Miller G.A.: Vapor Pressure of Naphtalene. Thermodynamic Consistency with Proposed Frequency Assignments.. J.Chem.Eng.Data 8 (1963) 69-72
+5	Chirico R.D.; Knipmeyer S.E.; Nguyen A.; Steele W.V.: The thermodynamic properties to the temperature 700 K of naphthalene and of 2,7-dimethylnaphthalene. J.Chem.Thermodyn. 25 (1993) 1461-1494
+6	Stohmann F.; Kleber C.; Langbein H.: 17. Abhandlung: Ueber die Verbrennungswärme des Benzols und anderer Kohlenwasserstoffe der aromatischen Reihe. J.Prakt.Chem. 40 (1889) 77-95
+$$$Surface Tension
+T [K]	Surface Tension [mN/m]	State	Reference
+353.25	32.2600	Liquid	3
+353.65	32.2900	Liquid	6
+353.95	32.0300	Liquid	2
+355.15	32.8800	Liquid	1
+355.15	33.0500	Liquid	1
+363.15	32.0700	Liquid	1
+363.15	32.1800	Liquid	1
+373.15	31.0600	Liquid	1
+373.15	31.0900	Liquid	1
+383.15	30.2600	Liquid	1
+383.15	30.2900	Liquid	1
+384.15	29.0700	Liquid	6
+394.15	29.3000	Liquid	4
+426.15	24.7400	Liquid	6
+574.15	12.9000	Liquid	5
+584.15	12.0000	Liquid	5
+594.15	11.2000	Liquid	5
+604.15	10.2000	Liquid	5
+614.15	9.4300	Liquid	5
+624.15	8.7800	Liquid	5
+634.15	7.9400	Liquid	5
+644.15	7.1000	Liquid	5
+653.15	6.4100	Liquid	5
+663.15	5.6400	Liquid	5
+673.15	4.9200	Liquid	5
+Number	Source
+1	Burriel Marti F.: III. Recherche sur les proprétés physico-chimiques de quelques combinaisons organiques solides à la température ordinaire. Bull.Soc.Chim.Belg. 39 (1930) 590-630
+2	Ray S.K.: Determination of parachor in solution. I.. J.Indian Chem.Soc. 11 (1934) 671-679
+3	Bhatnagar S.-S.; Singh B.: Surface tension of several melted organic substances and Sugden's parachors.. J.Chim.Phys. 25 (1928) 21-27
+4	Campbell A.N.; Campbell A.J.R.: The System Naphthalene-p-Nitrophenol: An Experimental Investigation of all the Variables in an Equation of the Freezing Point Curve. Can.J.Res.Sec.B 19 (1941) 73-85
+5	Grzyll L.R.; Ramos C.; Back D.D.: Density, Viscosity, and Surface Tension of Liquid Quinoline, Naphthalene, Biphenyl, Decafluorobiphenyl, and 1,2-Diphenylbenzene from 300 to 400°C. J.Chem.Eng.Data 41 (1996) 446-450
+6	Hueckel W.; Datow J.; Simmersbach E.: Physikalische Eigenschaften von Pyrazol, Imidazol und 4-Methylimidazol und ihrer Lösungen, besonders in Benzol.. Z.Phys.Chem.Abt.A 186 (1940) 129-179
+$$$Thermal Conductivity
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference
+369.92	98.000	0.1221	Liquid	1
+371.21	98.000	0.1218	Liquid	1
+372.22	98.000	0.1219	Liquid	1
+398.13	49130.000	0.1334	Liquid	1
+398.20	39320.000	0.1308	Liquid	1
+398.34	29520.000	0.1280	Liquid	1
+398.42	19710.000	0.1250	Liquid	1
+398.55	9905.000	0.1213	Liquid	1
+398.69	98.000	0.1172	Liquid	1
+400.05	9905.000	0.1214	Liquid	1
+400.13	29520.000	0.1280	Liquid	1
+400.22	98.000	0.1174	Liquid	1
+400.24	19710.000	0.1246	Liquid	1
+400.62	49130.000	0.1336	Liquid	1
+400.72	39320.000	0.1304	Liquid	1
+418.27	9905.000	0.1181	Liquid	1
+418.37	98.000	0.1152	Liquid	1
+418.55	39320.000	0.1279	Liquid	1
+418.67	49130.000	0.1308	Liquid	1
+418.69	19710.000	0.1224	Liquid	1
+418.70	29520.000	0.1249	Liquid	1
+420.26	9905.000	0.1180	Liquid	1
+420.53	98.000	0.1150	Liquid	1
+420.80	29520.000	0.1247	Liquid	1
+420.85	49130.000	0.1308	Liquid	1
+420.90	19710.000	0.1219	Liquid	1
+420.98	39320.000	0.1278	Liquid	1
+437.82	39320.000	0.1253	Liquid	1
+438.02	29520.000	0.1221	Liquid	1
+438.11	19710.000	0.1191	Liquid	1
+438.11	49130.000	0.1280	Liquid	1
+438.72	9905.000	0.1154	Liquid	1
+438.82	98.000	0.1121	Liquid	1
+440.39	39320.000	0.1250	Liquid	1
+440.59	29520.000	0.1216	Liquid	1
+440.68	19710.000	0.1188	Liquid	1
+440.85	49130.000	0.1277	Liquid	1
+440.91	9905.000	0.1150	Liquid	1
+441.04	98.000	0.1117	Liquid	1
+457.48	19710.000	0.1163	Liquid	1
+457.58	9905.000	0.1125	Liquid	1
+457.72	49130.000	0.1257	Liquid	1
+457.73	98.000	0.1084	Liquid	1
+457.89	39320.000	0.1226	Liquid	1
+458.05	29520.000	0.1196	Liquid	1
+460.46	9905.000	0.1126	Liquid	1
+460.63	49130.000	0.1255	Liquid	1
+460.64	98.000	0.1083	Liquid	1
+460.64	19710.000	0.1160	Liquid	1
+460.82	39320.000	0.1230	Liquid	1
+461.01	29520.000	0.1195	Liquid	1
+462.35	49130.000	0.1255	Liquid	1
+462.48	39320.000	0.1224	Liquid	1
+462.61	19710.000	0.1154	Liquid	1
+462.65	29520.000	0.1184	Liquid	1
+462.80	9905.000	0.1117	Liquid	1
+462.95	98.000	0.1076	Liquid	1
+463.52	9905.000	0.1117	Liquid	1
+477.70	9905.000	0.1100	Liquid	1
+477.72	49130.000	0.1236	Liquid	1
+477.76	29520.000	0.1168	Liquid	1
+477.83	19710.000	0.1136	Liquid	1
+477.89	98.000	0.1052	Liquid	1
+478.00	39320.000	0.1203	Liquid	1
+479.37	19710.000	0.1132	Liquid	1
+479.48	9905.000	0.1096	Liquid	1
+479.72	98.000	0.1052	Liquid	1
+479.94	49130.000	0.1244	Liquid	1
+480.00	29520.000	0.1167	Liquid	1
+480.21	39320.000	0.1199	Liquid	1
+Number	Source
+1	Bogatov G.F.; Lapin V.B.; Rastorguev Yu.L.: Wärmeleitfähigkeit von Naphthalen-Reihe-Kohlenwasserstoffen im flüssigen Zustand. I. Naphthalen und Methylnaphthalen. Viniti  (1987) 1-15
+$$$Transition Temperature
+T [K]	P [kPa]	State	Reference
+344.15		Supercooled Liquid > Solid	1
+Number	Source
+1	Singh N.B.; Srivastava A.; Singh N.P.: Solid-Liquid Equilibrium for 2,4-Dinitrophenol + Naphthalene. J.Chem.Eng.Data 46 (2001) 47-50
+$$$Triple Point
+T [K]	P [kPa]	State	Reference
+352.15		Solid-Liquid-Vapor	2
+353.15	1.0586	Solid-Liquid-Vapor	3
+353.41		Solid-Liquid-Vapor	1
+353.73		Solid-Liquid-Vapor	4
+Number	Source
+1	Andon R.J.L.; Connett J.E.: Measurement of their Enthalpies of Fusion by Adiabatic Calorimetry. Thermochim.Acta 42 (1980) 241-247
+2	Wolf K.L.; Weghofer H.: Heat of sublimation. Z.Phys.Chem.Abt.B 39 (1938) 194-208
+3	Campbell A.N.: The System Naphthalene - Benzene considered as an Ideal Solution. Can.J.Res.Sec.B 19 (1941) 143-149
+4	Sabbah R.; El Watik L.: New Reference Materials for the Calibration (Temperature and Energy) of Differential Thermal Analysers and Scanning Calorimeters. J.Therm.Anal. 38 (1992) 855-863
+$$$Vapor Pressure
+T [K]	P [kPa]	State	Reference
+237.15	4.53295979241E-006	Solid-Gas	4
+243.15	0.000006	Solid-Gas	4
+243.15	1.10658002086E-005	Solid-Gas	4
+243.15	1.11991002996E-005	Solid-Gas	4
+243.15	1.13324003905E-005	Solid-Gas	4
+252.15	0.000032	Solid-Gas	4
+258.15	4.66628007416E-005	Solid-Gas	4
+258.15	0.00006	Solid-Gas	4
+258.65	0.000105324994365	Solid-Gas	4
+267.15	0.000266644987278	Solid-Gas	4
+273.15	0.00032	Solid-Gas	4
+273.15	0.000346638000337	Solid-Gas	4
+276.15	0.000746605976019	Solid-Gas	4
+280.30	0.00176	Solid-Gas	1
+285.95	0.003133	Solid-Gas	1
+291.55	0.005586	Solid-Gas	1
+292.00	0.005933	Solid-Gas	1
+299.55	0.012586	Solid-Gas	1
+305.00	0.02053	Solid-Gas	1
+313.48	0.0468	Solid-Gas	2
+322.60	0.0988	Solid-Gas	2
+327.33	0.14852	Solid-Gas	2
+333.38	0.2448	Solid-Gas	2
+334.36	0.2544	Solid-Gas	2
+338.21	0.3388	Solid-Gas	2
+339.51	0.3848	Solid-Gas	2
+343.34	0.5012	Solid-Gas	2
+344.13	0.5214	Solid-Gas	2
+348.76	0.7263	Solid-Gas	2
+349.86	0.7893	Solid-Gas	2
+352.49	0.932	Solid-Gas	2
+353.48	1.0024	Vapor-Liquid	2
+356.04	1.1408	Vapor-Liquid	2
+356.51	1.1744	Vapor-Liquid	2
+358.85	1.2956	Vapor-Liquid	2
+362.00	1.5068	Vapor-Liquid	2
+365.90	1.8106	Vapor-Liquid	2
+366.43	1.8476	Vapor-Liquid	2
+367.47	1.952	Vapor-Liquid	2
+371.82	2.3565	Vapor-Liquid	2
+376.09	2.833	Vapor-Liquid	2
+379.35	3.2444	Vapor-Liquid	2
+382.38	3.697	Vapor-Liquid	2
+382.64	3.717	Vapor-Liquid	2
+382.96	3.771	Vapor-Liquid	2
+388.71	4.7515	Vapor-Liquid	2
+388.72	4.756	Vapor-Liquid	2
+392.37	5.470	Vapor-Liquid	2
+397.60	6.674	Vapor-Liquid	2
+398.07	6.798	Vapor-Liquid	2
+399.06	7.060	Vapor-Liquid	2
+399.48	6.949	Vapor-Liquid	3
+403.99	8.338	Vapor-Liquid	3
+406.43	9.208	Vapor-Liquid	2
+406.84	9.329	Vapor-Liquid	2
+407.70	9.537	Vapor-Liquid	3
+411.63	11.017	Vapor-Liquid	2
+411.83	10.948	Vapor-Liquid	3
+412.76	11.477	Vapor-Liquid	2
+413.99	11.951	Vapor-Liquid	2
+417.08	13.100	Vapor-Liquid	3
+422.80	16.000	Vapor-Liquid	2
+423.53	16.372	Vapor-Liquid	2
+428.92	19.436	Vapor-Liquid	3
+431.16	20.758	Vapor-Liquid	2
+432.24	21.506	Vapor-Liquid	2
+432.69	21.814	Vapor-Liquid	2
+434.25	22.878	Vapor-Liquid	3
+441.69	28.550	Vapor-Liquid	3
+441.85	28.638	Vapor-Liquid	2
+448.68	34.819	Vapor-Liquid	3
+452.67	38.790	Vapor-Liquid	2
+456.49	43.159	Vapor-Liquid	3
+464.85	53.774	Vapor-Liquid	3
+473.62	67.072	Vapor-Liquid	3
+489.69	98.125	Vapor-Liquid	3
+490.39	99.729	Vapor-Liquid	3
+491.00	101.112	Vapor-Liquid	3
+491.79	102.925	Vapor-Liquid	3
+Number	Source
+1	Macknick A.B.; Prausnitz J.M.: Vapor Pressures of High-Molecular-Weight Hydrocarbons. J.Chem.Eng.Data 24 (1979) 175-178
+2	Fowler L.; Trump W.N.; Vogler C.E.: New Measurements between 40 °C and  180 °C. J.Chem.Eng.Data 13 (1968) 209-210
+3	Camin D.L.; Rossini F.D.: Physical Properties of 14 American Petroleum Institute  Research Hydrocarbons, C9 to C15. J.Phys.Chem. 59 (1955) 1173-1179
+4	Andrews M.R.: Vapor Pressure of Naphthalene at Low Temperatures. J.Phys.Chem. 30 (1926) 1497-1500

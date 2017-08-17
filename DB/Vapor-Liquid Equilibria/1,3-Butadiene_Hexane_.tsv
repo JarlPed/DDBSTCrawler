@@ -1,58 +1,58 @@
-$$$Vapor-Liquid Equilibrium Data Set 12265	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H6	54.092	106-99-0	1,3-Butadiene	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	413.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-613.016	0.00000	0.00000	
-709.275	0.03800	0.15600	
-810.600	0.07800	0.28800	
-911.925	0.11400	0.38800	
-1215.900	0.22200	0.62200	
-1519.875	0.33000	0.74000	
-1823.850	0.43600	0.81200	
-2127.825	0.54200	0.86800	
-2431.800	0.64400	0.91000	
-2735.775	0.74200	0.94200	
-3039.750	0.83800	0.97400	
-3343.725	0.93600	0.99400	
-3537.256	1.00000	1.00000	
-Source	
-Rozhnov M.S.: Phasen- und Volumenverhältnisse in Systemen Divinyl-Kohlenwasserstoffe. Khim.Prom. 43 (1967) 288-290	
-$$$Vapor-Liquid Equilibrium Data Set 12947	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H6	54.092	106-99-0	1,3-Butadiene	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	303.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-24.926	0.00000	0.00000	
-50.663	0.08400	0.74000	
-101.325	0.24000	0.91200	
-151.988	0.39600	0.96000	
-202.650	0.57000	0.98000	
-253.313	0.74000	0.99400	
-303.975	0.88800	0.99800	
-333.359	1.00000	1.00000	
-Source	
-Rozhnov M.S.: Phasen- und Volumenverhältnisse in Systemen Divinyl-Kohlenwasserstoffe. Khim.Prom. 43 (1967) 288-290	
-$$$Vapor-Liquid Equilibrium Data Set 12948	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H6	54.092	106-99-0	1,3-Butadiene	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	343.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-105.378	0.00000	0.00000	
-151.988	0.05800	0.38000	
-202.650	0.12000	0.61000	
-303.975	0.23200	0.82000	
-405.300	0.35000	0.89400	
-506.625	0.46600	0.93600	
-607.950	0.58600	0.96000	
-709.275	0.70400	0.98000	
-810.600	0.82600	0.99000	
-911.925	0.95200	0.99800	
-949.415	1.00000	1.00000	
-Source	
-Rozhnov M.S.: Phasen- und Volumenverhältnisse in Systemen Divinyl-Kohlenwasserstoffe. Khim.Prom. 43 (1967) 288-290	
-Source	
-Rozhnov M.S.: Phasen- und Volumenverhältnisse in Systemen Divinyl-Kohlenwasserstoffe. Khim.Prom. 43 (1967) 288-290	
+$$$Vapor-Liquid Equilibrium Data Set 12265
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H6	54.092	106-99-0	1,3-Butadiene
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	413.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+613.016	0.000000.00000
+709.275	0.03800	0.15600
+810.600	0.07800	0.28800
+911.925	0.11400	0.38800
+1215.900	0.22200	0.62200
+1519.875	0.33000	0.74000
+1823.850	0.43600	0.81200
+2127.825	0.54200	0.86800
+2431.800	0.64400	0.91000
+2735.775	0.74200	0.94200
+3039.750	0.83800	0.97400
+3343.725	0.93600	0.99400
+3537.256	1.000001.00000
+Source
+Rozhnov M.S.: Phasen- und Volumenverhältnisse in Systemen Divinyl-Kohlenwasserstoffe. Khim.Prom. 43 (1967) 288-290
+$$$Vapor-Liquid Equilibrium Data Set 12947
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H6	54.092	106-99-0	1,3-Butadiene
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	303.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+24.926	0.000000.00000
+50.663	0.08400	0.74000
+101.325	0.24000	0.91200
+151.988	0.39600	0.96000
+202.650	0.57000	0.98000
+253.313	0.74000	0.99400
+303.975	0.88800	0.99800
+333.359	1.000001.00000
+Source
+Rozhnov M.S.: Phasen- und Volumenverhältnisse in Systemen Divinyl-Kohlenwasserstoffe. Khim.Prom. 43 (1967) 288-290
+$$$Vapor-Liquid Equilibrium Data Set 12948
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H6	54.092	106-99-0	1,3-Butadiene
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	343.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+105.378	0.000000.00000
+151.988	0.05800	0.38000
+202.650	0.12000	0.61000
+303.975	0.23200	0.82000
+405.300	0.35000	0.89400
+506.625	0.46600	0.93600
+607.950	0.58600	0.96000
+709.275	0.70400	0.98000
+810.600	0.82600	0.99000
+911.925	0.95200	0.99800
+949.415	1.000001.00000
+Source
+Rozhnov M.S.: Phasen- und Volumenverhältnisse in Systemen Divinyl-Kohlenwasserstoffe. Khim.Prom. 43 (1967) 288-290
+Source
+Rozhnov M.S.: Phasen- und Volumenverhältnisse in Systemen Divinyl-Kohlenwasserstoffe. Khim.Prom. 43 (1967) 288-290

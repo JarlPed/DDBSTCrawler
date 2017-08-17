@@ -1,67 +1,67 @@
-$$$Excess Volume Data Set 1433	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.3447	0.17042	
-0.3735	0.20086	
-0.4696	0.29101	
-0.5135	0.34744	
-0.5370	0.42095	
-0.5376	0.45482	
-0.5300	0.55780	
-0.5260	0.56130	
-0.4846	0.64440	
-0.4517	0.68850	
-0.4247	0.71951	
-0.3617	0.77960	
-0.3265	0.80627	
-0.2283	0.87495	
-0.1940	0.89658	
-Source	
-Meyer R.; Giusti G.; Meyer M.; Vincent E.-J.: Excess Enthalpies and Excess Volumes of Binary Mixtures Containing Tetrahydrofuran. Thermochim.Acta 13 (1975) 379-384	
-$$$Excess Volume Data Set 3370	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	303.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.2460	0.11180	
-0.3680	0.19120	
-0.4860	0.29950	
-0.5490	0.42110	
-0.5560	0.46730	
-0.5430	0.52380	
-0.5340	0.56650	
-0.4610	0.68530	
-0.3760	0.77420	
-0.2400	0.86600	
-0.1160	0.94280	
-Source	
-Deshpande D.D.; Oswal S.L.: 1. Excess Gibbs Free Energies and Excess Volumes. J.Chem.Thermodyn. 7 (1975) 155-159	
-$$$Excess Volume Data Set 9380	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	288.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1333	0.05560	
-0.2684	0.12380	
-0.3993	0.21630	
-0.4549	0.27650	
-0.5079	0.35700	
-0.5288	0.42750	
-0.5315	0.50280	
-0.5135	0.57460	
-0.4657	0.64600	
-0.4074	0.72320	
-0.3262	0.79870	
-0.2430	0.86580	
-0.1115	0.94780	
-Source	
-Brocos P.; Amigo A.; Pintos M.; Calvo E.; Bravo R.: Application of the Prigogine-Flory-Patterson model to excess volumes of mixtures of tetrahydrofuran or tetrahydropyran with cyclohexane or toluene. Thermochim.Acta 286 (1996) 297-306	
-Source	
-Deshpande D.D.; Oswal S.L.: 1. Excess Gibbs Free Energies and Excess Volumes. J.Chem.Thermodyn. 7 (1975) 155-159	
-Meyer R.; Giusti G.; Meyer M.; Vincent E.-J.: Excess Enthalpies and Excess Volumes of Binary Mixtures Containing Tetrahydrofuran. Thermochim.Acta 13 (1975) 379-384	
-Brocos P.; Amigo A.; Pintos M.; Calvo E.; Bravo R.: Application of the Prigogine-Flory-Patterson model to excess volumes of mixtures of tetrahydrofuran or tetrahydropyran with cyclohexane or toluene. Thermochim.Acta 286 (1996) 297-306	
+$$$Excess Volume Data Set 1433
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.3447	0.17042
+0.3735	0.20086
+0.4696	0.29101
+0.5135	0.34744
+0.5370	0.42095
+0.5376	0.45482
+0.5300	0.55780
+0.5260	0.56130
+0.4846	0.64440
+0.4517	0.68850
+0.4247	0.71951
+0.3617	0.77960
+0.3265	0.80627
+0.2283	0.87495
+0.1940	0.89658
+Source
+Meyer R.; Giusti G.; Meyer M.; Vincent E.-J.: Excess Enthalpies and Excess Volumes of Binary Mixtures Containing Tetrahydrofuran. Thermochim.Acta 13 (1975) 379-384
+$$$Excess Volume Data Set 3370
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	303.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.2460	0.11180
+0.3680	0.19120
+0.4860	0.29950
+0.5490	0.42110
+0.5560	0.46730
+0.5430	0.52380
+0.5340	0.56650
+0.4610	0.68530
+0.3760	0.77420
+0.2400	0.86600
+0.1160	0.94280
+Source
+Deshpande D.D.; Oswal S.L.: 1. Excess Gibbs Free Energies and Excess Volumes. J.Chem.Thermodyn. 7 (1975) 155-159
+$$$Excess Volume Data Set 9380
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	288.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1333	0.05560
+0.2684	0.12380
+0.3993	0.21630
+0.4549	0.27650
+0.5079	0.35700
+0.5288	0.42750
+0.5315	0.50280
+0.5135	0.57460
+0.4657	0.64600
+0.4074	0.72320
+0.3262	0.79870
+0.2430	0.86580
+0.1115	0.94780
+Source
+Brocos P.; Amigo A.; Pintos M.; Calvo E.; Bravo R.: Application of the Prigogine-Flory-Patterson model to excess volumes of mixtures of tetrahydrofuran or tetrahydropyran with cyclohexane or toluene. Thermochim.Acta 286 (1996) 297-306
+Source
+Deshpande D.D.; Oswal S.L.: 1. Excess Gibbs Free Energies and Excess Volumes. J.Chem.Thermodyn. 7 (1975) 155-159
+Meyer R.; Giusti G.; Meyer M.; Vincent E.-J.: Excess Enthalpies and Excess Volumes of Binary Mixtures Containing Tetrahydrofuran. Thermochim.Acta 13 (1975) 379-384
+Brocos P.; Amigo A.; Pintos M.; Calvo E.; Bravo R.: Application of the Prigogine-Flory-Patterson model to excess volumes of mixtures of tetrahydrofuran or tetrahydropyran with cyclohexane or toluene. Thermochim.Acta 286 (1996) 297-306

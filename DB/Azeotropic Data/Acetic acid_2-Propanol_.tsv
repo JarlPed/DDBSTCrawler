@@ -1,9 +1,9 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.325	n.a.	n.a.	n.a.	Author	2	
-none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	1	
-none	zeotropic	
-1	Amer Amezaga S.; Fernandez Biarge J.: Equilibrio Liquido Vapor en Sistemas Binarios Formados por el Acido Acetico y los Alcoholes Propilico, Isopropilico, Isobutilico, Butilico Secundario y Butilico Terciario a 760 mm. Anal.Quim. 69 (1973) 587-600	
-2	Subrahmanyeswararao D.; Subrarao B.V.: Vapour-Liquid Equilibria for the System Isopropanol (1)-Acetic Acid (2). Indian J.Technol. 12 (1974) 312-313	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C3H8O	60.096	67-63-0	2-Propanol
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	2
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	1
+none	zeotropic
+1	Amer Amezaga S.; Fernandez Biarge J.: Equilibrio Liquido Vapor en Sistemas Binarios Formados por el Acido Acetico y los Alcoholes Propilico, Isopropilico, Isobutilico, Butilico Secundario y Butilico Terciario a 760 mm. Anal.Quim. 69 (1973) 587-600
+2	Subrahmanyeswararao D.; Subrarao B.V.: Vapour-Liquid Equilibria for the System Isopropanol (1)-Acetic Acid (2). Indian J.Technol. 12 (1974) 312-313

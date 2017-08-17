@@ -1,24 +1,24 @@
-$$$Vapor-Liquid Equilibrium Data Set 1337	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CHCl3	119.377	67-66-3	Acetic acid butyl ester	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-392.95	0.07000	0.24200	
-387.95	0.15200	0.40500	
-383.65	0.18250	0.55900	
-377.15	0.27250	0.64250	
-368.15	0.40000	0.78500	
-364.15	0.46250	0.83500	
-360.55	0.52000	0.87300	
-354.35	0.62500	0.92500	
-350.35	0.67250	0.94500	
-347.45	0.71500	0.96250	
-343.95	0.76500	0.97500	
-341.85	0.81000	0.98400	
-340.15	0.85300	0.98900	
-337.25	0.91750	0.99500	
-Source	
-Dakshinamurty P.; Rao C.V.: Vapour-liquid Equilibria: Acetone - n-Butyl Acetate & Chloroform - n-Butyl Acetate Systems. J.Sci.Ind.Res.B:Phys.Sci. 17 (1958) 105-108	
-Source	
-Dakshinamurty P.; Rao C.V.: Vapour-liquid Equilibria: Acetone - n-Butyl Acetate & Chloroform - n-Butyl Acetate Systems. J.Sci.Ind.Res.B:Phys.Sci. 17 (1958) 105-108	
+$$$Vapor-Liquid Equilibrium Data Set 1337
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CHCl3	119.377	67-66-3	Acetic acid butyl ester
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+392.95	0.07000	0.24200
+387.95	0.15200	0.40500
+383.65	0.18250	0.55900
+377.15	0.27250	0.64250
+368.15	0.40000	0.78500
+364.15	0.46250	0.83500
+360.55	0.52000	0.87300
+354.35	0.62500	0.92500
+350.35	0.67250	0.94500
+347.45	0.71500	0.96250
+343.95	0.76500	0.97500
+341.85	0.81000	0.98400
+340.15	0.85300	0.98900
+337.25	0.91750	0.99500
+Source
+Dakshinamurty P.; Rao C.V.: Vapour-liquid Equilibria: Acetone - n-Butyl Acetate & Chloroform - n-Butyl Acetate Systems. J.Sci.Ind.Res.B:Phys.Sci. 17 (1958) 105-108
+Source
+Dakshinamurty P.; Rao C.V.: Vapour-liquid Equilibria: Acetone - n-Butyl Acetate & Chloroform - n-Butyl Acetate Systems. J.Sci.Ind.Res.B:Phys.Sci. 17 (1958) 105-108

@@ -1,535 +1,535 @@
-Formula	Molar Mass	CAS Registry Number	Name	
-C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-$$$Compressibility (isothermal)	
-T [K]	P [kPa]	Compressibility (isothermal) [/kPa]	State	Reference	
-278.15	100.000	4.72500005344E-007	Liquid	1	
-278.15	1000.000	4.70499998073E-007	Liquid	1	
-278.15	5000.000	4.61700011556E-007	Liquid	1	
-278.15	10000.000	4.51200008911E-007	Liquid	1	
-278.15	15000.000	4.41200000978E-007	Liquid	1	
-278.15	20000.000	4.31600000184E-007	Liquid	1	
-278.15	25000.000	4.22499994102E-007	Liquid	1	
-278.15	30000.000	4.13700007584E-007	Liquid	1	
-278.15	35000.000	4.05400015779E-007	Liquid	1	
-278.15	40000.000	3.97400015117E-007	Liquid	1	
-278.15	45000.000	3.89700005599E-007	Liquid	1	
-278.15	50000.000	3.82300015644E-007	Liquid	1	
-278.15	55000.000	3.75200016833E-007	Liquid	1	
-278.15	60000.000	3.68400009165E-007	Liquid	1	
-288.15	100.000	4.95800009048E-007	Liquid	1	
-288.15	1000.000	4.93599998208E-007	Liquid	1	
-288.15	5000.000	4.8390000984E-007	Liquid	1	
-288.15	10000.000	4.7240001777E-007	Liquid	1	
-288.15	15000.000	4.61399991991E-007	Liquid	1	
-288.15	20000.000	4.50900017768E-007	Liquid	1	
-288.15	25000.000	4.40999997409E-007	Liquid	1	
-288.15	30000.000	4.3150001261E-007	Liquid	1	
-288.15	35000.000	4.22400006528E-007	Liquid	1	
-288.15	40000.000	4.13700007584E-007	Liquid	1	
-288.15	45000.000	4.05400015779E-007	Liquid	1	
-288.15	50000.000	3.97400015117E-007	Liquid	1	
-288.15	55000.000	3.89799993172E-007	Liquid	1	
-288.15	60000.000	3.82400003218E-007	Liquid	1	
-298.15	100.000	5.21700030731E-007	Liquid	1	
-298.15	1000.000	5.19200000326E-007	Liquid	1	
-298.15	5000.000	5.08500022534E-007	Liquid	1	
-298.15	10000.000	4.95800009048E-007	Liquid	1	
-298.15	15000.000	4.83700034692E-007	Liquid	1	
-298.15	20000.000	4.72300001775E-007	Liquid	1	
-298.15	25000.000	4.61399991991E-007	Liquid	1	
-298.15	30000.000	4.5099997692E-007	Liquid	1	
-298.15	35000.000	4.41100013404E-007	Liquid	1	
-298.15	40000.000	4.31600000184E-007	Liquid	1	
-298.15	45000.000	4.22600010097E-007	Liquid	1	
-298.15	50000.000	4.13900011154E-007	Liquid	1	
-298.15	55000.000	4.05700006922E-007	Liquid	1	
-298.15	60000.000	3.9770000626E-007	Liquid	1	
-308.15	100.000	5.50500033114E-007	Liquid	1	
-308.15	1000.000	5.47800027562E-007	Liquid	1	
-308.15	5000.000	5.35900028353E-007	Liquid	1	
-308.15	10000.000	5.21800018305E-007	Liquid	1	
-308.15	15000.000	5.08500022534E-007	Liquid	1	
-308.15	20000.000	4.95800009048E-007	Liquid	1	
-308.15	25000.000	4.83800022266E-007	Liquid	1	
-308.15	30000.000	4.7240001777E-007	Liquid	1	
-308.15	35000.000	4.6159999556E-007	Liquid	1	
-308.15	40000.000	4.51299996485E-007	Liquid	1	
-308.15	45000.000	4.41400004547E-007	Liquid	1	
-308.15	50000.000	4.319999789E-007	Liquid	1	
-308.15	55000.000	4.22999988814E-007	Liquid	1	
-308.15	60000.000	4.14400005866E-007	Liquid	1	
-318.15	100.000	5.82899986057E-007	Liquid	1	
-318.15	1000.000	5.79800030209E-007	Liquid	1	
-318.15	5000.000	5.66600022012E-007	Liquid	1	
-318.15	10000.000	5.50799995835E-007	Liquid	1	
-318.15	15000.000	5.35999959084E-007	Liquid	1	
-318.15	20000.000	5.21999993452E-007	Liquid	1	
-318.15	25000.000	5.08699997681E-007	Liquid	1	
-318.15	30000.000	4.96100028613E-007	Liquid	1	
-318.15	35000.000	4.84200029405E-007	Liquid	1	
-318.15	40000.000	4.72799996487E-007	Liquid	1	
-318.15	45000.000	4.61999974277E-007	Liquid	1	
-318.15	50000.000	4.51700003623E-007	Liquid	1	
-318.15	55000.000	4.41899999259E-007	Liquid	1	
-318.15	60000.000	4.32500002034E-007	Liquid	1	
-328.15	100.000	6.19399997959E-007	Liquid	1	
-328.15	1000.000	6.15900034973E-007	Liquid	1	
-328.15	5000.000	6.00900023073E-007	Liquid	1	
-328.15	10000.000	5.83299993195E-007	Liquid	1	
-328.15	15000.000	5.66700009585E-007	Liquid	1	
-328.15	20000.000	5.50999970983E-007	Liquid	1	
-328.15	25000.000	5.36300035492E-007	Liquid	1	
-328.15	30000.000	5.22300013017E-007	Liquid	1	
-328.15	35000.000	5.0910000482E-007	Liquid	1	
-328.15	40000.000	4.96600023325E-007	Liquid	1	
-328.15	45000.000	4.84700024117E-007	Liquid	1	
-328.15	50000.000	4.73400007195E-007	Liquid	1	
-328.15	55000.000	4.6270000098E-007	Liquid	1	
-328.15	60000.000	4.52400001905E-007	Liquid	1	
-Number	Source	
-1	Garcia B.; Aparicio S.; Alcalde R.; Davila M.J.; Leal J.M.: Modeling the PVTx Behavior of the N-Methylpyrrolidinone/Water Mixed Solvent. Ind.Eng.Chem.Res. 43 (2004) 3205-3215	
-$$$Critical Data	
-T [K]	P [kPa]	State	Reference	
-721.70	4520.000	Critical Point	1	
-721.80		Critical Point	2	
-Number	Source	
-1	Gude M.T.; Teja A.S.: The Critical Properties of Several n-Alkanes, Tetralin, and NMP. DIPPR Data Series 2 (1994) 174-183	
-2	Teja A.S.; Anselme M.J.: II.1986 Results. AIChE Symp.Ser. 86 (1990) 122-127	
-$$$Density	
-T [K]	Density [kg/m3]	State	Reference	
-275.15	1047.000	Liquid	3	
-288.00	1036.960	Liquid	1	
-289.15	1034.200	Liquid	3	
-293.15	1028.000	Liquid	4	
-293.15	1032.220	Liquid	6	
-298.00	1028.020	Liquid	1	
-298.15	1025.700	Liquid	3	
-298.15	1027.900	Liquid	5	
-298.15	1028.020	Liquid	2	
-307.15	1020.000	Liquid	3	
-308.00	1019.090	Liquid	1	
-316.15	1009.000	Liquid	3	
-323.00	1005.720	Liquid	1	
-Number	Source	
-1	Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56	
-2	Novikov A.N.; Buev A.V.; Vasilev V.A.: Density of Solution and Partial Molar Volume of Non-Electrolytes in n-Methylpyrrolidinone at 298.15 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 36 (1993) 119-122	
-3	Langan J.R.; Salmon G.A.: Physical Properties of N-Methylpyrrolidinone as Functions of Temperature. J.Chem.Eng.Data 32 (1987) 420-422	
-4	Vodolazhskii S.V.; Yakushkin M.I.; Golobacheva O.I.; Gaile A.A.: Production and Application of p-Dioxan-2-one, 3-Morpholinone, n-Methyl-3-Morpholinone. Khim.Prom.  (1994) 434-435	
-5	Pal A.; Singh Y.P.; Singh W.: Excess Volumes and Ultrasonic Velocities of some Amide + Water Systems. Indian J.Chem.Sect.A 33 (1994) 1083-1087	
-6	Ambrosone L.; D'Errico G.; Sartorio R.; Vitagliano V.: Analysis of Velocity Cross-correlation and Preferential Solvation for the System N-Methylpyrrolidone-Water at 20 °C. J.Chem.Soc.Faraday Trans. 91 (1995) 1339-1344	
-$$$Dielectric Constant	
-T [K]	P [kPa]	Dielectric Constant [-]	State	Reference	
-293.15		32.55000	Liquid	2	
-294.00		33.00000	Liquid	1	
-298.15		32.00000	Liquid	4	
-298.15		32.17000	Liquid	3	
-298.15		32.70000	Liquid	6	
-298.15	100.000	32.16000	Liquid	5	
-298.15	50000.000	33.22000	Liquid	5	
-298.15	100000.000	34.11000	Liquid	5	
-298.15	150000.000	34.87000	Liquid	5	
-298.15	200000.000	35.56000	Liquid	5	
-298.15	250000.000	36.19000	Liquid	5	
-313.15		28.64000	Liquid	2	
-328.15		27.93300	Liquid	3	
-Number	Source	
-1	Evlampieva N.P.; Polushin S.G.; Lavrenko P.N.; Korneeva E.V.; Zgonnik V.N.; Ryumtsev E.I.: Aggregation of fullerene C60 in N-Methylpyrrolidone and N-Methylmorpholine. Zh.Fiz.Khim. 74 (2000) 1314-1319	
-2	Granzhan V.A.; Kirillova O.G.: Physico-chemical study of N-methyl-2-pyrrolidone-methanol system. Zh.Prikl.Khim. 43 (1970) 1875-1877	
-3	George J.; Sastry N.V.: Densities, Viscosities, Speeds of Sound, and Relative Permittivities for Water + Cyclic Amides (2-Pyrrolidinone, 1-Methyl-2-pyrrolidinone, and 1-Vinyl-2-pyrrolidinone) at Different Temperatures. J.Chem.Eng.Data 49 (2004) 235-242	
-4	Sears P.G.; Fortune W.H.; Blumenshine R.L.: Dipole Moment of Sulfamic Acid and Viscosities of its Solutions in Selected Nonaqueous Media. J.Chem.Eng.Data 11 (1966) 406-409	
-5	Uosaki Y.; Kawamura K.; Moriyoshi T.: Static Relative Permittivities of Water + 1-Methyl-2-pyrrolidinone and Water + 1,3-Dimethyl-2-imidazolidinone Mixtures under Pressures up to 300 MPa at 298.15 K. J.Chem.Eng.Data 41 (1996) 1525-1528	
-6	Bezuglaya E.P.; Lyapunov N.A. ; Krasnoperova A.P.; Yukhno G.D.; Chernyi A.V.: Viscosity and the Thermodynamics of the Viscous Flow of the System Water - n-Methylpyrrolidone. Visn.Chark.Nacional.Univ. Ser. Chim. 870 (2009) 199-207	
-$$$Dynamic Viscosity	
-T [K]	Dynamic Viscosity [mPas]	State	Reference	
-248.65	7.4900	Liquid	1	
-251.15	4.0210	Liquid	2	
-253.15	5.8600	Liquid	1	
-262.15	3.1710	Liquid	2	
-263.15	4.1300	Liquid	1	
-273.15	2.5720	Liquid	2	
-273.15	2.9400	Liquid	1	
-275.15	2.5040	Liquid	2	
-289.15	1.9270	Liquid	2	
-293.15	1.7880	Liquid	4	
-293.15	1.8000	Liquid	3	
-293.15	1.8600	Liquid	1	
-294.15	1.7880	Liquid	2	
-298.00	1.6860	Liquid	2	
-298.15	1.6660	Liquid	2	
-304.15	1.5250	Liquid	2	
-307.15	1.4690	Liquid	2	
-314.15	1.3280	Liquid	2	
-316.15	1.2930	Liquid	2	
-323.15	1.1750	Liquid	2	
-327.15	1.1120	Liquid	2	
-Number	Source	
-1	Afanasenko L.D.; Yarym-Agaev N.L.; Korotkova E.V.: Viscosimetric Properties of the System Diethylene Glycol - n-Methylpyrrolidone - Water. Zh.Prikl.Khim. 58 (1985) 2291-2296	
-2	Langan J.R.; Salmon G.A.: Physical Properties of N-Methylpyrrolidinone as Functions of Temperature. J.Chem.Eng.Data 32 (1987) 420-422	
-3	Vodolazhskii S.V.; Yakushkin M.I.; Golobacheva O.I.; Gaile A.A.: Production and Application of p-Dioxan-2-one, 3-Morpholinone, n-Methyl-3-Morpholinone. Khim.Prom.  (1994) 434-435	
-4	Ambrosone L.; D'Errico G.; Sartorio R.; Vitagliano V.: Analysis of Velocity Cross-correlation and Preferential Solvation for the System N-Methylpyrrolidone-Water at 20 °C. J.Chem.Soc.Faraday Trans. 91 (1995) 1339-1344	
-$$$Flash Point	
-T [K]	P [kPa]	State	Reference	
-364.15		Liquid	1	
-Number	Source	
-1	Hess S.; Wohlfahrt-Mehrens M.; Wachtler M.: Flammability of Li-Ion Battery Electrolytes: Flash Point and Self-Extinguishing Time Measurements. J.Electrochem.Soc. 162 (2015) 1969117411-1619152	
-$$$Heat of Fusion	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-248.50	18100.00	Solid-Liquid	1	
-249.68	11040.00	Solid-Liquid	2	
-Number	Source	
-1	Lisicki Z.; Jamroz M.E.: (Solid + liquid) equilibria in (polynuclear aromatic + tertiary amide) systems. J.Chem.Thermodyn. 32 (2000) 1335-1353	
-2	Domanska U.; Lachwa J.: Thermodynamics of binary mixtures of N-methyl-2-pyrrolidinone and ketone. Experimental results and modelling of the (solid + liquid) equilibrium and the (vapour + liquid) equilibrium. The modified UNIFAC (Do) model characterization.. J.Chem.Thermodyn. 37 (2005) 692-704	
-$$$Heat of Vaporization	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.15	61910.00	Vapor-Liquid	2	
-340.00	54320.00	Vapor-Liquid	1	
-350.00	53360.00	Vapor-Liquid	1	
-360.00	51230.00	Vapor-Liquid	3	
-375.00	51230.00	Vapor-Liquid	1	
-380.00	50100.00	Vapor-Liquid	3	
-400.00	48990.00	Vapor-Liquid	3	
-400.00	49400.00	Vapor-Liquid	1	
-420.00	47880.00	Vapor-Liquid	3	
-425.00	47740.00	Vapor-Liquid	1	
-440.00	46780.00	Vapor-Liquid	3	
-450.00	46160.00	Vapor-Liquid	1	
-460.00	45670.00	Vapor-Liquid	3	
-476.89	44450.00	Vapor-Liquid	1	
-480.00	44540.00	Vapor-Liquid	3	
-481.46	41400.00	Vapor-Liquid	2	
-500.00	43380.00	Vapor-Liquid	3	
-520.00	42180.00	Vapor-Liquid	3	
-Number	Source	
-1	Kneisl P.; Zondlo J.W.: Vapor Pressure, Liquid Density, and the Latent Heat of Vaporization as Functions of Temperature for Four Dipolar Aprotic Solvents.. J.Chem.Eng.Data 32 (1987) 11-13	
-2	Chylinski K.; Fras Z.; Malanowski S.K.: Vapor-Liquid Equilibrium for Propylene Glycol + 2-(2-Hexyloxyethoxy)ethanol and 1-Methyl-2-pyrrolidone + 1-Methoxypropane-2-ol. J.Chem.Eng.Data 49 (2004) 18-23	
-3	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154	
-$$$Kinematic Viscosity	
-T [K]	Kinematic Viscosity [m2/s]	State	Reference	
-278.15	2.16800003727E-06	Liquid	2	
-283.15	2.08000005841E-06	Liquid	3	
-283.15	2.11199994737E-06	Liquid	1	
-293.15	1.750000024E-06	Liquid	3	
-303.15	1.49000004512E-06	Liquid	3	
-313.15	1.31000001602E-06	Liquid	3	
-313.15	1.32100001338E-06	Liquid	1	
-323.15	1.16000001071E-06	Liquid	3	
-333.15	1.03000002127E-06	Liquid	3	
-343.15	9.29999998789E-07	Liquid	3	
-353.15	8.39999984237E-07	Liquid	3	
-363.15	7.6999998555E-07	Liquid	3	
-Number	Source	
-1	Chen G.; Hou Y.; Knapp H.: Diffusion Coefficients, Kinematic Viscosities, and Refractive Indices for Heptane + Ethylbenzene, Sulfolane + 1-Methylnaphthalene, Water + N,N-Dimethylformamide, Water + Methanol, Water + n-Formylmorpholine, and Water + n-Methylpyrrolidone. J.Chem.Eng.Data 40 (1995) 1005-1010	
-2	Anantaraman A.V.: I. Density and Viscosity of Binary Mixtures of n-Methylpyrrolidone - Tetrahydrofuran and Propylene Carbonate - Acetronitrile. Can.J.Chem. 64 (1986) 46-50	
-3	Bokelmann H.: Auswahl, Messung thermophysikalischer Eigenschaften und Beurteilung der Eignung von Niederdruck-Stoffsystemen für Absorptionswärmepumpen. Thesis  (1984)	
-$$$Melting Point	
-T [K]	P [kPa]	State	Reference	
-248.70	101.325	Solid-Liquid	2	
-249.07	101.325	Solid-Liquid	6	
-249.60	101.325	Solid-Liquid	1	
-249.72	101.325	Solid-Liquid	5	
-249.91	101.325	Solid-Liquid	3	
-Number	Source	
-1	Bugajewski Z.; Bylicki A.: (Solid+liquid) phase equilibria for (N-methylpyrrolidin-2-one+o-cresol).. J.Chem.Thermodyn. 21 (1989) 847-850	
-2	Bugajewski Z.; Bylicki A.: (Solid + liquid) phase equilibria for (N-methylpyrrolidin-2-one + p-cresol). J.Chem.Thermodyn. 21 (1989) 37-40	
-3	Che G.; Ott J.B.; Goates J.R.: (Solid + liquid) phase equilibria and solid-compound formation in tetrachloromethane + cyclopentanone, + 4-butyrolactone, and + 1-methyl-2-pyrrolidinone. J.Chem.Thermodyn. 18 (1986) 323-330	
-4	Bugajewski Z.; Bylicki A.: (Solid + liquid) phase equilibria for (N-methylpyrrolidin-2-one + 2,5 dimethylphenol). J.Chem.Thermodyn. 22 (1990) 573-576	
-5	Della Gatta G.; Ferro D.: Enthalpies of fusion and solid-to solid transition, entropies of fusion for urea and twelve alkylureas.. Thermochim.Acta 122 (1987) 143-152	
-6	Bugajewski Z.; Bylicki A.: (Solid + liquid) phase equilibria at atmospheric pressure for (N-methylpyrrolidin-2-one + 3,4-dimethylphenol). J.Chem.Thermodyn. 23 (1991) 901-904	
-$$$Molar Heat Capacity (cP)	
-T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
-288.00		172.07	Liquid	1	
-298.00		173.75	Liquid	1	
-298.15	100.000	174.83	Liquid	2	
-308.00		174.96	Liquid	1	
-308.15	100.000	177.38	Liquid	2	
-318.15	100.000	179.95	Liquid	2	
-323.00		178.81	Liquid	1	
-328.15	100.000	182.77	Liquid	2	
-338.15	100.000	185.78	Liquid	2	
-348.15	100.000	189.27	Liquid	2	
-Number	Source	
-1	Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56	
-2	Davila M.J.; Trusler J.P.M.: Thermodynamic properties of mixtures of N-methyl-2-pyrrolidinone and methanol at temperatures between 298.15 K and 343.15 K and pressures up to 60 MPa. J.Chem.Thermodyn. 41 (2009) 35-45	
-$$$Speed of Sound	
-T [K]	P [kPa]	Ultrasonic Velocity [m/s]	State	Reference	
-293.15		1572.000	Liquid	2	
-298.15		1545.100	Liquid	3	
-298.15	132.000	1542.880	Liquid	4	
-298.15	1156.000	1546.210	Liquid	4	
-298.15	4991.000	1557.800	Liquid	4	
-298.15	9998.000	1573.620	Liquid	4	
-298.15	14998.000	1590.390	Liquid	4	
-298.15	19995.000	1606.890	Liquid	4	
-298.15	25000.000	1621.770	Liquid	4	
-298.15	29995.000	1637.600	Liquid	4	
-298.15	35000.000	1654.410	Liquid	4	
-298.15	39986.000	1668.760	Liquid	4	
-298.15	45004.000	1684.870	Liquid	4	
-298.15	50002.000	1699.800	Liquid	4	
-298.15	55003.000	1714.270	Liquid	4	
-298.15	59996.000	1727.510	Liquid	4	
-303.15		1551.600	Liquid	1	
-303.15		1557.000	Liquid	2	
-308.15		1518.400	Liquid	3	
-313.15		1536.000	Liquid	2	
-313.15	108.000	1484.960	Liquid	4	
-313.15	1004.000	1488.250	Liquid	4	
-313.15	5000.000	1500.990	Liquid	4	
-313.15	9997.000	1516.810	Liquid	4	
-313.15	14995.000	1534.720	Liquid	4	
-313.15	19993.000	1551.860	Liquid	4	
-313.15	24994.000	1567.560	Liquid	4	
-313.15	29991.000	1584.820	Liquid	4	
-313.15	35001.000	1599.930	Liquid	4	
-313.15	39993.000	1616.620	Liquid	4	
-313.15	44994.000	1632.340	Liquid	4	
-313.15	49987.000	1647.030	Liquid	4	
-313.15	54990.000	1661.980	Liquid	4	
-313.15	59995.000	1675.810	Liquid	4	
-318.15		1477.800	Liquid	3	
-328.15		1448.700	Liquid	3	
-328.15	49.000	1430.230	Liquid	4	
-328.15	1003.000	1431.760	Liquid	4	
-328.15	4997.000	1445.100	Liquid	4	
-328.15	9994.000	1462.930	Liquid	4	
-328.15	14987.000	1480.110	Liquid	4	
-328.15	20007.000	1499.940	Liquid	4	
-328.15	24986.000	1515.730	Liquid	4	
-328.15	29991.000	1533.030	Liquid	4	
-328.15	35002.000	1550.130	Liquid	4	
-328.15	40003.000	1566.400	Liquid	4	
-328.15	44995.000	1583.630	Liquid	4	
-328.15	49996.000	1598.080	Liquid	4	
-328.15	55001.000	1614.730	Liquid	4	
-328.15	59994.000	1629.100	Liquid	4	
-338.15		1407.300	Liquid	3	
-Number	Source	
-1	Kumari P.G.; Radhamma M.; Sekhar G.C.; Prabhakara Rao M.V.: Excess Volumes and Speeds of Sound of N-Methyl-2-pyrrolidone with Chloroethanes and Chloroethenes at 303.15 K. J.Chem.Eng.Data 47 (2002) 425-427	
-2	Dyakiv F.V.; Zeliznyi A.M.; Shevchenko E.F.: Untersuchung der binären Systeme Xylol - N-Methylpyrrolidon. Zh.Obshch.Khim. 46 (1976) 2198-2204	
-3	George J.; Sastry N.V.: Densities, Viscosities, Speeds of Sound, and Relative Permittivities for Water + Cyclic Amides (2-Pyrrolidinone, 1-Methyl-2-pyrrolidinone, and 1-Vinyl-2-pyrrolidinone) at Different Temperatures. J.Chem.Eng.Data 49 (2004) 235-242	
-4	Davila M.J.; Trusler J.P.M.: Thermodynamic properties of mixtures of N-methyl-2-pyrrolidinone and methanol at temperatures between 298.15 K and 343.15 K and pressures up to 60 MPa. J.Chem.Thermodyn. 41 (2009) 35-45	
-$$$Standard Heat of Vaporization	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-298.15	101.325	54880.00	Vapor-Liquid	1	
-Number	Source	
-1	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154	
-$$$Std. Heat of Combustion	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-298.00		-2991690.00	Liquid	3	
-298.00		-2991560.00	Liquid	1	
-298.15	101.325	-2988050.00	Liquid	2	
-Number	Source	
-1	Kozina M.P.; Skuratov S.M.: Enthalpy of polymerization of n-substituted lactams. (Russ). Dokl.Akad.Nauk SSSR 127 (1959) 561-563	
-2	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154	
-3	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
-$$$Std. Heat of Formation	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-298.00		-262086.00	Liquid	2	
-298.00		-210850.00	Vapor	1	
-298.15	101.325	-265730.00	Liquid	1	
-Number	Source	
-1	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154	
-2	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
-$$$Surface Tension	
-T [K]	Surface Tension [mN/m]	State	Reference	
-277.84	42.6100	Liquid	3	
-287.80	41.3500	Liquid	3	
-293.15	41.0000	Liquid	1	
-293.15	41.2600	Liquid	4	
-297.81	40.2500	Liquid	3	
-298.15	40.8000	Liquid	4	
-298.15	41.8300	Liquid	2	
-303.15	40.3800	Liquid	4	
-307.85	39.1000	Liquid	3	
-313.15	39.6400	Liquid	4	
-313.15	40.3400	Liquid	2	
-317.85	37.9100	Liquid	3	
-323.15	38.6800	Liquid	4	
-323.15	39.3300	Liquid	2	
-327.89	36.8000	Liquid	3	
-333.15	35.9000	Liquid	5	
-337.88	35.6600	Liquid	3	
-Number	Source	
-1	Vodolazhskii S.V.; Yakushkin M.I.; Golobacheva O.I.; Gaile A.A.: Production and Application of p-Dioxan-2-one, 3-Morpholinone, n-Methyl-3-Morpholinone. Khim.Prom.  (1994) 434-435	
-2	Granzhan V.A.; Kirillova O.G.: Physico-chemical study of N-methyl-2-pyrrolidone-methanol system. Zh.Prikl.Khim. 43 (1970) 1875-1877	
-3	Kahl H.; Wadewitz T.; Winkelmann J.: Surface Tension of Pure Liquids and Binary Liquid Mixtures. J.Chem.Eng.Data 48 (2003) 580-586	
-4	Garcia-Abuin A.; Gomez-Diaz D.; Navaza J.M.; Vidal-Tato I.: Surface Tension of Aqueous Solutions of Short N-Alkyl-2-pyrrolidinones. J.Chem.Eng.Data 53 (2008) 2671-2674	
-5	Shcherbina E.I.; Tenenbaum A.E.; Bashun T.V.: Study of selective and solubility characteristics of mixed solvents. Khim.Tekhnol.Topl.Masel 18 (1973) 25-28	
-$$$Thermal Conductivity	
-T [K]	Thermal Conductivity [W/(m*K)]	State	Reference	
-298.00	0.1870	Liquid	1	
-323.00	0.1850	Liquid	1	
-348.00	0.1840	Liquid	1	
-Number	Source	
-1	Klushin N.D.; Pogodin V.P.; Vorobev A.F.: Thermal Conductivity of Solutions of Sodium, Potassium, and Caesium Iodides in N-Methyl-2-Pyrrolidinone in the Temperature Range 298-348 K. Zh.Fiz.Khim. 57 (1983) 2873-2875	
-$$$Thermal Expansion Coefficient	
-T [K]	P [kPa]	Thermal Expansion Coefficient [/K]	State	Reference	
-278.15	100.000	0.00079999997979	Liquid	1	
-278.15	1000.000	0.000798000022769	Liquid	1	
-278.15	5000.000	0.000789999961853	Liquid	1	
-278.15	10000.000	0.000780000002123	Liquid	1	
-278.15	15000.000	0.000769999984186	Liquid	1	
-278.15	20000.000	0.000759999966249	Liquid	1	
-288.15	100.000	0.00081900000805	Liquid	1	
-288.15	1000.000	0.000815999985207	Liquid	1	
-288.15	5000.000	0.000806999974884	Liquid	1	
-288.15	10000.000	0.00079600000754	Liquid	1	
-288.15	15000.000	0.000784999981988	Liquid	1	
-288.15	20000.000	0.000774000014644	Liquid	1	
-298.15	100.000	0.000837999978103	Liquid	1	
-298.15	1000.000	0.000835000013467	Liquid	1	
-298.15	5000.000	0.00082499999553	Liquid	1	
-298.15	10000.000	0.000812000012957	Liquid	1	
-298.15	15000.000	0.00079999997979	Liquid	1	
-298.15	20000.000	0.000788000004832	Liquid	1	
-308.15	100.000	0.000858000013977	Liquid	1	
-308.15	1000.000	0.000854999991134	Liquid	1	
-308.15	5000.000	0.000843000016175	Liquid	1	
-308.15	10000.000	0.000829000025988	Liquid	1	
-308.15	15000.000	0.000814999977592	Liquid	1	
-308.15	20000.000	0.000803000002634	Liquid	1	
-318.15	100.000	0.000877999991644	Liquid	1	
-318.15	1000.000	0.000874999968801	Liquid	1	
-318.15	5000.000	0.000861999986228	Liquid	1	
-318.15	10000.000	0.000845999980811	Liquid	1	
-318.15	15000.000	0.000830999983009	Liquid	1	
-318.15	20000.000	0.000816999992821	Liquid	1	
-328.15	100.000	0.00089999998454	Liquid	1	
-328.15	1000.000	0.00089600001229	Liquid	1	
-328.15	5000.000	0.000881000014488	Liquid	1	
-328.15	10000.000	0.000864000001457	Liquid	1	
-328.15	15000.000	0.000846999988426	Liquid	1	
-328.15	20000.000	0.000830999983009	Liquid	1	
-338.15	100.000	0.000921999977436	Liquid	1	
-338.15	1000.000	0.000918000005186	Liquid	1	
-338.15	5000.000	0.000901999999769	Liquid	1	
-338.15	10000.000	0.000882000022102	Liquid	1	
-338.15	15000.000	0.000862999993842	Liquid	1	
-338.15	20000.000	0.000844999973197	Liquid	1	
-348.15	100.000	0.000945999985561	Liquid	1	
-348.15	1000.000	0.00094200001331	Liquid	1	
-348.15	5000.000	0.000921999977436	Liquid	1	
-348.15	10000.000	0.00089999998454	Liquid	1	
-348.15	15000.000	0.000877999991644	Liquid	1	
-348.15	20000.000	0.000858000013977	Liquid	1	
-358.15	100.000	0.0009710000013	Liquid	1	
-358.15	1000.000	0.000966000021435	Liquid	1	
-358.15	5000.000	0.000943000020925	Liquid	1	
-358.15	10000.000	0.000918000005186	Liquid	1	
-358.15	15000.000	0.000892999989446	Liquid	1	
-358.15	20000.000	0.00087099999655	Liquid	1	
-Number	Source	
-1	Garcia B.; Aparicio S.; Alcalde R.; Davila M.J.; Leal J.M.: Modeling the PVTx Behavior of the N-Methylpyrrolidinone/Water Mixed Solvent. Ind.Eng.Chem.Res. 43 (2004) 3205-3215	
-$$$Vapor Pressure	
-T [K]	P [kPa]	State	Reference	
-279.15	0.0103	Vapor-Liquid	4	
-281.15	0.012	Vapor-Liquid	4	
-283.15	0.0141	Vapor-Liquid	4	
-285.15	0.0167	Vapor-Liquid	4	
-287.15	0.0195	Vapor-Liquid	4	
-289.15	0.0231	Vapor-Liquid	4	
-291.15	0.0265	Vapor-Liquid	4	
-293.15	0.0316	Vapor-Liquid	4	
-295.15	0.0369	Vapor-Liquid	4	
-297.15	0.0428	Vapor-Liquid	4	
-299.15	0.0493	Vapor-Liquid	4	
-330.00	0.373	Vapor-Liquid	3	
-336.88	0.517	Vapor-Liquid	2	
-340.00	0.688	Vapor-Liquid	3	
-343.09	0.753	Vapor-Liquid	3	
-343.15	0.756	Vapor-Liquid	3	
-343.15	0.807	Vapor-Liquid	3	
-343.15	0.809	Vapor-Liquid	3	
-348.74	1.024	Vapor-Liquid	2	
-349.15	0.800	Vapor-Liquid	1	
-350.00	1.138	Vapor-Liquid	3	
-356.15	1.3332	Vapor-Liquid	1	
-360.65	1.600	Vapor-Liquid	1	
-361.69	2.000	Vapor-Liquid	6	
-365.55	2.2665	Vapor-Liquid	1	
-367.18	2.595	Vapor-Liquid	2	
-367.91	2.666	Vapor-Liquid	6	
-370.00	3.012	Vapor-Liquid	3	
-370.15	3.333	Vapor-Liquid	1	
-370.29	3.090	Vapor-Liquid	5	
-372.92	3.653	Vapor-Liquid	3	
-373.15	3.454	Vapor-Liquid	3	
-377.15	4.000	Vapor-Liquid	6	
-380.65	4.666	Vapor-Liquid	1	
-382.95	5.160	Vapor-Liquid	2	
-384.04	5.333	Vapor-Liquid	6	
-384.75	5.691	Vapor-Liquid	5	
-388.85	6.399	Vapor-Liquid	1	
-389.30	6.933	Vapor-Liquid	1	
-394.30	7.999	Vapor-Liquid	6	
-394.35	8.133	Vapor-Liquid	1	
-395.95	8.811	Vapor-Liquid	5	
-400.74	10.329	Vapor-Liquid	2	
-401.98	10.666	Vapor-Liquid	6	
-402.75	11.732	Vapor-Liquid	1	
-404.15	13.199	Vapor-Liquid	1	
-406.25	13.466	Vapor-Liquid	1	
-408.00	13.666	Vapor-Liquid	5	
-408.19	13.332	Vapor-Liquid	6	
-414.63	16.665	Vapor-Liquid	6	
-415.40	17.628	Vapor-Liquid	5	
-419.99	19.933	Vapor-Liquid	6	
-420.71	20.701	Vapor-Liquid	2	
-420.82	21.108	Vapor-Liquid	5	
-425.00	24.166	Vapor-Liquid	5	
-427.02	25.023	Vapor-Liquid	6	
-427.65	27.998	Vapor-Liquid	1	
-428.77	27.225	Vapor-Liquid	5	
-432.26	30.348	Vapor-Liquid	5	
-433.46	31.022	Vapor-Liquid	2	
-434.11	31.177	Vapor-Liquid	6	
-435.46	33.452	Vapor-Liquid	5	
-438.32	36.450	Vapor-Liquid	5	
-439.35	40.663	Vapor-Liquid	1	
-441.10	39.574	Vapor-Liquid	5	
-441.22	38.565	Vapor-Liquid	6	
-443.20	41.475	Vapor-Liquid	2	
-443.39	42.317	Vapor-Liquid	5	
-446.05	45.679	Vapor-Liquid	5	
-448.39	47.375	Vapor-Liquid	6	
-448.40	48.840	Vapor-Liquid	5	
-449.25	53.862	Vapor-Liquid	1	
-450.51	51.828	Vapor-Liquid	5	
-450.92	51.630	Vapor-Liquid	2	
-452.60	54.921	Vapor-Liquid	5	
-454.68	58.158	Vapor-Liquid	5	
-455.58	57.817	Vapor-Liquid	6	
-457.25	67.194	Vapor-Liquid	1	
-457.69	62.166	Vapor-Liquid	2	
-462.82	70.120	Vapor-Liquid	6	
-463.49	72.425	Vapor-Liquid	2	
-465.15	80.660	Vapor-Liquid	1	
-467.35	88.526	Vapor-Liquid	1	
-468.75	82.826	Vapor-Liquid	2	
-470.10	84.533	Vapor-Liquid	6	
-473.15	98.125	Vapor-Liquid	1	
-473.41	93.043	Vapor-Liquid	2	
-475.24	97.304	Vapor-Liquid	2	
-477.36	102.432	Vapor-Liquid	2	
-477.42	101.325	Vapor-Liquid	6	
-479.15	101.325	Vapor-Liquid	1	
-484.77	120.790	Vapor-Liquid	6	
-492.17	143.250	Vapor-Liquid	6	
-499.60	169.020	Vapor-Liquid	6	
-507.08	198.490	Vapor-Liquid	6	
-514.58	232.020	Vapor-Liquid	6	
-522.13	270.020	Vapor-Liquid	6	
-Number	Source	
-1	Alekseev V.G.; Bushinskii V.I.; Ermakova Z.V.: Einige thermodynamische Eigenschaften von N-Methylpyrrolidom und seine wässrigen Lösungen. Oniitekhim  (1988) 1-10	
-2	Kneisl P.; Zondlo J.W.: Vapor Pressure, Liquid Density, and the Latent Heat of Vaporization as Functions of Temperature for Four Dipolar Aprotic Solvents.. J.Chem.Eng.Data 32 (1987) 11-13	
-3	Linek J.; Wichterle I.; Marsh K.N.: Vapor-Liquid Equilibria for N-Methyl-2-pyrrolidone + Benzene, +Toluene, + Heptane, and + Methylcyclohexane. J.Chem.Eng.Data 41 (1996) 1212-1218	
-4	Aim K.: Measurement of Vapor-Liquid Equilibrium in Systems with Components of Very Different Volatility by the Total Pressure Static Method. Fluid Phase Equilib. 2 (1978) 119-142	
-5	Gierycz P.; Rogalski M.; Malanowski S.: Vapor-Liquid Equilibria in Binary System Formed by N-Methylpyrrolidone with Hydrocarbons and Hydroxyl Derivatives   Vapor-Liquid Equilibria in Binary Systems Formed by N-Methylpyrrolidone with Hydrocarbons and Hydroxyl Derivatives. Fluid Phase Equilib. 22 (1985) 107-122	
-6	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154	
-$$$Virial Coefficients	
-T [K]	Second Virial Coefficient [cm3/mol]	State	Reference	
-298.00	-4331.0000	Vapor	1	
-323.00	-3462.0000	Vapor	1	
-348.00	-2825.0000	Vapor	1	
-Number	Source	
-1	Technische Hochschule Carl Schorlemmer Leuna-Merseburg, Merseburg (GDR): Unpublished data. Unpublished Data  (1989) 1-360	
+Formula	Molar Mass	CAS Registry Number	Name
+C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+$$$Compressibility (isothermal)
+T [K]	P [kPa]	Compressibility (isothermal) [/kPa]	State	Reference
+278.15	100.000	4.72500005344E-007	Liquid	1
+278.15	1000.000	4.70499998073E-007	Liquid	1
+278.15	5000.000	4.61700011556E-007	Liquid	1
+278.15	10000.000	4.51200008911E-007	Liquid	1
+278.15	15000.000	4.41200000978E-007	Liquid	1
+278.15	20000.000	4.31600000184E-007	Liquid	1
+278.15	25000.000	4.22499994102E-007	Liquid	1
+278.15	30000.000	4.13700007584E-007	Liquid	1
+278.15	35000.000	4.05400015779E-007	Liquid	1
+278.15	40000.000	3.97400015117E-007	Liquid	1
+278.15	45000.000	3.89700005599E-007	Liquid	1
+278.15	50000.000	3.82300015644E-007	Liquid	1
+278.15	55000.000	3.75200016833E-007	Liquid	1
+278.15	60000.000	3.68400009165E-007	Liquid	1
+288.15	100.000	4.95800009048E-007	Liquid	1
+288.15	1000.000	4.93599998208E-007	Liquid	1
+288.15	5000.000	4.8390000984E-007	Liquid	1
+288.15	10000.000	4.7240001777E-007	Liquid	1
+288.15	15000.000	4.61399991991E-007	Liquid	1
+288.15	20000.000	4.50900017768E-007	Liquid	1
+288.15	25000.000	4.40999997409E-007	Liquid	1
+288.15	30000.000	4.3150001261E-007	Liquid	1
+288.15	35000.000	4.22400006528E-007	Liquid	1
+288.15	40000.000	4.13700007584E-007	Liquid	1
+288.15	45000.000	4.05400015779E-007	Liquid	1
+288.15	50000.000	3.97400015117E-007	Liquid	1
+288.15	55000.000	3.89799993172E-007	Liquid	1
+288.15	60000.000	3.82400003218E-007	Liquid	1
+298.15	100.000	5.21700030731E-007	Liquid	1
+298.15	1000.000	5.19200000326E-007	Liquid	1
+298.15	5000.000	5.08500022534E-007	Liquid	1
+298.15	10000.000	4.95800009048E-007	Liquid	1
+298.15	15000.000	4.83700034692E-007	Liquid	1
+298.15	20000.000	4.72300001775E-007	Liquid	1
+298.15	25000.000	4.61399991991E-007	Liquid	1
+298.15	30000.000	4.5099997692E-007	Liquid	1
+298.15	35000.000	4.41100013404E-007	Liquid	1
+298.15	40000.000	4.31600000184E-007	Liquid	1
+298.15	45000.000	4.22600010097E-007	Liquid	1
+298.15	50000.000	4.13900011154E-007	Liquid	1
+298.15	55000.000	4.05700006922E-007	Liquid	1
+298.15	60000.000	3.9770000626E-007	Liquid	1
+308.15	100.000	5.50500033114E-007	Liquid	1
+308.15	1000.000	5.47800027562E-007	Liquid	1
+308.15	5000.000	5.35900028353E-007	Liquid	1
+308.15	10000.000	5.21800018305E-007	Liquid	1
+308.15	15000.000	5.08500022534E-007	Liquid	1
+308.15	20000.000	4.95800009048E-007	Liquid	1
+308.15	25000.000	4.83800022266E-007	Liquid	1
+308.15	30000.000	4.7240001777E-007	Liquid	1
+308.15	35000.000	4.6159999556E-007	Liquid	1
+308.15	40000.000	4.51299996485E-007	Liquid	1
+308.15	45000.000	4.41400004547E-007	Liquid	1
+308.15	50000.000	4.319999789E-007	Liquid	1
+308.15	55000.000	4.22999988814E-007	Liquid	1
+308.15	60000.000	4.14400005866E-007	Liquid	1
+318.15	100.000	5.82899986057E-007	Liquid	1
+318.15	1000.000	5.79800030209E-007	Liquid	1
+318.15	5000.000	5.66600022012E-007	Liquid	1
+318.15	10000.000	5.50799995835E-007	Liquid	1
+318.15	15000.000	5.35999959084E-007	Liquid	1
+318.15	20000.000	5.21999993452E-007	Liquid	1
+318.15	25000.000	5.08699997681E-007	Liquid	1
+318.15	30000.000	4.96100028613E-007	Liquid	1
+318.15	35000.000	4.84200029405E-007	Liquid	1
+318.15	40000.000	4.72799996487E-007	Liquid	1
+318.15	45000.000	4.61999974277E-007	Liquid	1
+318.15	50000.000	4.51700003623E-007	Liquid	1
+318.15	55000.000	4.41899999259E-007	Liquid	1
+318.15	60000.000	4.32500002034E-007	Liquid	1
+328.15	100.000	6.19399997959E-007	Liquid	1
+328.15	1000.000	6.15900034973E-007	Liquid	1
+328.15	5000.000	6.00900023073E-007	Liquid	1
+328.15	10000.000	5.83299993195E-007	Liquid	1
+328.15	15000.000	5.66700009585E-007	Liquid	1
+328.15	20000.000	5.50999970983E-007	Liquid	1
+328.15	25000.000	5.36300035492E-007	Liquid	1
+328.15	30000.000	5.22300013017E-007	Liquid	1
+328.15	35000.000	5.0910000482E-007	Liquid	1
+328.15	40000.000	4.96600023325E-007	Liquid	1
+328.15	45000.000	4.84700024117E-007	Liquid	1
+328.15	50000.000	4.73400007195E-007	Liquid	1
+328.15	55000.000	4.6270000098E-007	Liquid	1
+328.15	60000.000	4.52400001905E-007	Liquid	1
+Number	Source
+1	Garcia B.; Aparicio S.; Alcalde R.; Davila M.J.; Leal J.M.: Modeling the PVTx Behavior of the N-Methylpyrrolidinone/Water Mixed Solvent. Ind.Eng.Chem.Res. 43 (2004) 3205-3215
+$$$Critical Data
+T [K]	P [kPa]	State	Reference
+721.70	4520.000	Critical Point	1
+721.80		Critical Point	2
+Number	Source
+1	Gude M.T.; Teja A.S.: The Critical Properties of Several n-Alkanes, Tetralin, and NMP. DIPPR Data Series 2 (1994) 174-183
+2	Teja A.S.; Anselme M.J.: II.1986 Results. AIChE Symp.Ser. 86 (1990) 122-127
+$$$Density
+T [K]	Density [kg/m3]	State	Reference
+275.15	1047.000	Liquid	3
+288.00	1036.960	Liquid	1
+289.15	1034.200	Liquid	3
+293.15	1028.000	Liquid	4
+293.15	1032.220	Liquid	6
+298.00	1028.020	Liquid	1
+298.15	1025.700	Liquid	3
+298.15	1027.900	Liquid	5
+298.15	1028.020	Liquid	2
+307.15	1020.000	Liquid	3
+308.00	1019.090	Liquid	1
+316.15	1009.000	Liquid	3
+323.00	1005.720	Liquid	1
+Number	Source
+1	Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56
+2	Novikov A.N.; Buev A.V.; Vasilev V.A.: Density of Solution and Partial Molar Volume of Non-Electrolytes in n-Methylpyrrolidinone at 298.15 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 36 (1993) 119-122
+3	Langan J.R.; Salmon G.A.: Physical Properties of N-Methylpyrrolidinone as Functions of Temperature. J.Chem.Eng.Data 32 (1987) 420-422
+4	Vodolazhskii S.V.; Yakushkin M.I.; Golobacheva O.I.; Gaile A.A.: Production and Application of p-Dioxan-2-one, 3-Morpholinone, n-Methyl-3-Morpholinone. Khim.Prom.  (1994) 434-435
+5	Pal A.; Singh Y.P.; Singh W.: Excess Volumes and Ultrasonic Velocities of some Amide + Water Systems. Indian J.Chem.Sect.A 33 (1994) 1083-1087
+6	Ambrosone L.; D'Errico G.; Sartorio R.; Vitagliano V.: Analysis of Velocity Cross-correlation and Preferential Solvation for the System N-Methylpyrrolidone-Water at 20 °C. J.Chem.Soc.Faraday Trans. 91 (1995) 1339-1344
+$$$Dielectric Constant
+T [K]	P [kPa]	Dielectric Constant [-]	State	Reference
+293.15		32.55000	Liquid	2
+294.00		33.00000	Liquid	1
+298.15		32.00000	Liquid	4
+298.15		32.17000	Liquid	3
+298.15		32.70000	Liquid	6
+298.15	100.000	32.16000	Liquid	5
+298.15	50000.000	33.22000	Liquid	5
+298.15	100000.000	34.11000	Liquid	5
+298.15	150000.000	34.87000	Liquid	5
+298.15	200000.000	35.56000	Liquid	5
+298.15	250000.000	36.19000	Liquid	5
+313.15		28.64000	Liquid	2
+328.15		27.93300	Liquid	3
+Number	Source
+1	Evlampieva N.P.; Polushin S.G.; Lavrenko P.N.; Korneeva E.V.; Zgonnik V.N.; Ryumtsev E.I.: Aggregation of fullerene C60 in N-Methylpyrrolidone and N-Methylmorpholine. Zh.Fiz.Khim. 74 (2000) 1314-1319
+2	Granzhan V.A.; Kirillova O.G.: Physico-chemical study of N-methyl-2-pyrrolidone-methanol system. Zh.Prikl.Khim. 43 (1970) 1875-1877
+3	George J.; Sastry N.V.: Densities, Viscosities, Speeds of Sound, and Relative Permittivities for Water + Cyclic Amides (2-Pyrrolidinone, 1-Methyl-2-pyrrolidinone, and 1-Vinyl-2-pyrrolidinone) at Different Temperatures. J.Chem.Eng.Data 49 (2004) 235-242
+4	Sears P.G.; Fortune W.H.; Blumenshine R.L.: Dipole Moment of Sulfamic Acid and Viscosities of its Solutions in Selected Nonaqueous Media. J.Chem.Eng.Data 11 (1966) 406-409
+5	Uosaki Y.; Kawamura K.; Moriyoshi T.: Static Relative Permittivities of Water + 1-Methyl-2-pyrrolidinone and Water + 1,3-Dimethyl-2-imidazolidinone Mixtures under Pressures up to 300 MPa at 298.15 K. J.Chem.Eng.Data 41 (1996) 1525-1528
+6	Bezuglaya E.P.; Lyapunov N.A. ; Krasnoperova A.P.; Yukhno G.D.; Chernyi A.V.: Viscosity and the Thermodynamics of the Viscous Flow of the System Water - n-Methylpyrrolidone. Visn.Chark.Nacional.Univ. Ser. Chim. 870 (2009) 199-207
+$$$Dynamic Viscosity
+T [K]	Dynamic Viscosity [mPas]	State	Reference
+248.65	7.4900	Liquid	1
+251.15	4.0210	Liquid	2
+253.15	5.8600	Liquid	1
+262.15	3.1710	Liquid	2
+263.15	4.1300	Liquid	1
+273.15	2.5720	Liquid	2
+273.15	2.9400	Liquid	1
+275.15	2.5040	Liquid	2
+289.15	1.9270	Liquid	2
+293.15	1.7880	Liquid	4
+293.15	1.8000	Liquid	3
+293.15	1.8600	Liquid	1
+294.15	1.7880	Liquid	2
+298.00	1.6860	Liquid	2
+298.15	1.6660	Liquid	2
+304.15	1.5250	Liquid	2
+307.15	1.4690	Liquid	2
+314.15	1.3280	Liquid	2
+316.15	1.2930	Liquid	2
+323.15	1.1750	Liquid	2
+327.15	1.1120	Liquid	2
+Number	Source
+1	Afanasenko L.D.; Yarym-Agaev N.L.; Korotkova E.V.: Viscosimetric Properties of the System Diethylene Glycol - n-Methylpyrrolidone - Water. Zh.Prikl.Khim. 58 (1985) 2291-2296
+2	Langan J.R.; Salmon G.A.: Physical Properties of N-Methylpyrrolidinone as Functions of Temperature. J.Chem.Eng.Data 32 (1987) 420-422
+3	Vodolazhskii S.V.; Yakushkin M.I.; Golobacheva O.I.; Gaile A.A.: Production and Application of p-Dioxan-2-one, 3-Morpholinone, n-Methyl-3-Morpholinone. Khim.Prom.  (1994) 434-435
+4	Ambrosone L.; D'Errico G.; Sartorio R.; Vitagliano V.: Analysis of Velocity Cross-correlation and Preferential Solvation for the System N-Methylpyrrolidone-Water at 20 °C. J.Chem.Soc.Faraday Trans. 91 (1995) 1339-1344
+$$$Flash Point
+T [K]	P [kPa]	State	Reference
+364.15		Liquid	1
+Number	Source
+1	Hess S.; Wohlfahrt-Mehrens M.; Wachtler M.: Flammability of Li-Ion Battery Electrolytes: Flash Point and Self-Extinguishing Time Measurements. J.Electrochem.Soc. 162 (2015) 1969117411-1619152
+$$$Heat of Fusion
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+248.50	18100.00	Solid-Liquid	1
+249.68	11040.00	Solid-Liquid	2
+Number	Source
+1	Lisicki Z.; Jamroz M.E.: (Solid + liquid) equilibria in (polynuclear aromatic + tertiary amide) systems. J.Chem.Thermodyn. 32 (2000) 1335-1353
+2	Domanska U.; Lachwa J.: Thermodynamics of binary mixtures of N-methyl-2-pyrrolidinone and ketone. Experimental results and modelling of the (solid + liquid) equilibrium and the (vapour + liquid) equilibrium. The modified UNIFAC (Do) model characterization.. J.Chem.Thermodyn. 37 (2005) 692-704
+$$$Heat of Vaporization
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.15	61910.00	Vapor-Liquid	2
+340.00	54320.00	Vapor-Liquid	1
+350.00	53360.00	Vapor-Liquid	1
+360.00	51230.00	Vapor-Liquid	3
+375.00	51230.00	Vapor-Liquid	1
+380.00	50100.00	Vapor-Liquid	3
+400.00	48990.00	Vapor-Liquid	3
+400.00	49400.00	Vapor-Liquid	1
+420.00	47880.00	Vapor-Liquid	3
+425.00	47740.00	Vapor-Liquid	1
+440.00	46780.00	Vapor-Liquid	3
+450.00	46160.00	Vapor-Liquid	1
+460.00	45670.00	Vapor-Liquid	3
+476.89	44450.00	Vapor-Liquid	1
+480.00	44540.00	Vapor-Liquid	3
+481.46	41400.00	Vapor-Liquid	2
+500.00	43380.00	Vapor-Liquid	3
+520.00	42180.00	Vapor-Liquid	3
+Number	Source
+1	Kneisl P.; Zondlo J.W.: Vapor Pressure, Liquid Density, and the Latent Heat of Vaporization as Functions of Temperature for Four Dipolar Aprotic Solvents.. J.Chem.Eng.Data 32 (1987) 11-13
+2	Chylinski K.; Fras Z.; Malanowski S.K.: Vapor-Liquid Equilibrium for Propylene Glycol + 2-(2-Hexyloxyethoxy)ethanol and 1-Methyl-2-pyrrolidone + 1-Methoxypropane-2-ol. J.Chem.Eng.Data 49 (2004) 18-23
+3	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154
+$$$Kinematic Viscosity
+T [K]	Kinematic Viscosity [m2/s]	State	Reference
+278.15	2.16800003727E-06	Liquid	2
+283.15	2.08000005841E-06	Liquid	3
+283.15	2.11199994737E-06	Liquid	1
+293.15	1.750000024E-06	Liquid	3
+303.15	1.49000004512E-06	Liquid	3
+313.15	1.31000001602E-06	Liquid	3
+313.15	1.32100001338E-06	Liquid	1
+323.15	1.16000001071E-06	Liquid	3
+333.15	1.03000002127E-06	Liquid	3
+343.15	9.29999998789E-07	Liquid	3
+353.15	8.39999984237E-07	Liquid	3
+363.15	7.6999998555E-07	Liquid	3
+Number	Source
+1	Chen G.; Hou Y.; Knapp H.: Diffusion Coefficients, Kinematic Viscosities, and Refractive Indices for Heptane + Ethylbenzene, Sulfolane + 1-Methylnaphthalene, Water + N,N-Dimethylformamide, Water + Methanol, Water + n-Formylmorpholine, and Water + n-Methylpyrrolidone. J.Chem.Eng.Data 40 (1995) 1005-1010
+2	Anantaraman A.V.: I. Density and Viscosity of Binary Mixtures of n-Methylpyrrolidone - Tetrahydrofuran and Propylene Carbonate - Acetronitrile. Can.J.Chem. 64 (1986) 46-50
+3	Bokelmann H.: Auswahl, Messung thermophysikalischer Eigenschaften und Beurteilung der Eignung von Niederdruck-Stoffsystemen für Absorptionswärmepumpen. Thesis  (1984)
+$$$Melting Point
+T [K]	P [kPa]	State	Reference
+248.70	101.325	Solid-Liquid	2
+249.07	101.325	Solid-Liquid	6
+249.60	101.325	Solid-Liquid	1
+249.72	101.325	Solid-Liquid	5
+249.91	101.325	Solid-Liquid	3
+Number	Source
+1	Bugajewski Z.; Bylicki A.: (Solid+liquid) phase equilibria for (N-methylpyrrolidin-2-one+o-cresol).. J.Chem.Thermodyn. 21 (1989) 847-850
+2	Bugajewski Z.; Bylicki A.: (Solid + liquid) phase equilibria for (N-methylpyrrolidin-2-one + p-cresol). J.Chem.Thermodyn. 21 (1989) 37-40
+3	Che G.; Ott J.B.; Goates J.R.: (Solid + liquid) phase equilibria and solid-compound formation in tetrachloromethane + cyclopentanone, + 4-butyrolactone, and + 1-methyl-2-pyrrolidinone. J.Chem.Thermodyn. 18 (1986) 323-330
+4	Bugajewski Z.; Bylicki A.: (Solid + liquid) phase equilibria for (N-methylpyrrolidin-2-one + 2,5 dimethylphenol). J.Chem.Thermodyn. 22 (1990) 573-576
+5	Della Gatta G.; Ferro D.: Enthalpies of fusion and solid-to solid transition, entropies of fusion for urea and twelve alkylureas.. Thermochim.Acta 122 (1987) 143-152
+6	Bugajewski Z.; Bylicki A.: (Solid + liquid) phase equilibria at atmospheric pressure for (N-methylpyrrolidin-2-one + 3,4-dimethylphenol). J.Chem.Thermodyn. 23 (1991) 901-904
+$$$Molar Heat Capacity (cP)
+T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference
+288.00		172.07	Liquid	1
+298.00		173.75	Liquid	1
+298.15	100.000	174.83	Liquid	2
+308.00		174.96	Liquid	1
+308.15	100.000	177.38	Liquid	2
+318.15	100.000	179.95	Liquid	2
+323.00		178.81	Liquid	1
+328.15	100.000	182.77	Liquid	2
+338.15	100.000	185.78	Liquid	2
+348.15	100.000	189.27	Liquid	2
+Number	Source
+1	Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56
+2	Davila M.J.; Trusler J.P.M.: Thermodynamic properties of mixtures of N-methyl-2-pyrrolidinone and methanol at temperatures between 298.15 K and 343.15 K and pressures up to 60 MPa. J.Chem.Thermodyn. 41 (2009) 35-45
+$$$Speed of Sound
+T [K]	P [kPa]	Ultrasonic Velocity [m/s]	State	Reference
+293.15		1572.000	Liquid	2
+298.15		1545.100	Liquid	3
+298.15	132.000	1542.880	Liquid	4
+298.15	1156.000	1546.210	Liquid	4
+298.15	4991.000	1557.800	Liquid	4
+298.15	9998.000	1573.620	Liquid	4
+298.15	14998.000	1590.390	Liquid	4
+298.15	19995.000	1606.890	Liquid	4
+298.15	25000.000	1621.770	Liquid	4
+298.15	29995.000	1637.600	Liquid	4
+298.15	35000.000	1654.410	Liquid	4
+298.15	39986.000	1668.760	Liquid	4
+298.15	45004.000	1684.870	Liquid	4
+298.15	50002.000	1699.800	Liquid	4
+298.15	55003.000	1714.270	Liquid	4
+298.15	59996.000	1727.510	Liquid	4
+303.15		1551.600	Liquid	1
+303.15		1557.000	Liquid	2
+308.15		1518.400	Liquid	3
+313.15		1536.000	Liquid	2
+313.15	108.000	1484.960	Liquid	4
+313.15	1004.000	1488.250	Liquid	4
+313.15	5000.000	1500.990	Liquid	4
+313.15	9997.000	1516.810	Liquid	4
+313.15	14995.000	1534.720	Liquid	4
+313.15	19993.000	1551.860	Liquid	4
+313.15	24994.000	1567.560	Liquid	4
+313.15	29991.000	1584.820	Liquid	4
+313.15	35001.000	1599.930	Liquid	4
+313.15	39993.000	1616.620	Liquid	4
+313.15	44994.000	1632.340	Liquid	4
+313.15	49987.000	1647.030	Liquid	4
+313.15	54990.000	1661.980	Liquid	4
+313.15	59995.000	1675.810	Liquid	4
+318.15		1477.800	Liquid	3
+328.15		1448.700	Liquid	3
+328.15	49.000	1430.230	Liquid	4
+328.15	1003.000	1431.760	Liquid	4
+328.15	4997.000	1445.100	Liquid	4
+328.15	9994.000	1462.930	Liquid	4
+328.15	14987.000	1480.110	Liquid	4
+328.15	20007.000	1499.940	Liquid	4
+328.15	24986.000	1515.730	Liquid	4
+328.15	29991.000	1533.030	Liquid	4
+328.15	35002.000	1550.130	Liquid	4
+328.15	40003.000	1566.400	Liquid	4
+328.15	44995.000	1583.630	Liquid	4
+328.15	49996.000	1598.080	Liquid	4
+328.15	55001.000	1614.730	Liquid	4
+328.15	59994.000	1629.100	Liquid	4
+338.15		1407.300	Liquid	3
+Number	Source
+1	Kumari P.G.; Radhamma M.; Sekhar G.C.; Prabhakara Rao M.V.: Excess Volumes and Speeds of Sound of N-Methyl-2-pyrrolidone with Chloroethanes and Chloroethenes at 303.15 K. J.Chem.Eng.Data 47 (2002) 425-427
+2	Dyakiv F.V.; Zeliznyi A.M.; Shevchenko E.F.: Untersuchung der binären Systeme Xylol - N-Methylpyrrolidon. Zh.Obshch.Khim. 46 (1976) 2198-2204
+3	George J.; Sastry N.V.: Densities, Viscosities, Speeds of Sound, and Relative Permittivities for Water + Cyclic Amides (2-Pyrrolidinone, 1-Methyl-2-pyrrolidinone, and 1-Vinyl-2-pyrrolidinone) at Different Temperatures. J.Chem.Eng.Data 49 (2004) 235-242
+4	Davila M.J.; Trusler J.P.M.: Thermodynamic properties of mixtures of N-methyl-2-pyrrolidinone and methanol at temperatures between 298.15 K and 343.15 K and pressures up to 60 MPa. J.Chem.Thermodyn. 41 (2009) 35-45
+$$$Standard Heat of Vaporization
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+298.15	101.325	54880.00	Vapor-Liquid	1
+Number	Source
+1	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154
+$$$Std. Heat of Combustion
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+298.00		-2991690.00	Liquid	3
+298.00		-2991560.00	Liquid	1
+298.15	101.325	-2988050.00	Liquid	2
+Number	Source
+1	Kozina M.P.; Skuratov S.M.: Enthalpy of polymerization of n-substituted lactams. (Russ). Dokl.Akad.Nauk SSSR 127 (1959) 561-563
+2	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154
+3	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277
+$$$Std. Heat of Formation
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+298.00		-262086.00	Liquid	2
+298.00		-210850.00	Vapor	1
+298.15	101.325	-265730.00	Liquid	1
+Number	Source
+1	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154
+2	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277
+$$$Surface Tension
+T [K]	Surface Tension [mN/m]	State	Reference
+277.84	42.6100	Liquid	3
+287.80	41.3500	Liquid	3
+293.15	41.0000	Liquid	1
+293.15	41.2600	Liquid	4
+297.81	40.2500	Liquid	3
+298.15	40.8000	Liquid	4
+298.15	41.8300	Liquid	2
+303.15	40.3800	Liquid	4
+307.85	39.1000	Liquid	3
+313.15	39.6400	Liquid	4
+313.15	40.3400	Liquid	2
+317.85	37.9100	Liquid	3
+323.15	38.6800	Liquid	4
+323.15	39.3300	Liquid	2
+327.89	36.8000	Liquid	3
+333.15	35.9000	Liquid	5
+337.88	35.6600	Liquid	3
+Number	Source
+1	Vodolazhskii S.V.; Yakushkin M.I.; Golobacheva O.I.; Gaile A.A.: Production and Application of p-Dioxan-2-one, 3-Morpholinone, n-Methyl-3-Morpholinone. Khim.Prom.  (1994) 434-435
+2	Granzhan V.A.; Kirillova O.G.: Physico-chemical study of N-methyl-2-pyrrolidone-methanol system. Zh.Prikl.Khim. 43 (1970) 1875-1877
+3	Kahl H.; Wadewitz T.; Winkelmann J.: Surface Tension of Pure Liquids and Binary Liquid Mixtures. J.Chem.Eng.Data 48 (2003) 580-586
+4	Garcia-Abuin A.; Gomez-Diaz D.; Navaza J.M.; Vidal-Tato I.: Surface Tension of Aqueous Solutions of Short N-Alkyl-2-pyrrolidinones. J.Chem.Eng.Data 53 (2008) 2671-2674
+5	Shcherbina E.I.; Tenenbaum A.E.; Bashun T.V.: Study of selective and solubility characteristics of mixed solvents. Khim.Tekhnol.Topl.Masel 18 (1973) 25-28
+$$$Thermal Conductivity
+T [K]	Thermal Conductivity [W/(m*K)]	State	Reference
+298.00	0.1870	Liquid	1
+323.00	0.1850	Liquid	1
+348.00	0.1840	Liquid	1
+Number	Source
+1	Klushin N.D.; Pogodin V.P.; Vorobev A.F.: Thermal Conductivity of Solutions of Sodium, Potassium, and Caesium Iodides in N-Methyl-2-Pyrrolidinone in the Temperature Range 298-348 K. Zh.Fiz.Khim. 57 (1983) 2873-2875
+$$$Thermal Expansion Coefficient
+T [K]	P [kPa]	Thermal Expansion Coefficient [/K]	State	Reference
+278.15	100.000	0.00079999997979	Liquid	1
+278.15	1000.000	0.000798000022769	Liquid	1
+278.15	5000.000	0.000789999961853	Liquid	1
+278.15	10000.000	0.000780000002123	Liquid	1
+278.15	15000.000	0.000769999984186	Liquid	1
+278.15	20000.000	0.000759999966249	Liquid	1
+288.15	100.000	0.00081900000805	Liquid	1
+288.15	1000.000	0.000815999985207	Liquid	1
+288.15	5000.000	0.000806999974884	Liquid	1
+288.15	10000.000	0.00079600000754	Liquid	1
+288.15	15000.000	0.000784999981988	Liquid	1
+288.15	20000.000	0.000774000014644	Liquid	1
+298.15	100.000	0.000837999978103	Liquid	1
+298.15	1000.000	0.000835000013467	Liquid	1
+298.15	5000.000	0.00082499999553	Liquid	1
+298.15	10000.000	0.000812000012957	Liquid	1
+298.15	15000.000	0.00079999997979	Liquid	1
+298.15	20000.000	0.000788000004832	Liquid	1
+308.15	100.000	0.000858000013977	Liquid	1
+308.15	1000.000	0.000854999991134	Liquid	1
+308.15	5000.000	0.000843000016175	Liquid	1
+308.15	10000.000	0.000829000025988	Liquid	1
+308.15	15000.000	0.000814999977592	Liquid	1
+308.15	20000.000	0.000803000002634	Liquid	1
+318.15	100.000	0.000877999991644	Liquid	1
+318.15	1000.000	0.000874999968801	Liquid	1
+318.15	5000.000	0.000861999986228	Liquid	1
+318.15	10000.000	0.000845999980811	Liquid	1
+318.15	15000.000	0.000830999983009	Liquid	1
+318.15	20000.000	0.000816999992821	Liquid	1
+328.15	100.000	0.00089999998454	Liquid	1
+328.15	1000.000	0.00089600001229	Liquid	1
+328.15	5000.000	0.000881000014488	Liquid	1
+328.15	10000.000	0.000864000001457	Liquid	1
+328.15	15000.000	0.000846999988426	Liquid	1
+328.15	20000.000	0.000830999983009	Liquid	1
+338.15	100.000	0.000921999977436	Liquid	1
+338.15	1000.000	0.000918000005186	Liquid	1
+338.15	5000.000	0.000901999999769	Liquid	1
+338.15	10000.000	0.000882000022102	Liquid	1
+338.15	15000.000	0.000862999993842	Liquid	1
+338.15	20000.000	0.000844999973197	Liquid	1
+348.15	100.000	0.000945999985561	Liquid	1
+348.15	1000.000	0.00094200001331	Liquid	1
+348.15	5000.000	0.000921999977436	Liquid	1
+348.15	10000.000	0.00089999998454	Liquid	1
+348.15	15000.000	0.000877999991644	Liquid	1
+348.15	20000.000	0.000858000013977	Liquid	1
+358.15	100.000	0.0009710000013	Liquid	1
+358.15	1000.000	0.000966000021435	Liquid	1
+358.15	5000.000	0.000943000020925	Liquid	1
+358.15	10000.000	0.000918000005186	Liquid	1
+358.15	15000.000	0.000892999989446	Liquid	1
+358.15	20000.000	0.00087099999655	Liquid	1
+Number	Source
+1	Garcia B.; Aparicio S.; Alcalde R.; Davila M.J.; Leal J.M.: Modeling the PVTx Behavior of the N-Methylpyrrolidinone/Water Mixed Solvent. Ind.Eng.Chem.Res. 43 (2004) 3205-3215
+$$$Vapor Pressure
+T [K]	P [kPa]	State	Reference
+279.15	0.0103	Vapor-Liquid	4
+281.15	0.012	Vapor-Liquid	4
+283.15	0.0141	Vapor-Liquid	4
+285.15	0.0167	Vapor-Liquid	4
+287.15	0.0195	Vapor-Liquid	4
+289.15	0.0231	Vapor-Liquid	4
+291.15	0.0265	Vapor-Liquid	4
+293.15	0.0316	Vapor-Liquid	4
+295.15	0.0369	Vapor-Liquid	4
+297.15	0.0428	Vapor-Liquid	4
+299.15	0.0493	Vapor-Liquid	4
+330.00	0.373	Vapor-Liquid	3
+336.88	0.517	Vapor-Liquid	2
+340.00	0.688	Vapor-Liquid	3
+343.09	0.753	Vapor-Liquid	3
+343.15	0.756	Vapor-Liquid	3
+343.15	0.807	Vapor-Liquid	3
+343.15	0.809	Vapor-Liquid	3
+348.74	1.024	Vapor-Liquid	2
+349.15	0.800	Vapor-Liquid	1
+350.00	1.138	Vapor-Liquid	3
+356.15	1.3332	Vapor-Liquid	1
+360.65	1.600	Vapor-Liquid	1
+361.69	2.000	Vapor-Liquid	6
+365.55	2.2665	Vapor-Liquid	1
+367.18	2.595	Vapor-Liquid	2
+367.91	2.666	Vapor-Liquid	6
+370.00	3.012	Vapor-Liquid	3
+370.15	3.333	Vapor-Liquid	1
+370.29	3.090	Vapor-Liquid	5
+372.92	3.653	Vapor-Liquid	3
+373.15	3.454	Vapor-Liquid	3
+377.15	4.000	Vapor-Liquid	6
+380.65	4.666	Vapor-Liquid	1
+382.95	5.160	Vapor-Liquid	2
+384.04	5.333	Vapor-Liquid	6
+384.75	5.691	Vapor-Liquid	5
+388.85	6.399	Vapor-Liquid	1
+389.30	6.933	Vapor-Liquid	1
+394.30	7.999	Vapor-Liquid	6
+394.35	8.133	Vapor-Liquid	1
+395.95	8.811	Vapor-Liquid	5
+400.74	10.329	Vapor-Liquid	2
+401.98	10.666	Vapor-Liquid	6
+402.75	11.732	Vapor-Liquid	1
+404.15	13.199	Vapor-Liquid	1
+406.25	13.466	Vapor-Liquid	1
+408.00	13.666	Vapor-Liquid	5
+408.19	13.332	Vapor-Liquid	6
+414.63	16.665	Vapor-Liquid	6
+415.40	17.628	Vapor-Liquid	5
+419.99	19.933	Vapor-Liquid	6
+420.71	20.701	Vapor-Liquid	2
+420.82	21.108	Vapor-Liquid	5
+425.00	24.166	Vapor-Liquid	5
+427.02	25.023	Vapor-Liquid	6
+427.65	27.998	Vapor-Liquid	1
+428.77	27.225	Vapor-Liquid	5
+432.26	30.348	Vapor-Liquid	5
+433.46	31.022	Vapor-Liquid	2
+434.11	31.177	Vapor-Liquid	6
+435.46	33.452	Vapor-Liquid	5
+438.32	36.450	Vapor-Liquid	5
+439.35	40.663	Vapor-Liquid	1
+441.10	39.574	Vapor-Liquid	5
+441.22	38.565	Vapor-Liquid	6
+443.20	41.475	Vapor-Liquid	2
+443.39	42.317	Vapor-Liquid	5
+446.05	45.679	Vapor-Liquid	5
+448.39	47.375	Vapor-Liquid	6
+448.40	48.840	Vapor-Liquid	5
+449.25	53.862	Vapor-Liquid	1
+450.51	51.828	Vapor-Liquid	5
+450.92	51.630	Vapor-Liquid	2
+452.60	54.921	Vapor-Liquid	5
+454.68	58.158	Vapor-Liquid	5
+455.58	57.817	Vapor-Liquid	6
+457.25	67.194	Vapor-Liquid	1
+457.69	62.166	Vapor-Liquid	2
+462.82	70.120	Vapor-Liquid	6
+463.49	72.425	Vapor-Liquid	2
+465.15	80.660	Vapor-Liquid	1
+467.35	88.526	Vapor-Liquid	1
+468.75	82.826	Vapor-Liquid	2
+470.10	84.533	Vapor-Liquid	6
+473.15	98.125	Vapor-Liquid	1
+473.41	93.043	Vapor-Liquid	2
+475.24	97.304	Vapor-Liquid	2
+477.36	102.432	Vapor-Liquid	2
+477.42	101.325	Vapor-Liquid	6
+479.15	101.325	Vapor-Liquid	1
+484.77	120.790	Vapor-Liquid	6
+492.17	143.250	Vapor-Liquid	6
+499.60	169.020	Vapor-Liquid	6
+507.08	198.490	Vapor-Liquid	6
+514.58	232.020	Vapor-Liquid	6
+522.13	270.020	Vapor-Liquid	6
+Number	Source
+1	Alekseev V.G.; Bushinskii V.I.; Ermakova Z.V.: Einige thermodynamische Eigenschaften von N-Methylpyrrolidom und seine wässrigen Lösungen. Oniitekhim  (1988) 1-10
+2	Kneisl P.; Zondlo J.W.: Vapor Pressure, Liquid Density, and the Latent Heat of Vaporization as Functions of Temperature for Four Dipolar Aprotic Solvents.. J.Chem.Eng.Data 32 (1987) 11-13
+3	Linek J.; Wichterle I.; Marsh K.N.: Vapor-Liquid Equilibria for N-Methyl-2-pyrrolidone + Benzene, +Toluene, + Heptane, and + Methylcyclohexane. J.Chem.Eng.Data 41 (1996) 1212-1218
+4	Aim K.: Measurement of Vapor-Liquid Equilibrium in Systems with Components of Very Different Volatility by the Total Pressure Static Method. Fluid Phase Equilib. 2 (1978) 119-142
+5	Gierycz P.; Rogalski M.; Malanowski S.: Vapor-Liquid Equilibria in Binary System Formed by N-Methylpyrrolidone with Hydrocarbons and Hydroxyl Derivatives   Vapor-Liquid Equilibria in Binary Systems Formed by N-Methylpyrrolidone with Hydrocarbons and Hydroxyl Derivatives. Fluid Phase Equilib. 22 (1985) 107-122
+6	Steele W.V.; Chirico R.D.; Nguyen A.; Hossenlopp I.A.; Smith N.K.: Determination of Ideal-Gas Enthalpies of Formation for Key Compounds. AIChE Symp.Ser. 86 (1990) 138-154
+$$$Virial Coefficients
+T [K]	Second Virial Coefficient [cm3/mol]	State	Reference
+298.00	-4331.0000	Vapor	1
+323.00	-3462.0000	Vapor	1
+348.00	-2825.0000	Vapor	1
+Number	Source
+1	Technische Hochschule Carl Schorlemmer Leuna-Merseburg, Merseburg (GDR): Unpublished data. Unpublished Data  (1989) 1-360

@@ -1,35 +1,35 @@
-$$$Solid-Liquid Equilibrium Data Set 1425	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C16H34	226.446	544-76-3	Hexadecane	
-T [K]	xL1 [mol/mol]	
-273.15	0.99690	
-283.15	0.98660	
-288.15	0.96770	
-Source	
-Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328	
-$$$Solid-Liquid Equilibrium Data Set 54044	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C16H34	226.446	544-76-3	Hexadecane	
-2	C3H6O	58.080	67-64-1	Acetone	
-T [K]	xL1 [mol/mol]	
-276.99	0.005445	
-282.45	0.012877	
-285.36	0.02112	
-286.80	0.03030	
-286.79	0.04172	
-286.76	0.06086	
-286.72	0.10385	
-287.04	0.15308	
-286.63	0.22191	
-286.58	0.31627	
-286.53	0.44347	
-286.51	0.52427	
-286.50	0.57130	
-286.49	0.62737	
-286.84	0.67819	
-287.92	0.78758	
-288.63	0.86307	
-290.08	1.00000	
-Source	
-Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328	
+$$$Solid-Liquid Equilibrium Data Set 1425
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C16H34	226.446	544-76-3	Hexadecane
+T [K]	xL1 [mol/mol]
+273.15	0.99690
+283.15	0.98660
+288.15	0.96770
+Source
+Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328
+$$$Solid-Liquid Equilibrium Data Set 54044
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C16H34	226.446	544-76-3	Hexadecane
+2	C3H6O	58.080	67-64-1	Acetone
+T [K]	xL1 [mol/mol]
+276.99	0.005445
+282.45	0.012877
+285.36	0.02112
+286.80	0.03030
+286.79	0.04172
+286.76	0.06086
+286.72	0.10385
+287.04	0.15308
+286.63	0.22191
+286.58	0.31627
+286.53	0.44347
+286.51	0.52427
+286.50	0.57130
+286.49	0.62737
+286.84	0.67819
+287.92	0.78758
+288.63	0.86307
+290.08	1.00000
+Source
+Ralston A.W.; Hoerr C.W.; Crews L.T.: Solubilities of some Normal Saturated Aliphatic Hydrocarbons. J.Org.Chem. 9 (1944) 319-328

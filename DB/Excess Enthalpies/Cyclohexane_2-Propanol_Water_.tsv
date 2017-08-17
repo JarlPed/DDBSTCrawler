@@ -1,85 +1,85 @@
-$$$Enthalpy of Mixing Data Set 4791	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	293.150	K	
-hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
-234.880	0.02680	0.69190	
-316.190	0.05700	0.67050	
-384.580	0.08760	0.64870	
-443.260	0.11980	0.62580	
-492.670	0.15360	0.60180	
-533.630	0.18910	0.57660	
-567.150	0.22660	0.54990	
-594.010	0.26620	0.52170	
-615.020	0.30810	0.49190	
-630.780	0.35240	0.46040	
-641.680	0.39950	0.42700	
-647.440	0.44950	0.39140	
-647.060	0.50270	0.35350	
-638.320	0.55950	0.31320	
-617.450	0.62020	0.27000	
-578.630	0.68520	0.22380	
-513.410	0.75520	0.17410	
-411.190	0.83050	0.12050	
-Source	
-Battler J.R.; Clark W.M.; Rowley R.L.: Excess Enthalpy and Liquid-Liquid Equilibrium Surfaces for the Cyclohexane-2-Propanol-Water System from 293.15 to 323.15 K. J.Chem.Eng.Data 30 (1985) 254-259	
-$$$Enthalpy of Mixing Data Set 4792	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
-334.170	0.02680	0.69190	
-422.400	0.05700	0.67050	
-499.550	0.08760	0.64870	
-549.540	0.11980	0.62580	
-606.040	0.15360	0.60180	
-649.220	0.18910	0.57660	
-682.770	0.22660	0.54990	
-710.180	0.26620	0.52170	
-735.170	0.30810	0.49190	
-751.920	0.35240	0.46040	
-762.430	0.39950	0.42700	
-766.900	0.44950	0.39140	
-762.240	0.50270	0.35350	
-743.470	0.55950	0.31320	
-715.240	0.62020	0.27000	
-676.830	0.68520	0.22380	
-605.230	0.75520	0.17410	
-496.670	0.83050	0.12050	
-283.410	0.91180	0.06270	
-Source	
-Battler J.R.; Clark W.M.; Rowley R.L.: Excess Enthalpy and Liquid-Liquid Equilibrium Surfaces for the Cyclohexane-2-Propanol-Water System from 293.15 to 323.15 K. J.Chem.Eng.Data 30 (1985) 254-259	
-$$$Enthalpy of Mixing Data Set 4793	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	303.150	K	
-hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
-367.750	0.02680	0.69190	
-463.070	0.05700	0.67050	
-542.820	0.08760	0.64870	
-607.060	0.11980	0.62580	
-665.350	0.15360	0.60180	
-711.760	0.18910	0.57660	
-749.310	0.22660	0.54990	
-779.860	0.26620	0.52170	
-808.830	0.30810	0.49190	
-825.560	0.35240	0.46040	
-836.040	0.39950	0.42700	
-840.670	0.44950	0.39140	
-834.510	0.50270	0.35350	
-820.230	0.55950	0.31320	
-789.810	0.62020	0.27000	
-745.230	0.68520	0.22380	
-669.660	0.75520	0.17410	
-561.360	0.83050	0.12050	
-387.940	0.91180	0.06270	
-Source	
-Battler J.R.; Clark W.M.; Rowley R.L.: Excess Enthalpy and Liquid-Liquid Equilibrium Surfaces for the Cyclohexane-2-Propanol-Water System from 293.15 to 323.15 K. J.Chem.Eng.Data 30 (1985) 254-259	
-Source	
-Battler J.R.; Clark W.M.; Rowley R.L.: Excess Enthalpy and Liquid-Liquid Equilibrium Surfaces for the Cyclohexane-2-Propanol-Water System from 293.15 to 323.15 K. J.Chem.Eng.Data 30 (1985) 254-259	
+$$$Enthalpy of Mixing Data Set 4791
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C3H8O	60.096	67-63-0	2-Propanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	293.150	K
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]
+234.880	0.02680	0.69190
+316.190	0.05700	0.67050
+384.580	0.08760	0.64870
+443.260	0.11980	0.62580
+492.670	0.15360	0.60180
+533.630	0.18910	0.57660
+567.150	0.22660	0.54990
+594.010	0.26620	0.52170
+615.020	0.30810	0.49190
+630.780	0.35240	0.46040
+641.680	0.39950	0.42700
+647.440	0.44950	0.39140
+647.060	0.50270	0.35350
+638.320	0.55950	0.31320
+617.450	0.62020	0.27000
+578.630	0.68520	0.22380
+513.410	0.75520	0.17410
+411.190	0.83050	0.12050
+Source
+Battler J.R.; Clark W.M.; Rowley R.L.: Excess Enthalpy and Liquid-Liquid Equilibrium Surfaces for the Cyclohexane-2-Propanol-Water System from 293.15 to 323.15 K. J.Chem.Eng.Data 30 (1985) 254-259
+$$$Enthalpy of Mixing Data Set 4792
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C3H8O	60.096	67-63-0	2-Propanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]
+334.170	0.02680	0.69190
+422.400	0.05700	0.67050
+499.550	0.08760	0.64870
+549.540	0.11980	0.62580
+606.040	0.15360	0.60180
+649.220	0.18910	0.57660
+682.770	0.22660	0.54990
+710.180	0.26620	0.52170
+735.170	0.30810	0.49190
+751.920	0.35240	0.46040
+762.430	0.39950	0.42700
+766.900	0.44950	0.39140
+762.240	0.50270	0.35350
+743.470	0.55950	0.31320
+715.240	0.62020	0.27000
+676.830	0.68520	0.22380
+605.230	0.75520	0.17410
+496.670	0.83050	0.12050
+283.410	0.91180	0.06270
+Source
+Battler J.R.; Clark W.M.; Rowley R.L.: Excess Enthalpy and Liquid-Liquid Equilibrium Surfaces for the Cyclohexane-2-Propanol-Water System from 293.15 to 323.15 K. J.Chem.Eng.Data 30 (1985) 254-259
+$$$Enthalpy of Mixing Data Set 4793
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C3H8O	60.096	67-63-0	2-Propanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	303.150	K
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]
+367.750	0.02680	0.69190
+463.070	0.05700	0.67050
+542.820	0.08760	0.64870
+607.060	0.11980	0.62580
+665.350	0.15360	0.60180
+711.760	0.18910	0.57660
+749.310	0.22660	0.54990
+779.860	0.26620	0.52170
+808.830	0.30810	0.49190
+825.560	0.35240	0.46040
+836.040	0.39950	0.42700
+840.670	0.44950	0.39140
+834.510	0.50270	0.35350
+820.230	0.55950	0.31320
+789.810	0.62020	0.27000
+745.230	0.68520	0.22380
+669.660	0.75520	0.17410
+561.360	0.83050	0.12050
+387.940	0.91180	0.06270
+Source
+Battler J.R.; Clark W.M.; Rowley R.L.: Excess Enthalpy and Liquid-Liquid Equilibrium Surfaces for the Cyclohexane-2-Propanol-Water System from 293.15 to 323.15 K. J.Chem.Eng.Data 30 (1985) 254-259
+Source
+Battler J.R.; Clark W.M.; Rowley R.L.: Excess Enthalpy and Liquid-Liquid Equilibrium Surfaces for the Cyclohexane-2-Propanol-Water System from 293.15 to 323.15 K. J.Chem.Eng.Data 30 (1985) 254-259

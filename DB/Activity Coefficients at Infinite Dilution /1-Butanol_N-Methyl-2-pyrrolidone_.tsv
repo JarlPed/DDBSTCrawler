@@ -1,8 +1,8 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	0.7300	GLCR	1	
-Short Term	Explanation	
-GLCR	GLC (with gas phase correction)	
-1	Sitnyakovskii I.B.; Gaile A.A.; Semenov L.V.: Selectivity of Solvents in Separation of Mixtures of Oxygen-Containing Organic Compounds. J.Appl.Chem.USSR 62 (1989) 2564-2566	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	0.7300	GLCR	1
+Short Term	Explanation
+GLCR	GLC (with gas phase correction)
+1	Sitnyakovskii I.B.; Gaile A.A.; Semenov L.V.: Selectivity of Solvents in Separation of Mixtures of Oxygen-Containing Organic Compounds. J.Appl.Chem.USSR 62 (1989) 2564-2566

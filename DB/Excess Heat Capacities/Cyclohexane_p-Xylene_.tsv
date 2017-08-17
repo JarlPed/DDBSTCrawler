@@ -1,35 +1,35 @@
-$$$Excess Heat Capacity Data Set 421	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--0.6947	0.25370	
--1.1914	0.50270	
--1.0095	0.74150	
-Source	
-Rajagopal E.; Subrahmanyam S.V.: Excess Thermodynamic Functions of the Systems Cyclohexane+Isomeric Xylenes. Bull.Chem.Soc.Japan 54 (1981) 282-284	
-$$$Excess Heat Capacity Data Set 422	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	313.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--0.6425	0.25370	
-1.2102	0.50270	
--1.0646	0.74150	
-Source	
-Rajagopal E.; Subrahmanyam S.V.: Excess Thermodynamic Functions of the Systems Cyclohexane+Isomeric Xylenes. Bull.Chem.Soc.Japan 54 (1981) 282-284	
-$$$Excess Heat Capacity Data Set 423	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	323.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--0.2649	0.25370	
--0.6379	0.50270	
--0.4455	0.74150	
-Source	
-Rajagopal E.; Subrahmanyam S.V.: Excess Thermodynamic Functions of the Systems Cyclohexane+Isomeric Xylenes. Bull.Chem.Soc.Japan 54 (1981) 282-284	
-Source	
-Rajagopal E.; Subrahmanyam S.V.: Excess Thermodynamic Functions of the Systems Cyclohexane+Isomeric Xylenes. Bull.Chem.Soc.Japan 54 (1981) 282-284	
+$$$Excess Heat Capacity Data Set 421
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-0.6947	0.25370
+-1.1914	0.50270
+-1.0095	0.74150
+Source
+Rajagopal E.; Subrahmanyam S.V.: Excess Thermodynamic Functions of the Systems Cyclohexane+Isomeric Xylenes. Bull.Chem.Soc.Japan 54 (1981) 282-284
+$$$Excess Heat Capacity Data Set 422
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	313.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-0.6425	0.25370
+1.2102	0.50270
+-1.0646	0.74150
+Source
+Rajagopal E.; Subrahmanyam S.V.: Excess Thermodynamic Functions of the Systems Cyclohexane+Isomeric Xylenes. Bull.Chem.Soc.Japan 54 (1981) 282-284
+$$$Excess Heat Capacity Data Set 423
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	323.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-0.2649	0.25370
+-0.6379	0.50270
+-0.4455	0.74150
+Source
+Rajagopal E.; Subrahmanyam S.V.: Excess Thermodynamic Functions of the Systems Cyclohexane+Isomeric Xylenes. Bull.Chem.Soc.Japan 54 (1981) 282-284
+Source
+Rajagopal E.; Subrahmanyam S.V.: Excess Thermodynamic Functions of the Systems Cyclohexane+Isomeric Xylenes. Bull.Chem.Soc.Japan 54 (1981) 282-284

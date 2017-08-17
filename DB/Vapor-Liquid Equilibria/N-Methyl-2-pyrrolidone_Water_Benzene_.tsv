@@ -1,12 +1,12 @@
-$$$Vapor-Liquid Equilibrium Data Set 18392	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	H2O	18.015	7732-18-5	Water	
-3	C6H6	78.114	71-43-2	Benzene	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
-360.35	0.42000	0.28000	0.00070	0.40510	
-347.05	0.21000	0.14000	0.00040	0.34280	
-Source	
-Miroshnichenko A.A.; Belikova L.D.; Kolesnikova L.A.: Study of Liquid-Vapor Equilibrium in Systems including Benzene,Thiophene,Polar Organic Solvents and Water. Koks Khim.  (1978) 35-37	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 18392
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	H2O	18.015	7732-18-5	Water
+3	C6H6	78.114	71-43-2	Benzene
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]
+360.35	0.42000	0.28000	0.00070	0.40510
+347.05	0.21000	0.14000	0.00040	0.34280
+Source
+Miroshnichenko A.A.; Belikova L.D.; Kolesnikova L.A.: Study of Liquid-Vapor Equilibrium in Systems including Benzene,Thiophene,Polar Organic Solvents and Water. Koks Khim.  (1978) 35-37
+Source

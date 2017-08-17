@@ -1,41 +1,41 @@
-$$$Density Data Set 64725	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9971	4.21671984441E-6	0.00000	
-0.9240	0.002533	0.19950	
-0.8804	0.02692	0.38924	
-0.8656	0.08365	0.54982	
-0.8648	0.15805	0.67355	
-0.8776	0.23322	0.76678	
-Source	
-Van Meter F.M.; Neumann H.M.: Solvation of the Tris(1,10-phenanthroline)iron(II) Cation as Measured by Solubility and Nuclear Magnetic Resonance Shifts. J.Am.Chem.Soc. 98 (1976) 1382-1388	
-$$$Density Data Set 74220	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9880	7.74128966441E-6	0.01760	
-0.9670	3.33364987455E-5	0.05570	
-0.9510	0.000106972998765	0.09069	
-0.9370	0.000387378997402	0.13385	
-0.9200	0.000600722967647	0.18149	
-0.9040	0.002876	0.22545	
-0.8890	0.00658	0.27717	
-0.8730	0.020023	0.36789	
-0.8640	0.03541	0.42954	
-0.8530	0.05759	0.49656	
-0.8530	0.10020	0.58361	
-0.8520	0.12184	0.61586	
-0.8540	0.16927	0.67439	
-0.8610	0.25493	0.74507	
-Source	
-LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497	
-Source	
-LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497	
-Van Meter F.M.; Neumann H.M.: Solvation of the Tris(1,10-phenanthroline)iron(II) Cation as Measured by Solubility and Nuclear Magnetic Resonance Shifts. J.Am.Chem.Soc. 98 (1976) 1382-1388	
+$$$Density Data Set 64725
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C3H6O	58.080	67-64-1	Acetone
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9971	4.21671984441E-6	0.00000
+0.9240	0.002533	0.19950
+0.8804	0.02692	0.38924
+0.8656	0.08365	0.54982
+0.8648	0.15805	0.67355
+0.8776	0.23322	0.76678
+Source
+Van Meter F.M.; Neumann H.M.: Solvation of the Tris(1,10-phenanthroline)iron(II) Cation as Measured by Solubility and Nuclear Magnetic Resonance Shifts. J.Am.Chem.Soc. 98 (1976) 1382-1388
+$$$Density Data Set 74220
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C3H6O	58.080	67-64-1	Acetone
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9880	7.74128966441E-6	0.01760
+0.9670	3.33364987455E-5	0.05570
+0.9510	0.000106972998765	0.09069
+0.9370	0.000387378997402	0.13385
+0.9200	0.000600722967647	0.18149
+0.9040	0.002876	0.22545
+0.8890	0.00658	0.27717
+0.8730	0.020023	0.36789
+0.8640	0.03541	0.42954
+0.8530	0.05759	0.49656
+0.8530	0.10020	0.58361
+0.8520	0.12184	0.61586
+0.8540	0.16927	0.67439
+0.8610	0.25493	0.74507
+Source
+LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497
+Source
+LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497
+Van Meter F.M.; Neumann H.M.: Solvation of the Tris(1,10-phenanthroline)iron(II) Cation as Measured by Solubility and Nuclear Magnetic Resonance Shifts. J.Am.Chem.Soc. 98 (1976) 1382-1388

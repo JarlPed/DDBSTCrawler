@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	1.2200	GLCR	2	
-313.15	1.5800	GLCN	1	
-318.15	1.4600	GLCN	1	
-Short Term	Explanation	
-GLCN	GLC (not specified)	
-GLCR	GLC (with gas phase correction)	
-1	Shaposhnikov J.K.; Lichotkin E.S.: Gaschromatographische Untersuchung der Lösung von einigen organischen Stoffen in N-Methylpyrrolidon. Neftekhimya 10 (1970) 616-619	
-2	Sitnyakovskii I.B.; Gaile A.A.; Semenov L.V.: Selectivity of Solvents in Separation of Mixtures of Oxygen-Containing Organic Compounds. J.Appl.Chem.USSR 62 (1989) 2564-2566	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	1.2200	GLCR	2
+313.15	1.5800	GLCN	1
+318.15	1.4600	GLCN	1
+Short Term	Explanation
+GLCN	GLC (not specified)
+GLCR	GLC (with gas phase correction)
+1	Shaposhnikov J.K.; Lichotkin E.S.: Gaschromatographische Untersuchung der Lösung von einigen organischen Stoffen in N-Methylpyrrolidon. Neftekhimya 10 (1970) 616-619
+2	Sitnyakovskii I.B.; Gaile A.A.; Semenov L.V.: Selectivity of Solvents in Separation of Mixtures of Oxygen-Containing Organic Compounds. J.Appl.Chem.USSR 62 (1989) 2564-2566

@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	281.150	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	333.250	n.a.	n.a.	n.a.	n.a.	Author	3	
-none	354.220	n.a.	n.a.	n.a.	n.a.	Author	2	
-none	zeotropic	
-1	Aim K.: Measurement of Vapor-Liquid Equilibrium in Systems with Components of Very Different Volatility by the Total Pressure Static Method. Fluid Phase Equilib. 2 (1978) 119-142	
-2	Rogalski M.; Malanowski S.: Ebulliometers Modified for the Accurate Determination of Vapor-Liquid Equilibrium. Fluid Phase Equilib. 5 (1980) 97-112	
-3	Gierycz P.; Rogalski M.; Malanowski S.: Vapor-Liquid Equilibria in Binary System Formed by N-Methylpyrrolidone with Hydrocarbons and Hydroxyl Derivatives   Vapor-Liquid Equilibria in Binary Systems Formed by N-Methylpyrrolidone with Hydrocarbons and Hydroxyl Derivatives. Fluid Phase Equilib. 22 (1985) 107-122	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	281.150	n.a.	n.a.	n.a.	n.a.	Author	1
+none	333.250	n.a.	n.a.	n.a.	n.a.	Author	3
+none	354.220	n.a.	n.a.	n.a.	n.a.	Author	2
+none	zeotropic
+1	Aim K.: Measurement of Vapor-Liquid Equilibrium in Systems with Components of Very Different Volatility by the Total Pressure Static Method. Fluid Phase Equilib. 2 (1978) 119-142
+2	Rogalski M.; Malanowski S.: Ebulliometers Modified for the Accurate Determination of Vapor-Liquid Equilibrium. Fluid Phase Equilib. 5 (1980) 97-112
+3	Gierycz P.; Rogalski M.; Malanowski S.: Vapor-Liquid Equilibria in Binary System Formed by N-Methylpyrrolidone with Hydrocarbons and Hydroxyl Derivatives   Vapor-Liquid Equilibria in Binary Systems Formed by N-Methylpyrrolidone with Hydrocarbons and Hydroxyl Derivatives. Fluid Phase Equilib. 22 (1985) 107-122

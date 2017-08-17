@@ -1,71 +1,71 @@
-$$$Enthalpy of Mixing Data Set 936	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C2H3N	41.053	75-05-8	Acetic acid butyl ester	
-Temperature	321.350	K	
-hE [J/mol]	x1 [mol/mol]	
-77.414	0.10330	
-124.180	0.19810	
-194.686	0.30190	
-244.216	0.40430	
-277.543	0.51740	
-271.053	0.58450	
-226.966	0.70130	
-184.470	0.80090	
-114.007	0.90230	
-Source	
-Kesarwani V.S.; Chandak B.S.; Kher M.G.: Acetonitrile-Toluene Systems. Chem.Petro-Chem.J. 10 (1979) 3-8	
-$$$Enthalpy of Mixing Data Set 6604	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C2H3N	41.053	75-05-8	Acetic acid butyl ester	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-102.577	0.10000	
-186.313	0.20000	
-251.208	0.30000	
-301.450	0.40000	
-330.757	0.50000	
-337.037	0.60000	
-314.010	0.70000	
-251.208	0.80000	
-146.538	0.90000	
-Source	
-Mato F.; Cabezas J.L.; Coca J.: Equilibrio Liquido-Vapor Isobarico y Calor de Mezcla. Anal.Quim. 69 (1973) 123-128	
-$$$Enthalpy of Mixing Data Set 10047	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C2H3N	41.053	75-05-8	Acetic acid butyl ester	
-Temperature	363.150	K	
-Pressure	18.910	bar	
-hE [J/mol]	x1 [mol/mol]	
-46.466	0.03060	
-86.144	0.06010	
-163.576	0.11610	
-216.471	0.16820	
-279.255	0.21700	
-313.864	0.26280	
-359.668	0.30570	
-413.359	0.38410	
-444.063	0.45400	
-458.775	0.51670	
-458.525	0.57330	
-448.103	0.62450	
-430.628	0.67120	
-413.801	0.71390	
-380.844	0.75300	
-350.370	0.78910	
-318.566	0.82250	
-280.003	0.85340	
-238.451	0.88210	
-194.503	0.90890	
-148.572	0.93390	
-100.743	0.95740	
-51.209	0.97930	
-26.514	0.98980	
-Source	
-Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
-Source	
-Mato F.; Cabezas J.L.; Coca J.: Equilibrio Liquido-Vapor Isobarico y Calor de Mezcla. Anal.Quim. 69 (1973) 123-128	
-Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
-Kesarwani V.S.; Chandak B.S.; Kher M.G.: Acetonitrile-Toluene Systems. Chem.Petro-Chem.J. 10 (1979) 3-8	
+$$$Enthalpy of Mixing Data Set 936
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C2H3N	41.053	75-05-8	Acetic acid butyl ester
+Temperature	321.350	K
+hE [J/mol]	x1 [mol/mol]
+77.414	0.10330
+124.180	0.19810
+194.686	0.30190
+244.216	0.40430
+277.543	0.51740
+271.053	0.58450
+226.966	0.70130
+184.470	0.80090
+114.007	0.90230
+Source
+Kesarwani V.S.; Chandak B.S.; Kher M.G.: Acetonitrile-Toluene Systems. Chem.Petro-Chem.J. 10 (1979) 3-8
+$$$Enthalpy of Mixing Data Set 6604
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C2H3N	41.053	75-05-8	Acetic acid butyl ester
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+102.577	0.10000
+186.313	0.20000
+251.208	0.30000
+301.450	0.40000
+330.757	0.50000
+337.037	0.60000
+314.010	0.70000
+251.208	0.80000
+146.538	0.90000
+Source
+Mato F.; Cabezas J.L.; Coca J.: Equilibrio Liquido-Vapor Isobarico y Calor de Mezcla. Anal.Quim. 69 (1973) 123-128
+$$$Enthalpy of Mixing Data Set 10047
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C2H3N	41.053	75-05-8	Acetic acid butyl ester
+Temperature	363.150	K
+Pressure	18.910	bar
+hE [J/mol]	x1 [mol/mol]
+46.466	0.03060
+86.144	0.06010
+163.576	0.11610
+216.471	0.16820
+279.255	0.21700
+313.864	0.26280
+359.668	0.30570
+413.359	0.38410
+444.063	0.45400
+458.775	0.51670
+458.525	0.57330
+448.103	0.62450
+430.628	0.67120
+413.801	0.71390
+380.844	0.75300
+350.370	0.78910
+318.566	0.82250
+280.003	0.85340
+238.451	0.88210
+194.503	0.90890
+148.572	0.93390
+100.743	0.95740
+51.209	0.97930
+26.514	0.98980
+Source
+Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43
+Source
+Mato F.; Cabezas J.L.; Coca J.: Equilibrio Liquido-Vapor Isobarico y Calor de Mezcla. Anal.Quim. 69 (1973) 123-128
+Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43
+Kesarwani V.S.; Chandak B.S.; Kher M.G.: Acetonitrile-Toluene Systems. Chem.Petro-Chem.J. 10 (1979) 3-8

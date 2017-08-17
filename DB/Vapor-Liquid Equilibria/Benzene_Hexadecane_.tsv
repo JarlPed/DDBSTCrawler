@@ -1,73 +1,73 @@
-$$$Vapor-Liquid Equilibrium Data Set 5046	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	313.15	K	
-P [kPa]	x1 [mol/mol]	
-8.599	0.34900	
-10.919	0.44300	
-12.532	0.50900	
-14.465	0.58000	
-15.919	0.63500	
-17.759	0.71400	
-18.798	0.76500	
-20.118	0.81800	
-20.798	0.85000	
-22.491	0.91700	
-23.251	0.95700	
-24.078	0.99400	
-24.331	1.00000	
-Source	
-Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228	
-$$$Vapor-Liquid Equilibrium Data Set 5047	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	333.15	K	
-P [kPa]	x1 [mol/mol]	
-0.00266644730882	0.00000	
-7.719	0.15600	
-9.226	0.18600	
-12.972	0.26000	
-18.119	0.35900	
-22.758	0.44300	
-26.305	0.50900	
-30.198	0.58000	
-33.424	0.63500	
-37.317	0.71400	
-39.903	0.76500	
-42.676	0.81800	
-44.410	0.85000	
-48.023	0.91700	
-49.889	0.95700	
-51.676	0.99400	
-52.022	1.00000	
-Source	
-Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228	
-$$$Vapor-Liquid Equilibrium Data Set 5048	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	353.15	K	
-P [kPa]	x1 [mol/mol]	
-0.014665	0.00000	
-11.199	0.12300	
-15.919	0.17600	
-21.198	0.23300	
-22.478	0.24600	
-33.304	0.35900	
-41.943	0.44300	
-49.116	0.50900	
-56.889	0.58000	
-63.021	0.63500	
-71.061	0.71400	
-76.727	0.76500	
-81.993	0.81800	
-85.420	0.85000	
-92.859	0.91700	
-96.619	0.95700	
-100.552	1.00000	
-Source	
-Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228	
-Source	
-Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228	
+$$$Vapor-Liquid Equilibrium Data Set 5046
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	313.15	K
+P [kPa]	x1 [mol/mol]
+8.599	0.34900
+10.919	0.44300
+12.532	0.50900
+14.465	0.58000
+15.919	0.63500
+17.759	0.71400
+18.798	0.76500
+20.118	0.81800
+20.798	0.85000
+22.491	0.91700
+23.251	0.95700
+24.078	0.99400
+24.331	1.00000
+Source
+Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228
+$$$Vapor-Liquid Equilibrium Data Set 5047
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	333.15	K
+P [kPa]	x1 [mol/mol]
+0.00266644730882	0.00000
+7.719	0.15600
+9.226	0.18600
+12.972	0.26000
+18.119	0.35900
+22.758	0.44300
+26.305	0.50900
+30.198	0.58000
+33.424	0.63500
+37.317	0.71400
+39.903	0.76500
+42.676	0.81800
+44.410	0.85000
+48.023	0.91700
+49.889	0.95700
+51.676	0.99400
+52.022	1.00000
+Source
+Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228
+$$$Vapor-Liquid Equilibrium Data Set 5048
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	353.15	K
+P [kPa]	x1 [mol/mol]
+0.014665	0.00000
+11.199	0.12300
+15.919	0.17600
+21.198	0.23300
+22.478	0.24600
+33.304	0.35900
+41.943	0.44300
+49.116	0.50900
+56.889	0.58000
+63.021	0.63500
+71.061	0.71400
+76.727	0.76500
+81.993	0.81800
+85.420	0.85000
+92.859	0.91700
+96.619	0.95700
+100.552	1.00000
+Source
+Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228
+Source
+Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228

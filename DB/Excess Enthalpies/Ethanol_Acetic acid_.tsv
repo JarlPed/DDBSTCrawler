@@ -1,48 +1,48 @@
-$$$Enthalpy of Mixing Data Set 6522	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-99.860	0.02880	
-186.270	0.06550	
-244.020	0.10420	
-308.250	0.14260	
-336.550	0.18440	
-352.950	0.23810	
-350.730	0.30420	
-302.900	0.41030	
-239.780	0.50850	
-156.210	0.60800	
-80.960	0.71230	
-44.620	0.81200	
-23.020	0.88640	
-10.840	0.94230	
-Source	
-Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818	
-$$$Enthalpy of Mixing Data Set 22408	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	323.150	K	
-Pressure	15.480	bar	
-hE [J/mol]	x1 [mol/mol]	
-45.100	0.02470	
-84.400	0.04930	
-145.000	0.09870	
-196.000	0.17290	
-215.000	0.24730	
-212.000	0.34670	
-182.000	0.44640	
-148.000	0.54640	
-111.000	0.64670	
-80.300	0.74730	
-60.800	0.82290	
-38.900	0.89870	
-21.100	0.94930	
-11.700	0.97460	
-Source	
-Brandt S.; Horstmann S.; Steinigeweg S.; Gmehling J.: Part II. Ethyl acetate synthesis. Fluid Phase Equilib. 376 (2014) 48-54	
-Source	
-Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818	
-Brandt S.; Horstmann S.; Steinigeweg S.; Gmehling J.: Part II. Ethyl acetate synthesis. Fluid Phase Equilib. 376 (2014) 48-54	
+$$$Enthalpy of Mixing Data Set 6522
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+99.860	0.02880
+186.270	0.06550
+244.020	0.10420
+308.250	0.14260
+336.550	0.18440
+352.950	0.23810
+350.730	0.30420
+302.900	0.41030
+239.780	0.50850
+156.210	0.60800
+80.960	0.71230
+44.620	0.81200
+23.020	0.88640
+10.840	0.94230
+Source
+Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818
+$$$Enthalpy of Mixing Data Set 22408
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	323.150	K
+Pressure	15.480	bar
+hE [J/mol]	x1 [mol/mol]
+45.100	0.02470
+84.400	0.04930
+145.000	0.09870
+196.000	0.17290
+215.000	0.24730
+212.000	0.34670
+182.000	0.44640
+148.000	0.54640
+111.000	0.64670
+80.300	0.74730
+60.800	0.82290
+38.900	0.89870
+21.100	0.94930
+11.700	0.97460
+Source
+Brandt S.; Horstmann S.; Steinigeweg S.; Gmehling J.: Part II. Ethyl acetate synthesis. Fluid Phase Equilib. 376 (2014) 48-54
+Source
+Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818
+Brandt S.; Horstmann S.; Steinigeweg S.; Gmehling J.: Part II. Ethyl acetate synthesis. Fluid Phase Equilib. 376 (2014) 48-54

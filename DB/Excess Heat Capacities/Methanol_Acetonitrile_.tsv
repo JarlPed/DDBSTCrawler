@@ -1,56 +1,56 @@
-$$$Excess Heat Capacity Data Set 1433	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	278.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-0.7937	0.06379	
-1.4346	0.10400	
-2.3570	0.15202	
-3.0300	0.19938	
-3.0706	0.20203	
-4.0944	0.28121	
-4.7446	0.35724	
-4.9565	0.39301	
-5.1623	0.44584	
-5.1071	0.54799	
-4.8620	0.60176	
-4.1992	0.69930	
-3.7592	0.74534	
-3.1160	0.80028	
-2.4424	0.84982	
-1.7149	0.90010	
-0.8960	0.94800	
-Source	
-Piekarski H.; Somsen G.: Heat Capacities and Volumes of Methanol + Acetonitrile Mixtures at 5 and 25°C. J.Solution Chem. 21 (1992) 557-567	
-$$$Excess Heat Capacity Data Set 1434	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-0.3806	0.05280	
-1.0055	0.09791	
-1.9467	0.15390	
-2.9325	0.22040	
-3.8775	0.29390	
-3.9647	0.30040	
-4.5621	0.36001	
-4.9599	0.45410	
-4.9278	0.49529	
-4.9937	0.50311	
-4.9442	0.57691	
-4.8666	0.60279	
-4.5434	0.65971	
-3.9888	0.72770	
-3.2674	0.79891	
-3.0861	0.80731	
-2.5433	0.84830	
-2.0254	0.88211	
-1.8121	0.89671	
-1.7334	0.90170	
-0.9952	0.94510	
-Source	
-Piekarski H.; Somsen G.: Heat Capacities and Volumes of Methanol + Acetonitrile Mixtures at 5 and 25°C. J.Solution Chem. 21 (1992) 557-567	
-Source	
-Piekarski H.; Somsen G.: Heat Capacities and Volumes of Methanol + Acetonitrile Mixtures at 5 and 25°C. J.Solution Chem. 21 (1992) 557-567	
+$$$Excess Heat Capacity Data Set 1433
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	278.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+0.7937	0.06379
+1.4346	0.10400
+2.3570	0.15202
+3.0300	0.19938
+3.0706	0.20203
+4.0944	0.28121
+4.7446	0.35724
+4.9565	0.39301
+5.1623	0.44584
+5.1071	0.54799
+4.8620	0.60176
+4.1992	0.69930
+3.7592	0.74534
+3.1160	0.80028
+2.4424	0.84982
+1.7149	0.90010
+0.8960	0.94800
+Source
+Piekarski H.; Somsen G.: Heat Capacities and Volumes of Methanol + Acetonitrile Mixtures at 5 and 25°C. J.Solution Chem. 21 (1992) 557-567
+$$$Excess Heat Capacity Data Set 1434
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+0.3806	0.05280
+1.0055	0.09791
+1.9467	0.15390
+2.9325	0.22040
+3.8775	0.29390
+3.9647	0.30040
+4.5621	0.36001
+4.9599	0.45410
+4.9278	0.49529
+4.9937	0.50311
+4.9442	0.57691
+4.8666	0.60279
+4.5434	0.65971
+3.9888	0.72770
+3.2674	0.79891
+3.0861	0.80731
+2.5433	0.84830
+2.0254	0.88211
+1.8121	0.89671
+1.7334	0.90170
+0.9952	0.94510
+Source
+Piekarski H.; Somsen G.: Heat Capacities and Volumes of Methanol + Acetonitrile Mixtures at 5 and 25°C. J.Solution Chem. 21 (1992) 557-567
+Source
+Piekarski H.; Somsen G.: Heat Capacities and Volumes of Methanol + Acetonitrile Mixtures at 5 and 25°C. J.Solution Chem. 21 (1992) 557-567

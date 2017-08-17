@@ -1,25 +1,25 @@
-$$$Enthalpy of Mixing Data Set 7174	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.200	K	
-hE [J/mol]	x1 [mol/mol]	
-531.700	0.07940	
-661.400	0.11040	
-780.400	0.16360	
-849.400	0.24310	
-850.300	0.28140	
-849.900	0.31780	
-818.700	0.41970	
-775.900	0.47790	
-757.900	0.51030	
-696.200	0.57510	
-658.400	0.60490	
-545.800	0.70320	
-405.100	0.79210	
-287.500	0.85980	
-157.800	0.92230	
-Source	
-Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770	
-Source	
-Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770	
+$$$Enthalpy of Mixing Data Set 7174
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.200	K
+hE [J/mol]	x1 [mol/mol]
+531.700	0.07940
+661.400	0.11040
+780.400	0.16360
+849.400	0.24310
+850.300	0.28140
+849.900	0.31780
+818.700	0.41970
+775.900	0.47790
+757.900	0.51030
+696.200	0.57510
+658.400	0.60490
+545.800	0.70320
+405.100	0.79210
+287.500	0.85980
+157.800	0.92230
+Source
+Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770
+Source
+Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770

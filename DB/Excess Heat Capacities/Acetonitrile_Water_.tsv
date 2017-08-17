@@ -1,105 +1,105 @@
-$$$Excess Heat Capacity Data Set 317	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-2.2000	0.02400	
-4.0000	0.04700	
-4.9000	0.08000	
-4.8000	0.10000	
-5.8000	0.15000	
-6.8000	0.20300	
-6.9000	0.25000	
-7.7000	0.28000	
-8.7000	0.36400	
-8.9000	0.39900	
-9.1000	0.42200	
-9.0200	0.50400	
-9.4000	0.60000	
-8.8000	0.67100	
-7.4000	0.75600	
-5.7000	0.82500	
-3.5000	0.89200	
-1.9000	0.94000	
-Source	
-de Visser C.; Heuvelsland W.J.M.; Dunn L.A.; Somsen G.: Apparent Molar Volumes and Heat Capacities at 298.15 K Over the Whole Mole Fractions Range. J.Chem.Soc.Faraday Trans.1 74 (1978) 1159-1169	
-$$$Excess Heat Capacity Data Set 905	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-2.1500	0.02501	
-3.5100	0.05003	
-4.7100	0.10005	
-5.2500	0.15007	
-5.9100	0.20009	
-6.6100	0.25010	
-7.2300	0.30012	
-7.8300	0.35012	
-8.2800	0.40013	
-8.5400	0.45014	
-8.6800	0.50013	
-8.6200	0.55013	
-8.4000	0.60013	
-7.9300	0.65012	
-7.3600	0.70012	
-6.4900	0.75010	
-5.4300	0.80009	
-4.0900	0.85007	
-2.5700	0.90005	
-1.0500	0.95003	
-Source	
-Nakamura M.; Tamura K.; Murakami S.: Isotope effects on thermodynamic properties: mixtures of x(D2O or H2O) + (1 - x)CH3CN at 298.15 K. Thermochim.Acta 253 (1995) 127-136	
-$$$Excess Heat Capacity Data Set 1705	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-0.5060	0.00525	
-1.3140	0.01469	
-2.0700	0.02453	
-2.7700	0.03575	
-3.3900	0.04911	
-3.7900	0.06082	
-4.0400	0.06989	
-4.2400	0.07980	
-4.4400	0.09115	
-4.5300	0.09912	
-4.9000	0.12634	
-4.9800	0.13875	
-5.1400	0.14771	
-5.3400	0.16914	
-5.7300	0.19772	
-5.9300	0.21566	
-6.0800	0.22811	
-6.3700	0.24766	
-6.6900	0.26947	
-7.0600	0.29883	
-7.0600	0.30496	
-7.6800	0.35594	
-8.0900	0.39527	
-8.0500	0.40014	
-8.2600	0.44592	
-8.3000	0.49022	
-8.3800	0.50267	
-8.1800	0.53832	
-8.2900	0.54995	
-7.5400	0.65972	
-7.1300	0.69507	
-6.0600	0.76022	
-5.1500	0.79874	
-3.6600	0.85309	
-2.8800	0.87694	
-2.2800	0.89705	
-1.7300	0.91631	
-0.9400	0.94523	
-0.3100	0.97196	
-Source	
-Benson G.C.; D´Arcy P. J.; Handa Y.P.: V. Isobaric Heat Capacities and Ultrasonic Speeds for Water + Ethanenitrile Mixtures at 25°C. Thermochim.Acta 46 (1981) 295-301	
-Source	
-de Visser C.; Heuvelsland W.J.M.; Dunn L.A.; Somsen G.: Apparent Molar Volumes and Heat Capacities at 298.15 K Over the Whole Mole Fractions Range. J.Chem.Soc.Faraday Trans.1 74 (1978) 1159-1169	
-Nakamura M.; Tamura K.; Murakami S.: Isotope effects on thermodynamic properties: mixtures of x(D2O or H2O) + (1 - x)CH3CN at 298.15 K. Thermochim.Acta 253 (1995) 127-136	
-Benson G.C.; D´Arcy P. J.; Handa Y.P.: V. Isobaric Heat Capacities and Ultrasonic Speeds for Water + Ethanenitrile Mixtures at 25°C. Thermochim.Acta 46 (1981) 295-301	
+$$$Excess Heat Capacity Data Set 317
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	H2O	18.015	7732-18-5	Water
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+2.2000	0.02400
+4.0000	0.04700
+4.9000	0.08000
+4.8000	0.10000
+5.8000	0.15000
+6.8000	0.20300
+6.9000	0.25000
+7.7000	0.28000
+8.7000	0.36400
+8.9000	0.39900
+9.1000	0.42200
+9.0200	0.50400
+9.4000	0.60000
+8.8000	0.67100
+7.4000	0.75600
+5.7000	0.82500
+3.5000	0.89200
+1.9000	0.94000
+Source
+de Visser C.; Heuvelsland W.J.M.; Dunn L.A.; Somsen G.: Apparent Molar Volumes and Heat Capacities at 298.15 K Over the Whole Mole Fractions Range. J.Chem.Soc.Faraday Trans.1 74 (1978) 1159-1169
+$$$Excess Heat Capacity Data Set 905
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	H2O	18.015	7732-18-5	Water
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+2.1500	0.02501
+3.5100	0.05003
+4.7100	0.10005
+5.2500	0.15007
+5.9100	0.20009
+6.6100	0.25010
+7.2300	0.30012
+7.8300	0.35012
+8.2800	0.40013
+8.5400	0.45014
+8.6800	0.50013
+8.6200	0.55013
+8.4000	0.60013
+7.9300	0.65012
+7.3600	0.70012
+6.4900	0.75010
+5.4300	0.80009
+4.0900	0.85007
+2.5700	0.90005
+1.0500	0.95003
+Source
+Nakamura M.; Tamura K.; Murakami S.: Isotope effects on thermodynamic properties: mixtures of x(D2O or H2O) + (1 - x)CH3CN at 298.15 K. Thermochim.Acta 253 (1995) 127-136
+$$$Excess Heat Capacity Data Set 1705
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	H2O	18.015	7732-18-5	Water
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+0.5060	0.00525
+1.3140	0.01469
+2.0700	0.02453
+2.7700	0.03575
+3.3900	0.04911
+3.7900	0.06082
+4.0400	0.06989
+4.2400	0.07980
+4.4400	0.09115
+4.5300	0.09912
+4.9000	0.12634
+4.9800	0.13875
+5.1400	0.14771
+5.3400	0.16914
+5.7300	0.19772
+5.9300	0.21566
+6.0800	0.22811
+6.3700	0.24766
+6.6900	0.26947
+7.0600	0.29883
+7.0600	0.30496
+7.6800	0.35594
+8.0900	0.39527
+8.0500	0.40014
+8.2600	0.44592
+8.3000	0.49022
+8.3800	0.50267
+8.1800	0.53832
+8.2900	0.54995
+7.5400	0.65972
+7.1300	0.69507
+6.0600	0.76022
+5.1500	0.79874
+3.6600	0.85309
+2.8800	0.87694
+2.2800	0.89705
+1.7300	0.91631
+0.9400	0.94523
+0.3100	0.97196
+Source
+Benson G.C.; D´Arcy P. J.; Handa Y.P.: V. Isobaric Heat Capacities and Ultrasonic Speeds for Water + Ethanenitrile Mixtures at 25°C. Thermochim.Acta 46 (1981) 295-301
+Source
+de Visser C.; Heuvelsland W.J.M.; Dunn L.A.; Somsen G.: Apparent Molar Volumes and Heat Capacities at 298.15 K Over the Whole Mole Fractions Range. J.Chem.Soc.Faraday Trans.1 74 (1978) 1159-1169
+Nakamura M.; Tamura K.; Murakami S.: Isotope effects on thermodynamic properties: mixtures of x(D2O or H2O) + (1 - x)CH3CN at 298.15 K. Thermochim.Acta 253 (1995) 127-136
+Benson G.C.; D´Arcy P. J.; Handa Y.P.: V. Isobaric Heat Capacities and Ultrasonic Speeds for Water + Ethanenitrile Mixtures at 25°C. Thermochim.Acta 46 (1981) 295-301

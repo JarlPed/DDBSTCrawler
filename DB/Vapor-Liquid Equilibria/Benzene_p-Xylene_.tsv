@@ -1,76 +1,76 @@
-$$$Vapor-Liquid Equilibrium Data Set 4996	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-402.15	0.08600	0.28500	
-398.15	0.12400	0.38200	
-397.85	0.13100	0.39600	
-393.35	0.17900	0.49700	
-388.25	0.23800	0.60200	
-384.95	0.28700	0.66000	
-380.25	0.36200	0.74300	
-378.15	0.40200	0.77000	
-374.25	0.46600	0.81600	
-366.95	0.59600	0.88800	
-362.55	0.71800	0.93400	
-359.55	0.80200	0.96000	
-356.75	0.88600	0.97900	
-Source	
-Saito S.: Separation of Hydrocarbons. Asahi-Garasu-Kogyo-Gijutsu-Shoreikai-Kenkyu-Hokuku 15 (1969) 397-407	
-$$$Vapor-Liquid Equilibrium Data Set 8069	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	308.00	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-3.2744	0.06640	0.41730	
-4.618	0.13970	0.61830	
-5.809	0.20550	0.71900	
-7.050	0.27480	0.78790	
-8.289	0.34420	0.83620	
-9.539	0.41440	0.87240	
-10.812	0.48680	0.90080	
-12.022	0.55590	0.92240	
-13.248	0.62650	0.94040	
-14.512	0.69890	0.95580	
-14.684	0.70870	0.95770	
-15.692	0.76710	0.96810	
-16.849	0.83360	0.97850	
-16.989	0.84130	0.97970	
-17.744	0.88520	0.98580	
-Source	
-Ott J.B.; Marsh K.N.; Stokes R.H.: Excess Enthalpies, Excess Volumes, and Excess Gibbs Free Energies for Benzene + p-Xylene at 288.15, 298.15, 308.15 and 318.15 K. J.Chem.Thermodyn. 12 (1980) 493-503	
-$$$Vapor-Liquid Equilibrium Data Set 14342	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-412.09	0.00000	0.00000	
-405.63	0.05390	0.20390	
-403.16	0.07920	0.27740	
-399.51	0.11530	0.36440	
-394.91	0.16590	0.48480	
-392.01	0.19100	0.54500	
-385.91	0.27100	0.66200	
-381.13	0.34800	0.72900	
-376.69	0.40500	0.78600	
-372.02	0.49300	0.84000	
-369.88	0.53700	0.86700	
-367.92	0.57900	0.89000	
-366.62	0.60700	0.91100	
-363.48	0.68400	0.92800	
-360.74	0.74800	0.95200	
-359.12	0.80900	0.96500	
-358.44	0.82300	0.96900	
-357.60	0.85300	0.98100	
-356.91	0.87300	0.98600	
-353.25	1.00000	1.00000	
-Source	
-Jin Z.; Hu A.; Liu K.: VLE of Binary and Ternary Systems for Benzene, Methylbenzene and p-Xylene Mixtures. Huaxue-gongcheng 19 (1991) 56-60	
-Source	
-Saito S.: Separation of Hydrocarbons. Asahi-Garasu-Kogyo-Gijutsu-Shoreikai-Kenkyu-Hokuku 15 (1969) 397-407	
-Ott J.B.; Marsh K.N.; Stokes R.H.: Excess Enthalpies, Excess Volumes, and Excess Gibbs Free Energies for Benzene + p-Xylene at 288.15, 298.15, 308.15 and 318.15 K. J.Chem.Thermodyn. 12 (1980) 493-503	
-Jin Z.; Hu A.; Liu K.: VLE of Binary and Ternary Systems for Benzene, Methylbenzene and p-Xylene Mixtures. Huaxue-gongcheng 19 (1991) 56-60	
+$$$Vapor-Liquid Equilibrium Data Set 4996
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	106-42-3	p-Xylene
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+402.15	0.08600	0.28500
+398.15	0.12400	0.38200
+397.85	0.13100	0.39600
+393.35	0.17900	0.49700
+388.25	0.23800	0.60200
+384.95	0.28700	0.66000
+380.25	0.36200	0.74300
+378.15	0.40200	0.77000
+374.25	0.46600	0.81600
+366.95	0.59600	0.88800
+362.55	0.71800	0.93400
+359.55	0.80200	0.96000
+356.75	0.88600	0.97900
+Source
+Saito S.: Separation of Hydrocarbons. Asahi-Garasu-Kogyo-Gijutsu-Shoreikai-Kenkyu-Hokuku 15 (1969) 397-407
+$$$Vapor-Liquid Equilibrium Data Set 8069
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	308.00	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+3.2744	0.06640	0.41730
+4.618	0.13970	0.61830
+5.809	0.20550	0.71900
+7.050	0.27480	0.78790
+8.289	0.34420	0.83620
+9.539	0.41440	0.87240
+10.812	0.48680	0.90080
+12.022	0.55590	0.92240
+13.248	0.62650	0.94040
+14.512	0.69890	0.95580
+14.684	0.70870	0.95770
+15.692	0.76710	0.96810
+16.849	0.83360	0.97850
+16.989	0.84130	0.97970
+17.744	0.88520	0.98580
+Source
+Ott J.B.; Marsh K.N.; Stokes R.H.: Excess Enthalpies, Excess Volumes, and Excess Gibbs Free Energies for Benzene + p-Xylene at 288.15, 298.15, 308.15 and 318.15 K. J.Chem.Thermodyn. 12 (1980) 493-503
+$$$Vapor-Liquid Equilibrium Data Set 14342
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	106-42-3	p-Xylene
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+412.09	0.000000.00000
+405.63	0.05390	0.20390
+403.16	0.07920	0.27740
+399.51	0.11530	0.36440
+394.91	0.16590	0.48480
+392.01	0.19100	0.54500
+385.91	0.27100	0.66200
+381.13	0.34800	0.72900
+376.69	0.40500	0.78600
+372.02	0.49300	0.84000
+369.88	0.53700	0.86700
+367.92	0.57900	0.89000
+366.62	0.60700	0.91100
+363.48	0.68400	0.92800
+360.74	0.74800	0.95200
+359.12	0.80900	0.96500
+358.44	0.82300	0.96900
+357.60	0.85300	0.98100
+356.91	0.87300	0.98600
+353.25	1.000001.00000
+Source
+Jin Z.; Hu A.; Liu K.: VLE of Binary and Ternary Systems for Benzene, Methylbenzene and p-Xylene Mixtures. Huaxue-gongcheng 19 (1991) 56-60
+Source
+Saito S.: Separation of Hydrocarbons. Asahi-Garasu-Kogyo-Gijutsu-Shoreikai-Kenkyu-Hokuku 15 (1969) 397-407
+Ott J.B.; Marsh K.N.; Stokes R.H.: Excess Enthalpies, Excess Volumes, and Excess Gibbs Free Energies for Benzene + p-Xylene at 288.15, 298.15, 308.15 and 318.15 K. J.Chem.Thermodyn. 12 (1980) 493-503
+Jin Z.; Hu A.; Liu K.: VLE of Binary and Ternary Systems for Benzene, Methylbenzene and p-Xylene Mixtures. Huaxue-gongcheng 19 (1991) 56-60

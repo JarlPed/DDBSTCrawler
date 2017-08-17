@@ -1,9 +1,9 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	298.150	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	298.150	n.a.	n.a.	n.a.	n.a.	Author	2	
-none	zeotropic	
-1	Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016	
-2	Lepori L.; Matteoli E.: 3. Excess Gibbs Free Energies of Cylohexane + a Linear Ether. Fluid Phase Equilib. 42 (1988) 229-240	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H12	84.161	110-82-7	Cyclohexane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	298.150	n.a.	n.a.	n.a.	n.a.	Author	1
+none	298.150	n.a.	n.a.	n.a.	n.a.	Author	2
+none	zeotropic
+1	Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016
+2	Lepori L.; Matteoli E.: 3. Excess Gibbs Free Energies of Cylohexane + a Linear Ether. Fluid Phase Equilib. 42 (1988) 229-240

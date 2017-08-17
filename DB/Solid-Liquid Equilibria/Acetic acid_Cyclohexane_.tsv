@@ -1,52 +1,52 @@
-$$$Solid-Liquid Equilibrium Data Set 3166	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-T [K]	xL1 [mol/mol]	
-289.84	1.00000	
-287.90	0.98110	
-284.81	0.79970	
-283.20	0.51400	
-282.82	0.40520	
-282.59	0.37080	
-281.41	0.28180	
-280.61	0.22280	
-280.16	0.20270	
-277.47	0.14000	
-275.81	0.12020	
-274.13	0.09950	
-Source	
-Malijevska I.: Solid-Liquid Equilibrium in the Acetic Acid-Cyclohexane and Acetic Acid-Trichloroacetic Acid Systems. Fluid Phase Equilib. 211 (2003) 257-264	
-$$$Solid-Liquid Equilibrium Data Set 3167	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-T [K]	xS1 [mol/mol]	
-271.94	0.51400	
-271.92	0.12020	
-271.94	0.09950	
-271.94	0.05990	
-Source	
-Malijevska I.: Solid-Liquid Equilibrium in the Acetic Acid-Cyclohexane and Acetic Acid-Trichloroacetic Acid Systems. Fluid Phase Equilib. 211 (2003) 257-264	
-$$$Solid-Liquid Equilibrium Data Set 3727	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-T [K]	xL1 [mol/mol]	
-289.70	0.00000	
-287.20	0.09600	
-284.90	0.27100	
-284.15	0.38900	
-283.90	0.46000	
-284.05	0.47500	
-283.90	0.53900	
-283.90	0.58500	
-283.70	0.68000	
-282.80	0.80900	
-278.60	0.91400	
-274.60	0.94300	
-271.95	0.96150	
-275.30	0.98100	
-279.30	1.00000	
-Source	
-Baud E.: Contribution a l'etude des solutions concentrees (deuxieme memoire). Ann.Chim.Phys.(Paris) 29 (1913) 124-143	
+$$$Solid-Liquid Equilibrium Data Set 3166
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C6H12	84.161	110-82-7	Cyclohexane
+T [K]	xL1 [mol/mol]
+289.84	1.00000
+287.90	0.98110
+284.81	0.79970
+283.20	0.51400
+282.82	0.40520
+282.59	0.37080
+281.41	0.28180
+280.61	0.22280
+280.16	0.20270
+277.47	0.14000
+275.81	0.12020
+274.13	0.09950
+Source
+Malijevska I.: Solid-Liquid Equilibrium in the Acetic Acid-Cyclohexane and Acetic Acid-Trichloroacetic Acid Systems. Fluid Phase Equilib. 211 (2003) 257-264
+$$$Solid-Liquid Equilibrium Data Set 3167
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C6H12	84.161	110-82-7	Cyclohexane
+T [K]	xS1 [mol/mol]
+271.94	0.51400
+271.92	0.12020
+271.94	0.09950
+271.94	0.05990
+Source
+Malijevska I.: Solid-Liquid Equilibrium in the Acetic Acid-Cyclohexane and Acetic Acid-Trichloroacetic Acid Systems. Fluid Phase Equilib. 211 (2003) 257-264
+$$$Solid-Liquid Equilibrium Data Set 3727
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C2H4O2	60.053	64-19-7	Acetic acid
+T [K]	xL1 [mol/mol]
+289.70	0.00000
+287.20	0.09600
+284.90	0.27100
+284.15	0.38900
+283.90	0.46000
+284.05	0.47500
+283.90	0.53900
+283.90	0.58500
+283.70	0.68000
+282.80	0.80900
+278.60	0.91400
+274.60	0.94300
+271.95	0.96150
+275.30	0.98100
+279.30	1.00000
+Source
+Baud E.: Contribution a l'etude des solutions concentrees (deuxieme memoire). Ann.Chim.Phys.(Paris) 29 (1913) 124-143

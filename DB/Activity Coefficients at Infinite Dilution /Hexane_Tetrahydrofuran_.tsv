@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-304.75	1.6500	EBUL	1	
-313.15	1.7300	EBUL	2	
-322.35	1.5900	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240	
-2	Pividal K.A.; Sandler S.I.: Systems with Cyclic Ethers. J.Chem.Eng.Data 33 (1988) 438-445	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+304.75	1.6500	EBUL	1
+313.15	1.7300	EBUL	2
+322.35	1.5900	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240
+2	Pividal K.A.; Sandler S.I.: Systems with Cyclic Ethers. J.Chem.Eng.Data 33 (1988) 438-445

@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-293.15	1.1000	GLCR	1	
-293.15	1.1900	GLCN	2	
-303.15	1.0600	GLCR	1	
-Short Term	Explanation	
-GLCN	GLC (not specified)	
-GLCR	GLC (with gas phase correction)	
-1	Chien C.-F.; Kopecni M.M.; Laub R.J.; Smith C.A.: Solute Liquid-Gas Activity and Partition Coefficients with Mixtures of n-Hexadecane and n-Octadecane with N,N-Dibutyl-2-ethylhexylamide Solvents. J.Phys.Chem. 85 (1981) 1864-1871	
-2	Gritchina N.D.: Gas-Flussigchromatographische Bestimmung der Aktivitätskoeffizienten von flüchtigen Komponenten in unpolaren  flüssigen Phasen. Nepodviznye fazy v gazovoi chromatografii  (1970) 42-46	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+293.15	1.1000	GLCR	1
+293.15	1.1900	GLCN	2
+303.15	1.0600	GLCR	1
+Short Term	Explanation
+GLCN	GLC (not specified)
+GLCR	GLC (with gas phase correction)
+1	Chien C.-F.; Kopecni M.M.; Laub R.J.; Smith C.A.: Solute Liquid-Gas Activity and Partition Coefficients with Mixtures of n-Hexadecane and n-Octadecane with N,N-Dibutyl-2-ethylhexylamide Solvents. J.Phys.Chem. 85 (1981) 1864-1871
+2	Gritchina N.D.: Gas-Flussigchromatographische Bestimmung der Aktivitätskoeffizienten von flüchtigen Komponenten in unpolaren  flüssigen Phasen. Nepodviznye fazy v gazovoi chromatografii  (1970) 42-46

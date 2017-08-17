@@ -1,25 +1,25 @@
-$$$Solid-Liquid Equilibrium Data Set 15280	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-T [K]	xL1 [mol/mol]	
-298.15	0.06839	
-298.15	0.07690	
-Source	
-Morris K.R.: Solubility of Aromatic Compounds in Mixed Solvents. Thesis  (1988)	
-$$$Solid-Liquid Equilibrium Data Set 22556	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-T [K]	xL1 [mol/mol]	
-298.15	0.12000	
-Source	
-Li I.F.; Semenov L.V.; Gaile A.A.; Pultsin N.M.: Thermodynamic Functions of Mixing in Aromatic Hydrocarbon - Acetonitrile Systems. Russ.J.Phys.Chem. 58 (1984) 1481-1483	
-$$$Solid-Liquid Equilibrium Data Set 49309	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-T [K]	xL1 [mol/mol]	
-298.15	0.10200	
-Source	
-Van Meter F.M.; Neumann H.M.: Solvation of the Tris(1,10-phenanthroline)iron(II) Cation as Measured by Solubility and Nuclear Magnetic Resonance Shifts. J.Am.Chem.Soc. 98 (1976) 1382-1388	
+$$$Solid-Liquid Equilibrium Data Set 15280
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C2H3N	41.053	75-05-8	Acetonitrile
+T [K]	xL1 [mol/mol]
+298.15	0.06839
+298.15	0.07690
+Source
+Morris K.R.: Solubility of Aromatic Compounds in Mixed Solvents. Thesis  (1988)
+$$$Solid-Liquid Equilibrium Data Set 22556
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C2H3N	41.053	75-05-8	Acetonitrile
+T [K]	xL1 [mol/mol]
+298.15	0.12000
+Source
+Li I.F.; Semenov L.V.; Gaile A.A.; Pultsin N.M.: Thermodynamic Functions of Mixing in Aromatic Hydrocarbon - Acetonitrile Systems. Russ.J.Phys.Chem. 58 (1984) 1481-1483
+$$$Solid-Liquid Equilibrium Data Set 49309
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C2H3N	41.053	75-05-8	Acetonitrile
+T [K]	xL1 [mol/mol]
+298.15	0.10200
+Source
+Van Meter F.M.; Neumann H.M.: Solvation of the Tris(1,10-phenanthroline)iron(II) Cation as Measured by Solubility and Nuclear Magnetic Resonance Shifts. J.Am.Chem.Soc. 98 (1976) 1382-1388

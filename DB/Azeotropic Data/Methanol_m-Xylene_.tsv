@@ -1,9 +1,9 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmax	n.a.	101.325	n.a.	n.a.	n.a.	Author	2	
-homPmax	336.950	98.659	0.99910	n.a.	n.a.	Author from table	1	
-homPmax	homogeneous pressure maximum	
-1	Lipkin G.M.; Sardanashvili A.G.; Ponomareva I.F.: Experimentelle Abhängigkeit der Zusammensetzung binärer Azeotrope Xylol-Methanol  vom Druck. Neftepererab.Neftekhim.,VNIPI Nefteper.Neftekh.Prom. 1 (1972) 315-319	
-2	Budantseva L.S.; Lesteva T.M.; Nemtsov M.S.: . Viniti  (1975) 1-14	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+homPmax	n.a.	101.325	n.a.	n.a.	n.a.	Author	2
+homPmax	336.950	98.659	0.99910	n.a.	n.a.	Author from table	1
+homPmax	homogeneous pressure maximum
+1	Lipkin G.M.; Sardanashvili A.G.; Ponomareva I.F.: Experimentelle Abhängigkeit der Zusammensetzung binärer Azeotrope Xylol-Methanol  vom Druck. Neftepererab.Neftekhim.,VNIPI Nefteper.Neftekh.Prom. 1 (1972) 315-319
+2	Budantseva L.S.; Lesteva T.M.; Nemtsov M.S.: . Viniti  (1975) 1-14

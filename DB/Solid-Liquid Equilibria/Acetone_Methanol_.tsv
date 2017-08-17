@@ -1,37 +1,37 @@
-$$$Solid-Liquid Equilibrium Data Set 535	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CH4O	32.042	67-56-1	Methanol	
-T [K]	xL1 [mol/mol]	
-175.35	0.00000	
-170.15	0.09445	
-164.45	0.18244	
-161.45	0.27548	
-157.45	0.35280	
-159.45	0.49406	
-162.15	0.59016	
-164.85	0.65520	
-169.05	0.78244	
-177.55	1.00000	
-Source	
-Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408	
-$$$Solid-Liquid Equilibrium Data Set 19718	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CH4O	32.042	67-56-1	Methanol	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-150.15	0.31100	0.31100	
-Source	
-Bakhtyukova G.N.; Blinov Yu.S.; Demidova Yu.A.; Schleinikov V.M.: Über Erstarrungstemperatur von gemischten Lösungsmitteln Methanol - Aceton, N-Methylpyrrolidon - Aceton. Zh.Prikl.Khim. 45 (1972) 449-450	
-$$$Solid-Liquid Equilibrium Data Set 25373	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CH4O	32.042	67-56-1	Methanol	
-T [K]	xS1 [mol/mol]	
-158.25	0.18244	
-155.35	0.27548	
-156.55	0.35280	
-157.55	0.49406	
-159.25	0.59016	
-Source	
-Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408	
+$$$Solid-Liquid Equilibrium Data Set 535
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CH4O	32.042	67-56-1	Methanol
+T [K]	xL1 [mol/mol]
+175.35	0.00000
+170.15	0.09445
+164.45	0.18244
+161.45	0.27548
+157.45	0.35280
+159.45	0.49406
+162.15	0.59016
+164.85	0.65520
+169.05	0.78244
+177.55	1.00000
+Source
+Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408
+$$$Solid-Liquid Equilibrium Data Set 19718
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CH4O	32.042	67-56-1	Methanol
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+150.15	0.311000.31100
+Source
+Bakhtyukova G.N.; Blinov Yu.S.; Demidova Yu.A.; Schleinikov V.M.: Über Erstarrungstemperatur von gemischten Lösungsmitteln Methanol - Aceton, N-Methylpyrrolidon - Aceton. Zh.Prikl.Khim. 45 (1972) 449-450
+$$$Solid-Liquid Equilibrium Data Set 25373
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CH4O	32.042	67-56-1	Methanol
+T [K]	xS1 [mol/mol]
+158.25	0.18244
+155.35	0.27548
+156.55	0.35280
+157.55	0.49406
+159.25	0.59016
+Source
+Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408

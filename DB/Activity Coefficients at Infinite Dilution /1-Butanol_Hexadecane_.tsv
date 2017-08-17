@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-303.15	24.020	GLCN	2	
-308.15	20.550	GLCN	2	
-312.15	18.310	GLCR	1	
-Short Term	Explanation	
-GLCN	GLC (not specified)	
-GLCR	GLC (with gas phase correction)	
-1	Alessi P.; Kikic I.; Nonino C.; Visalberghi M.: 2. Polar Compounds in Organic Solvents. J.Chem.Eng.Data 27 (1982) 448-450	
-2	Ignat A.; Melder L.I.: Activity Coefficients at Infinite Dilution and excess Thermodynamic Functions of Some Polar Compounds in Hexadecane. Eesti NSV Tead.Akad.Toim.Keem. 34 (1985) 201-205	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+303.15	24.020	GLCN	2
+308.15	20.550	GLCN	2
+312.15	18.310	GLCR	1
+Short Term	Explanation
+GLCN	GLC (not specified)
+GLCR	GLC (with gas phase correction)
+1	Alessi P.; Kikic I.; Nonino C.; Visalberghi M.: 2. Polar Compounds in Organic Solvents. J.Chem.Eng.Data 27 (1982) 448-450
+2	Ignat A.; Melder L.I.: Activity Coefficients at Infinite Dilution and excess Thermodynamic Functions of Some Polar Compounds in Hexadecane. Eesti NSV Tead.Akad.Toim.Keem. 34 (1985) 201-205

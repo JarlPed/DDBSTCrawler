@@ -1,65 +1,65 @@
-$$$Density Data Set 68250	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.7907	0.00000	0.90000	
-0.8134	0.09070	0.80930	
-0.8168	0.10890	0.79110	
-0.8451	0.24140	0.65860	
-0.8662	0.32090	0.57910	
-0.8772	0.40220	0.49780	
-0.9033	0.47880	0.42120	
-0.9236	0.55690	0.34310	
-0.9399	0.63440	0.26560	
-0.9576	0.72220	0.17780	
-0.9748	0.77300	0.12700	
-1.0016	0.90000	0.00000	
-Source	
-Udovenko V.V.; Vityaeva S.I.: Viscosity of systems ketones-organic acids. V. Zh.Obshch.Khim. 9 (1939) 1731-1733	
-$$$Density Data Set 68251	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.8070	0.00000	0.75000	
-0.8223	0.06690	0.68310	
-0.8482	0.18200	0.56810	
-0.8545	0.21710	0.53290	
-0.8665	0.29270	0.45730	
-0.8840	0.38840	0.36160	
-0.8992	0.43190	0.31820	
-0.9146	0.50540	0.24460	
-0.9312	0.58130	0.16880	
-0.9537	0.68000	0.07000	
-0.9613	0.72280	0.02720	
-0.9631	0.75000	0.00000	
-Source	
-Udovenko V.V.; Vityaeva S.I.: Viscosity of systems ketones-organic acids. V. Zh.Obshch.Khim. 9 (1939) 1731-1733	
-$$$Density Data Set 68252	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.8258	0.00000	0.50000	
-0.8388	0.04400	0.45600	
-0.8433	0.08170	0.41840	
-0.8492	0.13330	0.36680	
-0.8605	0.17300	0.32710	
-0.8723	0.24430	0.25580	
-0.8887	0.31450	0.18560	
-0.8949	0.35200	0.14800	
-0.8986	0.38920	0.11090	
-0.9038	0.40530	0.09470	
-0.9151	0.47380	0.02630	
-0.9234	0.50000	0.00000	
-Source	
-Udovenko V.V.; Vityaeva S.I.: Viscosity of systems ketones-organic acids. V. Zh.Obshch.Khim. 9 (1939) 1731-1733	
-Source	
-Udovenko V.V.; Vityaeva S.I.: Viscosity of systems ketones-organic acids. V. Zh.Obshch.Khim. 9 (1939) 1731-1733	
+$$$Density Data Set 68250
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C3H6O	58.080	67-64-1	Acetone
+3	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.7907	0.00000	0.90000
+0.8134	0.09070	0.80930
+0.8168	0.10890	0.79110
+0.8451	0.24140	0.65860
+0.8662	0.32090	0.57910
+0.8772	0.40220	0.49780
+0.9033	0.47880	0.42120
+0.9236	0.55690	0.34310
+0.9399	0.63440	0.26560
+0.9576	0.72220	0.17780
+0.9748	0.77300	0.12700
+1.0016	0.90000	0.00000
+Source
+Udovenko V.V.; Vityaeva S.I.: Viscosity of systems ketones-organic acids. V. Zh.Obshch.Khim. 9 (1939) 1731-1733
+$$$Density Data Set 68251
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C3H6O	58.080	67-64-1	Acetone
+3	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.8070	0.00000	0.75000
+0.8223	0.06690	0.68310
+0.8482	0.18200	0.56810
+0.8545	0.21710	0.53290
+0.8665	0.29270	0.45730
+0.8840	0.38840	0.36160
+0.8992	0.43190	0.31820
+0.9146	0.50540	0.24460
+0.9312	0.58130	0.16880
+0.9537	0.68000	0.07000
+0.9613	0.72280	0.02720
+0.9631	0.75000	0.00000
+Source
+Udovenko V.V.; Vityaeva S.I.: Viscosity of systems ketones-organic acids. V. Zh.Obshch.Khim. 9 (1939) 1731-1733
+$$$Density Data Set 68252
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C3H6O	58.080	67-64-1	Acetone
+3	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.8258	0.00000	0.50000
+0.8388	0.04400	0.45600
+0.8433	0.08170	0.41840
+0.8492	0.13330	0.36680
+0.8605	0.17300	0.32710
+0.8723	0.24430	0.25580
+0.8887	0.31450	0.18560
+0.8949	0.35200	0.14800
+0.8986	0.38920	0.11090
+0.9038	0.40530	0.09470
+0.9151	0.47380	0.02630
+0.9234	0.50000	0.00000
+Source
+Udovenko V.V.; Vityaeva S.I.: Viscosity of systems ketones-organic acids. V. Zh.Obshch.Khim. 9 (1939) 1731-1733
+Source
+Udovenko V.V.; Vityaeva S.I.: Viscosity of systems ketones-organic acids. V. Zh.Obshch.Khim. 9 (1939) 1731-1733

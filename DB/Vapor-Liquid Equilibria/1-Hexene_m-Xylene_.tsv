@@ -1,32 +1,32 @@
-$$$Vapor-Liquid Equilibrium Data Set 23553	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Pressure	101.30	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-412.22	0.00000	0.00000	
-408.23	0.01950	0.11710	
-404.11	0.04030	0.22430	
-400.00	0.06280	0.32260	
-397.83	0.07630	0.37110	
-394.57	0.09710	0.43810	
-389.54	0.13110	0.53280	
-383.74	0.17480	0.62680	
-378.41	0.22180	0.70120	
-370.59	0.30410	0.79120	
-367.03	0.34760	0.82580	
-360.36	0.44130	0.88100	
-356.36	0.50870	0.90790	
-352.33	0.58540	0.93320	
-348.32	0.67280	0.95420	
-347.05	0.70300	0.96020	
-343.60	0.79040	0.97520	
-341.90	0.84120	0.98210	
-339.60	0.90740	0.99030	
-338.26	0.94900	0.99480	
-337.36	0.97790	0.99770	
-336.64	1.00000	1.00000	
-Source	
-Diaz C.; Dominguez A.; Tojo J.: Phase Equilibria of the Binary Systems 1-Hexene with ortho-Xylene, n-Xylene, p-Xylene, Toluene, ant Ethylbenzene at 101.3 kPa. J.Chem.Eng.Data 47 (2002) 867-871	
-Source	
-Diaz C.; Dominguez A.; Tojo J.: Phase Equilibria of the Binary Systems 1-Hexene with ortho-Xylene, n-Xylene, p-Xylene, Toluene, ant Ethylbenzene at 101.3 kPa. J.Chem.Eng.Data 47 (2002) 867-871	
+$$$Vapor-Liquid Equilibrium Data Set 23553
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C8H10	106.167	108-38-3	m-Xylene
+Pressure	101.30	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+412.22	0.000000.00000
+408.23	0.01950	0.11710
+404.11	0.04030	0.22430
+400.00	0.06280	0.32260
+397.83	0.07630	0.37110
+394.57	0.09710	0.43810
+389.54	0.13110	0.53280
+383.74	0.17480	0.62680
+378.41	0.22180	0.70120
+370.59	0.30410	0.79120
+367.03	0.34760	0.82580
+360.36	0.44130	0.88100
+356.36	0.50870	0.90790
+352.33	0.58540	0.93320
+348.32	0.67280	0.95420
+347.05	0.70300	0.96020
+343.60	0.79040	0.97520
+341.90	0.84120	0.98210
+339.60	0.90740	0.99030
+338.26	0.94900	0.99480
+337.36	0.97790	0.99770
+336.64	1.000001.00000
+Source
+Diaz C.; Dominguez A.; Tojo J.: Phase Equilibria of the Binary Systems 1-Hexene with ortho-Xylene, n-Xylene, p-Xylene, Toluene, ant Ethylbenzene at 101.3 kPa. J.Chem.Eng.Data 47 (2002) 867-871
+Source
+Diaz C.; Dominguez A.; Tojo J.: Phase Equilibria of the Binary Systems 1-Hexene with ortho-Xylene, n-Xylene, p-Xylene, Toluene, ant Ethylbenzene at 101.3 kPa. J.Chem.Eng.Data 47 (2002) 867-871

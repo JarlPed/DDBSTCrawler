@@ -1,29 +1,29 @@
-$$$Excess Volume Data Set 12416	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-Pressure	1.010	bar	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.2580	0.05310	
--0.4001	0.08460	
--0.5415	0.12090	
--0.6575	0.15230	
--0.7303	0.18220	
--1.0050	0.29140	
--1.0338	0.30790	
--1.1264	0.37370	
--1.1750	0.42010	
--1.1836	0.45000	
--1.1977	0.51120	
--1.0854	0.63150	
--1.0210	0.66630	
--0.8940	0.73620	
--0.8924	0.73900	
--0.6145	0.83830	
--0.3896	0.90570	
--0.0517	0.98720	
-Source	
-Letcher T.M.; Domanska U.; Mwenesongole E.: The excess molar volumes of (N-methyl-2-pyrrolidone + an alkanol or a hydrocarbon) at 298.15 K and the application of the Flory-Benson-Treszczanowicz and the Extended Real Associated Solution theories. Fluid Phase Equilib. 149 (1998) 323-337	
-Source	
-Letcher T.M.; Domanska U.; Mwenesongole E.: The excess molar volumes of (N-methyl-2-pyrrolidone + an alkanol or a hydrocarbon) at 298.15 K and the application of the Flory-Benson-Treszczanowicz and the Extended Real Associated Solution theories. Fluid Phase Equilib. 149 (1998) 323-337	
+$$$Excess Volume Data Set 12416
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+Pressure	1.010	bar
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.2580	0.05310
+-0.4001	0.08460
+-0.5415	0.12090
+-0.6575	0.15230
+-0.7303	0.18220
+-1.0050	0.29140
+-1.0338	0.30790
+-1.1264	0.37370
+-1.1750	0.42010
+-1.1836	0.45000
+-1.1977	0.51120
+-1.0854	0.63150
+-1.0210	0.66630
+-0.8940	0.73620
+-0.8924	0.73900
+-0.6145	0.83830
+-0.3896	0.90570
+-0.0517	0.98720
+Source
+Letcher T.M.; Domanska U.; Mwenesongole E.: The excess molar volumes of (N-methyl-2-pyrrolidone + an alkanol or a hydrocarbon) at 298.15 K and the application of the Flory-Benson-Treszczanowicz and the Extended Real Associated Solution theories. Fluid Phase Equilib. 149 (1998) 323-337
+Source
+Letcher T.M.; Domanska U.; Mwenesongole E.: The excess molar volumes of (N-methyl-2-pyrrolidone + an alkanol or a hydrocarbon) at 298.15 K and the application of the Flory-Benson-Treszczanowicz and the Extended Real Associated Solution theories. Fluid Phase Equilib. 149 (1998) 323-337

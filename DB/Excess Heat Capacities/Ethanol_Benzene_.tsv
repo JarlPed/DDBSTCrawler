@@ -1,49 +1,49 @@
-$$$Excess Heat Capacity Data Set 965	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-0.0083	0.00208	
-0.0039	0.00410	
-0.0856	0.00603	
-0.1410	0.00761	
-0.2157	0.00925	
-0.3620	0.01172	
-1.6400	0.02326	
-3.3600	0.03548	
-3.9500	0.03998	
-5.9300	0.05728	
-7.5900	0.07667	
-9.1100	0.09958	
-10.5900	0.13030	
-11.5300	0.15574	
-13.9700	0.29034	
-14.5100	0.36594	
-13.8000	0.47972	
-12.2700	0.58257	
-9.7700	0.69591	
-7.1700	0.78913	
-3.6000	0.89877	
-Source	
-Tanaka R.; Toyama S.: Excess Molar Volumes and Excess Molar Heat Capacities for Binary Mixtures of (Ethanol + Benzene, or Toluene, or o-Xylene, or Chlorobenzene) at a Temperature of 298.15 K. J.Chem.Eng.Data 42 (1997) 871-874	
-$$$Excess Heat Capacity Data Set 1145	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	293.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-12.2845	0.17590	
-12.8985	0.29770	
-12.5029	0.42220	
-11.3416	0.52290	
-9.0002	0.64090	
-7.6010	0.71780	
-6.0395	0.79820	
-4.1973	0.87550	
-3.9169	0.90970	
-Source	
-Perrakis N.: Les propriétés physiques des mélanges doubles liquides dans le voisinage de l'état critique de miscibilité. J.Chim.Phys. 22 (1925) 280-310	
-Source	
-Tanaka R.; Toyama S.: Excess Molar Volumes and Excess Molar Heat Capacities for Binary Mixtures of (Ethanol + Benzene, or Toluene, or o-Xylene, or Chlorobenzene) at a Temperature of 298.15 K. J.Chem.Eng.Data 42 (1997) 871-874	
-Perrakis N.: Les propriétés physiques des mélanges doubles liquides dans le voisinage de l'état critique de miscibilité. J.Chim.Phys. 22 (1925) 280-310	
+$$$Excess Heat Capacity Data Set 965
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+0.0083	0.00208
+0.0039	0.00410
+0.0856	0.00603
+0.1410	0.00761
+0.2157	0.00925
+0.3620	0.01172
+1.6400	0.02326
+3.3600	0.03548
+3.9500	0.03998
+5.9300	0.05728
+7.5900	0.07667
+9.1100	0.09958
+10.5900	0.13030
+11.5300	0.15574
+13.9700	0.29034
+14.5100	0.36594
+13.8000	0.47972
+12.2700	0.58257
+9.7700	0.69591
+7.1700	0.78913
+3.6000	0.89877
+Source
+Tanaka R.; Toyama S.: Excess Molar Volumes and Excess Molar Heat Capacities for Binary Mixtures of (Ethanol + Benzene, or Toluene, or o-Xylene, or Chlorobenzene) at a Temperature of 298.15 K. J.Chem.Eng.Data 42 (1997) 871-874
+$$$Excess Heat Capacity Data Set 1145
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	293.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+12.2845	0.17590
+12.8985	0.29770
+12.5029	0.42220
+11.3416	0.52290
+9.0002	0.64090
+7.6010	0.71780
+6.0395	0.79820
+4.1973	0.87550
+3.9169	0.90970
+Source
+Perrakis N.: Les propriétés physiques des mélanges doubles liquides dans le voisinage de l'état critique de miscibilité. J.Chim.Phys. 22 (1925) 280-310
+Source
+Tanaka R.; Toyama S.: Excess Molar Volumes and Excess Molar Heat Capacities for Binary Mixtures of (Ethanol + Benzene, or Toluene, or o-Xylene, or Chlorobenzene) at a Temperature of 298.15 K. J.Chem.Eng.Data 42 (1997) 871-874
+Perrakis N.: Les propriétés physiques des mélanges doubles liquides dans le voisinage de l'état critique de miscibilité. J.Chim.Phys. 22 (1925) 280-310

@@ -1,87 +1,87 @@
-$$$Vapor-Liquid Equilibrium Data Set 422	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature	308.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-30.704	0.05000	0.14300	
-33.771	0.10000	0.26300	
-36.637	0.15000	0.35700	
-39.410	0.20000	0.43100	
-41.757	0.25000	0.49000	
-43.850	0.30000	0.53900	
-45.383	0.35000	0.58000	
-46.743	0.40000	0.61000	
-47.676	0.45000	0.63500	
-48.329	0.50000	0.65400	
-48.649	0.55000	0.66800	
-48.889	0.60000	0.68400	
-49.049	0.65000	0.69200	
-49.183	0.70000	0.70400	
-49.103	0.75000	0.71400	
-48.863	0.80000	0.72400	
-48.529	0.85000	0.74400	
-47.356	0.90000	0.77600	
-45.330	0.95000	0.84500	
-Source	
-Kireev V.A.; Sitnikov I.P.: Bestimmung des Druckes und der Zusammensetzung des Dampfes und  der Verdampfungswärme von  Methanol-Chloroform-Mischungen und freie Energie und Entropie bei der ihre Bildungen. Zh.Fiz.Khim. 15 (1941) 492-499	
-$$$Vapor-Liquid Equilibrium Data Set 423	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature	322.45	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-58.875	0.05000	0.13800	
-64.355	0.10000	0.25400	
-69.968	0.15000	0.35000	
-74.607	0.20000	0.42400	
-78.140	0.25000	0.47600	
-80.807	0.30000	0.52000	
-82.833	0.35000	0.55000	
-84.433	0.40000	0.57700	
-85.713	0.45000	0.59800	
-86.233	0.50000	0.61900	
-86.686	0.55000	0.63400	
-87.006	0.60000	0.64700	
-87.313	0.65000	0.65900	
-87.579	0.70000	0.67000	
-87.566	0.75000	0.68000	
-87.219	0.80000	0.69400	
-86.326	0.85000	0.71600	
-84.340	0.90000	0.75400	
-80.167	0.95000	0.82400	
-Source	
-Kireev V.A.; Sitnikov I.P.: Bestimmung des Druckes und der Zusammensetzung des Dampfes und  der Verdampfungswärme von  Methanol-Chloroform-Mischungen und freie Energie und Entropie bei der ihre Bildungen. Zh.Fiz.Khim. 15 (1941) 492-499	
-$$$Vapor-Liquid Equilibrium Data Set 424	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-336.15	0.04000	0.10200	
-335.15	0.06500	0.15400	
-334.05	0.09500	0.21500	
-332.45	0.14600	0.30400	
-330.95	0.19600	0.37800	
-330.15	0.23000	0.42000	
-329.05	0.28700	0.47200	
-328.45	0.33200	0.50700	
-327.85	0.38300	0.54000	
-327.45	0.42500	0.56400	
-327.15	0.45900	0.58000	
-326.95	0.52000	0.60700	
-326.85	0.55700	0.61900	
-326.65	0.62800	0.64300	
-326.65	0.63600	0.64600	
-326.65	0.66700	0.65500	
-326.85	0.75300	0.68400	
-327.05	0.79700	0.70100	
-327.55	0.85500	0.73000	
-328.35	0.90400	0.76800	
-329.45	0.93700	0.81200	
-331.05	0.97000	0.87500	
-Source	
-Nagata I.: Isobaric Vapor-Liquid Equilibria for the Ternary System Chloroform-Methanol-Ethyl Acetate. J.Chem.Eng.Data 7 (1962) 367-373	
-Source	
-Kireev V.A.; Sitnikov I.P.: Bestimmung des Druckes und der Zusammensetzung des Dampfes und  der Verdampfungswärme von  Methanol-Chloroform-Mischungen und freie Energie und Entropie bei der ihre Bildungen. Zh.Fiz.Khim. 15 (1941) 492-499	
-Nagata I.: Isobaric Vapor-Liquid Equilibria for the Ternary System Chloroform-Methanol-Ethyl Acetate. J.Chem.Eng.Data 7 (1962) 367-373	
+$$$Vapor-Liquid Equilibrium Data Set 422
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+Temperature	308.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+30.704	0.05000	0.14300
+33.771	0.10000	0.26300
+36.637	0.15000	0.35700
+39.410	0.20000	0.43100
+41.757	0.25000	0.49000
+43.850	0.30000	0.53900
+45.383	0.35000	0.58000
+46.743	0.40000	0.61000
+47.676	0.45000	0.63500
+48.329	0.50000	0.65400
+48.649	0.55000	0.66800
+48.889	0.60000	0.68400
+49.049	0.65000	0.69200
+49.183	0.70000	0.70400
+49.103	0.75000	0.71400
+48.863	0.80000	0.72400
+48.529	0.85000	0.74400
+47.356	0.90000	0.77600
+45.330	0.95000	0.84500
+Source
+Kireev V.A.; Sitnikov I.P.: Bestimmung des Druckes und der Zusammensetzung des Dampfes und  der Verdampfungswärme von  Methanol-Chloroform-Mischungen und freie Energie und Entropie bei der ihre Bildungen. Zh.Fiz.Khim. 15 (1941) 492-499
+$$$Vapor-Liquid Equilibrium Data Set 423
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+Temperature	322.45	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+58.875	0.05000	0.13800
+64.355	0.10000	0.25400
+69.968	0.15000	0.35000
+74.607	0.20000	0.42400
+78.140	0.25000	0.47600
+80.807	0.30000	0.52000
+82.833	0.35000	0.55000
+84.433	0.40000	0.57700
+85.713	0.45000	0.59800
+86.233	0.50000	0.61900
+86.686	0.55000	0.63400
+87.006	0.60000	0.64700
+87.313	0.65000	0.65900
+87.579	0.70000	0.67000
+87.566	0.75000	0.68000
+87.219	0.80000	0.69400
+86.326	0.85000	0.71600
+84.340	0.90000	0.75400
+80.167	0.95000	0.82400
+Source
+Kireev V.A.; Sitnikov I.P.: Bestimmung des Druckes und der Zusammensetzung des Dampfes und  der Verdampfungswärme von  Methanol-Chloroform-Mischungen und freie Energie und Entropie bei der ihre Bildungen. Zh.Fiz.Khim. 15 (1941) 492-499
+$$$Vapor-Liquid Equilibrium Data Set 424
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+336.15	0.04000	0.10200
+335.15	0.06500	0.15400
+334.05	0.09500	0.21500
+332.45	0.14600	0.30400
+330.95	0.19600	0.37800
+330.15	0.23000	0.42000
+329.05	0.28700	0.47200
+328.45	0.33200	0.50700
+327.85	0.38300	0.54000
+327.45	0.42500	0.56400
+327.15	0.45900	0.58000
+326.95	0.52000	0.60700
+326.85	0.55700	0.61900
+326.65	0.62800	0.64300
+326.65	0.63600	0.64600
+326.65	0.66700	0.65500
+326.85	0.75300	0.68400
+327.05	0.79700	0.70100
+327.55	0.85500	0.73000
+328.35	0.90400	0.76800
+329.45	0.93700	0.81200
+331.05	0.97000	0.87500
+Source
+Nagata I.: Isobaric Vapor-Liquid Equilibria for the Ternary System Chloroform-Methanol-Ethyl Acetate. J.Chem.Eng.Data 7 (1962) 367-373
+Source
+Kireev V.A.; Sitnikov I.P.: Bestimmung des Druckes und der Zusammensetzung des Dampfes und  der Verdampfungswärme von  Methanol-Chloroform-Mischungen und freie Energie und Entropie bei der ihre Bildungen. Zh.Fiz.Khim. 15 (1941) 492-499
+Nagata I.: Isobaric Vapor-Liquid Equilibria for the Ternary System Chloroform-Methanol-Ethyl Acetate. J.Chem.Eng.Data 7 (1962) 367-373

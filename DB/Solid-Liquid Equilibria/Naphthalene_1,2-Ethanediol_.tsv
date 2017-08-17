@@ -1,18 +1,18 @@
-$$$Solid-Liquid Equilibrium Data Set 7794	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-T [K]	xL1 [mol/mol]	
-309.35	0.00526	
-329.45	0.01060	
-347.15	0.02060	
-Source	
-Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102	
-$$$Solid-Liquid Equilibrium Data Set 49306	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-T [K]	xL1 [mol/mol]	
-298.15	0.00506	
-Source	
-Van Meter F.M.; Neumann H.M.: Solvation of the Tris(1,10-phenanthroline)iron(II) Cation as Measured by Solubility and Nuclear Magnetic Resonance Shifts. J.Am.Chem.Soc. 98 (1976) 1382-1388	
+$$$Solid-Liquid Equilibrium Data Set 7794
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+T [K]	xL1 [mol/mol]
+309.35	0.00526
+329.45	0.01060
+347.15	0.02060
+Source
+Pierotti G.J.; Deal C.H.; Derr E.L.: (Addendum included). Ind.Eng.Chem. 51 (1959) 95-102
+$$$Solid-Liquid Equilibrium Data Set 49306
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+T [K]	xL1 [mol/mol]
+298.15	0.00506
+Source
+Van Meter F.M.; Neumann H.M.: Solvation of the Tris(1,10-phenanthroline)iron(II) Cation as Measured by Solubility and Nuclear Magnetic Resonance Shifts. J.Am.Chem.Soc. 98 (1976) 1382-1388

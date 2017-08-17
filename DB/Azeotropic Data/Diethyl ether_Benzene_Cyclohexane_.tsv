@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H6	78.114	71-43-2	Benzene	
-3	C6H12	84.161	110-82-7	Cyclohexane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	446.090	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	n.a.	790.828	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	n.a.	1135.565	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	zeotropic	
-1	Satyanarayana M.; Rao M.N.: Vapor-Liquid Equilibria of Non-Ideal Solutions at Atmospheric and Super-Atmospheric Pressures-Benzene-Cyclohexane-Diethyl Ether System. Trans.Indian Inst.Chem.Engrs. 13 (1961) 4-12	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H6	78.114	71-43-2	Benzene
+3	C6H12	84.161	110-82-7	Cyclohexane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	446.090	n.a.	n.a.	n.a.	n.a.	Author	1
+none	n.a.	790.828	n.a.	n.a.	n.a.	n.a.	Author	1
+none	n.a.	1135.565	n.a.	n.a.	n.a.	n.a.	Author	1
+none	zeotropic
+1	Satyanarayana M.; Rao M.N.: Vapor-Liquid Equilibria of Non-Ideal Solutions at Atmospheric and Super-Atmospheric Pressures-Benzene-Cyclohexane-Diethyl Ether System. Trans.Indian Inst.Chem.Engrs. 13 (1961) 4-12

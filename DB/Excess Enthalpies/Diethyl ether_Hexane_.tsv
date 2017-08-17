@@ -1,31 +1,31 @@
-$$$Enthalpy of Mixing Data Set 6222	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-15.190	0.98990	
-12.620	0.99160	
-11.470	0.99240	
-10.040	0.99330	
-8.890	0.99410	
-7.510	0.99500	
-4.980	0.99660	
-Source	
-Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	
-$$$Enthalpy of Mixing Data Set 11469	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-131.000	0.91500	
-96.700	0.94200	
-57.400	0.95700	
-63.500	0.96100	
-31.900	0.97700	
-Source	
-Koldobskaya L.L.; Gaile A.A.; Semenov L.V.; Zhmaev E.G.; Kuznetsova S.Yu.; Rumyantseva N.V.: Mischungsenthalpie von Kohlenwasserstoffen mit sauerstoff- und stickstoffhaltigen polaren Lösungsmitteln. Viniti  (1987) 1-17	
-Source	
-Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	
-Koldobskaya L.L.; Gaile A.A.; Semenov L.V.; Zhmaev E.G.; Kuznetsova S.Yu.; Rumyantseva N.V.: Mischungsenthalpie von Kohlenwasserstoffen mit sauerstoff- und stickstoffhaltigen polaren Lösungsmitteln. Viniti  (1987) 1-17	
+$$$Enthalpy of Mixing Data Set 6222
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+15.190	0.98990
+12.620	0.99160
+11.470	0.99240
+10.040	0.99330
+8.890	0.99410
+7.510	0.99500
+4.980	0.99660
+Source
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118
+$$$Enthalpy of Mixing Data Set 11469
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+131.000	0.91500
+96.700	0.94200
+57.400	0.95700
+63.500	0.96100
+31.900	0.97700
+Source
+Koldobskaya L.L.; Gaile A.A.; Semenov L.V.; Zhmaev E.G.; Kuznetsova S.Yu.; Rumyantseva N.V.: Mischungsenthalpie von Kohlenwasserstoffen mit sauerstoff- und stickstoffhaltigen polaren Lösungsmitteln. Viniti  (1987) 1-17
+Source
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118
+Koldobskaya L.L.; Gaile A.A.; Semenov L.V.; Zhmaev E.G.; Kuznetsova S.Yu.; Rumyantseva N.V.: Mischungsenthalpie von Kohlenwasserstoffen mit sauerstoff- und stickstoffhaltigen polaren Lösungsmitteln. Viniti  (1987) 1-17

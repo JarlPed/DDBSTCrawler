@@ -1,68 +1,68 @@
-$$$Vapor-Liquid Equilibrium Data Set 622	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C6H6	78.114	71-43-2	Benzene	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-353.16	0.01600	0.02000	
-353.10	0.02700	0.03300	
-352.92	0.06000	0.07100	
-352.55	0.13600	0.15700	
-352.43	0.16000	0.18400	
-352.11	0.23000	0.25600	
-351.81	0.30000	0.32900	
-351.58	0.35900	0.38700	
-351.34	0.42200	0.44800	
-351.27	0.44100	0.46500	
-350.99	0.52800	0.54700	
-350.82	0.58700	0.60500	
-350.64	0.69700	0.70700	
-350.53	0.77400	0.78000	
-350.47	0.83400	0.83800	
-350.46	0.84100	0.84500	
-350.44	0.85700	0.86000	
-350.38	0.91200	0.91400	
-350.34	0.95000	0.95100	
-Source	
-Carr A.D.; Kropholler H.W.: Vapor-Liquid Equilibria at Atmospheric Pressure. J.Chem.Eng.Data 7 (1962) 26-28	
-$$$Vapor-Liquid Equilibrium Data Set 2441	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	323.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-36.996	0.14970	0.16410	
-37.509	0.33460	0.35190	
-37.690	0.45800	0.46960	
-37.825	0.56970	0.57830	
-37.940	0.62890	0.63420	
-37.972	0.67080	0.67460	
-38.000	0.71700	0.71820	
-38.053	0.75990	0.76160	
-38.053	0.76290	0.76460	
-38.077	0.81620	0.81620	
-38.102	0.85450	0.85490	
-38.108	0.86370	0.86370	
-38.124	0.89760	0.89760	
-Source	
-Linek J.; Prochazka K.; Wichterle I.: Liquid-Vapor Equilibrium LIV The Systems Ethyl Acetate-Benzene, Ethyl Acetate-Toluene and Ethyl Acetate-Ethylbenzene. Collect.Czech.Chem.Commun. 37 (1972) 3010-3014	
-$$$Vapor-Liquid Equilibrium Data Set 2442	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	333.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-53.298	0.12250	0.14220	
-54.642	0.31240	0.33020	
-55.046	0.39040	0.40790	
-55.381	0.47240	0.49000	
-55.645	0.57020	0.58220	
-55.769	0.63380	0.64280	
-55.862	0.68410	0.69080	
-55.943	0.75950	0.76460	
-55.985	0.82000	0.82050	
-Source	
-Linek J.; Prochazka K.; Wichterle I.: Liquid-Vapor Equilibrium LIV The Systems Ethyl Acetate-Benzene, Ethyl Acetate-Toluene and Ethyl Acetate-Ethylbenzene. Collect.Czech.Chem.Commun. 37 (1972) 3010-3014	
-Source	
-Carr A.D.; Kropholler H.W.: Vapor-Liquid Equilibria at Atmospheric Pressure. J.Chem.Eng.Data 7 (1962) 26-28	
-Linek J.; Prochazka K.; Wichterle I.: Liquid-Vapor Equilibrium LIV The Systems Ethyl Acetate-Benzene, Ethyl Acetate-Toluene and Ethyl Acetate-Ethylbenzene. Collect.Czech.Chem.Commun. 37 (1972) 3010-3014	
+$$$Vapor-Liquid Equilibrium Data Set 622
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C6H6	78.114	71-43-2	Benzene
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+353.16	0.01600	0.02000
+353.10	0.02700	0.03300
+352.92	0.06000	0.07100
+352.55	0.13600	0.15700
+352.43	0.16000	0.18400
+352.11	0.23000	0.25600
+351.81	0.30000	0.32900
+351.58	0.35900	0.38700
+351.34	0.42200	0.44800
+351.27	0.44100	0.46500
+350.99	0.52800	0.54700
+350.82	0.58700	0.60500
+350.64	0.69700	0.70700
+350.53	0.77400	0.78000
+350.47	0.83400	0.83800
+350.46	0.84100	0.84500
+350.44	0.85700	0.86000
+350.38	0.91200	0.91400
+350.34	0.95000	0.95100
+Source
+Carr A.D.; Kropholler H.W.: Vapor-Liquid Equilibria at Atmospheric Pressure. J.Chem.Eng.Data 7 (1962) 26-28
+$$$Vapor-Liquid Equilibrium Data Set 2441
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	323.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+36.996	0.14970	0.16410
+37.509	0.33460	0.35190
+37.690	0.45800	0.46960
+37.825	0.56970	0.57830
+37.940	0.62890	0.63420
+37.972	0.67080	0.67460
+38.000	0.71700	0.71820
+38.053	0.75990	0.76160
+38.053	0.76290	0.76460
+38.077	0.816200.81620
+38.102	0.85450	0.85490
+38.108	0.863700.86370
+38.124	0.897600.89760
+Source
+Linek J.; Prochazka K.; Wichterle I.: Liquid-Vapor Equilibrium LIV The Systems Ethyl Acetate-Benzene, Ethyl Acetate-Toluene and Ethyl Acetate-Ethylbenzene. Collect.Czech.Chem.Commun. 37 (1972) 3010-3014
+$$$Vapor-Liquid Equilibrium Data Set 2442
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	333.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+53.298	0.12250	0.14220
+54.642	0.31240	0.33020
+55.046	0.39040	0.40790
+55.381	0.47240	0.49000
+55.645	0.57020	0.58220
+55.769	0.63380	0.64280
+55.862	0.68410	0.69080
+55.943	0.75950	0.76460
+55.985	0.82000	0.82050
+Source
+Linek J.; Prochazka K.; Wichterle I.: Liquid-Vapor Equilibrium LIV The Systems Ethyl Acetate-Benzene, Ethyl Acetate-Toluene and Ethyl Acetate-Ethylbenzene. Collect.Czech.Chem.Commun. 37 (1972) 3010-3014
+Source
+Carr A.D.; Kropholler H.W.: Vapor-Liquid Equilibria at Atmospheric Pressure. J.Chem.Eng.Data 7 (1962) 26-28
+Linek J.; Prochazka K.; Wichterle I.: Liquid-Vapor Equilibrium LIV The Systems Ethyl Acetate-Benzene, Ethyl Acetate-Toluene and Ethyl Acetate-Ethylbenzene. Collect.Czech.Chem.Commun. 37 (1972) 3010-3014

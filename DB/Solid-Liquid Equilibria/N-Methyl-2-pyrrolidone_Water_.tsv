@@ -1,54 +1,54 @@
-$$$Solid-Liquid Equilibrium Data Set 12919	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-248.65	1.00000	
-237.95	0.84000	
-233.15	0.78000	
-232.65	0.74000	
-225.85	0.61000	
-230.45	0.50000	
-248.15	0.36000	
-249.15	0.33000	
-243.35	0.29000	
-229.65	0.25000	
-229.45	0.20000	
-236.65	0.18000	
-237.85	0.15000	
-241.65	0.14000	
-256.55	0.11000	
-273.15	0.00000	
-Source	
-Afanasenko L.D.; Yarym-Agaev N.L.; Tolmacheva G.B.; Lukash S.A.: Equilibria between Condensed Phases in the System Diethylene Glycol-n-Methylpyrrolidone-Water. Zh.Prikl.Khim. 54 (1981) 1492-1497	
-$$$Solid-Liquid Equilibrium Data Set 12920	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xS1 [mol/mol]	
-225.25	0.84000	
-224.35	0.74000	
-224.75	0.50000	
-221.65	0.20000	
-Source	
-Afanasenko L.D.; Yarym-Agaev N.L.; Tolmacheva G.B.; Lukash S.A.: Equilibria between Condensed Phases in the System Diethylene Glycol-n-Methylpyrrolidone-Water. Zh.Prikl.Khim. 54 (1981) 1492-1497	
-$$$Solid-Liquid Equilibrium Data Set 19731	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-273.15	0.00000	
-272.15	0.019792	
-271.15	0.04346	
-268.65	0.07226	
-263.15	0.10806	
-251.15	0.15378	
-237.15	0.21420	
-227.75	0.25233	
-224.35	0.29777	
-228.55	0.42093	
-235.95	0.62057	
-241.65	0.77542	
-248.95	1.00000	
-Source	
-Bakhtyukova G.N.; Demidova Y.A.; Kiryakov V.N.; Usyukin I.P.; Shleinikov V.M.: Freezing Points of Aqueous Acetone, Methyl Alcohol, and N-Methylpyrrolidone Solutions. J.Appl.Chem.USSR 40 (1967) 592-595	
+$$$Solid-Liquid Equilibrium Data Set 12919
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+248.65	1.00000
+237.95	0.84000
+233.15	0.78000
+232.65	0.74000
+225.85	0.61000
+230.45	0.50000
+248.15	0.36000
+249.15	0.33000
+243.35	0.29000
+229.65	0.25000
+229.45	0.20000
+236.65	0.18000
+237.85	0.15000
+241.65	0.14000
+256.55	0.11000
+273.15	0.00000
+Source
+Afanasenko L.D.; Yarym-Agaev N.L.; Tolmacheva G.B.; Lukash S.A.: Equilibria between Condensed Phases in the System Diethylene Glycol-n-Methylpyrrolidone-Water. Zh.Prikl.Khim. 54 (1981) 1492-1497
+$$$Solid-Liquid Equilibrium Data Set 12920
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	H2O	18.015	7732-18-5	Water
+T [K]	xS1 [mol/mol]
+225.25	0.84000
+224.35	0.74000
+224.75	0.50000
+221.65	0.20000
+Source
+Afanasenko L.D.; Yarym-Agaev N.L.; Tolmacheva G.B.; Lukash S.A.: Equilibria between Condensed Phases in the System Diethylene Glycol-n-Methylpyrrolidone-Water. Zh.Prikl.Khim. 54 (1981) 1492-1497
+$$$Solid-Liquid Equilibrium Data Set 19731
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+273.15	0.00000
+272.15	0.019792
+271.15	0.04346
+268.65	0.07226
+263.15	0.10806
+251.15	0.15378
+237.15	0.21420
+227.75	0.25233
+224.35	0.29777
+228.55	0.42093
+235.95	0.62057
+241.65	0.77542
+248.95	1.00000
+Source
+Bakhtyukova G.N.; Demidova Y.A.; Kiryakov V.N.; Usyukin I.P.; Shleinikov V.M.: Freezing Points of Aqueous Acetone, Methyl Alcohol, and N-Methylpyrrolidone Solutions. J.Appl.Chem.USSR 40 (1967) 592-595

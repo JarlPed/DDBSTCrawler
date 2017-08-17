@@ -1,78 +1,78 @@
-$$$Excess Volume Data Set 4511	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	308.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0080	0.06590	
-0.0360	0.20120	
-0.0600	0.26280	
-0.0670	0.30860	
-0.0810	0.36280	
-0.0950	0.43320	
-0.1040	0.49110	
-0.1090	0.49950	
-0.1100	0.54900	
-0.1140	0.55890	
-0.1100	0.60560	
-0.1150	0.61840	
-0.1100	0.65260	
-0.1120	0.68960	
-0.1040	0.74210	
-0.0930	0.79230	
-0.0740	0.86340	
-0.0400	0.93360	
-0.0140	0.97720	
-Source	
-Sandhu J.S.; Sharma A.K.; Wadi R.K.: Excess Molar Volumes of 1-alkanol (C1-C5) Binary Mixtures with Acetonitrile. J.Chem.Eng.Data 31 (1986) 152-154	
-$$$Excess Volume Data Set 7600	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.01825	0.14410	
-0.04282	0.27240	
-0.07731	0.37700	
-0.10517	0.47680	
-0.1172	0.56190	
-0.13294	0.63790	
-0.12567	0.72390	
-0.11261	0.77240	
-0.10263	0.83480	
-0.08336	0.89100	
-0.03424	0.94620	
-Source	
-Mato F.; Fernandez-Polanco F.: II. Sistemas acetonitrilo-alcoholes normales. Anal.Quim. 71 (1975) 815-820	
-$$$Excess Volume Data Set 12755	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-Pressure	1.010	bar	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0000	0.05980	
-0.0130	0.10480	
-0.0230	0.15830	
-0.0320	0.20050	
-0.0500	0.25520	
-0.0590	0.29480	
-0.0680	0.34980	
-0.0830	0.40330	
-0.0900	0.45240	
-0.0970	0.50410	
-0.1010	0.55670	
-0.1040	0.60900	
-0.1040	0.64890	
-0.1060	0.70740	
-0.0960	0.75600	
-0.0830	0.80350	
-0.0680	0.85850	
-0.0570	0.90360	
-0.0230	0.95230	
-Source	
-Aznarez S.B.; Postigo M.A.: Excess Molar Volumes of Binary Mixtures of Acetonitrile with n-Alkanols at 25°C. J.Solution Chem. 27 (1998) 1045-1053	
-Source	
-Sandhu J.S.; Sharma A.K.; Wadi R.K.: Excess Molar Volumes of 1-alkanol (C1-C5) Binary Mixtures with Acetonitrile. J.Chem.Eng.Data 31 (1986) 152-154	
-Mato F.; Fernandez-Polanco F.: II. Sistemas acetonitrilo-alcoholes normales. Anal.Quim. 71 (1975) 815-820	
-Aznarez S.B.; Postigo M.A.: Excess Molar Volumes of Binary Mixtures of Acetonitrile with n-Alkanols at 25°C. J.Solution Chem. 27 (1998) 1045-1053	
+$$$Excess Volume Data Set 4511
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	308.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0080	0.06590
+0.0360	0.20120
+0.0600	0.26280
+0.0670	0.30860
+0.0810	0.36280
+0.0950	0.43320
+0.1040	0.49110
+0.1090	0.49950
+0.1100	0.54900
+0.1140	0.55890
+0.1100	0.60560
+0.1150	0.61840
+0.1100	0.65260
+0.1120	0.68960
+0.1040	0.74210
+0.0930	0.79230
+0.0740	0.86340
+0.0400	0.93360
+0.0140	0.97720
+Source
+Sandhu J.S.; Sharma A.K.; Wadi R.K.: Excess Molar Volumes of 1-alkanol (C1-C5) Binary Mixtures with Acetonitrile. J.Chem.Eng.Data 31 (1986) 152-154
+$$$Excess Volume Data Set 7600
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.01825	0.14410
+0.04282	0.27240
+0.07731	0.37700
+0.10517	0.47680
+0.1172	0.56190
+0.13294	0.63790
+0.12567	0.72390
+0.11261	0.77240
+0.10263	0.83480
+0.08336	0.89100
+0.03424	0.94620
+Source
+Mato F.; Fernandez-Polanco F.: II. Sistemas acetonitrilo-alcoholes normales. Anal.Quim. 71 (1975) 815-820
+$$$Excess Volume Data Set 12755
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+Pressure	1.010	bar
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0000	0.05980
+0.0130	0.10480
+0.0230	0.15830
+0.0320	0.20050
+0.0500	0.25520
+0.0590	0.29480
+0.0680	0.34980
+0.0830	0.40330
+0.0900	0.45240
+0.0970	0.50410
+0.1010	0.55670
+0.1040	0.60900
+0.1040	0.64890
+0.1060	0.70740
+0.0960	0.75600
+0.0830	0.80350
+0.0680	0.85850
+0.0570	0.90360
+0.0230	0.95230
+Source
+Aznarez S.B.; Postigo M.A.: Excess Molar Volumes of Binary Mixtures of Acetonitrile with n-Alkanols at 25°C. J.Solution Chem. 27 (1998) 1045-1053
+Source
+Sandhu J.S.; Sharma A.K.; Wadi R.K.: Excess Molar Volumes of 1-alkanol (C1-C5) Binary Mixtures with Acetonitrile. J.Chem.Eng.Data 31 (1986) 152-154
+Mato F.; Fernandez-Polanco F.: II. Sistemas acetonitrilo-alcoholes normales. Anal.Quim. 71 (1975) 815-820
+Aznarez S.B.; Postigo M.A.: Excess Molar Volumes of Binary Mixtures of Acetonitrile with n-Alkanols at 25°C. J.Solution Chem. 27 (1998) 1045-1053

@@ -1,29 +1,29 @@
-$$$Excess Volume Data Set 4035	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0127	0.00712	
-0.0314	0.01793	
-0.0477	0.02786	
-0.0670	0.04028	
-0.0997	0.06293	
-0.1300	0.08400	
-0.2405	0.19770	
-0.2917	0.30570	
-0.3080	0.42610	
-0.3011	0.50630	
-0.2750	0.60430	
-0.2236	0.70930	
-0.1627	0.80310	
-0.0735	0.91620	
-0.0657	0.93040	
-0.0355	0.96285	
-0.0187	0.98060	
-0.00976	0.98978	
-0.00479	0.99489	
-Source	
-Berti P.; Lepori L.; Matteoli E.: Excess Volumes of Cyclohexane + a linear Ether at 298.15 K. Fluid Phase Equilib. 44 (1989) 285-294	
-Source	
-Berti P.; Lepori L.; Matteoli E.: Excess Volumes of Cyclohexane + a linear Ether at 298.15 K. Fluid Phase Equilib. 44 (1989) 285-294	
+$$$Excess Volume Data Set 4035
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0127	0.00712
+0.0314	0.01793
+0.0477	0.02786
+0.0670	0.04028
+0.0997	0.06293
+0.1300	0.08400
+0.2405	0.19770
+0.2917	0.30570
+0.3080	0.42610
+0.3011	0.50630
+0.2750	0.60430
+0.2236	0.70930
+0.1627	0.80310
+0.0735	0.91620
+0.0657	0.93040
+0.0355	0.96285
+0.0187	0.98060
+0.00976	0.98978
+0.00479	0.99489
+Source
+Berti P.; Lepori L.; Matteoli E.: Excess Volumes of Cyclohexane + a linear Ether at 298.15 K. Fluid Phase Equilib. 44 (1989) 285-294
+Source
+Berti P.; Lepori L.; Matteoli E.: Excess Volumes of Cyclohexane + a linear Ether at 298.15 K. Fluid Phase Equilib. 44 (1989) 285-294

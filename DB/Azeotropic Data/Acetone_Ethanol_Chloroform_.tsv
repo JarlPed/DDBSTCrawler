@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	CHCl3	119.377	67-66-3	Chloroform	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-homSaddle	n.a.	101.325	0.34000	n.a.	0.47000	n.a.	Author	2	
-homSaddle	328.150	n.a.	0.35000	n.a.	0.52000	n.a.	Author	2	
-homSaddle	336.350	101.325	0.35000	n.a.	0.46000	n.a.	Author	1	
-homSaddle	homogeneous saddle	
-1	Morachevskii A.G.; Leontev N.P.: Liquid-Vapor Equilibrium in the Ternary System Acetone-Chloroform Ethanol. Russ.J.Phys.Chem. 34 (1960) 1114-1115	
-2	Susarev M.P.; Zapolskaya M.A.; Vinichenko I.G.: Liquid-Vapor Equilibrium in the System Acetone-Chloroform-Ethanol. Russ.J.Phys.Chem. 39 (1965) 1279-1282	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H6O	46.069	64-17-5	Ethanol
+3	CHCl3	119.377	67-66-3	Chloroform
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+homSaddle	n.a.	101.325	0.34000	n.a.	0.47000	n.a.	Author	2
+homSaddle	328.150	n.a.	0.35000	n.a.	0.52000	n.a.	Author	2
+homSaddle	336.350	101.325	0.35000	n.a.	0.46000	n.a.	Author	1
+homSaddle	homogeneous saddle
+1	Morachevskii A.G.; Leontev N.P.: Liquid-Vapor Equilibrium in the Ternary System Acetone-Chloroform Ethanol. Russ.J.Phys.Chem. 34 (1960) 1114-1115
+2	Susarev M.P.; Zapolskaya M.A.; Vinichenko I.G.: Liquid-Vapor Equilibrium in the System Acetone-Chloroform-Ethanol. Russ.J.Phys.Chem. 39 (1965) 1279-1282

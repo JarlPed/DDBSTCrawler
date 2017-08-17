@@ -1,80 +1,80 @@
-$$$Vapor-Liquid Equilibrium Data Set 3694	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-411.55	0.00000	0.00000	
-389.45	0.03000	0.65000	
-370.75	0.08500	0.81500	
-363.55	0.14500	0.84000	
-360.25	0.18000	0.87000	
-357.15	0.33500	0.89000	
-355.55	0.44500	0.89500	
-354.25	0.62000	0.91000	
-353.35	0.72500	0.91000	
-352.85	0.78800	0.91500	
-352.65	0.82500	0.92500	
-352.25	0.86000	0.93000	
-352.05	0.89000	0.93500	
-351.95	0.93000	0.95000	
-351.85	0.95000	0.96200	
-351.75	0.96500	0.97000	
-351.55	1.00000	1.00000	
-Source	
-Yakushina L.K.; Koshelkov V.A.: Liquid-Vapor Equilibrium in the System p-Xylene-Ethyl Alcohol. J.Appl.Chem.USSR 49 (1976) 686-687	
-$$$Vapor-Liquid Equilibrium Data Set 7220	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-411.52	0.00000	0.00000	
-373.82	0.05700	0.67100	
-365.04	0.12000	0.77000	
-359.44	0.21100	0.82500	
-357.26	0.30600	0.84100	
-353.52	0.66800	0.88100	
-352.67	0.78000	0.89800	
-352.08	0.86100	0.91900	
-351.72	0.91400	0.94000	
-351.59	0.94200	0.95500	
-351.49	0.96800	0.97300	
-351.46	0.98600	0.98700	
-351.45	1.00000	1.00000	
-Source	
-Galska-Krajewska A.: Rownowagi Ciez-Para Cisnieniem Atmosferycznym W Ukladach Zloznych Z Alkoholu Etylowego Oraz Etylobenzenu I p-Ksylenu. Rocz.Chem. 40 (1966) 863-871	
-$$$Vapor-Liquid Equilibrium Data Set 9727	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	318.15	K	
-P [kPa]	x1 [mol/mol]	
-4.446	0.00355	
-4.954	0.00544	
-5.464	0.00740	
-5.926	0.00924	
-7.125	0.01430	
-7.614	0.01657	
-8.518	0.02101	
-10.061	0.02988	
-11.284	0.03861	
-12.280	0.04735	
-13.527	0.06153	
-14.459	0.07539	
-15.164	0.08858	
-15.740	0.10170	
-16.216	0.11440	
-16.944	0.13870	
-17.500	0.16200	
-17.932	0.18380	
-18.428	0.21470	
-18.904	0.25220	
-19.262	0.28630	
-19.542	0.31740	
-Source	
-Stokes R.H.; French H.T.: Thermodynamic Functions for the System Ethanol+p+Xylene from Vapour Pressures, Ethalpies of Mixing and Volume of Mixing, and Their Interpretation in Terms of Association. J.Chem.Soc.Faraday Trans.1 76 (1980) 537-548	
-Source	
-Yakushina L.K.; Koshelkov V.A.: Liquid-Vapor Equilibrium in the System p-Xylene-Ethyl Alcohol. J.Appl.Chem.USSR 49 (1976) 686-687	
-Galska-Krajewska A.: Rownowagi Ciez-Para Cisnieniem Atmosferycznym W Ukladach Zloznych Z Alkoholu Etylowego Oraz Etylobenzenu I p-Ksylenu. Rocz.Chem. 40 (1966) 863-871	
-Stokes R.H.; French H.T.: Thermodynamic Functions for the System Ethanol+p+Xylene from Vapour Pressures, Ethalpies of Mixing and Volume of Mixing, and Their Interpretation in Terms of Association. J.Chem.Soc.Faraday Trans.1 76 (1980) 537-548	
+$$$Vapor-Liquid Equilibrium Data Set 3694
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+411.55	0.000000.00000
+389.45	0.03000	0.65000
+370.75	0.08500	0.81500
+363.55	0.14500	0.84000
+360.25	0.18000	0.87000
+357.15	0.33500	0.89000
+355.55	0.44500	0.89500
+354.25	0.62000	0.91000
+353.35	0.72500	0.91000
+352.85	0.78800	0.91500
+352.65	0.82500	0.92500
+352.25	0.86000	0.93000
+352.05	0.89000	0.93500
+351.95	0.93000	0.95000
+351.85	0.95000	0.96200
+351.75	0.96500	0.97000
+351.55	1.000001.00000
+Source
+Yakushina L.K.; Koshelkov V.A.: Liquid-Vapor Equilibrium in the System p-Xylene-Ethyl Alcohol. J.Appl.Chem.USSR 49 (1976) 686-687
+$$$Vapor-Liquid Equilibrium Data Set 7220
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+411.52	0.000000.00000
+373.82	0.05700	0.67100
+365.04	0.12000	0.77000
+359.44	0.21100	0.82500
+357.26	0.30600	0.84100
+353.52	0.66800	0.88100
+352.67	0.78000	0.89800
+352.08	0.86100	0.91900
+351.72	0.91400	0.94000
+351.59	0.94200	0.95500
+351.49	0.96800	0.97300
+351.46	0.98600	0.98700
+351.45	1.000001.00000
+Source
+Galska-Krajewska A.: Rownowagi Ciez-Para Cisnieniem Atmosferycznym W Ukladach Zloznych Z Alkoholu Etylowego Oraz Etylobenzenu I p-Ksylenu. Rocz.Chem. 40 (1966) 863-871
+$$$Vapor-Liquid Equilibrium Data Set 9727
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	318.15	K
+P [kPa]	x1 [mol/mol]
+4.446	0.00355
+4.954	0.00544
+5.464	0.00740
+5.926	0.00924
+7.125	0.01430
+7.614	0.01657
+8.518	0.02101
+10.061	0.02988
+11.284	0.03861
+12.280	0.04735
+13.527	0.06153
+14.459	0.07539
+15.164	0.08858
+15.740	0.10170
+16.216	0.11440
+16.944	0.13870
+17.500	0.16200
+17.932	0.18380
+18.428	0.21470
+18.904	0.25220
+19.262	0.28630
+19.542	0.31740
+Source
+Stokes R.H.; French H.T.: Thermodynamic Functions for the System Ethanol+p+Xylene from Vapour Pressures, Ethalpies of Mixing and Volume of Mixing, and Their Interpretation in Terms of Association. J.Chem.Soc.Faraday Trans.1 76 (1980) 537-548
+Source
+Yakushina L.K.; Koshelkov V.A.: Liquid-Vapor Equilibrium in the System p-Xylene-Ethyl Alcohol. J.Appl.Chem.USSR 49 (1976) 686-687
+Galska-Krajewska A.: Rownowagi Ciez-Para Cisnieniem Atmosferycznym W Ukladach Zloznych Z Alkoholu Etylowego Oraz Etylobenzenu I p-Ksylenu. Rocz.Chem. 40 (1966) 863-871
+Stokes R.H.; French H.T.: Thermodynamic Functions for the System Ethanol+p+Xylene from Vapour Pressures, Ethalpies of Mixing and Volume of Mixing, and Their Interpretation in Terms of Association. J.Chem.Soc.Faraday Trans.1 76 (1980) 537-548

@@ -1,60 +1,60 @@
-$$$Enthalpy of Mixing Data Set 436	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--49.400	0.01560	
--130.800	0.05210	
--171.400	0.09000	
--177.100	0.11570	
--172.600	0.14230	
--129.300	0.18790	
--63.600	0.23180	
-22.500	0.27780	
-201.600	0.36250	
-392.500	0.45280	
-456.100	0.48290	
-556.400	0.53560	
-678.300	0.61480	
-739.700	0.67090	
-763.700	0.70470	
-777.200	0.73960	
-778.900	0.76800	
-772.000	0.79180	
-746.300	0.82640	
-675.600	0.87150	
-550.900	0.91470	
-258.800	0.96960	
-Source	
-Nagata I.; Kawamura Y.; Asano H.; Fujiwara K.; Ogasawara Y.: Excess Enthalpies for Binary Mixtures of Chloroform with Alcohols. Z.Phys.Chem.(Leipzig) 259 (1978) 1109-1116	
-$$$Enthalpy of Mixing Data Set 437	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
--48.600	0.02230	
--95.600	0.06210	
--104.600	0.10200	
--100.400	0.11940	
--46.900	0.16780	
-38.000	0.21740	
-252.300	0.31670	
-674.500	0.51250	
-796.900	0.58990	
-879.600	0.67420	
-895.900	0.71680	
-893.600	0.75050	
-881.500	0.77730	
-851.300	0.80920	
-851.000	0.81160	
-780.600	0.85260	
-658.100	0.89570	
-541.400	0.92430	
-418.500	0.94680	
-251.900	0.97010	
-Source	
-Nagata I.; Kawamura Y.; Asano H.; Fujiwara K.; Ogasawara Y.: Excess Enthalpies for Binary Mixtures of Chloroform with Alcohols. Z.Phys.Chem.(Leipzig) 259 (1978) 1109-1116	
-Source	
-Nagata I.; Kawamura Y.; Asano H.; Fujiwara K.; Ogasawara Y.: Excess Enthalpies for Binary Mixtures of Chloroform with Alcohols. Z.Phys.Chem.(Leipzig) 259 (1978) 1109-1116	
+$$$Enthalpy of Mixing Data Set 436
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-49.400	0.01560
+-130.800	0.05210
+-171.400	0.09000
+-177.100	0.11570
+-172.600	0.14230
+-129.300	0.18790
+-63.600	0.23180
+22.500	0.27780
+201.600	0.36250
+392.500	0.45280
+456.100	0.48290
+556.400	0.53560
+678.300	0.61480
+739.700	0.67090
+763.700	0.70470
+777.200	0.73960
+778.900	0.76800
+772.000	0.79180
+746.300	0.82640
+675.600	0.87150
+550.900	0.91470
+258.800	0.96960
+Source
+Nagata I.; Kawamura Y.; Asano H.; Fujiwara K.; Ogasawara Y.: Excess Enthalpies for Binary Mixtures of Chloroform with Alcohols. Z.Phys.Chem.(Leipzig) 259 (1978) 1109-1116
+$$$Enthalpy of Mixing Data Set 437
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+-48.600	0.02230
+-95.600	0.06210
+-104.600	0.10200
+-100.400	0.11940
+-46.900	0.16780
+38.000	0.21740
+252.300	0.31670
+674.500	0.51250
+796.900	0.58990
+879.600	0.67420
+895.900	0.71680
+893.600	0.75050
+881.500	0.77730
+851.300	0.80920
+851.000	0.81160
+780.600	0.85260
+658.100	0.89570
+541.400	0.92430
+418.500	0.94680
+251.900	0.97010
+Source
+Nagata I.; Kawamura Y.; Asano H.; Fujiwara K.; Ogasawara Y.: Excess Enthalpies for Binary Mixtures of Chloroform with Alcohols. Z.Phys.Chem.(Leipzig) 259 (1978) 1109-1116
+Source
+Nagata I.; Kawamura Y.; Asano H.; Fujiwara K.; Ogasawara Y.: Excess Enthalpies for Binary Mixtures of Chloroform with Alcohols. Z.Phys.Chem.(Leipzig) 259 (1978) 1109-1116

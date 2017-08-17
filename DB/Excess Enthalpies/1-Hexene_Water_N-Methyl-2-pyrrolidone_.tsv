@@ -1,82 +1,82 @@
-$$$Enthalpy of Mixing Data Set 9142	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	H2O	18.015	7732-18-5	Water	
-3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	416.290	K	
-Pressure	24.000	bar	
-hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
--3.740	0.03450	0.14040	
-154.630	0.06330	0.24340	
-156.570	0.06350	0.24340	
-187.370	0.07020	0.13520	
-191.368	0.07020	0.13520	
-191.348	0.07020	0.13520	
-351.070	0.09720	0.23460	
-356.580	0.09720	0.23460	
-360.916	0.10710	0.12980	
-576.320	0.13240	0.22550	
-520.053	0.14520	0.12430	
-725.480	0.16910	0.21590	
-726.680	0.16910	0.21590	
-648.456	0.18470	0.11850	
-891.750	0.20730	0.20600	
-774.122	0.22560	0.11260	
-1127.150	0.28920	0.18470	
-960.021	0.31180	0.10010	
-1270.180	0.37900	0.16140	
-1077.780	0.40460	0.08660	
-1339.290	0.47790	0.13570	
-1119.010	0.50480	0.07200	
-1330.450	0.58750	0.10720	
-1085.390	0.61330	0.05620	
-1210.960	0.70920	0.07570	
-963.781	0.73110	0.03910	
-1068.320	0.77570	0.05830	
-823.484	0.79380	0.03000	
-823.293	0.79380	0.03000	
-883.140	0.84600	0.04000	
-888.220	0.84600	0.04000	
-667.124	0.85950	0.02040	
-655.403	0.85950	0.02040	
-545.550	0.92060	0.02060	
-538.610	0.92060	0.02060	
-401.438	0.92810	0.01050	
-395.999	0.92810	0.01050	
-330.330	0.95970	0.01050	
-220.814	0.96360	0.00530	
-224.610	0.96360	0.00530	
-Source	
-Fischer K.; Gmehling J.: Influence of Water on the Vapor-Liquid Equilibria, Activity Coefficients at Infinite Dilution and Enthalpies of Mixing for Mixtures of n-Methyl-2-Pyrrolidone with C5 or C6 Hydrocarbons. Fluid Phase Equilib. 218 (2004) 69-76	
-$$$Enthalpy of Mixing Data Set 9143	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	H2O	18.015	7732-18-5	Water	
-3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	363.150	K	
-Pressure	8.000	bar	
-hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
--345.778	0.06260	0.24360	
--71.903	0.06940	0.13530	
-80.984	0.13050	0.22600	
-262.221	0.14370	0.12450	
-394.073	0.20470	0.20670	
-515.448	0.22350	0.11290	
-628.568	0.28590	0.18560	
-707.653	0.30930	0.10040	
-773.789	0.37520	0.16240	
-811.451	0.40170	0.08700	
-832.090	0.47400	0.13670	
-829.729	0.50180	0.07240	
-778.684	0.58360	0.10820	
-776.737	0.61050	0.05660	
-644.827	0.70610	0.07640	
-624.737	0.72880	0.03940	
-460.536	0.84390	0.04060	
-393.673	0.85810	0.02060	
-357.288	0.91950	0.02090	
-234.904	0.92730	0.01060	
-Source	
-Fischer K.; Gmehling J.: Influence of Water on the Vapor-Liquid Equilibria, Activity Coefficients at Infinite Dilution and Enthalpies of Mixing for Mixtures of n-Methyl-2-Pyrrolidone with C5 or C6 Hydrocarbons. Fluid Phase Equilib. 218 (2004) 69-76	
-Source	
-Fischer K.; Gmehling J.: Influence of Water on the Vapor-Liquid Equilibria, Activity Coefficients at Infinite Dilution and Enthalpies of Mixing for Mixtures of n-Methyl-2-Pyrrolidone with C5 or C6 Hydrocarbons. Fluid Phase Equilib. 218 (2004) 69-76	
+$$$Enthalpy of Mixing Data Set 9142
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	H2O	18.015	7732-18-5	Water
+3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	416.290	K
+Pressure	24.000	bar
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]
+-3.740	0.03450	0.14040
+154.630	0.06330	0.24340
+156.570	0.06350	0.24340
+187.370	0.07020	0.13520
+191.368	0.07020	0.13520
+191.348	0.07020	0.13520
+351.070	0.09720	0.23460
+356.580	0.09720	0.23460
+360.916	0.10710	0.12980
+576.320	0.13240	0.22550
+520.053	0.14520	0.12430
+725.480	0.16910	0.21590
+726.680	0.16910	0.21590
+648.456	0.18470	0.11850
+891.750	0.20730	0.20600
+774.122	0.22560	0.11260
+1127.150	0.28920	0.18470
+960.021	0.31180	0.10010
+1270.180	0.37900	0.16140
+1077.780	0.40460	0.08660
+1339.290	0.47790	0.13570
+1119.010	0.50480	0.07200
+1330.450	0.58750	0.10720
+1085.390	0.61330	0.05620
+1210.960	0.70920	0.07570
+963.781	0.73110	0.03910
+1068.320	0.77570	0.05830
+823.484	0.79380	0.03000
+823.293	0.79380	0.03000
+883.140	0.84600	0.04000
+888.220	0.84600	0.04000
+667.124	0.85950	0.02040
+655.403	0.85950	0.02040
+545.550	0.92060	0.02060
+538.610	0.92060	0.02060
+401.438	0.92810	0.01050
+395.999	0.92810	0.01050
+330.330	0.95970	0.01050
+220.814	0.96360	0.00530
+224.610	0.96360	0.00530
+Source
+Fischer K.; Gmehling J.: Influence of Water on the Vapor-Liquid Equilibria, Activity Coefficients at Infinite Dilution and Enthalpies of Mixing for Mixtures of n-Methyl-2-Pyrrolidone with C5 or C6 Hydrocarbons. Fluid Phase Equilib. 218 (2004) 69-76
+$$$Enthalpy of Mixing Data Set 9143
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	H2O	18.015	7732-18-5	Water
+3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	363.150	K
+Pressure	8.000	bar
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]
+-345.778	0.06260	0.24360
+-71.903	0.06940	0.13530
+80.984	0.13050	0.22600
+262.221	0.14370	0.12450
+394.073	0.20470	0.20670
+515.448	0.22350	0.11290
+628.568	0.28590	0.18560
+707.653	0.30930	0.10040
+773.789	0.37520	0.16240
+811.451	0.40170	0.08700
+832.090	0.47400	0.13670
+829.729	0.50180	0.07240
+778.684	0.58360	0.10820
+776.737	0.61050	0.05660
+644.827	0.70610	0.07640
+624.737	0.72880	0.03940
+460.536	0.84390	0.04060
+393.673	0.85810	0.02060
+357.288	0.91950	0.02090
+234.904	0.92730	0.01060
+Source
+Fischer K.; Gmehling J.: Influence of Water on the Vapor-Liquid Equilibria, Activity Coefficients at Infinite Dilution and Enthalpies of Mixing for Mixtures of n-Methyl-2-Pyrrolidone with C5 or C6 Hydrocarbons. Fluid Phase Equilib. 218 (2004) 69-76
+Source
+Fischer K.; Gmehling J.: Influence of Water on the Vapor-Liquid Equilibria, Activity Coefficients at Infinite Dilution and Enthalpies of Mixing for Mixtures of n-Methyl-2-Pyrrolidone with C5 or C6 Hydrocarbons. Fluid Phase Equilib. 218 (2004) 69-76

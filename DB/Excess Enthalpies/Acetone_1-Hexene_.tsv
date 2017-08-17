@@ -1,56 +1,56 @@
-$$$Enthalpy of Mixing Data Set 7008	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H12	84.161	592-41-6	1-Hexene	
-Temperature	298.150	K	
-Pressure	5.000	bar	
-hE [J/mol]	x1 [mol/mol]	
-295.599	0.06250	
-549.519	0.12180	
-678.256	0.15970	
-678.206	0.15970	
-671.678	0.15970	
-880.636	0.23190	
-1011.690	0.29950	
-1014.990	0.29950	
-1133.600	0.42300	
-1144.760	0.53280	
-1063.030	0.63110	
-1065.180	0.63110	
-1070.820	0.63110	
-925.226	0.71950	
-736.822	0.79960	
-739.216	0.79960	
-526.690	0.87250	
-524.801	0.87250	
-272.991	0.93900	
-272.385	0.93900	
-140.006	0.96940	
-Source	
-Gmehling J.; Meents B.: Excess Enthalpie sof Some Alkanone (C3 - C7) + Alkene (C6, C8). Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 161-168	
-$$$Enthalpy of Mixing Data Set 7023	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H12	84.161	592-41-6	1-Hexene	
-Temperature	328.180	K	
-Pressure	5.000	bar	
-hE [J/mol]	x1 [mol/mol]	
-298.185	0.06250	
-559.561	0.12180	
-702.414	0.15970	
-702.240	0.15970	
-922.441	0.23190	
-1071.980	0.29950	
-1070.220	0.29950	
-1217.540	0.42300	
-1217.690	0.53280	
-1128.440	0.63110	
-976.336	0.71950	
-776.356	0.79960	
-551.769	0.87250	
-285.556	0.93900	
-141.065	0.97010	
-Source	
-Gmehling J.; Meents B.: Excess Enthalpie sof Some Alkanone (C3 - C7) + Alkene (C6, C8). Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 161-168	
-Source	
-Gmehling J.; Meents B.: Excess Enthalpie sof Some Alkanone (C3 - C7) + Alkene (C6, C8). Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 161-168	
+$$$Enthalpy of Mixing Data Set 7008
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H12	84.161	592-41-6	1-Hexene
+Temperature	298.150	K
+Pressure	5.000	bar
+hE [J/mol]	x1 [mol/mol]
+295.599	0.06250
+549.519	0.12180
+678.256	0.15970
+678.206	0.15970
+671.678	0.15970
+880.636	0.23190
+1011.690	0.29950
+1014.990	0.29950
+1133.600	0.42300
+1144.760	0.53280
+1063.030	0.63110
+1065.180	0.63110
+1070.820	0.63110
+925.226	0.71950
+736.822	0.79960
+739.216	0.79960
+526.690	0.87250
+524.801	0.87250
+272.991	0.93900
+272.385	0.93900
+140.006	0.96940
+Source
+Gmehling J.; Meents B.: Excess Enthalpie sof Some Alkanone (C3 - C7) + Alkene (C6, C8). Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 161-168
+$$$Enthalpy of Mixing Data Set 7023
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H12	84.161	592-41-6	1-Hexene
+Temperature	328.180	K
+Pressure	5.000	bar
+hE [J/mol]	x1 [mol/mol]
+298.185	0.06250
+559.561	0.12180
+702.414	0.15970
+702.240	0.15970
+922.441	0.23190
+1071.980	0.29950
+1070.220	0.29950
+1217.540	0.42300
+1217.690	0.53280
+1128.440	0.63110
+976.336	0.71950
+776.356	0.79960
+551.769	0.87250
+285.556	0.93900
+141.065	0.97010
+Source
+Gmehling J.; Meents B.: Excess Enthalpie sof Some Alkanone (C3 - C7) + Alkene (C6, C8). Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 161-168
+Source
+Gmehling J.; Meents B.: Excess Enthalpie sof Some Alkanone (C3 - C7) + Alkene (C6, C8). Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 161-168

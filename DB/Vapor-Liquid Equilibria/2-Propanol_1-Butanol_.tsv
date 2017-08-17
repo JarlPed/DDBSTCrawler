@@ -1,60 +1,60 @@
-$$$Vapor-Liquid Equilibrium Data Set 6748	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-387.85	0.05250	0.18200	
-386.25	0.08800	0.27500	
-385.35	0.10500	0.31500	
-381.95	0.17500	0.45500	
-380.75	0.19100	0.49900	
-378.85	0.23900	0.55900	
-376.45	0.29300	0.61100	
-372.35	0.37500	0.69500	
-370.85	0.42600	0.74100	
-367.95	0.49800	0.79900	
-365.35	0.57300	0.83900	
-362.05	0.68900	0.89600	
-360.25	0.76100	0.92300	
-357.45	0.88500	0.96700	
-356.35	0.94600	0.98200	
-Source	
-Morozov A.V.; Sarkisov A.G.; Turovskii V.B.; Ilyaskin V.I.: . Viniti  (1978) 1-7	
-$$$Vapor-Liquid Equilibrium Data Set 11486	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	101.35	kPa	
-T [K]	x1 [mol/mol]	
-383.75	0.12050	
-378.25	0.23570	
-373.85	0.34590	
-370.15	0.44820	
-366.52	0.55240	
-363.77	0.64930	
-361.30	0.74120	
-359.08	0.83150	
-357.05	0.91750	
-Source	
-Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)	
-$$$Vapor-Liquid Equilibrium Data Set 11487	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	53.33	kPa	
-T [K]	x1 [mol/mol]	
-366.73	0.12050	
-361.43	0.23570	
-357.27	0.34590	
-353.73	0.44820	
-350.72	0.55210	
-348.13	0.64930	
-345.75	0.74120	
-343.78	0.83150	
-341.86	0.91750	
-Source	
-Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)	
-Source	
-Morozov A.V.; Sarkisov A.G.; Turovskii V.B.; Ilyaskin V.I.: . Viniti  (1978) 1-7	
-Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)	
+$$$Vapor-Liquid Equilibrium Data Set 6748
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+387.85	0.05250	0.18200
+386.25	0.08800	0.27500
+385.35	0.10500	0.31500
+381.95	0.17500	0.45500
+380.75	0.19100	0.49900
+378.85	0.23900	0.55900
+376.45	0.29300	0.61100
+372.35	0.37500	0.69500
+370.85	0.42600	0.74100
+367.95	0.49800	0.79900
+365.35	0.57300	0.83900
+362.05	0.68900	0.89600
+360.25	0.76100	0.92300
+357.45	0.88500	0.96700
+356.35	0.94600	0.98200
+Source
+Morozov A.V.; Sarkisov A.G.; Turovskii V.B.; Ilyaskin V.I.: . Viniti  (1978) 1-7
+$$$Vapor-Liquid Equilibrium Data Set 11486
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	101.35	kPa
+T [K]	x1 [mol/mol]
+383.75	0.12050
+378.25	0.23570
+373.85	0.34590
+370.15	0.44820
+366.52	0.55240
+363.77	0.64930
+361.30	0.74120
+359.08	0.83150
+357.05	0.91750
+Source
+Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)
+$$$Vapor-Liquid Equilibrium Data Set 11487
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	53.33	kPa
+T [K]	x1 [mol/mol]
+366.73	0.12050
+361.43	0.23570
+357.27	0.34590
+353.73	0.44820
+350.72	0.55210
+348.13	0.64930
+345.75	0.74120
+343.78	0.83150
+341.86	0.91750
+Source
+Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)
+Source
+Morozov A.V.; Sarkisov A.G.; Turovskii V.B.; Ilyaskin V.I.: . Viniti  (1978) 1-7
+Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)

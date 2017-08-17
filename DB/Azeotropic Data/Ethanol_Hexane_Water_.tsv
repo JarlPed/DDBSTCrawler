@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H14	86.177	110-54-3	Hexane	
-3	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-hetPmax	329.150	101.325	0.16826	0.62208	n.a.	Distillation	Author	3	
-hetPmax	329.190	101.325	0.21500	0.64100	n.a.	Distillation	Author	1	
-hetPmax	329.750	101.325	n.a.	n.a.	n.a.	Distillation	Author	2	
-hetPmax	heterogeneous pressure maximum	
-1	Kudryavtseva L.S.; Toome M.Yu.; Susarev M.P.: XI. Calculation of the Compositions of Ternary Hydrocarbon (Halogenohydrocarbon) - Water - Ethyl (Butyl) Alcohol Ternary Azeotropes. Viniti  (1973) 1-7	
-2	Durrans T.H.: A Treatise on Distillation. Perfum.Essent.Oil Rec. 11 (1920) 154-198	
-3	Fritzweiler R.; Dietrich K.R.: Der Azeotropismus und seine Anwendung für ein neues Verfahren zur Entwässerung des Äthylalkohols. Beih.Zeitschr.Ver.Deutsch.Chem. 1 (1933) 1-11	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H14	86.177	110-54-3	Hexane
+3	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+hetPmax	329.150	101.325	0.16826	0.62208	n.a.	Distillation	Author	3
+hetPmax	329.190	101.325	0.21500	0.64100	n.a.	Distillation	Author	1
+hetPmax	329.750	101.325	n.a.	n.a.	n.a.	Distillation	Author	2
+hetPmax	heterogeneous pressure maximum
+1	Kudryavtseva L.S.; Toome M.Yu.; Susarev M.P.: XI. Calculation of the Compositions of Ternary Hydrocarbon (Halogenohydrocarbon) - Water - Ethyl (Butyl) Alcohol Ternary Azeotropes. Viniti  (1973) 1-7
+2	Durrans T.H.: A Treatise on Distillation. Perfum.Essent.Oil Rec. 11 (1920) 154-198
+3	Fritzweiler R.; Dietrich K.R.: Der Azeotropismus und seine Anwendung für ein neues Verfahren zur Entwässerung des Äthylalkohols. Beih.Zeitschr.Ver.Deutsch.Chem. 1 (1933) 1-11

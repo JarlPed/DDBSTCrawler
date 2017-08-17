@@ -1,9 +1,9 @@
-$$$Solid-Liquid Equilibrium Data Set 52505	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C2H6O	46.069	64-17-5	Ethanol	
-T [K]	xL1 [mol/mol]	
-162.10	0.00870	
-161.57	0.01530	
-Source	
-Pushin N.A.; Glagoleva A.A.: Equilibrium in the water-alcohol system. Zh.Russ.Fiz.Khim.Obshch.Khim. 47 (1915) 100-113	
+$$$Solid-Liquid Equilibrium Data Set 52505
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C2H6O	46.069	64-17-5	Ethanol
+T [K]	xL1 [mol/mol]
+162.10	0.00870
+161.57	0.01530
+Source
+Pushin N.A.; Glagoleva A.A.: Equilibrium in the water-alcohol system. Zh.Russ.Fiz.Khim.Obshch.Khim. 47 (1915) 100-113

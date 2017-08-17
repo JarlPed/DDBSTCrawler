@@ -1,76 +1,76 @@
-$$$Vapor-Liquid Equilibrium Data Set 8612	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Pressure	0.9733	kPa	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-100.792	0.00600	0.08600	
-100.792	0.04000	0.25500	
-99.192	0.04200	0.30000	
-100.925	0.19600	0.55900	
-100.658	0.28400	0.59600	
-100.392	0.36200	0.62600	
-100.125	0.43800	0.64500	
-99.992	0.50400	0.67000	
-100.125	0.58800	0.69400	
-100.125	0.59200	0.69600	
-100.125	0.60700	0.70200	
-100.125	0.64500	0.71800	
-100.525	0.68700	0.73600	
-99.059	0.72400	0.75200	
-98.925	0.74000	0.76200	
-98.925	0.75900	0.77200	
-100.258	0.78100	0.78600	
-99.725	0.85200	0.83100	
-100.258	0.87900	0.85500	
-100.258	0.88400	0.85500	
-100.258	0.91900	0.89500	
-99.858	0.98400	0.97300	
-Source	
-Bonauguri E.; Bicelli L.; Spiller G.: Ricerche sulla distillazione - I: Idrocarburi aromatici e alcooli. Chim.Ind. Milano 33 (1951) 81-90	
-$$$Vapor-Liquid Equilibrium Data Set 23607	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Pressure	95.00	kPa	
-T [K]	x1 [mol/mol]	
-407.95	0.00000	
-398.15	0.09300	
-394.25	0.20110	
-392.45	0.30200	
-391.25	0.39000	
-390.15	0.50300	
-389.65	0.60300	
-389.15	0.69500	
-388.85	0.79600	
-389.05	0.90150	
-389.05	1.00000	
-Source	
-Vittal Prasad T.E.; Jaipuran Rao B.M.; Ajay Kumar V.; Bhatt S.S.; Prasad D.H.L.: Boiling Temperature Measurements on the Binary Mixtures of m-Xylene with some Aliphatic Alcohols. Phys.Chem.Liq. 40 (2002) 221-224	
-$$$Vapor-Liquid Equilibrium Data Set 25037	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	308.15	K	
-P [kPa]	x1 [mol/mol]	
-2.200	0.05300	
-2.4505	0.11100	
-2.6904	0.17150	
-2.9504	0.25050	
-3.080	0.31900	
-3.200	0.39250	
-3.2304	0.44250	
-3.2704	0.50900	
-3.3104	0.59250	
-3.2704	0.64950	
-3.2104	0.72600	
-2.9104	0.83150	
-2.5705	0.89450	
-2.160	0.94600	
-1.7905	1.00000	
-Source	
-Maken S.; Park J.J.; Bhardwaj U.; Chander Singh K.; Park J.-W.; Han S.D.; Deshwal B.R.: (Vapour + liquid) equilibria of (1-butanol + benzene, or toluene, or o-, or m-, or p-xylene) at T = 308.15 K. J.Chem.Thermodyn. 36 (2004) 309-315	
-Source	
-Bonauguri E.; Bicelli L.; Spiller G.: Ricerche sulla distillazione - I: Idrocarburi aromatici e alcooli. Chim.Ind. Milano 33 (1951) 81-90	
-Vittal Prasad T.E.; Jaipuran Rao B.M.; Ajay Kumar V.; Bhatt S.S.; Prasad D.H.L.: Boiling Temperature Measurements on the Binary Mixtures of m-Xylene with some Aliphatic Alcohols. Phys.Chem.Liq. 40 (2002) 221-224	
-Maken S.; Park J.J.; Bhardwaj U.; Chander Singh K.; Park J.-W.; Han S.D.; Deshwal B.R.: (Vapour + liquid) equilibria of (1-butanol + benzene, or toluene, or o-, or m-, or p-xylene) at T = 308.15 K. J.Chem.Thermodyn. 36 (2004) 309-315	
+$$$Vapor-Liquid Equilibrium Data Set 8612
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Pressure	0.9733	kPa
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+100.792	0.00600	0.08600
+100.792	0.04000	0.25500
+99.192	0.04200	0.30000
+100.925	0.19600	0.55900
+100.658	0.28400	0.59600
+100.392	0.36200	0.62600
+100.125	0.43800	0.64500
+99.992	0.50400	0.67000
+100.125	0.58800	0.69400
+100.125	0.59200	0.69600
+100.125	0.60700	0.70200
+100.125	0.64500	0.71800
+100.525	0.68700	0.73600
+99.059	0.72400	0.75200
+98.925	0.74000	0.76200
+98.925	0.75900	0.77200
+100.258	0.78100	0.78600
+99.725	0.85200	0.83100
+100.258	0.87900	0.85500
+100.258	0.88400	0.85500
+100.258	0.91900	0.89500
+99.858	0.98400	0.97300
+Source
+Bonauguri E.; Bicelli L.; Spiller G.: Ricerche sulla distillazione - I: Idrocarburi aromatici e alcooli. Chim.Ind. Milano 33 (1951) 81-90
+$$$Vapor-Liquid Equilibrium Data Set 23607
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Pressure	95.00	kPa
+T [K]	x1 [mol/mol]
+407.95	0.00000
+398.15	0.09300
+394.25	0.20110
+392.45	0.30200
+391.25	0.39000
+390.15	0.50300
+389.65	0.60300
+389.15	0.69500
+388.85	0.79600
+389.05	0.90150
+389.05	1.00000
+Source
+Vittal Prasad T.E.; Jaipuran Rao B.M.; Ajay Kumar V.; Bhatt S.S.; Prasad D.H.L.: Boiling Temperature Measurements on the Binary Mixtures of m-Xylene with some Aliphatic Alcohols. Phys.Chem.Liq. 40 (2002) 221-224
+$$$Vapor-Liquid Equilibrium Data Set 25037
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	308.15	K
+P [kPa]	x1 [mol/mol]
+2.200	0.05300
+2.4505	0.11100
+2.6904	0.17150
+2.9504	0.25050
+3.080	0.31900
+3.200	0.39250
+3.2304	0.44250
+3.2704	0.50900
+3.3104	0.59250
+3.2704	0.64950
+3.2104	0.72600
+2.9104	0.83150
+2.5705	0.89450
+2.160	0.94600
+1.7905	1.00000
+Source
+Maken S.; Park J.J.; Bhardwaj U.; Chander Singh K.; Park J.-W.; Han S.D.; Deshwal B.R.: (Vapour + liquid) equilibria of (1-butanol + benzene, or toluene, or o-, or m-, or p-xylene) at T = 308.15 K. J.Chem.Thermodyn. 36 (2004) 309-315
+Source
+Bonauguri E.; Bicelli L.; Spiller G.: Ricerche sulla distillazione - I: Idrocarburi aromatici e alcooli. Chim.Ind. Milano 33 (1951) 81-90
+Vittal Prasad T.E.; Jaipuran Rao B.M.; Ajay Kumar V.; Bhatt S.S.; Prasad D.H.L.: Boiling Temperature Measurements on the Binary Mixtures of m-Xylene with some Aliphatic Alcohols. Phys.Chem.Liq. 40 (2002) 221-224
+Maken S.; Park J.J.; Bhardwaj U.; Chander Singh K.; Park J.-W.; Han S.D.; Deshwal B.R.: (Vapour + liquid) equilibria of (1-butanol + benzene, or toluene, or o-, or m-, or p-xylene) at T = 308.15 K. J.Chem.Thermodyn. 36 (2004) 309-315

@@ -1,55 +1,55 @@
-$$$Vapor-Liquid Equilibrium Data Set 188	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Pressure	2.6664	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-303.15	0.00000	0.00000	
-298.35	0.30020	0.37400	
-297.35	0.45760	0.52370	
-296.85	0.63920	0.70190	
-296.25	0.77420	0.81610	
-295.95	0.85880	0.89230	
-295.55	0.92800	0.94930	
-295.25	0.96670	0.98090	
-295.25	0.96740	0.97990	
-295.25	0.98830	0.99450	
-295.25	0.99300	0.99700	
-Source	
-Othmer D.F.; Silvis S.J.; Spiel A.: Pressure Equilibrium Still for Studying Water - Acetic Acid System. Ind.Eng.Chem. 44 (1952) 1864-1872	
-$$$Vapor-Liquid Equilibrium Data Set 189	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Pressure	9.333	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-328.05	0.00000	0.00000	
-321.45	0.30740	0.39710	
-320.45	0.45460	0.54330	
-319.25	0.63300	0.71550	
-318.55	0.76990	0.83220	
-318.25	0.85700	0.89650	
-317.95	0.92740	0.95010	
-317.75	0.96720	0.98020	
-317.55	1.00000	1.00000	
-Source	
-Othmer D.F.; Silvis S.J.; Spiel A.: Pressure Equilibrium Still for Studying Water - Acetic Acid System. Ind.Eng.Chem. 44 (1952) 1864-1872	
-$$$Vapor-Liquid Equilibrium Data Set 190	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Pressure	26.664	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-353.05	0.00000	0.00000	
-344.45	0.30840	0.40400	
-343.05	0.45460	0.57300	
-341.45	0.63300	0.73370	
-340.65	0.76990	0.83960	
-340.05	0.85780	0.89920	
-339.85	0.92700	0.94930	
-339.55	0.96700	0.97790	
-339.55	1.00000	1.00000	
-Source	
-Othmer D.F.; Silvis S.J.; Spiel A.: Pressure Equilibrium Still for Studying Water - Acetic Acid System. Ind.Eng.Chem. 44 (1952) 1864-1872	
-Source	
-Othmer D.F.; Silvis S.J.; Spiel A.: Pressure Equilibrium Still for Studying Water - Acetic Acid System. Ind.Eng.Chem. 44 (1952) 1864-1872	
+$$$Vapor-Liquid Equilibrium Data Set 188
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Pressure	2.6664	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+303.15	0.000000.00000
+298.35	0.30020	0.37400
+297.35	0.45760	0.52370
+296.85	0.63920	0.70190
+296.25	0.77420	0.81610
+295.95	0.85880	0.89230
+295.55	0.92800	0.94930
+295.25	0.96670	0.98090
+295.25	0.96740	0.97990
+295.25	0.98830	0.99450
+295.25	0.99300	0.99700
+Source
+Othmer D.F.; Silvis S.J.; Spiel A.: Pressure Equilibrium Still for Studying Water - Acetic Acid System. Ind.Eng.Chem. 44 (1952) 1864-1872
+$$$Vapor-Liquid Equilibrium Data Set 189
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Pressure	9.333	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+328.05	0.000000.00000
+321.45	0.30740	0.39710
+320.45	0.45460	0.54330
+319.25	0.63300	0.71550
+318.55	0.76990	0.83220
+318.25	0.85700	0.89650
+317.95	0.92740	0.95010
+317.75	0.96720	0.98020
+317.55	1.000001.00000
+Source
+Othmer D.F.; Silvis S.J.; Spiel A.: Pressure Equilibrium Still for Studying Water - Acetic Acid System. Ind.Eng.Chem. 44 (1952) 1864-1872
+$$$Vapor-Liquid Equilibrium Data Set 190
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Pressure	26.664	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+353.05	0.000000.00000
+344.45	0.30840	0.40400
+343.05	0.45460	0.57300
+341.45	0.63300	0.73370
+340.65	0.76990	0.83960
+340.05	0.85780	0.89920
+339.85	0.92700	0.94930
+339.55	0.96700	0.97790
+339.55	1.000001.00000
+Source
+Othmer D.F.; Silvis S.J.; Spiel A.: Pressure Equilibrium Still for Studying Water - Acetic Acid System. Ind.Eng.Chem. 44 (1952) 1864-1872
+Source
+Othmer D.F.; Silvis S.J.; Spiel A.: Pressure Equilibrium Still for Studying Water - Acetic Acid System. Ind.Eng.Chem. 44 (1952) 1864-1872

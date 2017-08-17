@@ -1,64 +1,64 @@
-$$$Vapor-Liquid Equilibrium Data Set 49	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	
-12.999	0.00000	
-17.505	0.10000	
-20.332	0.20000	
-22.305	0.30000	
-23.825	0.40000	
-25.105	0.50000	
-25.371	0.52230	
-26.278	0.60000	
-27.371	0.70000	
-27.571	0.73990	
-28.411	0.80000	
-29.371	0.90000	
-30.331	1.00000	
-Source	
-Litvinov N.D.: Dampfdruck der Flüssigkeiten  und binären flüssigen Mischungen. Zh.Fiz.Khim. 14 (1940) 782-788	
-$$$Vapor-Liquid Equilibrium Data Set 50	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	308.15	K	
-P [kPa]	x1 [mol/mol]	
-20.012	0.00000	
-26.105	0.10000	
-30.158	0.20000	
-33.091	0.30000	
-35.410	0.40000	
-37.437	0.50000	
-37.824	0.52230	
-39.277	0.60000	
-41.010	0.70000	
-41.677	0.73990	
-42.676	0.80000	
-44.623	0.90000	
-45.943	1.00000	
-Source	
-Litvinov N.D.: Dampfdruck der Flüssigkeiten  und binären flüssigen Mischungen. Zh.Fiz.Khim. 14 (1940) 782-788	
-$$$Vapor-Liquid Equilibrium Data Set 559	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	318.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-33.428	0.04700	0.14440	
-36.666	0.09630	0.25740	
-43.230	0.22070	0.44170	
-46.450	0.29360	0.52040	
-50.647	0.40110	0.61390	
-53.293	0.47590	0.66970	
-57.722	0.61250	0.76140	
-60.527	0.70450	0.82010	
-63.380	0.80810	0.88050	
-66.037	0.90840	0.94180	
-67.189	0.95290	0.96990	
-Source	
-Brown I.; Smith F.: VIII. The Systems Acetone + Benzene and Acetone + Carbon tetrachloride at 45°C. Aust.J.Chem. 10 (1957) 423-428	
-Source	
-Brown I.; Smith F.: VIII. The Systems Acetone + Benzene and Acetone + Carbon tetrachloride at 45°C. Aust.J.Chem. 10 (1957) 423-428	
-Litvinov N.D.: Dampfdruck der Flüssigkeiten  und binären flüssigen Mischungen. Zh.Fiz.Khim. 14 (1940) 782-788	
+$$$Vapor-Liquid Equilibrium Data Set 49
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]
+12.999	0.00000
+17.505	0.10000
+20.332	0.20000
+22.305	0.30000
+23.825	0.40000
+25.105	0.50000
+25.371	0.52230
+26.278	0.60000
+27.371	0.70000
+27.571	0.73990
+28.411	0.80000
+29.371	0.90000
+30.331	1.00000
+Source
+Litvinov N.D.: Dampfdruck der Flüssigkeiten  und binären flüssigen Mischungen. Zh.Fiz.Khim. 14 (1940) 782-788
+$$$Vapor-Liquid Equilibrium Data Set 50
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	308.15	K
+P [kPa]	x1 [mol/mol]
+20.012	0.00000
+26.105	0.10000
+30.158	0.20000
+33.091	0.30000
+35.410	0.40000
+37.437	0.50000
+37.824	0.52230
+39.277	0.60000
+41.010	0.70000
+41.677	0.73990
+42.676	0.80000
+44.623	0.90000
+45.943	1.00000
+Source
+Litvinov N.D.: Dampfdruck der Flüssigkeiten  und binären flüssigen Mischungen. Zh.Fiz.Khim. 14 (1940) 782-788
+$$$Vapor-Liquid Equilibrium Data Set 559
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	318.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+33.428	0.04700	0.14440
+36.666	0.09630	0.25740
+43.230	0.22070	0.44170
+46.450	0.29360	0.52040
+50.647	0.40110	0.61390
+53.293	0.47590	0.66970
+57.722	0.61250	0.76140
+60.527	0.70450	0.82010
+63.380	0.80810	0.88050
+66.037	0.90840	0.94180
+67.189	0.95290	0.96990
+Source
+Brown I.; Smith F.: VIII. The Systems Acetone + Benzene and Acetone + Carbon tetrachloride at 45°C. Aust.J.Chem. 10 (1957) 423-428
+Source
+Brown I.; Smith F.: VIII. The Systems Acetone + Benzene and Acetone + Carbon tetrachloride at 45°C. Aust.J.Chem. 10 (1957) 423-428
+Litvinov N.D.: Dampfdruck der Flüssigkeiten  und binären flüssigen Mischungen. Zh.Fiz.Khim. 14 (1940) 782-788

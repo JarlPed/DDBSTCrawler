@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-293.15	137.00	GLCI	2	
-298.15	123.00	GLCI	1	
-313.15	110.00	GLCI	2	
-Short Term	Explanation	
-GLCI	GLC (without gas phase correction)	
-1	Arancibia E.L.; Catoggio J.A.: II. Ethylene Glycol. J.Chromatogr. 238 (1982) 281-290	
-2	Sarius A.; Lempe D.; Bittrich H.J.: Teil III. Grenzaktivitätskoeffizienten von Kohlenwasserstoffen in verschiedenen Selektivlösungsmitteln. Chem.Techn.(Leipzig) 30 (1978) 585-586	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+293.15	137.00	GLCI	2
+298.15	123.00	GLCI	1
+313.15	110.00	GLCI	2
+Short Term	Explanation
+GLCI	GLC (without gas phase correction)
+1	Arancibia E.L.; Catoggio J.A.: II. Ethylene Glycol. J.Chromatogr. 238 (1982) 281-290
+2	Sarius A.; Lempe D.; Bittrich H.J.: Teil III. Grenzaktivitätskoeffizienten von Kohlenwasserstoffen in verschiedenen Selektivlösungsmitteln. Chem.Techn.(Leipzig) 30 (1978) 585-586

@@ -1,21 +1,21 @@
-$$$Vapor-Liquid Equilibrium Data Set 4067	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H6	54.092	106-99-0	1,3-Butadiene	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature	323.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-55.329	0.00000	0.00000	
-286.910	0.10000	0.82300	
-418.766	0.20000	0.88800	
-487.293	0.30000	0.90900	
-528.890	0.40000	0.92000	
-552.221	0.50000	0.92700	
-561.154	0.60000	0.93000	
-567.287	0.70000	0.93300	
-573.686	0.80000	0.93700	
-582.219	0.90000	0.94500	
-571.686	1.00000	1.00000	
-Source	
-Churkin B.N.; Gorshkov V.A.; Pavlov S.Yu.; Levicheva E.N.; Karpacheva L.L.: Liquid-Vapour Equilibria in C4 Hydrocarbons-Methanol Systems. Viniti  (1977) 1-10	
-Source	
-Churkin B.N.; Gorshkov V.A.; Pavlov S.Yu.; Levicheva E.N.; Karpacheva L.L.: Liquid-Vapour Equilibria in C4 Hydrocarbons-Methanol Systems. Viniti  (1977) 1-10	
+$$$Vapor-Liquid Equilibrium Data Set 4067
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H6	54.092	106-99-0	1,3-Butadiene
+2	CH4O	32.042	67-56-1	Methanol
+Temperature	323.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+55.329	0.000000.00000
+286.910	0.10000	0.82300
+418.766	0.20000	0.88800
+487.293	0.30000	0.90900
+528.890	0.40000	0.92000
+552.221	0.50000	0.92700
+561.154	0.60000	0.93000
+567.287	0.70000	0.93300
+573.686	0.80000	0.93700
+582.219	0.90000	0.94500
+571.686	1.000001.00000
+Source
+Churkin B.N.; Gorshkov V.A.; Pavlov S.Yu.; Levicheva E.N.; Karpacheva L.L.: Liquid-Vapour Equilibria in C4 Hydrocarbons-Methanol Systems. Viniti  (1977) 1-10
+Source
+Churkin B.N.; Gorshkov V.A.; Pavlov S.Yu.; Levicheva E.N.; Karpacheva L.L.: Liquid-Vapour Equilibria in C4 Hydrocarbons-Methanol Systems. Viniti  (1977) 1-10

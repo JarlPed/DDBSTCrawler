@@ -1,72 +1,72 @@
-$$$Excess Volume Data Set 9414	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1750	0.04860	
-0.2020	0.06340	
-0.2830	0.10410	
-0.2990	0.11730	
-0.3560	0.16430	
-0.3560	0.16530	
-0.3860	0.19790	
-0.4150	0.21250	
-0.4440	0.24250	
-0.4130	0.80320	
-0.4040	0.81370	
-0.3600	0.83380	
-0.3220	0.87020	
-0.2490	0.90680	
-0.1550	0.94360	
-0.0510	0.98670	
-Source	
-Blanco A.M.; Ortega J.: Experimental Study of Miscibility, Density and Isobaric Vapor-Liquid Equilibrium Values for Mixtures of Methanol in Hydrocarbons (C5, C6). Fluid Phase Equilib. 122 (1996) 207-222	
-$$$Excess Volume Data Set 9415	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	318.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1970	0.04250	
-0.3980	0.10030	
-0.4810	0.13380	
-0.5760	0.19130	
-0.6380	0.24760	
-0.6780	0.30630	
-0.6950	0.38750	
-0.6930	0.45260	
-0.6760	0.51130	
-0.6510	0.55900	
-0.6310	0.60680	
-0.6050	0.64570	
-0.5570	0.69280	
-0.5130	0.72810	
-0.4430	0.78090	
-0.2950	0.87280	
-0.1380	0.94550	
-Source	
-Blanco A.M.; Ortega J.: Experimental Study of Miscibility, Density and Isobaric Vapor-Liquid Equilibrium Values for Mixtures of Methanol in Hydrocarbons (C5, C6). Fluid Phase Equilib. 122 (1996) 207-222	
-$$$Excess Volume Data Set 10893	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.150	K	
-Pressure	1.010	bar	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1640	0.05320	
-0.1830	0.06010	
-0.3270	0.13800	
-0.3410	0.15400	
-0.4510	0.24910	
-0.4490	0.81390	
-0.3950	0.85290	
-0.3730	0.86440	
-0.2830	0.91990	
-0.1830	0.94940	
-0.0910	0.97710	
-Source	
-Orge B.; Iglesias M.; Rodriguez A.; Canosa J.M.; Tojo J.: Mixing Properties of (Methanol, Ethanol or 1-Propanol) with (n-Pentane, n-Hexane, n-Heptane and n-Octane) at 298.15 K. Fluid Phase Equilib. 133 (1997) 213-227	
-Source	
-Blanco A.M.; Ortega J.: Experimental Study of Miscibility, Density and Isobaric Vapor-Liquid Equilibrium Values for Mixtures of Methanol in Hydrocarbons (C5, C6). Fluid Phase Equilib. 122 (1996) 207-222	
-Orge B.; Iglesias M.; Rodriguez A.; Canosa J.M.; Tojo J.: Mixing Properties of (Methanol, Ethanol or 1-Propanol) with (n-Pentane, n-Hexane, n-Heptane and n-Octane) at 298.15 K. Fluid Phase Equilib. 133 (1997) 213-227	
+$$$Excess Volume Data Set 9414
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1750	0.04860
+0.2020	0.06340
+0.2830	0.10410
+0.2990	0.11730
+0.3560	0.16430
+0.3560	0.16530
+0.3860	0.19790
+0.4150	0.21250
+0.4440	0.24250
+0.4130	0.80320
+0.4040	0.81370
+0.3600	0.83380
+0.3220	0.87020
+0.2490	0.90680
+0.1550	0.94360
+0.0510	0.98670
+Source
+Blanco A.M.; Ortega J.: Experimental Study of Miscibility, Density and Isobaric Vapor-Liquid Equilibrium Values for Mixtures of Methanol in Hydrocarbons (C5, C6). Fluid Phase Equilib. 122 (1996) 207-222
+$$$Excess Volume Data Set 9415
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	318.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1970	0.04250
+0.3980	0.10030
+0.4810	0.13380
+0.5760	0.19130
+0.6380	0.24760
+0.6780	0.30630
+0.6950	0.38750
+0.6930	0.45260
+0.6760	0.51130
+0.6510	0.55900
+0.6310	0.60680
+0.6050	0.64570
+0.5570	0.69280
+0.5130	0.72810
+0.4430	0.78090
+0.2950	0.87280
+0.1380	0.94550
+Source
+Blanco A.M.; Ortega J.: Experimental Study of Miscibility, Density and Isobaric Vapor-Liquid Equilibrium Values for Mixtures of Methanol in Hydrocarbons (C5, C6). Fluid Phase Equilib. 122 (1996) 207-222
+$$$Excess Volume Data Set 10893
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	298.150	K
+Pressure	1.010	bar
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1640	0.05320
+0.1830	0.06010
+0.3270	0.13800
+0.3410	0.15400
+0.4510	0.24910
+0.4490	0.81390
+0.3950	0.85290
+0.3730	0.86440
+0.2830	0.91990
+0.1830	0.94940
+0.0910	0.97710
+Source
+Orge B.; Iglesias M.; Rodriguez A.; Canosa J.M.; Tojo J.: Mixing Properties of (Methanol, Ethanol or 1-Propanol) with (n-Pentane, n-Hexane, n-Heptane and n-Octane) at 298.15 K. Fluid Phase Equilib. 133 (1997) 213-227
+Source
+Blanco A.M.; Ortega J.: Experimental Study of Miscibility, Density and Isobaric Vapor-Liquid Equilibrium Values for Mixtures of Methanol in Hydrocarbons (C5, C6). Fluid Phase Equilib. 122 (1996) 207-222
+Orge B.; Iglesias M.; Rodriguez A.; Canosa J.M.; Tojo J.: Mixing Properties of (Methanol, Ethanol or 1-Propanol) with (n-Pentane, n-Hexane, n-Heptane and n-Octane) at 298.15 K. Fluid Phase Equilib. 133 (1997) 213-227

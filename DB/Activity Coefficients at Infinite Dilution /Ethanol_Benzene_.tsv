@@ -1,14 +1,14 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	4.2800	OTHR	3	
-298.15	4.4400	DILU	1	
-298.15	5.2100	NSGC	2	
-Short Term	Explanation	
-DILU	dilutor	
-NSGC	GLC (non steady state method)	
-OTHR	other techniques	
-1	Endler I.; Hradetzky G.; Bittrich H.-J.: Grenzaktivitätskoeffizienten in binären Systemen Benzen-Alkanol. J.Prakt.Chem. 327 (1985) 693-697	
-2	Yang Y.; Xiao S.; Li H.; Fu Y.: The Measurement of Infinite Dilution Activity Coefficient By Non-Steaty-State Gas Chromatography. Chengdu-Keji-Daxue-Xuebao  (1988) 35-38	
-3	Schmidt T.W.: Determination of Infinite Dilution Activity Coefficients (gamma infinite) using Molecular Beams. US-Patent  (1980) 1-16	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H6	78.114	71-43-2	Benzene
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	4.2800	OTHR	3
+298.15	4.4400	DILU	1
+298.15	5.2100	NSGC	2
+Short Term	Explanation
+DILU	dilutor
+NSGC	GLC (non steady state method)
+OTHR	other techniques
+1	Endler I.; Hradetzky G.; Bittrich H.-J.: Grenzaktivitätskoeffizienten in binären Systemen Benzen-Alkanol. J.Prakt.Chem. 327 (1985) 693-697
+2	Yang Y.; Xiao S.; Li H.; Fu Y.: The Measurement of Infinite Dilution Activity Coefficient By Non-Steaty-State Gas Chromatography. Chengdu-Keji-Daxue-Xuebao  (1988) 35-38
+3	Schmidt T.W.: Determination of Infinite Dilution Activity Coefficients (gamma infinite) using Molecular Beams. US-Patent  (1980) 1-16

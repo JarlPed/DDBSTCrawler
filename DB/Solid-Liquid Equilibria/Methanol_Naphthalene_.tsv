@@ -1,53 +1,53 @@
-$$$Solid-Liquid Equilibrium Data Set 1101	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	
-292.55	0.97900	
-302.95	0.98000	
-312.75	0.95700	
-323.35	0.92900	
-332.85	0.86300	
-341.45	0.45700	
-Source	
-Sergeeva V.F.; Eskaraeva L.A.; Usmanova I.Z.; Glybovskaya V.A.: Equilibrium of Liquid Phases in Systems of Cyclohexane and Methanol with Naphthalene, with Diphenylamine, and with Benzoic Acid. J.Gen.Chem.USSR 41 (1971) 1908-1911	
-$$$Solid-Liquid Equilibrium Data Set 1172	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	
-347.45	0.18000	
-347.05	0.20600	
-345.95	0.26800	
-344.85	0.33400	
-342.65	0.50300	
-341.55	0.61300	
-338.85	0.74500	
-333.95	0.85750	
-329.85	0.89760	
-317.05	0.94840	
-310.55	0.96100	
-306.75	0.96670	
-299.45	0.97450	
-286.65	0.98370	
-273.95	0.98930	
-Source	
-Ward H.L.: The Solubility Relations of Naphthalene. J.Phys.Chem. 30 (1926) 1316-1333	
-$$$Solid-Liquid Equilibrium Data Set 2263	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	
-323.75	0.93970	
-310.75	0.96260	
-320.95	0.94130	
-331.05	0.89380	
-313.25	0.95830	
-320.75	0.94180	
-330.55	0.89760	
-313.35	0.96100	
-322.05	0.94120	
-331.55	0.89800	
-341.75	0.60930	
-Source	
-Sunier A.A.: The Solubility of Naphthalene in some Aliphatic Alcohols. J.Phys.Chem. 34 (1930) 2582-2597	
+$$$Solid-Liquid Equilibrium Data Set 1101
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]
+292.55	0.97900
+302.95	0.98000
+312.75	0.95700
+323.35	0.92900
+332.85	0.86300
+341.45	0.45700
+Source
+Sergeeva V.F.; Eskaraeva L.A.; Usmanova I.Z.; Glybovskaya V.A.: Equilibrium of Liquid Phases in Systems of Cyclohexane and Methanol with Naphthalene, with Diphenylamine, and with Benzoic Acid. J.Gen.Chem.USSR 41 (1971) 1908-1911
+$$$Solid-Liquid Equilibrium Data Set 1172
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]
+347.45	0.18000
+347.05	0.20600
+345.95	0.26800
+344.85	0.33400
+342.65	0.50300
+341.55	0.61300
+338.85	0.74500
+333.95	0.85750
+329.85	0.89760
+317.05	0.94840
+310.55	0.96100
+306.75	0.96670
+299.45	0.97450
+286.65	0.98370
+273.95	0.98930
+Source
+Ward H.L.: The Solubility Relations of Naphthalene. J.Phys.Chem. 30 (1926) 1316-1333
+$$$Solid-Liquid Equilibrium Data Set 2263
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]
+323.75	0.93970
+310.75	0.96260
+320.95	0.94130
+331.05	0.89380
+313.25	0.95830
+320.75	0.94180
+330.55	0.89760
+313.35	0.96100
+322.05	0.94120
+331.55	0.89800
+341.75	0.60930
+Source
+Sunier A.A.: The Solubility of Naphthalene in some Aliphatic Alcohols. J.Phys.Chem. 34 (1930) 2582-2597

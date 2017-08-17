@@ -1,79 +1,79 @@
-$$$Excess Volume Data Set 11571	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	313.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0834	0.12760	
-0.1997	0.32110	
-0.2593	0.45950	
-0.2813	0.56330	
-0.2903	0.63350	
-0.2887	0.68430	
-0.2836	0.72080	
-0.2687	0.76600	
-0.2528	0.79730	
-0.2362	0.82250	
-Source	
-Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340	
-$$$Excess Volume Data Set 11572	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	318.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1010	0.14030	
-0.1044	0.14940	
-0.2217	0.34710	
-0.2279	0.36180	
-0.2791	0.48710	
-0.2807	0.50320	
-0.2950	0.59120	
-0.2953	0.60650	
-0.2973	0.66040	
-0.2967	0.67450	
-0.2882	0.70940	
-0.2851	0.72250	
-0.2794	0.74420	
-0.2762	0.75630	
-0.2614	0.78670	
-0.2557	0.79730	
-0.2259	0.83940	
-0.2188	0.84800	
-Source	
-Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340	
-$$$Excess Volume Data Set 12455	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.49725	0.04000	
-0.9166	0.08000	
-1.0962	0.12000	
-1.1692	0.16000	
-1.1792	0.20000	
-1.1563	0.24000	
-1.1185	0.28000	
-1.0822	0.32000	
-1.0502	0.36000	
-1.0254	0.40000	
-1.0021	0.44000	
-0.9814	0.48000	
-0.9566	0.52000	
-0.9201	0.56000	
-0.8685	0.60000	
-0.7977	0.64000	
-0.7074	0.68000	
-0.6010	0.72000	
-0.4788	0.76000	
-0.3485	0.80000	
-0.2204	0.84000	
-0.10628	0.88000	
-0.02095	0.92000	
--0.02045	0.96000	
-Source	
-Barhala A.; Dragoescu D.; Crisciu A.V.: Relationship between Refractive Index and Excess Volume in Binary Non-Electrolyte Systems. Rev.Roum.Chim. 42 (1997) 55-62	
-Source	
-Barhala A.; Dragoescu D.; Crisciu A.V.: Relationship between Refractive Index and Excess Volume in Binary Non-Electrolyte Systems. Rev.Roum.Chim. 42 (1997) 55-62	
-Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340	
+$$$Excess Volume Data Set 11571
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	313.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0834	0.12760
+0.1997	0.32110
+0.2593	0.45950
+0.2813	0.56330
+0.2903	0.63350
+0.2887	0.68430
+0.2836	0.72080
+0.2687	0.76600
+0.2528	0.79730
+0.2362	0.82250
+Source
+Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340
+$$$Excess Volume Data Set 11572
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	318.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1010	0.14030
+0.1044	0.14940
+0.2217	0.34710
+0.2279	0.36180
+0.2791	0.48710
+0.2807	0.50320
+0.2950	0.59120
+0.2953	0.60650
+0.2973	0.66040
+0.2967	0.67450
+0.2882	0.70940
+0.2851	0.72250
+0.2794	0.74420
+0.2762	0.75630
+0.2614	0.78670
+0.2557	0.79730
+0.2259	0.83940
+0.2188	0.84800
+Source
+Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340
+$$$Excess Volume Data Set 12455
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.49725	0.04000
+0.9166	0.08000
+1.0962	0.12000
+1.1692	0.16000
+1.1792	0.20000
+1.1563	0.24000
+1.1185	0.28000
+1.0822	0.32000
+1.0502	0.36000
+1.0254	0.40000
+1.0021	0.44000
+0.9814	0.48000
+0.9566	0.52000
+0.9201	0.56000
+0.8685	0.60000
+0.7977	0.64000
+0.7074	0.68000
+0.6010	0.72000
+0.4788	0.76000
+0.3485	0.80000
+0.2204	0.84000
+0.10628	0.88000
+0.02095	0.92000
+-0.02045	0.96000
+Source
+Barhala A.; Dragoescu D.; Crisciu A.V.: Relationship between Refractive Index and Excess Volume in Binary Non-Electrolyte Systems. Rev.Roum.Chim. 42 (1997) 55-62
+Source
+Barhala A.; Dragoescu D.; Crisciu A.V.: Relationship between Refractive Index and Excess Volume in Binary Non-Electrolyte Systems. Rev.Roum.Chim. 42 (1997) 55-62
+Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340

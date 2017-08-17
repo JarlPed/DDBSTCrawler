@@ -1,65 +1,65 @@
-$$$Enthalpy of Mixing Data Set 3266	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-34.600	0.15850	
-46.300	0.26490	
-49.900	0.31550	
-53.300	0.39120	
-51.300	0.53430	
-45.500	0.63050	
-41.300	0.69050	
-29.900	0.78430	
-Source	
-Letcher T.M.; Sack J.: The Excess Enthalpy of Mixing of Some Hydrocarbon Mixtures. J.S.Afr.Chem.Inst. 28 (1975) 316-320	
-$$$Enthalpy of Mixing Data Set 3267	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-10.700	0.04750	
-31.800	0.16530	
-50.500	0.30220	
-57.000	0.39320	
-61.100	0.49350	
-57.900	0.59960	
-51.200	0.72210	
-37.700	0.84240	
-13.300	0.94190	
-Source	
-Woycicki W.: 1. n-Alkene + n-Alkane. J.Chem.Thermodyn. 7 (1975) 77-81	
-$$$Enthalpy of Mixing Data Set 22154	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	323.150	K	
-Pressure	14.790	bar	
-hE [J/mol]	x1 [mol/mol]	
-9.243	0.05190	
-18.042	0.10360	
-26.236	0.15510	
-32.170	0.20640	
-38.546	0.25750	
-42.935	0.30840	
-46.426	0.35910	
-48.146	0.40950	
-50.380	0.45980	
-50.438	0.50990	
-49.669	0.55980	
-48.657	0.60950	
-45.863	0.65890	
-43.027	0.70820	
-37.436	0.75730	
-31.899	0.80630	
-25.794	0.85500	
-18.489	0.90350	
-9.594	0.95180	
-Source	
-Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
-Source	
-Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
-Letcher T.M.; Sack J.: The Excess Enthalpy of Mixing of Some Hydrocarbon Mixtures. J.S.Afr.Chem.Inst. 28 (1975) 316-320	
-Woycicki W.: 1. n-Alkene + n-Alkane. J.Chem.Thermodyn. 7 (1975) 77-81	
+$$$Enthalpy of Mixing Data Set 3266
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+34.600	0.15850
+46.300	0.26490
+49.900	0.31550
+53.300	0.39120
+51.300	0.53430
+45.500	0.63050
+41.300	0.69050
+29.900	0.78430
+Source
+Letcher T.M.; Sack J.: The Excess Enthalpy of Mixing of Some Hydrocarbon Mixtures. J.S.Afr.Chem.Inst. 28 (1975) 316-320
+$$$Enthalpy of Mixing Data Set 3267
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+10.700	0.04750
+31.800	0.16530
+50.500	0.30220
+57.000	0.39320
+61.100	0.49350
+57.900	0.59960
+51.200	0.72210
+37.700	0.84240
+13.300	0.94190
+Source
+Woycicki W.: 1. n-Alkene + n-Alkane. J.Chem.Thermodyn. 7 (1975) 77-81
+$$$Enthalpy of Mixing Data Set 22154
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	323.150	K
+Pressure	14.790	bar
+hE [J/mol]	x1 [mol/mol]
+9.243	0.05190
+18.042	0.10360
+26.236	0.15510
+32.170	0.20640
+38.546	0.25750
+42.935	0.30840
+46.426	0.35910
+48.146	0.40950
+50.380	0.45980
+50.438	0.50990
+49.669	0.55980
+48.657	0.60950
+45.863	0.65890
+43.027	0.70820
+37.436	0.75730
+31.899	0.80630
+25.794	0.85500
+18.489	0.90350
+9.594	0.95180
+Source
+Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43
+Source
+Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43
+Letcher T.M.; Sack J.: The Excess Enthalpy of Mixing of Some Hydrocarbon Mixtures. J.S.Afr.Chem.Inst. 28 (1975) 316-320
+Woycicki W.: 1. n-Alkene + n-Alkane. J.Chem.Thermodyn. 7 (1975) 77-81

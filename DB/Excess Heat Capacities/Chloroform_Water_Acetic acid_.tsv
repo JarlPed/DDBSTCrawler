@@ -1,22 +1,22 @@
-$$$Excess Heat Capacity Data Set 558	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	H2O	18.015	7732-18-5	Water	
-3	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	298.65	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	x2 [mol/mol]	
-3.0564	0.29500	0.06500	
-4.5217	0.27300	0.13300	
-5.4010	0.24300	0.23000	
-6.4477	0.20600	0.34500	
-4.8567	0.37600	0.11200	
-9.2947	0.32500	0.23200	
-5.1916	0.50600	0.10500	
-3.3076	0.15400	0.15100	
-2.7633	0.14900	0.18900	
-3.8937	0.13500	0.25900	
-5.1079	0.11200	0.38200	
-Source	
-Campbell A.N.; Gieskes J.M.T.M.: Heats of Mixing and Heat Capacities in the System: Acetic Acid-Chloroform-Water, at 25°. Can.J.Chem. 43 (1965) 1004-1011	
-Source	
-Campbell A.N.; Gieskes J.M.T.M.: Heats of Mixing and Heat Capacities in the System: Acetic Acid-Chloroform-Water, at 25°. Can.J.Chem. 43 (1965) 1004-1011	
+$$$Excess Heat Capacity Data Set 558
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	H2O	18.015	7732-18-5	Water
+3	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	298.65	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	x2 [mol/mol]
+3.0564	0.29500	0.06500
+4.5217	0.27300	0.13300
+5.4010	0.24300	0.23000
+6.4477	0.20600	0.34500
+4.8567	0.37600	0.11200
+9.2947	0.32500	0.23200
+5.1916	0.50600	0.10500
+3.3076	0.15400	0.15100
+2.7633	0.14900	0.18900
+3.8937	0.13500	0.25900
+5.1079	0.11200	0.38200
+Source
+Campbell A.N.; Gieskes J.M.T.M.: Heats of Mixing and Heat Capacities in the System: Acetic Acid-Chloroform-Water, at 25°. Can.J.Chem. 43 (1965) 1004-1011
+Source
+Campbell A.N.; Gieskes J.M.T.M.: Heats of Mixing and Heat Capacities in the System: Acetic Acid-Chloroform-Water, at 25°. Can.J.Chem. 43 (1965) 1004-1011

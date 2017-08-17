@@ -1,62 +1,62 @@
-$$$Excess Volume Data Set 1131	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	303.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0470	0.09998	
-0.0670	0.19839	
-0.0460	0.30332	
-0.0100	0.40086	
--0.0300	0.50410	
--0.0640	0.60708	
--0.0930	0.70744	
--0.1130	0.80763	
--0.1010	0.90380	
-Source	
-Castagnolo M.; Inglese A.; Petrella G.; Sacco A.: Volumes and Heat Capacities of Binary Liquid Mixtures of Water-Sulfolane and Water-Hexamethylphosphotriamide. Thermochim.Acta 44 (1981) 67-76	
-$$$Excess Volume Data Set 2163	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0420	0.38850	
--0.0540	0.39890	
--0.0750	0.45980	
--0.1110	0.55250	
--0.1700	0.61370	
--0.1910	0.68160	
--0.1890	0.75990	
--0.1820	0.77790	
--0.1620	0.87450	
--0.1270	0.92420	
--0.0940	0.95190	
--0.0450	0.98400	
--0.0010	0.99850	
-Source	
-D'Aprano A.; Capalbi A.; Bonicelli M.G.; Ceccaroni G.F.: Volumes, Dilution Enthalpies and Dielectric Polarization of Water-Sulpholane Mixtures at Different Temperatures. Int.J.Phys.Chem.Ber.Bunsen-Ges. 96 (1992) 1854-1859	
-$$$Excess Volume Data Set 2164	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	303.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0320	0.39200	
--0.0500	0.52140	
--0.0750	0.58120	
--0.1010	0.60230	
--0.1530	0.65210	
--0.1600	0.69020	
--0.1770	0.70250	
--0.1700	0.75990	
--0.1680	0.80100	
--0.1560	0.84140	
--0.1470	0.86020	
--0.0850	0.92560	
--0.0130	0.97920	
-Source	
-D'Aprano A.; Capalbi A.; Bonicelli M.G.; Ceccaroni G.F.: Volumes, Dilution Enthalpies and Dielectric Polarization of Water-Sulpholane Mixtures at Different Temperatures. Int.J.Phys.Chem.Ber.Bunsen-Ges. 96 (1992) 1854-1859	
-Source	
-Castagnolo M.; Inglese A.; Petrella G.; Sacco A.: Volumes and Heat Capacities of Binary Liquid Mixtures of Water-Sulfolane and Water-Hexamethylphosphotriamide. Thermochim.Acta 44 (1981) 67-76	
-D'Aprano A.; Capalbi A.; Bonicelli M.G.; Ceccaroni G.F.: Volumes, Dilution Enthalpies and Dielectric Polarization of Water-Sulpholane Mixtures at Different Temperatures. Int.J.Phys.Chem.Ber.Bunsen-Ges. 96 (1992) 1854-1859	
+$$$Excess Volume Data Set 1131
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	303.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0470	0.09998
+0.0670	0.19839
+0.0460	0.30332
+0.0100	0.40086
+-0.0300	0.50410
+-0.0640	0.60708
+-0.0930	0.70744
+-0.1130	0.80763
+-0.1010	0.90380
+Source
+Castagnolo M.; Inglese A.; Petrella G.; Sacco A.: Volumes and Heat Capacities of Binary Liquid Mixtures of Water-Sulfolane and Water-Hexamethylphosphotriamide. Thermochim.Acta 44 (1981) 67-76
+$$$Excess Volume Data Set 2163
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0420	0.38850
+-0.0540	0.39890
+-0.0750	0.45980
+-0.1110	0.55250
+-0.1700	0.61370
+-0.1910	0.68160
+-0.1890	0.75990
+-0.1820	0.77790
+-0.1620	0.87450
+-0.1270	0.92420
+-0.0940	0.95190
+-0.0450	0.98400
+-0.0010	0.99850
+Source
+D'Aprano A.; Capalbi A.; Bonicelli M.G.; Ceccaroni G.F.: Volumes, Dilution Enthalpies and Dielectric Polarization of Water-Sulpholane Mixtures at Different Temperatures. Int.J.Phys.Chem.Ber.Bunsen-Ges. 96 (1992) 1854-1859
+$$$Excess Volume Data Set 2164
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	303.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0320	0.39200
+-0.0500	0.52140
+-0.0750	0.58120
+-0.1010	0.60230
+-0.1530	0.65210
+-0.1600	0.69020
+-0.1770	0.70250
+-0.1700	0.75990
+-0.1680	0.80100
+-0.1560	0.84140
+-0.1470	0.86020
+-0.0850	0.92560
+-0.0130	0.97920
+Source
+D'Aprano A.; Capalbi A.; Bonicelli M.G.; Ceccaroni G.F.: Volumes, Dilution Enthalpies and Dielectric Polarization of Water-Sulpholane Mixtures at Different Temperatures. Int.J.Phys.Chem.Ber.Bunsen-Ges. 96 (1992) 1854-1859
+Source
+Castagnolo M.; Inglese A.; Petrella G.; Sacco A.: Volumes and Heat Capacities of Binary Liquid Mixtures of Water-Sulfolane and Water-Hexamethylphosphotriamide. Thermochim.Acta 44 (1981) 67-76
+D'Aprano A.; Capalbi A.; Bonicelli M.G.; Ceccaroni G.F.: Volumes, Dilution Enthalpies and Dielectric Polarization of Water-Sulpholane Mixtures at Different Temperatures. Int.J.Phys.Chem.Ber.Bunsen-Ges. 96 (1992) 1854-1859

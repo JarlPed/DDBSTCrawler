@@ -1,75 +1,75 @@
-$$$Enthalpy of Mixing Data Set 710	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-171.659	0.07170	
-205.153	0.08690	
-272.142	0.13130	
-301.449	0.14950	
-380.999	0.20180	
-431.240	0.23940	
-427.053	0.24150	
-468.921	0.30280	
-485.669	0.35010	
-489.855	0.38720	
-494.042	0.41880	
-494.042	0.44370	
-489.855	0.47910	
-481.482	0.52040	
-447.988	0.57040	
-422.867	0.62630	
-355.878	0.69880	
-242.834	0.79660	
-96.296	0.91070	
-Source	
-Arm H.; Bankay D.; Schaller R.; Waelti M.: Systeme Tetrahydrofuran-Diäthyläther und Methanol-Tetrahydrofuran bei 25°. Helv.Chim.Acta 49 (1966) 2598-2605	
-$$$Enthalpy of Mixing Data Set 711	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-91.689	0.03130	
-225.459	0.08310	
-343.486	0.13970	
-337.361	0.14000	
-463.399	0.23430	
-524.418	0.31390	
-539.487	0.39730	
-539.517	0.40900	
-541.466	0.45570	
-527.359	0.51360	
-483.809	0.57760	
-402.727	0.66730	
-314.354	0.75340	
-254.300	0.79790	
-234.567	0.81030	
-169.224	0.85970	
-Source	
-Matous J.; Zivny A.; Biros J.: Thermodynamic Mixing Functions of the System Tetrahydrofuran (1)-Methanol (2). Collect.Czech.Chem.Commun. 37 (1972) 3960-3964	
-$$$Enthalpy of Mixing Data Set 712	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Temperature	307.150	K	
-hE [J/mol]	x1 [mol/mol]	
-290.583	0.10830	
-384.561	0.15360	
-480.229	0.22500	
-556.133	0.34180	
-572.084	0.34840	
-559.470	0.44430	
-564.083	0.49140	
-539.713	0.53420	
-433.454	0.65720	
-324.348	0.75260	
-243.723	0.81640	
-235.137	0.81970	
-128.418	0.89650	
-Source	
-Matous J.; Zivny A.; Biros J.: Thermodynamic Mixing Functions of the System Tetrahydrofuran (1)-Methanol (2). Collect.Czech.Chem.Commun. 37 (1972) 3960-3964	
-Source	
-Matous J.; Zivny A.; Biros J.: Thermodynamic Mixing Functions of the System Tetrahydrofuran (1)-Methanol (2). Collect.Czech.Chem.Commun. 37 (1972) 3960-3964	
-Arm H.; Bankay D.; Schaller R.; Waelti M.: Systeme Tetrahydrofuran-Diäthyläther und Methanol-Tetrahydrofuran bei 25°. Helv.Chim.Acta 49 (1966) 2598-2605	
+$$$Enthalpy of Mixing Data Set 710
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+171.659	0.07170
+205.153	0.08690
+272.142	0.13130
+301.449	0.14950
+380.999	0.20180
+431.240	0.23940
+427.053	0.24150
+468.921	0.30280
+485.669	0.35010
+489.855	0.38720
+494.042	0.41880
+494.042	0.44370
+489.855	0.47910
+481.482	0.52040
+447.988	0.57040
+422.867	0.62630
+355.878	0.69880
+242.834	0.79660
+96.296	0.91070
+Source
+Arm H.; Bankay D.; Schaller R.; Waelti M.: Systeme Tetrahydrofuran-Diäthyläther und Methanol-Tetrahydrofuran bei 25°. Helv.Chim.Acta 49 (1966) 2598-2605
+$$$Enthalpy of Mixing Data Set 711
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+91.689	0.03130
+225.459	0.08310
+343.486	0.13970
+337.361	0.14000
+463.399	0.23430
+524.418	0.31390
+539.487	0.39730
+539.517	0.40900
+541.466	0.45570
+527.359	0.51360
+483.809	0.57760
+402.727	0.66730
+314.354	0.75340
+254.300	0.79790
+234.567	0.81030
+169.224	0.85970
+Source
+Matous J.; Zivny A.; Biros J.: Thermodynamic Mixing Functions of the System Tetrahydrofuran (1)-Methanol (2). Collect.Czech.Chem.Commun. 37 (1972) 3960-3964
+$$$Enthalpy of Mixing Data Set 712
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Temperature	307.150	K
+hE [J/mol]	x1 [mol/mol]
+290.583	0.10830
+384.561	0.15360
+480.229	0.22500
+556.133	0.34180
+572.084	0.34840
+559.470	0.44430
+564.083	0.49140
+539.713	0.53420
+433.454	0.65720
+324.348	0.75260
+243.723	0.81640
+235.137	0.81970
+128.418	0.89650
+Source
+Matous J.; Zivny A.; Biros J.: Thermodynamic Mixing Functions of the System Tetrahydrofuran (1)-Methanol (2). Collect.Czech.Chem.Commun. 37 (1972) 3960-3964
+Source
+Matous J.; Zivny A.; Biros J.: Thermodynamic Mixing Functions of the System Tetrahydrofuran (1)-Methanol (2). Collect.Czech.Chem.Commun. 37 (1972) 3960-3964
+Arm H.; Bankay D.; Schaller R.; Waelti M.: Systeme Tetrahydrofuran-Diäthyläther und Methanol-Tetrahydrofuran bei 25°. Helv.Chim.Acta 49 (1966) 2598-2605

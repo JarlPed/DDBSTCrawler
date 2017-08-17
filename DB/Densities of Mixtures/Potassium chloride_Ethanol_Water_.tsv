@@ -1,70 +1,70 @@
-$$$Density Data Set 20350	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClK	74.551	7447-40-7	Potassium chloride	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-1.0837	0.04696	0.043234	
-1.0567	0.034075	0.04378	
-1.0303	0.02200	0.04434	
-1.0045	0.010662	0.04485	
-0.9793	0.00000	0.04536	
-1.0131	0.03148	0.13110	
-1.0015	0.02481	0.13203	
-0.9893	0.01833	0.13293	
-0.9773	0.01204	0.13371	
-0.9653	0.005936	0.13454	
-0.9533	0.00000	0.13536	
-0.9892	0.030004	0.18349	
-0.9781	0.02300	0.18480	
-0.9659	0.016194	0.18608	
-0.9545	0.00958	0.18735	
-0.9430	0.00315	0.18856	
-0.9372	0.00000	0.18917	
-0.9623	0.02433	0.23253	
-0.9593	0.022507	0.23292	
-0.9506	0.01713	0.23419	
-0.9394	0.01014	0.23591	
-0.9281	0.00333552993834	0.23751	
-0.9225	0.00000	0.23834	
-0.9312	0.01433	0.28104	
-0.9258	0.010677	0.28208	
-0.9201	0.007071	0.28311	
-0.9146	0.003512	0.28412	
-0.9090	0.00000	0.28513	
-0.8979	0.011053	0.38454	
-0.8939	0.007855	0.38576	
-0.8883	0.00390360015444	0.38733	
-0.8828	0.00000	0.38883	
-Source	
-Galleguillos H.R.; Taboada M.E.; Graber T.A.: Compositions, Densities, and Refractive Indices of Potassium Chloride + Ethanol * Water and Sodium Chloride + Ethanol + Water Solutions at (298.15 and 313.15) K. J.Chem.Eng.Data 48 (2003) 405-410	
-$$$Density Data Set 20351	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClK	74.551	7447-40-7	Potassium chloride	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	313.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9916	0.02481	0.13193	
-0.9674	0.012108	0.13363	
-0.9436	0.00000	0.13528	
-0.9712	0.022637	0.17158	
-0.9533	0.012659	0.17332	
-0.9303	0.00000	0.17555	
-0.9451	0.02071	0.23339	
-0.9276	0.010144	0.23594	
-0.9109	0.00000	0.23832	
-0.9196	0.014292	0.27852	
-0.9103	0.007052	0.28059	
-0.8978	0.00000	0.28258	
-0.8872	0.011842	0.38292	
-0.8762	0.00389857986011	0.38600	
-0.8705	0.00000	0.38752	
-0.8532	0.003939	0.48894	
-0.8506	0.001962	0.48991	
-0.8483	0.00000	0.49086	
-Source	
-Galleguillos H.R.; Taboada M.E.; Graber T.A.: Compositions, Densities, and Refractive Indices of Potassium Chloride + Ethanol * Water and Sodium Chloride + Ethanol + Water Solutions at (298.15 and 313.15) K. J.Chem.Eng.Data 48 (2003) 405-410	
-Source	
-Galleguillos H.R.; Taboada M.E.; Graber T.A.: Compositions, Densities, and Refractive Indices of Potassium Chloride + Ethanol * Water and Sodium Chloride + Ethanol + Water Solutions at (298.15 and 313.15) K. J.Chem.Eng.Data 48 (2003) 405-410	
+$$$Density Data Set 20350
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClK	74.551	7447-40-7	Potassium chloride
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+1.0837	0.04696	0.043234
+1.0567	0.034075	0.04378
+1.0303	0.02200	0.04434
+1.0045	0.010662	0.04485
+0.9793	0.00000	0.04536
+1.0131	0.03148	0.13110
+1.0015	0.02481	0.13203
+0.9893	0.01833	0.13293
+0.9773	0.01204	0.13371
+0.9653	0.005936	0.13454
+0.9533	0.00000	0.13536
+0.9892	0.030004	0.18349
+0.9781	0.02300	0.18480
+0.9659	0.016194	0.18608
+0.9545	0.00958	0.18735
+0.9430	0.00315	0.18856
+0.9372	0.00000	0.18917
+0.9623	0.02433	0.23253
+0.9593	0.022507	0.23292
+0.9506	0.01713	0.23419
+0.9394	0.01014	0.23591
+0.9281	0.00333552993834	0.23751
+0.9225	0.00000	0.23834
+0.9312	0.01433	0.28104
+0.9258	0.010677	0.28208
+0.9201	0.007071	0.28311
+0.9146	0.003512	0.28412
+0.9090	0.00000	0.28513
+0.8979	0.011053	0.38454
+0.8939	0.007855	0.38576
+0.8883	0.00390360015444	0.38733
+0.8828	0.00000	0.38883
+Source
+Galleguillos H.R.; Taboada M.E.; Graber T.A.: Compositions, Densities, and Refractive Indices of Potassium Chloride + Ethanol * Water and Sodium Chloride + Ethanol + Water Solutions at (298.15 and 313.15) K. J.Chem.Eng.Data 48 (2003) 405-410
+$$$Density Data Set 20351
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClK	74.551	7447-40-7	Potassium chloride
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	313.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9916	0.02481	0.13193
+0.9674	0.012108	0.13363
+0.9436	0.00000	0.13528
+0.9712	0.022637	0.17158
+0.9533	0.012659	0.17332
+0.9303	0.00000	0.17555
+0.9451	0.02071	0.23339
+0.9276	0.010144	0.23594
+0.9109	0.00000	0.23832
+0.9196	0.014292	0.27852
+0.9103	0.007052	0.28059
+0.8978	0.00000	0.28258
+0.8872	0.011842	0.38292
+0.8762	0.00389857986011	0.38600
+0.8705	0.00000	0.38752
+0.8532	0.003939	0.48894
+0.8506	0.001962	0.48991
+0.8483	0.00000	0.49086
+Source
+Galleguillos H.R.; Taboada M.E.; Graber T.A.: Compositions, Densities, and Refractive Indices of Potassium Chloride + Ethanol * Water and Sodium Chloride + Ethanol + Water Solutions at (298.15 and 313.15) K. J.Chem.Eng.Data 48 (2003) 405-410
+Source
+Galleguillos H.R.; Taboada M.E.; Graber T.A.: Compositions, Densities, and Refractive Indices of Potassium Chloride + Ethanol * Water and Sodium Chloride + Ethanol + Water Solutions at (298.15 and 313.15) K. J.Chem.Eng.Data 48 (2003) 405-410

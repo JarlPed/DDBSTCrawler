@@ -1,70 +1,70 @@
-$$$Enthalpy of Mixing Data Set 1841	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	303.150	K	
-hE [J/mol]	x1 [mol/mol]	
-14.500	0.05030	
-23.100	0.09470	
-38.000	0.17370	
-43.500	0.29560	
-38.300	0.34000	
-32.000	0.49080	
-28.000	0.51410	
-27.300	0.53740	
-17.400	0.67880	
-17.000	0.68570	
-14.900	0.72730	
-10.700	0.79360	
-11.200	0.80880	
-10.300	0.84200	
-17.500	0.91450	
-21.500	0.95490	
-15.700	0.98160	
-8.300	0.99070	
-Source	
-Karvo M.: V. Excess Enthalpies of Cyclohexane + Benzene, Cyclohexane + Toluene, Benzene + Sulfolane, and Toluene + Sulfolane. J.Chem.Thermodyn. 12 (1980) 635-639	
-$$$Enthalpy of Mixing Data Set 4135	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	303.150	K	
-hE [J/mol]	x1 [mol/mol]	
-14.900	0.61160	
-8.300	0.65810	
-6.300	0.68000	
-5.500	0.72740	
-7.600	0.79880	
-Source	
-Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825	
-$$$Enthalpy of Mixing Data Set 4136	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	313.150	K	
-hE [J/mol]	x1 [mol/mol]	
-12.900	0.04030	
-29.200	0.09560	
-44.900	0.17290	
-50.400	0.22010	
-53.200	0.29560	
-49.100	0.36770	
-40.200	0.46400	
-37.000	0.51410	
-32.600	0.56400	
-30.400	0.58680	
-24.600	0.61160	
-18.700	0.65810	
-16.600	0.68580	
-15.600	0.72740	
-14.500	0.74550	
-16.300	0.79880	
-18.200	0.84200	
-24.800	0.91370	
-24.400	0.96380	
-18.300	0.98170	
-Source	
-Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825	
-Source	
-Karvo M.: V. Excess Enthalpies of Cyclohexane + Benzene, Cyclohexane + Toluene, Benzene + Sulfolane, and Toluene + Sulfolane. J.Chem.Thermodyn. 12 (1980) 635-639	
-Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825	
+$$$Enthalpy of Mixing Data Set 1841
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	303.150	K
+hE [J/mol]	x1 [mol/mol]
+14.500	0.05030
+23.100	0.09470
+38.000	0.17370
+43.500	0.29560
+38.300	0.34000
+32.000	0.49080
+28.000	0.51410
+27.300	0.53740
+17.400	0.67880
+17.000	0.68570
+14.900	0.72730
+10.700	0.79360
+11.200	0.80880
+10.300	0.84200
+17.500	0.91450
+21.500	0.95490
+15.700	0.98160
+8.300	0.99070
+Source
+Karvo M.: V. Excess Enthalpies of Cyclohexane + Benzene, Cyclohexane + Toluene, Benzene + Sulfolane, and Toluene + Sulfolane. J.Chem.Thermodyn. 12 (1980) 635-639
+$$$Enthalpy of Mixing Data Set 4135
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	303.150	K
+hE [J/mol]	x1 [mol/mol]
+14.900	0.61160
+8.300	0.65810
+6.300	0.68000
+5.500	0.72740
+7.600	0.79880
+Source
+Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825
+$$$Enthalpy of Mixing Data Set 4136
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	313.150	K
+hE [J/mol]	x1 [mol/mol]
+12.900	0.04030
+29.200	0.09560
+44.900	0.17290
+50.400	0.22010
+53.200	0.29560
+49.100	0.36770
+40.200	0.46400
+37.000	0.51410
+32.600	0.56400
+30.400	0.58680
+24.600	0.61160
+18.700	0.65810
+16.600	0.68580
+15.600	0.72740
+14.500	0.74550
+16.300	0.79880
+18.200	0.84200
+24.800	0.91370
+24.400	0.96380
+18.300	0.98170
+Source
+Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825
+Source
+Karvo M.: V. Excess Enthalpies of Cyclohexane + Benzene, Cyclohexane + Toluene, Benzene + Sulfolane, and Toluene + Sulfolane. J.Chem.Thermodyn. 12 (1980) 635-639
+Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825

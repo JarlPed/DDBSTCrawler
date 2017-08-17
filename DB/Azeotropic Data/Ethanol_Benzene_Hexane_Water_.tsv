@@ -1,9 +1,9 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H6	78.114	71-43-2	Benzene	
-3	C6H14	86.177	110-54-3	Hexane	
-4	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	yaz,4 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.325	n.a.	n.a.	n.a.	n.a.	Distillation	Author	1	
-none	zeotropic	
-1	Swietoslawski W.; Zieborak K.; Galska-Krajewska A.: The Lower and Upper Limit of the Azeotropic Range of the Series. Bull.Acad.Pol.Sci.Ser.Sci.Chim.Geol.Geogr. 7 (1959) 43-49	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H6	78.114	71-43-2	Benzene
+3	C6H14	86.177	110-54-3	Hexane
+4	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	yaz,4 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.325	n.a.	n.a.	n.a.	n.a.	Distillation	Author	1
+none	zeotropic
+1	Swietoslawski W.; Zieborak K.; Galska-Krajewska A.: The Lower and Upper Limit of the Azeotropic Range of the Series. Bull.Acad.Pol.Sci.Ser.Sci.Chim.Geol.Geogr. 7 (1959) 43-49

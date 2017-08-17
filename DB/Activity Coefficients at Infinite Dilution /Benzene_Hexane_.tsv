@@ -1,13 +1,13 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-293.15	2.2100	GLCR	1	
-293.15	2.2300	GLCR	2	
-303.15	2.0040	STAT	3	
-Short Term	Explanation	
-GLCR	GLC (with gas phase correction)	
-STAT	static method	
-1	Thomas E.R.; Newman B.A.; Long T.C.; Wood D.A.; Eckert C.A.: Limiting Activity Coefficients of Nonpolar and Polar Solutes in both Volatile and Nonvolatile Solvents by Gas Chromatography. J.Chem.Eng.Data 27 (1982) 399-405	
-2	Eckert C.A.; Newman B.A.; Nicolaides G.L.; Long T.C.: Measurement and Application of Limiting Activity Coefficients. AIChE J. 27 (1981) 33-40	
-3	Li I.P.C.; Wong Y.-W.; Chang S.-D.; Lu C.-Y.: Vapor-Liquid Equilibria in Systems n-Hexane-Benzene and n-Pentane-Toluene. J.Chem.Eng.Data 17 (1972) 492-498	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C6H14	86.177	110-54-3	Hexane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+293.15	2.2100	GLCR	1
+293.15	2.2300	GLCR	2
+303.15	2.0040	STAT	3
+Short Term	Explanation
+GLCR	GLC (with gas phase correction)
+STAT	static method
+1	Thomas E.R.; Newman B.A.; Long T.C.; Wood D.A.; Eckert C.A.: Limiting Activity Coefficients of Nonpolar and Polar Solutes in both Volatile and Nonvolatile Solvents by Gas Chromatography. J.Chem.Eng.Data 27 (1982) 399-405
+2	Eckert C.A.; Newman B.A.; Nicolaides G.L.; Long T.C.: Measurement and Application of Limiting Activity Coefficients. AIChE J. 27 (1981) 33-40
+3	Li I.P.C.; Wong Y.-W.; Chang S.-D.; Lu C.-Y.: Vapor-Liquid Equilibria in Systems n-Hexane-Benzene and n-Pentane-Toluene. J.Chem.Eng.Data 17 (1972) 492-498

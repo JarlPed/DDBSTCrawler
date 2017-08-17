@@ -1,17 +1,17 @@
-$$$Solid-Liquid Equilibrium Data Set 28559	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-T [K]	xL1 [mol/mol]	
-278.20	0.17440	
-283.17	0.19100	
-288.21	0.21740	
-293.19	0.23300	
-298.25	0.27640	
-303.20	0.31390	
-308.21	0.35710	
-313.23	0.40600	
-318.17	0.46510	
-323.21	0.52570	
-Source	
-Li Q.-S.; Yi Z.-M.; Su M.-G.; Sun X.-F.: Solubility of Naphthalene in Isobutyl Acetate, n-Butyric Acid, Ethyl Acetate, N-Methyl Pyrrolidone, N,N-Dimethylformamide, and Tetrahydrofuran. J.Chem.Eng.Data 53 (2008) 2701-2703	
+$$$Solid-Liquid Equilibrium Data Set 28559
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+T [K]	xL1 [mol/mol]
+278.20	0.17440
+283.17	0.19100
+288.21	0.21740
+293.19	0.23300
+298.25	0.27640
+303.20	0.31390
+308.21	0.35710
+313.23	0.40600
+318.17	0.46510
+323.21	0.52570
+Source
+Li Q.-S.; Yi Z.-M.; Su M.-G.; Sun X.-F.: Solubility of Naphthalene in Isobutyl Acetate, n-Butyric Acid, Ethyl Acetate, N-Methyl Pyrrolidone, N,N-Dimethylformamide, and Tetrahydrofuran. J.Chem.Eng.Data 53 (2008) 2701-2703

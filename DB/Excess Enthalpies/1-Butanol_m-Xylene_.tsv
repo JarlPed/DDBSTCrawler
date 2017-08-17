@@ -1,55 +1,55 @@
-$$$Enthalpy of Mixing Data Set 4610	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-665.000	0.08030	
-793.000	0.12080	
-911.000	0.17750	
-961.000	0.21350	
-995.000	0.25290	
-1010.000	0.28350	
-1017.000	0.30590	
-1028.000	0.33510	
-1027.000	0.35300	
-1025.000	0.37440	
-1018.000	0.39950	
-1005.000	0.43030	
-972.000	0.47220	
-932.000	0.51520	
-880.000	0.55670	
-820.000	0.60850	
-753.000	0.64980	
-663.000	0.69840	
-580.000	0.74200	
-508.000	0.77680	
-419.000	0.81810	
-Source	
-Rodriguez-Nunez E.; Paz-Andrade M.I.; Jimenez E.; Bravo R.: II. Excess molar enthalpies at 298.15 K for 1-propanol, 1-butanol, and 1-pentanol. J.Chem.Thermodyn. 17 (1985) 23-28	
-$$$Enthalpy of Mixing Data Set 19409	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	108-38-3	m-Xylene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
-720.400	0.91234	
-907.200	0.87210	
-1140.800	0.79461	
-1225.400	0.75170	
-1265.800	0.69132	
-1279.400	0.61934	
-1241.400	0.56387	
-1185.300	0.51046	
-1139.800	0.44693	
-1088.500	0.39519	
-993.900	0.33552	
-859.100	0.26956	
-686.900	0.20450	
-434.200	0.12766	
-209.700	0.06641	
-Source	
-Bhardwaj U.; Singh K.C.: Excess molar enthalpies of mixing of 1-butanol with aromatic hydrocarbons at 308.15 K. Indian J.Chem.Sect.A 37 (1998) 1063-1069	
-Source	
-Bhardwaj U.; Singh K.C.: Excess molar enthalpies of mixing of 1-butanol with aromatic hydrocarbons at 308.15 K. Indian J.Chem.Sect.A 37 (1998) 1063-1069	
-Rodriguez-Nunez E.; Paz-Andrade M.I.; Jimenez E.; Bravo R.: II. Excess molar enthalpies at 298.15 K for 1-propanol, 1-butanol, and 1-pentanol. J.Chem.Thermodyn. 17 (1985) 23-28	
+$$$Enthalpy of Mixing Data Set 4610
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+665.000	0.08030
+793.000	0.12080
+911.000	0.17750
+961.000	0.21350
+995.000	0.25290
+1010.000	0.28350
+1017.000	0.30590
+1028.000	0.33510
+1027.000	0.35300
+1025.000	0.37440
+1018.000	0.39950
+1005.000	0.43030
+972.000	0.47220
+932.000	0.51520
+880.000	0.55670
+820.000	0.60850
+753.000	0.64980
+663.000	0.69840
+580.000	0.74200
+508.000	0.77680
+419.000	0.81810
+Source
+Rodriguez-Nunez E.; Paz-Andrade M.I.; Jimenez E.; Bravo R.: II. Excess molar enthalpies at 298.15 K for 1-propanol, 1-butanol, and 1-pentanol. J.Chem.Thermodyn. 17 (1985) 23-28
+$$$Enthalpy of Mixing Data Set 19409
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	108-38-3	m-Xylene
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+720.400	0.91234
+907.200	0.87210
+1140.800	0.79461
+1225.400	0.75170
+1265.800	0.69132
+1279.400	0.61934
+1241.400	0.56387
+1185.300	0.51046
+1139.800	0.44693
+1088.500	0.39519
+993.900	0.33552
+859.100	0.26956
+686.900	0.20450
+434.200	0.12766
+209.700	0.06641
+Source
+Bhardwaj U.; Singh K.C.: Excess molar enthalpies of mixing of 1-butanol with aromatic hydrocarbons at 308.15 K. Indian J.Chem.Sect.A 37 (1998) 1063-1069
+Source
+Bhardwaj U.; Singh K.C.: Excess molar enthalpies of mixing of 1-butanol with aromatic hydrocarbons at 308.15 K. Indian J.Chem.Sect.A 37 (1998) 1063-1069
+Rodriguez-Nunez E.; Paz-Andrade M.I.; Jimenez E.; Bravo R.: II. Excess molar enthalpies at 298.15 K for 1-propanol, 1-butanol, and 1-pentanol. J.Chem.Thermodyn. 17 (1985) 23-28

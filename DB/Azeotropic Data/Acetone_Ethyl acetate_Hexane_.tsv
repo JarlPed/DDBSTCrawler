@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-3	C6H14	86.177	110-54-3	Hexane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-Unspec.Az.	n.a.	n.a.	0.50779	n.a.	0.29777	n.a.	Author	2	
-none	n.a.	101.320	n.a.	n.a.	n.a.	Phase equilibrium	Author	1	
-Unspec.Az.	unspecified azeotrope	
-none	zeotropic	
-1	Acosta J.; Arce A.; Martinez-Ageitos J.; Rodil E.; Soto A.: Vapor-Liquid Equilibrium of the Ternary System Ethyl Acetate + Hexane + Acetone at 101.32 kPa. J.Chem.Eng.Data 47 (2002) 849-854	
-2	Bai P.; Zhu L.; Li X.; Zeng J.: Entrainer for Separation of n-Hexane and Ethyl Acetate by Batch Azeotropic Distillation. Shiyou-huagong 35 (2006) 37-41	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+3	C6H14	86.177	110-54-3	Hexane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+Unspec.Az.	n.a.	n.a.	0.50779	n.a.	0.29777	n.a.	Author	2
+none	n.a.	101.320	n.a.	n.a.	n.a.	Phase equilibrium	Author	1
+Unspec.Az.	unspecified azeotrope
+none	zeotropic
+1	Acosta J.; Arce A.; Martinez-Ageitos J.; Rodil E.; Soto A.: Vapor-Liquid Equilibrium of the Ternary System Ethyl Acetate + Hexane + Acetone at 101.32 kPa. J.Chem.Eng.Data 47 (2002) 849-854
+2	Bai P.; Zhu L.; Li X.; Zeng J.: Entrainer for Separation of n-Hexane and Ethyl Acetate by Batch Azeotropic Distillation. Shiyou-huagong 35 (2006) 37-41

@@ -1,58 +1,58 @@
-$$$Solid-Liquid Equilibrium Data Set 824	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-T [K]	xL1 [mol/mol]	
-269.85	0.46500	
-272.05	0.40500	
-275.35	0.31000	
-277.35	0.26500	
-278.45	0.23000	
-279.35	0.22000	
-280.45	0.18500	
-283.15	0.12000	
-285.05	0.08500	
-Source	
-Carta R.; Dernini S.; De Santis R.: Activity Coefficients from Solid-Liquid and Vapor-Liquid Equilibria of Some Associated Solutions. J.Chem.Eng.Data 24 (1979) 100-103	
-$$$Solid-Liquid Equilibrium Data Set 2723	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-T [K]	xL1 [mol/mol]	
-263.95	0.58807	
-264.55	0.57110	
-264.85	0.56057	
-265.45	0.55010	
-265.75	0.53658	
-266.45	0.52314	
-266.75	0.50980	
-267.65	0.48744	
-268.95	0.45835	
-269.75	0.43854	
-271.05	0.40729	
-271.35	0.39378	
-273.35	0.34818	
-274.55	0.32118	
-275.45	0.29547	
-277.05	0.25492	
-280.65	0.17733	
-282.85	0.12606	
-284.85	0.08515	
-289.35	0.00000	
-Source	
-Roloff M.: Beiträge zur Kenntnis der Kryohydrate. Z.Phys.Chem.(Leipzig) 17 (1895) 325-356	
-$$$Solid-Liquid Equilibrium Data Set 2724	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-T [K]	xL1 [mol/mol]	
-274.35	0.32395	
-275.45	0.29912	
-277.25	0.25670	
-279.15	0.21439	
-281.45	0.16289	
-283.85	0.11040	
-287.15	0.04282	
-289.45	0.00000	
-Source	
-Roloff M.: Beiträge zur Kenntnis der Kryohydrate. Z.Phys.Chem.(Leipzig) 17 (1895) 325-356	
+$$$Solid-Liquid Equilibrium Data Set 824
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C2H4O2	60.053	64-19-7	Acetic acid
+T [K]	xL1 [mol/mol]
+269.85	0.46500
+272.05	0.40500
+275.35	0.31000
+277.35	0.26500
+278.45	0.23000
+279.35	0.22000
+280.45	0.18500
+283.15	0.12000
+285.05	0.08500
+Source
+Carta R.; Dernini S.; De Santis R.: Activity Coefficients from Solid-Liquid and Vapor-Liquid Equilibria of Some Associated Solutions. J.Chem.Eng.Data 24 (1979) 100-103
+$$$Solid-Liquid Equilibrium Data Set 2723
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C2H4O2	60.053	64-19-7	Acetic acid
+T [K]	xL1 [mol/mol]
+263.95	0.58807
+264.55	0.57110
+264.85	0.56057
+265.45	0.55010
+265.75	0.53658
+266.45	0.52314
+266.75	0.50980
+267.65	0.48744
+268.95	0.45835
+269.75	0.43854
+271.05	0.40729
+271.35	0.39378
+273.35	0.34818
+274.55	0.32118
+275.45	0.29547
+277.05	0.25492
+280.65	0.17733
+282.85	0.12606
+284.85	0.08515
+289.35	0.00000
+Source
+Roloff M.: Beiträge zur Kenntnis der Kryohydrate. Z.Phys.Chem.(Leipzig) 17 (1895) 325-356
+$$$Solid-Liquid Equilibrium Data Set 2724
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C2H4O2	60.053	64-19-7	Acetic acid
+T [K]	xL1 [mol/mol]
+274.35	0.32395
+275.45	0.29912
+277.25	0.25670
+279.15	0.21439
+281.45	0.16289
+283.85	0.11040
+287.15	0.04282
+289.45	0.00000
+Source
+Roloff M.: Beiträge zur Kenntnis der Kryohydrate. Z.Phys.Chem.(Leipzig) 17 (1895) 325-356

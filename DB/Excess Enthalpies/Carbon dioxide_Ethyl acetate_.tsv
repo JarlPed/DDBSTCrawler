@@ -1,65 +1,65 @@
-$$$Enthalpy of Mixing Data Set 21461	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature	313.150	K	
-Pressure	90.000	bar	
-hE [J/mol]	x1 [mol/mol]	
--453.000	0.08700	
--947.000	0.17200	
--1361.000	0.25600	
--1924.000	0.38100	
--2196.000	0.46200	
--2524.000	0.54200	
--2861.000	0.66000	
--3042.000	0.73700	
--2983.000	0.81400	
--2660.000	0.88900	
--2262.000	0.92600	
--1584.000	0.96300	
-Source	
-Zahran F.; Pando C.; Renuncio J.A.R.; Cabanas A.: Excess molar enthalpies for mixtures of supercritical CO2 and ethyl acetate and their role in supercritical fluid applications. J.Chem.Thermodyn. 51 (2012) 59-64	
-$$$Enthalpy of Mixing Data Set 21462	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature	313.150	K	
-Pressure	120.000	bar	
-hE [J/mol]	x1 [mol/mol]	
--419.000	0.12300	
--776.000	0.23500	
--1015.000	0.33800	
--1166.000	0.43200	
--1288.000	0.51900	
--1368.000	0.59900	
--1403.000	0.67300	
--1349.000	0.74200	
--1265.000	0.80600	
--1099.000	0.86600	
--669.000	0.94900	
--371.000	0.97500	
-Source	
-Zahran F.; Pando C.; Renuncio J.A.R.; Cabanas A.: Excess molar enthalpies for mixtures of supercritical CO2 and ethyl acetate and their role in supercritical fluid applications. J.Chem.Thermodyn. 51 (2012) 59-64	
-$$$Enthalpy of Mixing Data Set 21463	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature	313.150	K	
-Pressure	150.000	bar	
-hE [J/mol]	x1 [mol/mol]	
--362.000	0.13200	
--632.000	0.25000	
--871.000	0.35600	
--1013.000	0.45200	
--1148.000	0.53900	
--1194.000	0.61800	
--1151.000	0.72400	
--1023.000	0.78800	
--948.000	0.81800	
--762.000	0.87500	
--518.000	0.92700	
--375.000	0.95300	
-Source	
-Zahran F.; Pando C.; Renuncio J.A.R.; Cabanas A.: Excess molar enthalpies for mixtures of supercritical CO2 and ethyl acetate and their role in supercritical fluid applications. J.Chem.Thermodyn. 51 (2012) 59-64	
-Source	
-Zahran F.; Pando C.; Renuncio J.A.R.; Cabanas A.: Excess molar enthalpies for mixtures of supercritical CO2 and ethyl acetate and their role in supercritical fluid applications. J.Chem.Thermodyn. 51 (2012) 59-64	
+$$$Enthalpy of Mixing Data Set 21461
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature	313.150	K
+Pressure	90.000	bar
+hE [J/mol]	x1 [mol/mol]
+-453.000	0.08700
+-947.000	0.17200
+-1361.000	0.25600
+-1924.000	0.38100
+-2196.000	0.46200
+-2524.000	0.54200
+-2861.000	0.66000
+-3042.000	0.73700
+-2983.000	0.81400
+-2660.000	0.88900
+-2262.000	0.92600
+-1584.000	0.96300
+Source
+Zahran F.; Pando C.; Renuncio J.A.R.; Cabanas A.: Excess molar enthalpies for mixtures of supercritical CO2 and ethyl acetate and their role in supercritical fluid applications. J.Chem.Thermodyn. 51 (2012) 59-64
+$$$Enthalpy of Mixing Data Set 21462
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature	313.150	K
+Pressure	120.000	bar
+hE [J/mol]	x1 [mol/mol]
+-419.000	0.12300
+-776.000	0.23500
+-1015.000	0.33800
+-1166.000	0.43200
+-1288.000	0.51900
+-1368.000	0.59900
+-1403.000	0.67300
+-1349.000	0.74200
+-1265.000	0.80600
+-1099.000	0.86600
+-669.000	0.94900
+-371.000	0.97500
+Source
+Zahran F.; Pando C.; Renuncio J.A.R.; Cabanas A.: Excess molar enthalpies for mixtures of supercritical CO2 and ethyl acetate and their role in supercritical fluid applications. J.Chem.Thermodyn. 51 (2012) 59-64
+$$$Enthalpy of Mixing Data Set 21463
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature	313.150	K
+Pressure	150.000	bar
+hE [J/mol]	x1 [mol/mol]
+-362.000	0.13200
+-632.000	0.25000
+-871.000	0.35600
+-1013.000	0.45200
+-1148.000	0.53900
+-1194.000	0.61800
+-1151.000	0.72400
+-1023.000	0.78800
+-948.000	0.81800
+-762.000	0.87500
+-518.000	0.92700
+-375.000	0.95300
+Source
+Zahran F.; Pando C.; Renuncio J.A.R.; Cabanas A.: Excess molar enthalpies for mixtures of supercritical CO2 and ethyl acetate and their role in supercritical fluid applications. J.Chem.Thermodyn. 51 (2012) 59-64
+Source
+Zahran F.; Pando C.; Renuncio J.A.R.; Cabanas A.: Excess molar enthalpies for mixtures of supercritical CO2 and ethyl acetate and their role in supercritical fluid applications. J.Chem.Thermodyn. 51 (2012) 59-64

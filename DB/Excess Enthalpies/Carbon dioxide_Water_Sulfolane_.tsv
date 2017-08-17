@@ -1,101 +1,101 @@
-$$$Enthalpy of Mixing Data Set 21763	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	H2O	18.015	7732-18-5	Water	
-3	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	298.150	K	
-Pressure	75.000	bar	
-hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
--281.500	0.06830	0.17840	
--557.000	0.13290	0.16600	
--787.200	0.19410	0.15430	
--970.600	0.25220	0.14320	
--1159.700	0.30740	0.13260	
--1311.600	0.35980	0.12260	
--1418.500	0.40980	0.11300	
--1543.100	0.45750	0.10390	
--1646.800	0.50290	0.09520	
--1625.400	0.54640	0.08690	
--1538.000	0.58790	0.07890	
--1422.000	0.62770	0.07130	
--1307.100	0.66590	0.06400	
--1202.300	0.70250	0.05700	
--1079.000	0.73760	0.05020	
--982.500	0.77130	0.04380	
--883.100	0.80370	0.03760	
--785.300	0.83500	0.03160	
--683.200	0.86500	0.02590	
--598.800	0.89400	0.02030	
--520.900	0.92190	0.01500	
--395.500	0.94880	0.00980	
--275.300	0.97490	0.00480	
-Source	
-Hauser R.A.; Zhao J.P.; Tremaine P.R.; Mather A.E.: Excess molar enthalpies of six (carbon dioxide + a polar solvent) mixtures at the temperatures 298.15 K and 308.15 K and pressures from 7.5 MPa to 12.6 MPa. J.Chem.Thermodyn. 28 (1996) 1303-1317	
-$$$Enthalpy of Mixing Data Set 21764	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	H2O	18.015	7732-18-5	Water	
-3	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	298.150	K	
-Pressure	100.000	bar	
-hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
--243.100	0.06990	0.17810	
--446.500	0.13580	0.16550	
--639.900	0.19800	0.15360	
--805.100	0.25690	0.14230	
--941.000	0.31260	0.13160	
--1059.100	0.36550	0.12150	
--1155.800	0.41580	0.11190	
--1231.000	0.46360	0.10270	
--1286.400	0.50910	0.09400	
--1311.500	0.55250	0.08570	
--1261.100	0.59390	0.07780	
--1160.600	0.63350	0.07020	
--1052.100	0.67130	0.06290	
--965.800	0.70760	0.05600	
--864.800	0.74230	0.04930	
--776.500	0.77560	0.04300	
--680.500	0.80760	0.03680	
--620.900	0.83830	0.03100	
--542.200	0.86790	0.02530	
--459.400	0.89630	0.01990	
--388.600	0.92370	0.01460	
--295.100	0.95000	0.00960	
--162.300	0.97550	0.00470	
-Source	
-Hauser R.A.; Zhao J.P.; Tremaine P.R.; Mather A.E.: Excess molar enthalpies of six (carbon dioxide + a polar solvent) mixtures at the temperatures 298.15 K and 308.15 K and pressures from 7.5 MPa to 12.6 MPa. J.Chem.Thermodyn. 28 (1996) 1303-1317	
-$$$Enthalpy of Mixing Data Set 21765	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	H2O	18.015	7732-18-5	Water	
-3	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	298.150	K	
-Pressure	125.000	bar	
-hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
--218.100	0.06830	0.17840	
--419.500	0.13290	0.16600	
--591.900	0.19410	0.15430	
--745.000	0.25220	0.14320	
--870.900	0.30740	0.13260	
--984.800	0.35980	0.12260	
--1071.100	0.40980	0.11300	
--1123.200	0.45750	0.10390	
--1159.600	0.45750	0.10390	
--1179.600	0.54640	0.08690	
--1212.600	0.58800	0.07890	
--1133.400	0.62770	0.07130	
--1034.800	0.66590	0.06400	
--925.800	0.70250	0.05700	
--852.800	0.73760	0.05020	
--763.800	0.77130	0.04380	
--678.100	0.80370	0.03760	
--619.300	0.83500	0.03160	
--538.600	0.86500	0.02590	
--468.400	0.89400	0.02030	
--391.600	0.92190	0.01500	
--298.500	0.94890	0.00980	
--183.200	0.97490	0.00480	
-Source	
-Hauser R.A.; Zhao J.P.; Tremaine P.R.; Mather A.E.: Excess molar enthalpies of six (carbon dioxide + a polar solvent) mixtures at the temperatures 298.15 K and 308.15 K and pressures from 7.5 MPa to 12.6 MPa. J.Chem.Thermodyn. 28 (1996) 1303-1317	
-Source	
-Hauser R.A.; Zhao J.P.; Tremaine P.R.; Mather A.E.: Excess molar enthalpies of six (carbon dioxide + a polar solvent) mixtures at the temperatures 298.15 K and 308.15 K and pressures from 7.5 MPa to 12.6 MPa. J.Chem.Thermodyn. 28 (1996) 1303-1317	
+$$$Enthalpy of Mixing Data Set 21763
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	H2O	18.015	7732-18-5	Water
+3	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	298.150	K
+Pressure	75.000	bar
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]
+-281.500	0.06830	0.17840
+-557.000	0.13290	0.16600
+-787.200	0.19410	0.15430
+-970.600	0.25220	0.14320
+-1159.700	0.30740	0.13260
+-1311.600	0.35980	0.12260
+-1418.500	0.40980	0.11300
+-1543.100	0.45750	0.10390
+-1646.800	0.50290	0.09520
+-1625.400	0.54640	0.08690
+-1538.000	0.58790	0.07890
+-1422.000	0.62770	0.07130
+-1307.100	0.66590	0.06400
+-1202.300	0.70250	0.05700
+-1079.000	0.73760	0.05020
+-982.500	0.77130	0.04380
+-883.100	0.80370	0.03760
+-785.300	0.83500	0.03160
+-683.200	0.86500	0.02590
+-598.800	0.89400	0.02030
+-520.900	0.92190	0.01500
+-395.500	0.94880	0.00980
+-275.300	0.97490	0.00480
+Source
+Hauser R.A.; Zhao J.P.; Tremaine P.R.; Mather A.E.: Excess molar enthalpies of six (carbon dioxide + a polar solvent) mixtures at the temperatures 298.15 K and 308.15 K and pressures from 7.5 MPa to 12.6 MPa. J.Chem.Thermodyn. 28 (1996) 1303-1317
+$$$Enthalpy of Mixing Data Set 21764
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	H2O	18.015	7732-18-5	Water
+3	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	298.150	K
+Pressure	100.000	bar
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]
+-243.100	0.06990	0.17810
+-446.500	0.13580	0.16550
+-639.900	0.19800	0.15360
+-805.100	0.25690	0.14230
+-941.000	0.31260	0.13160
+-1059.100	0.36550	0.12150
+-1155.800	0.41580	0.11190
+-1231.000	0.46360	0.10270
+-1286.400	0.50910	0.09400
+-1311.500	0.55250	0.08570
+-1261.100	0.59390	0.07780
+-1160.600	0.63350	0.07020
+-1052.100	0.67130	0.06290
+-965.800	0.70760	0.05600
+-864.800	0.74230	0.04930
+-776.500	0.77560	0.04300
+-680.500	0.80760	0.03680
+-620.900	0.83830	0.03100
+-542.200	0.86790	0.02530
+-459.400	0.89630	0.01990
+-388.600	0.92370	0.01460
+-295.100	0.95000	0.00960
+-162.300	0.97550	0.00470
+Source
+Hauser R.A.; Zhao J.P.; Tremaine P.R.; Mather A.E.: Excess molar enthalpies of six (carbon dioxide + a polar solvent) mixtures at the temperatures 298.15 K and 308.15 K and pressures from 7.5 MPa to 12.6 MPa. J.Chem.Thermodyn. 28 (1996) 1303-1317
+$$$Enthalpy of Mixing Data Set 21765
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	H2O	18.015	7732-18-5	Water
+3	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	298.150	K
+Pressure	125.000	bar
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]
+-218.100	0.06830	0.17840
+-419.500	0.13290	0.16600
+-591.900	0.19410	0.15430
+-745.000	0.25220	0.14320
+-870.900	0.30740	0.13260
+-984.800	0.35980	0.12260
+-1071.100	0.40980	0.11300
+-1123.200	0.45750	0.10390
+-1159.600	0.45750	0.10390
+-1179.600	0.54640	0.08690
+-1212.600	0.58800	0.07890
+-1133.400	0.62770	0.07130
+-1034.800	0.66590	0.06400
+-925.800	0.70250	0.05700
+-852.800	0.73760	0.05020
+-763.800	0.77130	0.04380
+-678.100	0.80370	0.03760
+-619.300	0.83500	0.03160
+-538.600	0.86500	0.02590
+-468.400	0.89400	0.02030
+-391.600	0.92190	0.01500
+-298.500	0.94890	0.00980
+-183.200	0.97490	0.00480
+Source
+Hauser R.A.; Zhao J.P.; Tremaine P.R.; Mather A.E.: Excess molar enthalpies of six (carbon dioxide + a polar solvent) mixtures at the temperatures 298.15 K and 308.15 K and pressures from 7.5 MPa to 12.6 MPa. J.Chem.Thermodyn. 28 (1996) 1303-1317
+Source
+Hauser R.A.; Zhao J.P.; Tremaine P.R.; Mather A.E.: Excess molar enthalpies of six (carbon dioxide + a polar solvent) mixtures at the temperatures 298.15 K and 308.15 K and pressures from 7.5 MPa to 12.6 MPa. J.Chem.Thermodyn. 28 (1996) 1303-1317

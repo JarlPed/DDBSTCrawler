@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-hetPmax	303.150	20.398	0.79400	n.a.	n.a.	Author from VLE	2	
-hetPmax	323.150	48.581	0.74500	n.a.	n.a.	Author from VLE	2	
-hetPmax	342.550	101.325	0.70100	n.a.	n.a.	Author	1	
-hetPmax	heterogeneous pressure maximum	
-1	Verhoeye L.A.J.: The System Cyclohexane-2-Propanol-Water. J.Chem.Eng.Data 13 (1968) 462-467	
-2	Landauer O.; Mateescu C.; Iulian O.; Geana D.: La détermination expérimentale des courbes d´équilibre liquide-vapeurs et la corrélation des données par des modèles d´activité pour les systèmes cyclohexane-monochlorocyclohexane et cyclohexane-eau. Rev.Roum.Chim. 33 (1988) 237-251	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+hetPmax	303.150	20.398	0.79400	n.a.	n.a.	Author from VLE	2
+hetPmax	323.150	48.581	0.74500	n.a.	n.a.	Author from VLE	2
+hetPmax	342.550	101.325	0.70100	n.a.	n.a.	Author	1
+hetPmax	heterogeneous pressure maximum
+1	Verhoeye L.A.J.: The System Cyclohexane-2-Propanol-Water. J.Chem.Eng.Data 13 (1968) 462-467
+2	Landauer O.; Mateescu C.; Iulian O.; Geana D.: La détermination expérimentale des courbes d´équilibre liquide-vapeurs et la corrélation des données par des modèles d´activité pour les systèmes cyclohexane-monochlorocyclohexane et cyclohexane-eau. Rev.Roum.Chim. 33 (1988) 237-251

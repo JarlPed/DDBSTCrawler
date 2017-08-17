@@ -1,68 +1,68 @@
-$$$Enthalpy of Mixing Data Set 2013	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-159.098	0.09190	
-213.527	0.12480	
-263.768	0.16650	
-305.636	0.19450	
-360.065	0.25070	
-393.559	0.29780	
-422.867	0.34880	
-431.240	0.40100	
-427.053	0.40320	
-435.427	0.45410	
-439.614	0.49960	
-435.427	0.55100	
-410.306	0.60130	
-385.186	0.65180	
-343.317	0.70160	
-309.823	0.74990	
-259.582	0.80200	
-205.153	0.84990	
-138.164	0.90050	
-66.989	0.95050	
-Source	
-Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016	
-$$$Enthalpy of Mixing Data Set 5608	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-190.000	0.11020	
-295.000	0.18750	
-376.000	0.28000	
-424.000	0.39970	
-433.000	0.50330	
-411.000	0.59120	
-366.000	0.67940	
-263.000	0.79180	
-200.000	0.85060	
-Source	
-Marongiu B.; Dernini S.; Lepori L.; Matteoli E.; Kehiaian H.V.: 1. Excess Enthalpies of Linear Ethers or Acetals + Heptane or + Cyclohexane Mixtures. J.Chem.Eng.Data 33 (1988) 118-122	
-$$$Enthalpy of Mixing Data Set 6198	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-9.820	0.00430	
-14.930	0.00640	
-20.030	0.00860	
-24.740	0.01070	
-29.650	0.01280	
-34.380	0.01500	
-39.480	0.01710	
-49.300	0.02140	
-58.360	0.02570	
-62.810	0.02780	
-67.400	0.03000	
-Source	
-Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	
-Source	
-Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016	
-Marongiu B.; Dernini S.; Lepori L.; Matteoli E.; Kehiaian H.V.: 1. Excess Enthalpies of Linear Ethers or Acetals + Heptane or + Cyclohexane Mixtures. J.Chem.Eng.Data 33 (1988) 118-122	
-Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	
+$$$Enthalpy of Mixing Data Set 2013
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+159.098	0.09190
+213.527	0.12480
+263.768	0.16650
+305.636	0.19450
+360.065	0.25070
+393.559	0.29780
+422.867	0.34880
+431.240	0.40100
+427.053	0.40320
+435.427	0.45410
+439.614	0.49960
+435.427	0.55100
+410.306	0.60130
+385.186	0.65180
+343.317	0.70160
+309.823	0.74990
+259.582	0.80200
+205.153	0.84990
+138.164	0.90050
+66.989	0.95050
+Source
+Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016
+$$$Enthalpy of Mixing Data Set 5608
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+190.000	0.11020
+295.000	0.18750
+376.000	0.28000
+424.000	0.39970
+433.000	0.50330
+411.000	0.59120
+366.000	0.67940
+263.000	0.79180
+200.000	0.85060
+Source
+Marongiu B.; Dernini S.; Lepori L.; Matteoli E.; Kehiaian H.V.: 1. Excess Enthalpies of Linear Ethers or Acetals + Heptane or + Cyclohexane Mixtures. J.Chem.Eng.Data 33 (1988) 118-122
+$$$Enthalpy of Mixing Data Set 6198
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+9.820	0.00430
+14.930	0.00640
+20.030	0.00860
+24.740	0.01070
+29.650	0.01280
+34.380	0.01500
+39.480	0.01710
+49.300	0.02140
+58.360	0.02570
+62.810	0.02780
+67.400	0.03000
+Source
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118
+Source
+Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016
+Marongiu B.; Dernini S.; Lepori L.; Matteoli E.; Kehiaian H.V.: 1. Excess Enthalpies of Linear Ethers or Acetals + Heptane or + Cyclohexane Mixtures. J.Chem.Eng.Data 33 (1988) 118-122
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118

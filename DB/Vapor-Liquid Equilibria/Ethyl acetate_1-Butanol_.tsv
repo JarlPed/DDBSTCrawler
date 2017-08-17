@@ -1,73 +1,73 @@
-$$$Vapor-Liquid Equilibrium Data Set 2003	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	97.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-384.15	0.04600	0.22210	
-380.75	0.08150	0.34280	
-378.65	0.10500	0.40740	
-373.75	0.16950	0.54000	
-369.70	0.23100	0.62920	
-368.70	0.24050	0.64100	
-366.60	0.28400	0.68770	
-365.15	0.31450	0.71470	
-362.00	0.39650	0.77620	
-360.75	0.43100	0.79430	
-359.15	0.49900	0.82790	
-357.75	0.54850	0.84870	
-356.35	0.60200	0.87100	
-355.15	0.65150	0.88670	
-353.85	0.71700	0.90760	
-352.75	0.77350	0.92490	
-351.70	0.82500	0.94100	
-350.45	0.89100	0.96030	
-Source	
-Mainkar S.V.; Mene P.S.: Binary Vapor-Liquid Equilibrium Data for Ethyl Acetate-n-Butanol System. Indian J.Technol. 3 (1965) 228-229	
-$$$Vapor-Liquid Equilibrium Data Set 4634	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	
-390.85	0.00000	
-383.15	0.08550	
-377.05	0.17380	
-371.65	0.26500	
-367.75	0.35930	
-363.55	0.45690	
-360.05	0.55790	
-357.05	0.66250	
-354.55	0.77090	
-352.35	0.88330	
-Source	
-Litkenhous E.E.; van Arsdale J.D.; Hutchison I.W.: The Physical Properties of the Ternary System Butyl Alcohol-Ethyl Acetate Toluene. J.Phys.Chem. 44 (1940) 377-388	
-$$$Vapor-Liquid Equilibrium Data Set 10967	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-384.65	0.04930	0.27500	
-381.15	0.08270	0.32000	
-378.15	0.12400	0.41700	
-376.45	0.13100	0.45400	
-371.05	0.23800	0.60800	
-366.45	0.32500	0.69500	
-362.65	0.39400	0.75200	
-361.15	0.45700	0.79300	
-359.85	0.54700	0.83500	
-358.35	0.61300	0.85200	
-356.65	0.68000	0.88300	
-355.35	0.75400	0.90600	
-354.55	0.77900	0.91600	
-353.25	0.84300	0.94300	
-352.45	0.88200	0.95800	
-351.75	0.90600	0.96700	
-350.25	1.00000	1.00000	
-Source	
-Shono H.; Kanazawa N.; Hashitani M.; Komatsu H.; Hirata M.: Vapor-Liquid Equilibrium in Extractive Distillation of Ethyl Acetate-Ethanol System. Kogyo Kagaku Zasshi 72 (1969) 815-819	
-Source	
-Mainkar S.V.; Mene P.S.: Binary Vapor-Liquid Equilibrium Data for Ethyl Acetate-n-Butanol System. Indian J.Technol. 3 (1965) 228-229	
-Litkenhous E.E.; van Arsdale J.D.; Hutchison I.W.: The Physical Properties of the Ternary System Butyl Alcohol-Ethyl Acetate Toluene. J.Phys.Chem. 44 (1940) 377-388	
-Shono H.; Kanazawa N.; Hashitani M.; Komatsu H.; Hirata M.: Vapor-Liquid Equilibrium in Extractive Distillation of Ethyl Acetate-Ethanol System. Kogyo Kagaku Zasshi 72 (1969) 815-819	
+$$$Vapor-Liquid Equilibrium Data Set 2003
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	97.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+384.15	0.04600	0.22210
+380.75	0.08150	0.34280
+378.65	0.10500	0.40740
+373.75	0.16950	0.54000
+369.70	0.23100	0.62920
+368.70	0.24050	0.64100
+366.60	0.28400	0.68770
+365.15	0.31450	0.71470
+362.00	0.39650	0.77620
+360.75	0.43100	0.79430
+359.15	0.49900	0.82790
+357.75	0.54850	0.84870
+356.35	0.60200	0.87100
+355.15	0.65150	0.88670
+353.85	0.71700	0.90760
+352.75	0.77350	0.92490
+351.70	0.82500	0.94100
+350.45	0.89100	0.96030
+Source
+Mainkar S.V.; Mene P.S.: Binary Vapor-Liquid Equilibrium Data for Ethyl Acetate-n-Butanol System. Indian J.Technol. 3 (1965) 228-229
+$$$Vapor-Liquid Equilibrium Data Set 4634
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]
+390.85	0.00000
+383.15	0.08550
+377.05	0.17380
+371.65	0.26500
+367.75	0.35930
+363.55	0.45690
+360.05	0.55790
+357.05	0.66250
+354.55	0.77090
+352.35	0.88330
+Source
+Litkenhous E.E.; van Arsdale J.D.; Hutchison I.W.: The Physical Properties of the Ternary System Butyl Alcohol-Ethyl Acetate Toluene. J.Phys.Chem. 44 (1940) 377-388
+$$$Vapor-Liquid Equilibrium Data Set 10967
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+384.65	0.04930	0.27500
+381.15	0.08270	0.32000
+378.15	0.12400	0.41700
+376.45	0.13100	0.45400
+371.05	0.23800	0.60800
+366.45	0.32500	0.69500
+362.65	0.39400	0.75200
+361.15	0.45700	0.79300
+359.85	0.54700	0.83500
+358.35	0.61300	0.85200
+356.65	0.68000	0.88300
+355.35	0.75400	0.90600
+354.55	0.77900	0.91600
+353.25	0.84300	0.94300
+352.45	0.88200	0.95800
+351.75	0.90600	0.96700
+350.25	1.000001.00000
+Source
+Shono H.; Kanazawa N.; Hashitani M.; Komatsu H.; Hirata M.: Vapor-Liquid Equilibrium in Extractive Distillation of Ethyl Acetate-Ethanol System. Kogyo Kagaku Zasshi 72 (1969) 815-819
+Source
+Mainkar S.V.; Mene P.S.: Binary Vapor-Liquid Equilibrium Data for Ethyl Acetate-n-Butanol System. Indian J.Technol. 3 (1965) 228-229
+Litkenhous E.E.; van Arsdale J.D.; Hutchison I.W.: The Physical Properties of the Ternary System Butyl Alcohol-Ethyl Acetate Toluene. J.Phys.Chem. 44 (1940) 377-388
+Shono H.; Kanazawa N.; Hashitani M.; Komatsu H.; Hirata M.: Vapor-Liquid Equilibrium in Extractive Distillation of Ethyl Acetate-Ethanol System. Kogyo Kagaku Zasshi 72 (1969) 815-819

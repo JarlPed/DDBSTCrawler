@@ -1,66 +1,66 @@
-$$$Solid-Liquid Equilibrium Data Set 35	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	
-278.66	0.00000	
-278.04	0.00850	
-277.62	0.01700	
-274.65	0.06190	
-271.75	0.10450	
-268.66	0.14970	
-264.54	0.20670	
-264.28	0.21080	
-260.55	0.26160	
-256.80	0.31060	
-253.91	0.34750	
-252.95	0.35980	
-252.19	0.36920	
-253.93	0.39110	
-255.09	0.40620	
-258.61	0.45480	
-261.47	0.49740	
-264.85	0.55140	
-267.89	0.60340	
-270.67	0.65390	
-273.08	0.69980	
-276.20	0.76280	
-278.12	0.80360	
-280.10	0.84750	
-282.32	0.89930	
-284.09	0.94150	
-285.80	0.98760	
-286.39	1.00000	
-Source	
-Goates J.R.; Ott J.B.; Moellmer J.F.; Farrell D.W.: (Solid + Liquid) Phase Equilibria in n-Hexane + Cyclohexane and Benzene + p-Xylene. J.Chem.Thermodyn. 11 (1979) 709-711	
-$$$Solid-Liquid Equilibrium Data Set 8963	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	
-278.68	0.00000	
-261.12	0.24435	
-259.66	0.26274	
-257.92	0.28654	
-256.64	0.30455	
-255.08	0.32451	
-251.64	0.35227	
-250.76	0.37370	
-251.66	0.38205	
-254.29	0.41057	
-255.98	0.43183	
-256.90	0.45258	
-259.00	0.47995	
-286.50	1.00000	
-Source	
-Paterno E.; Ampola G.: Sul Massimo Abassamento Nella Temperatura di Congelamento dei Miscugli. Gazz.Chim.Ital. 27 (1897) 481-536	
-$$$Solid-Liquid Equilibrium Data Set 8964	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C6H6	78.114	71-43-2	Benzene	
-T [K]	xS1 [mol/mol]	
-251.68	0.32451	
-251.74	0.35227	
-251.68	0.37370	
-Source	
-Paterno E.; Ampola G.: Sul Massimo Abassamento Nella Temperatura di Congelamento dei Miscugli. Gazz.Chim.Ital. 27 (1897) 481-536	
+$$$Solid-Liquid Equilibrium Data Set 35
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]
+278.66	0.00000
+278.04	0.00850
+277.62	0.01700
+274.65	0.06190
+271.75	0.10450
+268.66	0.14970
+264.54	0.20670
+264.28	0.21080
+260.55	0.26160
+256.80	0.31060
+253.91	0.34750
+252.95	0.35980
+252.19	0.36920
+253.93	0.39110
+255.09	0.40620
+258.61	0.45480
+261.47	0.49740
+264.85	0.55140
+267.89	0.60340
+270.67	0.65390
+273.08	0.69980
+276.20	0.76280
+278.12	0.80360
+280.10	0.84750
+282.32	0.89930
+284.09	0.94150
+285.80	0.98760
+286.39	1.00000
+Source
+Goates J.R.; Ott J.B.; Moellmer J.F.; Farrell D.W.: (Solid + Liquid) Phase Equilibria in n-Hexane + Cyclohexane and Benzene + p-Xylene. J.Chem.Thermodyn. 11 (1979) 709-711
+$$$Solid-Liquid Equilibrium Data Set 8963
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]
+278.68	0.00000
+261.12	0.24435
+259.66	0.26274
+257.92	0.28654
+256.64	0.30455
+255.08	0.32451
+251.64	0.35227
+250.76	0.37370
+251.66	0.38205
+254.29	0.41057
+255.98	0.43183
+256.90	0.45258
+259.00	0.47995
+286.50	1.00000
+Source
+Paterno E.; Ampola G.: Sul Massimo Abassamento Nella Temperatura di Congelamento dei Miscugli. Gazz.Chim.Ital. 27 (1897) 481-536
+$$$Solid-Liquid Equilibrium Data Set 8964
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C6H6	78.114	71-43-2	Benzene
+T [K]	xS1 [mol/mol]
+251.68	0.32451
+251.74	0.35227
+251.68	0.37370
+Source
+Paterno E.; Ampola G.: Sul Massimo Abassamento Nella Temperatura di Congelamento dei Miscugli. Gazz.Chim.Ital. 27 (1897) 481-536

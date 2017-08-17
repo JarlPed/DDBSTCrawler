@@ -1,66 +1,66 @@
-$$$Enthalpy of Mixing Data Set 1943	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H10O	74.123	71-36-3	Acetic acid butyl ester	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-1066.000	0.19770	
-1254.000	0.27490	
-1400.000	0.35890	
-1428.000	0.37600	
-1460.000	0.41320	
-1453.000	0.43640	
-1459.000	0.46330	
-1453.000	0.50870	
-1424.000	0.53330	
-1388.000	0.58310	
-1325.000	0.61020	
-1256.000	0.63900	
-1224.000	0.66390	
-1204.000	0.67110	
-1042.000	0.74680	
-875.000	0.80490	
-733.000	0.84610	
-397.000	0.92480	
-Source	
-Bravo R.; Paz-Andrade M.I.; Kehiaian H.V.: Microcalorimetria de Mezclas Liquidas. Estudio Teorico-Experimental de los Sistemas Ester + Alcohol. Acta Cient.Compostelana 16 (1979) 141-163	
-$$$Enthalpy of Mixing Data Set 1944	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H10O	74.123	71-36-3	Acetic acid butyl ester	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-572.000	0.09430	
-807.000	0.13850	
-958.000	0.16930	
-1059.000	0.20350	
-1131.000	0.22750	
-1224.000	0.25630	
-1354.000	0.33380	
-1378.000	0.36990	
-1526.000	0.51910	
-1218.000	0.66910	
-1134.000	0.69990	
-1026.000	0.73750	
-933.000	0.79830	
-721.000	0.84590	
-577.000	0.88480	
-514.000	0.90010	
-Source	
-Kehlen H.; Fuhrmann E.: Die Exzeßenthalpien in Butylacetat-Butanol-Mischungen. Z.Phys.Chem.(Leipzig) 259 (1978) 373-376	
-$$$Enthalpy of Mixing Data Set 1945	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H10O	74.123	71-36-3	Acetic acid butyl ester	
-Temperature	313.150	K	
-hE [J/mol]	x1 [mol/mol]	
-1228.000	0.33200	
-1362.000	0.46500	
-1385.000	0.49740	
-1361.000	0.55080	
-972.000	0.76420	
-Source	
-Kehlen H.; Fuhrmann E.: Die Exzeßenthalpien in Butylacetat-Butanol-Mischungen. Z.Phys.Chem.(Leipzig) 259 (1978) 373-376	
-Source	
-Kehlen H.; Fuhrmann E.: Die Exzeßenthalpien in Butylacetat-Butanol-Mischungen. Z.Phys.Chem.(Leipzig) 259 (1978) 373-376	
-Bravo R.; Paz-Andrade M.I.; Kehiaian H.V.: Microcalorimetria de Mezclas Liquidas. Estudio Teorico-Experimental de los Sistemas Ester + Alcohol. Acta Cient.Compostelana 16 (1979) 141-163	
+$$$Enthalpy of Mixing Data Set 1943
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H10O	74.123	71-36-3	Acetic acid butyl ester
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+1066.000	0.19770
+1254.000	0.27490
+1400.000	0.35890
+1428.000	0.37600
+1460.000	0.41320
+1453.000	0.43640
+1459.000	0.46330
+1453.000	0.50870
+1424.000	0.53330
+1388.000	0.58310
+1325.000	0.61020
+1256.000	0.63900
+1224.000	0.66390
+1204.000	0.67110
+1042.000	0.74680
+875.000	0.80490
+733.000	0.84610
+397.000	0.92480
+Source
+Bravo R.; Paz-Andrade M.I.; Kehiaian H.V.: Microcalorimetria de Mezclas Liquidas. Estudio Teorico-Experimental de los Sistemas Ester + Alcohol. Acta Cient.Compostelana 16 (1979) 141-163
+$$$Enthalpy of Mixing Data Set 1944
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H10O	74.123	71-36-3	Acetic acid butyl ester
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+572.000	0.09430
+807.000	0.13850
+958.000	0.16930
+1059.000	0.20350
+1131.000	0.22750
+1224.000	0.25630
+1354.000	0.33380
+1378.000	0.36990
+1526.000	0.51910
+1218.000	0.66910
+1134.000	0.69990
+1026.000	0.73750
+933.000	0.79830
+721.000	0.84590
+577.000	0.88480
+514.000	0.90010
+Source
+Kehlen H.; Fuhrmann E.: Die Exzeßenthalpien in Butylacetat-Butanol-Mischungen. Z.Phys.Chem.(Leipzig) 259 (1978) 373-376
+$$$Enthalpy of Mixing Data Set 1945
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H10O	74.123	71-36-3	Acetic acid butyl ester
+Temperature	313.150	K
+hE [J/mol]	x1 [mol/mol]
+1228.000	0.33200
+1362.000	0.46500
+1385.000	0.49740
+1361.000	0.55080
+972.000	0.76420
+Source
+Kehlen H.; Fuhrmann E.: Die Exzeßenthalpien in Butylacetat-Butanol-Mischungen. Z.Phys.Chem.(Leipzig) 259 (1978) 373-376
+Source
+Kehlen H.; Fuhrmann E.: Die Exzeßenthalpien in Butylacetat-Butanol-Mischungen. Z.Phys.Chem.(Leipzig) 259 (1978) 373-376
+Bravo R.; Paz-Andrade M.I.; Kehiaian H.V.: Microcalorimetria de Mezclas Liquidas. Estudio Teorico-Experimental de los Sistemas Ester + Alcohol. Acta Cient.Compostelana 16 (1979) 141-163

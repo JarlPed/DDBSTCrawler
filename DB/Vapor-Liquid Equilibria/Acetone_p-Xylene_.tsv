@@ -1,55 +1,55 @@
-$$$Vapor-Liquid Equilibrium Data Set 9756	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	313.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-2.648	0.00000	0.00000	
-9.842	0.06340	0.74370	
-13.768	0.10820	0.82610	
-18.398	0.16850	0.87620	
-22.602	0.23380	0.90470	
-25.847	0.29110	0.92070	
-28.680	0.34840	0.93250	
-31.424	0.40540	0.94170	
-33.971	0.46520	0.94970	
-39.030	0.58650	0.96270	
-46.604	0.70230	0.97310	
-46.111	0.76580	0.97850	
-48.576	0.82570	0.98360	
-51.049	0.88340	0.98860	
-53.645	0.94100	0.99400	
-56.603	1.00000	1.00000	
-Source	
-Kolasinska G.; Goral M.; Giza J.: Vapour-Liquid Equilibria and Excess Gibbs Free Energy in Binary Systems of Acetone with Aliphatic and Aromatic Hydrocarbons at 313.15 K. Z.Phys.Chem.(Leipzig) 263 (1982) 151-160	
-$$$Vapor-Liquid Equilibrium Data Set 13827	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	313.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-9.900	0.04730	0.62170	
-19.000	0.14270	0.85000	
-29.200	0.29430	0.91480	
-40.700	0.57350	0.95430	
-50.300	0.86800	0.98440	
-53.500	0.94860	0.98510	
-Source	
-Leu A.D.; Chen C.J.; Robinson D.B.: Vapor-Liquid Equilibrium in Selected Binary Systems. AIChE Symp.Ser. 85 (1989) 11-16	
-$$$Vapor-Liquid Equilibrium Data Set 13828	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	353.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-33.600	0.03270	0.45350	
-75.400	0.14310	0.76400	
-144.700	0.55490	0.93420	
-171.101	0.72420	0.95670	
-188.101	0.87160	0.97940	
-205.400	0.97120	0.99430	
-Source	
-Leu A.D.; Chen C.J.; Robinson D.B.: Vapor-Liquid Equilibrium in Selected Binary Systems. AIChE Symp.Ser. 85 (1989) 11-16	
-Source	
-Kolasinska G.; Goral M.; Giza J.: Vapour-Liquid Equilibria and Excess Gibbs Free Energy in Binary Systems of Acetone with Aliphatic and Aromatic Hydrocarbons at 313.15 K. Z.Phys.Chem.(Leipzig) 263 (1982) 151-160	
-Leu A.D.; Chen C.J.; Robinson D.B.: Vapor-Liquid Equilibrium in Selected Binary Systems. AIChE Symp.Ser. 85 (1989) 11-16	
+$$$Vapor-Liquid Equilibrium Data Set 9756
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	313.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+2.648	0.000000.00000
+9.842	0.06340	0.74370
+13.768	0.10820	0.82610
+18.398	0.16850	0.87620
+22.602	0.23380	0.90470
+25.847	0.29110	0.92070
+28.680	0.34840	0.93250
+31.424	0.40540	0.94170
+33.971	0.46520	0.94970
+39.030	0.58650	0.96270
+46.604	0.70230	0.97310
+46.111	0.76580	0.97850
+48.576	0.82570	0.98360
+51.049	0.88340	0.98860
+53.645	0.94100	0.99400
+56.603	1.000001.00000
+Source
+Kolasinska G.; Goral M.; Giza J.: Vapour-Liquid Equilibria and Excess Gibbs Free Energy in Binary Systems of Acetone with Aliphatic and Aromatic Hydrocarbons at 313.15 K. Z.Phys.Chem.(Leipzig) 263 (1982) 151-160
+$$$Vapor-Liquid Equilibrium Data Set 13827
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	313.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+9.900	0.04730	0.62170
+19.000	0.14270	0.85000
+29.200	0.29430	0.91480
+40.700	0.57350	0.95430
+50.300	0.86800	0.98440
+53.500	0.94860	0.98510
+Source
+Leu A.D.; Chen C.J.; Robinson D.B.: Vapor-Liquid Equilibrium in Selected Binary Systems. AIChE Symp.Ser. 85 (1989) 11-16
+$$$Vapor-Liquid Equilibrium Data Set 13828
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	353.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+33.600	0.03270	0.45350
+75.400	0.14310	0.76400
+144.700	0.55490	0.93420
+171.101	0.72420	0.95670
+188.101	0.87160	0.97940
+205.400	0.97120	0.99430
+Source
+Leu A.D.; Chen C.J.; Robinson D.B.: Vapor-Liquid Equilibrium in Selected Binary Systems. AIChE Symp.Ser. 85 (1989) 11-16
+Source
+Kolasinska G.; Goral M.; Giza J.: Vapour-Liquid Equilibria and Excess Gibbs Free Energy in Binary Systems of Acetone with Aliphatic and Aromatic Hydrocarbons at 313.15 K. Z.Phys.Chem.(Leipzig) 263 (1982) 151-160
+Leu A.D.; Chen C.J.; Robinson D.B.: Vapor-Liquid Equilibrium in Selected Binary Systems. AIChE Symp.Ser. 85 (1989) 11-16

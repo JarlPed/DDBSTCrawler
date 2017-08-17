@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C6H6	78.114	71-43-2	Acetic acid butyl ester	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1	
-none	n.a.	101.325	n.a.	n.a.	n.a.	Author	3	
-none	n.a.	101.325	n.a.	n.a.	n.a.	Author	2	
-none	zeotropic	
-1	Nagata I.: Vapor-Liquid Equilibrium Data for Binary Systems, Acetone-Methyl Acetate, Methyl Acetate-Carbon Tetrachloride, Benzene- Butyl Acetate and Cyclohexane-Butyl Actate. Mem.Fac.Technol.Kanazawa Univ. 3 (1964) 197-205	
-2	Bushmakin I.N.; Baldangiin B.; Molodenko P.Ya.: Liquid-Vapor Equilibrium in the Systems Benzene Butyl Acetate and Carbon Tetrachloride Butyl Acetate. J.Appl.Chem.USSR 38 (1965) 1392-1394	
-3	Anton N.D.; Zheleznova N.I.; Tikhonova N.K.; Timofeev V.S.; Serafimov L.A.: Untersuchung physikalisch-chemischer Eigenschaften im System Benzol-Butylacetat-Wasser. Tr.Mosk.Inst.Tonkoj Khim.Tekhnol. 3 (1973) 115-120	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C6H6	78.114	71-43-2	Acetic acid butyl ester
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	3
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	2
+none	zeotropic
+1	Nagata I.: Vapor-Liquid Equilibrium Data for Binary Systems, Acetone-Methyl Acetate, Methyl Acetate-Carbon Tetrachloride, Benzene- Butyl Acetate and Cyclohexane-Butyl Actate. Mem.Fac.Technol.Kanazawa Univ. 3 (1964) 197-205
+2	Bushmakin I.N.; Baldangiin B.; Molodenko P.Ya.: Liquid-Vapor Equilibrium in the Systems Benzene Butyl Acetate and Carbon Tetrachloride Butyl Acetate. J.Appl.Chem.USSR 38 (1965) 1392-1394
+3	Anton N.D.; Zheleznova N.I.; Tikhonova N.K.; Timofeev V.S.; Serafimov L.A.: Untersuchung physikalisch-chemischer Eigenschaften im System Benzol-Butylacetat-Wasser. Tr.Mosk.Inst.Tonkoj Khim.Tekhnol. 3 (1973) 115-120

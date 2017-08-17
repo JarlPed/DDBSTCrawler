@@ -1,34 +1,34 @@
-$$$Solid-Liquid Equilibrium Data Set 19381	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	ClK	74.551	7447-40-7	Potassium chloride	
-3	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-298.15	0.91147	0.06608	
-298.15	0.90837	0.07141	
-298.15	0.91413	0.07399	
-298.15	0.91782	0.07778	
-298.15	0.91755	0.08151	
-Source	
-McNaney J.; Zimmerman H.K.; Gross P.H.: Ternary System Phase Diagram Determinations concerning Potassium Electrolyte Influence on Aqueous Solutions of Dioxane or Tetrahydrofuran. Thermodynamic behavior of electrolytes in mixed solvents II 177 (1979) 177-188	
-$$$Solid-Liquid Equilibrium Data Set 19382	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	ClK	74.551	7447-40-7	Potassium chloride	
-3	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-298.15	0.91002	0.07175	
-298.15	0.91172	0.07426	
-298.15	0.91261	0.07674	
-Source	
-McNaney J.; Zimmerman H.K.; Gross P.H.: Ternary System Phase Diagram Determinations concerning Potassium Electrolyte Influence on Aqueous Solutions of Dioxane or Tetrahydrofuran. Thermodynamic behavior of electrolytes in mixed solvents II 177 (1979) 177-188	
-$$$Solid-Liquid Equilibrium Data Set 19383	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	ClK	74.551	7447-40-7	Potassium chloride	
-3	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-298.15	0.90956	0.06996	
-298.15	0.90928	0.07032	
-Source	
-McNaney J.; Zimmerman H.K.; Gross P.H.: Ternary System Phase Diagram Determinations concerning Potassium Electrolyte Influence on Aqueous Solutions of Dioxane or Tetrahydrofuran. Thermodynamic behavior of electrolytes in mixed solvents II 177 (1979) 177-188	
+$$$Solid-Liquid Equilibrium Data Set 19381
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	ClK	74.551	7447-40-7	Potassium chloride
+3	C4H8O	72.107	109-99-9	Tetrahydrofuran
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+298.15	0.91147	0.06608
+298.15	0.90837	0.07141
+298.15	0.91413	0.07399
+298.15	0.91782	0.07778
+298.15	0.91755	0.08151
+Source
+McNaney J.; Zimmerman H.K.; Gross P.H.: Ternary System Phase Diagram Determinations concerning Potassium Electrolyte Influence on Aqueous Solutions of Dioxane or Tetrahydrofuran. Thermodynamic behavior of electrolytes in mixed solvents II 177 (1979) 177-188
+$$$Solid-Liquid Equilibrium Data Set 19382
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	ClK	74.551	7447-40-7	Potassium chloride
+3	C4H8O	72.107	109-99-9	Tetrahydrofuran
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+298.15	0.91002	0.07175
+298.15	0.91172	0.07426
+298.15	0.91261	0.07674
+Source
+McNaney J.; Zimmerman H.K.; Gross P.H.: Ternary System Phase Diagram Determinations concerning Potassium Electrolyte Influence on Aqueous Solutions of Dioxane or Tetrahydrofuran. Thermodynamic behavior of electrolytes in mixed solvents II 177 (1979) 177-188
+$$$Solid-Liquid Equilibrium Data Set 19383
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	ClK	74.551	7447-40-7	Potassium chloride
+3	C4H8O	72.107	109-99-9	Tetrahydrofuran
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+298.15	0.90956	0.06996
+298.15	0.90928	0.07032
+Source
+McNaney J.; Zimmerman H.K.; Gross P.H.: Ternary System Phase Diagram Determinations concerning Potassium Electrolyte Influence on Aqueous Solutions of Dioxane or Tetrahydrofuran. Thermodynamic behavior of electrolytes in mixed solvents II 177 (1979) 177-188

@@ -1,38 +1,38 @@
-$$$Solid-Liquid Equilibrium Data Set 50958	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-3	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-277.26	0.03759	0.00000	
-277.17	0.03383	0.00376	
-277.07	0.03007	0.00752	
-276.98	0.02631	0.01128	
-276.84	0.02255	0.01504	
-276.76	0.01879	0.01879	
-276.68	0.01504	0.02255	
-276.59	0.01128	0.02631	
-276.50	0.00752	0.03007	
-276.45	0.00376	0.03383	
-276.36	0.00000	0.03759	
-Source	
-Izmailov N.A.; Partskhaladze K.P.: I. Interaction of carbonic acids and phenols with acetonitrile. Ukr.Khim.Zh.(Russ.Ed.) 22 (1956) 156-166	
-$$$Solid-Liquid Equilibrium Data Set 50959	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-3	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-276.65	0.05951	0.00000	
-276.44	0.05356	0.00595	
-276.29	0.04761	0.01190	
-276.09	0.04166	0.01785	
-275.94	0.03570	0.02380	
-275.84	0.02975	0.02975	
-275.72	0.02380	0.03570	
-275.58	0.01785	0.04166	
-275.43	0.01190	0.04761	
-275.29	0.00595	0.05356	
-275.15	0.00000	0.05951	
-Source	
-Izmailov N.A.; Partskhaladze K.P.: I. Interaction of carbonic acids and phenols with acetonitrile. Ukr.Khim.Zh.(Russ.Ed.) 22 (1956) 156-166	
+$$$Solid-Liquid Equilibrium Data Set 50958
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C2H3N	41.053	75-05-8	Acetonitrile
+3	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+277.26	0.03759	0.00000
+277.17	0.03383	0.00376
+277.07	0.03007	0.00752
+276.98	0.02631	0.01128
+276.84	0.02255	0.01504
+276.76	0.018790.01879
+276.68	0.01504	0.02255
+276.59	0.01128	0.02631
+276.50	0.00752	0.03007
+276.45	0.00376	0.03383
+276.36	0.00000	0.03759
+Source
+Izmailov N.A.; Partskhaladze K.P.: I. Interaction of carbonic acids and phenols with acetonitrile. Ukr.Khim.Zh.(Russ.Ed.) 22 (1956) 156-166
+$$$Solid-Liquid Equilibrium Data Set 50959
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C2H3N	41.053	75-05-8	Acetonitrile
+3	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+276.65	0.05951	0.00000
+276.44	0.05356	0.00595
+276.29	0.04761	0.01190
+276.09	0.04166	0.01785
+275.94	0.03570	0.02380
+275.84	0.029750.02975
+275.72	0.02380	0.03570
+275.58	0.01785	0.04166
+275.43	0.01190	0.04761
+275.29	0.00595	0.05356
+275.15	0.00000	0.05951
+Source
+Izmailov N.A.; Partskhaladze K.P.: I. Interaction of carbonic acids and phenols with acetonitrile. Ukr.Khim.Zh.(Russ.Ed.) 22 (1956) 156-166

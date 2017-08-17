@@ -1,57 +1,57 @@
-$$$Enthalpy of Mixing Data Set 918	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	318.150	K	
-hE [J/mol]	x1 [mol/mol]	
--22.000	0.08300	
--47.000	0.15500	
--57.000	0.19200	
--96.000	0.36600	
--99.000	0.37300	
--106.000	0.46500	
--108.000	0.46700	
--81.000	0.75900	
--41.000	0.89000	
-Source	
-Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422	
-$$$Enthalpy of Mixing Data Set 919	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--6.800	0.01920	
--19.000	0.05470	
--35.200	0.10260	
--47.100	0.14180	
--60.200	0.18950	
--71.600	0.23610	
--83.100	0.29220	
--92.400	0.34270	
--99.100	0.39060	
--105.100	0.44830	
--107.900	0.50340	
--108.500	0.56970	
--104.200	0.64520	
--97.800	0.69880	
--85.100	0.76680	
--72.300	0.81700	
--50.400	0.88500	
--30.500	0.93540	
--14.100	0.97190	
-Source	
-Nagata I.; Tamura K.; Tokuriki S.: Excess Enthalpies and Complex Formation of Acetonitrile with Acetone, Chloroform, and Benzene. Thermochim.Acta 47 (1981) 315-331	
-$$$Enthalpy of Mixing Data Set 11838	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	296.150	K	
-hE [J/mol]	x1 [mol/mol]	
--34.811	0.88436	
-Source	
-Popov P.G.: Mischungswärme von Acetonitril mit einigen organischen Lösungsmitteln. Ukr.Khim.Zh.(Russ.Ed.) 2 (1926) 387-390	
-Source	
-Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422	
-Nagata I.; Tamura K.; Tokuriki S.: Excess Enthalpies and Complex Formation of Acetonitrile with Acetone, Chloroform, and Benzene. Thermochim.Acta 47 (1981) 315-331	
-Popov P.G.: Mischungswärme von Acetonitril mit einigen organischen Lösungsmitteln. Ukr.Khim.Zh.(Russ.Ed.) 2 (1926) 387-390	
+$$$Enthalpy of Mixing Data Set 918
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	318.150	K
+hE [J/mol]	x1 [mol/mol]
+-22.000	0.08300
+-47.000	0.15500
+-57.000	0.19200
+-96.000	0.36600
+-99.000	0.37300
+-106.000	0.46500
+-108.000	0.46700
+-81.000	0.75900
+-41.000	0.89000
+Source
+Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422
+$$$Enthalpy of Mixing Data Set 919
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-6.800	0.01920
+-19.000	0.05470
+-35.200	0.10260
+-47.100	0.14180
+-60.200	0.18950
+-71.600	0.23610
+-83.100	0.29220
+-92.400	0.34270
+-99.100	0.39060
+-105.100	0.44830
+-107.900	0.50340
+-108.500	0.56970
+-104.200	0.64520
+-97.800	0.69880
+-85.100	0.76680
+-72.300	0.81700
+-50.400	0.88500
+-30.500	0.93540
+-14.100	0.97190
+Source
+Nagata I.; Tamura K.; Tokuriki S.: Excess Enthalpies and Complex Formation of Acetonitrile with Acetone, Chloroform, and Benzene. Thermochim.Acta 47 (1981) 315-331
+$$$Enthalpy of Mixing Data Set 11838
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	296.150	K
+hE [J/mol]	x1 [mol/mol]
+-34.811	0.88436
+Source
+Popov P.G.: Mischungswärme von Acetonitril mit einigen organischen Lösungsmitteln. Ukr.Khim.Zh.(Russ.Ed.) 2 (1926) 387-390
+Source
+Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422
+Nagata I.; Tamura K.; Tokuriki S.: Excess Enthalpies and Complex Formation of Acetonitrile with Acetone, Chloroform, and Benzene. Thermochim.Acta 47 (1981) 315-331
+Popov P.G.: Mischungswärme von Acetonitril mit einigen organischen Lösungsmitteln. Ukr.Khim.Zh.(Russ.Ed.) 2 (1926) 387-390

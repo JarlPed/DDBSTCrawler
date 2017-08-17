@@ -1,59 +1,59 @@
-$$$Enthalpy of Mixing Data Set 8020	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	363.200	K	
-Pressure	1.010	bar	
-hE [J/mol]	x1 [mol/mol]	
-121.800	0.40100	
-123.800	0.41700	
-126.100	0.44800	
-125.200	0.46600	
-126.700	0.49000	
-126.300	0.49200	
-125.700	0.51300	
-125.800	0.54300	
-120.800	0.59700	
-120.800	0.62100	
-Source	
-Wormald C.J.; Lancaster N.M.: Excess Molar Enthalpies for (Water + Benzene)(g) and (Water + Cyclohexane)(g). J.Chem.Thermodyn. 17 (1985) 903-908	
-$$$Enthalpy of Mixing Data Set 8021	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	373.200	K	
-Pressure	1.010	bar	
-hE [J/mol]	x1 [mol/mol]	
-107.800	0.37200	
-112.800	0.42300	
-113.800	0.45600	
-113.600	0.45900	
-114.100	0.47900	
-114.600	0.49400	
-115.800	0.51700	
-116.800	0.51900	
-113.400	0.58200	
-110.500	0.60100	
-Source	
-Wormald C.J.; Lancaster N.M.: Excess Molar Enthalpies for (Water + Benzene)(g) and (Water + Cyclohexane)(g). J.Chem.Thermodyn. 17 (1985) 903-908	
-$$$Enthalpy of Mixing Data Set 8022	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	382.800	K	
-Pressure	1.010	bar	
-hE [J/mol]	x1 [mol/mol]	
-96.400	0.37800	
-102.700	0.42100	
-100.700	0.43300	
-103.400	0.46400	
-101.500	0.47600	
-103.100	0.49200	
-102.500	0.50600	
-103.800	0.53400	
-103.700	0.55900	
-100.900	0.59400	
-Source	
-Wormald C.J.; Lancaster N.M.: Excess Molar Enthalpies for (Water + Benzene)(g) and (Water + Cyclohexane)(g). J.Chem.Thermodyn. 17 (1985) 903-908	
-Source	
-Wormald C.J.; Lancaster N.M.: Excess Molar Enthalpies for (Water + Benzene)(g) and (Water + Cyclohexane)(g). J.Chem.Thermodyn. 17 (1985) 903-908	
+$$$Enthalpy of Mixing Data Set 8020
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	H2O	18.015	7732-18-5	Water
+Temperature	363.200	K
+Pressure	1.010	bar
+hE [J/mol]	x1 [mol/mol]
+121.800	0.40100
+123.800	0.41700
+126.100	0.44800
+125.200	0.46600
+126.700	0.49000
+126.300	0.49200
+125.700	0.51300
+125.800	0.54300
+120.800	0.59700
+120.800	0.62100
+Source
+Wormald C.J.; Lancaster N.M.: Excess Molar Enthalpies for (Water + Benzene)(g) and (Water + Cyclohexane)(g). J.Chem.Thermodyn. 17 (1985) 903-908
+$$$Enthalpy of Mixing Data Set 8021
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	H2O	18.015	7732-18-5	Water
+Temperature	373.200	K
+Pressure	1.010	bar
+hE [J/mol]	x1 [mol/mol]
+107.800	0.37200
+112.800	0.42300
+113.800	0.45600
+113.600	0.45900
+114.100	0.47900
+114.600	0.49400
+115.800	0.51700
+116.800	0.51900
+113.400	0.58200
+110.500	0.60100
+Source
+Wormald C.J.; Lancaster N.M.: Excess Molar Enthalpies for (Water + Benzene)(g) and (Water + Cyclohexane)(g). J.Chem.Thermodyn. 17 (1985) 903-908
+$$$Enthalpy of Mixing Data Set 8022
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	H2O	18.015	7732-18-5	Water
+Temperature	382.800	K
+Pressure	1.010	bar
+hE [J/mol]	x1 [mol/mol]
+96.400	0.37800
+102.700	0.42100
+100.700	0.43300
+103.400	0.46400
+101.500	0.47600
+103.100	0.49200
+102.500	0.50600
+103.800	0.53400
+103.700	0.55900
+100.900	0.59400
+Source
+Wormald C.J.; Lancaster N.M.: Excess Molar Enthalpies for (Water + Benzene)(g) and (Water + Cyclohexane)(g). J.Chem.Thermodyn. 17 (1985) 903-908
+Source
+Wormald C.J.; Lancaster N.M.: Excess Molar Enthalpies for (Water + Benzene)(g) and (Water + Cyclohexane)(g). J.Chem.Thermodyn. 17 (1985) 903-908

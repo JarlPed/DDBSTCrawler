@@ -43,7 +43,7 @@ def PCP_dwnld(verbose):
         elif ChemName != Chem_n:
             createFile(ChemName+'_'+CAS_cur+'.tsv',dir_name,table,'\t')
             if verbose:
-                print 'Pure component propeties downloaded: ' + ChemName + ' CAS: ' + CAS_cur 
+                print 'Pure component propeties downloaded: ' + ChemName + '; CAS: ' + CAS_cur 
                 print 'Compnent #' + str(subsNum) + ' of ' + Head[1][-1]
             subsNum += 1
             
@@ -102,10 +102,14 @@ def createFile(fileName, filePath, contentMat, sepStr):
         for line in q:
             for elem in line:
                 try:
-                    fileStream.write(str(elem)+sepStr)
+                    if elem == line[-1]:
+                        fileStream.write(str(elem))
+                    else:
+                        fileStream.write(str(elem)+sepStr)
+                        
                 except:
                     fileStream.write('SOME_ERROR_OCCOURED_HERE'+sepStr)
-                    print 'createFile: error at wrinting file'   
+                    print 'createFile: error at writing file'   
             fileStream.write('\n')
     
     fileStream.close()

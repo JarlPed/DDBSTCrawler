@@ -1,24 +1,24 @@
-$$$Solid-Liquid Equilibrium Data Set 663	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-T [K]	xL1 [mol/mol]	
-289.67	0.00000	
-289.08	0.00912	
-287.29	0.03712	
-285.80	0.05871	
-284.76	0.07320	
-282.14	0.10692	
-280.16	0.13181	
-277.94	0.15772	
-273.94	0.20112	
-268.44	0.25586	
-262.94	0.30484	
-257.30	0.35180	
-253.04	0.38619	
-252.55	0.38999	
-240.57	0.47314	
-230.75	0.53449	
-162.25	1.00000	
-Source	
-Kalali H.E.; Demiriz A.M.; Budde J.; Kohler F.; Dallos A.; Ratkovics F.: Excess Gibbs Energies and Excess Volumes of the Mixtures Ethanoic Acid + 1,4-Dioxane and Oxolane. Fluid Phase Equilib. 54 (1990) 111-120	
+$$$Solid-Liquid Equilibrium Data Set 663
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C2H4O2	60.053	64-19-7	Acetic acid
+T [K]	xL1 [mol/mol]
+289.67	0.00000
+289.08	0.00912
+287.29	0.03712
+285.80	0.05871
+284.76	0.07320
+282.14	0.10692
+280.16	0.13181
+277.94	0.15772
+273.94	0.20112
+268.44	0.25586
+262.94	0.30484
+257.30	0.35180
+253.04	0.38619
+252.55	0.38999
+240.57	0.47314
+230.75	0.53449
+162.25	1.00000
+Source
+Kalali H.E.; Demiriz A.M.; Budde J.; Kohler F.; Dallos A.; Ratkovics F.: Excess Gibbs Energies and Excess Volumes of the Mixtures Ethanoic Acid + 1,4-Dioxane and Oxolane. Fluid Phase Equilib. 54 (1990) 111-120

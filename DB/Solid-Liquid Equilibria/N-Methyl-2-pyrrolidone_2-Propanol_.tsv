@@ -1,29 +1,29 @@
-$$$Solid-Liquid Equilibrium Data Set 12709	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Pressure	1.0132	bar	
-T [K]	xL1 [mol/mol]	
-212.35	0.39860	
-214.42	0.42530	
-215.95	0.44380	
-217.52	0.46710	
-219.01	0.48990	
-220.65	0.50980	
-222.55	0.52830	
-224.39	0.55260	
-226.04	0.57820	
-228.53	0.61280	
-230.74	0.64350	
-231.80	0.65580	
-232.97	0.67380	
-236.24	0.71660	
-237.92	0.73720	
-239.48	0.76760	
-241.24	0.79690	
-242.75	0.83210	
-245.74	0.89420	
-247.52	0.91640	
-249.68	1.00000	
-Source	
-Domanska U.; Lachwa J.: (Solid + liquid) phase equilibria of binary mixtures containing N-methyl-2-pyrrolidonone and alcohol at atmospheric pressure. J.Chem.Thermodyn. 35 (2003) 1215-1224	
+$$$Solid-Liquid Equilibrium Data Set 12709
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	C3H8O	60.096	67-63-0	2-Propanol
+Pressure	1.0132	bar
+T [K]	xL1 [mol/mol]
+212.35	0.39860
+214.42	0.42530
+215.95	0.44380
+217.52	0.46710
+219.01	0.48990
+220.65	0.50980
+222.55	0.52830
+224.39	0.55260
+226.04	0.57820
+228.53	0.61280
+230.74	0.64350
+231.80	0.65580
+232.97	0.67380
+236.24	0.71660
+237.92	0.73720
+239.48	0.76760
+241.24	0.79690
+242.75	0.83210
+245.74	0.89420
+247.52	0.91640
+249.68	1.00000
+Source
+Domanska U.; Lachwa J.: (Solid + liquid) phase equilibria of binary mixtures containing N-methyl-2-pyrrolidonone and alcohol at atmospheric pressure. J.Chem.Thermodyn. 35 (2003) 1215-1224

@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-none	323.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	2	
-homPmax	328.450	52.568	0.53154	0.46078	n.a.	Distillation	Author	1	
-homPmax	346.150	101.977	0.45179	0.52056	n.a.	Distillation	Author	1	
-none	zeotropic	
-homPmax	homogeneous pressure maximum	
-1	Gmehling J.; Boelts R.: Azeotropic Data for Binary and Ternary Systems at Moderate Pressures. J.Chem.Eng.Data 41 (1996) 202-209	
-2	Wilson S.R.; Patel R.B.; Abbott M.M.; van Ness H.C.: Excess Thermodynamic Functions for Ternary Systems. J.Chem.Eng.Data 24 (1979) 130-132	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+none	323.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	2
+homPmax	328.450	52.568	0.53154	0.46078	n.a.	Distillation	Author	1
+homPmax	346.150	101.977	0.45179	0.52056	n.a.	Distillation	Author	1
+none	zeotropic
+homPmax	homogeneous pressure maximum
+1	Gmehling J.; Boelts R.: Azeotropic Data for Binary and Ternary Systems at Moderate Pressures. J.Chem.Eng.Data 41 (1996) 202-209
+2	Wilson S.R.; Patel R.B.; Abbott M.M.; van Ness H.C.: Excess Thermodynamic Functions for Ternary Systems. J.Chem.Eng.Data 24 (1979) 130-132

@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-311.65	1.1400	EBUL	1	
-330.45	1.1400	EBUL	1	
-338.15	1.0800	EBUL	2	
-Short Term	Explanation	
-EBUL	ebulliometry	
-1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240	
-2	Wobst M.; Hradetzky G.; Bittrich H.J.; Dohnal V.: Grenzaktivitätskoeffizienten binärer Ethylacetat-Kohlenwasserstoff-Systeme mit der kinetischen Mitführung und der Differentialebulliometrie. Collect.Czech.Chem.Commun. 52 (1987) 2359-2364	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C6H6	78.114	71-43-2	Benzene
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+311.65	1.1400	EBUL	1
+330.45	1.1400	EBUL	1
+338.15	1.0800	EBUL	2
+Short Term	Explanation
+EBUL	ebulliometry
+1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240
+2	Wobst M.; Hradetzky G.; Bittrich H.J.; Dohnal V.: Grenzaktivitätskoeffizienten binärer Ethylacetat-Kohlenwasserstoff-Systeme mit der kinetischen Mitführung und der Differentialebulliometrie. Collect.Czech.Chem.Commun. 52 (1987) 2359-2364

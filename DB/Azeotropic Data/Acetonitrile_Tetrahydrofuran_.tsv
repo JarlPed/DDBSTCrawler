@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmax	302.150	25.691	n.a.	0.99000	Phase equilibrium	DDBST	2	
-homPmax	320.000	53.228	n.a.	0.94668	Distillation	Author	1	
-homPmax	338.950	101.125	n.a.	0.92163	Distillation	Author	1	
-homPmax	homogeneous pressure maximum	
-1	Gmehling J.; Boelts R.: Azeotropic Data for Binary and Ternary Systems at Moderate Pressures. J.Chem.Eng.Data 41 (1996) 202-209	
-2	Govindan A.P.; Varma Y.B.G.; Ananth M.S.: Isothermal Vapor + Liquid Equilibria of Four Binary Mixtures. J.Chem.Thermodyn. 16 (1984) 1-5	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+homPmax	302.150	25.691	n.a.	0.99000	Phase equilibrium	DDBST	2
+homPmax	320.000	53.228	n.a.	0.94668	Distillation	Author	1
+homPmax	338.950	101.125	n.a.	0.92163	Distillation	Author	1
+homPmax	homogeneous pressure maximum
+1	Gmehling J.; Boelts R.: Azeotropic Data for Binary and Ternary Systems at Moderate Pressures. J.Chem.Eng.Data 41 (1996) 202-209
+2	Govindan A.P.; Varma Y.B.G.; Ananth M.S.: Isothermal Vapor + Liquid Equilibria of Four Binary Mixtures. J.Chem.Thermodyn. 16 (1984) 1-5

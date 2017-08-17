@@ -1,56 +1,56 @@
-$$$Enthalpy of Mixing Data Set 21296	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-43.480	0.05000	
-98.030	0.10020	
-155.690	0.15060	
-220.650	0.20030	
-282.900	0.25000	
-347.020	0.30050	
-404.520	0.35000	
-462.170	0.40010	
-515.120	0.44990	
-560.980	0.50030	
-596.520	0.55030	
-623.730	0.59960	
-642.580	0.65050	
-647.960	0.70060	
-639.780	0.74990	
-615.670	0.80060	
-576.100	0.85030	
-512.910	0.90020	
-405.510	0.95010	
-Source	
-Aguilar F.; Alaoui F.E.M.; Segovia J.J.; Villamanan M.A.; Montero E.A.: Ether + alcohol + hydrocarbon mixtures in fuels and bio-fuels: Excess enthalpies of binary mixtures containing dibutyl ether (DBE) or 1-butanol and 1-hexene or methylcyclohexane or toluene or cyclohexane or 2,2,4-trimethylpentane at 298.15 K and 313.15 K. Fluid Phase Equilib. 315 (2012) 1-8	
-$$$Enthalpy of Mixing Data Set 21304	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	313.150	K	
-hE [J/mol]	x1 [mol/mol]	
-78.700	0.05000	
-166.570	0.10010	
-251.910	0.15050	
-339.900	0.20020	
-426.630	0.24990	
-507.810	0.30040	
-588.460	0.34980	
-662.530	0.40000	
-728.370	0.44980	
-784.670	0.50010	
-830.430	0.55010	
-861.970	0.59950	
-880.180	0.65040	
-881.140	0.70050	
-867.010	0.74980	
-835.060	0.80050	
-781.820	0.85030	
-693.250	0.90020	
-533.050	0.95010	
-Source	
-Aguilar F.; Alaoui F.E.M.; Segovia J.J.; Villamanan M.A.; Montero E.A.: Ether + alcohol + hydrocarbon mixtures in fuels and bio-fuels: Excess enthalpies of binary mixtures containing dibutyl ether (DBE) or 1-butanol and 1-hexene or methylcyclohexane or toluene or cyclohexane or 2,2,4-trimethylpentane at 298.15 K and 313.15 K. Fluid Phase Equilib. 315 (2012) 1-8	
-Source	
-Aguilar F.; Alaoui F.E.M.; Segovia J.J.; Villamanan M.A.; Montero E.A.: Ether + alcohol + hydrocarbon mixtures in fuels and bio-fuels: Excess enthalpies of binary mixtures containing dibutyl ether (DBE) or 1-butanol and 1-hexene or methylcyclohexane or toluene or cyclohexane or 2,2,4-trimethylpentane at 298.15 K and 313.15 K. Fluid Phase Equilib. 315 (2012) 1-8	
+$$$Enthalpy of Mixing Data Set 21296
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+43.480	0.05000
+98.030	0.10020
+155.690	0.15060
+220.650	0.20030
+282.900	0.25000
+347.020	0.30050
+404.520	0.35000
+462.170	0.40010
+515.120	0.44990
+560.980	0.50030
+596.520	0.55030
+623.730	0.59960
+642.580	0.65050
+647.960	0.70060
+639.780	0.74990
+615.670	0.80060
+576.100	0.85030
+512.910	0.90020
+405.510	0.95010
+Source
+Aguilar F.; Alaoui F.E.M.; Segovia J.J.; Villamanan M.A.; Montero E.A.: Ether + alcohol + hydrocarbon mixtures in fuels and bio-fuels: Excess enthalpies of binary mixtures containing dibutyl ether (DBE) or 1-butanol and 1-hexene or methylcyclohexane or toluene or cyclohexane or 2,2,4-trimethylpentane at 298.15 K and 313.15 K. Fluid Phase Equilib. 315 (2012) 1-8
+$$$Enthalpy of Mixing Data Set 21304
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	313.150	K
+hE [J/mol]	x1 [mol/mol]
+78.700	0.05000
+166.570	0.10010
+251.910	0.15050
+339.900	0.20020
+426.630	0.24990
+507.810	0.30040
+588.460	0.34980
+662.530	0.40000
+728.370	0.44980
+784.670	0.50010
+830.430	0.55010
+861.970	0.59950
+880.180	0.65040
+881.140	0.70050
+867.010	0.74980
+835.060	0.80050
+781.820	0.85030
+693.250	0.90020
+533.050	0.95010
+Source
+Aguilar F.; Alaoui F.E.M.; Segovia J.J.; Villamanan M.A.; Montero E.A.: Ether + alcohol + hydrocarbon mixtures in fuels and bio-fuels: Excess enthalpies of binary mixtures containing dibutyl ether (DBE) or 1-butanol and 1-hexene or methylcyclohexane or toluene or cyclohexane or 2,2,4-trimethylpentane at 298.15 K and 313.15 K. Fluid Phase Equilib. 315 (2012) 1-8
+Source
+Aguilar F.; Alaoui F.E.M.; Segovia J.J.; Villamanan M.A.; Montero E.A.: Ether + alcohol + hydrocarbon mixtures in fuels and bio-fuels: Excess enthalpies of binary mixtures containing dibutyl ether (DBE) or 1-butanol and 1-hexene or methylcyclohexane or toluene or cyclohexane or 2,2,4-trimethylpentane at 298.15 K and 313.15 K. Fluid Phase Equilib. 315 (2012) 1-8

@@ -1,34 +1,34 @@
-$$$Vapor-Liquid Equilibrium Data Set 8029	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature	333.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-56.075	0.00000	0.00000	
-58.241	0.01810	0.05360	
-60.195	0.03320	0.09350	
-62.430	0.05450	0.14310	
-64.195	0.07250	0.18130	
-67.294	0.10620	0.24240	
-69.940	0.13780	0.29150	
-72.894	0.17680	0.34380	
-75.744	0.22110	0.39450	
-79.013	0.27780	0.44630	
-81.084	0.32010	0.48610	
-83.193	0.37220	0.52670	
-85.193	0.42710	0.56550	
-86.913	0.48520	0.60420	
-88.878	0.56320	0.65420	
-90.253	0.61980	0.68960	
-91.258	0.68020	0.72830	
-91.952	0.73670	0.76630	
-92.532	0.79950	0.81110	
-92.652	0.84990	0.85040	
-92.438	0.89230	0.88670	
-92.112	0.93300	0.92540	
-91.663	0.97570	0.97130	
-91.392	1.00000	1.00000	
-Source	
-Gmehling J.: Isothermal Vapor-Liquid Equilibria in Binary Systems Formed by Esters with Alkenes. J.Chem.Eng.Data 28 (1983) 27-30	
-Source	
-Gmehling J.: Isothermal Vapor-Liquid Equilibria in Binary Systems Formed by Esters with Alkenes. J.Chem.Eng.Data 28 (1983) 27-30	
+$$$Vapor-Liquid Equilibrium Data Set 8029
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature	333.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+56.075	0.000000.00000
+58.241	0.01810	0.05360
+60.195	0.03320	0.09350
+62.430	0.05450	0.14310
+64.195	0.07250	0.18130
+67.294	0.10620	0.24240
+69.940	0.13780	0.29150
+72.894	0.17680	0.34380
+75.744	0.22110	0.39450
+79.013	0.27780	0.44630
+81.084	0.32010	0.48610
+83.193	0.37220	0.52670
+85.193	0.42710	0.56550
+86.913	0.48520	0.60420
+88.878	0.56320	0.65420
+90.253	0.61980	0.68960
+91.258	0.68020	0.72830
+91.952	0.73670	0.76630
+92.532	0.79950	0.81110
+92.652	0.84990	0.85040
+92.438	0.89230	0.88670
+92.112	0.93300	0.92540
+91.663	0.97570	0.97130
+91.392	1.000001.00000
+Source
+Gmehling J.: Isothermal Vapor-Liquid Equilibria in Binary Systems Formed by Esters with Alkenes. J.Chem.Eng.Data 28 (1983) 27-30
+Source
+Gmehling J.: Isothermal Vapor-Liquid Equilibria in Binary Systems Formed by Esters with Alkenes. J.Chem.Eng.Data 28 (1983) 27-30

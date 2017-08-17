@@ -1,73 +1,73 @@
-$$$Enthalpy of Mixing Data Set 3245	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-224.000	0.16350	
-365.000	0.29940	
-440.000	0.39550	
-488.000	0.47650	
-512.000	0.53900	
-522.000	0.59110	
-523.000	0.60410	
-522.000	0.62080	
-520.000	0.63280	
-519.000	0.63800	
-513.000	0.65650	
-508.000	0.67140	
-506.000	0.67630	
-497.000	0.69670	
-494.000	0.70220	
-485.000	0.71850	
-479.000	0.72780	
-469.000	0.74130	
-462.000	0.74980	
-448.000	0.76690	
-447.000	0.76850	
-430.000	0.78500	
-422.000	0.79340	
-414.000	0.79920	
-390.000	0.82200	
-346.000	0.85290	
-290.000	0.88570	
-218.000	0.92110	
-125.000	0.95880	
-Source	
-Arenosa R.L.; Menduina C.; Tardajos G.; Diaz Pena M.: Excess Enthalpies at 298.15 K of Binary Mixtures of Cyclohexane with n-Alkanes. J.Chem.Thermodyn. 11 (1979) 159-166	
-$$$Enthalpy of Mixing Data Set 3246	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	298.200	K	
-hE [J/mol]	x1 [mol/mol]	
-157.000	0.10820	
-324.000	0.24980	
-440.000	0.38250	
-506.000	0.49990	
-520.000	0.58950	
-502.000	0.69230	
-454.000	0.76330	
-353.000	0.85360	
-188.000	0.93690	
-Source	
-Fenby D.V.; Khurma J.R.; Kooner Z.S.; Block T.E.; Knobler C.M.; Reeder J.; Scott R.L.: Isomer Effects in Mixtures of Hydrocarbons: Some Experimental Excess Volumes and Enthalpies. Aust.J.Chem. 33 (1980) 1927-1941	
-$$$Enthalpy of Mixing Data Set 3247	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	308.200	K	
-hE [J/mol]	x1 [mol/mol]	
-278.000	0.24490	
-307.000	0.27950	
-336.000	0.31360	
-407.000	0.41730	
-441.000	0.50700	
-450.000	0.61260	
-424.000	0.71780	
-376.000	0.79640	
-Source	
-Fenby D.V.; Khurma J.R.; Kooner Z.S.; Block T.E.; Knobler C.M.; Reeder J.; Scott R.L.: Isomer Effects in Mixtures of Hydrocarbons: Some Experimental Excess Volumes and Enthalpies. Aust.J.Chem. 33 (1980) 1927-1941	
-Source	
-Fenby D.V.; Khurma J.R.; Kooner Z.S.; Block T.E.; Knobler C.M.; Reeder J.; Scott R.L.: Isomer Effects in Mixtures of Hydrocarbons: Some Experimental Excess Volumes and Enthalpies. Aust.J.Chem. 33 (1980) 1927-1941	
-Arenosa R.L.; Menduina C.; Tardajos G.; Diaz Pena M.: Excess Enthalpies at 298.15 K of Binary Mixtures of Cyclohexane with n-Alkanes. J.Chem.Thermodyn. 11 (1979) 159-166	
+$$$Enthalpy of Mixing Data Set 3245
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+224.000	0.16350
+365.000	0.29940
+440.000	0.39550
+488.000	0.47650
+512.000	0.53900
+522.000	0.59110
+523.000	0.60410
+522.000	0.62080
+520.000	0.63280
+519.000	0.63800
+513.000	0.65650
+508.000	0.67140
+506.000	0.67630
+497.000	0.69670
+494.000	0.70220
+485.000	0.71850
+479.000	0.72780
+469.000	0.74130
+462.000	0.74980
+448.000	0.76690
+447.000	0.76850
+430.000	0.78500
+422.000	0.79340
+414.000	0.79920
+390.000	0.82200
+346.000	0.85290
+290.000	0.88570
+218.000	0.92110
+125.000	0.95880
+Source
+Arenosa R.L.; Menduina C.; Tardajos G.; Diaz Pena M.: Excess Enthalpies at 298.15 K of Binary Mixtures of Cyclohexane with n-Alkanes. J.Chem.Thermodyn. 11 (1979) 159-166
+$$$Enthalpy of Mixing Data Set 3246
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	298.200	K
+hE [J/mol]	x1 [mol/mol]
+157.000	0.10820
+324.000	0.24980
+440.000	0.38250
+506.000	0.49990
+520.000	0.58950
+502.000	0.69230
+454.000	0.76330
+353.000	0.85360
+188.000	0.93690
+Source
+Fenby D.V.; Khurma J.R.; Kooner Z.S.; Block T.E.; Knobler C.M.; Reeder J.; Scott R.L.: Isomer Effects in Mixtures of Hydrocarbons: Some Experimental Excess Volumes and Enthalpies. Aust.J.Chem. 33 (1980) 1927-1941
+$$$Enthalpy of Mixing Data Set 3247
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	308.200	K
+hE [J/mol]	x1 [mol/mol]
+278.000	0.24490
+307.000	0.27950
+336.000	0.31360
+407.000	0.41730
+441.000	0.50700
+450.000	0.61260
+424.000	0.71780
+376.000	0.79640
+Source
+Fenby D.V.; Khurma J.R.; Kooner Z.S.; Block T.E.; Knobler C.M.; Reeder J.; Scott R.L.: Isomer Effects in Mixtures of Hydrocarbons: Some Experimental Excess Volumes and Enthalpies. Aust.J.Chem. 33 (1980) 1927-1941
+Source
+Fenby D.V.; Khurma J.R.; Kooner Z.S.; Block T.E.; Knobler C.M.; Reeder J.; Scott R.L.: Isomer Effects in Mixtures of Hydrocarbons: Some Experimental Excess Volumes and Enthalpies. Aust.J.Chem. 33 (1980) 1927-1941
+Arenosa R.L.; Menduina C.; Tardajos G.; Diaz Pena M.: Excess Enthalpies at 298.15 K of Binary Mixtures of Cyclohexane with n-Alkanes. J.Chem.Thermodyn. 11 (1979) 159-166

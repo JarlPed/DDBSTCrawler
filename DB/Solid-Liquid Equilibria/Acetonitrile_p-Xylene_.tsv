@@ -1,52 +1,52 @@
-$$$Solid-Liquid Equilibrium Data Set 494	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C8H10	106.167	106-42-3	p-Xylene	
-T [K]	xL1 [mol/mol]	
-286.39	0.00000	
-282.11	0.14370	
-278.96	0.26080	
-275.36	0.42780	
-272.92	0.54070	
-268.80	0.70150	
-264.60	0.80200	
-262.54	0.83360	
-256.39	0.89300	
-249.46	0.93130	
-243.72	0.94920	
-236.25	0.96550	
-230.80	0.97700	
-228.38	0.98520	
-228.81	0.99350	
-229.30	1.00000	
-Source	
-Goates J.R.; Ott J.B.; Budge A.H.: Solid-Liquid Phase Equilibria and Solid Compound Formation in Acetonitrile-Aromatic Hydrocarbon System. J.Phys.Chem. 65 (1961) 2162-2165	
-$$$Solid-Liquid Equilibrium Data Set 31031	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C8H10	106.167	106-42-3	p-Xylene	
-T [K]	xS1 [mol/mol]	
-227.39	0.14370	
-227.75	0.26080	
-227.69	0.42780	
-228.07	0.54070	
-228.10	0.70150	
-228.10	0.80200	
-228.10	0.83360	
-228.10	0.89300	
-228.09	0.93130	
-228.10	0.94920	
-228.09	0.96550	
-228.09	0.97700	
-228.04	0.98520	
-227.87	0.99350	
-Source	
-Goates J.R.; Ott J.B.; Budge A.H.: Solid-Liquid Phase Equilibria and Solid Compound Formation in Acetonitrile-Aromatic Hydrocarbon System. J.Phys.Chem. 65 (1961) 2162-2165	
-$$$Solid-Liquid Equilibrium Data Set 31032	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C8H10	106.167	106-42-3	p-Xylene	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-228.09	0.98100	0.98100	
-Source	
-Goates J.R.; Ott J.B.; Budge A.H.: Solid-Liquid Phase Equilibria and Solid Compound Formation in Acetonitrile-Aromatic Hydrocarbon System. J.Phys.Chem. 65 (1961) 2162-2165	
+$$$Solid-Liquid Equilibrium Data Set 494
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C8H10	106.167	106-42-3	p-Xylene
+T [K]	xL1 [mol/mol]
+286.39	0.00000
+282.11	0.14370
+278.96	0.26080
+275.36	0.42780
+272.92	0.54070
+268.80	0.70150
+264.60	0.80200
+262.54	0.83360
+256.39	0.89300
+249.46	0.93130
+243.72	0.94920
+236.25	0.96550
+230.80	0.97700
+228.38	0.98520
+228.81	0.99350
+229.30	1.00000
+Source
+Goates J.R.; Ott J.B.; Budge A.H.: Solid-Liquid Phase Equilibria and Solid Compound Formation in Acetonitrile-Aromatic Hydrocarbon System. J.Phys.Chem. 65 (1961) 2162-2165
+$$$Solid-Liquid Equilibrium Data Set 31031
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C8H10	106.167	106-42-3	p-Xylene
+T [K]	xS1 [mol/mol]
+227.39	0.14370
+227.75	0.26080
+227.69	0.42780
+228.07	0.54070
+228.10	0.70150
+228.10	0.80200
+228.10	0.83360
+228.10	0.89300
+228.09	0.93130
+228.10	0.94920
+228.09	0.96550
+228.09	0.97700
+228.04	0.98520
+227.87	0.99350
+Source
+Goates J.R.; Ott J.B.; Budge A.H.: Solid-Liquid Phase Equilibria and Solid Compound Formation in Acetonitrile-Aromatic Hydrocarbon System. J.Phys.Chem. 65 (1961) 2162-2165
+$$$Solid-Liquid Equilibrium Data Set 31032
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C8H10	106.167	106-42-3	p-Xylene
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+228.09	0.981000.98100
+Source
+Goates J.R.; Ott J.B.; Budge A.H.: Solid-Liquid Phase Equilibria and Solid Compound Formation in Acetonitrile-Aromatic Hydrocarbon System. J.Phys.Chem. 65 (1961) 2162-2165

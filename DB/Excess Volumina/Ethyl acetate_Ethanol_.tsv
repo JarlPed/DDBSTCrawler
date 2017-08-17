@@ -1,65 +1,65 @@
-$$$Excess Volume Data Set 2714	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0330	0.07000	
-0.0580	0.12900	
-0.0830	0.20400	
-0.1040	0.28200	
-0.1240	0.37800	
-0.1350	0.47300	
-0.1360	0.59600	
-0.1220	0.71300	
-0.0780	0.86800	
-Source	
-Qin A.; Hoffman D.E.; Munk P.: Excess Volumes of Mixtures of Some Alkyl Esters and Ketones with Alkanols. Collect.Czech.Chem.Commun. 58 (1993) 2625-2641	
-$$$Excess Volume Data Set 5883	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0200	0.05000	
-0.0500	0.10000	
-0.0700	0.15000	
-0.0900	0.20000	
-0.1000	0.25000	
-0.1200	0.30000	
-0.1300	0.35000	
-0.1300	0.40000	
-0.1300	0.45000	
-0.1300	0.50000	
-0.1300	0.55000	
-0.1200	0.60000	
-0.1100	0.65000	
-0.1000	0.70000	
-0.0800	0.75000	
-0.0600	0.80000	
-0.0400	0.85000	
-0.0300	0.90000	
-0.0100	0.95000	
-Source	
-Grolier J.-P.; Viallard A.: Acétate d'éthyle et acétate de méthyle avec différents alcools. J.Chim.Phys.Phys.-Chim.Biol. 68 (1971) 1442-1448	
-$$$Excess Volume Data Set 6215	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	313.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1080	0.10000	
-0.1890	0.20000	
-0.2030	0.30000	
-0.2180	0.40000	
-0.2550	0.50000	
-0.2510	0.60000	
-0.2070	0.70000	
-0.1820	0.80000	
-0.1170	0.90000	
-Source	
-Nitta T.; Fujio J.; Katayama T.: Mixtures of Ethanol with Benzene, Ethyl Acetate, and Diethyl Ether. J.Chem.Eng.Data 23 (1978) 157-159	
-Source	
-Qin A.; Hoffman D.E.; Munk P.: Excess Volumes of Mixtures of Some Alkyl Esters and Ketones with Alkanols. Collect.Czech.Chem.Commun. 58 (1993) 2625-2641	
-Grolier J.-P.; Viallard A.: Acétate d'éthyle et acétate de méthyle avec différents alcools. J.Chim.Phys.Phys.-Chim.Biol. 68 (1971) 1442-1448	
-Nitta T.; Fujio J.; Katayama T.: Mixtures of Ethanol with Benzene, Ethyl Acetate, and Diethyl Ether. J.Chem.Eng.Data 23 (1978) 157-159	
+$$$Excess Volume Data Set 2714
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C2H6O	46.069	64-17-5	Ethanol
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0330	0.07000
+0.0580	0.12900
+0.0830	0.20400
+0.1040	0.28200
+0.1240	0.37800
+0.1350	0.47300
+0.1360	0.59600
+0.1220	0.71300
+0.0780	0.86800
+Source
+Qin A.; Hoffman D.E.; Munk P.: Excess Volumes of Mixtures of Some Alkyl Esters and Ketones with Alkanols. Collect.Czech.Chem.Commun. 58 (1993) 2625-2641
+$$$Excess Volume Data Set 5883
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C2H6O	46.069	64-17-5	Ethanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0200	0.05000
+0.0500	0.10000
+0.0700	0.15000
+0.0900	0.20000
+0.1000	0.25000
+0.1200	0.30000
+0.1300	0.35000
+0.1300	0.40000
+0.1300	0.45000
+0.1300	0.50000
+0.1300	0.55000
+0.1200	0.60000
+0.1100	0.65000
+0.1000	0.70000
+0.0800	0.75000
+0.0600	0.80000
+0.0400	0.85000
+0.0300	0.90000
+0.0100	0.95000
+Source
+Grolier J.-P.; Viallard A.: Acétate d'éthyle et acétate de méthyle avec différents alcools. J.Chim.Phys.Phys.-Chim.Biol. 68 (1971) 1442-1448
+$$$Excess Volume Data Set 6215
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C2H6O	46.069	64-17-5	Ethanol
+Temperature	313.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1080	0.10000
+0.1890	0.20000
+0.2030	0.30000
+0.2180	0.40000
+0.2550	0.50000
+0.2510	0.60000
+0.2070	0.70000
+0.1820	0.80000
+0.1170	0.90000
+Source
+Nitta T.; Fujio J.; Katayama T.: Mixtures of Ethanol with Benzene, Ethyl Acetate, and Diethyl Ether. J.Chem.Eng.Data 23 (1978) 157-159
+Source
+Qin A.; Hoffman D.E.; Munk P.: Excess Volumes of Mixtures of Some Alkyl Esters and Ketones with Alkanols. Collect.Czech.Chem.Commun. 58 (1993) 2625-2641
+Grolier J.-P.; Viallard A.: Acétate d'éthyle et acétate de méthyle avec différents alcools. J.Chim.Phys.Phys.-Chim.Biol. 68 (1971) 1442-1448
+Nitta T.; Fujio J.; Katayama T.: Mixtures of Ethanol with Benzene, Ethyl Acetate, and Diethyl Ether. J.Chem.Eng.Data 23 (1978) 157-159

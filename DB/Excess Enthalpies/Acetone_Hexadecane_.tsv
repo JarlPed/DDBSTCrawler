@@ -1,65 +1,65 @@
-$$$Enthalpy of Mixing Data Set 1404	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-140.000	0.02220	
-300.000	0.03890	
-457.000	0.05440	
-609.000	0.07010	
-746.000	0.08630	
-890.000	0.10210	
-1030.000	0.11840	
-1166.000	0.13520	
-1296.000	0.15230	
-1429.000	0.17030	
-1544.000	0.18940	
-1661.000	0.20800	
-1749.000	0.22340	
-1839.000	0.24390	
-1927.000	0.26300	
-2070.000	0.30420	
-2196.000	0.34760	
-2288.000	0.39510	
-2366.000	0.45360	
-2377.000	0.53630	
-2359.000	0.55550	
-2332.000	0.57840	
-2310.000	0.58920	
-2282.000	0.59890	
-2254.000	0.60780	
-2219.000	0.61820	
-2180.000	0.62960	
-2128.000	0.64430	
-1110.000	0.89660	
-1033.000	0.93030	
-911.000	0.94480	
-760.000	0.96200	
-400.000	0.97500	
-247.000	0.98490	
-155.000	0.99060	
-64.000	0.99580	
-Source	
-Kuchenbecker D.: Rationelle Ermittlung kalorischer Exzeßfunktionen von n-Alkylamin/n-Alkan- und Aromat/n-Alkan-Systemen. Thesis  (1976)	
-$$$Enthalpy of Mixing Data Set 1405	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-749.440	0.08630	
-1171.050	0.13550	
-1550.790	0.18940	
-1935.560	0.26300	
-2298.130	0.39510	
-2376.430	0.45360	
-2324.930	0.58800	
-1004.410	0.92000	
-914.820	0.93030	
-247.860	0.98490	
-Source	
-Messow U.; Doye U.; Kuntzsch S.; Kuchenbecker D.: V. Die Systeme Aceton/n-Decan, Aceton/n-Dodecan, Aceton/n-Tetradecan und Aceton/n-Hexadecan. Z.Phys.Chem.(Leipzig) 258 (1977) 90-96	
-Source	
-Messow U.; Doye U.; Kuntzsch S.; Kuchenbecker D.: V. Die Systeme Aceton/n-Decan, Aceton/n-Dodecan, Aceton/n-Tetradecan und Aceton/n-Hexadecan. Z.Phys.Chem.(Leipzig) 258 (1977) 90-96	
-Kuchenbecker D.: Rationelle Ermittlung kalorischer Exzeßfunktionen von n-Alkylamin/n-Alkan- und Aromat/n-Alkan-Systemen. Thesis  (1976)	
+$$$Enthalpy of Mixing Data Set 1404
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+140.000	0.02220
+300.000	0.03890
+457.000	0.05440
+609.000	0.07010
+746.000	0.08630
+890.000	0.10210
+1030.000	0.11840
+1166.000	0.13520
+1296.000	0.15230
+1429.000	0.17030
+1544.000	0.18940
+1661.000	0.20800
+1749.000	0.22340
+1839.000	0.24390
+1927.000	0.26300
+2070.000	0.30420
+2196.000	0.34760
+2288.000	0.39510
+2366.000	0.45360
+2377.000	0.53630
+2359.000	0.55550
+2332.000	0.57840
+2310.000	0.58920
+2282.000	0.59890
+2254.000	0.60780
+2219.000	0.61820
+2180.000	0.62960
+2128.000	0.64430
+1110.000	0.89660
+1033.000	0.93030
+911.000	0.94480
+760.000	0.96200
+400.000	0.97500
+247.000	0.98490
+155.000	0.99060
+64.000	0.99580
+Source
+Kuchenbecker D.: Rationelle Ermittlung kalorischer Exzeßfunktionen von n-Alkylamin/n-Alkan- und Aromat/n-Alkan-Systemen. Thesis  (1976)
+$$$Enthalpy of Mixing Data Set 1405
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+749.440	0.08630
+1171.050	0.13550
+1550.790	0.18940
+1935.560	0.26300
+2298.130	0.39510
+2376.430	0.45360
+2324.930	0.58800
+1004.410	0.92000
+914.820	0.93030
+247.860	0.98490
+Source
+Messow U.; Doye U.; Kuntzsch S.; Kuchenbecker D.: V. Die Systeme Aceton/n-Decan, Aceton/n-Dodecan, Aceton/n-Tetradecan und Aceton/n-Hexadecan. Z.Phys.Chem.(Leipzig) 258 (1977) 90-96
+Source
+Messow U.; Doye U.; Kuntzsch S.; Kuchenbecker D.: V. Die Systeme Aceton/n-Decan, Aceton/n-Dodecan, Aceton/n-Tetradecan und Aceton/n-Hexadecan. Z.Phys.Chem.(Leipzig) 258 (1977) 90-96
+Kuchenbecker D.: Rationelle Ermittlung kalorischer Exzeßfunktionen von n-Alkylamin/n-Alkan- und Aromat/n-Alkan-Systemen. Thesis  (1976)

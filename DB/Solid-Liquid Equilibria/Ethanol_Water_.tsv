@@ -1,91 +1,91 @@
-$$$Solid-Liquid Equilibrium Data Set 692	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-268.65	0.04164	
-262.65	0.08906	
-253.15	0.14354	
-243.75	0.20679	
-236.15	0.28112	
-229.35	0.36971	
-Source	
-Clendenning K.A.: XI. Evaluation of Levo-2,3-Butanediol as a Non-Volatile Antifreeze Compound. Can.J.Res.Sect.F 24 (1946) 249-271	
-$$$Solid-Liquid Equilibrium Data Set 1489	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-200.60	0.64600	0.64600	
-151.20	0.84000	0.84000	
-Source	
-Ott J.B.; Goates J.R.; Waite B.A.: (Solid + Liquid) Phase Equilibria and Solid-Hydrate Formation in Water + Methyl, + Ethyl, + Isopropyl, and + Tertiary Butyl Alcohols. J.Chem.Thermodyn. 11 (1979) 739-746	
-$$$Solid-Liquid Equilibrium Data Set 2415	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-272.94	0.001914500026	
-272.71	0.003919600043	
-272.52	0.00577	
-272.30	0.007763	
-271.90	0.01171	
-271.49	0.015712	
-271.07	0.019868	
-270.63	0.023925	
-270.12	0.028075	
-269.70	0.032285	
-269.15	0.03654	
-268.64	0.04086	
-268.28	0.04457	
-267.84	0.04807	
-267.66	0.04943	
-267.04	0.05445	
-266.54	0.05810	
-266.21	0.06082	
-265.39	0.06610	
-264.71	0.07081	
-264.78	0.07100	
-264.23	0.07455	
-263.48	0.07901	
-262.91	0.08375	
-262.16	0.08875	
-260.82	0.09685	
-259.54	0.10424	
-257.93	0.11363	
-256.73	0.11981	
-254.93	0.12951	
-252.66	0.14423	
-250.81	0.15537	
-248.15	0.17304	
-246.12	0.18979	
-243.55	0.20598	
-241.75	0.22339	
-240.65	0.24047	
-238.35	0.25837	
-235.55	0.28837	
-233.15	0.32063	
-231.65	0.34690	
-230.20	0.36938	
-228.75	0.38821	
-228.35	0.39929	
-227.35	0.40847	
-226.65	0.41626	
-226.35	0.41754	
-225.25	0.43027	
-225.15	0.43324	
-223.80	0.44921	
-221.90	0.46635	
-221.85	0.46953	
-220.15	0.48496	
-219.65	0.48863	
-217.40	0.50167	
-217.65	0.50477	
-216.65	0.51962	
-214.95	0.53177	
-213.65	0.53996	
-213.15	0.54044	
-212.15	0.55018	
-211.15	0.56026	
-Source	
-Pickering S.U.: A Study of the Properties of some Strong Solutions. J.Chem.Soc.London 63 (1893) 998-1027	
+$$$Solid-Liquid Equilibrium Data Set 692
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+268.65	0.04164
+262.65	0.08906
+253.15	0.14354
+243.75	0.20679
+236.15	0.28112
+229.35	0.36971
+Source
+Clendenning K.A.: XI. Evaluation of Levo-2,3-Butanediol as a Non-Volatile Antifreeze Compound. Can.J.Res.Sect.F 24 (1946) 249-271
+$$$Solid-Liquid Equilibrium Data Set 1489
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+200.60	0.646000.64600
+151.20	0.840000.84000
+Source
+Ott J.B.; Goates J.R.; Waite B.A.: (Solid + Liquid) Phase Equilibria and Solid-Hydrate Formation in Water + Methyl, + Ethyl, + Isopropyl, and + Tertiary Butyl Alcohols. J.Chem.Thermodyn. 11 (1979) 739-746
+$$$Solid-Liquid Equilibrium Data Set 2415
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+272.94	0.001914500026
+272.71	0.003919600043
+272.52	0.00577
+272.30	0.007763
+271.90	0.01171
+271.49	0.015712
+271.07	0.019868
+270.63	0.023925
+270.12	0.028075
+269.70	0.032285
+269.15	0.03654
+268.64	0.04086
+268.28	0.04457
+267.84	0.04807
+267.66	0.04943
+267.04	0.05445
+266.54	0.05810
+266.21	0.06082
+265.39	0.06610
+264.71	0.07081
+264.78	0.07100
+264.23	0.07455
+263.48	0.07901
+262.91	0.08375
+262.16	0.08875
+260.82	0.09685
+259.54	0.10424
+257.93	0.11363
+256.73	0.11981
+254.93	0.12951
+252.66	0.14423
+250.81	0.15537
+248.15	0.17304
+246.12	0.18979
+243.55	0.20598
+241.75	0.22339
+240.65	0.24047
+238.35	0.25837
+235.55	0.28837
+233.15	0.32063
+231.65	0.34690
+230.20	0.36938
+228.75	0.38821
+228.35	0.39929
+227.35	0.40847
+226.65	0.41626
+226.35	0.41754
+225.25	0.43027
+225.15	0.43324
+223.80	0.44921
+221.90	0.46635
+221.85	0.46953
+220.15	0.48496
+219.65	0.48863
+217.40	0.50167
+217.65	0.50477
+216.65	0.51962
+214.95	0.53177
+213.65	0.53996
+213.15	0.54044
+212.15	0.55018
+211.15	0.56026
+Source
+Pickering S.U.: A Study of the Properties of some Strong Solutions. J.Chem.Soc.London 63 (1893) 998-1027

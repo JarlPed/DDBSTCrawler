@@ -1,38 +1,38 @@
-$$$Solid-Liquid Equilibrium Data Set 17672	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	CH4O	32.042	67-56-1	Methanol	
-3	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-269.00	0.010215	0.016303	
-267.10	0.01359	0.02479	
-263.00	0.023363	0.03896	
-260.40	0.027803	0.04824	
-258.00	0.024303	0.07180	
-257.50	0.02158	0.08059	
-255.90	0.03552	0.06415	
-252.10	0.04566	0.07026	
-250.10	0.04456	0.08456	
-Source	
-Najibi H.; Mohammadi A.H.; Tohidi B.: Estimating the Hydrate Safety Margin in the Presence of Salt and/or Organic Inhibitor Using Freezing Point Depression Data of Aqueous Solutions. Ind.Eng.Chem.Res. 45 (2006) 4441-4446	
-$$$Solid-Liquid Equilibrium Data Set 41540	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	ClNa	58.442	7647-14-5	Sodium chloride	
-3	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-270.69	0.017164	0.001882	
-268.80	0.03494	0.003831519978	
-266.38	0.05337	0.005852	
-264.20	0.07248	0.007948	
-260.05	0.11291	0.01238	
-268.14	0.040805	0.002237	
-265.11	0.06550	0.003591	
-262.67	0.09128	0.005004	
-259.31	0.11821	0.006481	
-267.87	0.04679	0.001709	
-265.02	0.07163	0.002618	
-262.00	0.09751	0.003565	
-258.33	0.12449	0.004549	
-Source	
-Weng L.; Li W.; Zuo J.: DSC Determination of Partial Ternary Phase Diagrams of Methanol/Sodium Chloride/Water and Propylene Glycol/Sodium Chloride/Water and their Applications for Synthesized Diagrams. Thermochim.Acta 512 (2011) 225-232	
+$$$Solid-Liquid Equilibrium Data Set 17672
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	CH4O	32.042	67-56-1	Methanol
+3	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+269.00	0.010215	0.016303
+267.10	0.01359	0.02479
+263.00	0.023363	0.03896
+260.40	0.027803	0.04824
+258.00	0.024303	0.07180
+257.50	0.02158	0.08059
+255.90	0.03552	0.06415
+252.10	0.04566	0.07026
+250.10	0.04456	0.08456
+Source
+Najibi H.; Mohammadi A.H.; Tohidi B.: Estimating the Hydrate Safety Margin in the Presence of Salt and/or Organic Inhibitor Using Freezing Point Depression Data of Aqueous Solutions. Ind.Eng.Chem.Res. 45 (2006) 4441-4446
+$$$Solid-Liquid Equilibrium Data Set 41540
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	ClNa	58.442	7647-14-5	Sodium chloride
+3	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+270.69	0.017164	0.001882
+268.80	0.03494	0.003831519978
+266.38	0.05337	0.005852
+264.20	0.07248	0.007948
+260.05	0.11291	0.01238
+268.14	0.040805	0.002237
+265.11	0.06550	0.003591
+262.67	0.09128	0.005004
+259.31	0.11821	0.006481
+267.87	0.04679	0.001709
+265.02	0.07163	0.002618
+262.00	0.09751	0.003565
+258.33	0.12449	0.004549
+Source
+Weng L.; Li W.; Zuo J.: DSC Determination of Partial Ternary Phase Diagrams of Methanol/Sodium Chloride/Water and Propylene Glycol/Sodium Chloride/Water and their Applications for Synthesized Diagrams. Thermochim.Acta 512 (2011) 225-232

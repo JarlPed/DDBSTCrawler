@@ -1,43 +1,43 @@
-$$$Vapor-Liquid Equilibrium Data Set 20442	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	H2O	18.015	7732-18-5	Water	
-P [kPa]	T [K]	x1 [mol/mol]	y1 [mol/mol]	
-2955.997	463.67	0.90690	0.40420	
-2252.002	449.88	0.93420	0.42830	
-1267.001	423.11	0.96740	0.47450	
-612.000	394.22	0.98400	0.59970	
-343.000	373.11	0.98660	0.66720	
-Source	
-Barrufet M.A.; Liu K.; Rahman S.; Wu C.: Simultaneous Vapor - Liquid - Liquid Equilibria and Phase Molar Densities of a Quaternary System of Propane + Pentane + Octane + Water. J.Chem.Eng.Data 41 (1996) 918-922	
-$$$Vapor-Liquid Equilibrium Data Set 23037	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	473.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-3628.462	0.90300	0.62800	
-3432.331	0.91600	0.64000	
-2941.998	0.94900	0.70700	
-2451.665	0.97600	0.80100	
-1961.332	0.99400	0.92900	
-Source	
-Namiot A.Yu.; Skripka V.G.; Lotter Yu.G.: Phase Equilibria in Hydrocarbon -  Water Systems at High Temperatures. Viniti  (1976) 1-13	
-$$$Vapor-Liquid Equilibrium Data Set 23038	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	493.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-5226.944	0.78400	0.64000	
-4903.317	0.82100	0.64500	
-4412.997	0.87100	0.67300	
-3922.664	0.91200	0.71100	
-3432.331	0.94700	0.77000	
-2941.998	0.97700	0.85500	
-2451.665	0.99800	0.97700	
-Source	
-Namiot A.Yu.; Skripka V.G.; Lotter Yu.G.: Phase Equilibria in Hydrocarbon -  Water Systems at High Temperatures. Viniti  (1976) 1-13	
-Source	
-Namiot A.Yu.; Skripka V.G.; Lotter Yu.G.: Phase Equilibria in Hydrocarbon -  Water Systems at High Temperatures. Viniti  (1976) 1-13	
-Barrufet M.A.; Liu K.; Rahman S.; Wu C.: Simultaneous Vapor - Liquid - Liquid Equilibria and Phase Molar Densities of a Quaternary System of Propane + Pentane + Octane + Water. J.Chem.Eng.Data 41 (1996) 918-922	
+$$$Vapor-Liquid Equilibrium Data Set 20442
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	H2O	18.015	7732-18-5	Water
+P [kPa]	T [K]	x1 [mol/mol]	y1 [mol/mol]
+2955.997	463.67	0.90690	0.40420
+2252.002	449.88	0.93420	0.42830
+1267.001	423.11	0.96740	0.47450
+612.000	394.22	0.98400	0.59970
+343.000	373.11	0.98660	0.66720
+Source
+Barrufet M.A.; Liu K.; Rahman S.; Wu C.: Simultaneous Vapor - Liquid - Liquid Equilibria and Phase Molar Densities of a Quaternary System of Propane + Pentane + Octane + Water. J.Chem.Eng.Data 41 (1996) 918-922
+$$$Vapor-Liquid Equilibrium Data Set 23037
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	H2O	18.015	7732-18-5	Water
+Temperature	473.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+3628.462	0.90300	0.62800
+3432.331	0.91600	0.64000
+2941.998	0.94900	0.70700
+2451.665	0.97600	0.80100
+1961.332	0.99400	0.92900
+Source
+Namiot A.Yu.; Skripka V.G.; Lotter Yu.G.: Phase Equilibria in Hydrocarbon -  Water Systems at High Temperatures. Viniti  (1976) 1-13
+$$$Vapor-Liquid Equilibrium Data Set 23038
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	H2O	18.015	7732-18-5	Water
+Temperature	493.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+5226.944	0.78400	0.64000
+4903.317	0.82100	0.64500
+4412.997	0.87100	0.67300
+3922.664	0.91200	0.71100
+3432.331	0.94700	0.77000
+2941.998	0.97700	0.85500
+2451.665	0.99800	0.97700
+Source
+Namiot A.Yu.; Skripka V.G.; Lotter Yu.G.: Phase Equilibria in Hydrocarbon -  Water Systems at High Temperatures. Viniti  (1976) 1-13
+Source
+Namiot A.Yu.; Skripka V.G.; Lotter Yu.G.: Phase Equilibria in Hydrocarbon -  Water Systems at High Temperatures. Viniti  (1976) 1-13
+Barrufet M.A.; Liu K.; Rahman S.; Wu C.: Simultaneous Vapor - Liquid - Liquid Equilibria and Phase Molar Densities of a Quaternary System of Propane + Pentane + Octane + Water. J.Chem.Eng.Data 41 (1996) 918-922

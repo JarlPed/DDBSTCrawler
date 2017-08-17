@@ -1,59 +1,59 @@
-$$$Excess Volume Data Set 16365	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Temperature	283.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0000	0.04500	
-0.0060	0.10620	
-0.0050	0.19560	
-0.0010	0.29310	
--0.0080	0.40170	
--0.0160	0.49930	
--0.0190	0.60880	
--0.0220	0.67030	
--0.0200	0.79590	
--0.0100	0.90550	
--0.0070	0.94340	
-Source	
-Valen A.; Lopez M.C.; Urieta J.S.; Royo F.M.; Lafuente C.: Thermodynamic Study of Mixtures Containing Oxygenated Compounds. J.Mol.Liq. 95 (2002) 157-165	
-$$$Excess Volume Data Set 16366	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0100	0.05740	
-0.0110	0.09690	
-0.0160	0.19430	
-0.0160	0.27170	
-0.0080	0.39890	
-0.0010	0.48890	
--0.0050	0.58980	
--0.0100	0.69280	
--0.0110	0.76850	
--0.0070	0.90920	
--0.0040	0.95040	
-Source	
-Valen A.; Lopez M.C.; Urieta J.S.; Royo F.M.; Lafuente C.: Thermodynamic Study of Mixtures Containing Oxygenated Compounds. J.Mol.Liq. 95 (2002) 157-165	
-$$$Excess Volume Data Set 16367	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Temperature	313.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0100	0.05070	
-0.0110	0.09820	
-0.0180	0.19100	
-0.0190	0.28390	
-0.0170	0.38880	
-0.0110	0.49060	
-0.0050	0.58800	
-0.0000	0.68390	
--0.0050	0.79120	
--0.0040	0.89410	
--0.0020	0.95110	
-Source	
-Valen A.; Lopez M.C.; Urieta J.S.; Royo F.M.; Lafuente C.: Thermodynamic Study of Mixtures Containing Oxygenated Compounds. J.Mol.Liq. 95 (2002) 157-165	
-Source	
-Valen A.; Lopez M.C.; Urieta J.S.; Royo F.M.; Lafuente C.: Thermodynamic Study of Mixtures Containing Oxygenated Compounds. J.Mol.Liq. 95 (2002) 157-165	
+$$$Excess Volume Data Set 16365
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Temperature	283.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0000	0.04500
+0.0060	0.10620
+0.0050	0.19560
+0.0010	0.29310
+-0.0080	0.40170
+-0.0160	0.49930
+-0.0190	0.60880
+-0.0220	0.67030
+-0.0200	0.79590
+-0.0100	0.90550
+-0.0070	0.94340
+Source
+Valen A.; Lopez M.C.; Urieta J.S.; Royo F.M.; Lafuente C.: Thermodynamic Study of Mixtures Containing Oxygenated Compounds. J.Mol.Liq. 95 (2002) 157-165
+$$$Excess Volume Data Set 16366
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0100	0.05740
+0.0110	0.09690
+0.0160	0.19430
+0.0160	0.27170
+0.0080	0.39890
+0.0010	0.48890
+-0.0050	0.58980
+-0.0100	0.69280
+-0.0110	0.76850
+-0.0070	0.90920
+-0.0040	0.95040
+Source
+Valen A.; Lopez M.C.; Urieta J.S.; Royo F.M.; Lafuente C.: Thermodynamic Study of Mixtures Containing Oxygenated Compounds. J.Mol.Liq. 95 (2002) 157-165
+$$$Excess Volume Data Set 16367
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Temperature	313.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0100	0.05070
+0.0110	0.09820
+0.0180	0.19100
+0.0190	0.28390
+0.0170	0.38880
+0.0110	0.49060
+0.0050	0.58800
+0.0000	0.68390
+-0.0050	0.79120
+-0.0040	0.89410
+-0.0020	0.95110
+Source
+Valen A.; Lopez M.C.; Urieta J.S.; Royo F.M.; Lafuente C.: Thermodynamic Study of Mixtures Containing Oxygenated Compounds. J.Mol.Liq. 95 (2002) 157-165
+Source
+Valen A.; Lopez M.C.; Urieta J.S.; Royo F.M.; Lafuente C.: Thermodynamic Study of Mixtures Containing Oxygenated Compounds. J.Mol.Liq. 95 (2002) 157-165

@@ -1,28 +1,28 @@
-$$$Solid-Liquid Equilibrium Data Set 39164	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-3	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-277.57	0.004925	0.023796	
-277.08	0.00721	0.03508	
-276.41	0.010307	0.05011	
-275.73	0.01338	0.06542	
-275.01	0.016736	0.08148	
-277.46	0.009859	0.01851	
-276.85	0.015065	0.02802	
-276.17	0.02076	0.03876	
-275.58	0.025604	0.04779	
-275.10	0.02971	0.05539	
-277.78	0.009777	0.008175	
-277.15	0.01700	0.01425	
-276.57	0.02368	0.019915	
-275.92	0.03106	0.026075	
-275.11	0.04048	0.03400	
-277.77	0.01189	0.003766610054	
-277.08	0.021546	0.006746	
-276.51	0.029505	0.009202	
-275.84	0.03891	0.012168	
-275.17	0.04829	0.015128	
-Source	
-Granzhan V.A.; Laktionova S.K.; Kozlova V.A.; Shuster Ya.A.: The Binary Systems formed by Acetic Acid, Acetic Anhydride, Methyl Acetate, and Methyl Iodide in an Inert Solvent. Viniti  (1977) 1-29	
+$$$Solid-Liquid Equilibrium Data Set 39164
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C2H4O2	60.053	64-19-7	Acetic acid
+3	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+277.57	0.004925	0.023796
+277.08	0.00721	0.03508
+276.41	0.010307	0.05011
+275.73	0.01338	0.06542
+275.01	0.016736	0.08148
+277.46	0.009859	0.01851
+276.85	0.015065	0.02802
+276.17	0.02076	0.03876
+275.58	0.025604	0.04779
+275.10	0.02971	0.05539
+277.78	0.009777	0.008175
+277.15	0.01700	0.01425
+276.57	0.02368	0.019915
+275.92	0.03106	0.026075
+275.11	0.04048	0.03400
+277.77	0.01189	0.003766610054
+277.08	0.021546	0.006746
+276.51	0.029505	0.009202
+275.84	0.03891	0.012168
+275.17	0.04829	0.015128
+Source
+Granzhan V.A.; Laktionova S.K.; Kozlova V.A.; Shuster Ya.A.: The Binary Systems formed by Acetic Acid, Acetic Anhydride, Methyl Acetate, and Methyl Iodide in an Inert Solvent. Viniti  (1977) 1-29

@@ -1,83 +1,83 @@
-$$$Heat Capacity Data Set 5123	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	293.15	K	
-Pressure	1.0132	bar	
-Heat Capacity [J/mol*K]	x1 [mol/mol]	
-155.3200	0.09260	
-154.9600	0.14660	
-154.7800	0.17680	
-154.5400	0.21800	
-154.3500	0.25690	
-154.1100	0.33290	
-154.0700	0.35600	
-154.0500	0.38110	
-154.0900	0.42640	
-154.2600	0.47990	
-154.7100	0.54900	
-154.8300	0.56210	
-155.5100	0.62410	
-156.1500	0.66820	
-157.1400	0.72330	
-157.9900	0.76340	
-159.7800	0.83450	
-160.6800	0.86540	
-Source	
-Sharma V.K.; Kataria J.: Topological investigations of excess heat capacities of binary liquid mixtures containing lactams and cycloalkanone. J.Mol.Liq. 188 (2013) 210-221	
-$$$Heat Capacity Data Set 5124	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	303.15	K	
-Pressure	1.0132	bar	
-Heat Capacity [J/mol*K]	x1 [mol/mol]	
-157.6800	0.09260	
-157.2000	0.14660	
-156.9500	0.17680	
-156.6400	0.21800	
-156.3800	0.25690	
-156.0100	0.33290	
-155.9400	0.35600	
-155.8900	0.38110	
-155.8700	0.42640	
-155.9700	0.47990	
-156.3300	0.54900	
-156.4300	0.56210	
-157.0500	0.62410	
-157.6400	0.66820	
-158.5800	0.72330	
-159.4000	0.76340	
-161.1700	0.83450	
-162.0700	0.86540	
-Source	
-Sharma V.K.; Kataria J.: Topological investigations of excess heat capacities of binary liquid mixtures containing lactams and cycloalkanone. J.Mol.Liq. 188 (2013) 210-221	
-$$$Heat Capacity Data Set 5125	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	308.15	K	
-Pressure	1.0132	bar	
-Heat Capacity [J/mol*K]	x1 [mol/mol]	
-158.8100	0.09260	
-158.2500	0.14660	
-157.9600	0.17680	
-157.5900	0.21800	
-157.2900	0.25690	
-156.8400	0.33290	
-156.7400	0.35600	
-156.6600	0.38110	
-156.5800	0.42640	
-156.6200	0.47990	
-156.8900	0.54900	
-156.9700	0.56210	
-157.5100	0.62410	
-158.0400	0.66820	
-158.9100	0.72330	
-159.6900	0.76340	
-161.4000	0.83450	
-162.2900	0.86540	
-Source	
-Sharma V.K.; Kataria J.: Topological investigations of excess heat capacities of binary liquid mixtures containing lactams and cycloalkanone. J.Mol.Liq. 188 (2013) 210-221	
-Source	
-Sharma V.K.; Kataria J.: Topological investigations of excess heat capacities of binary liquid mixtures containing lactams and cycloalkanone. J.Mol.Liq. 188 (2013) 210-221	
+$$$Heat Capacity Data Set 5123
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	293.15	K
+Pressure	1.0132	bar
+Heat Capacity [J/mol*K]	x1 [mol/mol]
+155.3200	0.09260
+154.9600	0.14660
+154.7800	0.17680
+154.5400	0.21800
+154.3500	0.25690
+154.1100	0.33290
+154.0700	0.35600
+154.0500	0.38110
+154.0900	0.42640
+154.2600	0.47990
+154.7100	0.54900
+154.8300	0.56210
+155.5100	0.62410
+156.1500	0.66820
+157.1400	0.72330
+157.9900	0.76340
+159.7800	0.83450
+160.6800	0.86540
+Source
+Sharma V.K.; Kataria J.: Topological investigations of excess heat capacities of binary liquid mixtures containing lactams and cycloalkanone. J.Mol.Liq. 188 (2013) 210-221
+$$$Heat Capacity Data Set 5124
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	303.15	K
+Pressure	1.0132	bar
+Heat Capacity [J/mol*K]	x1 [mol/mol]
+157.6800	0.09260
+157.2000	0.14660
+156.9500	0.17680
+156.6400	0.21800
+156.3800	0.25690
+156.0100	0.33290
+155.9400	0.35600
+155.8900	0.38110
+155.8700	0.42640
+155.9700	0.47990
+156.3300	0.54900
+156.4300	0.56210
+157.0500	0.62410
+157.6400	0.66820
+158.5800	0.72330
+159.4000	0.76340
+161.1700	0.83450
+162.0700	0.86540
+Source
+Sharma V.K.; Kataria J.: Topological investigations of excess heat capacities of binary liquid mixtures containing lactams and cycloalkanone. J.Mol.Liq. 188 (2013) 210-221
+$$$Heat Capacity Data Set 5125
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	308.15	K
+Pressure	1.0132	bar
+Heat Capacity [J/mol*K]	x1 [mol/mol]
+158.8100	0.09260
+158.2500	0.14660
+157.9600	0.17680
+157.5900	0.21800
+157.2900	0.25690
+156.8400	0.33290
+156.7400	0.35600
+156.6600	0.38110
+156.5800	0.42640
+156.6200	0.47990
+156.8900	0.54900
+156.9700	0.56210
+157.5100	0.62410
+158.0400	0.66820
+158.9100	0.72330
+159.6900	0.76340
+161.4000	0.83450
+162.2900	0.86540
+Source
+Sharma V.K.; Kataria J.: Topological investigations of excess heat capacities of binary liquid mixtures containing lactams and cycloalkanone. J.Mol.Liq. 188 (2013) 210-221
+Source
+Sharma V.K.; Kataria J.: Topological investigations of excess heat capacities of binary liquid mixtures containing lactams and cycloalkanone. J.Mol.Liq. 188 (2013) 210-221

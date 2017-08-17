@@ -1,48 +1,48 @@
-$$$Enthalpy of Mixing Data Set 11083	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-140.600	0.02000	
-499.400	0.11900	
-575.400	0.14600	
-676.400	0.18000	
-815.600	0.24400	
-922.600	0.31000	
-1040.800	0.39600	
-1120.000	0.50600	
-1121.400	0.59600	
-1060.900	0.67000	
-942.000	0.74300	
-870.500	0.77700	
-790.800	0.81200	
-600.100	0.87000	
-400.000	0.91300	
-150.100	0.97800	
-Source	
-Letcher T.M.; Govender U.P.: Excess Molar Enthalpies of an Alkanol + a Cyclic Ether at 298.15 K. J.Chem.Eng.Data 40 (1995) 1097-1100	
-$$$Enthalpy of Mixing Data Set 13809	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-514.000	0.15000	
-629.700	0.19050	
-834.900	0.27360	
-861.100	0.28180	
-927.100	0.32010	
-998.000	0.37040	
-1086.000	0.42960	
-1130.000	0.50100	
-1088.000	0.60100	
-991.700	0.69320	
-876.800	0.75080	
-779.800	0.79020	
-659.100	0.83390	
-Source	
-Fanni A.M.; Marongiu B.; Porcedda S.: Excess enthalpies for binary and ternary mixtures containing propan-2-ol, oxolane, and cyclohexane at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 4 (1998) 21-28	
-Source	
-Letcher T.M.; Govender U.P.: Excess Molar Enthalpies of an Alkanol + a Cyclic Ether at 298.15 K. J.Chem.Eng.Data 40 (1995) 1097-1100	
-Fanni A.M.; Marongiu B.; Porcedda S.: Excess enthalpies for binary and ternary mixtures containing propan-2-ol, oxolane, and cyclohexane at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 4 (1998) 21-28	
+$$$Enthalpy of Mixing Data Set 11083
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+140.600	0.02000
+499.400	0.11900
+575.400	0.14600
+676.400	0.18000
+815.600	0.24400
+922.600	0.31000
+1040.800	0.39600
+1120.000	0.50600
+1121.400	0.59600
+1060.900	0.67000
+942.000	0.74300
+870.500	0.77700
+790.800	0.81200
+600.100	0.87000
+400.000	0.91300
+150.100	0.97800
+Source
+Letcher T.M.; Govender U.P.: Excess Molar Enthalpies of an Alkanol + a Cyclic Ether at 298.15 K. J.Chem.Eng.Data 40 (1995) 1097-1100
+$$$Enthalpy of Mixing Data Set 13809
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+514.000	0.15000
+629.700	0.19050
+834.900	0.27360
+861.100	0.28180
+927.100	0.32010
+998.000	0.37040
+1086.000	0.42960
+1130.000	0.50100
+1088.000	0.60100
+991.700	0.69320
+876.800	0.75080
+779.800	0.79020
+659.100	0.83390
+Source
+Fanni A.M.; Marongiu B.; Porcedda S.: Excess enthalpies for binary and ternary mixtures containing propan-2-ol, oxolane, and cyclohexane at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 4 (1998) 21-28
+Source
+Letcher T.M.; Govender U.P.: Excess Molar Enthalpies of an Alkanol + a Cyclic Ether at 298.15 K. J.Chem.Eng.Data 40 (1995) 1097-1100
+Fanni A.M.; Marongiu B.; Porcedda S.: Excess enthalpies for binary and ternary mixtures containing propan-2-ol, oxolane, and cyclohexane at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 4 (1998) 21-28

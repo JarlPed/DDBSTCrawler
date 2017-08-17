@@ -1,35 +1,35 @@
-$$$Solid-Liquid Equilibrium Data Set 484	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	N2	28.013	7727-37-9	Nitrogen	
-Pressure	36.477	bar	
-T [K]	xL1 [mol/mol]	
-115.00	0.00016	
-Source	
-Yakimenko N.P.; Glukh G.M.; Iomtev M.B.; Abramova R.I.: Solubility of Solid Carbon Dioxide in Liquid Nitrogen. Russ.J.Phys.Chem. 49 (1975) 116-117	
-$$$Solid-Liquid Equilibrium Data Set 485	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	N2	28.013	7727-37-9	Nitrogen	
-Pressure	40.530	bar	
-T [K]	xL1 [mol/mol]	
-78.00	1.559999987E-6	
-80.00	2.300000006E-6	
-85.00	5.23000017E-6	
-90.00	1.090000023E-5	
-95.00	2.080000013E-5	
-100.00	4.009999975E-5	
-105.00	8.99000006E-5	
-110.00	0.00011	
-115.00	0.000166	
-Source	
-Yakimenko N.P.; Glukh G.M.; Iomtev M.B.; Abramova R.I.: Solubility of Solid Carbon Dioxide in Liquid Nitrogen. Russ.J.Phys.Chem. 49 (1975) 116-117	
-$$$Solid-Liquid Equilibrium Data Set 486	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	N2	28.013	7727-37-9	Nitrogen	
-Pressure	50.662	bar	
-T [K]	xL1 [mol/mol]	
-115.00	0.000171	
-Source	
-Yakimenko N.P.; Glukh G.M.; Iomtev M.B.; Abramova R.I.: Solubility of Solid Carbon Dioxide in Liquid Nitrogen. Russ.J.Phys.Chem. 49 (1975) 116-117	
+$$$Solid-Liquid Equilibrium Data Set 484
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	N2	28.013	7727-37-9	Nitrogen
+Pressure	36.477	bar
+T [K]	xL1 [mol/mol]
+115.00	0.00016
+Source
+Yakimenko N.P.; Glukh G.M.; Iomtev M.B.; Abramova R.I.: Solubility of Solid Carbon Dioxide in Liquid Nitrogen. Russ.J.Phys.Chem. 49 (1975) 116-117
+$$$Solid-Liquid Equilibrium Data Set 485
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	N2	28.013	7727-37-9	Nitrogen
+Pressure	40.530	bar
+T [K]	xL1 [mol/mol]
+78.00	1.559999987E-6
+80.00	2.300000006E-6
+85.00	5.23000017E-6
+90.00	1.090000023E-5
+95.00	2.080000013E-5
+100.00	4.009999975E-5
+105.00	8.99000006E-5
+110.00	0.00011
+115.00	0.000166
+Source
+Yakimenko N.P.; Glukh G.M.; Iomtev M.B.; Abramova R.I.: Solubility of Solid Carbon Dioxide in Liquid Nitrogen. Russ.J.Phys.Chem. 49 (1975) 116-117
+$$$Solid-Liquid Equilibrium Data Set 486
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	N2	28.013	7727-37-9	Nitrogen
+Pressure	50.662	bar
+T [K]	xL1 [mol/mol]
+115.00	0.000171
+Source
+Yakimenko N.P.; Glukh G.M.; Iomtev M.B.; Abramova R.I.: Solubility of Solid Carbon Dioxide in Liquid Nitrogen. Russ.J.Phys.Chem. 49 (1975) 116-117

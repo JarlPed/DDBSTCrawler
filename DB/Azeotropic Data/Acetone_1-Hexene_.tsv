@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H12	84.161	592-41-6	1-Hexene	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmax	293.150	n.a.	n.a.	n.a.	n.a.	Author	2	
-homPmax	308.150	n.a.	0.61000	n.a.	n.a.	Author	3	
-homPmax	323.250	101.325	0.60500	n.a.	n.a.	Author	1	
-homPmax	homogeneous pressure maximum	
-1	Ogorodnikov S.K.; Kogan V.B.; Nemtsov M.S.: Liquid-Vapor Equilibrium in Binary Systems of Hydrocarbons with Acetone. III.. J.Appl.Chem.USSR 34 (1961) 313-319	
-2	Lesteva T.M.; Logunova G.I.; Chernaya V.I.: Certain Physicochemical Properties of Hex-1-ene-Solvent Systems. Zh.Fiz.Khim. 53 (1979) 1180-1183	
-3	Kudryavtseva L.S.; Eizen O.G.: Das Dampf-Flüssigkeitsgleichgewicht im System Aceton-Hexen-1 bei 35°C. Eesti NSV Tead.Akad.Toim.Keem.Geol. 16 (1967) 97-100	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H12	84.161	592-41-6	1-Hexene
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+homPmax	293.150	n.a.	n.a.	n.a.	n.a.	Author	2
+homPmax	308.150	n.a.	0.61000	n.a.	n.a.	Author	3
+homPmax	323.250	101.325	0.60500	n.a.	n.a.	Author	1
+homPmax	homogeneous pressure maximum
+1	Ogorodnikov S.K.; Kogan V.B.; Nemtsov M.S.: Liquid-Vapor Equilibrium in Binary Systems of Hydrocarbons with Acetone. III.. J.Appl.Chem.USSR 34 (1961) 313-319
+2	Lesteva T.M.; Logunova G.I.; Chernaya V.I.: Certain Physicochemical Properties of Hex-1-ene-Solvent Systems. Zh.Fiz.Khim. 53 (1979) 1180-1183
+3	Kudryavtseva L.S.; Eizen O.G.: Das Dampf-Flüssigkeitsgleichgewicht im System Aceton-Hexen-1 bei 35°C. Eesti NSV Tead.Akad.Toim.Keem.Geol. 16 (1967) 97-100

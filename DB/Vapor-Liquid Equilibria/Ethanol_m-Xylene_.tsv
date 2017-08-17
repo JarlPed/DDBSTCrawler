@@ -1,38 +1,38 @@
-$$$Vapor-Liquid Equilibrium Data Set 18563	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Pressure	95.00	kPa	
-T [K]	x1 [mol/mol]	
-407.95	0.00000	
-351.85	0.21330	
-351.35	0.40970	
-351.05	0.51090	
-350.75	0.59920	
-350.25	0.71250	
-349.85	0.80730	
-349.55	0.91320	
-349.85	1.00000	
-Source	
-Vittal Prasad T.E.; Chandrika K.; Haritha M.; Geetha N.B.; Prasad D.H.L.: Bubble temperature measurements on methanol with o-xylene and ethanol with m-xylene and p-xylene. Fluid Phase Equilib. 149 (1998) 121-125	
-$$$Vapor-Liquid Equilibrium Data Set 32083	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-4.264	0.03300	0.73100	
-6.115	0.13300	0.82100	
-6.706	0.26000	0.84900	
-6.769	0.27700	0.85900	
-6.966	0.36200	0.86200	
-7.201	0.56200	0.87700	
-7.289	0.63000	0.88600	
-7.325	0.65200	0.89100	
-7.559	0.77800	0.91000	
-7.665	0.84200	0.91600	
-Source	
-Kato M.: Analysis of the Excess Gibbs Energies of Binary Mixtures Using Non-Randomness Factors Determined from Excess Volume Data. Bull.Chem.Soc.Japan 55 (1982) 23-27	
-Source	
-Vittal Prasad T.E.; Chandrika K.; Haritha M.; Geetha N.B.; Prasad D.H.L.: Bubble temperature measurements on methanol with o-xylene and ethanol with m-xylene and p-xylene. Fluid Phase Equilib. 149 (1998) 121-125	
-Kato M.: Analysis of the Excess Gibbs Energies of Binary Mixtures Using Non-Randomness Factors Determined from Excess Volume Data. Bull.Chem.Soc.Japan 55 (1982) 23-27	
+$$$Vapor-Liquid Equilibrium Data Set 18563
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Pressure	95.00	kPa
+T [K]	x1 [mol/mol]
+407.95	0.00000
+351.85	0.21330
+351.35	0.40970
+351.05	0.51090
+350.75	0.59920
+350.25	0.71250
+349.85	0.80730
+349.55	0.91320
+349.85	1.00000
+Source
+Vittal Prasad T.E.; Chandrika K.; Haritha M.; Geetha N.B.; Prasad D.H.L.: Bubble temperature measurements on methanol with o-xylene and ethanol with m-xylene and p-xylene. Fluid Phase Equilib. 149 (1998) 121-125
+$$$Vapor-Liquid Equilibrium Data Set 32083
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+4.264	0.03300	0.73100
+6.115	0.13300	0.82100
+6.706	0.26000	0.84900
+6.769	0.27700	0.85900
+6.966	0.36200	0.86200
+7.201	0.56200	0.87700
+7.289	0.63000	0.88600
+7.325	0.65200	0.89100
+7.559	0.77800	0.91000
+7.665	0.84200	0.91600
+Source
+Kato M.: Analysis of the Excess Gibbs Energies of Binary Mixtures Using Non-Randomness Factors Determined from Excess Volume Data. Bull.Chem.Soc.Japan 55 (1982) 23-27
+Source
+Vittal Prasad T.E.; Chandrika K.; Haritha M.; Geetha N.B.; Prasad D.H.L.: Bubble temperature measurements on methanol with o-xylene and ethanol with m-xylene and p-xylene. Fluid Phase Equilib. 149 (1998) 121-125
+Kato M.: Analysis of the Excess Gibbs Energies of Binary Mixtures Using Non-Randomness Factors Determined from Excess Volume Data. Bull.Chem.Soc.Japan 55 (1982) 23-27

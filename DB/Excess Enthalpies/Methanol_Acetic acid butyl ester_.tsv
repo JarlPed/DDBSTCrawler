@@ -1,74 +1,74 @@
-$$$Enthalpy of Mixing Data Set 787	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	CH4O	32.042	67-56-1	Acetic acid butyl ester	
-Temperature	293.150	K	
-hE [J/mol]	x1 [mol/mol]	
-502.420	0.10100	
-816.430	0.18900	
-1113.690	0.33300	
-1172.300	0.44800	
-1118.710	0.54200	
-1000.650	0.63000	
-602.060	0.81300	
-440.030	0.86700	
-Source	
-Sieg L.; Cruetzen J.L.; Jost W.: VIII. Über das Verdampfungsgleichgewicht Methanol-n-Butylazetat. Z.Elektrochem.Angew.Physik.Chem. 55 (1951) 199-201	
-$$$Enthalpy of Mixing Data Set 11331	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	CH4O	32.042	67-56-1	Acetic acid butyl ester	
-Temperature	298.150	K	
-Pressure	1.010	bar	
-hE [J/mol]	x1 [mol/mol]	
-647.600	0.12010	
-930.300	0.21170	
-1086.700	0.28070	
-1159.300	0.33690	
-1200.200	0.39530	
-1203.100	0.44780	
-1186.700	0.49730	
-1150.000	0.54140	
-1103.500	0.58250	
-1051.200	0.61370	
-966.900	0.66690	
-869.200	0.70550	
-792.600	0.74470	
-681.100	0.78600	
-556.300	0.82740	
-451.700	0.86830	
-326.200	0.90550	
-238.500	0.93380	
-153.600	0.95980	
-70.800	0.98120	
-Source	
-Ortega J.: Excess Enthalpy of Alcohols + Esters. Int.Data Series Sel.Data Mixtures Ser. A 23 (1995) 154-183	
-$$$Enthalpy of Mixing Data Set 20429	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	CH4O	32.042	67-56-1	Acetic acid butyl ester	
-Temperature	318.150	K	
-hE [J/mol]	x1 [mol/mol]	
-360.000	0.09560	
-658.000	0.17610	
-932.000	0.27220	
-1077.000	0.35170	
-1143.000	0.42080	
-1152.000	0.48310	
-1141.000	0.53750	
-1102.000	0.58940	
-1052.000	0.63500	
-991.000	0.67670	
-922.000	0.71390	
-852.000	0.74830	
-779.000	0.77710	
-710.000	0.80310	
-641.000	0.82470	
-582.000	0.84450	
-522.000	0.86170	
-Source	
-Espiau F.; Ortega J.; Penco E.; Wisniak J.: Advances in the Correlation of Thermodynamic Properties of Binary Systems Applied to Methanol Mixtures with Butyl Esters. Ind.Eng.Chem.Res. 49 (2010) 9548-9558	
-Source	
-Sieg L.; Cruetzen J.L.; Jost W.: VIII. Über das Verdampfungsgleichgewicht Methanol-n-Butylazetat. Z.Elektrochem.Angew.Physik.Chem. 55 (1951) 199-201	
-Ortega J.: Excess Enthalpy of Alcohols + Esters. Int.Data Series Sel.Data Mixtures Ser. A 23 (1995) 154-183	
-Espiau F.; Ortega J.; Penco E.; Wisniak J.: Advances in the Correlation of Thermodynamic Properties of Binary Systems Applied to Methanol Mixtures with Butyl Esters. Ind.Eng.Chem.Res. 49 (2010) 9548-9558	
+$$$Enthalpy of Mixing Data Set 787
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	CH4O	32.042	67-56-1	Acetic acid butyl ester
+Temperature	293.150	K
+hE [J/mol]	x1 [mol/mol]
+502.420	0.10100
+816.430	0.18900
+1113.690	0.33300
+1172.300	0.44800
+1118.710	0.54200
+1000.650	0.63000
+602.060	0.81300
+440.030	0.86700
+Source
+Sieg L.; Cruetzen J.L.; Jost W.: VIII. Über das Verdampfungsgleichgewicht Methanol-n-Butylazetat. Z.Elektrochem.Angew.Physik.Chem. 55 (1951) 199-201
+$$$Enthalpy of Mixing Data Set 11331
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	CH4O	32.042	67-56-1	Acetic acid butyl ester
+Temperature	298.150	K
+Pressure	1.010	bar
+hE [J/mol]	x1 [mol/mol]
+647.600	0.12010
+930.300	0.21170
+1086.700	0.28070
+1159.300	0.33690
+1200.200	0.39530
+1203.100	0.44780
+1186.700	0.49730
+1150.000	0.54140
+1103.500	0.58250
+1051.200	0.61370
+966.900	0.66690
+869.200	0.70550
+792.600	0.74470
+681.100	0.78600
+556.300	0.82740
+451.700	0.86830
+326.200	0.90550
+238.500	0.93380
+153.600	0.95980
+70.800	0.98120
+Source
+Ortega J.: Excess Enthalpy of Alcohols + Esters. Int.Data Series Sel.Data Mixtures Ser. A 23 (1995) 154-183
+$$$Enthalpy of Mixing Data Set 20429
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	CH4O	32.042	67-56-1	Acetic acid butyl ester
+Temperature	318.150	K
+hE [J/mol]	x1 [mol/mol]
+360.000	0.09560
+658.000	0.17610
+932.000	0.27220
+1077.000	0.35170
+1143.000	0.42080
+1152.000	0.48310
+1141.000	0.53750
+1102.000	0.58940
+1052.000	0.63500
+991.000	0.67670
+922.000	0.71390
+852.000	0.74830
+779.000	0.77710
+710.000	0.80310
+641.000	0.82470
+582.000	0.84450
+522.000	0.86170
+Source
+Espiau F.; Ortega J.; Penco E.; Wisniak J.: Advances in the Correlation of Thermodynamic Properties of Binary Systems Applied to Methanol Mixtures with Butyl Esters. Ind.Eng.Chem.Res. 49 (2010) 9548-9558
+Source
+Sieg L.; Cruetzen J.L.; Jost W.: VIII. Über das Verdampfungsgleichgewicht Methanol-n-Butylazetat. Z.Elektrochem.Angew.Physik.Chem. 55 (1951) 199-201
+Ortega J.: Excess Enthalpy of Alcohols + Esters. Int.Data Series Sel.Data Mixtures Ser. A 23 (1995) 154-183
+Espiau F.; Ortega J.; Penco E.; Wisniak J.: Advances in the Correlation of Thermodynamic Properties of Binary Systems Applied to Methanol Mixtures with Butyl Esters. Ind.Eng.Chem.Res. 49 (2010) 9548-9558

@@ -1,30 +1,30 @@
-$$$Vapor-Liquid Equilibrium Data Set 18808	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	108-38-3	m-Xylene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	373.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-8.590	0.09830	0.62310	
-11.570	0.18650	0.74560	
-14.960	0.28600	0.81430	
-20.230	0.47570	0.89420	
-24.570	0.68650	0.93970	
-29.340	0.89420	0.98050	
-Source	
-Gupta S.K.: Isothermal Vapor-Liquid Equilibria of o-, m-m and p-Xylene with N-Methylpyrrolidone at 373.15 K and 393.15 K. J.Chem.Eng.Data 44 (1999) 23-25	
-$$$Vapor-Liquid Equilibrium Data Set 18811	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	108-38-3	m-Xylene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	393.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-16.500	0.09830	0.55810	
-22.439	0.18650	0.71400	
-29.630	0.28600	0.80390	
-39.630	0.47570	0.88950	
-48.240	0.68650	0.94070	
-55.619	0.89420	0.97860	
-Source	
-Gupta S.K.: Isothermal Vapor-Liquid Equilibria of o-, m-m and p-Xylene with N-Methylpyrrolidone at 373.15 K and 393.15 K. J.Chem.Eng.Data 44 (1999) 23-25	
-Source	
-Gupta S.K.: Isothermal Vapor-Liquid Equilibria of o-, m-m and p-Xylene with N-Methylpyrrolidone at 373.15 K and 393.15 K. J.Chem.Eng.Data 44 (1999) 23-25	
+$$$Vapor-Liquid Equilibrium Data Set 18808
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	108-38-3	m-Xylene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	373.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+8.590	0.09830	0.62310
+11.570	0.18650	0.74560
+14.960	0.28600	0.81430
+20.230	0.47570	0.89420
+24.570	0.68650	0.93970
+29.340	0.89420	0.98050
+Source
+Gupta S.K.: Isothermal Vapor-Liquid Equilibria of o-, m-m and p-Xylene with N-Methylpyrrolidone at 373.15 K and 393.15 K. J.Chem.Eng.Data 44 (1999) 23-25
+$$$Vapor-Liquid Equilibrium Data Set 18811
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	108-38-3	m-Xylene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	393.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+16.500	0.09830	0.55810
+22.439	0.18650	0.71400
+29.630	0.28600	0.80390
+39.630	0.47570	0.88950
+48.240	0.68650	0.94070
+55.619	0.89420	0.97860
+Source
+Gupta S.K.: Isothermal Vapor-Liquid Equilibria of o-, m-m and p-Xylene with N-Methylpyrrolidone at 373.15 K and 393.15 K. J.Chem.Eng.Data 44 (1999) 23-25
+Source
+Gupta S.K.: Isothermal Vapor-Liquid Equilibria of o-, m-m and p-Xylene with N-Methylpyrrolidone at 373.15 K and 393.15 K. J.Chem.Eng.Data 44 (1999) 23-25

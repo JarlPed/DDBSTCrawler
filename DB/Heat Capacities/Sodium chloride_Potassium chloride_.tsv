@@ -1,16 +1,16 @@
-$$$Heat Capacity Data Set 6322	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	ClK	74.551	7447-40-7	Potassium chloride	
-x	0.50000	mol/mol	
-Pressure	1.000	bar	
-Heat Capacity [J/mol*K]	T [°C]	
-81.0300	656.850	
-82.5000	676.850	
-86.1900	726.850	
-89.8800	776.850	
-93.5600	826.850	
-Source	
-Sergeev D.; Kobertz D.; Müller M.: Thermodynamics of the NaCl-KCl system. Thermochim.Acta 606 (2015) 25-33	
-Source	
-Sergeev D.; Kobertz D.; Müller M.: Thermodynamics of the NaCl-KCl system. Thermochim.Acta 606 (2015) 25-33	
+$$$Heat Capacity Data Set 6322
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	ClK	74.551	7447-40-7	Potassium chloride
+x	0.50000	mol/mol
+Pressure	1.000	bar
+Heat Capacity [J/mol*K]	T [°C]
+81.0300	656.850
+82.5000	676.850
+86.1900	726.850
+89.8800	776.850
+93.5600	826.850
+Source
+Sergeev D.; Kobertz D.; Müller M.: Thermodynamics of the NaCl-KCl system. Thermochim.Acta 606 (2015) 25-33
+Source
+Sergeev D.; Kobertz D.; Müller M.: Thermodynamics of the NaCl-KCl system. Thermochim.Acta 606 (2015) 25-33

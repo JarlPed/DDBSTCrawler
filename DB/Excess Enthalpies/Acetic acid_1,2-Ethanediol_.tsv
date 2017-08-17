@@ -1,56 +1,56 @@
-$$$Enthalpy of Mixing Data Set 18737	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-6.620	0.04890	
-4.150	0.09800	
--2.040	0.14720	
--11.300	0.19640	
--24.900	0.24580	
--35.000	0.29530	
--45.900	0.34490	
--56.000	0.39460	
--61.700	0.44440	
--63.300	0.49440	
--57.000	0.54440	
--44.600	0.59460	
--26.000	0.64490	
-1.340	0.69530	
-27.900	0.74580	
-57.900	0.79640	
-82.100	0.84710	
-93.800	0.89800	
-77.000	0.94890	
-Source	
-Schmid B.; Döker M.; Gmehling J.: Measurement of the thermodynamic properties for the reactive system ethylene glycol-acetic acid. Fluid Phase Equilib. 258 (2007) 115-124	
-$$$Enthalpy of Mixing Data Set 18738	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Temperature	323.150	K	
-hE [J/mol]	x1 [mol/mol]	
-20.300	0.04900	
-29.300	0.09800	
-26.400	0.14720	
-21.700	0.19650	
-12.700	0.24590	
-7.200	0.29540	
--0.860	0.34500	
--6.300	0.39470	
--9.600	0.44450	
--7.000	0.49450	
--1.100	0.54450	
-11.800	0.59470	
-30.700	0.64500	
-52.600	0.69530	
-79.200	0.74580	
-102.000	0.79640	
-121.000	0.84720	
-124.000	0.89800	
-94.200	0.94890	
-Source	
-Schmid B.; Döker M.; Gmehling J.: Measurement of the thermodynamic properties for the reactive system ethylene glycol-acetic acid. Fluid Phase Equilib. 258 (2007) 115-124	
-Source	
-Schmid B.; Döker M.; Gmehling J.: Measurement of the thermodynamic properties for the reactive system ethylene glycol-acetic acid. Fluid Phase Equilib. 258 (2007) 115-124	
+$$$Enthalpy of Mixing Data Set 18737
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+6.620	0.04890
+4.150	0.09800
+-2.040	0.14720
+-11.300	0.19640
+-24.900	0.24580
+-35.000	0.29530
+-45.900	0.34490
+-56.000	0.39460
+-61.700	0.44440
+-63.300	0.49440
+-57.000	0.54440
+-44.600	0.59460
+-26.000	0.64490
+1.340	0.69530
+27.900	0.74580
+57.900	0.79640
+82.100	0.84710
+93.800	0.89800
+77.000	0.94890
+Source
+Schmid B.; Döker M.; Gmehling J.: Measurement of the thermodynamic properties for the reactive system ethylene glycol-acetic acid. Fluid Phase Equilib. 258 (2007) 115-124
+$$$Enthalpy of Mixing Data Set 18738
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Temperature	323.150	K
+hE [J/mol]	x1 [mol/mol]
+20.300	0.04900
+29.300	0.09800
+26.400	0.14720
+21.700	0.19650
+12.700	0.24590
+7.200	0.29540
+-0.860	0.34500
+-6.300	0.39470
+-9.600	0.44450
+-7.000	0.49450
+-1.100	0.54450
+11.800	0.59470
+30.700	0.64500
+52.600	0.69530
+79.200	0.74580
+102.000	0.79640
+121.000	0.84720
+124.000	0.89800
+94.200	0.94890
+Source
+Schmid B.; Döker M.; Gmehling J.: Measurement of the thermodynamic properties for the reactive system ethylene glycol-acetic acid. Fluid Phase Equilib. 258 (2007) 115-124
+Source
+Schmid B.; Döker M.; Gmehling J.: Measurement of the thermodynamic properties for the reactive system ethylene glycol-acetic acid. Fluid Phase Equilib. 258 (2007) 115-124

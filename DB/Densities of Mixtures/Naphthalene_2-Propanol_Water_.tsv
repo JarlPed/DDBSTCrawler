@@ -1,22 +1,22 @@
-$$$Density Data Set 74218	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9800	7.82473034633E-6	0.03020	
-0.9580	5.66338021599E-5	0.08210	
-0.9430	0.00015041900042	0.10239	
-0.9170	0.000855902966578	0.15987	
-0.8980	0.00163355004042	0.21196	
-0.8830	0.003362	0.28215	
-0.8650	0.005117	0.33876	
-0.8470	0.008164	0.42461	
-0.8280	0.01456	0.55333	
-0.8010	0.025327	0.74173	
-0.7860	0.04088	0.95912	
-Source	
-LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497	
-Source	
-LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497	
+$$$Density Data Set 74218
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C3H8O	60.096	67-63-0	2-Propanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9800	7.82473034633E-6	0.03020
+0.9580	5.66338021599E-5	0.08210
+0.9430	0.00015041900042	0.10239
+0.9170	0.000855902966578	0.15987
+0.8980	0.00163355004042	0.21196
+0.8830	0.003362	0.28215
+0.8650	0.005117	0.33876
+0.8470	0.008164	0.42461
+0.8280	0.01456	0.55333
+0.8010	0.025327	0.74173
+0.7860	0.04088	0.95912
+Source
+LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497
+Source
+LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497

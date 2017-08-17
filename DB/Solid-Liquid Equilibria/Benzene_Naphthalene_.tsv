@@ -1,47 +1,47 @@
-$$$Solid-Liquid Equilibrium Data Set 118	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	
-298.15	0.70540	
-Source	
-Heric E.L.; Posey C.D.: Solubility of Naphthalene in Some Mixed Solvents Containing Benzene. J.Chem.Eng.Data 9 (1964) 35-43	
-$$$Solid-Liquid Equilibrium Data Set 1168	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	
-334.35	0.31200	
-321.95	0.47600	
-312.75	0.57900	
-302.25	0.67700	
-294.85	0.73300	
-288.15	0.77800	
-279.25	0.82700	
-Source	
-Ward H.L.: The Solubility Relations of Naphthalene. J.Phys.Chem. 30 (1926) 1316-1333	
-$$$Solid-Liquid Equilibrium Data Set 1169	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	
-343.45	0.16700	
-336.85	0.27300	
-333.85	0.31700	
-324.85	0.43900	
-321.05	0.48400	
-311.75	0.58700	
-307.45	0.62800	
-305.85	0.64100	
-303.25	0.66700	
-301.85	0.67800	
-294.05	0.73830	
-287.05	0.78180	
-282.65	0.80830	
-282.15	0.81000	
-277.65	0.83360	
-276.35	0.83980	
-274.15	0.84900	
-274.25	0.84900	
-Source	
-Ward H.L.: The Solubility Relations of Naphthalene. J.Phys.Chem. 30 (1926) 1316-1333	
+$$$Solid-Liquid Equilibrium Data Set 118
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]
+298.15	0.70540
+Source
+Heric E.L.; Posey C.D.: Solubility of Naphthalene in Some Mixed Solvents Containing Benzene. J.Chem.Eng.Data 9 (1964) 35-43
+$$$Solid-Liquid Equilibrium Data Set 1168
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]
+334.35	0.31200
+321.95	0.47600
+312.75	0.57900
+302.25	0.67700
+294.85	0.73300
+288.15	0.77800
+279.25	0.82700
+Source
+Ward H.L.: The Solubility Relations of Naphthalene. J.Phys.Chem. 30 (1926) 1316-1333
+$$$Solid-Liquid Equilibrium Data Set 1169
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]
+343.45	0.16700
+336.85	0.27300
+333.85	0.31700
+324.85	0.43900
+321.05	0.48400
+311.75	0.58700
+307.45	0.62800
+305.85	0.64100
+303.25	0.66700
+301.85	0.67800
+294.05	0.73830
+287.05	0.78180
+282.65	0.80830
+282.15	0.81000
+277.65	0.83360
+276.35	0.83980
+274.15	0.84900
+274.25	0.84900
+Source
+Ward H.L.: The Solubility Relations of Naphthalene. J.Phys.Chem. 30 (1926) 1316-1333

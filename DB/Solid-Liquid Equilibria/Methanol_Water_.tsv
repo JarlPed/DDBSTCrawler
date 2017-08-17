@@ -1,44 +1,44 @@
-$$$Solid-Liquid Equilibrium Data Set 495	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-273.15	0.00000	
-259.65	0.10000	
-242.95	0.20000	
-214.15	0.33300	
-208.15	0.40000	
-194.65	0.44000	
-189.65	0.50000	
-185.65	0.60000	
-177.15	1.00000	
-Source	
-Pushin N.A.; Glagoleva A.A.: Methyl Alcohol, Pinacone, Glycerol, and Erythritol. J.Chem.Soc.London 121 (1922) 2813-2822	
-$$$Solid-Liquid Equilibrium Data Set 691	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-266.85	0.05880	
-257.85	0.12324	
-246.85	0.19417	
-233.45	0.27263	
-217.95	0.35989	
-Source	
-Clendenning K.A.: XI. Evaluation of Levo-2,3-Butanediol as a Non-Volatile Antifreeze Compound. Can.J.Res.Sect.F 24 (1946) 249-271	
-$$$Solid-Liquid Equilibrium Data Set 826	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-214.95	0.36400	
-183.05	0.51000	
-178.05	0.53000	
-164.55	0.59800	
-167.85	0.62200	
-164.55	0.63000	
-167.55	0.65400	
-156.95	0.69400	
-151.35	0.75200	
-Source	
-Ewert M.: XV. La congélation des solutions aqueuse de composés organiques. Bull.Soc.Chim.Belg. 46 (1937) 90-103	
+$$$Solid-Liquid Equilibrium Data Set 495
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+273.15	0.00000
+259.65	0.10000
+242.95	0.20000
+214.15	0.33300
+208.15	0.40000
+194.65	0.44000
+189.65	0.50000
+185.65	0.60000
+177.15	1.00000
+Source
+Pushin N.A.; Glagoleva A.A.: Methyl Alcohol, Pinacone, Glycerol, and Erythritol. J.Chem.Soc.London 121 (1922) 2813-2822
+$$$Solid-Liquid Equilibrium Data Set 691
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+266.85	0.05880
+257.85	0.12324
+246.85	0.19417
+233.45	0.27263
+217.95	0.35989
+Source
+Clendenning K.A.: XI. Evaluation of Levo-2,3-Butanediol as a Non-Volatile Antifreeze Compound. Can.J.Res.Sect.F 24 (1946) 249-271
+$$$Solid-Liquid Equilibrium Data Set 826
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+214.95	0.36400
+183.05	0.51000
+178.05	0.53000
+164.55	0.59800
+167.85	0.62200
+164.55	0.63000
+167.55	0.65400
+156.95	0.69400
+151.35	0.75200
+Source
+Ewert M.: XV. La congélation des solutions aqueuse de composés organiques. Bull.Soc.Chim.Belg. 46 (1937) 90-103

@@ -1,61 +1,61 @@
-$$$Enthalpy of Mixing Data Set 2856	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-134.200	0.22000	
-175.000	0.32000	
-202.000	0.41000	
-210.000	0.50000	
-212.100	0.52000	
-211.400	0.52000	
-200.000	0.64000	
-198.000	0.66000	
-179.000	0.73000	
-153.700	0.81000	
-122.900	0.87000	
-Source	
-Paz-Andrade M.I.; Baluja M.C.; Nunez L.: Microcalorimetria de Calores de Mezcla. Anal.Quim. 67 (1971) 17-22	
-$$$Enthalpy of Mixing Data Set 2857	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	323.150	K	
-hE [J/mol]	x1 [mol/mol]	
-146.960	0.25000	
-143.610	0.25000	
-176.680	0.32000	
-175.850	0.32000	
-203.060	0.40000	
-196.360	0.40000	
-212.270	0.51000	
-214.780	0.51000	
-206.410	0.58000	
-214.360	0.58000	
-197.200	0.61000	
-208.500	0.61000	
-198.450	0.67000	
-196.360	0.67000	
-168.730	0.78000	
-165.380	0.78000	
-154.490	0.84000	
-155.750	0.84000	
-Source	
-Paz-Andrade M.I.; Hernandez C.; Nunez L.; Jimenez E.: Etude Microcalorimetrique des Chaleurs de Melange: Sistemes Benzene-Xylene (Ortho, Meta et Para) a 50 °C. J.Chim.Phys.Phys.-Chim.Biol. 69 (1972) 1132-1135	
-$$$Enthalpy of Mixing Data Set 2858	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	293.150	K	
-hE [J/mol]	x1 [mol/mol]	
-90.850	0.29940	
-109.280	0.43240	
-100.900	0.59120	
-84.990	0.67920	
-Source	
-Rastogi R.P.; Nath J.; Misra J.: II. Mixtures of Carbon Tetrachloride, Benzene, o-Xylene, and m-Xylene. J.Phys.Chem. 71 (1967) 2524-2535	
-Source	
-Rastogi R.P.; Nath J.; Misra J.: II. Mixtures of Carbon Tetrachloride, Benzene, o-Xylene, and m-Xylene. J.Phys.Chem. 71 (1967) 2524-2535	
-Paz-Andrade M.I.; Baluja M.C.; Nunez L.: Microcalorimetria de Calores de Mezcla. Anal.Quim. 67 (1971) 17-22	
-Paz-Andrade M.I.; Hernandez C.; Nunez L.; Jimenez E.: Etude Microcalorimetrique des Chaleurs de Melange: Sistemes Benzene-Xylene (Ortho, Meta et Para) a 50 °C. J.Chim.Phys.Phys.-Chim.Biol. 69 (1972) 1132-1135	
+$$$Enthalpy of Mixing Data Set 2856
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+134.200	0.22000
+175.000	0.32000
+202.000	0.41000
+210.000	0.50000
+212.100	0.52000
+211.400	0.52000
+200.000	0.64000
+198.000	0.66000
+179.000	0.73000
+153.700	0.81000
+122.900	0.87000
+Source
+Paz-Andrade M.I.; Baluja M.C.; Nunez L.: Microcalorimetria de Calores de Mezcla. Anal.Quim. 67 (1971) 17-22
+$$$Enthalpy of Mixing Data Set 2857
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	323.150	K
+hE [J/mol]	x1 [mol/mol]
+146.960	0.25000
+143.610	0.25000
+176.680	0.32000
+175.850	0.32000
+203.060	0.40000
+196.360	0.40000
+212.270	0.51000
+214.780	0.51000
+206.410	0.58000
+214.360	0.58000
+197.200	0.61000
+208.500	0.61000
+198.450	0.67000
+196.360	0.67000
+168.730	0.78000
+165.380	0.78000
+154.490	0.84000
+155.750	0.84000
+Source
+Paz-Andrade M.I.; Hernandez C.; Nunez L.; Jimenez E.: Etude Microcalorimetrique des Chaleurs de Melange: Sistemes Benzene-Xylene (Ortho, Meta et Para) a 50 °C. J.Chim.Phys.Phys.-Chim.Biol. 69 (1972) 1132-1135
+$$$Enthalpy of Mixing Data Set 2858
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	293.150	K
+hE [J/mol]	x1 [mol/mol]
+90.850	0.29940
+109.280	0.43240
+100.900	0.59120
+84.990	0.67920
+Source
+Rastogi R.P.; Nath J.; Misra J.: II. Mixtures of Carbon Tetrachloride, Benzene, o-Xylene, and m-Xylene. J.Phys.Chem. 71 (1967) 2524-2535
+Source
+Rastogi R.P.; Nath J.; Misra J.: II. Mixtures of Carbon Tetrachloride, Benzene, o-Xylene, and m-Xylene. J.Phys.Chem. 71 (1967) 2524-2535
+Paz-Andrade M.I.; Baluja M.C.; Nunez L.: Microcalorimetria de Calores de Mezcla. Anal.Quim. 67 (1971) 17-22
+Paz-Andrade M.I.; Hernandez C.; Nunez L.; Jimenez E.: Etude Microcalorimetrique des Chaleurs de Melange: Sistemes Benzene-Xylene (Ortho, Meta et Para) a 50 °C. J.Chim.Phys.Phys.-Chim.Biol. 69 (1972) 1132-1135

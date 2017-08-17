@@ -1,24 +1,24 @@
-$$$Solid-Liquid Equilibrium Data Set 522	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	CHCl3	119.377	67-66-3	Chloroform	
-T [K]	xL1 [mol/mol]	
-202.65	0.14100	
-201.15	0.28500	
-196.15	0.45400	
-189.15	0.64400	
-182.65	0.76600	
-179.15	0.89400	
-Source	
-Timmermans J.: VI. Application de l'analyse thermique à la détermination des courbes de congélation de mélanges binaires de composés organiques fondant à basse température. Bull.Soc.Chim.Belg. 37 (1928) 409-423	
-$$$Solid-Liquid Equilibrium Data Set 31660	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	CHCl3	119.377	67-66-3	Chloroform	
-T [K]	xS1 [mol/mol]	
-175.15	0.14100	
-175.15	0.45400	
-174.65	0.76600	
-175.15	0.89400	
-Source	
-Timmermans J.: VI. Application de l'analyse thermique à la détermination des courbes de congélation de mélanges binaires de composés organiques fondant à basse température. Bull.Soc.Chim.Belg. 37 (1928) 409-423	
+$$$Solid-Liquid Equilibrium Data Set 522
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	CHCl3	119.377	67-66-3	Chloroform
+T [K]	xL1 [mol/mol]
+202.65	0.14100
+201.15	0.28500
+196.15	0.45400
+189.15	0.64400
+182.65	0.76600
+179.15	0.89400
+Source
+Timmermans J.: VI. Application de l'analyse thermique à la détermination des courbes de congélation de mélanges binaires de composés organiques fondant à basse température. Bull.Soc.Chim.Belg. 37 (1928) 409-423
+$$$Solid-Liquid Equilibrium Data Set 31660
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	CHCl3	119.377	67-66-3	Chloroform
+T [K]	xS1 [mol/mol]
+175.15	0.14100
+175.15	0.45400
+174.65	0.76600
+175.15	0.89400
+Source
+Timmermans J.: VI. Application de l'analyse thermique à la détermination des courbes de congélation de mélanges binaires de composés organiques fondant à basse température. Bull.Soc.Chim.Belg. 37 (1928) 409-423

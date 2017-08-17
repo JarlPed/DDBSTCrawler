@@ -1,50 +1,50 @@
-$$$Excess Volume Data Set 245	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	303.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.5301	0.07930	
-0.8169	0.13340	
-1.1808	0.25390	
-1.4070	0.35320	
-1.5384	0.43970	
-1.5789	0.51420	
-1.5575	0.62670	
-1.4673	0.71850	
-1.2214	0.81050	
-0.6682	0.92780	
-Source	
-Awwad A.M.; Jabra K.A.; Al-Dujaili A.H.: Excess molar volumes of ethylacetate+hydrocarbons at 303.15 K: an interpretation in terms of the Prigogine-Flory-Patterson theory.. Fluid Phase Equilib. 47 (1989) 95-102	
-$$$Excess Volume Data Set 2482	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.4480	0.10350	
-0.6280	0.15210	
-0.7910	0.20070	
-0.9200	0.24350	
-1.0210	0.28040	
-1.1590	0.34440	
-1.2980	0.42420	
-1.3540	0.47810	
-1.3750	0.52350	
-1.3850	0.58800	
-1.3570	0.63990	
-1.3190	0.67430	
-1.2840	0.70200	
-1.2000	0.74830	
-1.1580	0.76760	
-1.0790	0.79910	
-0.9230	0.84560	
-0.7200	0.89200	
-0.5520	0.92530	
-0.3510	0.95590	
-0.2190	0.97410	
-Source	
-Gonzalez E.; Ortega J.: VI. Excess enthalpy and excess volume for {xCH3(CH2) u-1 CO2CH3 (u=1 to 6) + (1-x)CH3(CH2)14CH3}. J.Chem.Thermodyn. 26 (1994) 41-47	
-Source	
-Gonzalez E.; Ortega J.: VI. Excess enthalpy and excess volume for {xCH3(CH2) u-1 CO2CH3 (u=1 to 6) + (1-x)CH3(CH2)14CH3}. J.Chem.Thermodyn. 26 (1994) 41-47	
-Awwad A.M.; Jabra K.A.; Al-Dujaili A.H.: Excess molar volumes of ethylacetate+hydrocarbons at 303.15 K: an interpretation in terms of the Prigogine-Flory-Patterson theory.. Fluid Phase Equilib. 47 (1989) 95-102	
+$$$Excess Volume Data Set 245
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	303.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.5301	0.07930
+0.8169	0.13340
+1.1808	0.25390
+1.4070	0.35320
+1.5384	0.43970
+1.5789	0.51420
+1.5575	0.62670
+1.4673	0.71850
+1.2214	0.81050
+0.6682	0.92780
+Source
+Awwad A.M.; Jabra K.A.; Al-Dujaili A.H.: Excess molar volumes of ethylacetate+hydrocarbons at 303.15 K: an interpretation in terms of the Prigogine-Flory-Patterson theory.. Fluid Phase Equilib. 47 (1989) 95-102
+$$$Excess Volume Data Set 2482
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.4480	0.10350
+0.6280	0.15210
+0.7910	0.20070
+0.9200	0.24350
+1.0210	0.28040
+1.1590	0.34440
+1.2980	0.42420
+1.3540	0.47810
+1.3750	0.52350
+1.3850	0.58800
+1.3570	0.63990
+1.3190	0.67430
+1.2840	0.70200
+1.2000	0.74830
+1.1580	0.76760
+1.0790	0.79910
+0.9230	0.84560
+0.7200	0.89200
+0.5520	0.92530
+0.3510	0.95590
+0.2190	0.97410
+Source
+Gonzalez E.; Ortega J.: VI. Excess enthalpy and excess volume for {xCH3(CH2) u-1 CO2CH3 (u=1 to 6) + (1-x)CH3(CH2)14CH3}. J.Chem.Thermodyn. 26 (1994) 41-47
+Source
+Gonzalez E.; Ortega J.: VI. Excess enthalpy and excess volume for {xCH3(CH2) u-1 CO2CH3 (u=1 to 6) + (1-x)CH3(CH2)14CH3}. J.Chem.Thermodyn. 26 (1994) 41-47
+Awwad A.M.; Jabra K.A.; Al-Dujaili A.H.: Excess molar volumes of ethylacetate+hydrocarbons at 303.15 K: an interpretation in terms of the Prigogine-Flory-Patterson theory.. Fluid Phase Equilib. 47 (1989) 95-102

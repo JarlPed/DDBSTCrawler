@@ -1,71 +1,71 @@
-$$$Vapor-Liquid Equilibrium Data Set 11772	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-412.25	0.00000	0.00000	
-403.35	0.00600	0.22100	
-398.85	0.02400	0.32700	
-386.15	0.05300	0.54000	
-381.55	0.07400	0.62700	
-367.05	0.21700	0.80300	
-363.35	0.31800	0.84000	
-362.05	0.38000	0.85400	
-360.25	0.50000	0.87200	
-359.75	0.55400	0.89000	
-357.85	0.72700	0.90000	
-357.65	0.76500	0.92000	
-356.65	0.89500	0.94500	
-Source	
-Cepeda E.; Resa J.M.: II. Equilibrios liquido-vapor a 760 mm Hg de i-propanol, n-propanol, acetato de i-propilo y acetato de n-propilo con m-xileno. Anal.Quim.Ser.A 80 (1984) 760-762	
-$$$Vapor-Liquid Equilibrium Data Set 16799	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	
-1.064	0.00000	
-3.880	0.04310	
-4.601	0.08920	
-4.952	0.13620	
-5.176	0.18420	
-5.322	0.25050	
-5.500	0.33330	
-5.642	0.41120	
-5.801	0.49220	
-5.925	0.57840	
-6.026	0.67450	
-6.085	0.78140	
-6.070	0.88210	
-5.912	0.98020	
-5.868	1.00000	
-Source	
-Gupta V.; Maken S.; Kalra K.C.; Singh K.C.: Molar Excess Gibbs Free Energy of 1-Propanol or 2-Propanol + Aromatic Hydrocarbons at 298.15 K in Terms of an Association Model with a Flory Contribution Term. Thermochim.Acta 277 (1996) 187-198	
-$$$Vapor-Liquid Equilibrium Data Set 20089	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	308.15	K	
-P [kPa]	x1 [mol/mol]	
-1.868	0.00000	
-6.470	0.05210	
-8.325	0.12520	
-9.134	0.18410	
-9.389	0.23720	
-9.673	0.30110	
-10.009	0.38520	
-10.322	0.45810	
-10.575	0.52920	
-10.818	0.59220	
-11.072	0.67130	
-11.230	0.74330	
-11.284	0.82140	
-11.072	0.92530	
-10.518	1.00000	
-Source	
-Maken S.; Gupta V.; Kalra K.C.; Singh K.C.: Molar excess free energy of mixing of 1-propanol or 2-propanol + aromatic hydrocarbons at 308.15 K in terms of an association model with a Flory contribution term. Indian J.Chem.Sect.A 38 (1999) 219-229	
-Source	
-Cepeda E.; Resa J.M.: II. Equilibrios liquido-vapor a 760 mm Hg de i-propanol, n-propanol, acetato de i-propilo y acetato de n-propilo con m-xileno. Anal.Quim.Ser.A 80 (1984) 760-762	
-Gupta V.; Maken S.; Kalra K.C.; Singh K.C.: Molar Excess Gibbs Free Energy of 1-Propanol or 2-Propanol + Aromatic Hydrocarbons at 298.15 K in Terms of an Association Model with a Flory Contribution Term. Thermochim.Acta 277 (1996) 187-198	
-Maken S.; Gupta V.; Kalra K.C.; Singh K.C.: Molar excess free energy of mixing of 1-propanol or 2-propanol + aromatic hydrocarbons at 308.15 K in terms of an association model with a Flory contribution term. Indian J.Chem.Sect.A 38 (1999) 219-229	
+$$$Vapor-Liquid Equilibrium Data Set 11772
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+412.25	0.000000.00000
+403.35	0.00600	0.22100
+398.85	0.02400	0.32700
+386.15	0.05300	0.54000
+381.55	0.07400	0.62700
+367.05	0.21700	0.80300
+363.35	0.31800	0.84000
+362.05	0.38000	0.85400
+360.25	0.50000	0.87200
+359.75	0.55400	0.89000
+357.85	0.72700	0.90000
+357.65	0.76500	0.92000
+356.65	0.89500	0.94500
+Source
+Cepeda E.; Resa J.M.: II. Equilibrios liquido-vapor a 760 mm Hg de i-propanol, n-propanol, acetato de i-propilo y acetato de n-propilo con m-xileno. Anal.Quim.Ser.A 80 (1984) 760-762
+$$$Vapor-Liquid Equilibrium Data Set 16799
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]
+1.064	0.00000
+3.880	0.04310
+4.601	0.08920
+4.952	0.13620
+5.176	0.18420
+5.322	0.25050
+5.500	0.33330
+5.642	0.41120
+5.801	0.49220
+5.925	0.57840
+6.026	0.67450
+6.085	0.78140
+6.070	0.88210
+5.912	0.98020
+5.868	1.00000
+Source
+Gupta V.; Maken S.; Kalra K.C.; Singh K.C.: Molar Excess Gibbs Free Energy of 1-Propanol or 2-Propanol + Aromatic Hydrocarbons at 298.15 K in Terms of an Association Model with a Flory Contribution Term. Thermochim.Acta 277 (1996) 187-198
+$$$Vapor-Liquid Equilibrium Data Set 20089
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	308.15	K
+P [kPa]	x1 [mol/mol]
+1.868	0.00000
+6.470	0.05210
+8.325	0.12520
+9.134	0.18410
+9.389	0.23720
+9.673	0.30110
+10.009	0.38520
+10.322	0.45810
+10.575	0.52920
+10.818	0.59220
+11.072	0.67130
+11.230	0.74330
+11.284	0.82140
+11.072	0.92530
+10.518	1.00000
+Source
+Maken S.; Gupta V.; Kalra K.C.; Singh K.C.: Molar excess free energy of mixing of 1-propanol or 2-propanol + aromatic hydrocarbons at 308.15 K in terms of an association model with a Flory contribution term. Indian J.Chem.Sect.A 38 (1999) 219-229
+Source
+Cepeda E.; Resa J.M.: II. Equilibrios liquido-vapor a 760 mm Hg de i-propanol, n-propanol, acetato de i-propilo y acetato de n-propilo con m-xileno. Anal.Quim.Ser.A 80 (1984) 760-762
+Gupta V.; Maken S.; Kalra K.C.; Singh K.C.: Molar Excess Gibbs Free Energy of 1-Propanol or 2-Propanol + Aromatic Hydrocarbons at 298.15 K in Terms of an Association Model with a Flory Contribution Term. Thermochim.Acta 277 (1996) 187-198
+Maken S.; Gupta V.; Kalra K.C.; Singh K.C.: Molar excess free energy of mixing of 1-propanol or 2-propanol + aromatic hydrocarbons at 308.15 K in terms of an association model with a Flory contribution term. Indian J.Chem.Sect.A 38 (1999) 219-229

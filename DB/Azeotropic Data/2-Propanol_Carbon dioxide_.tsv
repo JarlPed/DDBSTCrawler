@@ -1,9 +1,9 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	CO2	44.010	124-38-9	Carbon dioxide	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-nonesupercrit	316.750	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1	
-nonesupercrit	334.950	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1	
-nonesupercrit	394.550	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1	
-nonesupercrit	zeotropic supercritical	
-1	Radosz M.: Vapor-Liquid Equilibrium for 2-Propanol and Carbon Dioxide. J.Chem.Eng.Data 31 (1986) 43-45	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	CO2	44.010	124-38-9	Carbon dioxide
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+nonesupercrit	316.750	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1
+nonesupercrit	334.950	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1
+nonesupercrit	394.550	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1
+nonesupercrit	zeotropic supercritical
+1	Radosz M.: Vapor-Liquid Equilibrium for 2-Propanol and Carbon Dioxide. J.Chem.Eng.Data 31 (1986) 43-45

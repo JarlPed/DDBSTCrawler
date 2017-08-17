@@ -1,44 +1,44 @@
-$$$Excess Volume Data Set 791	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.018845	0.19611	
-0.02598	0.35437	
-0.008698	0.48478	
--0.006058	0.59410	
--0.01887	0.68706	
--0.03016	0.76708	
--0.02826	0.83668	
--0.015232	0.89777	
--0.008881	0.95183	
-Source	
-Miyano Y.; Hayduk W.: Solubilities of Butane, Vapor Pressures, and Densities for Benzene + Cyclohexane, Benzene + Methanol, and Methanol + Cyclohexane Solutions at 298 K. J.Chem.Eng.Data 38 (1993) 277-281	
-$$$Excess Volume Data Set 1224	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.018326	0.21890	
--0.03277	0.35890	
--0.05495	0.63290	
--0.03401	0.79550	
-Source	
-Vilcu R.; Simion A.: Grandeurs d'exces par des Mesures Acoustiques, dans les Systemes Binaires de Liquides. Rev.Roum.Chim. 21 (1976) 177-186	
-$$$Excess Volume Data Set 1225	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	308.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.03984	0.21890	
--0.00563	0.35890	
--0.007076	0.63290	
--0.021877	0.79550	
-Source	
-Vilcu R.; Simion A.: Grandeurs d'exces par des Mesures Acoustiques, dans les Systemes Binaires de Liquides. Rev.Roum.Chim. 21 (1976) 177-186	
-Source	
-Miyano Y.; Hayduk W.: Solubilities of Butane, Vapor Pressures, and Densities for Benzene + Cyclohexane, Benzene + Methanol, and Methanol + Cyclohexane Solutions at 298 K. J.Chem.Eng.Data 38 (1993) 277-281	
-Vilcu R.; Simion A.: Grandeurs d'exces par des Mesures Acoustiques, dans les Systemes Binaires de Liquides. Rev.Roum.Chim. 21 (1976) 177-186	
+$$$Excess Volume Data Set 791
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.018845	0.19611
+0.02598	0.35437
+0.008698	0.48478
+-0.006058	0.59410
+-0.01887	0.68706
+-0.03016	0.76708
+-0.02826	0.83668
+-0.015232	0.89777
+-0.008881	0.95183
+Source
+Miyano Y.; Hayduk W.: Solubilities of Butane, Vapor Pressures, and Densities for Benzene + Cyclohexane, Benzene + Methanol, and Methanol + Cyclohexane Solutions at 298 K. J.Chem.Eng.Data 38 (1993) 277-281
+$$$Excess Volume Data Set 1224
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.018326	0.21890
+-0.03277	0.35890
+-0.05495	0.63290
+-0.03401	0.79550
+Source
+Vilcu R.; Simion A.: Grandeurs d'exces par des Mesures Acoustiques, dans les Systemes Binaires de Liquides. Rev.Roum.Chim. 21 (1976) 177-186
+$$$Excess Volume Data Set 1225
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	308.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.03984	0.21890
+-0.00563	0.35890
+-0.007076	0.63290
+-0.021877	0.79550
+Source
+Vilcu R.; Simion A.: Grandeurs d'exces par des Mesures Acoustiques, dans les Systemes Binaires de Liquides. Rev.Roum.Chim. 21 (1976) 177-186
+Source
+Miyano Y.; Hayduk W.: Solubilities of Butane, Vapor Pressures, and Densities for Benzene + Cyclohexane, Benzene + Methanol, and Methanol + Cyclohexane Solutions at 298 K. J.Chem.Eng.Data 38 (1993) 277-281
+Vilcu R.; Simion A.: Grandeurs d'exces par des Mesures Acoustiques, dans les Systemes Binaires de Liquides. Rev.Roum.Chim. 21 (1976) 177-186

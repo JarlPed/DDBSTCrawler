@@ -1,67 +1,67 @@
-$$$Vapor-Liquid Equilibrium Data Set 11328	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Temperature	323.15	K	
-P [kPa]	x1 [mol/mol]	
-0.104	0.00000	
-3.3584	0.02060	
-4.806	0.03030	
-6.183	0.04030	
-7.543	0.05060	
-10.359	0.07350	
-12.994	0.09900	
-17.208	0.14880	
-20.324	0.19850	
-22.678	0.24870	
-24.318	0.29500	
-25.729	0.34850	
-26.708	0.39840	
-27.499	0.45050	
-28.051	0.49840	
-28.071	0.49850	
-28.528	0.54840	
-28.944	0.59850	
-29.320	0.64860	
-29.670	0.69860	
-30.034	0.74890	
-30.451	0.79900	
-30.939	0.84940	
-31.567	0.89920	
-32.495	0.94980	
-33.255	0.98000	
-33.900	1.00000	
-Source	
-Villamanan M.A.; Allawi A.J.; Van Ness H.C.: Liquid-Vapor Equilibrium and Excess Gibbs Energy of 1,2-Ethanediol + 2-Propanone or + Ethanenitrile. Int.Data Series Sel.Data Mixtures Ser. A 1984 (1984) 31-36	
-$$$Vapor-Liquid Equilibrium Data Set 35017	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Pressure	101.30	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-470.63	0.00000	0.00000	
-457.27	0.03100	0.35100	
-439.44	0.08200	0.66200	
-425.62	0.13100	0.80800	
-414.78	0.18200	0.88200	
-406.09	0.23200	0.92300	
-394.08	0.32200	0.96000	
-387.83	0.38300	0.97300	
-383.37	0.43200	0.98000	
-379.44	0.48300	0.98500	
-374.64	0.55100	0.99000	
-370.49	0.61900	0.99300	
-367.83	0.67100	0.99500	
-364.94	0.73100	0.99600	
-362.72	0.78200	0.99700	
-360.28	0.83900	0.99800	
-358.02	0.90100	0.99900	
-356.96	0.93100	0.99900	
-355.94	0.96300	1.00000	
-354.95	0.99200	1.00000	
-354.65	1.00000	1.00000	
-Source	
-Qian G.-F.; Liu W.; Wang L.-T.; Wang D.-C.; Song H.: (Vapour + liquid) equilibria in the ternary system (acetonitrile + n-propanol + ethylene glycol) and corresponding binary systems at 101.3 kPa. J.Chem.Thermodyn. 67 (2013) 241-246	
-Source	
-Villamanan M.A.; Allawi A.J.; Van Ness H.C.: Liquid-Vapor Equilibrium and Excess Gibbs Energy of 1,2-Ethanediol + 2-Propanone or + Ethanenitrile. Int.Data Series Sel.Data Mixtures Ser. A 1984 (1984) 31-36	
-Qian G.-F.; Liu W.; Wang L.-T.; Wang D.-C.; Song H.: (Vapour + liquid) equilibria in the ternary system (acetonitrile + n-propanol + ethylene glycol) and corresponding binary systems at 101.3 kPa. J.Chem.Thermodyn. 67 (2013) 241-246	
+$$$Vapor-Liquid Equilibrium Data Set 11328
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Temperature	323.15	K
+P [kPa]	x1 [mol/mol]
+0.104	0.00000
+3.3584	0.02060
+4.806	0.03030
+6.183	0.04030
+7.543	0.05060
+10.359	0.07350
+12.994	0.09900
+17.208	0.14880
+20.324	0.19850
+22.678	0.24870
+24.318	0.29500
+25.729	0.34850
+26.708	0.39840
+27.499	0.45050
+28.051	0.49840
+28.071	0.49850
+28.528	0.54840
+28.944	0.59850
+29.320	0.64860
+29.670	0.69860
+30.034	0.74890
+30.451	0.79900
+30.939	0.84940
+31.567	0.89920
+32.495	0.94980
+33.255	0.98000
+33.900	1.00000
+Source
+Villamanan M.A.; Allawi A.J.; Van Ness H.C.: Liquid-Vapor Equilibrium and Excess Gibbs Energy of 1,2-Ethanediol + 2-Propanone or + Ethanenitrile. Int.Data Series Sel.Data Mixtures Ser. A 1984 (1984) 31-36
+$$$Vapor-Liquid Equilibrium Data Set 35017
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Pressure	101.30	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+470.63	0.000000.00000
+457.27	0.03100	0.35100
+439.44	0.08200	0.66200
+425.62	0.13100	0.80800
+414.78	0.18200	0.88200
+406.09	0.23200	0.92300
+394.08	0.32200	0.96000
+387.83	0.38300	0.97300
+383.37	0.43200	0.98000
+379.44	0.48300	0.98500
+374.64	0.55100	0.99000
+370.49	0.61900	0.99300
+367.83	0.67100	0.99500
+364.94	0.73100	0.99600
+362.72	0.78200	0.99700
+360.28	0.83900	0.99800
+358.02	0.90100	0.99900
+356.96	0.93100	0.99900
+355.94	0.96300	1.00000
+354.95	0.99200	1.00000
+354.65	1.000001.00000
+Source
+Qian G.-F.; Liu W.; Wang L.-T.; Wang D.-C.; Song H.: (Vapour + liquid) equilibria in the ternary system (acetonitrile + n-propanol + ethylene glycol) and corresponding binary systems at 101.3 kPa. J.Chem.Thermodyn. 67 (2013) 241-246
+Source
+Villamanan M.A.; Allawi A.J.; Van Ness H.C.: Liquid-Vapor Equilibrium and Excess Gibbs Energy of 1,2-Ethanediol + 2-Propanone or + Ethanenitrile. Int.Data Series Sel.Data Mixtures Ser. A 1984 (1984) 31-36
+Qian G.-F.; Liu W.; Wang L.-T.; Wang D.-C.; Song H.: (Vapour + liquid) equilibria in the ternary system (acetonitrile + n-propanol + ethylene glycol) and corresponding binary systems at 101.3 kPa. J.Chem.Thermodyn. 67 (2013) 241-246

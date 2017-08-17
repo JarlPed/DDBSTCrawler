@@ -1,48 +1,48 @@
-$$$Excess Volume Data Set 12412	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-Pressure	1.010	bar	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0536	0.06930	
-0.0838	0.09240	
-0.1063	0.13350	
-0.1421	0.18600	
-0.1845	0.27210	
-0.2027	0.31400	
-0.2230	0.32830	
-0.2415	0.39820	
-0.2822	0.47690	
-0.3026	0.53460	
-0.3144	0.57950	
-0.3199	0.64150	
-0.3030	0.71640	
-0.2684	0.78910	
-0.2503	0.83080	
-0.1753	0.89200	
-0.1538	0.93450	
-0.0472	0.97790	
-Source	
-Letcher T.M.; Domanska U.; Mwenesongole E.: The excess molar volumes of (N-methyl-2-pyrrolidone + an alkanol or a hydrocarbon) at 298.15 K and the application of the Flory-Benson-Treszczanowicz and the Extended Real Associated Solution theories. Fluid Phase Equilib. 149 (1998) 323-337	
-$$$Excess Volume Data Set 30599	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1300	0.09930	
-0.1600	0.18790	
-0.2300	0.28450	
-0.2700	0.37220	
-0.2900	0.46590	
-0.3300	0.56850	
-0.3400	0.61960	
-0.3300	0.67570	
-0.3000	0.78210	
-0.2300	0.88930	
-Source	
-Chen W.-F.; Che G.-Q.; Chen M.-Z.; Zheng G.-K.: Excess Volume and Excess Refractive Index for N-Methylpyrrolidinone and N,N-Dimethylformamide with C6 - C8 Alkanes. Lanzhou Daxue Xuebao Ziran Kexueban 12 (1981) 97-109	
-Source	
-Letcher T.M.; Domanska U.; Mwenesongole E.: The excess molar volumes of (N-methyl-2-pyrrolidone + an alkanol or a hydrocarbon) at 298.15 K and the application of the Flory-Benson-Treszczanowicz and the Extended Real Associated Solution theories. Fluid Phase Equilib. 149 (1998) 323-337	
-Chen W.-F.; Che G.-Q.; Chen M.-Z.; Zheng G.-K.: Excess Volume and Excess Refractive Index for N-Methylpyrrolidinone and N,N-Dimethylformamide with C6 - C8 Alkanes. Lanzhou Daxue Xuebao Ziran Kexueban 12 (1981) 97-109	
+$$$Excess Volume Data Set 12412
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+Pressure	1.010	bar
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0536	0.06930
+0.0838	0.09240
+0.1063	0.13350
+0.1421	0.18600
+0.1845	0.27210
+0.2027	0.31400
+0.2230	0.32830
+0.2415	0.39820
+0.2822	0.47690
+0.3026	0.53460
+0.3144	0.57950
+0.3199	0.64150
+0.3030	0.71640
+0.2684	0.78910
+0.2503	0.83080
+0.1753	0.89200
+0.1538	0.93450
+0.0472	0.97790
+Source
+Letcher T.M.; Domanska U.; Mwenesongole E.: The excess molar volumes of (N-methyl-2-pyrrolidone + an alkanol or a hydrocarbon) at 298.15 K and the application of the Flory-Benson-Treszczanowicz and the Extended Real Associated Solution theories. Fluid Phase Equilib. 149 (1998) 323-337
+$$$Excess Volume Data Set 30599
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1300	0.09930
+0.1600	0.18790
+0.2300	0.28450
+0.2700	0.37220
+0.2900	0.46590
+0.3300	0.56850
+0.3400	0.61960
+0.3300	0.67570
+0.3000	0.78210
+0.2300	0.88930
+Source
+Chen W.-F.; Che G.-Q.; Chen M.-Z.; Zheng G.-K.: Excess Volume and Excess Refractive Index for N-Methylpyrrolidinone and N,N-Dimethylformamide with C6 - C8 Alkanes. Lanzhou Daxue Xuebao Ziran Kexueban 12 (1981) 97-109
+Source
+Letcher T.M.; Domanska U.; Mwenesongole E.: The excess molar volumes of (N-methyl-2-pyrrolidone + an alkanol or a hydrocarbon) at 298.15 K and the application of the Flory-Benson-Treszczanowicz and the Extended Real Associated Solution theories. Fluid Phase Equilib. 149 (1998) 323-337
+Chen W.-F.; Che G.-Q.; Chen M.-Z.; Zheng G.-K.: Excess Volume and Excess Refractive Index for N-Methylpyrrolidinone and N,N-Dimethylformamide with C6 - C8 Alkanes. Lanzhou Daxue Xuebao Ziran Kexueban 12 (1981) 97-109

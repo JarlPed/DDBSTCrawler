@@ -1,8 +1,8 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H14	86.177	110-54-3	Hexane	
-3	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-hetPmax	322.150	101.325	0.52500	0.39800	n.a.	n.a.	Author	1	
-hetPmax	heterogeneous pressure maximum	
-1	Srinivasan D.; Lakshman C.M.; Laddha G.S.: Isothermal Vapor-Liquid Equilibrium Data at Atmospheric Pressure for the Ternary System Acetone-n-Hexane-Water. Indian J.Technol. 13 (1975) 431-434	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H14	86.177	110-54-3	Hexane
+3	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+hetPmax	322.150	101.325	0.52500	0.39800	n.a.	n.a.	Author	1
+hetPmax	heterogeneous pressure maximum
+1	Srinivasan D.; Lakshman C.M.; Laddha G.S.: Isothermal Vapor-Liquid Equilibrium Data at Atmospheric Pressure for the Ternary System Acetone-n-Hexane-Water. Indian J.Technol. 13 (1975) 431-434

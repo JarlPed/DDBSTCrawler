@@ -1,42 +1,42 @@
-$$$Vapor-Liquid Equilibrium Data Set 16768	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	338.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-0.022665	0.00000	0.00000	
-53.220	0.35200	0.99980	
-56.841	0.39600	0.99980	
-62.000	0.45200	0.99980	
-66.440	0.51000	0.99980	
-70.610	0.56800	0.99980	
-72.861	0.61000	0.99980	
-76.460	0.65600	0.99980	
-79.720	0.71300	0.99980	
-82.240	0.76500	0.99980	
-86.930	0.83000	0.99990	
-90.970	0.89200	0.99990	
-98.035	1.00000	1.00000	
-Source	
-Domanska U.; Sporzynski A.; Moollan W.C.; Letcher T.M.: Vapor-Liquid Equilibria of Binary Mixtures Containing Sulfolane. J.Chem.Eng.Data 41 (1996) 624-628	
-$$$Vapor-Liquid Equilibrium Data Set 16769	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	353.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-0.05866	0.00000	0.00000	
-49.959	0.17000	0.99900	
-54.233	0.19700	0.99920	
-65.480	0.23500	0.99930	
-71.526	0.26700	0.99940	
-76.907	0.29500	0.99940	
-78.454	0.31000	0.99950	
-82.375	0.32500	0.99950	
-90.694	0.38500	0.99950	
-99.826	0.45000	0.99960	
-151.550	1.00000	1.00000	
-Source	
-Domanska U.; Sporzynski A.; Moollan W.C.; Letcher T.M.: Vapor-Liquid Equilibria of Binary Mixtures Containing Sulfolane. J.Chem.Eng.Data 41 (1996) 624-628	
-Source	
-Domanska U.; Sporzynski A.; Moollan W.C.; Letcher T.M.: Vapor-Liquid Equilibria of Binary Mixtures Containing Sulfolane. J.Chem.Eng.Data 41 (1996) 624-628	
+$$$Vapor-Liquid Equilibrium Data Set 16768
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	338.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+0.022665	0.000000.00000
+53.220	0.35200	0.99980
+56.841	0.39600	0.99980
+62.000	0.45200	0.99980
+66.440	0.51000	0.99980
+70.610	0.56800	0.99980
+72.861	0.61000	0.99980
+76.460	0.65600	0.99980
+79.720	0.71300	0.99980
+82.240	0.76500	0.99980
+86.930	0.83000	0.99990
+90.970	0.89200	0.99990
+98.035	1.000001.00000
+Source
+Domanska U.; Sporzynski A.; Moollan W.C.; Letcher T.M.: Vapor-Liquid Equilibria of Binary Mixtures Containing Sulfolane. J.Chem.Eng.Data 41 (1996) 624-628
+$$$Vapor-Liquid Equilibrium Data Set 16769
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	353.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+0.05866	0.000000.00000
+49.959	0.17000	0.99900
+54.233	0.19700	0.99920
+65.480	0.23500	0.99930
+71.526	0.26700	0.99940
+76.907	0.29500	0.99940
+78.454	0.31000	0.99950
+82.375	0.32500	0.99950
+90.694	0.38500	0.99950
+99.826	0.45000	0.99960
+151.550	1.000001.00000
+Source
+Domanska U.; Sporzynski A.; Moollan W.C.; Letcher T.M.: Vapor-Liquid Equilibria of Binary Mixtures Containing Sulfolane. J.Chem.Eng.Data 41 (1996) 624-628
+Source
+Domanska U.; Sporzynski A.; Moollan W.C.; Letcher T.M.: Vapor-Liquid Equilibria of Binary Mixtures Containing Sulfolane. J.Chem.Eng.Data 41 (1996) 624-628

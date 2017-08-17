@@ -1,68 +1,68 @@
-$$$Excess Volume Data Set 28265	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Pressure	1.0132	bar	
-Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
--0.6560	0.00000	0.85070	
--0.5943	0.02700	0.82090	
--0.5088	0.05520	0.78990	
--0.4517	0.08440	0.75790	
--0.3874	0.11470	0.72430	
--0.3424	0.14570	0.69000	
--0.2920	0.17910	0.65340	
--0.3225	0.21320	0.61580	
--0.9552	0.00000	0.72970	
--0.8872	0.02460	0.70300	
--0.8255	0.04980	0.67080	
--0.7632	0.07590	0.63970	
-Source	
-Di Z.; Ma P.; Xia S.; Yang T.: Determination of Densities and Viscosities of p-Xylene - Acetic Acid - Water Ternary System. Shiyou-huagong 35 (2006) 851-857	
-$$$Excess Volume Data Set 28266	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	303.150	K	
-Pressure	1.0132	bar	
-Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
--0.6599	0.00000	0.85070	
--0.5937	0.02700	0.82090	
--0.5072	0.05520	0.78990	
--0.4454	0.08440	0.75790	
--0.3791	0.11470	0.72430	
--0.3307	0.14570	0.69000	
--0.2784	0.17910	0.65340	
--0.3053	0.21320	0.61580	
--0.9582	0.00000	0.72970	
--0.8878	0.02460	0.70300	
--0.8238	0.04980	0.67080	
--0.7589	0.07590	0.63970	
-Source	
-Di Z.; Ma P.; Xia S.; Yang T.: Determination of Densities and Viscosities of p-Xylene - Acetic Acid - Water Ternary System. Shiyou-huagong 35 (2006) 851-857	
-$$$Excess Volume Data Set 28267	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	308.150	K	
-Pressure	1.0132	bar	
-Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
--0.6645	0.00000	0.85070	
--0.5959	0.02700	0.82090	
--0.5057	0.05520	0.78990	
--0.4398	0.08440	0.75790	
--0.3716	0.11470	0.72430	
--0.3203	0.14570	0.69000	
--0.2642	0.17910	0.65340	
--0.2896	0.21320	0.61580	
--0.9629	0.00000	0.72970	
--0.8896	0.02460	0.70300	
--0.8214	0.04980	0.67080	
--0.7533	0.07590	0.63970	
-Source	
-Di Z.; Ma P.; Xia S.; Yang T.: Determination of Densities and Viscosities of p-Xylene - Acetic Acid - Water Ternary System. Shiyou-huagong 35 (2006) 851-857	
-Source	
-Di Z.; Ma P.; Xia S.; Yang T.: Determination of Densities and Viscosities of p-Xylene - Acetic Acid - Water Ternary System. Shiyou-huagong 35 (2006) 851-857	
+$$$Excess Volume Data Set 28265
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C2H4O2	60.053	64-19-7	Acetic acid
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Pressure	1.0132	bar
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]
+-0.6560	0.00000	0.85070
+-0.5943	0.02700	0.82090
+-0.5088	0.05520	0.78990
+-0.4517	0.08440	0.75790
+-0.3874	0.11470	0.72430
+-0.3424	0.14570	0.69000
+-0.2920	0.17910	0.65340
+-0.3225	0.21320	0.61580
+-0.9552	0.00000	0.72970
+-0.8872	0.02460	0.70300
+-0.8255	0.04980	0.67080
+-0.7632	0.07590	0.63970
+Source
+Di Z.; Ma P.; Xia S.; Yang T.: Determination of Densities and Viscosities of p-Xylene - Acetic Acid - Water Ternary System. Shiyou-huagong 35 (2006) 851-857
+$$$Excess Volume Data Set 28266
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C2H4O2	60.053	64-19-7	Acetic acid
+3	H2O	18.015	7732-18-5	Water
+Temperature	303.150	K
+Pressure	1.0132	bar
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]
+-0.6599	0.00000	0.85070
+-0.5937	0.02700	0.82090
+-0.5072	0.05520	0.78990
+-0.4454	0.08440	0.75790
+-0.3791	0.11470	0.72430
+-0.3307	0.14570	0.69000
+-0.2784	0.17910	0.65340
+-0.3053	0.21320	0.61580
+-0.9582	0.00000	0.72970
+-0.8878	0.02460	0.70300
+-0.8238	0.04980	0.67080
+-0.7589	0.07590	0.63970
+Source
+Di Z.; Ma P.; Xia S.; Yang T.: Determination of Densities and Viscosities of p-Xylene - Acetic Acid - Water Ternary System. Shiyou-huagong 35 (2006) 851-857
+$$$Excess Volume Data Set 28267
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C2H4O2	60.053	64-19-7	Acetic acid
+3	H2O	18.015	7732-18-5	Water
+Temperature	308.150	K
+Pressure	1.0132	bar
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]
+-0.6645	0.00000	0.85070
+-0.5959	0.02700	0.82090
+-0.5057	0.05520	0.78990
+-0.4398	0.08440	0.75790
+-0.3716	0.11470	0.72430
+-0.3203	0.14570	0.69000
+-0.2642	0.17910	0.65340
+-0.2896	0.21320	0.61580
+-0.9629	0.00000	0.72970
+-0.8896	0.02460	0.70300
+-0.8214	0.04980	0.67080
+-0.7533	0.07590	0.63970
+Source
+Di Z.; Ma P.; Xia S.; Yang T.: Determination of Densities and Viscosities of p-Xylene - Acetic Acid - Water Ternary System. Shiyou-huagong 35 (2006) 851-857
+Source
+Di Z.; Ma P.; Xia S.; Yang T.: Determination of Densities and Viscosities of p-Xylene - Acetic Acid - Water Ternary System. Shiyou-huagong 35 (2006) 851-857

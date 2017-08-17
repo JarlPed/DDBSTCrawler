@@ -1,75 +1,75 @@
-$$$Enthalpy of Mixing Data Set 1592	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-171.000	0.02310	
-203.000	0.02740	
-235.000	0.03260	
-272.000	0.03690	
-291.000	0.03990	
-341.000	0.04700	
-408.000	0.05660	
-647.000	0.09560	
-900.000	0.14240	
-1116.000	0.19090	
-1205.000	0.21050	
-1690.000	0.64450	
-1643.000	0.65470	
-1598.000	0.67810	
-1228.000	0.79990	
-820.000	0.88580	
-718.000	0.90190	
-520.000	0.93200	
-393.000	0.95010	
-275.000	0.96620	
-Source	
-Grolier J.-P.E.: Excess Enthalpy. Int.Data Series Sel.Data Mixtures Ser. A 1973 (1973) 17-20	
-$$$Enthalpy of Mixing Data Set 1593	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-361.100	0.05160	
-752.900	0.11970	
-1082.300	0.19700	
-1388.400	0.29030	
-1622.700	0.38830	
-1672.700	0.44200	
-1706.200	0.51800	
-1704.800	0.57610	
-1668.000	0.63180	
-1534.700	0.70800	
-1343.700	0.77030	
-976.000	0.85680	
-504.600	0.93330	
-Source	
-Murti P.S.; van Winkle M.: Heats of Mixing and Excess Thermodynamic Properties at 25 °C. of Binary Systems  of Methanol, Ethyl Alcohol, 1-Propanol, and 2-Propanol with Ethyl Acetate. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 65-71	
-$$$Enthalpy of Mixing Data Set 1594	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-350.020	0.04980	
-687.470	0.10630	
-989.340	0.16600	
-1262.320	0.23710	
-1453.240	0.29930	
-1500.550	0.31820	
-1701.100	0.42770	
-1722.450	0.44070	
-1769.340	0.55300	
-1505.570	0.72360	
-1080.610	0.83680	
-681.610	0.90650	
-472.690	0.93750	
-280.100	0.96460	
-Source	
-Nagata I.; Yamada T.; Nakagawa S.: Excess Gibbs Free Energies and Heats of Mixing for Binary Systems Ethyl Acetate with Methanol, Ethanol, 1-Propanol and 2-Propanol. J.Chem.Eng.Data 20 (1975) 271-275	
-Source	
-Nagata I.; Yamada T.; Nakagawa S.: Excess Gibbs Free Energies and Heats of Mixing for Binary Systems Ethyl Acetate with Methanol, Ethanol, 1-Propanol and 2-Propanol. J.Chem.Eng.Data 20 (1975) 271-275	
-Grolier J.-P.E.: Excess Enthalpy. Int.Data Series Sel.Data Mixtures Ser. A 1973 (1973) 17-20	
-Murti P.S.; van Winkle M.: Heats of Mixing and Excess Thermodynamic Properties at 25 °C. of Binary Systems  of Methanol, Ethyl Alcohol, 1-Propanol, and 2-Propanol with Ethyl Acetate. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 65-71	
+$$$Enthalpy of Mixing Data Set 1592
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+171.000	0.02310
+203.000	0.02740
+235.000	0.03260
+272.000	0.03690
+291.000	0.03990
+341.000	0.04700
+408.000	0.05660
+647.000	0.09560
+900.000	0.14240
+1116.000	0.19090
+1205.000	0.21050
+1690.000	0.64450
+1643.000	0.65470
+1598.000	0.67810
+1228.000	0.79990
+820.000	0.88580
+718.000	0.90190
+520.000	0.93200
+393.000	0.95010
+275.000	0.96620
+Source
+Grolier J.-P.E.: Excess Enthalpy. Int.Data Series Sel.Data Mixtures Ser. A 1973 (1973) 17-20
+$$$Enthalpy of Mixing Data Set 1593
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+361.100	0.05160
+752.900	0.11970
+1082.300	0.19700
+1388.400	0.29030
+1622.700	0.38830
+1672.700	0.44200
+1706.200	0.51800
+1704.800	0.57610
+1668.000	0.63180
+1534.700	0.70800
+1343.700	0.77030
+976.000	0.85680
+504.600	0.93330
+Source
+Murti P.S.; van Winkle M.: Heats of Mixing and Excess Thermodynamic Properties at 25 °C. of Binary Systems  of Methanol, Ethyl Alcohol, 1-Propanol, and 2-Propanol with Ethyl Acetate. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 65-71
+$$$Enthalpy of Mixing Data Set 1594
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+350.020	0.04980
+687.470	0.10630
+989.340	0.16600
+1262.320	0.23710
+1453.240	0.29930
+1500.550	0.31820
+1701.100	0.42770
+1722.450	0.44070
+1769.340	0.55300
+1505.570	0.72360
+1080.610	0.83680
+681.610	0.90650
+472.690	0.93750
+280.100	0.96460
+Source
+Nagata I.; Yamada T.; Nakagawa S.: Excess Gibbs Free Energies and Heats of Mixing for Binary Systems Ethyl Acetate with Methanol, Ethanol, 1-Propanol and 2-Propanol. J.Chem.Eng.Data 20 (1975) 271-275
+Source
+Nagata I.; Yamada T.; Nakagawa S.: Excess Gibbs Free Energies and Heats of Mixing for Binary Systems Ethyl Acetate with Methanol, Ethanol, 1-Propanol and 2-Propanol. J.Chem.Eng.Data 20 (1975) 271-275
+Grolier J.-P.E.: Excess Enthalpy. Int.Data Series Sel.Data Mixtures Ser. A 1973 (1973) 17-20
+Murti P.S.; van Winkle M.: Heats of Mixing and Excess Thermodynamic Properties at 25 °C. of Binary Systems  of Methanol, Ethyl Alcohol, 1-Propanol, and 2-Propanol with Ethyl Acetate. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 65-71

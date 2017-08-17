@@ -1,63 +1,63 @@
-$$$Excess Volume Data Set 1263	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0540	0.09920	
-0.1097	0.20470	
-0.1527	0.30840	
-0.1889	0.41130	
-0.2191	0.51200	
-0.2336	0.61390	
-0.2282	0.79680	
-0.1949	0.80640	
-0.1364	0.89980	
-Source	
-Rodriguez V.; Lafuente C.; Lopez M.C.; Royo F.M.; Urieta J.S.: Excess molar volumes and vapour presures of (benzene + each of several isomers of butanol). J.Chem.Thermodyn. 25 (1993) 679-685	
-$$$Excess Volume Data Set 2753	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0270	0.10300	
-0.0640	0.20900	
-0.1060	0.31300	
-0.1390	0.41400	
-0.1700	0.51000	
-0.1870	0.61300	
-0.1870	0.70800	
-0.1630	0.80500	
-0.1090	0.90200	
-Source	
-Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624	
-$$$Excess Volume Data Set 3646	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0300	0.11120	
-0.0500	0.16340	
-0.0620	0.20240	
-0.0950	0.25170	
-0.1070	0.31150	
-0.1260	0.35720	
-0.1560	0.40730	
-0.1710	0.44330	
-0.1950	0.51020	
-0.2040	0.55850	
-0.2160	0.62610	
-0.2210	0.70430	
-0.2130	0.75130	
-0.2060	0.79960	
-0.1870	0.84770	
-0.1540	0.90100	
-0.1060	0.95320	
-Source	
-Yu C.-H.; Tsai F.-N.: Excess Volumes of Binary Mixtures of Benzene + 1-Alkanols at 298.15 and 308.15 K. J.Chem.Eng.Data 39 (1994) 441-443	
-Source	
-Rodriguez V.; Lafuente C.; Lopez M.C.; Royo F.M.; Urieta J.S.: Excess molar volumes and vapour presures of (benzene + each of several isomers of butanol). J.Chem.Thermodyn. 25 (1993) 679-685	
-Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624	
-Yu C.-H.; Tsai F.-N.: Excess Volumes of Binary Mixtures of Benzene + 1-Alkanols at 298.15 and 308.15 K. J.Chem.Eng.Data 39 (1994) 441-443	
+$$$Excess Volume Data Set 1263
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0540	0.09920
+0.1097	0.20470
+0.1527	0.30840
+0.1889	0.41130
+0.2191	0.51200
+0.2336	0.61390
+0.2282	0.79680
+0.1949	0.80640
+0.1364	0.89980
+Source
+Rodriguez V.; Lafuente C.; Lopez M.C.; Royo F.M.; Urieta J.S.: Excess molar volumes and vapour presures of (benzene + each of several isomers of butanol). J.Chem.Thermodyn. 25 (1993) 679-685
+$$$Excess Volume Data Set 2753
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0270	0.10300
+0.0640	0.20900
+0.1060	0.31300
+0.1390	0.41400
+0.1700	0.51000
+0.1870	0.61300
+0.1870	0.70800
+0.1630	0.80500
+0.1090	0.90200
+Source
+Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624
+$$$Excess Volume Data Set 3646
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0300	0.11120
+0.0500	0.16340
+0.0620	0.20240
+0.0950	0.25170
+0.1070	0.31150
+0.1260	0.35720
+0.1560	0.40730
+0.1710	0.44330
+0.1950	0.51020
+0.2040	0.55850
+0.2160	0.62610
+0.2210	0.70430
+0.2130	0.75130
+0.2060	0.79960
+0.1870	0.84770
+0.1540	0.90100
+0.1060	0.95320
+Source
+Yu C.-H.; Tsai F.-N.: Excess Volumes of Binary Mixtures of Benzene + 1-Alkanols at 298.15 and 308.15 K. J.Chem.Eng.Data 39 (1994) 441-443
+Source
+Rodriguez V.; Lafuente C.; Lopez M.C.; Royo F.M.; Urieta J.S.: Excess molar volumes and vapour presures of (benzene + each of several isomers of butanol). J.Chem.Thermodyn. 25 (1993) 679-685
+Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624
+Yu C.-H.; Tsai F.-N.: Excess Volumes of Binary Mixtures of Benzene + 1-Alkanols at 298.15 and 308.15 K. J.Chem.Eng.Data 39 (1994) 441-443

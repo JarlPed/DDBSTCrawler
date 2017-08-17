@@ -1,72 +1,72 @@
-$$$Excess Volume Data Set 1747	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.2210	0.15030	
--0.2470	0.16120	
--0.3780	0.28020	
--0.3970	0.32040	
--0.4360	0.45290	
--0.4390	0.45870	
--0.4570	0.49560	
--0.4550	0.52670	
--0.3600	0.77290	
--0.3020	0.83030	
--0.2550	0.86000	
-Source	
-Rastogi R.P.; Nath J.; Yadava R.B.: Weak interactions in diethyl ether + carbon tetrachloride and diethyl ether + benzene liquid mixtures.. Indian J.Chem. 8 (1970) 541-543	
-$$$Excess Volume Data Set 8585	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.05797	0.03160	
--0.11829	0.06770	
--0.15362	0.09070	
--0.2211	0.13940	
--0.2509	0.16340	
--0.27924	0.18810	
--0.3087	0.21610	
--0.3314	0.23980	
--0.36464	0.27880	
--0.3882	0.31090	
--0.4087	0.34370	
--0.4266	0.37800	
--0.4362	0.39990	
--0.4522	0.45040	
--0.4566	0.47110	
--0.4613	0.51610	
--0.4594	0.55940	
--0.45415	0.59120	
--0.4457	0.62200	
--0.43225	0.65610	
--0.41835	0.68330	
--0.3859	0.73230	
--0.3489	0.77540	
--0.3236	0.80030	
--0.2834	0.83500	
--0.22095	0.88070	
--0.13956	0.93050	
--0.05528	0.97440	
-Source	
-Nath J.: Speeds of sound and isentropic compressibilities of{ xC2H5OC2H5 + (1-x) C6H6} and {xC2H5OC2H5 + (1-x) CCl4} at T=298.15 K. J.Chem.Thermodyn. 28 (1996) 167-170	
-$$$Excess Volume Data Set 9480	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0574	0.008669	
--0.17062	0.04358	
--0.2092	0.08775	
--0.5644	0.46403	
--0.4393	0.77594	
-Source	
-Rakshit J.N.: Molekularkontraktion in Lösung. Z.Elektrochem.Angew.Physik.Chem. 31 (1925) 320-323	
-Source	
-Rastogi R.P.; Nath J.; Yadava R.B.: Weak interactions in diethyl ether + carbon tetrachloride and diethyl ether + benzene liquid mixtures.. Indian J.Chem. 8 (1970) 541-543	
-Rakshit J.N.: Molekularkontraktion in Lösung. Z.Elektrochem.Angew.Physik.Chem. 31 (1925) 320-323	
-Nath J.: Speeds of sound and isentropic compressibilities of{ xC2H5OC2H5 + (1-x) C6H6} and {xC2H5OC2H5 + (1-x) CCl4} at T=298.15 K. J.Chem.Thermodyn. 28 (1996) 167-170	
+$$$Excess Volume Data Set 1747
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.2210	0.15030
+-0.2470	0.16120
+-0.3780	0.28020
+-0.3970	0.32040
+-0.4360	0.45290
+-0.4390	0.45870
+-0.4570	0.49560
+-0.4550	0.52670
+-0.3600	0.77290
+-0.3020	0.83030
+-0.2550	0.86000
+Source
+Rastogi R.P.; Nath J.; Yadava R.B.: Weak interactions in diethyl ether + carbon tetrachloride and diethyl ether + benzene liquid mixtures.. Indian J.Chem. 8 (1970) 541-543
+$$$Excess Volume Data Set 8585
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.05797	0.03160
+-0.11829	0.06770
+-0.15362	0.09070
+-0.2211	0.13940
+-0.2509	0.16340
+-0.27924	0.18810
+-0.3087	0.21610
+-0.3314	0.23980
+-0.36464	0.27880
+-0.3882	0.31090
+-0.4087	0.34370
+-0.4266	0.37800
+-0.4362	0.39990
+-0.4522	0.45040
+-0.4566	0.47110
+-0.4613	0.51610
+-0.4594	0.55940
+-0.45415	0.59120
+-0.4457	0.62200
+-0.43225	0.65610
+-0.41835	0.68330
+-0.3859	0.73230
+-0.3489	0.77540
+-0.3236	0.80030
+-0.2834	0.83500
+-0.22095	0.88070
+-0.13956	0.93050
+-0.05528	0.97440
+Source
+Nath J.: Speeds of sound and isentropic compressibilities of{ xC2H5OC2H5 + (1-x) C6H6} and {xC2H5OC2H5 + (1-x) CCl4} at T=298.15 K. J.Chem.Thermodyn. 28 (1996) 167-170
+$$$Excess Volume Data Set 9480
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0574	0.008669
+-0.17062	0.04358
+-0.2092	0.08775
+-0.5644	0.46403
+-0.4393	0.77594
+Source
+Rakshit J.N.: Molekularkontraktion in Lösung. Z.Elektrochem.Angew.Physik.Chem. 31 (1925) 320-323
+Source
+Rastogi R.P.; Nath J.; Yadava R.B.: Weak interactions in diethyl ether + carbon tetrachloride and diethyl ether + benzene liquid mixtures.. Indian J.Chem. 8 (1970) 541-543
+Rakshit J.N.: Molekularkontraktion in Lösung. Z.Elektrochem.Angew.Physik.Chem. 31 (1925) 320-323
+Nath J.: Speeds of sound and isentropic compressibilities of{ xC2H5OC2H5 + (1-x) C6H6} and {xC2H5OC2H5 + (1-x) CCl4} at T=298.15 K. J.Chem.Thermodyn. 28 (1996) 167-170

@@ -1,64 +1,64 @@
-$$$Enthalpy of Mixing Data Set 1351	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-1027.000	0.22500	
-1316.000	0.31800	
-1303.000	0.34500	
-1410.000	0.37300	
-1453.000	0.39900	
-1465.000	0.41900	
-1530.000	0.48600	
-1523.000	0.51500	
-1472.000	0.64200	
-1401.000	0.67200	
-Source	
-Coomber B.A.; Wormald C.J.: The Excess Enthalpies of Acetone + Water and of Acetone + some Normal Alcohols. J.Chem.Thermodyn. 8 (1976) 793-799	
-$$$Enthalpy of Mixing Data Set 1352	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-466.409	0.10030	
-756.136	0.15520	
-840.709	0.19140	
-1241.390	0.30630	
-1247.250	0.31570	
-1374.530	0.45250	
-1371.180	0.50940	
-1367.830	0.50960	
-1376.620	0.51590	
-1305.860	0.58790	
-1278.650	0.64160	
-1123.740	0.75140	
-1023.670	0.77910	
-682.448	0.87340	
-368.857	0.94010	
-223.575	0.96590	
-Source	
-Murakami S.; Fujishiro R.: III. The Intermolecular Energy of Hydrogen Bonding between Alcohol and Several other Polar Molecules. Bull.Chem.Soc.Japan 39 (1966) 720-725	
-$$$Enthalpy of Mixing Data Set 1353	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-837.780	0.20000	
-1091.500	0.30000	
-1318.840	0.39000	
-1341.030	0.47000	
-1397.140	0.51000	
-1412.210	0.60000	
-1419.740	0.64000	
-1183.190	0.72000	
-992.270	0.79000	
-730.600	0.86000	
-Source	
-Paz-Andrade M.I.; Casas M.I.: Entalpias de Mezcla de los Sistemas Acetona-Metanol. Acetonia-Propanol y Acetonia-Butanol a 25°C. Anal.Quim. 66 (1970) 709-712	
-Source	
-Coomber B.A.; Wormald C.J.: The Excess Enthalpies of Acetone + Water and of Acetone + some Normal Alcohols. J.Chem.Thermodyn. 8 (1976) 793-799	
-Murakami S.; Fujishiro R.: III. The Intermolecular Energy of Hydrogen Bonding between Alcohol and Several other Polar Molecules. Bull.Chem.Soc.Japan 39 (1966) 720-725	
-Paz-Andrade M.I.; Casas M.I.: Entalpias de Mezcla de los Sistemas Acetona-Metanol. Acetonia-Propanol y Acetonia-Butanol a 25°C. Anal.Quim. 66 (1970) 709-712	
+$$$Enthalpy of Mixing Data Set 1351
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+1027.000	0.22500
+1316.000	0.31800
+1303.000	0.34500
+1410.000	0.37300
+1453.000	0.39900
+1465.000	0.41900
+1530.000	0.48600
+1523.000	0.51500
+1472.000	0.64200
+1401.000	0.67200
+Source
+Coomber B.A.; Wormald C.J.: The Excess Enthalpies of Acetone + Water and of Acetone + some Normal Alcohols. J.Chem.Thermodyn. 8 (1976) 793-799
+$$$Enthalpy of Mixing Data Set 1352
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+466.409	0.10030
+756.136	0.15520
+840.709	0.19140
+1241.390	0.30630
+1247.250	0.31570
+1374.530	0.45250
+1371.180	0.50940
+1367.830	0.50960
+1376.620	0.51590
+1305.860	0.58790
+1278.650	0.64160
+1123.740	0.75140
+1023.670	0.77910
+682.448	0.87340
+368.857	0.94010
+223.575	0.96590
+Source
+Murakami S.; Fujishiro R.: III. The Intermolecular Energy of Hydrogen Bonding between Alcohol and Several other Polar Molecules. Bull.Chem.Soc.Japan 39 (1966) 720-725
+$$$Enthalpy of Mixing Data Set 1353
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+837.780	0.20000
+1091.500	0.30000
+1318.840	0.39000
+1341.030	0.47000
+1397.140	0.51000
+1412.210	0.60000
+1419.740	0.64000
+1183.190	0.72000
+992.270	0.79000
+730.600	0.86000
+Source
+Paz-Andrade M.I.; Casas M.I.: Entalpias de Mezcla de los Sistemas Acetona-Metanol. Acetonia-Propanol y Acetonia-Butanol a 25°C. Anal.Quim. 66 (1970) 709-712
+Source
+Coomber B.A.; Wormald C.J.: The Excess Enthalpies of Acetone + Water and of Acetone + some Normal Alcohols. J.Chem.Thermodyn. 8 (1976) 793-799
+Murakami S.; Fujishiro R.: III. The Intermolecular Energy of Hydrogen Bonding between Alcohol and Several other Polar Molecules. Bull.Chem.Soc.Japan 39 (1966) 720-725
+Paz-Andrade M.I.; Casas M.I.: Entalpias de Mezcla de los Sistemas Acetona-Metanol. Acetonia-Propanol y Acetonia-Butanol a 25°C. Anal.Quim. 66 (1970) 709-712

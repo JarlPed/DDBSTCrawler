@@ -1,83 +1,83 @@
-$$$Vapor-Liquid Equilibrium Data Set 6432	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-338.85	0.00810	0.02400	
-338.15	0.00960	0.02800	
-337.35	0.02200	0.06300	
-335.35	0.05000	0.13600	
-333.55	0.08000	0.18500	
-332.35	0.10000	0.24900	
-329.75	0.15000	0.34600	
-327.75	0.20000	0.43000	
-325.85	0.25000	0.50800	
-324.05	0.30000	0.56400	
-322.35	0.35000	0.61100	
-320.65	0.40000	0.65100	
-319.25	0.45000	0.69200	
-317.95	0.50000	0.72600	
-316.65	0.55000	0.76100	
-315.45	0.60000	0.79300	
-314.35	0.65000	0.82800	
-313.25	0.70000	0.85900	
-312.25	0.75000	0.88100	
-311.25	0.80000	0.90800	
-310.25	0.85000	0.93200	
-309.35	0.90000	0.95600	
-308.85	0.93000	0.97100	
-307.75	0.99964	0.99986	
-Source	
-Nazarov V.V.; Generalova T.V.; Shalygin V.A.; Bernshtein L.A.: Liquid-Vapor Equilibrium in the Systems Diethyl Ether-Tetrahydrofuran and Tetrahydrofuran-Toluene. Zh.Prikl.Khim. 51 (1978) 1198-1199	
-$$$Vapor-Liquid Equilibrium Data Set 8830	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-339.17	0.00000	0.00000	
-338.50	0.00400	0.03090	
-337.57	0.02000	0.07020	
-336.51	0.03900	0.11650	
-334.71	0.06830	0.19610	
-332.07	0.12010	0.29940	
-330.60	0.15440	0.35810	
-327.93	0.21140	0.44180	
-326.47	0.24880	0.50390	
-323.20	0.33780	0.61410	
-320.54	0.41930	0.68990	
-316.85	0.54920	0.78360	
-314.11	0.65780	0.84920	
-312.06	0.75300	0.89490	
-309.93	0.86070	0.94020	
-308.98	0.91690	0.96770	
-308.20	0.95800	0.98170	
-307.86	0.98000	0.99140	
-307.63	1.00000	1.00000	
-Source	
-Klon-Palczewska M.; Cholinski J.; Wyrzykowska-Stankiewicz D.: Isobaric Vapour-Liquid Equilibrium in Binary Organic Solvent Mixtures. Chem.Stosow. 24 (1980) 197-209	
-$$$Vapor-Liquid Equilibrium Data Set 9018	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	
-21.601	0.00000	
-25.585	0.06800	
-30.304	0.14800	
-32.197	0.18000	
-36.157	0.25400	
-42.410	0.37500	
-42.783	0.38700	
-47.743	0.49400	
-55.422	0.65500	
-61.168	0.78100	
-66.755	0.90600	
-71.447	1.00000	
-Source	
-Arm H.; Bankay D.; Schaller R.; Waelti M.: Systeme Tetrahydrofuran-Diäthyläther und Methanol-Tetrahydrofuran bei 25°. Helv.Chim.Acta 49 (1966) 2598-2605	
-Source	
-Nazarov V.V.; Generalova T.V.; Shalygin V.A.; Bernshtein L.A.: Liquid-Vapor Equilibrium in the Systems Diethyl Ether-Tetrahydrofuran and Tetrahydrofuran-Toluene. Zh.Prikl.Khim. 51 (1978) 1198-1199	
-Klon-Palczewska M.; Cholinski J.; Wyrzykowska-Stankiewicz D.: Isobaric Vapour-Liquid Equilibrium in Binary Organic Solvent Mixtures. Chem.Stosow. 24 (1980) 197-209	
-Arm H.; Bankay D.; Schaller R.; Waelti M.: Systeme Tetrahydrofuran-Diäthyläther und Methanol-Tetrahydrofuran bei 25°. Helv.Chim.Acta 49 (1966) 2598-2605	
+$$$Vapor-Liquid Equilibrium Data Set 6432
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+338.85	0.00810	0.02400
+338.15	0.00960	0.02800
+337.35	0.02200	0.06300
+335.35	0.05000	0.13600
+333.55	0.08000	0.18500
+332.35	0.10000	0.24900
+329.75	0.15000	0.34600
+327.75	0.20000	0.43000
+325.85	0.25000	0.50800
+324.05	0.30000	0.56400
+322.35	0.35000	0.61100
+320.65	0.40000	0.65100
+319.25	0.45000	0.69200
+317.95	0.50000	0.72600
+316.65	0.55000	0.76100
+315.45	0.60000	0.79300
+314.35	0.65000	0.82800
+313.25	0.70000	0.85900
+312.25	0.75000	0.88100
+311.25	0.80000	0.90800
+310.25	0.85000	0.93200
+309.35	0.90000	0.95600
+308.85	0.93000	0.97100
+307.75	0.99964	0.99986
+Source
+Nazarov V.V.; Generalova T.V.; Shalygin V.A.; Bernshtein L.A.: Liquid-Vapor Equilibrium in the Systems Diethyl Ether-Tetrahydrofuran and Tetrahydrofuran-Toluene. Zh.Prikl.Khim. 51 (1978) 1198-1199
+$$$Vapor-Liquid Equilibrium Data Set 8830
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+339.17	0.000000.00000
+338.50	0.00400	0.03090
+337.57	0.02000	0.07020
+336.51	0.03900	0.11650
+334.71	0.06830	0.19610
+332.07	0.12010	0.29940
+330.60	0.15440	0.35810
+327.93	0.21140	0.44180
+326.47	0.24880	0.50390
+323.20	0.33780	0.61410
+320.54	0.41930	0.68990
+316.85	0.54920	0.78360
+314.11	0.65780	0.84920
+312.06	0.75300	0.89490
+309.93	0.86070	0.94020
+308.98	0.91690	0.96770
+308.20	0.95800	0.98170
+307.86	0.98000	0.99140
+307.63	1.000001.00000
+Source
+Klon-Palczewska M.; Cholinski J.; Wyrzykowska-Stankiewicz D.: Isobaric Vapour-Liquid Equilibrium in Binary Organic Solvent Mixtures. Chem.Stosow. 24 (1980) 197-209
+$$$Vapor-Liquid Equilibrium Data Set 9018
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C4H8O	72.107	109-99-9	Tetrahydrofuran
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]
+21.601	0.00000
+25.585	0.06800
+30.304	0.14800
+32.197	0.18000
+36.157	0.25400
+42.410	0.37500
+42.783	0.38700
+47.743	0.49400
+55.422	0.65500
+61.168	0.78100
+66.755	0.90600
+71.447	1.00000
+Source
+Arm H.; Bankay D.; Schaller R.; Waelti M.: Systeme Tetrahydrofuran-Diäthyläther und Methanol-Tetrahydrofuran bei 25°. Helv.Chim.Acta 49 (1966) 2598-2605
+Source
+Nazarov V.V.; Generalova T.V.; Shalygin V.A.; Bernshtein L.A.: Liquid-Vapor Equilibrium in the Systems Diethyl Ether-Tetrahydrofuran and Tetrahydrofuran-Toluene. Zh.Prikl.Khim. 51 (1978) 1198-1199
+Klon-Palczewska M.; Cholinski J.; Wyrzykowska-Stankiewicz D.: Isobaric Vapour-Liquid Equilibrium in Binary Organic Solvent Mixtures. Chem.Stosow. 24 (1980) 197-209
+Arm H.; Bankay D.; Schaller R.; Waelti M.: Systeme Tetrahydrofuran-Diäthyläther und Methanol-Tetrahydrofuran bei 25°. Helv.Chim.Acta 49 (1966) 2598-2605

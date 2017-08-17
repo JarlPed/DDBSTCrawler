@@ -1,47 +1,47 @@
-$$$Solid-Liquid Equilibrium Data Set 34056	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C8H10	106.167	106-42-3	p-Xylene	
-T [K]	xL1 [mol/mol]	
-353.15	1.00000	
-347.15	0.90196	
-339.75	0.79691	
-333.15	0.70096	
-324.95	0.59399	
-318.35	0.50297	
-310.15	0.40999	
-297.15	0.30198	
-290.45	0.25399	
-281.15	0.20095	
-277.35	0.18197	
-279.15	0.14997	
-281.15	0.09942	
-283.75	0.05098	
-286.45	0.00000	
-Source	
-Kravchenko V.M.: Binary system of benzene, toluene, ethylbenzene, o- and p-xylene and naphthalene. Zh.Prikl.Khim. 22 (1949) 724-733	
-$$$Solid-Liquid Equilibrium Data Set 34057	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C8H10	106.167	106-42-3	p-Xylene	
-T [K]	xS1 [mol/mol]	
-277.35	0.59399	
-277.35	0.50297	
-277.35	0.40999	
-277.35	0.30198	
-277.35	0.25399	
-277.35	0.20095	
-277.35	0.18197	
-277.35	0.14997	
-277.35	0.09942	
-277.35	0.05098	
-Source	
-Kravchenko V.M.: Binary system of benzene, toluene, ethylbenzene, o- and p-xylene and naphthalene. Zh.Prikl.Khim. 22 (1949) 724-733	
-$$$Solid-Liquid Equilibrium Data Set 34058	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C8H10	106.167	106-42-3	p-Xylene	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-277.35	0.18200	0.18200	
-Source	
-Kravchenko V.M.: Binary system of benzene, toluene, ethylbenzene, o- and p-xylene and naphthalene. Zh.Prikl.Khim. 22 (1949) 724-733	
+$$$Solid-Liquid Equilibrium Data Set 34056
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C8H10	106.167	106-42-3	p-Xylene
+T [K]	xL1 [mol/mol]
+353.15	1.00000
+347.15	0.90196
+339.75	0.79691
+333.15	0.70096
+324.95	0.59399
+318.35	0.50297
+310.15	0.40999
+297.15	0.30198
+290.45	0.25399
+281.15	0.20095
+277.35	0.18197
+279.15	0.14997
+281.15	0.09942
+283.75	0.05098
+286.45	0.00000
+Source
+Kravchenko V.M.: Binary system of benzene, toluene, ethylbenzene, o- and p-xylene and naphthalene. Zh.Prikl.Khim. 22 (1949) 724-733
+$$$Solid-Liquid Equilibrium Data Set 34057
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C8H10	106.167	106-42-3	p-Xylene
+T [K]	xS1 [mol/mol]
+277.35	0.59399
+277.35	0.50297
+277.35	0.40999
+277.35	0.30198
+277.35	0.25399
+277.35	0.20095
+277.35	0.18197
+277.35	0.14997
+277.35	0.09942
+277.35	0.05098
+Source
+Kravchenko V.M.: Binary system of benzene, toluene, ethylbenzene, o- and p-xylene and naphthalene. Zh.Prikl.Khim. 22 (1949) 724-733
+$$$Solid-Liquid Equilibrium Data Set 34058
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C8H10	106.167	106-42-3	p-Xylene
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+277.35	0.182000.18200
+Source
+Kravchenko V.M.: Binary system of benzene, toluene, ethylbenzene, o- and p-xylene and naphthalene. Zh.Prikl.Khim. 22 (1949) 724-733

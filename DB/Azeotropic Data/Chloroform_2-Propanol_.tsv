@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmax	323.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	2	
-homPmax	333.950	101.325	0.92100	n.a.	n.a.	Author	1	
-homPmax	334.150	101.325	0.95000	n.a.	Phase equilibrium	DDBST from VLE by regression	3	
-homPmax	homogeneous pressure maximum	
-1	Hanumantharao G.; Subbarao B.V.: Isobaric Vapor-Liquid Equilibria-Chloroform-Isopropanol, Tertiary Butanol-Toluene and Ternary Butanol-Trichloroethylene Systems. Indian J.Technol. 12 (1974) 292-295	
-2	Nagata I.: Vapor-Liquid Equilibria for the Ternary System 2-Propanol-Chloroform-Benzene. J.Chem.Eng.Data 30 (1985) 80-82	
-3	Nagata I.: Isobaric Vapor-Liquid Equilibrium Data for Binary Systems. Can.J.Chem.Eng. 41 (1963) 21-23	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C3H8O	60.096	67-63-0	2-Propanol
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+homPmax	323.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	2
+homPmax	333.950	101.325	0.92100	n.a.	n.a.	Author	1
+homPmax	334.150	101.325	0.95000	n.a.	Phase equilibrium	DDBST from VLE by regression	3
+homPmax	homogeneous pressure maximum
+1	Hanumantharao G.; Subbarao B.V.: Isobaric Vapor-Liquid Equilibria-Chloroform-Isopropanol, Tertiary Butanol-Toluene and Ternary Butanol-Trichloroethylene Systems. Indian J.Technol. 12 (1974) 292-295
+2	Nagata I.: Vapor-Liquid Equilibria for the Ternary System 2-Propanol-Chloroform-Benzene. J.Chem.Eng.Data 30 (1985) 80-82
+3	Nagata I.: Isobaric Vapor-Liquid Equilibrium Data for Binary Systems. Can.J.Chem.Eng. 41 (1963) 21-23

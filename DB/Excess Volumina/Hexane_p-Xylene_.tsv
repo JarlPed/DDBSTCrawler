@@ -1,56 +1,56 @@
-$$$Excess Volume Data Set 4615	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0820	0.09000	
--0.1540	0.19200	
--0.2020	0.28800	
--0.2310	0.38500	
--0.2540	0.47800	
--0.2360	0.58800	
--0.1990	0.68400	
--0.1640	0.78000	
--0.0950	0.88400	
-Source	
-Qin A.; Hoffman D.E.; Munk P.: Excess Volume of Mixtures of Alkanes with Aromatic Hydrocarbons. J.Chem.Eng.Data 37 (1992) 61-65	
-$$$Excess Volume Data Set 4739	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.20103	0.15850	
--0.30676	0.33920	
--0.3468	0.51170	
--0.3267	0.64760	
--0.1620	0.84510	
-Source	
-Chevalier J.L.E.; Petrino P.J.; Gaston-Bonhomme Y.H.: Viscosity and Density of Some Aliphatic, Cyclic, and Aromatic Hydrocarbons Binary Liquid Mixtures. J.Chem.Eng.Data 35 (1990) 206-212	
-$$$Excess Volume Data Set 11570	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	313.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.2048	0.21140	
--0.2237	0.23940	
--0.2673	0.32190	
--0.2841	0.35980	
--0.2905	0.36360	
--0.3030	0.40730	
--0.3118	0.46570	
--0.3123	0.50960	
--0.3049	0.56620	
--0.2856	0.63710	
--0.2531	0.69480	
--0.1487	0.84650	
--0.0621	0.93790	
--0.0640	0.93940	
-Source	
-Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340	
-Source	
-Qin A.; Hoffman D.E.; Munk P.: Excess Volume of Mixtures of Alkanes with Aromatic Hydrocarbons. J.Chem.Eng.Data 37 (1992) 61-65	
-Chevalier J.L.E.; Petrino P.J.; Gaston-Bonhomme Y.H.: Viscosity and Density of Some Aliphatic, Cyclic, and Aromatic Hydrocarbons Binary Liquid Mixtures. J.Chem.Eng.Data 35 (1990) 206-212	
-Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340	
+$$$Excess Volume Data Set 4615
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0820	0.09000
+-0.1540	0.19200
+-0.2020	0.28800
+-0.2310	0.38500
+-0.2540	0.47800
+-0.2360	0.58800
+-0.1990	0.68400
+-0.1640	0.78000
+-0.0950	0.88400
+Source
+Qin A.; Hoffman D.E.; Munk P.: Excess Volume of Mixtures of Alkanes with Aromatic Hydrocarbons. J.Chem.Eng.Data 37 (1992) 61-65
+$$$Excess Volume Data Set 4739
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.20103	0.15850
+-0.30676	0.33920
+-0.3468	0.51170
+-0.3267	0.64760
+-0.1620	0.84510
+Source
+Chevalier J.L.E.; Petrino P.J.; Gaston-Bonhomme Y.H.: Viscosity and Density of Some Aliphatic, Cyclic, and Aromatic Hydrocarbons Binary Liquid Mixtures. J.Chem.Eng.Data 35 (1990) 206-212
+$$$Excess Volume Data Set 11570
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	313.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.2048	0.21140
+-0.2237	0.23940
+-0.2673	0.32190
+-0.2841	0.35980
+-0.2905	0.36360
+-0.3030	0.40730
+-0.3118	0.46570
+-0.3123	0.50960
+-0.3049	0.56620
+-0.2856	0.63710
+-0.2531	0.69480
+-0.1487	0.84650
+-0.0621	0.93790
+-0.0640	0.93940
+Source
+Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340
+Source
+Qin A.; Hoffman D.E.; Munk P.: Excess Volume of Mixtures of Alkanes with Aromatic Hydrocarbons. J.Chem.Eng.Data 37 (1992) 61-65
+Chevalier J.L.E.; Petrino P.J.; Gaston-Bonhomme Y.H.: Viscosity and Density of Some Aliphatic, Cyclic, and Aromatic Hydrocarbons Binary Liquid Mixtures. J.Chem.Eng.Data 35 (1990) 206-212
+Gonzalez Fernandez C.C.; Caceres Alonso M.; Nunez Delgado J.: Variation of Excess Volumes with Temperature for Binary Mixtures of p-Xylene with n-Hexane and n-Hexadecane. J.Solution Chem. 15 (1986) 331-340

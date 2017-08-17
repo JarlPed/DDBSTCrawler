@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	1	
-none	323.150	n.a.	n.a.	n.a.	n.a.	Author	2	
-none	333.150	n.a.	n.a.	n.a.	n.a.	Author	2	
-none	zeotropic	
-1	de Fré R.M.; Verhoeye L.A.: Phase Equilibria in Systems Composed of an Aliphatic and an Aromatic Hydrocarbon and Sulpholane. J.Appl.Chem.Biotechnol. 26 (1976) 469-487	
-2	Karvo M.: VI. Vapour-liquid equilibria for (benzene + sulfolane) and (toluene + sulfolane). J.Chem.Thermodyn. 12 (1980) 1175-1181	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.325	n.a.	n.a.	Phase equilibrium	DDBST	1
+none	323.150	n.a.	n.a.	n.a.	n.a.	Author	2
+none	333.150	n.a.	n.a.	n.a.	n.a.	Author	2
+none	zeotropic
+1	de Fré R.M.; Verhoeye L.A.: Phase Equilibria in Systems Composed of an Aliphatic and an Aromatic Hydrocarbon and Sulpholane. J.Appl.Chem.Biotechnol. 26 (1976) 469-487
+2	Karvo M.: VI. Vapour-liquid equilibria for (benzene + sulfolane) and (toluene + sulfolane). J.Chem.Thermodyn. 12 (1980) 1175-1181

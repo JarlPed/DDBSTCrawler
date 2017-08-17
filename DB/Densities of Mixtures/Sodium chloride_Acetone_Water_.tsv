@@ -1,44 +1,44 @@
-$$$Density Data Set 65809	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9833	0.00000	0.033316	
-0.9975	0.006848	0.03310	
-1.0043	0.01024	0.032986	
-1.0107	0.01333	0.03288	
-1.0185	0.01720	0.03275	
-Source	
-Kawaizumi F.; Nakao F.; Nomura H.: Partial Molar Volumes and Compressibilities of 1-1 Type Chlorides, Bromides, Tetraphenylphosphonium Chloride, and Sodium Tetraphenylborate in Water-Acetone Mixtures. J.Chem.Eng.Data 33 (1988) 204-211	
-$$$Density Data Set 65810	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9694	0.00000	0.07196	
-0.9838	0.007465	0.07144	
-0.9894	0.010456	0.07123	
-0.9972	0.014605	0.07090	
-1.0043	0.01855	0.07065	
-Source	
-Kawaizumi F.; Nakao F.; Nomura H.: Partial Molar Volumes and Compressibilities of 1-1 Type Chlorides, Bromides, Tetraphenylphosphonium Chloride, and Sodium Tetraphenylborate in Water-Acetone Mixtures. J.Chem.Eng.Data 33 (1988) 204-211	
-$$$Density Data Set 65811	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9537	0.00000	0.11734	
-0.9679	0.00819	0.11639	
-0.9736	0.011516	0.11600	
-0.9799	0.015244	0.11554	
-0.9915	0.02212	0.11474	
-Source	
-Kawaizumi F.; Nakao F.; Nomura H.: Partial Molar Volumes and Compressibilities of 1-1 Type Chlorides, Bromides, Tetraphenylphosphonium Chloride, and Sodium Tetraphenylborate in Water-Acetone Mixtures. J.Chem.Eng.Data 33 (1988) 204-211	
-Source	
-Kawaizumi F.; Nakao F.; Nomura H.: Partial Molar Volumes and Compressibilities of 1-1 Type Chlorides, Bromides, Tetraphenylphosphonium Chloride, and Sodium Tetraphenylborate in Water-Acetone Mixtures. J.Chem.Eng.Data 33 (1988) 204-211	
+$$$Density Data Set 65809
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	C3H6O	58.080	67-64-1	Acetone
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9833	0.00000	0.033316
+0.9975	0.006848	0.03310
+1.0043	0.01024	0.032986
+1.0107	0.01333	0.03288
+1.0185	0.01720	0.03275
+Source
+Kawaizumi F.; Nakao F.; Nomura H.: Partial Molar Volumes and Compressibilities of 1-1 Type Chlorides, Bromides, Tetraphenylphosphonium Chloride, and Sodium Tetraphenylborate in Water-Acetone Mixtures. J.Chem.Eng.Data 33 (1988) 204-211
+$$$Density Data Set 65810
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	C3H6O	58.080	67-64-1	Acetone
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9694	0.00000	0.07196
+0.9838	0.007465	0.07144
+0.9894	0.010456	0.07123
+0.9972	0.014605	0.07090
+1.0043	0.01855	0.07065
+Source
+Kawaizumi F.; Nakao F.; Nomura H.: Partial Molar Volumes and Compressibilities of 1-1 Type Chlorides, Bromides, Tetraphenylphosphonium Chloride, and Sodium Tetraphenylborate in Water-Acetone Mixtures. J.Chem.Eng.Data 33 (1988) 204-211
+$$$Density Data Set 65811
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	C3H6O	58.080	67-64-1	Acetone
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9537	0.00000	0.11734
+0.9679	0.00819	0.11639
+0.9736	0.011516	0.11600
+0.9799	0.015244	0.11554
+0.9915	0.02212	0.11474
+Source
+Kawaizumi F.; Nakao F.; Nomura H.: Partial Molar Volumes and Compressibilities of 1-1 Type Chlorides, Bromides, Tetraphenylphosphonium Chloride, and Sodium Tetraphenylborate in Water-Acetone Mixtures. J.Chem.Eng.Data 33 (1988) 204-211
+Source
+Kawaizumi F.; Nakao F.; Nomura H.: Partial Molar Volumes and Compressibilities of 1-1 Type Chlorides, Bromides, Tetraphenylphosphonium Chloride, and Sodium Tetraphenylborate in Water-Acetone Mixtures. J.Chem.Eng.Data 33 (1988) 204-211

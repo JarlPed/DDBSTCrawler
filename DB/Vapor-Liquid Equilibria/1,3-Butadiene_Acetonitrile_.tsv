@@ -1,66 +1,66 @@
-$$$Vapor-Liquid Equilibrium Data Set 13152	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H6	54.092	106-99-0	1,3-Butadiene	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	348.15	K	
-P [kPa]	x1 [mol/mol]	
-199.317	0.04160	
-248.380	0.05910	
-297.309	0.06910	
-297.309	0.06770	
-297.309	0.09050	
-297.309	0.09070	
-346.372	0.08840	
-346.372	0.09220	
-395.301	0.13460	
-395.301	0.14150	
-444.363	0.13680	
-444.363	0.14780	
-454.229	0.19470	
-493.293	0.19390	
-493.293	0.21520	
-542.355	0.21880	
-640.347	0.30210	
-Source	
-Jingzhou H.; Zhejiang Univ.: A Study on the Vapor-Liquid Equilibrium for the Mixture of C4 Hydrocarbon Components and Acetonitrile Containing Water. Huaxue-gongcheng  (1975) 27-54	
-$$$Vapor-Liquid Equilibrium Data Set 16509	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H6	54.092	106-99-0	1,3-Butadiene	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	323.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-34.797	0.00000	0.00000	
-109.058	0.05000	0.69610	
-171.719	0.10000	0.81600	
-269.711	0.20000	0.89300	
-337.839	0.30000	0.92150	
-389.301	0.40000	0.93730	
-429.698	0.50000	0.94810	
-460.495	0.60000	0.95600	
-488.093	0.70000	0.96330	
-514.224	0.80000	0.97100	
-539.422	0.90000	0.98000	
-571.686	1.00000	1.00000	
-Source	
-Gorshkov V.A.; Marov N.N.; Pavlov S.Yu.; Kirillova G.A.: Liquid-Vapour Equilibria in C4 Hydrocarbon-Acetonitrile Systems. Viniti  (1974) 1-9	
-$$$Vapor-Liquid Equilibrium Data Set 37806	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H6	54.092	106-99-0	1,3-Butadiene	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Pressure	506.63	kPa	
-T [K]	x1 [mol/mol]	
-418.39	0.00000	
-412.77	0.00768	
-402.69	0.02273	
-392.81	0.04201	
-382.56	0.06783	
-372.50	0.09711	
-362.83	0.13139	
-352.41	0.18183	
-342.59	0.25000	
-Source	
-Pavlov S.Y.; Gorshkov V.A.; Zaikina T.G.; Bushin A.N.; Skorikova V.V.: Separation and Purification of Butadiene via Extractive Fractionation with Acetonitrile. Soviet Chem.Ind. 2 (1970) 9-12	
-Source	
-Gorshkov V.A.; Marov N.N.; Pavlov S.Yu.; Kirillova G.A.: Liquid-Vapour Equilibria in C4 Hydrocarbon-Acetonitrile Systems. Viniti  (1974) 1-9	
-Jingzhou H.; Zhejiang Univ.: A Study on the Vapor-Liquid Equilibrium for the Mixture of C4 Hydrocarbon Components and Acetonitrile Containing Water. Huaxue-gongcheng  (1975) 27-54	
-Pavlov S.Y.; Gorshkov V.A.; Zaikina T.G.; Bushin A.N.; Skorikova V.V.: Separation and Purification of Butadiene via Extractive Fractionation with Acetonitrile. Soviet Chem.Ind. 2 (1970) 9-12	
+$$$Vapor-Liquid Equilibrium Data Set 13152
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H6	54.092	106-99-0	1,3-Butadiene
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	348.15	K
+P [kPa]	x1 [mol/mol]
+199.317	0.04160
+248.380	0.05910
+297.309	0.06910
+297.309	0.06770
+297.309	0.09050
+297.309	0.09070
+346.372	0.08840
+346.372	0.09220
+395.301	0.13460
+395.301	0.14150
+444.363	0.13680
+444.363	0.14780
+454.229	0.19470
+493.293	0.19390
+493.293	0.21520
+542.355	0.21880
+640.347	0.30210
+Source
+Jingzhou H.; Zhejiang Univ.: A Study on the Vapor-Liquid Equilibrium for the Mixture of C4 Hydrocarbon Components and Acetonitrile Containing Water. Huaxue-gongcheng  (1975) 27-54
+$$$Vapor-Liquid Equilibrium Data Set 16509
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H6	54.092	106-99-0	1,3-Butadiene
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	323.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+34.797	0.000000.00000
+109.058	0.05000	0.69610
+171.719	0.10000	0.81600
+269.711	0.20000	0.89300
+337.839	0.30000	0.92150
+389.301	0.40000	0.93730
+429.698	0.50000	0.94810
+460.495	0.60000	0.95600
+488.093	0.70000	0.96330
+514.224	0.80000	0.97100
+539.422	0.90000	0.98000
+571.686	1.000001.00000
+Source
+Gorshkov V.A.; Marov N.N.; Pavlov S.Yu.; Kirillova G.A.: Liquid-Vapour Equilibria in C4 Hydrocarbon-Acetonitrile Systems. Viniti  (1974) 1-9
+$$$Vapor-Liquid Equilibrium Data Set 37806
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H6	54.092	106-99-0	1,3-Butadiene
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Pressure	506.63	kPa
+T [K]	x1 [mol/mol]
+418.39	0.00000
+412.77	0.00768
+402.69	0.02273
+392.81	0.04201
+382.56	0.06783
+372.50	0.09711
+362.83	0.13139
+352.41	0.18183
+342.59	0.25000
+Source
+Pavlov S.Y.; Gorshkov V.A.; Zaikina T.G.; Bushin A.N.; Skorikova V.V.: Separation and Purification of Butadiene via Extractive Fractionation with Acetonitrile. Soviet Chem.Ind. 2 (1970) 9-12
+Source
+Gorshkov V.A.; Marov N.N.; Pavlov S.Yu.; Kirillova G.A.: Liquid-Vapour Equilibria in C4 Hydrocarbon-Acetonitrile Systems. Viniti  (1974) 1-9
+Jingzhou H.; Zhejiang Univ.: A Study on the Vapor-Liquid Equilibrium for the Mixture of C4 Hydrocarbon Components and Acetonitrile Containing Water. Huaxue-gongcheng  (1975) 27-54
+Pavlov S.Y.; Gorshkov V.A.; Zaikina T.G.; Bushin A.N.; Skorikova V.V.: Separation and Purification of Butadiene via Extractive Fractionation with Acetonitrile. Soviet Chem.Ind. 2 (1970) 9-12

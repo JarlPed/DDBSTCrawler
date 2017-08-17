@@ -1,25 +1,25 @@
-$$$Excess Volume Data Set 11470	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	303.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0520	0.06140	
--0.0810	0.09900	
--0.1010	0.16670	
--0.0980	0.23410	
--0.0890	0.32820	
--0.0450	0.43380	
--0.0010	0.51090	
-0.0600	0.63340	
-0.0770	0.69900	
-0.0810	0.71220	
-0.0980	0.76950	
-0.0970	0.81420	
-0.0860	0.86050	
-0.0740	0.90050	
-0.0470	0.94370	
-Source	
-Zhang H.L.; Han S.J.: Interaction Studies from Viscometric and Volumetric Behaviour of Binary Systems of Chlorinated Methanes with Normal Alkanols at 303.15 K. Phys.Chem.Liq. 31 (1996) 49-62	
-Source	
-Zhang H.L.; Han S.J.: Interaction Studies from Viscometric and Volumetric Behaviour of Binary Systems of Chlorinated Methanes with Normal Alkanols at 303.15 K. Phys.Chem.Liq. 31 (1996) 49-62	
+$$$Excess Volume Data Set 11470
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	303.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0520	0.06140
+-0.0810	0.09900
+-0.1010	0.16670
+-0.0980	0.23410
+-0.0890	0.32820
+-0.0450	0.43380
+-0.0010	0.51090
+0.0600	0.63340
+0.0770	0.69900
+0.0810	0.71220
+0.0980	0.76950
+0.0970	0.81420
+0.0860	0.86050
+0.0740	0.90050
+0.0470	0.94370
+Source
+Zhang H.L.; Han S.J.: Interaction Studies from Viscometric and Volumetric Behaviour of Binary Systems of Chlorinated Methanes with Normal Alkanols at 303.15 K. Phys.Chem.Liq. 31 (1996) 49-62
+Source
+Zhang H.L.; Han S.J.: Interaction Studies from Viscometric and Volumetric Behaviour of Binary Systems of Chlorinated Methanes with Normal Alkanols at 303.15 K. Phys.Chem.Liq. 31 (1996) 49-62

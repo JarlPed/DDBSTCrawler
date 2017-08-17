@@ -1,17 +1,17 @@
-$$$Enthalpy of Mixing Data Set 21901	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-471.000	0.02580	
-477.000	0.02580	
-771.000	0.04470	
-768.000	0.04470	
-760.000	0.04470	
-943.000	0.08410	
-945.000	0.08410	
-Source	
-Zdanovskii A.B.; Deryabina L.D.: I. The systems NaCl - MgCl2 - H2O, NaCl - KCl - H2O, CaCl2 - MgCl2 - H2O at 25°C. Zh.Fiz.Khim. 39 (1965) 678-683	
-Source	
-Zdanovskii A.B.; Deryabina L.D.: I. The systems NaCl - MgCl2 - H2O, NaCl - KCl - H2O, CaCl2 - MgCl2 - H2O at 25°C. Zh.Fiz.Khim. 39 (1965) 678-683	
+$$$Enthalpy of Mixing Data Set 21901
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+471.000	0.02580
+477.000	0.02580
+771.000	0.04470
+768.000	0.04470
+760.000	0.04470
+943.000	0.08410
+945.000	0.08410
+Source
+Zdanovskii A.B.; Deryabina L.D.: I. The systems NaCl - MgCl2 - H2O, NaCl - KCl - H2O, CaCl2 - MgCl2 - H2O at 25°C. Zh.Fiz.Khim. 39 (1965) 678-683
+Source
+Zdanovskii A.B.; Deryabina L.D.: I. The systems NaCl - MgCl2 - H2O, NaCl - KCl - H2O, CaCl2 - MgCl2 - H2O at 25°C. Zh.Fiz.Khim. 39 (1965) 678-683

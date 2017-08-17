@@ -1,55 +1,55 @@
-$$$Vapor-Liquid Equilibrium Data Set 2051	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	343.15	K	
-P [kPa]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
-94.766	0.30200	0.46400	0.43300	0.38800	
-77.034	0.03500	0.92300	0.08700	0.86300	
-71.781	0.01200	0.56200	0.05500	0.66200	
-88.633	0.16200	0.48200	0.32600	0.42600	
-99.032	0.73800	0.24600	0.69400	0.25600	
-93.619	0.16300	0.19000	0.50300	0.18600	
-76.260	0.03400	0.23100	0.26000	0.39600	
-96.325	0.79800	0.12600	0.71300	0.16200	
-92.779	0.30400	0.65700	0.41200	0.56000	
-Source	
-Mertl I.: II. Phase Equilibria in the Ternary System Ethyl Acetate-Ethanol-Water. Collect.Czech.Chem.Commun. 37 (1972) 366-374	
-$$$Vapor-Liquid Equilibrium Data Set 2052	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	328.15	K	
-P [kPa]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
-51.356	0.27400	0.51200	0.44100	0.38700	
-39.370	0.02000	0.93900	0.07300	0.91000	
-36.957	0.01000	0.60500	0.03700	0.69300	
-35.690	0.15600	0.44600	0.39400	0.39000	
-55.515	0.67300	0.21000	0.65500	0.21400	
-51.289	0.13700	0.21300	0.50500	0.22600	
-39.370	0.02400	0.22300	0.25400	0.40700	
-23.651	0.00130	0.05700	0.01430	0.35100	
-53.969	0.84900	0.09100	0.76700	0.12800	
-49.983	0.34400	0.60300	0.46100	0.48000	
-Source	
-Mertl I.: II. Phase Equilibria in the Ternary System Ethyl Acetate-Ethanol-Water. Collect.Czech.Chem.Commun. 37 (1972) 366-374	
-$$$Vapor-Liquid Equilibrium Data Set 2053	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	313.15	K	
-P [kPa]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
-25.958	0.21100	0.50800	0.44800	0.38100	
-21.532	0.00320	0.61800	0.03400	0.73100	
-24.785	0.15200	0.46800	0.41400	0.38000	
-29.278	0.70000	0.19900	0.68900	0.20100	
-26.371	0.10300	0.20000	0.50100	0.22900	
-18.972	0.01900	0.20600	0.21700	0.40000	
-28.664	0.88000	0.07400	0.78900	0.10100	
-26.758	0.30700	0.61400	0.48800	0.44900	
-Source	
-Mertl I.: II. Phase Equilibria in the Ternary System Ethyl Acetate-Ethanol-Water. Collect.Czech.Chem.Commun. 37 (1972) 366-374	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 2051
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	343.15	K
+P [kPa]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]
+94.766	0.30200	0.46400	0.43300	0.38800
+77.034	0.03500	0.92300	0.08700	0.86300
+71.781	0.01200	0.56200	0.05500	0.66200
+88.633	0.16200	0.48200	0.32600	0.42600
+99.032	0.73800	0.24600	0.69400	0.25600
+93.619	0.16300	0.19000	0.50300	0.18600
+76.260	0.03400	0.23100	0.26000	0.39600
+96.325	0.79800	0.12600	0.71300	0.16200
+92.779	0.30400	0.65700	0.41200	0.56000
+Source
+Mertl I.: II. Phase Equilibria in the Ternary System Ethyl Acetate-Ethanol-Water. Collect.Czech.Chem.Commun. 37 (1972) 366-374
+$$$Vapor-Liquid Equilibrium Data Set 2052
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	328.15	K
+P [kPa]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]
+51.356	0.27400	0.51200	0.44100	0.38700
+39.370	0.02000	0.93900	0.07300	0.91000
+36.957	0.01000	0.60500	0.03700	0.69300
+35.690	0.15600	0.44600	0.39400	0.39000
+55.515	0.67300	0.21000	0.65500	0.21400
+51.289	0.13700	0.21300	0.50500	0.22600
+39.370	0.02400	0.22300	0.25400	0.40700
+23.651	0.00130	0.05700	0.01430	0.35100
+53.969	0.84900	0.09100	0.76700	0.12800
+49.983	0.34400	0.60300	0.46100	0.48000
+Source
+Mertl I.: II. Phase Equilibria in the Ternary System Ethyl Acetate-Ethanol-Water. Collect.Czech.Chem.Commun. 37 (1972) 366-374
+$$$Vapor-Liquid Equilibrium Data Set 2053
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	313.15	K
+P [kPa]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]
+25.958	0.21100	0.50800	0.44800	0.38100
+21.532	0.00320	0.61800	0.03400	0.73100
+24.785	0.15200	0.46800	0.41400	0.38000
+29.278	0.70000	0.19900	0.68900	0.20100
+26.371	0.10300	0.20000	0.50100	0.22900
+18.972	0.01900	0.20600	0.21700	0.40000
+28.664	0.88000	0.07400	0.78900	0.10100
+26.758	0.30700	0.61400	0.48800	0.44900
+Source
+Mertl I.: II. Phase Equilibria in the Ternary System Ethyl Acetate-Ethanol-Water. Collect.Czech.Chem.Commun. 37 (1972) 366-374
+Source

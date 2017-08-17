@@ -1,64 +1,64 @@
-$$$Solid-Liquid Equilibrium Data Set 19915	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	N2	28.013	7727-37-9	Nitrogen	
-3	CH4	16.043	74-82-8	Methane	
-T [K]	P [bar]	y1 [mol/mol]	y2 [mol/mol]	
-173.90	12.437	0.01940	0.97060	
-174.40	13.04	0.01940	0.97060	
-174.50	13.405	0.01940	0.97060	
-176.60	15.908	0.01940	0.97060	
-176.70	16.064	0.01940	0.97060	
-177.20	16.49	0.01940	0.97060	
-178.00	18.692	0.01940	0.97060	
-178.00	18.605	0.01940	0.97060	
-178.60	18.41	0.01940	0.97060	
-182.40	22.107	0.01940	0.97060	
-183.00	22.12	0.01940	0.97060	
-183.10	22.39	0.01940	0.97060	
-Source	
-Le T.T.; Trebble M.A.: Measurement of Carbon Dioxide Freezing in Mixtures of Methane, Ethane, and Nitrogen in the Solid-Vapor Equilibrium Region. J.Chem.Eng.Data 52 (2007) 683-686	
-$$$Solid-Liquid Equilibrium Data Set 19916	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	N2	28.013	7727-37-9	Nitrogen	
-3	CH4	16.043	74-82-8	Methane	
-T [K]	P [bar]	y1 [mol/mol]	y2 [mol/mol]	
-174.40	13.207	0.01940	0.96110	
-174.50	13.154	0.01940	0.96110	
-175.00	13.31	0.01940	0.96110	
-178.30	16.908	0.01940	0.96110	
-178.40	16.67	0.01940	0.96110	
-178.70	16.36	0.01940	0.96110	
-179.40	18.38	0.01940	0.96110	
-179.60	18.526	0.01940	0.96110	
-179.70	18.744	0.01940	0.96110	
-183.40	22.36	0.01940	0.96110	
-183.50	22.615	0.01940	0.96110	
-183.50	22.53	0.01940	0.96110	
-Source	
-Le T.T.; Trebble M.A.: Measurement of Carbon Dioxide Freezing in Mixtures of Methane, Ethane, and Nitrogen in the Solid-Vapor Equilibrium Region. J.Chem.Eng.Data 52 (2007) 683-686	
-$$$Solid-Liquid Equilibrium Data Set 27087	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	CH4	16.043	74-82-8	Methane	
-3	N2	28.013	7727-37-9	Nitrogen	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-95.00	2.803999996E-5	0.84708	
-95.00	4.120000085E-5	0.73397	
-95.00	4.527000056E-5	0.37028	
-95.00	2.716000017E-5	0.13700	
-95.00	1.859999975E-5	0.00000	
-110.00	9.404999582E-5	0.99991	
-110.00	0.0001696700056	0.86485	
-110.00	0.0001914000022	0.75086	
-110.00	0.0002068500035	0.38642	
-110.00	0.0001304799953	0.15398	
-110.00	9.310000314E-5	0.00000	
-120.00	0.0002606399939	0.99974	
-120.00	0.0004368000082	0.87862	
-120.00	0.0005945999874	0.39676	
-120.00	0.0003963999916	0.17393	
-120.00	0.0002053000062	0.00000	
-Source	
-Yun S.: Experimental and Thermodynamical Studies of the Phase Equilibria for Carbon Dioxide in Liquefied Natural Gas Components at 77 - 219 K. Thesis  (1988)	
+$$$Solid-Liquid Equilibrium Data Set 19915
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	N2	28.013	7727-37-9	Nitrogen
+3	CH4	16.043	74-82-8	Methane
+T [K]	P [bar]	y1 [mol/mol]	y2 [mol/mol]
+173.90	12.437	0.01940	0.97060
+174.40	13.04	0.01940	0.97060
+174.50	13.405	0.01940	0.97060
+176.60	15.908	0.01940	0.97060
+176.70	16.064	0.01940	0.97060
+177.20	16.49	0.01940	0.97060
+178.00	18.692	0.01940	0.97060
+178.00	18.605	0.01940	0.97060
+178.60	18.41	0.01940	0.97060
+182.40	22.107	0.01940	0.97060
+183.00	22.12	0.01940	0.97060
+183.10	22.39	0.01940	0.97060
+Source
+Le T.T.; Trebble M.A.: Measurement of Carbon Dioxide Freezing in Mixtures of Methane, Ethane, and Nitrogen in the Solid-Vapor Equilibrium Region. J.Chem.Eng.Data 52 (2007) 683-686
+$$$Solid-Liquid Equilibrium Data Set 19916
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	N2	28.013	7727-37-9	Nitrogen
+3	CH4	16.043	74-82-8	Methane
+T [K]	P [bar]	y1 [mol/mol]	y2 [mol/mol]
+174.40	13.207	0.01940	0.96110
+174.50	13.154	0.01940	0.96110
+175.00	13.31	0.01940	0.96110
+178.30	16.908	0.01940	0.96110
+178.40	16.67	0.01940	0.96110
+178.70	16.36	0.01940	0.96110
+179.40	18.38	0.01940	0.96110
+179.60	18.526	0.01940	0.96110
+179.70	18.744	0.01940	0.96110
+183.40	22.36	0.01940	0.96110
+183.50	22.615	0.01940	0.96110
+183.50	22.53	0.01940	0.96110
+Source
+Le T.T.; Trebble M.A.: Measurement of Carbon Dioxide Freezing in Mixtures of Methane, Ethane, and Nitrogen in the Solid-Vapor Equilibrium Region. J.Chem.Eng.Data 52 (2007) 683-686
+$$$Solid-Liquid Equilibrium Data Set 27087
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	CH4	16.043	74-82-8	Methane
+3	N2	28.013	7727-37-9	Nitrogen
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+95.00	2.803999996E-5	0.84708
+95.00	4.120000085E-5	0.73397
+95.00	4.527000056E-5	0.37028
+95.00	2.716000017E-5	0.13700
+95.00	1.859999975E-5	0.00000
+110.00	9.404999582E-5	0.99991
+110.00	0.0001696700056	0.86485
+110.00	0.0001914000022	0.75086
+110.00	0.0002068500035	0.38642
+110.00	0.0001304799953	0.15398
+110.00	9.310000314E-5	0.00000
+120.00	0.0002606399939	0.99974
+120.00	0.0004368000082	0.87862
+120.00	0.0005945999874	0.39676
+120.00	0.0003963999916	0.17393
+120.00	0.0002053000062	0.00000
+Source
+Yun S.: Experimental and Thermodynamical Studies of the Phase Equilibria for Carbon Dioxide in Liquefied Natural Gas Components at 77 - 219 K. Thesis  (1988)

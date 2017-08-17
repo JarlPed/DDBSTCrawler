@@ -1,61 +1,61 @@
-$$$Vapor-Liquid Equilibrium Data Set 1639	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-30.919	0.20770	0.61840	
-32.383	0.28680	0.64520	
-33.220	0.35200	0.66090	
-33.739	0.41580	0.67370	
-34.181	0.48470	0.68670	
-34.552	0.56540	0.70250	
-34.765	0.63110	0.71560	
-34.874	0.68090	0.72720	
-34.944	0.73160	0.74030	
-34.832	0.79900	0.76810	
-34.526	0.86100	0.79760	
-33.795	0.92090	0.85360	
-Source	
-Puri P.S.; Polak J.; Ruether J.A.: Vapor-Liquid Equilibria of Acetone-Cyclohexane and Acetone-Isopropanol Systems at 25°C. J.Chem.Eng.Data 19 (1974) 87-89	
-$$$Vapor-Liquid Equilibrium Data Set 3849	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	308.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-19.625	0.00000	0.00000	
-37.877	0.09800	0.48200	
-45.476	0.19800	0.60100	
-47.969	0.28300	0.63500	
-49.489	0.38700	0.66500	
-50.316	0.48900	0.68600	
-50.969	0.59800	0.70900	
-51.302	0.70000	0.73200	
-51.409	0.77100	0.75400	
-50.196	0.89500	0.84100	
-45.863	1.00000	1.00000	
-Source	
-Marinichev A.N.; Susarev M.P.: A Study of Liquid-Vapor Equilibrium in the Acetone-Methonal and Acetone-Cyclohexane Systems at Temperatures of 35,45 and 55° and a Presure of 760 mm Hg. J.Appl.Chem.USSR 38 (1965) 371-375	
-$$$Vapor-Liquid Equilibrium Data Set 3850	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	318.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-29.464	0.00000	0.00000	
-53.236	0.09400	0.45800	
-65.088	0.19700	0.58700	
-69.168	0.28100	0.62900	
-71.607	0.38400	0.65800	
-72.901	0.49100	0.68000	
-74.154	0.59800	0.70400	
-75.087	0.70000	0.73400	
-74.781	0.77100	0.75900	
-73.181	0.89500	0.85100	
-67.461	1.00000	1.00000	
-Source	
-Marinichev A.N.; Susarev M.P.: A Study of Liquid-Vapor Equilibrium in the Acetone-Methonal and Acetone-Cyclohexane Systems at Temperatures of 35,45 and 55° and a Presure of 760 mm Hg. J.Appl.Chem.USSR 38 (1965) 371-375	
-Source	
-Marinichev A.N.; Susarev M.P.: A Study of Liquid-Vapor Equilibrium in the Acetone-Methonal and Acetone-Cyclohexane Systems at Temperatures of 35,45 and 55° and a Presure of 760 mm Hg. J.Appl.Chem.USSR 38 (1965) 371-375	
-Puri P.S.; Polak J.; Ruether J.A.: Vapor-Liquid Equilibria of Acetone-Cyclohexane and Acetone-Isopropanol Systems at 25°C. J.Chem.Eng.Data 19 (1974) 87-89	
+$$$Vapor-Liquid Equilibrium Data Set 1639
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+30.919	0.20770	0.61840
+32.383	0.28680	0.64520
+33.220	0.35200	0.66090
+33.739	0.41580	0.67370
+34.181	0.48470	0.68670
+34.552	0.56540	0.70250
+34.765	0.63110	0.71560
+34.874	0.68090	0.72720
+34.944	0.73160	0.74030
+34.832	0.79900	0.76810
+34.526	0.86100	0.79760
+33.795	0.92090	0.85360
+Source
+Puri P.S.; Polak J.; Ruether J.A.: Vapor-Liquid Equilibria of Acetone-Cyclohexane and Acetone-Isopropanol Systems at 25°C. J.Chem.Eng.Data 19 (1974) 87-89
+$$$Vapor-Liquid Equilibrium Data Set 3849
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	308.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+19.625	0.000000.00000
+37.877	0.09800	0.48200
+45.476	0.19800	0.60100
+47.969	0.28300	0.63500
+49.489	0.38700	0.66500
+50.316	0.48900	0.68600
+50.969	0.59800	0.70900
+51.302	0.70000	0.73200
+51.409	0.77100	0.75400
+50.196	0.89500	0.84100
+45.863	1.000001.00000
+Source
+Marinichev A.N.; Susarev M.P.: A Study of Liquid-Vapor Equilibrium in the Acetone-Methonal and Acetone-Cyclohexane Systems at Temperatures of 35,45 and 55° and a Presure of 760 mm Hg. J.Appl.Chem.USSR 38 (1965) 371-375
+$$$Vapor-Liquid Equilibrium Data Set 3850
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	318.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+29.464	0.000000.00000
+53.236	0.09400	0.45800
+65.088	0.19700	0.58700
+69.168	0.28100	0.62900
+71.607	0.38400	0.65800
+72.901	0.49100	0.68000
+74.154	0.59800	0.70400
+75.087	0.70000	0.73400
+74.781	0.77100	0.75900
+73.181	0.89500	0.85100
+67.461	1.000001.00000
+Source
+Marinichev A.N.; Susarev M.P.: A Study of Liquid-Vapor Equilibrium in the Acetone-Methonal and Acetone-Cyclohexane Systems at Temperatures of 35,45 and 55° and a Presure of 760 mm Hg. J.Appl.Chem.USSR 38 (1965) 371-375
+Source
+Marinichev A.N.; Susarev M.P.: A Study of Liquid-Vapor Equilibrium in the Acetone-Methonal and Acetone-Cyclohexane Systems at Temperatures of 35,45 and 55° and a Presure of 760 mm Hg. J.Appl.Chem.USSR 38 (1965) 371-375
+Puri P.S.; Polak J.; Ruether J.A.: Vapor-Liquid Equilibria of Acetone-Cyclohexane and Acetone-Isopropanol Systems at 25°C. J.Chem.Eng.Data 19 (1974) 87-89

@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-347.60	129.90	EBUL	1	
-352.60	98.870	EBUL	1	
-354.60	90.000	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-1	Mukhopadhyay M.; Pathak A.S.: L-L-E Data for Aromatics Extraction Calculations Using a Modified UNIFAC Model. Ind.Eng.Chem. Process Des.Dev. 25 (1986) 733-736	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+347.60	129.90	EBUL	1
+352.60	98.870	EBUL	1
+354.60	90.000	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+1	Mukhopadhyay M.; Pathak A.S.: L-L-E Data for Aromatics Extraction Calculations Using a Modified UNIFAC Model. Ind.Eng.Chem. Process Des.Dev. 25 (1986) 733-736

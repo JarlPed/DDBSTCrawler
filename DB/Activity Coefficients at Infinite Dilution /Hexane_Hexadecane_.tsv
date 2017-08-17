@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-303.15	0.9100	GLCR	1	
-303.15	0.9120	GLCR	1	
-303.15	0.9080	GLCR	1	
-Short Term	Explanation	
-GLCR	GLC (with gas phase correction)	
-1	Young C.L.: The Thermodynamics of Mixtures from Gas-Liquid Chromatography. Thesis  (1967)	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+303.15	0.9100	GLCR	1
+303.15	0.9120	GLCR	1
+303.15	0.9080	GLCR	1
+Short Term	Explanation
+GLCR	GLC (with gas phase correction)
+1	Young C.L.: The Thermodynamics of Mixtures from Gas-Liquid Chromatography. Thesis  (1967)

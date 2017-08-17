@@ -1,62 +1,62 @@
-$$$Vapor-Liquid Equilibrium Data Set 29411	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2S	120.172	126-33-0	Sulfolane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Pressure	79.99	kPa	
-T [K]	x1 [mol/mol]	
-347.65	0.00000	
-346.85	0.00073	
-346.35	0.00118	
-346.05	0.00137	
-345.55	0.00189	
-344.85	0.00234	
-496.25	0.98712	
-509.75	0.99030	
-521.25	0.99350	
-526.75	0.99478	
-532.25	0.99650	
-546.25	1.00000	
-Source	
-Mukhopadhyay M.; Pathak A.S.: Infinite-Dilution Activity Coefficients from Ebulliometric Isobaric Bubble Point-Composition Data of Hydrocarbon-Sulfolane Systems. J.Chem.Eng.Data 31 (1986) 148-152	
-$$$Vapor-Liquid Equilibrium Data Set 29412	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2S	120.172	126-33-0	Sulfolane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Pressure	93.33	kPa	
-T [K]	x1 [mol/mol]	
-352.65	0.00000	
-351.95	0.00073	
-351.45	0.00118	
-351.25	0.00137	
-350.75	0.00189	
-350.15	0.00234	
-510.25	0.98712	
-521.25	0.99030	
-531.25	0.99350	
-536.25	0.99478	
-541.25	0.99650	
-552.75	1.00000	
-Source	
-Mukhopadhyay M.; Pathak A.S.: Infinite-Dilution Activity Coefficients from Ebulliometric Isobaric Bubble Point-Composition Data of Hydrocarbon-Sulfolane Systems. J.Chem.Eng.Data 31 (1986) 148-152	
-$$$Vapor-Liquid Equilibrium Data Set 29413	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2S	120.172	126-33-0	Sulfolane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Pressure	99.99	kPa	
-T [K]	x1 [mol/mol]	
-354.65	0.00000	
-353.95	0.00073	
-353.55	0.00118	
-353.35	0.00137	
-352.85	0.00189	
-352.05	0.00234	
-517.65	0.98712	
-528.15	0.99030	
-537.15	0.99350	
-540.75	0.99478	
-545.15	0.99650	
-555.65	1.00000	
-Source	
-Mukhopadhyay M.; Pathak A.S.: Infinite-Dilution Activity Coefficients from Ebulliometric Isobaric Bubble Point-Composition Data of Hydrocarbon-Sulfolane Systems. J.Chem.Eng.Data 31 (1986) 148-152	
-Source	
-Mukhopadhyay M.; Pathak A.S.: Infinite-Dilution Activity Coefficients from Ebulliometric Isobaric Bubble Point-Composition Data of Hydrocarbon-Sulfolane Systems. J.Chem.Eng.Data 31 (1986) 148-152	
+$$$Vapor-Liquid Equilibrium Data Set 29411
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2S	120.172	126-33-0	Sulfolane
+2	C6H12	84.161	110-82-7	Cyclohexane
+Pressure	79.99	kPa
+T [K]	x1 [mol/mol]
+347.65	0.00000
+346.85	0.00073
+346.35	0.00118
+346.05	0.00137
+345.55	0.00189
+344.85	0.00234
+496.25	0.98712
+509.75	0.99030
+521.25	0.99350
+526.75	0.99478
+532.25	0.99650
+546.25	1.00000
+Source
+Mukhopadhyay M.; Pathak A.S.: Infinite-Dilution Activity Coefficients from Ebulliometric Isobaric Bubble Point-Composition Data of Hydrocarbon-Sulfolane Systems. J.Chem.Eng.Data 31 (1986) 148-152
+$$$Vapor-Liquid Equilibrium Data Set 29412
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2S	120.172	126-33-0	Sulfolane
+2	C6H12	84.161	110-82-7	Cyclohexane
+Pressure	93.33	kPa
+T [K]	x1 [mol/mol]
+352.65	0.00000
+351.95	0.00073
+351.45	0.00118
+351.25	0.00137
+350.75	0.00189
+350.15	0.00234
+510.25	0.98712
+521.25	0.99030
+531.25	0.99350
+536.25	0.99478
+541.25	0.99650
+552.75	1.00000
+Source
+Mukhopadhyay M.; Pathak A.S.: Infinite-Dilution Activity Coefficients from Ebulliometric Isobaric Bubble Point-Composition Data of Hydrocarbon-Sulfolane Systems. J.Chem.Eng.Data 31 (1986) 148-152
+$$$Vapor-Liquid Equilibrium Data Set 29413
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2S	120.172	126-33-0	Sulfolane
+2	C6H12	84.161	110-82-7	Cyclohexane
+Pressure	99.99	kPa
+T [K]	x1 [mol/mol]
+354.65	0.00000
+353.95	0.00073
+353.55	0.00118
+353.35	0.00137
+352.85	0.00189
+352.05	0.00234
+517.65	0.98712
+528.15	0.99030
+537.15	0.99350
+540.75	0.99478
+545.15	0.99650
+555.65	1.00000
+Source
+Mukhopadhyay M.; Pathak A.S.: Infinite-Dilution Activity Coefficients from Ebulliometric Isobaric Bubble Point-Composition Data of Hydrocarbon-Sulfolane Systems. J.Chem.Eng.Data 31 (1986) 148-152
+Source
+Mukhopadhyay M.; Pathak A.S.: Infinite-Dilution Activity Coefficients from Ebulliometric Isobaric Bubble Point-Composition Data of Hydrocarbon-Sulfolane Systems. J.Chem.Eng.Data 31 (1986) 148-152

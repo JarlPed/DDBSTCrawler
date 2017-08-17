@@ -1,20 +1,20 @@
-$$$Excess Volume Data Set 41773	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C3H6O	58.080	67-64-1	Acetone	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0080	0.08580	
--0.0090	0.13730	
--0.0190	0.22060	
--0.0260	0.28380	
--0.0320	0.39370	
--0.0330	0.46930	
--0.0410	0.55930	
--0.0430	0.64880	
--0.0290	0.78870	
--0.0170	0.89180	
-Source	
-Suri S.K.; Chawla B.: Molar Excess Volumes of Mixing of Tetrahydrofuran with Some Aliphatic Compounds Having Different Functional Groups. J.Chem.Eng.Data 26 (1981) 268-270	
-Source	
-Suri S.K.; Chawla B.: Molar Excess Volumes of Mixing of Tetrahydrofuran with Some Aliphatic Compounds Having Different Functional Groups. J.Chem.Eng.Data 26 (1981) 268-270	
+$$$Excess Volume Data Set 41773
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C3H6O	58.080	67-64-1	Acetone
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0080	0.08580
+-0.0090	0.13730
+-0.0190	0.22060
+-0.0260	0.28380
+-0.0320	0.39370
+-0.0330	0.46930
+-0.0410	0.55930
+-0.0430	0.64880
+-0.0290	0.78870
+-0.0170	0.89180
+Source
+Suri S.K.; Chawla B.: Molar Excess Volumes of Mixing of Tetrahydrofuran with Some Aliphatic Compounds Having Different Functional Groups. J.Chem.Eng.Data 26 (1981) 268-270
+Source
+Suri S.K.; Chawla B.: Molar Excess Volumes of Mixing of Tetrahydrofuran with Some Aliphatic Compounds Having Different Functional Groups. J.Chem.Eng.Data 26 (1981) 268-270

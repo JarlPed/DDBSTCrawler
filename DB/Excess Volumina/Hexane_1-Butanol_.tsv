@@ -1,80 +1,80 @@
-$$$Excess Volume Data Set 2380	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	283.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0187	0.05011	
--0.0309	0.09959	
--0.0378	0.15050	
--0.0407	0.20097	
--0.0387	0.24847	
--0.0323	0.30040	
--0.0218	0.34861	
--0.0085	0.39858	
-0.0072	0.44985	
-0.0245	0.49938	
-0.0620	0.59938	
-0.0937	0.69860	
-0.1023	0.74886	
-0.1066	0.79917	
-0.1007	0.84895	
-0.0884	0.90179	
-0.0729	0.93825	
-0.0447	0.97916	
-Source	
-Heintz A.; Schmittecker B.; Wagner D.; Lichtenthaler R.N.: Excess Volumes of Binary 1-Alkanol/Hexane Mixtures at Temperatures between 283.15 and 323.15 K. J.Chem.Eng.Data 31 (1986) 487-492	
-$$$Excess Volume Data Set 2381	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0242	0.05015	
--0.0379	0.09967	
--0.0473	0.15058	
--0.0479	0.20107	
--0.0458	0.24857	
--0.0343	0.30052	
--0.0218	0.34872	
--0.0014	0.39870	
-0.0184	0.44996	
-0.0431	0.49949	
-0.0919	0.59947	
-0.1282	0.69866	
-0.1360	0.74892	
-0.1422	0.79921	
-0.1344	0.84898	
-0.1231	0.90181	
-0.1032	0.93826	
-0.0662	0.97916	
-Source	
-Heintz A.; Schmittecker B.; Wagner D.; Lichtenthaler R.N.: Excess Volumes of Binary 1-Alkanol/Hexane Mixtures at Temperatures between 283.15 and 323.15 K. J.Chem.Eng.Data 31 (1986) 487-492	
-$$$Excess Volume Data Set 2382	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	313.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0293	0.05013	
--0.0459	0.09963	
--0.0544	0.15054	
--0.0539	0.20102	
--0.0470	0.24852	
--0.0312	0.30047	
--0.0103	0.34866	
-0.0147	0.39865	
-0.0427	0.44991	
-0.0752	0.49944	
-0.1331	0.59943	
-0.1761	0.69863	
-0.1856	0.74889	
-0.1953	0.79919	
-0.1911	0.84896	
-0.1751	0.90180	
-0.1523	0.93826	
-0.0973	0.97916	
-Source	
-Heintz A.; Schmittecker B.; Wagner D.; Lichtenthaler R.N.: Excess Volumes of Binary 1-Alkanol/Hexane Mixtures at Temperatures between 283.15 and 323.15 K. J.Chem.Eng.Data 31 (1986) 487-492	
-Source	
-Heintz A.; Schmittecker B.; Wagner D.; Lichtenthaler R.N.: Excess Volumes of Binary 1-Alkanol/Hexane Mixtures at Temperatures between 283.15 and 323.15 K. J.Chem.Eng.Data 31 (1986) 487-492	
+$$$Excess Volume Data Set 2380
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	283.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0187	0.05011
+-0.0309	0.09959
+-0.0378	0.15050
+-0.0407	0.20097
+-0.0387	0.24847
+-0.0323	0.30040
+-0.0218	0.34861
+-0.0085	0.39858
+0.0072	0.44985
+0.0245	0.49938
+0.0620	0.59938
+0.0937	0.69860
+0.1023	0.74886
+0.1066	0.79917
+0.1007	0.84895
+0.0884	0.90179
+0.0729	0.93825
+0.0447	0.97916
+Source
+Heintz A.; Schmittecker B.; Wagner D.; Lichtenthaler R.N.: Excess Volumes of Binary 1-Alkanol/Hexane Mixtures at Temperatures between 283.15 and 323.15 K. J.Chem.Eng.Data 31 (1986) 487-492
+$$$Excess Volume Data Set 2381
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0242	0.05015
+-0.0379	0.09967
+-0.0473	0.15058
+-0.0479	0.20107
+-0.0458	0.24857
+-0.0343	0.30052
+-0.0218	0.34872
+-0.0014	0.39870
+0.0184	0.44996
+0.0431	0.49949
+0.0919	0.59947
+0.1282	0.69866
+0.1360	0.74892
+0.1422	0.79921
+0.1344	0.84898
+0.1231	0.90181
+0.1032	0.93826
+0.0662	0.97916
+Source
+Heintz A.; Schmittecker B.; Wagner D.; Lichtenthaler R.N.: Excess Volumes of Binary 1-Alkanol/Hexane Mixtures at Temperatures between 283.15 and 323.15 K. J.Chem.Eng.Data 31 (1986) 487-492
+$$$Excess Volume Data Set 2382
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	313.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0293	0.05013
+-0.0459	0.09963
+-0.0544	0.15054
+-0.0539	0.20102
+-0.0470	0.24852
+-0.0312	0.30047
+-0.0103	0.34866
+0.0147	0.39865
+0.0427	0.44991
+0.0752	0.49944
+0.1331	0.59943
+0.1761	0.69863
+0.1856	0.74889
+0.1953	0.79919
+0.1911	0.84896
+0.1751	0.90180
+0.1523	0.93826
+0.0973	0.97916
+Source
+Heintz A.; Schmittecker B.; Wagner D.; Lichtenthaler R.N.: Excess Volumes of Binary 1-Alkanol/Hexane Mixtures at Temperatures between 283.15 and 323.15 K. J.Chem.Eng.Data 31 (1986) 487-492
+Source
+Heintz A.; Schmittecker B.; Wagner D.; Lichtenthaler R.N.: Excess Volumes of Binary 1-Alkanol/Hexane Mixtures at Temperatures between 283.15 and 323.15 K. J.Chem.Eng.Data 31 (1986) 487-492

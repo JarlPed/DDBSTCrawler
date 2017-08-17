@@ -1,56 +1,56 @@
-$$$Excess Volume Data Set 242	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	303.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.2243	0.05860	
-0.5321	0.14460	
-0.8108	0.21900	
-1.0424	0.32890	
-1.1367	0.42790	
-1.1475	0.53350	
-1.0704	0.62190	
-0.9005	0.72870	
-0.6395	0.84540	
-0.2160	0.95350	
-Source	
-Awwad A.M.; Jabra K.A.; Al-Dujaili A.H.: Excess molar volumes of ethylacetate+hydrocarbons at 303.15 K: an interpretation in terms of the Prigogine-Flory-Patterson theory.. Fluid Phase Equilib. 47 (1989) 95-102	
-$$$Excess Volume Data Set 4309	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.5740	0.10936	
-0.9231	0.21647	
-1.1122	0.32140	
-1.1896	0.42421	
-1.1880	0.52496	
-1.0884	0.62373	
-0.8983	0.72056	
-0.6483	0.81551	
-0.3548	0.90864	
-Source	
-Aminabhavi T.M.; Patel R.C.; Bridger K.; Jayadevappa E.S.; Prasad B.R.: Viscosity Studies of Some Binary Liquid Systems. J.Chem.Eng.Data 27 (1982) 125-128	
-$$$Excess Volume Data Set 4372	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.5767	0.10933	
-0.9152	0.21641	
-1.0994	0.32132	
-1.1864	0.42412	
-1.1738	0.52487	
-1.0725	0.62364	
-0.8904	0.72049	
-0.6478	0.81546	
-0.3422	0.90861	
-Source	
-Aminabhavi T.M.: Predicting Refractive Index and Density Increments of Binary Solvent Mixtures. J.Chem.Eng.Data 32 (1987) 406-409	
-Source	
-Awwad A.M.; Jabra K.A.; Al-Dujaili A.H.: Excess molar volumes of ethylacetate+hydrocarbons at 303.15 K: an interpretation in terms of the Prigogine-Flory-Patterson theory.. Fluid Phase Equilib. 47 (1989) 95-102	
-Aminabhavi T.M.; Patel R.C.; Bridger K.; Jayadevappa E.S.; Prasad B.R.: Viscosity Studies of Some Binary Liquid Systems. J.Chem.Eng.Data 27 (1982) 125-128	
-Aminabhavi T.M.: Predicting Refractive Index and Density Increments of Binary Solvent Mixtures. J.Chem.Eng.Data 32 (1987) 406-409	
+$$$Excess Volume Data Set 242
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	303.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.2243	0.05860
+0.5321	0.14460
+0.8108	0.21900
+1.0424	0.32890
+1.1367	0.42790
+1.1475	0.53350
+1.0704	0.62190
+0.9005	0.72870
+0.6395	0.84540
+0.2160	0.95350
+Source
+Awwad A.M.; Jabra K.A.; Al-Dujaili A.H.: Excess molar volumes of ethylacetate+hydrocarbons at 303.15 K: an interpretation in terms of the Prigogine-Flory-Patterson theory.. Fluid Phase Equilib. 47 (1989) 95-102
+$$$Excess Volume Data Set 4309
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.5740	0.10936
+0.9231	0.21647
+1.1122	0.32140
+1.1896	0.42421
+1.1880	0.52496
+1.0884	0.62373
+0.8983	0.72056
+0.6483	0.81551
+0.3548	0.90864
+Source
+Aminabhavi T.M.; Patel R.C.; Bridger K.; Jayadevappa E.S.; Prasad B.R.: Viscosity Studies of Some Binary Liquid Systems. J.Chem.Eng.Data 27 (1982) 125-128
+$$$Excess Volume Data Set 4372
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.5767	0.10933
+0.9152	0.21641
+1.0994	0.32132
+1.1864	0.42412
+1.1738	0.52487
+1.0725	0.62364
+0.8904	0.72049
+0.6478	0.81546
+0.3422	0.90861
+Source
+Aminabhavi T.M.: Predicting Refractive Index and Density Increments of Binary Solvent Mixtures. J.Chem.Eng.Data 32 (1987) 406-409
+Source
+Awwad A.M.; Jabra K.A.; Al-Dujaili A.H.: Excess molar volumes of ethylacetate+hydrocarbons at 303.15 K: an interpretation in terms of the Prigogine-Flory-Patterson theory.. Fluid Phase Equilib. 47 (1989) 95-102
+Aminabhavi T.M.; Patel R.C.; Bridger K.; Jayadevappa E.S.; Prasad B.R.: Viscosity Studies of Some Binary Liquid Systems. J.Chem.Eng.Data 27 (1982) 125-128
+Aminabhavi T.M.: Predicting Refractive Index and Density Increments of Binary Solvent Mixtures. J.Chem.Eng.Data 32 (1987) 406-409

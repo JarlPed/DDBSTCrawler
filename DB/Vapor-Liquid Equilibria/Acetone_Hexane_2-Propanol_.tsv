@@ -1,22 +1,22 @@
-$$$Vapor-Liquid Equilibrium Data Set 24291	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H14	86.177	110-54-3	Hexane	
-3	C3H8O	60.096	67-63-0	2-Propanol	
-Pressure	101.30	kPa	
-T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
-330.05	0.62674	0.07040	0.73298	0.12494	
-324.65	0.66753	0.22494	0.72126	0.24948	
-336.05	0.31670	0.07115	0.52216	0.15364	
-335.15	0.11337	0.22922	0.24203	0.39604	
-325.25	0.37452	0.50483	0.56698	0.35913	
-331.15	0.12589	0.50909	0.27769	0.47790	
-334.65	0.60816	0.00000	0.80540	0.00000	
-339.05	0.40822	0.00000	0.67453	0.00000	
-337.75	0.00000	0.31736	0.00000	0.52170	
-335.85	0.00000	0.51125	0.00000	0.60040	
-322.75	0.68998	0.31001	0.74399	0.25601	
-322.85	0.49728	0.50272	0.68820	0.31180	
-Source	
-Kozhenkov A.V.; Sobolev D.M.; Malenko Yu.I.: Liquid-Vapor Equilibrium in the Four-Component Acetone-Hexane-Isopropanol-Toluene System. Zh.Prikl.Khim. 62 (1989) 1319-1322	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 24291
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H14	86.177	110-54-3	Hexane
+3	C3H8O	60.096	67-63-0	2-Propanol
+Pressure	101.30	kPa
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]
+330.05	0.62674	0.07040	0.73298	0.12494
+324.65	0.66753	0.22494	0.72126	0.24948
+336.05	0.31670	0.07115	0.52216	0.15364
+335.15	0.11337	0.22922	0.24203	0.39604
+325.25	0.37452	0.50483	0.56698	0.35913
+331.15	0.12589	0.50909	0.27769	0.47790
+334.65	0.60816	0.000000.80540	0.00000
+339.05	0.40822	0.000000.67453	0.00000
+337.75	0.00000	0.31736	0.00000	0.52170
+335.85	0.00000	0.51125	0.00000	0.60040
+322.75	0.68998	0.31001	0.74399	0.25601
+322.85	0.49728	0.50272	0.68820	0.31180
+Source
+Kozhenkov A.V.; Sobolev D.M.; Malenko Yu.I.: Liquid-Vapor Equilibrium in the Four-Component Acetone-Hexane-Isopropanol-Toluene System. Zh.Prikl.Khim. 62 (1989) 1319-1322
+Source

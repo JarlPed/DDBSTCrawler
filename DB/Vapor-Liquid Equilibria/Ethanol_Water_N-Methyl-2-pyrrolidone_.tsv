@@ -1,18 +1,18 @@
-$$$Vapor-Liquid Equilibrium Data Set 38569	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	H2O	18.015	7732-18-5	Water	
-3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Pressure	99.28	kPa	
-T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
-388.15	0.37548	0.008427	0.98304	0.016957	
-386.48	0.35942	0.04492	0.92391	0.07609	
-384.82	0.34264	0.08244	0.87349	0.12651	
-383.15	0.32141	0.12685	0.82458	0.17542	
-380.93	0.30160	0.17986	0.74564	0.25436	
-379.26	0.27972	0.23615	0.69496	0.30504	
-376.48	0.24401	0.32490	0.62934	0.37066	
-373.15	0.19499	0.45750	0.52803	0.47197	
-Source	
-Lee F.-M.; Pahl R.H.: Dehydration of Alcohol with Extractive Distillation. US-Patent  (1985) 1-16	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 38569
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	H2O	18.015	7732-18-5	Water
+3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Pressure	99.28	kPa
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]
+388.15	0.37548	0.008427	0.98304	0.016957
+386.48	0.35942	0.04492	0.92391	0.07609
+384.82	0.34264	0.08244	0.87349	0.12651
+383.15	0.32141	0.12685	0.82458	0.17542
+380.93	0.30160	0.17986	0.74564	0.25436
+379.26	0.27972	0.23615	0.69496	0.30504
+376.48	0.24401	0.32490	0.62934	0.37066
+373.15	0.19499	0.45750	0.52803	0.47197
+Source
+Lee F.-M.; Pahl R.H.: Dehydration of Alcohol with Extractive Distillation. US-Patent  (1985) 1-16
+Source

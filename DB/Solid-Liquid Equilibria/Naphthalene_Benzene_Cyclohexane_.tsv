@@ -1,66 +1,66 @@
-$$$Solid-Liquid Equilibrium Data Set 129	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C6H6	78.114	71-43-2	Benzene	
-3	C6H12	84.161	110-82-7	Cyclohexane	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-298.15	0.29150	0.66680	
-298.15	0.28180	0.57220	
-298.15	0.26090	0.44390	
-298.15	0.23060	0.31040	
-298.15	0.19350	0.16490	
-298.15	0.16220	0.05140	
-Source	
-Heric E.L.; Posey C.D.: Solubility of Naphthalene in Some Mixed Solvents Containing Benzene. J.Chem.Eng.Data 9 (1964) 35-43	
-$$$Solid-Liquid Equilibrium Data Set 2627	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-3	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-299.65	0.50090	0.21470	
-312.65	0.41690	0.17870	
-321.55	0.34500	0.14790	
-334.35	0.22020	0.09440	
-337.95	0.18080	0.07750	
-302.95	0.35750	0.35750	
-313.25	0.30550	0.30550	
-318.65	0.27400	0.27400	
-326.65	0.22010	0.22010	
-329.75	0.19770	0.19770	
-340.75	0.10760	0.10760	
-297.15	0.23880	0.55710	
-311.85	0.19800	0.46200	
-323.55	0.15210	0.35480	
-326.05	0.14080	0.32840	
-339.25	0.07400	0.17260	
-Source	
-Choi P.B.; Williams Ch.P.; Buehring K.G.; Mc Laughlin E.: Solubility of Aromatic Hydrocarbon Solids in Mixtures of Benzene and Cyclohexane. J.Chem.Eng.Data 30 (1985) 403-409	
-$$$Solid-Liquid Equilibrium Data Set 3833	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-3	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-308.85	0.14000	0.56000	
-304.85	0.28000	0.42000	
-301.55	0.42000	0.28000	
-299.25	0.56000	0.14000	
-317.45	0.12000	0.48000	
-314.45	0.24000	0.36000	
-312.25	0.36000	0.24000	
-310.45	0.48000	0.12000	
-324.35	0.10000	0.40000	
-322.35	0.20000	0.30000	
-320.55	0.30000	0.20000	
-319.45	0.40000	0.10000	
-330.55	0.08000	0.32000	
-329.25	0.16000	0.24000	
-328.25	0.24000	0.16000	
-327.55	0.32000	0.08000	
-336.35	0.06000	0.24000	
-335.75	0.12000	0.18000	
-335.35	0.18000	0.12000	
-334.75	0.24000	0.06000	
-Source	
-Yoshida T.; Yamada I.; Machii H.: Solid Liquid Equilibria with Crystals of Single Component. Kagaku Kogaku 32 (1968) 1091-1094	
+$$$Solid-Liquid Equilibrium Data Set 129
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C6H6	78.114	71-43-2	Benzene
+3	C6H12	84.161	110-82-7	Cyclohexane
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+298.15	0.29150	0.66680
+298.15	0.28180	0.57220
+298.15	0.26090	0.44390
+298.15	0.23060	0.31040
+298.15	0.19350	0.16490
+298.15	0.16220	0.05140
+Source
+Heric E.L.; Posey C.D.: Solubility of Naphthalene in Some Mixed Solvents Containing Benzene. J.Chem.Eng.Data 9 (1964) 35-43
+$$$Solid-Liquid Equilibrium Data Set 2627
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C6H12	84.161	110-82-7	Cyclohexane
+3	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+299.65	0.50090	0.21470
+312.65	0.41690	0.17870
+321.55	0.34500	0.14790
+334.35	0.22020	0.09440
+337.95	0.18080	0.07750
+302.95	0.357500.35750
+313.25	0.305500.30550
+318.65	0.274000.27400
+326.65	0.220100.22010
+329.75	0.197700.19770
+340.75	0.107600.10760
+297.15	0.23880	0.55710
+311.85	0.19800	0.46200
+323.55	0.15210	0.35480
+326.05	0.14080	0.32840
+339.25	0.07400	0.17260
+Source
+Choi P.B.; Williams Ch.P.; Buehring K.G.; Mc Laughlin E.: Solubility of Aromatic Hydrocarbon Solids in Mixtures of Benzene and Cyclohexane. J.Chem.Eng.Data 30 (1985) 403-409
+$$$Solid-Liquid Equilibrium Data Set 3833
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C6H12	84.161	110-82-7	Cyclohexane
+3	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+308.85	0.14000	0.56000
+304.85	0.28000	0.42000
+301.55	0.42000	0.28000
+299.25	0.56000	0.14000
+317.45	0.12000	0.48000
+314.45	0.24000	0.36000
+312.25	0.36000	0.24000
+310.45	0.48000	0.12000
+324.35	0.10000	0.40000
+322.35	0.20000	0.30000
+320.55	0.30000	0.20000
+319.45	0.40000	0.10000
+330.55	0.08000	0.32000
+329.25	0.16000	0.24000
+328.25	0.24000	0.16000
+327.55	0.32000	0.08000
+336.35	0.06000	0.24000
+335.75	0.12000	0.18000
+335.35	0.18000	0.12000
+334.75	0.24000	0.06000
+Source
+Yoshida T.; Yamada I.; Machii H.: Solid Liquid Equilibria with Crystals of Single Component. Kagaku Kogaku 32 (1968) 1091-1094

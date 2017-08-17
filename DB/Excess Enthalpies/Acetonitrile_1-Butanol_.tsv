@@ -1,83 +1,83 @@
-$$$Enthalpy of Mixing Data Set 923	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-136.490	0.01510	
-501.997	0.05850	
-799.679	0.09820	
-1092.340	0.14620	
-1442.770	0.20940	
-1652.530	0.26380	
-1810.370	0.31130	
-1934.300	0.36580	
-2049.020	0.43310	
-2090.890	0.47910	
-2107.640	0.53230	
-2087.120	0.57560	
-2031.020	0.60460	
-1974.910	0.63580	
-1860.610	0.67510	
-1775.620	0.70790	
-1665.090	0.74410	
-1530.690	0.77800	
-1400.480	0.80890	
-1183.190	0.84920	
-963.801	0.88610	
-798.841	0.90980	
-637.649	0.93050	
-378.068	0.96120	
-109.275	0.98910	
-Source	
-Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)	
-$$$Enthalpy of Mixing Data Set 924	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-626.764	0.09330	
-1166.020	0.22790	
-1508.920	0.29910	
-1779.390	0.42920	
-1826.280	0.48460	
-1831.310	0.50320	
-1830.890	0.50940	
-1756.780	0.62520	
-1595.170	0.72070	
-1363.640	0.79350	
-797.585	0.89440	
-449.662	0.94560	
-270.049	0.96940	
-Source	
-Murakami S.; Fujishiro R.: III. The Intermolecular Energy of Hydrogen Bonding between Alcohol and Several other Polar Molecules. Bull.Chem.Soc.Japan 39 (1966) 720-725	
-$$$Enthalpy of Mixing Data Set 5744	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-183.300	0.02030	
-757.300	0.09600	
-1375.900	0.20930	
-1776.500	0.32180	
-1995.200	0.43460	
-2047.400	0.51340	
-2029.300	0.57790	
-1993.100	0.61260	
-1950.700	0.63010	
-1913.800	0.65250	
-1810.300	0.69950	
-1660.000	0.74910	
-1391.200	0.81400	
-1052.200	0.87450	
-643.900	0.93090	
-285.000	0.97190	
-80.000	0.99250	
-Source	
-Nagata I.; Tamura K.: Excess molar enthalpies of (butan-1-ol or 2-methylpropan-1-ol + acetonitrile), (2-methylpropan-1-ol + benzene), and (butan-1-ol or 2-methylpropan-1-ol + acetonitrile + benzene) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 1101-1107	
-Source	
-Murakami S.; Fujishiro R.: III. The Intermolecular Energy of Hydrogen Bonding between Alcohol and Several other Polar Molecules. Bull.Chem.Soc.Japan 39 (1966) 720-725	
-Nagata I.; Tamura K.: Excess molar enthalpies of (butan-1-ol or 2-methylpropan-1-ol + acetonitrile), (2-methylpropan-1-ol + benzene), and (butan-1-ol or 2-methylpropan-1-ol + acetonitrile + benzene) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 1101-1107	
-Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)	
+$$$Enthalpy of Mixing Data Set 923
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+136.490	0.01510
+501.997	0.05850
+799.679	0.09820
+1092.340	0.14620
+1442.770	0.20940
+1652.530	0.26380
+1810.370	0.31130
+1934.300	0.36580
+2049.020	0.43310
+2090.890	0.47910
+2107.640	0.53230
+2087.120	0.57560
+2031.020	0.60460
+1974.910	0.63580
+1860.610	0.67510
+1775.620	0.70790
+1665.090	0.74410
+1530.690	0.77800
+1400.480	0.80890
+1183.190	0.84920
+963.801	0.88610
+798.841	0.90980
+637.649	0.93050
+378.068	0.96120
+109.275	0.98910
+Source
+Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)
+$$$Enthalpy of Mixing Data Set 924
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+626.764	0.09330
+1166.020	0.22790
+1508.920	0.29910
+1779.390	0.42920
+1826.280	0.48460
+1831.310	0.50320
+1830.890	0.50940
+1756.780	0.62520
+1595.170	0.72070
+1363.640	0.79350
+797.585	0.89440
+449.662	0.94560
+270.049	0.96940
+Source
+Murakami S.; Fujishiro R.: III. The Intermolecular Energy of Hydrogen Bonding between Alcohol and Several other Polar Molecules. Bull.Chem.Soc.Japan 39 (1966) 720-725
+$$$Enthalpy of Mixing Data Set 5744
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+183.300	0.02030
+757.300	0.09600
+1375.900	0.20930
+1776.500	0.32180
+1995.200	0.43460
+2047.400	0.51340
+2029.300	0.57790
+1993.100	0.61260
+1950.700	0.63010
+1913.800	0.65250
+1810.300	0.69950
+1660.000	0.74910
+1391.200	0.81400
+1052.200	0.87450
+643.900	0.93090
+285.000	0.97190
+80.000	0.99250
+Source
+Nagata I.; Tamura K.: Excess molar enthalpies of (butan-1-ol or 2-methylpropan-1-ol + acetonitrile), (2-methylpropan-1-ol + benzene), and (butan-1-ol or 2-methylpropan-1-ol + acetonitrile + benzene) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 1101-1107
+Source
+Murakami S.; Fujishiro R.: III. The Intermolecular Energy of Hydrogen Bonding between Alcohol and Several other Polar Molecules. Bull.Chem.Soc.Japan 39 (1966) 720-725
+Nagata I.; Tamura K.: Excess molar enthalpies of (butan-1-ol or 2-methylpropan-1-ol + acetonitrile), (2-methylpropan-1-ol + benzene), and (butan-1-ol or 2-methylpropan-1-ol + acetonitrile + benzene) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 1101-1107
+Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)

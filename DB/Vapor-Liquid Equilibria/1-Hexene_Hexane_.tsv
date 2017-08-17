@@ -1,66 +1,66 @@
-$$$Vapor-Liquid Equilibrium Data Set 2997	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C6H14	86.177	110-54-3	Hexane	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-341.05	0.09700	0.11300	
-340.95	0.10500	0.12300	
-340.35	0.19300	0.22000	
-339.65	0.29200	0.32600	
-339.05	0.38600	0.42300	
-338.85	0.41200	0.45000	
-338.55	0.47700	0.51500	
-337.95	0.58700	0.62200	
-337.95	0.59200	0.62600	
-337.85	0.60300	0.62700	
-337.55	0.67600	0.70700	
-337.45	0.71500	0.74400	
-337.25	0.78000	0.80300	
-337.15	0.78600	0.80800	
-336.85	0.88400	0.89700	
-336.85	0.89200	0.90000	
-Source	
-Suryanarayana Y.S.; van Winkle M.: Solvent Effect on Relative Volatility n-Hexane-hexene-1-System. J.Chem.Eng.Data 11 (1966) 7-12	
-$$$Vapor-Liquid Equilibrium Data Set 3768	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	333.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-78.434	0.12100	0.14200	
-78.407	0.12300	0.14300	
-78.820	0.14800	0.17300	
-80.327	0.24500	0.28100	
-80.353	0.24800	0.28300	
-82.553	0.39100	0.43100	
-84.313	0.51500	0.55600	
-86.420	0.66600	0.69800	
-88.353	0.82500	0.84500	
-89.099	0.87400	0.88900	
-89.126	0.87700	0.89100	
-Source	
-Hanson D.O.; van Winkle M.: Alteration of the Relative Volatility of n-Hexane-1-Hexene by Oxygenated and Chlorinated Solvents. J.Chem.Eng.Data 12 (1967) 319-325	
-$$$Vapor-Liquid Equilibrium Data Set 7793	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	328.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-64.435	0.00000	0.00000	
-65.955	0.10200	0.12200	
-67.368	0.20000	0.23300	
-68.741	0.30000	0.34100	
-70.061	0.40000	0.44500	
-71.287	0.50000	0.54300	
-72.434	0.60000	0.63900	
-73.581	0.70000	0.73200	
-74.701	0.79900	0.82300	
-75.780	0.90000	0.91200	
-76.780	1.00000	1.00000	
-Source	
-Kirss H.; Kudryavtseva L.S.; Eizen O.G.: Dampf-Flussig-Gleichgewicht in ternären Systemen  Hexen-1-Hexan-Octan , Behzol-Hepten-1-Heptan , Hepten-1-Heptan-Toluol und in entsprechenden binären Systemen bei der Temperatur 55°C. Eesti NSV Tead.Akad.Toim.Keem.Geol. 24 (1975) 15-23	
-Source	
-Kirss H.; Kudryavtseva L.S.; Eizen O.G.: Dampf-Flussig-Gleichgewicht in ternären Systemen  Hexen-1-Hexan-Octan , Behzol-Hepten-1-Heptan , Hepten-1-Heptan-Toluol und in entsprechenden binären Systemen bei der Temperatur 55°C. Eesti NSV Tead.Akad.Toim.Keem.Geol. 24 (1975) 15-23	
-Hanson D.O.; van Winkle M.: Alteration of the Relative Volatility of n-Hexane-1-Hexene by Oxygenated and Chlorinated Solvents. J.Chem.Eng.Data 12 (1967) 319-325	
-Suryanarayana Y.S.; van Winkle M.: Solvent Effect on Relative Volatility n-Hexane-hexene-1-System. J.Chem.Eng.Data 11 (1966) 7-12	
+$$$Vapor-Liquid Equilibrium Data Set 2997
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C6H14	86.177	110-54-3	Hexane
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+341.05	0.09700	0.11300
+340.95	0.10500	0.12300
+340.35	0.19300	0.22000
+339.65	0.29200	0.32600
+339.05	0.38600	0.42300
+338.85	0.41200	0.45000
+338.55	0.47700	0.51500
+337.95	0.58700	0.62200
+337.95	0.59200	0.62600
+337.85	0.60300	0.62700
+337.55	0.67600	0.70700
+337.45	0.71500	0.74400
+337.25	0.78000	0.80300
+337.15	0.78600	0.80800
+336.85	0.88400	0.89700
+336.85	0.89200	0.90000
+Source
+Suryanarayana Y.S.; van Winkle M.: Solvent Effect on Relative Volatility n-Hexane-hexene-1-System. J.Chem.Eng.Data 11 (1966) 7-12
+$$$Vapor-Liquid Equilibrium Data Set 3768
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	333.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+78.434	0.12100	0.14200
+78.407	0.12300	0.14300
+78.820	0.14800	0.17300
+80.327	0.24500	0.28100
+80.353	0.24800	0.28300
+82.553	0.39100	0.43100
+84.313	0.51500	0.55600
+86.420	0.66600	0.69800
+88.353	0.82500	0.84500
+89.099	0.87400	0.88900
+89.126	0.87700	0.89100
+Source
+Hanson D.O.; van Winkle M.: Alteration of the Relative Volatility of n-Hexane-1-Hexene by Oxygenated and Chlorinated Solvents. J.Chem.Eng.Data 12 (1967) 319-325
+$$$Vapor-Liquid Equilibrium Data Set 7793
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	328.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+64.435	0.000000.00000
+65.955	0.10200	0.12200
+67.368	0.20000	0.23300
+68.741	0.30000	0.34100
+70.061	0.40000	0.44500
+71.287	0.50000	0.54300
+72.434	0.60000	0.63900
+73.581	0.70000	0.73200
+74.701	0.79900	0.82300
+75.780	0.90000	0.91200
+76.780	1.000001.00000
+Source
+Kirss H.; Kudryavtseva L.S.; Eizen O.G.: Dampf-Flussig-Gleichgewicht in ternären Systemen  Hexen-1-Hexan-Octan , Behzol-Hepten-1-Heptan , Hepten-1-Heptan-Toluol und in entsprechenden binären Systemen bei der Temperatur 55°C. Eesti NSV Tead.Akad.Toim.Keem.Geol. 24 (1975) 15-23
+Source
+Kirss H.; Kudryavtseva L.S.; Eizen O.G.: Dampf-Flussig-Gleichgewicht in ternären Systemen  Hexen-1-Hexan-Octan , Behzol-Hepten-1-Heptan , Hepten-1-Heptan-Toluol und in entsprechenden binären Systemen bei der Temperatur 55°C. Eesti NSV Tead.Akad.Toim.Keem.Geol. 24 (1975) 15-23
+Hanson D.O.; van Winkle M.: Alteration of the Relative Volatility of n-Hexane-1-Hexene by Oxygenated and Chlorinated Solvents. J.Chem.Eng.Data 12 (1967) 319-325
+Suryanarayana Y.S.; van Winkle M.: Solvent Effect on Relative Volatility n-Hexane-hexene-1-System. J.Chem.Eng.Data 11 (1966) 7-12

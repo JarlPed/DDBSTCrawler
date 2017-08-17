@@ -1,9 +1,9 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	CH4	16.043	74-82-8	Methane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-nonesupercrit	323.150	n.a.	n.a.	n.a.	n.a.	DDBST from VLE	1	
-nonesupercrit	333.150	n.a.	n.a.	n.a.	n.a.	DDBST from VLE	1	
-nonesupercrit	343.150	n.a.	n.a.	n.a.	n.a.	DDBST from VLE	1	
-nonesupercrit	zeotropic supercritical	
-1	Francesconi A.Z.: Kritische Kurve, Phasengleichgewichte und PVT-Daten im System Methanol-Methan bis 3 kbar und 240°C. Thesis  (1978)	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	CH4	16.043	74-82-8	Methane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+nonesupercrit	323.150	n.a.	n.a.	n.a.	n.a.	DDBST from VLE	1
+nonesupercrit	333.150	n.a.	n.a.	n.a.	n.a.	DDBST from VLE	1
+nonesupercrit	343.150	n.a.	n.a.	n.a.	n.a.	DDBST from VLE	1
+nonesupercrit	zeotropic supercritical
+1	Francesconi A.Z.: Kritische Kurve, Phasengleichgewichte und PVT-Daten im System Methanol-Methan bis 3 kbar und 240°C. Thesis  (1978)

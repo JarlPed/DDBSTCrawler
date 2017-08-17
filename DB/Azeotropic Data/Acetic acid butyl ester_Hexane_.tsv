@@ -1,9 +1,9 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Acetic acid butyl ester	
-2	C6H14	86.177	110-54-3	Hexane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.300	n.a.	n.a.	Phase equilibrium	Author	1	
-none	n.a.	101.320	n.a.	n.a.	Phase equilibrium	Author	2	
-none	zeotropic	
-1	Feng L.-C.; Chou C.-H.; Tang M.; Chen Y.-P.: Vapor-Liquid Equilibria of Binary Mixtures 2-Butanol + Butyl Acetate, Hexane + Butyl Acetate, and Cyclohexane + 2-Butanol at 101.3 kPa. J.Chem.Eng.Data 43 (1998) 658-661	
-2	Pérez E.; Ortega J.; Fernández L.; Wisniak J.; Canosa J.: New experimental data for binaries of butyl ester with alkanes (C5C10). Fluid Phase Equilib. 412 (2016) 79-93	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Acetic acid butyl ester
+2	C6H14	86.177	110-54-3	Hexane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.300	n.a.	n.a.	Phase equilibrium	Author	1
+none	n.a.	101.320	n.a.	n.a.	Phase equilibrium	Author	2
+none	zeotropic
+1	Feng L.-C.; Chou C.-H.; Tang M.; Chen Y.-P.: Vapor-Liquid Equilibria of Binary Mixtures 2-Butanol + Butyl Acetate, Hexane + Butyl Acetate, and Cyclohexane + 2-Butanol at 101.3 kPa. J.Chem.Eng.Data 43 (1998) 658-661
+2	Pérez E.; Ortega J.; Fernández L.; Wisniak J.; Canosa J.: New experimental data for binaries of butyl ester with alkanes (C5C10). Fluid Phase Equilib. 412 (2016) 79-93

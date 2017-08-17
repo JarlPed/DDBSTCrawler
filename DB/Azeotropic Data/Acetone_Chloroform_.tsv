@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CHCl3	119.377	67-66-3	Chloroform	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmin	298.150	21.545	0.40900	n.a.	n.a.	Author	2	
-homPmin	308.150	33.544	0.38600	n.a.	n.a.	Author	2	
-homPmin	335.550	97.592	0.33944	n.a.	n.a.	Author	1	
-homPmin	homogeneous pressure minimum	
-1	Soday F.; Bennett G.W.: Laboratory Experiments on the Boiling-Point Curves of Binary Mixtures. J.Chem.Educ. 7 (1930) 1336-1340	
-2	Mueller C.R.; Kearns E.R.: Thermodynamic Studies of the System Acetone and Chloroform. J.Phys.Chem. 62 (1958) 1441-1445	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CHCl3	119.377	67-66-3	Chloroform
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+homPmin	298.150	21.545	0.40900	n.a.	n.a.	Author	2
+homPmin	308.150	33.544	0.38600	n.a.	n.a.	Author	2
+homPmin	335.550	97.592	0.33944	n.a.	n.a.	Author	1
+homPmin	homogeneous pressure minimum
+1	Soday F.; Bennett G.W.: Laboratory Experiments on the Boiling-Point Curves of Binary Mixtures. J.Chem.Educ. 7 (1930) 1336-1340
+2	Mueller C.R.; Kearns E.R.: Thermodynamic Studies of the System Acetone and Chloroform. J.Phys.Chem. 62 (1958) 1441-1445

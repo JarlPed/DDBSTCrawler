@@ -1,15 +1,15 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-350.35	2.6500	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-313.15	3.3880	EBUL	2	
-367.75	3.7900	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-1	Grafahrend W.: Das Verhalten von Spurenkomponenten bei der destillativen Reinigung von Agraralkohol und deren Einfluß auf den Energiebedarf. Thesis  (1988)	
-2	Pividal K.A.: Infinite Dilution Activity Coefficients Measurement and Application. Thesis  (1991)	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	CH4O	32.042	67-56-1	Methanol
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+350.35	2.6500	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+313.15	3.3880	EBUL	2
+367.75	3.7900	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+1	Grafahrend W.: Das Verhalten von Spurenkomponenten bei der destillativen Reinigung von Agraralkohol und deren Einfluß auf den Energiebedarf. Thesis  (1988)
+2	Pividal K.A.: Infinite Dilution Activity Coefficients Measurement and Application. Thesis  (1991)

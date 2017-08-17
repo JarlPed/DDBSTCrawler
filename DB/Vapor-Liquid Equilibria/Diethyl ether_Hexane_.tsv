@@ -1,53 +1,53 @@
-$$$Vapor-Liquid Equilibrium Data Set 8824	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H14	86.177	110-54-3	Hexane	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-341.84	0.00000	0.00000	
-337.82	0.04280	0.15300	
-335.36	0.08390	0.25050	
-330.93	0.16360	0.38180	
-326.49	0.26210	0.54230	
-321.71	0.38290	0.66170	
-318.34	0.49560	0.75530	
-315.68	0.59670	0.81960	
-313.62	0.67590	0.85790	
-311.74	0.77530	0.90530	
-309.95	0.86100	0.93920	
-308.79	0.92600	0.96430	
-308.28	0.95320	0.97820	
-307.99	0.97020	0.98510	
-307.74	0.98360	0.99120	
-307.63	1.00000	1.00000	
-Source	
-Klon-Palczewska M.; Cholinski J.; Wyrzykowska-Stankiewicz D.: Isobaric Vapour-Liquid Equilibrium in Binary Organic Solvent Mixtures. Chem.Stosow. 24 (1980) 197-209	
-$$$Vapor-Liquid Equilibrium Data Set 9769	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H14	86.177	110-54-3	Hexane	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-341.85	0.00000	0.00000	
-340.14	0.01800	0.09290	
-337.83	0.06070	0.21480	
-335.58	0.08090	0.26540	
-334.96	0.10090	0.30830	
-329.70	0.19940	0.43770	
-326.26	0.30380	0.55000	
-322.55	0.42430	0.68470	
-319.61	0.50020	0.74230	
-316.49	0.59920	0.82980	
-314.37	0.69400	0.87780	
-311.98	0.79890	0.93790	
-309.22	0.89940	0.96790	
-308.93	0.91920	0.97630	
-308.81	0.93670	0.98060	
-308.53	0.95520	0.98600	
-308.11	0.97560	0.99330	
-307.75	1.00000	1.00000	
-Source	
-Goloborodkina R.V.; Beregovykh V.V.; Babich S.V.; Timofeev V.S.; Lvov S.V.: Dampf-Flüssig-Gleichgewicht  in den Systemen Diethylester-Aceton, Diethylester-Hexan, Diethylester-Methanol bei Atmosphärendruck. Khim.-Farm.Zh. 15 (1981) 79-83	
-Source	
-Klon-Palczewska M.; Cholinski J.; Wyrzykowska-Stankiewicz D.: Isobaric Vapour-Liquid Equilibrium in Binary Organic Solvent Mixtures. Chem.Stosow. 24 (1980) 197-209	
-Goloborodkina R.V.; Beregovykh V.V.; Babich S.V.; Timofeev V.S.; Lvov S.V.: Dampf-Flüssig-Gleichgewicht  in den Systemen Diethylester-Aceton, Diethylester-Hexan, Diethylester-Methanol bei Atmosphärendruck. Khim.-Farm.Zh. 15 (1981) 79-83	
+$$$Vapor-Liquid Equilibrium Data Set 8824
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H14	86.177	110-54-3	Hexane
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+341.84	0.000000.00000
+337.82	0.04280	0.15300
+335.36	0.08390	0.25050
+330.93	0.16360	0.38180
+326.49	0.26210	0.54230
+321.71	0.38290	0.66170
+318.34	0.49560	0.75530
+315.68	0.59670	0.81960
+313.62	0.67590	0.85790
+311.74	0.77530	0.90530
+309.95	0.86100	0.93920
+308.79	0.92600	0.96430
+308.28	0.95320	0.97820
+307.99	0.97020	0.98510
+307.74	0.98360	0.99120
+307.63	1.000001.00000
+Source
+Klon-Palczewska M.; Cholinski J.; Wyrzykowska-Stankiewicz D.: Isobaric Vapour-Liquid Equilibrium in Binary Organic Solvent Mixtures. Chem.Stosow. 24 (1980) 197-209
+$$$Vapor-Liquid Equilibrium Data Set 9769
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H14	86.177	110-54-3	Hexane
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+341.85	0.000000.00000
+340.14	0.01800	0.09290
+337.83	0.06070	0.21480
+335.58	0.08090	0.26540
+334.96	0.10090	0.30830
+329.70	0.19940	0.43770
+326.26	0.30380	0.55000
+322.55	0.42430	0.68470
+319.61	0.50020	0.74230
+316.49	0.59920	0.82980
+314.37	0.69400	0.87780
+311.98	0.79890	0.93790
+309.22	0.89940	0.96790
+308.93	0.91920	0.97630
+308.81	0.93670	0.98060
+308.53	0.95520	0.98600
+308.11	0.97560	0.99330
+307.75	1.000001.00000
+Source
+Goloborodkina R.V.; Beregovykh V.V.; Babich S.V.; Timofeev V.S.; Lvov S.V.: Dampf-Flüssig-Gleichgewicht  in den Systemen Diethylester-Aceton, Diethylester-Hexan, Diethylester-Methanol bei Atmosphärendruck. Khim.-Farm.Zh. 15 (1981) 79-83
+Source
+Klon-Palczewska M.; Cholinski J.; Wyrzykowska-Stankiewicz D.: Isobaric Vapour-Liquid Equilibrium in Binary Organic Solvent Mixtures. Chem.Stosow. 24 (1980) 197-209
+Goloborodkina R.V.; Beregovykh V.V.; Babich S.V.; Timofeev V.S.; Lvov S.V.: Dampf-Flüssig-Gleichgewicht  in den Systemen Diethylester-Aceton, Diethylester-Hexan, Diethylester-Methanol bei Atmosphärendruck. Khim.-Farm.Zh. 15 (1981) 79-83

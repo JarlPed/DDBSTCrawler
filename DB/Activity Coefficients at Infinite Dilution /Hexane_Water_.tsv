@@ -1,14 +1,14 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	H2O	18.015	7732-18-5	Water	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-293.15	2940.0	GLCI	1	
-298.15	40000	GLCN	2	
-298.15	504000	HENR	3	
-Short Term	Explanation	
-GLCI	GLC (without gas phase correction)	
-GLCN	GLC (not specified)	
-HENR	calculated from Henry coefficients	
-1	Pecsar R.E.; Martin J.J.: Solution Thermodynamics from Gas-Liquid Chromatography. Anal.Chem. 38 (1966) 1661-1669	
-2	Deal C.H.; Derr E.L.: Selectivity and Solvency in Aromatics Recovery. Ind.Eng.Chem. Process Des.Dev. 3 (1964) 394-399	
-3	Rytting J.H.; Huston L.P.; Higuchi T.: Thermodynamic Group Contributions for Hydroxyl, Amino, and Mehtylene Groups. J.Pharm.Sci. 67 (1978) 615-618	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	H2O	18.015	7732-18-5	Water
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+293.15	2940.0	GLCI	1
+298.15	40000	GLCN	2
+298.15	504000	HENR	3
+Short Term	Explanation
+GLCI	GLC (without gas phase correction)
+GLCN	GLC (not specified)
+HENR	calculated from Henry coefficients
+1	Pecsar R.E.; Martin J.J.: Solution Thermodynamics from Gas-Liquid Chromatography. Anal.Chem. 38 (1966) 1661-1669
+2	Deal C.H.; Derr E.L.: Selectivity and Solvency in Aromatics Recovery. Ind.Eng.Chem. Process Des.Dev. 3 (1964) 394-399
+3	Rytting J.H.; Huston L.P.; Higuchi T.: Thermodynamic Group Contributions for Hydroxyl, Amino, and Mehtylene Groups. J.Pharm.Sci. 67 (1978) 615-618

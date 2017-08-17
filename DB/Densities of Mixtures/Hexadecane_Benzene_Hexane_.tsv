@@ -1,26 +1,26 @@
-$$$Density Data Set 19462	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C16H34	226.446	544-76-3	Hexadecane	
-2	C6H6	78.114	71-43-2	Benzene	
-3	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.7681	0.53150	0.28360	
-0.7575	0.29570	0.35860	
-0.7738	0.26910	0.49410	
-0.7293	0.18500	0.25520	
-0.7621	0.18730	0.47060	
-0.8000	0.15570	0.70300	
-0.7122	0.07980	0.25860	
-0.7478	0.07570	0.47240	
-0.7859	0.07070	0.66660	
-0.8212	0.06860	0.82050	
-0.7685	0.36050	0.39790	
-0.7653	0.22380	0.46570	
-0.7292	0.12810	0.31200	
-0.7665	0.12210	0.54060	
-0.8007	0.10740	0.72020	
-Source	
-Heric E.L.; Brewer J.G.: Viscosity of Some Ternary Liquid Nonelectrolyte Mixtures. J.Chem.Eng.Data 14 (1969) 55-63	
-Source	
-Heric E.L.; Brewer J.G.: Viscosity of Some Ternary Liquid Nonelectrolyte Mixtures. J.Chem.Eng.Data 14 (1969) 55-63	
+$$$Density Data Set 19462
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C16H34	226.446	544-76-3	Hexadecane
+2	C6H6	78.114	71-43-2	Benzene
+3	C6H14	86.177	110-54-3	Hexane
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.7681	0.53150	0.28360
+0.7575	0.29570	0.35860
+0.7738	0.26910	0.49410
+0.7293	0.18500	0.25520
+0.7621	0.18730	0.47060
+0.8000	0.15570	0.70300
+0.7122	0.07980	0.25860
+0.7478	0.07570	0.47240
+0.7859	0.07070	0.66660
+0.8212	0.06860	0.82050
+0.7685	0.36050	0.39790
+0.7653	0.22380	0.46570
+0.7292	0.12810	0.31200
+0.7665	0.12210	0.54060
+0.8007	0.10740	0.72020
+Source
+Heric E.L.; Brewer J.G.: Viscosity of Some Ternary Liquid Nonelectrolyte Mixtures. J.Chem.Eng.Data 14 (1969) 55-63
+Source
+Heric E.L.; Brewer J.G.: Viscosity of Some Ternary Liquid Nonelectrolyte Mixtures. J.Chem.Eng.Data 14 (1969) 55-63

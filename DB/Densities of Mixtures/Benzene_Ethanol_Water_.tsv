@@ -1,29 +1,29 @@
-$$$Density Data Set 46263	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	293.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9980	0.00000	0.00000	
-0.9756	0.000507804972585	0.06372	
-0.9572	0.00167755002622	0.13274	
-0.9403	0.00422	0.18808	
-0.9201	0.01185	0.24890	
-0.8977	0.03534	0.31789	
-0.8713	0.007335	0.31003	
-0.8652	0.009526	0.29847	
-0.8608	0.012381	0.26812	
-0.8792	1.00000	0.00000	
-0.8781	0.98393	0.011773	
-0.8764	0.95014	0.04139	
-0.8747	0.90724	0.07618	
-0.8712	0.85651	0.11524	
-0.8695	0.79379	0.16328	
-0.8650	0.67859	0.24839	
-0.8631	0.61446	0.28092	
-0.8603	0.49414	0.33762	
-Source	
-Ross S.; Patterson R.E.: Surface and Interfacial Tensions of Conjugate Solutions in Ternary Systems. J.Chem.Eng.Data 24 (1979) 111-115	
-Source	
-Ross S.; Patterson R.E.: Surface and Interfacial Tensions of Conjugate Solutions in Ternary Systems. J.Chem.Eng.Data 24 (1979) 111-115	
+$$$Density Data Set 46263
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	293.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9980	0.000000.00000
+0.9756	0.000507804972585	0.06372
+0.9572	0.00167755002622	0.13274
+0.9403	0.00422	0.18808
+0.9201	0.01185	0.24890
+0.8977	0.03534	0.31789
+0.8713	0.007335	0.31003
+0.8652	0.009526	0.29847
+0.8608	0.012381	0.26812
+0.8792	1.00000	0.00000
+0.8781	0.98393	0.011773
+0.8764	0.95014	0.04139
+0.8747	0.90724	0.07618
+0.8712	0.85651	0.11524
+0.8695	0.79379	0.16328
+0.8650	0.67859	0.24839
+0.8631	0.61446	0.28092
+0.8603	0.49414	0.33762
+Source
+Ross S.; Patterson R.E.: Surface and Interfacial Tensions of Conjugate Solutions in Ternary Systems. J.Chem.Eng.Data 24 (1979) 111-115
+Source
+Ross S.; Patterson R.E.: Surface and Interfacial Tensions of Conjugate Solutions in Ternary Systems. J.Chem.Eng.Data 24 (1979) 111-115

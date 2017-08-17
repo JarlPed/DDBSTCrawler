@@ -1,79 +1,79 @@
-$$$Vapor-Liquid Equilibrium Data Set 3587	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Pressure	94.13	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-388.95	0.00000	0.00000	
-388.85	0.01800	0.00900	
-389.45	0.06000	0.03900	
-390.05	0.10500	0.07800	
-390.15	0.11700	0.09500	
-390.85	0.16100	0.12400	
-391.75	0.23400	0.18800	
-392.05	0.25400	0.20900	
-392.65	0.30400	0.25900	
-392.95	0.35500	0.31100	
-393.45	0.45900	0.43900	
-393.45	0.48500	0.47500	
-393.45	0.54500	0.55500	
-393.25	0.59000	0.61400	
-392.95	0.65700	0.70200	
-392.55	0.73100	0.79000	
-391.35	0.82400	0.88900	
-390.35	0.92000	0.96000	
-389.75	0.95400	0.98000	
-388.95	1.00000	1.00000	
-Source	
-Rius A.; Otero J.L.; Macarron A.: systèmes méthanolacide acétique; éthanolacide acétique; n-propanolacide acétique; n-butanolacide acétique. Chem.Eng.Sci. 10 (1959) 105-111	
-$$$Vapor-Liquid Equilibrium Data Set 7745	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-391.25	0.02800	0.01400	
-391.85	0.09100	0.06000	
-392.55	0.15400	0.11600	
-392.35	0.17000	0.12600	
-393.05	0.22700	0.17800	
-393.95	0.31500	0.25800	
-394.25	0.33700	0.28300	
-394.85	0.39200	0.34000	
-395.25	0.44500	0.39600	
-395.75	0.54400	0.52400	
-395.75	0.56700	0.55700	
-395.75	0.59600	0.59600	
-395.75	0.61900	0.62900	
-395.45	0.65700	0.67900	
-395.25	0.71100	0.75200	
-394.75	0.77000	0.82300	
-393.65	0.84400	0.90200	
-392.55	0.92400	0.96200	
-391.95	0.95500	0.98100	
-Source	
-Amer Amezaga S.; Fernandez Biarge J.: Comportamiento Termodinamico de Agunos Sistemas Binarios Acido Acetico-Alcohol en Equilibrio Liquido Vapor. Anal.Quim. 69 (1973) 569-586	
-$$$Vapor-Liquid Equilibrium Data Set 8555	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	
-2.067	0.00000	
-1.633	0.10300	
-1.393	0.20200	
-1.223	0.30000	
-1.093	0.40500	
-1.009	0.50000	
-0.969	0.60000	
-0.953	0.70000	
-1.004	0.79200	
-1.095	0.89200	
-1.137	0.92400	
-1.267	1.00000	
-Source	
-Apelblat A.; Tamir A.; Wagner M.: The Binary Mixtures of Acetic Acid with n-Butanol, n-Hexanol, n-Octanol and n-Dodecanol. Z.Phys.Chem.(München) 137 (1983) 129-137	
-Source	
-Rius A.; Otero J.L.; Macarron A.: systèmes méthanolacide acétique; éthanolacide acétique; n-propanolacide acétique; n-butanolacide acétique. Chem.Eng.Sci. 10 (1959) 105-111	
-Amer Amezaga S.; Fernandez Biarge J.: Comportamiento Termodinamico de Agunos Sistemas Binarios Acido Acetico-Alcohol en Equilibrio Liquido Vapor. Anal.Quim. 69 (1973) 569-586	
-Apelblat A.; Tamir A.; Wagner M.: The Binary Mixtures of Acetic Acid with n-Butanol, n-Hexanol, n-Octanol and n-Dodecanol. Z.Phys.Chem.(München) 137 (1983) 129-137	
+$$$Vapor-Liquid Equilibrium Data Set 3587
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Pressure	94.13	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+388.95	0.000000.00000
+388.85	0.01800	0.00900
+389.45	0.06000	0.03900
+390.05	0.10500	0.07800
+390.15	0.11700	0.09500
+390.85	0.16100	0.12400
+391.75	0.23400	0.18800
+392.05	0.25400	0.20900
+392.65	0.30400	0.25900
+392.95	0.35500	0.31100
+393.45	0.45900	0.43900
+393.45	0.48500	0.47500
+393.45	0.54500	0.55500
+393.25	0.59000	0.61400
+392.95	0.65700	0.70200
+392.55	0.73100	0.79000
+391.35	0.82400	0.88900
+390.35	0.92000	0.96000
+389.75	0.95400	0.98000
+388.95	1.000001.00000
+Source
+Rius A.; Otero J.L.; Macarron A.: systèmes méthanolacide acétique; éthanolacide acétique; n-propanolacide acétique; n-butanolacide acétique. Chem.Eng.Sci. 10 (1959) 105-111
+$$$Vapor-Liquid Equilibrium Data Set 7745
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+391.25	0.02800	0.01400
+391.85	0.09100	0.06000
+392.55	0.15400	0.11600
+392.35	0.17000	0.12600
+393.05	0.22700	0.17800
+393.95	0.31500	0.25800
+394.25	0.33700	0.28300
+394.85	0.39200	0.34000
+395.25	0.44500	0.39600
+395.75	0.54400	0.52400
+395.75	0.56700	0.55700
+395.75	0.596000.59600
+395.75	0.61900	0.62900
+395.45	0.65700	0.67900
+395.25	0.71100	0.75200
+394.75	0.77000	0.82300
+393.65	0.84400	0.90200
+392.55	0.92400	0.96200
+391.95	0.95500	0.98100
+Source
+Amer Amezaga S.; Fernandez Biarge J.: Comportamiento Termodinamico de Agunos Sistemas Binarios Acido Acetico-Alcohol en Equilibrio Liquido Vapor. Anal.Quim. 69 (1973) 569-586
+$$$Vapor-Liquid Equilibrium Data Set 8555
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]
+2.067	0.00000
+1.633	0.10300
+1.393	0.20200
+1.223	0.30000
+1.093	0.40500
+1.009	0.50000
+0.969	0.60000
+0.953	0.70000
+1.004	0.79200
+1.095	0.89200
+1.137	0.92400
+1.267	1.00000
+Source
+Apelblat A.; Tamir A.; Wagner M.: The Binary Mixtures of Acetic Acid with n-Butanol, n-Hexanol, n-Octanol and n-Dodecanol. Z.Phys.Chem.(München) 137 (1983) 129-137
+Source
+Rius A.; Otero J.L.; Macarron A.: systèmes méthanolacide acétique; éthanolacide acétique; n-propanolacide acétique; n-butanolacide acétique. Chem.Eng.Sci. 10 (1959) 105-111
+Amer Amezaga S.; Fernandez Biarge J.: Comportamiento Termodinamico de Agunos Sistemas Binarios Acido Acetico-Alcohol en Equilibrio Liquido Vapor. Anal.Quim. 69 (1973) 569-586
+Apelblat A.; Tamir A.; Wagner M.: The Binary Mixtures of Acetic Acid with n-Butanol, n-Hexanol, n-Octanol and n-Dodecanol. Z.Phys.Chem.(München) 137 (1983) 129-137

@@ -1,52 +1,52 @@
-$$$Enthalpy of Mixing Data Set 1927	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	318.150	K	
-hE [J/mol]	x1 [mol/mol]	
-635.000	0.19600	
-1241.000	0.44900	
-1235.000	0.45000	
-1383.000	0.56100	
-1393.000	0.56200	
-1254.000	0.81000	
-865.000	0.91800	
-Source	
-Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422	
-$$$Enthalpy of Mixing Data Set 1928	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-600.000	0.26000	
-1035.000	0.50000	
-1035.000	0.50400	
-1030.000	0.51300	
-1050.000	0.51300	
-1090.000	0.74900	
-1070.000	0.76100	
-830.000	0.88200	
-Source	
-Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396	
-$$$Enthalpy of Mixing Data Set 1929	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
-605.000	0.22300	
-745.000	0.29400	
-1130.000	0.47200	
-1140.000	0.47400	
-1180.000	0.50200	
-1195.000	0.51200	
-1215.000	0.54000	
-1220.000	0.54700	
-1245.000	0.72000	
-1160.000	0.78700	
-Source	
-Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396	
-Source	
-Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396	
-Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422	
+$$$Enthalpy of Mixing Data Set 1927
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	318.150	K
+hE [J/mol]	x1 [mol/mol]
+635.000	0.19600
+1241.000	0.44900
+1235.000	0.45000
+1383.000	0.56100
+1393.000	0.56200
+1254.000	0.81000
+865.000	0.91800
+Source
+Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422
+$$$Enthalpy of Mixing Data Set 1928
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+600.000	0.26000
+1035.000	0.50000
+1035.000	0.50400
+1030.000	0.51300
+1050.000	0.51300
+1090.000	0.74900
+1070.000	0.76100
+830.000	0.88200
+Source
+Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396
+$$$Enthalpy of Mixing Data Set 1929
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+605.000	0.22300
+745.000	0.29400
+1130.000	0.47200
+1140.000	0.47400
+1180.000	0.50200
+1195.000	0.51200
+1215.000	0.54000
+1220.000	0.54700
+1245.000	0.72000
+1160.000	0.78700
+Source
+Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396
+Source
+Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396
+Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422

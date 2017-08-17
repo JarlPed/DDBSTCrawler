@@ -1,43 +1,43 @@
-$$$Enthalpy of Mixing Data Set 1373	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	318.150	K	
-hE [J/mol]	x1 [mol/mol]	
-116.000	0.15700	
-147.000	0.27900	
-159.000	0.48800	
-158.000	0.49300	
-152.000	0.59400	
-148.000	0.60200	
-145.000	0.60400	
-108.000	0.78800	
-Source	
-Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422	
-$$$Enthalpy of Mixing Data Set 1374	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-143.800	0.40220	
-142.300	0.40420	
-144.100	0.43410	
-Source	
-Mattingley B.I.; Fenby D.V.: Excess Enthalpies of Triethylamine + Benzene and of Acetone + Benzene. J.Chem.Thermodyn. 7 (1975) 307-308	
-$$$Enthalpy of Mixing Data Set 1375	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
-143.500	0.36480	
-146.800	0.41590	
-146.100	0.43260	
-146.800	0.43780	
-147.000	0.44140	
-Source	
-Mattingley B.I.; Fenby D.V.: Excess Enthalpies of Triethylamine + Benzene and of Acetone + Benzene. J.Chem.Thermodyn. 7 (1975) 307-308	
-Source	
-Mattingley B.I.; Fenby D.V.: Excess Enthalpies of Triethylamine + Benzene and of Acetone + Benzene. J.Chem.Thermodyn. 7 (1975) 307-308	
-Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422	
+$$$Enthalpy of Mixing Data Set 1373
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	318.150	K
+hE [J/mol]	x1 [mol/mol]
+116.000	0.15700
+147.000	0.27900
+159.000	0.48800
+158.000	0.49300
+152.000	0.59400
+148.000	0.60200
+145.000	0.60400
+108.000	0.78800
+Source
+Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422
+$$$Enthalpy of Mixing Data Set 1374
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+143.800	0.40220
+142.300	0.40420
+144.100	0.43410
+Source
+Mattingley B.I.; Fenby D.V.: Excess Enthalpies of Triethylamine + Benzene and of Acetone + Benzene. J.Chem.Thermodyn. 7 (1975) 307-308
+$$$Enthalpy of Mixing Data Set 1375
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+143.500	0.36480
+146.800	0.41590
+146.100	0.43260
+146.800	0.43780
+147.000	0.44140
+Source
+Mattingley B.I.; Fenby D.V.: Excess Enthalpies of Triethylamine + Benzene and of Acetone + Benzene. J.Chem.Thermodyn. 7 (1975) 307-308
+Source
+Mattingley B.I.; Fenby D.V.: Excess Enthalpies of Triethylamine + Benzene and of Acetone + Benzene. J.Chem.Thermodyn. 7 (1975) 307-308
+Brown I.; Fock W.: III. Acetone and Alcohol Solutions. Aust.J.Chem. 10 (1957) 417-422

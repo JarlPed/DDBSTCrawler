@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-282.35	3.7700	GLCR	1	
-282.55	3.7800	GLCR	1	
-292.85	3.7400	GLCR	1	
-Short Term	Explanation	
-GLCR	GLC (with gas phase correction)	
-1	Vernier P.: Application de la chromatographie gaz liquide à l'étude thermodynamique de la sélectivité des mélanges de solvants. Thesis  (1968)	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+282.35	3.7700	GLCR	1
+282.55	3.7800	GLCR	1
+292.85	3.7400	GLCR	1
+Short Term	Explanation
+GLCR	GLC (with gas phase correction)
+1	Vernier P.: Application de la chromatographie gaz liquide à l'étude thermodynamique de la sélectivité des mélanges de solvants. Thesis  (1968)

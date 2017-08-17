@@ -1,68 +1,68 @@
-$$$Solid-Liquid Equilibrium Data Set 4146	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-273.22	0.00000	
-267.86	0.05147	
-262.57	0.10116	
-257.97	0.14968	
-255.29	0.19401	
-251.90	0.25335	
-249.45	0.30159	
-247.00	0.34983	
-244.34	0.39894	
-241.65	0.45473	
-239.55	0.49743	
-237.07	0.54863	
-225.69	0.74834	
-228.77	0.69849	
-232.45	0.64108	
-234.95	0.59340	
-220.81	0.79723	
-Source	
-Jakob A.: . Unpublished Data  (1994) 0	
-$$$Solid-Liquid Equilibrium Data Set 19725	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-273.15	0.00000	
-267.95	0.033316	
-263.15	0.07196	
-255.65	0.11733	
-248.35	0.17135	
-241.65	0.23674	
-232.95	0.31753	
-222.15	0.41987	
-215.15	0.48201	
-207.65	0.55371	
-180.65	0.73626	
-177.15	0.84201	
-178.15	0.93827	
-178.75	0.96846	
-178.85	1.00000	
-Source	
-Bakhtyukova G.N.; Demidova Y.A.; Kiryakov V.N.; Usyukin I.P.; Shleinikov V.M.: Freezing Points of Aqueous Acetone, Methyl Alcohol, and N-Methylpyrrolidone Solutions. J.Appl.Chem.USSR 40 (1967) 592-595	
-$$$Solid-Liquid Equilibrium Data Set 19726	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xS1 [mol/mol]	
-273.15	0.00000	
-260.65	0.033316	
-245.65	0.07196	
-233.55	0.11733	
-219.65	0.17135	
-205.15	0.23674	
-193.15	0.31753	
-180.15	0.41987	
-177.15	0.48201	
-177.15	0.55371	
-177.15	0.73626	
-177.15	0.84201	
-177.15	0.93827	
-177.65	0.96846	
-178.85	1.00000	
-Source	
-Bakhtyukova G.N.; Demidova Y.A.; Kiryakov V.N.; Usyukin I.P.; Shleinikov V.M.: Freezing Points of Aqueous Acetone, Methyl Alcohol, and N-Methylpyrrolidone Solutions. J.Appl.Chem.USSR 40 (1967) 592-595	
+$$$Solid-Liquid Equilibrium Data Set 4146
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+273.22	0.00000
+267.86	0.05147
+262.57	0.10116
+257.97	0.14968
+255.29	0.19401
+251.90	0.25335
+249.45	0.30159
+247.00	0.34983
+244.34	0.39894
+241.65	0.45473
+239.55	0.49743
+237.07	0.54863
+225.69	0.74834
+228.77	0.69849
+232.45	0.64108
+234.95	0.59340
+220.81	0.79723
+Source
+Jakob A.: . Unpublished Data  (1994) 0
+$$$Solid-Liquid Equilibrium Data Set 19725
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+273.15	0.00000
+267.95	0.033316
+263.15	0.07196
+255.65	0.11733
+248.35	0.17135
+241.65	0.23674
+232.95	0.31753
+222.15	0.41987
+215.15	0.48201
+207.65	0.55371
+180.65	0.73626
+177.15	0.84201
+178.15	0.93827
+178.75	0.96846
+178.85	1.00000
+Source
+Bakhtyukova G.N.; Demidova Y.A.; Kiryakov V.N.; Usyukin I.P.; Shleinikov V.M.: Freezing Points of Aqueous Acetone, Methyl Alcohol, and N-Methylpyrrolidone Solutions. J.Appl.Chem.USSR 40 (1967) 592-595
+$$$Solid-Liquid Equilibrium Data Set 19726
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	H2O	18.015	7732-18-5	Water
+T [K]	xS1 [mol/mol]
+273.15	0.00000
+260.65	0.033316
+245.65	0.07196
+233.55	0.11733
+219.65	0.17135
+205.15	0.23674
+193.15	0.31753
+180.15	0.41987
+177.15	0.48201
+177.15	0.55371
+177.15	0.73626
+177.15	0.84201
+177.15	0.93827
+177.65	0.96846
+178.85	1.00000
+Source
+Bakhtyukova G.N.; Demidova Y.A.; Kiryakov V.N.; Usyukin I.P.; Shleinikov V.M.: Freezing Points of Aqueous Acetone, Methyl Alcohol, and N-Methylpyrrolidone Solutions. J.Appl.Chem.USSR 40 (1967) 592-595

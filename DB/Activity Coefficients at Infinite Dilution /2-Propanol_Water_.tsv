@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	H2O	18.015	7732-18-5	Water	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-288.15	5.7200	STAT	2	
-318.35	3.5000	EBUL	1	
-328.15	3.3900	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-STAT	static method	
-1	Bergmann D.L.; Eckert C.A.: Measurement of Limiting Activity Coefficients for Aqueous Systems by Differential Ebulliometry. Fluid Phase Equilib. 63 (1991) 141-150	
-2	Pividal K.A.; Birtigh A.; Sandler S.I.: Infinite Dilution Activity Coefficients for Oxygenate Systems Determined Using a Differential Static Cell. J.Chem.Eng.Data 37 (1992) 484-487	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	H2O	18.015	7732-18-5	Water
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+288.15	5.7200	STAT	2
+318.35	3.5000	EBUL	1
+328.15	3.3900	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+STAT	static method
+1	Bergmann D.L.; Eckert C.A.: Measurement of Limiting Activity Coefficients for Aqueous Systems by Differential Ebulliometry. Fluid Phase Equilib. 63 (1991) 141-150
+2	Pividal K.A.; Birtigh A.; Sandler S.I.: Infinite Dilution Activity Coefficients for Oxygenate Systems Determined Using a Differential Static Cell. J.Chem.Eng.Data 37 (1992) 484-487

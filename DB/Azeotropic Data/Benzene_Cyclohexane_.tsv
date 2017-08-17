@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmax	333.150	57.619	0.52030	n.a.	n.a.	Author	1	
-homPmax	350.650	101.325	0.55000	n.a.	n.a.	Author	3	
-homPmax	350.770	101.325	0.54500	n.a.	n.a.	Author	2	
-homPmax	homogeneous pressure maximum	
-1	Boublik T.: An Estimate of Limiting Values of Relative Volatility with Help of the Theorem of Corresponding. Collect.Czech.Chem.Commun. 28 (1963) 1771-1779	
-2	Sieg L.: Flüssigkeit-Dampf-Gelichgewichte in binären Systemen von Kohlenwasserstoffen verschiedenen Typs. Chem.Ing.Tech. CIT 22 (1950) 322-326	
-3	Darmois R.; Darmois J.: Etude de l´Equilibre Liquide-Vapeur, Benzene-Cyclohexane. J.Chim.Phys.Phys.-Chim.Biol. 61 (1964) 830-835	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C6H12	84.161	110-82-7	Cyclohexane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+homPmax	333.150	57.619	0.52030	n.a.	n.a.	Author	1
+homPmax	350.650	101.325	0.55000	n.a.	n.a.	Author	3
+homPmax	350.770	101.325	0.54500	n.a.	n.a.	Author	2
+homPmax	homogeneous pressure maximum
+1	Boublik T.: An Estimate of Limiting Values of Relative Volatility with Help of the Theorem of Corresponding. Collect.Czech.Chem.Commun. 28 (1963) 1771-1779
+2	Sieg L.: Flüssigkeit-Dampf-Gelichgewichte in binären Systemen von Kohlenwasserstoffen verschiedenen Typs. Chem.Ing.Tech. CIT 22 (1950) 322-326
+3	Darmois R.; Darmois J.: Etude de l´Equilibre Liquide-Vapeur, Benzene-Cyclohexane. J.Chim.Phys.Phys.-Chim.Biol. 61 (1964) 830-835

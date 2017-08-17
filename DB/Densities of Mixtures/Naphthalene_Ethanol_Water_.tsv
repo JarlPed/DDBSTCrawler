@@ -1,25 +1,25 @@
-$$$Density Data Set 74217	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C10H8	128.174	91-20-3	Naphthalene	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9820	7.80765003583E-6	0.04380	
-0.9660	1.24218004203E-5	0.06720	
-0.9550	2.80343010672E-5	0.10240	
-0.9440	5.85541019973E-5	0.13079	
-0.9330	0.000208336990909	0.18256	
-0.9170	0.000365640007658	0.21003	
-0.8990	0.00102959002834	0.28051	
-0.8810	0.002291	0.35788	
-0.8660	0.003732	0.41973	
-0.8510	0.006343	0.49902	
-0.8270	0.013786	0.66284	
-0.8190	0.018253	0.72640	
-0.8030	0.032016	0.87738	
-0.8000	0.041764	0.95824	
-Source	
-LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497	
-Source	
-LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497	
+$$$Density Data Set 74217
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C10H8	128.174	91-20-3	Naphthalene
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9820	7.80765003583E-6	0.04380
+0.9660	1.24218004203E-5	0.06720
+0.9550	2.80343010672E-5	0.10240
+0.9440	5.85541019973E-5	0.13079
+0.9330	0.000208336990909	0.18256
+0.9170	0.000365640007658	0.21003
+0.8990	0.00102959002834	0.28051
+0.8810	0.002291	0.35788
+0.8660	0.003732	0.41973
+0.8510	0.006343	0.49902
+0.8270	0.013786	0.66284
+0.8190	0.018253	0.72640
+0.8030	0.032016	0.87738
+0.8000	0.041764	0.95824
+Source
+LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497
+Source
+LePree J.M.; Mulski M.J.; Connors K.A.: Part 6. The Phenomenological Model Applied to the Solubility of Naphthalene and 4-Nitroaniline in Binary Aqueous-Organic Solvent Mixtures. J.Chem.Soc.Perkin Trans.II  (1994) 1491-1497

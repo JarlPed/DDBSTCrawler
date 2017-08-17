@@ -1,49 +1,49 @@
-$$$Enthalpy of Mixing Data Set 3164	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-320.800	0.18910	
-471.000	0.31880	
-542.000	0.41280	
-571.900	0.48390	
-575.600	0.56210	
-561.000	0.63120	
-505.200	0.72050	
-362.700	0.83680	
-Source	
-Lundberg G.W.: XI. Heats of Mixing of Hydrocarbons. J.Chem.Eng.Data 9 (1964) 193-198	
-$$$Enthalpy of Mixing Data Set 3165	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	323.150	K	
-hE [J/mol]	x1 [mol/mol]	
-323.900	0.21140	
-459.600	0.34880	
-517.800	0.44660	
-536.300	0.51820	
-Source	
-Lundberg G.W.: XI. Heats of Mixing of Hydrocarbons. J.Chem.Eng.Data 9 (1964) 193-198	
-$$$Enthalpy of Mixing Data Set 3166	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
-408.829	0.28200	
-400.272	0.29080	
-480.041	0.42620	
-492.035	0.47110	
-539.457	0.55120	
-505.671	0.67730	
-435.471	0.77020	
-210.798	0.91180	
-93.708	0.96580	
-94.080	0.96640	
-Source	
-Murakami S.; Fujishiro R.: Thermochemical Evidence of OH-pi Type Intermolecular Hydrogen Bonds. Bull.Chem.Soc.Japan 40 (1967) 1784-1789	
-Source	
-Lundberg G.W.: XI. Heats of Mixing of Hydrocarbons. J.Chem.Eng.Data 9 (1964) 193-198	
-Murakami S.; Fujishiro R.: Thermochemical Evidence of OH-pi Type Intermolecular Hydrogen Bonds. Bull.Chem.Soc.Japan 40 (1967) 1784-1789	
+$$$Enthalpy of Mixing Data Set 3164
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+320.800	0.18910
+471.000	0.31880
+542.000	0.41280
+571.900	0.48390
+575.600	0.56210
+561.000	0.63120
+505.200	0.72050
+362.700	0.83680
+Source
+Lundberg G.W.: XI. Heats of Mixing of Hydrocarbons. J.Chem.Eng.Data 9 (1964) 193-198
+$$$Enthalpy of Mixing Data Set 3165
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	323.150	K
+hE [J/mol]	x1 [mol/mol]
+323.900	0.21140
+459.600	0.34880
+517.800	0.44660
+536.300	0.51820
+Source
+Lundberg G.W.: XI. Heats of Mixing of Hydrocarbons. J.Chem.Eng.Data 9 (1964) 193-198
+$$$Enthalpy of Mixing Data Set 3166
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+408.829	0.28200
+400.272	0.29080
+480.041	0.42620
+492.035	0.47110
+539.457	0.55120
+505.671	0.67730
+435.471	0.77020
+210.798	0.91180
+93.708	0.96580
+94.080	0.96640
+Source
+Murakami S.; Fujishiro R.: Thermochemical Evidence of OH-pi Type Intermolecular Hydrogen Bonds. Bull.Chem.Soc.Japan 40 (1967) 1784-1789
+Source
+Lundberg G.W.: XI. Heats of Mixing of Hydrocarbons. J.Chem.Eng.Data 9 (1964) 193-198
+Murakami S.; Fujishiro R.: Thermochemical Evidence of OH-pi Type Intermolecular Hydrogen Bonds. Bull.Chem.Soc.Japan 40 (1967) 1784-1789

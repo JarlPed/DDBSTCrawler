@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	CH4O	32.042	67-56-1	Methanol	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmax	313.150	40.871	n.a.	0.65000	Phase equilibrium	DDBST	3	
-homPmax	~   334.250	100.925	n.a.	0.70919	Distillation	Author	2	
-homPmax	335.400	101.325	n.a.	0.68362	Distillation	Author	1	
-homPmax	homogeneous pressure maximum	
-~	Approximate Value	
-1	Lecat M.: Nouveaux Azeotropes Binaires. Seconde Liste. Recl.Trav.Chim.Pays-Bas 45 (1926) 620-627	
-2	Ryland G.: A Contribution to the Study of Liquid Mixtures of Constant Boiling-Point. Am.Chem.J. 22 (1899) 384-396	
-3	Murti P.S.; van Winkle M.: Vapor-Liquid Equilibria for Binary Systems of Methanol, Ethyl Alcohol, 1-Propanol, and 2-Propanol with Ethyl Acetate and 1-Propanol-Water. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 72-81	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	CH4O	32.042	67-56-1	Methanol
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+homPmax	313.150	40.871	n.a.	0.65000	Phase equilibrium	DDBST	3
+homPmax	~   334.250	100.925	n.a.	0.70919	Distillation	Author	2
+homPmax	335.400	101.325	n.a.	0.68362	Distillation	Author	1
+homPmax	homogeneous pressure maximum
+~	Approximate Value
+1	Lecat M.: Nouveaux Azeotropes Binaires. Seconde Liste. Recl.Trav.Chim.Pays-Bas 45 (1926) 620-627
+2	Ryland G.: A Contribution to the Study of Liquid Mixtures of Constant Boiling-Point. Am.Chem.J. 22 (1899) 384-396
+3	Murti P.S.; van Winkle M.: Vapor-Liquid Equilibria for Binary Systems of Methanol, Ethyl Alcohol, 1-Propanol, and 2-Propanol with Ethyl Acetate and 1-Propanol-Water. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 72-81

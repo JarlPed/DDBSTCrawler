@@ -1,59 +1,59 @@
-$$$Excess Heat Capacity Data Set 754	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	288.00	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-1.4860	0.09940	
-2.9338	0.19600	
-4.7780	0.30090	
-6.5815	0.40020	
-8.7078	0.50150	
-10.0985	0.60080	
-10.8818	0.70040	
-10.4551	0.80030	
-7.5819	0.90020	
-Source	
-Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56	
-$$$Excess Heat Capacity Data Set 755	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.00	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-0.2706	0.01000	
-0.6868	0.02900	
-0.9511	0.05000	
-1.8685	0.09950	
-3.7644	0.19630	
-5.9351	0.30170	
-8.0074	0.40030	
-10.2646	0.50040	
-11.9497	0.60000	
-12.5796	0.66720	
-12.6417	0.69990	
-12.1138	0.79850	
-8.6418	0.90010	
-5.3849	0.95000	
-1.3999	0.99000	
-Source	
-Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56	
-$$$Excess Heat Capacity Data Set 756	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	308.00	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-1.7795	0.10070	
-4.2590	0.19650	
-6.4828	0.29980	
-9.4244	0.40040	
-11.6118	0.50130	
-13.2613	0.60020	
-14.1638	0.70030	
-13.3775	0.80040	
-9.6710	0.90020	
-Source	
-Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56	
-Source	
-Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56	
+$$$Excess Heat Capacity Data Set 754
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	288.00	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+1.4860	0.09940
+2.9338	0.19600
+4.7780	0.30090
+6.5815	0.40020
+8.7078	0.50150
+10.0985	0.60080
+10.8818	0.70040
+10.4551	0.80030
+7.5819	0.90020
+Source
+Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56
+$$$Excess Heat Capacity Data Set 755
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.00	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+0.2706	0.01000
+0.6868	0.02900
+0.9511	0.05000
+1.8685	0.09950
+3.7644	0.19630
+5.9351	0.30170
+8.0074	0.40030
+10.2646	0.50040
+11.9497	0.60000
+12.5796	0.66720
+12.6417	0.69990
+12.1138	0.79850
+8.6418	0.90010
+5.3849	0.95000
+1.3999	0.99000
+Source
+Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56
+$$$Excess Heat Capacity Data Set 756
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	308.00	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+1.7795	0.10070
+4.2590	0.19650
+6.4828	0.29980
+9.4244	0.40040
+11.6118	0.50130
+13.2613	0.60020
+14.1638	0.70030
+13.3775	0.80040
+9.6710	0.90020
+Source
+Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56
+Source
+Vasilev V.A.; Novikov A.N.: Thermochemische und volumetrische Eigenschaften des Systems N-Methylpyrrolidon-Wasser bei 288-323 K. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 32 (1989) 53-56

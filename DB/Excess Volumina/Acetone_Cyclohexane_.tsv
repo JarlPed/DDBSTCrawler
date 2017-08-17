@@ -1,62 +1,62 @@
-$$$Excess Volume Data Set 506	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	308.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.2580	0.05490	
-0.6070	0.14210	
-0.8000	0.19730	
-0.9420	0.24760	
-1.0740	0.30490	
-1.1700	0.35990	
-1.2210	0.39940	
-1.2510	0.44870	
-1.2610	0.49380	
-1.2530	0.52490	
-1.2330	0.56730	
-1.1410	0.63750	
-1.0450	0.68950	
-0.9720	0.72250	
-0.8960	0.75220	
-0.7410	0.80730	
-0.6080	0.84750	
-0.5530	0.86280	
-0.4120	0.89990	
-0.1970	0.95310	
-Source	
-Singh P.P.; Malik R.; Maken S.; Acree, Jr.W.E.: Part 3. Excess Molar Volumes of 2-Propanone-Tribromomethane-Alkane Mixtures. J.Chem.Soc.Faraday Trans. 86 (1990) 2853-2857	
-$$$Excess Volume Data Set 2936	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.4911	0.10650	
-0.7787	0.19950	
-0.9704	0.29630	
-1.1208	0.50300	
-1.0766	0.60340	
-0.9544	0.70070	
-0.7419	0.79900	
-0.4317	0.89760	
-Source	
-Radojkovic N.; Taslic A.; Grozdanic D.; Djordjevic B.; Malic D.: Excess Volumes of Acetone + Benzene, Acetone + Cyclohexane, and Acetone + Benzene + Cyclohexane at 298.15 K. J.Chem.Thermodyn. 9 (1977) 349-356	
-$$$Excess Volume Data Set 4264	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.5780	0.14370	
-1.0010	0.34240	
-1.0720	0.47090	
-1.0730	0.56970	
-0.8010	0.77100	
-0.6480	0.83590	
-Source	
-Nath J.; Dixit A.P.: Excess Volumes for Binary Liquid Mixtures of Acetone with Benzene, Toluene, p-Xylene, Mesitylene, and Cyclohexane. J.Chem.Eng.Data 28 (1983) 190-191	
-Source	
-Singh P.P.; Malik R.; Maken S.; Acree, Jr.W.E.: Part 3. Excess Molar Volumes of 2-Propanone-Tribromomethane-Alkane Mixtures. J.Chem.Soc.Faraday Trans. 86 (1990) 2853-2857	
-Radojkovic N.; Taslic A.; Grozdanic D.; Djordjevic B.; Malic D.: Excess Volumes of Acetone + Benzene, Acetone + Cyclohexane, and Acetone + Benzene + Cyclohexane at 298.15 K. J.Chem.Thermodyn. 9 (1977) 349-356	
-Nath J.; Dixit A.P.: Excess Volumes for Binary Liquid Mixtures of Acetone with Benzene, Toluene, p-Xylene, Mesitylene, and Cyclohexane. J.Chem.Eng.Data 28 (1983) 190-191	
+$$$Excess Volume Data Set 506
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	308.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.2580	0.05490
+0.6070	0.14210
+0.8000	0.19730
+0.9420	0.24760
+1.0740	0.30490
+1.1700	0.35990
+1.2210	0.39940
+1.2510	0.44870
+1.2610	0.49380
+1.2530	0.52490
+1.2330	0.56730
+1.1410	0.63750
+1.0450	0.68950
+0.9720	0.72250
+0.8960	0.75220
+0.7410	0.80730
+0.6080	0.84750
+0.5530	0.86280
+0.4120	0.89990
+0.1970	0.95310
+Source
+Singh P.P.; Malik R.; Maken S.; Acree, Jr.W.E.: Part 3. Excess Molar Volumes of 2-Propanone-Tribromomethane-Alkane Mixtures. J.Chem.Soc.Faraday Trans. 86 (1990) 2853-2857
+$$$Excess Volume Data Set 2936
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.4911	0.10650
+0.7787	0.19950
+0.9704	0.29630
+1.1208	0.50300
+1.0766	0.60340
+0.9544	0.70070
+0.7419	0.79900
+0.4317	0.89760
+Source
+Radojkovic N.; Taslic A.; Grozdanic D.; Djordjevic B.; Malic D.: Excess Volumes of Acetone + Benzene, Acetone + Cyclohexane, and Acetone + Benzene + Cyclohexane at 298.15 K. J.Chem.Thermodyn. 9 (1977) 349-356
+$$$Excess Volume Data Set 4264
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.5780	0.14370
+1.0010	0.34240
+1.0720	0.47090
+1.0730	0.56970
+0.8010	0.77100
+0.6480	0.83590
+Source
+Nath J.; Dixit A.P.: Excess Volumes for Binary Liquid Mixtures of Acetone with Benzene, Toluene, p-Xylene, Mesitylene, and Cyclohexane. J.Chem.Eng.Data 28 (1983) 190-191
+Source
+Singh P.P.; Malik R.; Maken S.; Acree, Jr.W.E.: Part 3. Excess Molar Volumes of 2-Propanone-Tribromomethane-Alkane Mixtures. J.Chem.Soc.Faraday Trans. 86 (1990) 2853-2857
+Radojkovic N.; Taslic A.; Grozdanic D.; Djordjevic B.; Malic D.: Excess Volumes of Acetone + Benzene, Acetone + Cyclohexane, and Acetone + Benzene + Cyclohexane at 298.15 K. J.Chem.Thermodyn. 9 (1977) 349-356
+Nath J.; Dixit A.P.: Excess Volumes for Binary Liquid Mixtures of Acetone with Benzene, Toluene, p-Xylene, Mesitylene, and Cyclohexane. J.Chem.Eng.Data 28 (1983) 190-191

@@ -1,46 +1,46 @@
-$$$Enthalpy of Mixing Data Set 1610	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-211.433	0.12420	
-404.026	0.19950	
-777.907	0.45470	
-799.679	0.59150	
-817.682	0.69480	
-754.042	0.77300	
-558.938	0.86680	
-Source	
-Murakami S.; Amaya K.; Fujishiro R.: The Energy of Hydrogen Bonding between Alcohol and Ketone Molecules. Bull.Chem.Soc.Japan 37 (1964) 1776-1780	
-$$$Enthalpy of Mixing Data Set 6166	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	333.150	K	
-hE [J/mol]	x1 [mol/mol]	
-29.930	0.00660	
-45.270	0.01000	
-60.310	0.01330	
-67.110	0.01470	
-Source	
-Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	
-$$$Enthalpy of Mixing Data Set 11678	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	293.150	K	
-hE [J/mol]	x1 [mol/mol]	
-591.344	0.32580	
-728.336	0.52800	
-729.717	0.67050	
-515.102	0.88170	
-112.164	0.99488	
-42.831	0.99821	
-22.358	0.99906	
-Source	
-Pahlke H.: Über Mischungswärmen organischer Substanzen. Thesis  (1935)	
-Source	
-Murakami S.; Amaya K.; Fujishiro R.: The Energy of Hydrogen Bonding between Alcohol and Ketone Molecules. Bull.Chem.Soc.Japan 37 (1964) 1776-1780	
-Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	
-Pahlke H.: Über Mischungswärmen organischer Substanzen. Thesis  (1935)	
+$$$Enthalpy of Mixing Data Set 1610
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+211.433	0.12420
+404.026	0.19950
+777.907	0.45470
+799.679	0.59150
+817.682	0.69480
+754.042	0.77300
+558.938	0.86680
+Source
+Murakami S.; Amaya K.; Fujishiro R.: The Energy of Hydrogen Bonding between Alcohol and Ketone Molecules. Bull.Chem.Soc.Japan 37 (1964) 1776-1780
+$$$Enthalpy of Mixing Data Set 6166
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	333.150	K
+hE [J/mol]	x1 [mol/mol]
+29.930	0.00660
+45.270	0.01000
+60.310	0.01330
+67.110	0.01470
+Source
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118
+$$$Enthalpy of Mixing Data Set 11678
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	293.150	K
+hE [J/mol]	x1 [mol/mol]
+591.344	0.32580
+728.336	0.52800
+729.717	0.67050
+515.102	0.88170
+112.164	0.99488
+42.831	0.99821
+22.358	0.99906
+Source
+Pahlke H.: Über Mischungswärmen organischer Substanzen. Thesis  (1935)
+Source
+Murakami S.; Amaya K.; Fujishiro R.: The Energy of Hydrogen Bonding between Alcohol and Ketone Molecules. Bull.Chem.Soc.Japan 37 (1964) 1776-1780
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118
+Pahlke H.: Über Mischungswärmen organischer Substanzen. Thesis  (1935)

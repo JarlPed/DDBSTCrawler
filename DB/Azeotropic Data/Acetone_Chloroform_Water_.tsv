@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CHCl3	119.377	67-66-3	Chloroform	
-3	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-hetSaddle	333.550	101.325	0.48414	0.35331	n.a.	n.a.	Author	2	
-hetSaddle	333.550	101.325	0.46428	0.32972	n.a.	n.a.	Author	1	
-hetSaddle	heterogeneous saddle	
-1	Lutugina N.W.; Reshetova L.I.; Semenova L.P.: Isotherm-Isobars and Distillation Lines in the Ternary System Acetone-Chloroform-Water. Zh.Prikl.Khim. 38 (1965) 1794-1801	
-2	Reinders W.; de Minjer C.H.: VI. The System Water-Acetone-Chloroform. Recl.Trav.Chim.Pays-Bas 66 (1947) 573-604	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CHCl3	119.377	67-66-3	Chloroform
+3	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+hetSaddle	333.550	101.325	0.48414	0.35331	n.a.	n.a.	Author	2
+hetSaddle	333.550	101.325	0.46428	0.32972	n.a.	n.a.	Author	1
+hetSaddle	heterogeneous saddle
+1	Lutugina N.W.; Reshetova L.I.; Semenova L.P.: Isotherm-Isobars and Distillation Lines in the Ternary System Acetone-Chloroform-Water. Zh.Prikl.Khim. 38 (1965) 1794-1801
+2	Reinders W.; de Minjer C.H.: VI. The System Water-Acetone-Chloroform. Recl.Trav.Chim.Pays-Bas 66 (1947) 573-604

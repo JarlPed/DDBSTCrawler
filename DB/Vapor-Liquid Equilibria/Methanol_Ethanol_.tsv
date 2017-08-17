@@ -1,79 +1,79 @@
-$$$Vapor-Liquid Equilibrium Data Set 451	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-351.45	0.00000	0.00000	
-349.75	0.13400	0.18300	
-348.15	0.24200	0.32600	
-346.75	0.32000	0.42800	
-345.45	0.40100	0.52900	
-344.85	0.43500	0.56600	
-343.15	0.54200	0.67600	
-341.75	0.65200	0.75900	
-340.85	0.72800	0.81300	
-340.05	0.79000	0.85800	
-339.75	0.81400	0.87500	
-338.95	0.87300	0.91900	
-338.75	0.91000	0.93700	
-337.75	1.00000	1.00000	
-Source	
-Amer H.H.; Paxton R.R.; van Winkle M.: Vapor-liquid equilibria. Ind.Eng.Chem. 48 (1956) 142-146	
-$$$Vapor-Liquid Equilibrium Data Set 2120	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-350.15	0.07300	0.12000	
-348.95	0.14200	0.22200	
-347.15	0.24800	0.36200	
-345.45	0.37500	0.50500	
-344.05	0.47000	0.60000	
-342.35	0.60000	0.72500	
-340.75	0.72500	0.82000	
-338.95	0.88800	0.93200	
-Source	
-Delzenne A.O.: Vapor-Liquid Equilibrium Data for Ternary System Methanol-Ethanol-Water. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 224-230	
-$$$Vapor-Liquid Equilibrium Data Set 2719	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-351.55	0.00000	0.00000	
-351.35	0.01200	0.02600	
-350.45	0.05600	0.08900	
-349.85	0.11600	0.16200	
-349.05	0.14200	0.19400	
-348.65	0.16200	0.22800	
-348.35	0.19000	0.26100	
-347.85	0.21400	0.29300	
-347.45	0.24000	0.32700	
-347.05	0.26000	0.35700	
-346.65	0.28700	0.38600	
-346.15	0.31100	0.44500	
-345.65	0.34500	0.47000	
-345.45	0.38000	0.49200	
-344.15	0.43400	0.56000	
-343.75	0.48000	0.60000	
-343.15	0.49700	0.63700	
-342.45	0.56700	0.68500	
-342.15	0.59700	0.71600	
-341.75	0.61000	0.73500	
-341.45	0.63000	0.75100	
-341.25	0.64500	0.76300	
-340.75	0.68300	0.79100	
-340.65	0.71500	0.80500	
-340.45	0.74500	0.81800	
-340.25	0.73100	0.82600	
-339.55	0.78900	0.87000	
-338.75	0.91000	0.95000	
-337.85	1.00000	1.00000	
-Source	
-Slobodyanik I.P.; Babushkina E.M.: Liquid-Liquid Equilibrium in the System Methanol-Ethanol. J.Appl.Chem.USSR 39 (1966) 1782-1783	
-Source	
-Amer H.H.; Paxton R.R.; van Winkle M.: Vapor-liquid equilibria. Ind.Eng.Chem. 48 (1956) 142-146	
-Slobodyanik I.P.; Babushkina E.M.: Liquid-Liquid Equilibrium in the System Methanol-Ethanol. J.Appl.Chem.USSR 39 (1966) 1782-1783	
-Delzenne A.O.: Vapor-Liquid Equilibrium Data for Ternary System Methanol-Ethanol-Water. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 224-230	
+$$$Vapor-Liquid Equilibrium Data Set 451
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O	46.069	64-17-5	Ethanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+351.45	0.000000.00000
+349.75	0.13400	0.18300
+348.15	0.24200	0.32600
+346.75	0.32000	0.42800
+345.45	0.40100	0.52900
+344.85	0.43500	0.56600
+343.15	0.54200	0.67600
+341.75	0.65200	0.75900
+340.85	0.72800	0.81300
+340.05	0.79000	0.85800
+339.75	0.81400	0.87500
+338.95	0.87300	0.91900
+338.75	0.91000	0.93700
+337.75	1.000001.00000
+Source
+Amer H.H.; Paxton R.R.; van Winkle M.: Vapor-liquid equilibria. Ind.Eng.Chem. 48 (1956) 142-146
+$$$Vapor-Liquid Equilibrium Data Set 2120
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O	46.069	64-17-5	Ethanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+350.15	0.07300	0.12000
+348.95	0.14200	0.22200
+347.15	0.24800	0.36200
+345.45	0.37500	0.50500
+344.05	0.47000	0.60000
+342.35	0.60000	0.72500
+340.75	0.72500	0.82000
+338.95	0.88800	0.93200
+Source
+Delzenne A.O.: Vapor-Liquid Equilibrium Data for Ternary System Methanol-Ethanol-Water. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 224-230
+$$$Vapor-Liquid Equilibrium Data Set 2719
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O	46.069	64-17-5	Ethanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+351.55	0.000000.00000
+351.35	0.01200	0.02600
+350.45	0.05600	0.08900
+349.85	0.11600	0.16200
+349.05	0.14200	0.19400
+348.65	0.16200	0.22800
+348.35	0.19000	0.26100
+347.85	0.21400	0.29300
+347.45	0.24000	0.32700
+347.05	0.26000	0.35700
+346.65	0.28700	0.38600
+346.15	0.31100	0.44500
+345.65	0.34500	0.47000
+345.45	0.38000	0.49200
+344.15	0.43400	0.56000
+343.75	0.48000	0.60000
+343.15	0.49700	0.63700
+342.45	0.56700	0.68500
+342.15	0.59700	0.71600
+341.75	0.61000	0.73500
+341.45	0.63000	0.75100
+341.25	0.64500	0.76300
+340.75	0.68300	0.79100
+340.65	0.71500	0.80500
+340.45	0.74500	0.81800
+340.25	0.73100	0.82600
+339.55	0.78900	0.87000
+338.75	0.91000	0.95000
+337.85	1.000001.00000
+Source
+Slobodyanik I.P.; Babushkina E.M.: Liquid-Liquid Equilibrium in the System Methanol-Ethanol. J.Appl.Chem.USSR 39 (1966) 1782-1783
+Source
+Amer H.H.; Paxton R.R.; van Winkle M.: Vapor-liquid equilibria. Ind.Eng.Chem. 48 (1956) 142-146
+Slobodyanik I.P.; Babushkina E.M.: Liquid-Liquid Equilibrium in the System Methanol-Ethanol. J.Appl.Chem.USSR 39 (1966) 1782-1783
+Delzenne A.O.: Vapor-Liquid Equilibrium Data for Ternary System Methanol-Ethanol-Water. Ind.Eng.Chem. Chem.Eng.Data Series 3 (1958) 224-230

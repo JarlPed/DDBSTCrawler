@@ -1,69 +1,69 @@
-$$$Vapor-Liquid Equilibrium Data Set 1828	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-380.30	0.10000	0.38950	
-372.00	0.20000	0.60110	
-365.30	0.30000	0.73710	
-359.70	0.40000	0.82150	
-355.15	0.50000	0.87850	
-351.15	0.60000	0.91870	
-347.50	0.70000	0.94860	
-344.45	0.80000	0.96980	
-341.45	0.90000	0.98680	
-Source	
-Shnitko V.A.; Kogan V.B.; Petrova N.V.: Tetrahydrofuran - Butanol-1. Zh.Prikl.Khim. 44 (1971) 2126-2128	
-$$$Vapor-Liquid Equilibrium Data Set 15877	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	
-383.15	0.05000	
-378.55	0.10000	
-373.95	0.15000	
-371.15	0.20000	
-368.35	0.25000	
-366.15	0.30000	
-363.75	0.35000	
-361.75	0.40000	
-359.35	0.45000	
-357.05	0.50000	
-354.75	0.55000	
-352.35	0.60000	
-349.95	0.65000	
-348.15	0.70000	
-346.35	0.75000	
-344.75	0.80000	
-343.15	0.85000	
-341.75	0.90000	
-340.35	0.95000	
-Source	
-Khrennikova O.V.; Egorenko G.A.; Samsonova N.I.; Semenova L.V.; Rodina G.L.: Untersuchung des Dampf-Flüssig-Gleichgewichtes in binären Systemen Tetrahydrofuran-Beimischung. Chimiceskie reaktivy i osobo cistye veÜcestva 52 (1990) 51-59	
-$$$Vapor-Liquid Equilibrium Data Set 27139	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	95.80	kPa	
-T [K]	x1 [mol/mol]	
-389.45	0.00000	
-370.65	0.13380	
-360.45	0.24360	
-354.75	0.32570	
-350.95	0.39180	
-348.25	0.44600	
-346.35	0.49140	
-342.15	0.61230	
-340.75	0.66370	
-339.35	0.72470	
-337.95	0.82060	
-337.25	0.88760	
-337.55	1.00000	
-Source	
-Vittal Prasad T.E.; Raj E.D.A.; Maheedhar G.; Reddy M.S.; Kumar V.S.; Garapati S.; Patanjali V.; Prasad D.H.L.: Bubble-Temperature Measurements on Some Binary Mixtures formed by Tetrahydrofuran or Amyl Alcohol with Hydrocarbons, Chlorohydrocarbons, or Butanols at (94.6 or 95.8) kPa. J.Chem.Eng.Data 49 (2004) 746-749	
-Source	
-Shnitko V.A.; Kogan V.B.; Petrova N.V.: Tetrahydrofuran - Butanol-1. Zh.Prikl.Khim. 44 (1971) 2126-2128	
-Khrennikova O.V.; Egorenko G.A.; Samsonova N.I.; Semenova L.V.; Rodina G.L.: Untersuchung des Dampf-Flüssig-Gleichgewichtes in binären Systemen Tetrahydrofuran-Beimischung. Chimiceskie reaktivy i osobo cistye veÜcestva 52 (1990) 51-59	
-Vittal Prasad T.E.; Raj E.D.A.; Maheedhar G.; Reddy M.S.; Kumar V.S.; Garapati S.; Patanjali V.; Prasad D.H.L.: Bubble-Temperature Measurements on Some Binary Mixtures formed by Tetrahydrofuran or Amyl Alcohol with Hydrocarbons, Chlorohydrocarbons, or Butanols at (94.6 or 95.8) kPa. J.Chem.Eng.Data 49 (2004) 746-749	
+$$$Vapor-Liquid Equilibrium Data Set 1828
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+380.30	0.10000	0.38950
+372.00	0.20000	0.60110
+365.30	0.30000	0.73710
+359.70	0.40000	0.82150
+355.15	0.50000	0.87850
+351.15	0.60000	0.91870
+347.50	0.70000	0.94860
+344.45	0.80000	0.96980
+341.45	0.90000	0.98680
+Source
+Shnitko V.A.; Kogan V.B.; Petrova N.V.: Tetrahydrofuran - Butanol-1. Zh.Prikl.Khim. 44 (1971) 2126-2128
+$$$Vapor-Liquid Equilibrium Data Set 15877
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]
+383.15	0.05000
+378.55	0.10000
+373.95	0.15000
+371.15	0.20000
+368.35	0.25000
+366.15	0.30000
+363.75	0.35000
+361.75	0.40000
+359.35	0.45000
+357.05	0.50000
+354.75	0.55000
+352.35	0.60000
+349.95	0.65000
+348.15	0.70000
+346.35	0.75000
+344.75	0.80000
+343.15	0.85000
+341.75	0.90000
+340.35	0.95000
+Source
+Khrennikova O.V.; Egorenko G.A.; Samsonova N.I.; Semenova L.V.; Rodina G.L.: Untersuchung des Dampf-Flüssig-Gleichgewichtes in binären Systemen Tetrahydrofuran-Beimischung. Chimiceskie reaktivy i osobo cistye veÜcestva 52 (1990) 51-59
+$$$Vapor-Liquid Equilibrium Data Set 27139
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	95.80	kPa
+T [K]	x1 [mol/mol]
+389.45	0.00000
+370.65	0.13380
+360.45	0.24360
+354.75	0.32570
+350.95	0.39180
+348.25	0.44600
+346.35	0.49140
+342.15	0.61230
+340.75	0.66370
+339.35	0.72470
+337.95	0.82060
+337.25	0.88760
+337.55	1.00000
+Source
+Vittal Prasad T.E.; Raj E.D.A.; Maheedhar G.; Reddy M.S.; Kumar V.S.; Garapati S.; Patanjali V.; Prasad D.H.L.: Bubble-Temperature Measurements on Some Binary Mixtures formed by Tetrahydrofuran or Amyl Alcohol with Hydrocarbons, Chlorohydrocarbons, or Butanols at (94.6 or 95.8) kPa. J.Chem.Eng.Data 49 (2004) 746-749
+Source
+Shnitko V.A.; Kogan V.B.; Petrova N.V.: Tetrahydrofuran - Butanol-1. Zh.Prikl.Khim. 44 (1971) 2126-2128
+Khrennikova O.V.; Egorenko G.A.; Samsonova N.I.; Semenova L.V.; Rodina G.L.: Untersuchung des Dampf-Flüssig-Gleichgewichtes in binären Systemen Tetrahydrofuran-Beimischung. Chimiceskie reaktivy i osobo cistye veÜcestva 52 (1990) 51-59
+Vittal Prasad T.E.; Raj E.D.A.; Maheedhar G.; Reddy M.S.; Kumar V.S.; Garapati S.; Patanjali V.; Prasad D.H.L.: Bubble-Temperature Measurements on Some Binary Mixtures formed by Tetrahydrofuran or Amyl Alcohol with Hydrocarbons, Chlorohydrocarbons, or Butanols at (94.6 or 95.8) kPa. J.Chem.Eng.Data 49 (2004) 746-749

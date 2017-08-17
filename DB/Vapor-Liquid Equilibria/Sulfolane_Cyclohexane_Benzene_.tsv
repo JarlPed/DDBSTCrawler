@@ -1,30 +1,30 @@
-$$$Vapor-Liquid Equilibrium Data Set 9520	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2S	120.172	126-33-0	Sulfolane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-3	C6H6	78.114	71-43-2	Benzene	
-Temperature	303.15	K	
-P [kPa]	x1 [mol/mol]	x2 [mol/mol]	
-17.060	0.10080	0.17950	
-16.840	0.20100	0.15940	
-16.811	0.29750	0.13990	
-16.931	0.39520	0.12030	
-17.111	0.49940	0.09940	
-16.820	0.60120	0.07860	
-16.289	0.69950	0.05870	
-14.689	0.79680	0.03940	
-11.990	0.90050	0.01890	
-0.009333	1.00000	0.00000	
-16.111	0.18070	0.09830	
-16.931	0.16060	0.19740	
-17.540	0.14120	0.29520	
-16.220	0.00000	1.00000	
-15.911	0.00000	0.00000	
-16.080	0.05620	0.06130	
-15.749	0.10230	0.10150	
-16.411	0.15150	0.15060	
-17.331	0.20260	0.20130	
-17.480	0.25240	0.25120	
-Source	
-Karvo M.: Thermodynamic Properties of Binary and Ternary Mixtures Containing Sulfolane. Part VII. Vapour Pressures of Sulfolane+Cyclohexane+Benzene/Toluene Systems. Finn.Chem.Lett.  (1980) 196-200	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 9520
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2S	120.172	126-33-0	Sulfolane
+2	C6H12	84.161	110-82-7	Cyclohexane
+3	C6H6	78.114	71-43-2	Benzene
+Temperature	303.15	K
+P [kPa]	x1 [mol/mol]	x2 [mol/mol]
+17.060	0.10080	0.17950
+16.840	0.20100	0.15940
+16.811	0.29750	0.13990
+16.931	0.39520	0.12030
+17.111	0.49940	0.09940
+16.820	0.60120	0.07860
+16.289	0.69950	0.05870
+14.689	0.79680	0.03940
+11.990	0.90050	0.01890
+0.009333	1.00000	0.00000
+16.111	0.18070	0.09830
+16.931	0.16060	0.19740
+17.540	0.14120	0.29520
+16.220	0.00000	1.00000
+15.911	0.000000.00000
+16.080	0.05620	0.06130
+15.749	0.10230	0.10150
+16.411	0.15150	0.15060
+17.331	0.20260	0.20130
+17.480	0.25240	0.25120
+Source
+Karvo M.: Thermodynamic Properties of Binary and Ternary Mixtures Containing Sulfolane. Part VII. Vapour Pressures of Sulfolane+Cyclohexane+Benzene/Toluene Systems. Finn.Chem.Lett.  (1980) 196-200
+Source

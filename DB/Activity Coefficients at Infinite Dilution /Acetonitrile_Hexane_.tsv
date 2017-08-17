@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	24.000	NSGC	1	
-298.15	25.500	GLCN	2	
-Short Term	Explanation	
-GLCN	GLC (not specified)	
-NSGC	GLC (non steady state method)	
-1	Belfer A.J.; Locke D.C.: Non-Steady-State Gas Chromatography for Activity Coefficient Measurements. Anal.Chem. 56 (1984) 2485-2489	
-2	Deal C.H.; Derr E.L.: Selectivity and Solvency in Aromatics Recovery. Ind.Eng.Chem. Process Des.Dev. 3 (1964) 394-399	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C6H14	86.177	110-54-3	Hexane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	24.000	NSGC	1
+298.15	25.500	GLCN	2
+Short Term	Explanation
+GLCN	GLC (not specified)
+NSGC	GLC (non steady state method)
+1	Belfer A.J.; Locke D.C.: Non-Steady-State Gas Chromatography for Activity Coefficient Measurements. Anal.Chem. 56 (1984) 2485-2489
+2	Deal C.H.; Derr E.L.: Selectivity and Solvency in Aromatics Recovery. Ind.Eng.Chem. Process Des.Dev. 3 (1964) 394-399

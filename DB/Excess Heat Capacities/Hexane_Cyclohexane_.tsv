@@ -1,61 +1,61 @@
-$$$Excess Heat Capacity Data Set 103	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.20	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--0.4580	0.06128	
--0.7000	0.11319	
--0.8460	0.14796	
--1.1160	0.20872	
--1.3470	0.31947	
--1.3540	0.36896	
--1.3200	0.42570	
--1.2370	0.54881	
--1.2310	0.55031	
--1.1480	0.60412	
--0.7600	0.80079	
--0.6740	0.82807	
--0.5070	0.88099	
--0.4000	0.90379	
-Source	
-Karbalai Ghassemi M.H.; Grolier J.-P.E.: Excess Heat Capacity of C6H12 + C6H14 and C6H6 + C7H16. Int.Data Series Sel.Data Mixtures Ser. A 1976 (1976) 95-96	
-$$$Excess Heat Capacity Data Set 379	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--0.2730	0.03939	
--0.4700	0.07122	
--0.9960	0.17921	
--1.1270	0.67011	
--0.8830	0.76377	
--0.5830	0.85346	
--0.1950	0.95334	
-Source	
-Saito A.; Tanaka R.: Excess volumes and heat capacities of binary mixtures formed from cyclohexane, hexane, and heptane at 298.15 K. J.Chem.Thermodyn. 20 (1988) 859-865	
-$$$Excess Heat Capacity Data Set 380	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--0.4550	0.06860	
--0.7320	0.11942	
--0.9250	0.16271	
--1.1060	0.21289	
--1.2340	0.26004	
--1.3260	0.30928	
--1.3970	0.37574	
--1.4190	0.41447	
--1.4170	0.45732	
--1.3560	0.53667	
--1.2250	0.62276	
--0.7600	0.80269	
--0.4180	0.90057	
-Source	
-Saito A.; Tanaka R.: Excess volumes and heat capacities of binary mixtures formed from cyclohexane, hexane, and heptane at 298.15 K. J.Chem.Thermodyn. 20 (1988) 859-865	
-Source	
-Karbalai Ghassemi M.H.; Grolier J.-P.E.: Excess Heat Capacity of C6H12 + C6H14 and C6H6 + C7H16. Int.Data Series Sel.Data Mixtures Ser. A 1976 (1976) 95-96	
-Saito A.; Tanaka R.: Excess volumes and heat capacities of binary mixtures formed from cyclohexane, hexane, and heptane at 298.15 K. J.Chem.Thermodyn. 20 (1988) 859-865	
+$$$Excess Heat Capacity Data Set 103
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.20	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-0.4580	0.06128
+-0.7000	0.11319
+-0.8460	0.14796
+-1.1160	0.20872
+-1.3470	0.31947
+-1.3540	0.36896
+-1.3200	0.42570
+-1.2370	0.54881
+-1.2310	0.55031
+-1.1480	0.60412
+-0.7600	0.80079
+-0.6740	0.82807
+-0.5070	0.88099
+-0.4000	0.90379
+Source
+Karbalai Ghassemi M.H.; Grolier J.-P.E.: Excess Heat Capacity of C6H12 + C6H14 and C6H6 + C7H16. Int.Data Series Sel.Data Mixtures Ser. A 1976 (1976) 95-96
+$$$Excess Heat Capacity Data Set 379
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-0.2730	0.03939
+-0.4700	0.07122
+-0.9960	0.17921
+-1.1270	0.67011
+-0.8830	0.76377
+-0.5830	0.85346
+-0.1950	0.95334
+Source
+Saito A.; Tanaka R.: Excess volumes and heat capacities of binary mixtures formed from cyclohexane, hexane, and heptane at 298.15 K. J.Chem.Thermodyn. 20 (1988) 859-865
+$$$Excess Heat Capacity Data Set 380
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-0.4550	0.06860
+-0.7320	0.11942
+-0.9250	0.16271
+-1.1060	0.21289
+-1.2340	0.26004
+-1.3260	0.30928
+-1.3970	0.37574
+-1.4190	0.41447
+-1.4170	0.45732
+-1.3560	0.53667
+-1.2250	0.62276
+-0.7600	0.80269
+-0.4180	0.90057
+Source
+Saito A.; Tanaka R.: Excess volumes and heat capacities of binary mixtures formed from cyclohexane, hexane, and heptane at 298.15 K. J.Chem.Thermodyn. 20 (1988) 859-865
+Source
+Karbalai Ghassemi M.H.; Grolier J.-P.E.: Excess Heat Capacity of C6H12 + C6H14 and C6H6 + C7H16. Int.Data Series Sel.Data Mixtures Ser. A 1976 (1976) 95-96
+Saito A.; Tanaka R.: Excess volumes and heat capacities of binary mixtures formed from cyclohexane, hexane, and heptane at 298.15 K. J.Chem.Thermodyn. 20 (1988) 859-865

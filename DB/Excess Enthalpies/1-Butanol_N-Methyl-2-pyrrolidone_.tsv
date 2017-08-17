@@ -1,70 +1,70 @@
-$$$Enthalpy of Mixing Data Set 9135	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	413.150	K	
-Pressure	23.750	bar	
-hE [J/mol]	x1 [mol/mol]	
--132.381	0.05270	
--256.176	0.10500	
--382.692	0.15710	
--499.458	0.20890	
--608.042	0.26040	
--719.582	0.31160	
--807.313	0.36250	
--883.240	0.41320	
--943.188	0.46360	
--983.633	0.51370	
--1007.980	0.56350	
--1005.000	0.61310	
--986.099	0.66230	
--937.803	0.71140	
--860.134	0.76010	
--764.169	0.80860	
--625.946	0.85680	
--459.369	0.90480	
--252.633	0.95250	
-Source	
-Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
-$$$Enthalpy of Mixing Data Set 10018	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-4.500	0.00600	
-10.500	0.01120	
-34.600	0.03380	
-35.600	0.03590	
-70.300	0.07270	
-82.600	0.08610	
-87.300	0.08710	
-114.000	0.12100	
-Source	
-Sitnyakovskii I.B.; Semenov L.V.; Gaile A.A.; Koldobovskaya L.L.: Intermolecular interactions of N-methylpyrrolidone with oxygen-containing organic substances. Zh.Prikl.Khim. 63 (1990) 898-902	
-$$$Enthalpy of Mixing Data Set 16595	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-Pressure	1.010	bar	
-hE [J/mol]	x1 [mol/mol]	
-204.400	0.28030	
-234.700	0.32470	
-254.500	0.35360	
-268.100	0.37540	
-282.500	0.40250	
-300.900	0.44270	
-311.600	0.57130	
-293.100	0.61740	
-273.400	0.66680	
-261.000	0.70570	
-241.800	0.73760	
-215.700	0.78160	
-190.500	0.82120	
-Source	
-Letcher T.M.; Lachwa J.; Domanska U.: The excess molar volumes and enthalpies of (N-methyl-2-pyrrolidinone + an alcohol) at T = 298.15 K and the application of the ERAS theory). J.Chem.Thermodyn. 33 (2001) 1169-1179	
-Source	
-Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43	
-Sitnyakovskii I.B.; Semenov L.V.; Gaile A.A.; Koldobovskaya L.L.: Intermolecular interactions of N-methylpyrrolidone with oxygen-containing organic substances. Zh.Prikl.Khim. 63 (1990) 898-902	
-Letcher T.M.; Lachwa J.; Domanska U.: The excess molar volumes and enthalpies of (N-methyl-2-pyrrolidinone + an alcohol) at T = 298.15 K and the application of the ERAS theory). J.Chem.Thermodyn. 33 (2001) 1169-1179	
+$$$Enthalpy of Mixing Data Set 9135
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	413.150	K
+Pressure	23.750	bar
+hE [J/mol]	x1 [mol/mol]
+-132.381	0.05270
+-256.176	0.10500
+-382.692	0.15710
+-499.458	0.20890
+-608.042	0.26040
+-719.582	0.31160
+-807.313	0.36250
+-883.240	0.41320
+-943.188	0.46360
+-983.633	0.51370
+-1007.980	0.56350
+-1005.000	0.61310
+-986.099	0.66230
+-937.803	0.71140
+-860.134	0.76010
+-764.169	0.80860
+-625.946	0.85680
+-459.369	0.90480
+-252.633	0.95250
+Source
+Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43
+$$$Enthalpy of Mixing Data Set 10018
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+4.500	0.00600
+10.500	0.01120
+34.600	0.03380
+35.600	0.03590
+70.300	0.07270
+82.600	0.08610
+87.300	0.08710
+114.000	0.12100
+Source
+Sitnyakovskii I.B.; Semenov L.V.; Gaile A.A.; Koldobovskaya L.L.: Intermolecular interactions of N-methylpyrrolidone with oxygen-containing organic substances. Zh.Prikl.Khim. 63 (1990) 898-902
+$$$Enthalpy of Mixing Data Set 16595
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+Pressure	1.010	bar
+hE [J/mol]	x1 [mol/mol]
+204.400	0.28030
+234.700	0.32470
+254.500	0.35360
+268.100	0.37540
+282.500	0.40250
+300.900	0.44270
+311.600	0.57130
+293.100	0.61740
+273.400	0.66680
+261.000	0.70570
+241.800	0.73760
+215.700	0.78160
+190.500	0.82120
+Source
+Letcher T.M.; Lachwa J.; Domanska U.: The excess molar volumes and enthalpies of (N-methyl-2-pyrrolidinone + an alcohol) at T = 298.15 K and the application of the ERAS theory). J.Chem.Thermodyn. 33 (2001) 1169-1179
+Source
+Gmehling J.: unpublished data. Unpublished Data  (2011) 1-43
+Sitnyakovskii I.B.; Semenov L.V.; Gaile A.A.; Koldobovskaya L.L.: Intermolecular interactions of N-methylpyrrolidone with oxygen-containing organic substances. Zh.Prikl.Khim. 63 (1990) 898-902
+Letcher T.M.; Lachwa J.; Domanska U.: The excess molar volumes and enthalpies of (N-methyl-2-pyrrolidinone + an alcohol) at T = 298.15 K and the application of the ERAS theory). J.Chem.Thermodyn. 33 (2001) 1169-1179

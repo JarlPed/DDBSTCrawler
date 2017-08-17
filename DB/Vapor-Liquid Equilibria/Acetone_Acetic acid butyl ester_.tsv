@@ -1,116 +1,116 @@
-$$$Vapor-Liquid Equilibrium Data Set 4025	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C3H6O	58.080	67-64-1	Acetic acid butyl ester	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-380.45	0.09500	0.50500	
-373.15	0.14500	0.62100	
-367.15	0.20000	0.71250	
-361.85	0.26500	0.77800	
-356.35	0.33000	0.83500	
-352.25	0.37000	0.85600	
-348.95	0.44500	0.89500	
-345.75	0.51020	0.90800	
-342.35	0.59000	0.93500	
-340.45	0.65000	0.94900	
-336.85	0.74400	0.96750	
-335.45	0.78000	0.97250	
-334.05	0.82750	0.97900	
-332.55	0.88500	0.98600	
-331.25	0.93200	0.99100	
-Source	
-Dakshinamurty P.; Rao C.V.: Vapour-liquid Equilibria: Acetone - n-Butyl Acetate & Chloroform - n-Butyl Acetate Systems. J.Sci.Ind.Res.B:Phys.Sci. 17 (1958) 105-108	
-$$$Vapor-Liquid Equilibrium Data Set 14035	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C3H6O	58.080	67-64-1	Acetic acid butyl ester	
-Pressure	101.00	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-387.30	0.05100	0.35200	
-377.20	0.11000	0.56000	
-371.40	0.15500	0.65800	
-366.70	0.20300	0.73000	
-360.70	0.27600	0.80000	
-351.60	0.41200	0.88100	
-347.00	0.50100	0.91500	
-341.10	0.62400	0.94800	
-338.30	0.70000	0.96300	
-334.40	0.81500	0.98000	
-330.60	0.95600	0.99600	
-Source	
-Golubkov Yu.V.; Stadnichuk O.A.; Orlova E.V.; Zhvanetskii I.B.: Liquid-Vapor Equilibrium in the Acetone-n-Butyl. J.Appl.Chem.USSR 62 (1989) 1655-1658	
-$$$Vapor-Liquid Equilibrium Data Set 14286	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C3H6O	58.080	67-64-1	Acetic acid butyl ester	
-Temperature	293.25	K	
-P [kPa]	x1 [mol/mol]	
-1.255	0.00000	
-1.381	0.00400	
-1.502	0.00766	
-1.599	0.01050	
-1.6785	0.01300	
-1.8004	0.01635	
-1.878	0.01886	
-1.958	0.02152	
-2.0614	0.02473	
-2.1722	0.02800	
-2.778	0.04813	
-3.333	0.06755	
-3.872	0.08640	
-4.383	0.10472	
-5.241	0.13496	
-6.004	0.16341	
-7.299	0.21281	
-8.417	0.25655	
-9.582	0.30428	
-10.581	0.34623	
-11.443	0.38335	
-12.137	0.41623	
-13.430	0.47192	
-14.432	0.51779	
-15.264	0.55634	
-15.995	0.58451	
-15.963	0.58915	
-16.287	0.60404	
-16.561	0.61741	
-16.721	0.62490	
-17.080	0.64204	
-17.185	0.64721	
-17.537	0.66364	
-17.681	0.67128	
-17.941	0.68276	
-18.215	0.69717	
-18.298	0.69984	
-18.796	0.72517	
-19.424	0.75565	
-20.102	0.78869	
-20.856	0.82484	
-21.265	0.84444	
-21.696	0.86492	
-22.157	0.88654	
-22.777	0.90937	
-23.194	0.92847	
-23.645	0.94863	
-23.887	0.95936	
-24.145	0.97038	
-24.281	0.97624	
-24.415	0.98213	
-24.561	0.98821	
-24.718	0.99452	
-24.734	0.99514	
-24.755	0.99583	
-24.767	0.99649	
-24.786	0.99710	
-24.803	0.99767	
-24.819	0.99826	
-24.851	0.99875	
-24.849	0.99932	
-24.879	1.00000	
-Source	
-Rarey J.R.: Simultane Korrelation der Daten. Unpublished Data  (1995) 1-7	
-Source	
-Dakshinamurty P.; Rao C.V.: Vapour-liquid Equilibria: Acetone - n-Butyl Acetate & Chloroform - n-Butyl Acetate Systems. J.Sci.Ind.Res.B:Phys.Sci. 17 (1958) 105-108	
-Rarey J.R.: Simultane Korrelation der Daten. Unpublished Data  (1995) 1-7	
-Golubkov Yu.V.; Stadnichuk O.A.; Orlova E.V.; Zhvanetskii I.B.: Liquid-Vapor Equilibrium in the Acetone-n-Butyl. J.Appl.Chem.USSR 62 (1989) 1655-1658	
+$$$Vapor-Liquid Equilibrium Data Set 4025
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C3H6O	58.080	67-64-1	Acetic acid butyl ester
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+380.45	0.09500	0.50500
+373.15	0.14500	0.62100
+367.15	0.20000	0.71250
+361.85	0.26500	0.77800
+356.35	0.33000	0.83500
+352.25	0.37000	0.85600
+348.95	0.44500	0.89500
+345.75	0.51020	0.90800
+342.35	0.59000	0.93500
+340.45	0.65000	0.94900
+336.85	0.74400	0.96750
+335.45	0.78000	0.97250
+334.05	0.82750	0.97900
+332.55	0.88500	0.98600
+331.25	0.93200	0.99100
+Source
+Dakshinamurty P.; Rao C.V.: Vapour-liquid Equilibria: Acetone - n-Butyl Acetate & Chloroform - n-Butyl Acetate Systems. J.Sci.Ind.Res.B:Phys.Sci. 17 (1958) 105-108
+$$$Vapor-Liquid Equilibrium Data Set 14035
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C3H6O	58.080	67-64-1	Acetic acid butyl ester
+Pressure	101.00	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+387.30	0.05100	0.35200
+377.20	0.11000	0.56000
+371.40	0.15500	0.65800
+366.70	0.20300	0.73000
+360.70	0.27600	0.80000
+351.60	0.41200	0.88100
+347.00	0.50100	0.91500
+341.10	0.62400	0.94800
+338.30	0.70000	0.96300
+334.40	0.81500	0.98000
+330.60	0.95600	0.99600
+Source
+Golubkov Yu.V.; Stadnichuk O.A.; Orlova E.V.; Zhvanetskii I.B.: Liquid-Vapor Equilibrium in the Acetone-n-Butyl. J.Appl.Chem.USSR 62 (1989) 1655-1658
+$$$Vapor-Liquid Equilibrium Data Set 14286
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C3H6O	58.080	67-64-1	Acetic acid butyl ester
+Temperature	293.25	K
+P [kPa]	x1 [mol/mol]
+1.255	0.00000
+1.381	0.00400
+1.502	0.00766
+1.599	0.01050
+1.6785	0.01300
+1.8004	0.01635
+1.878	0.01886
+1.958	0.02152
+2.0614	0.02473
+2.1722	0.02800
+2.778	0.04813
+3.333	0.06755
+3.872	0.08640
+4.383	0.10472
+5.241	0.13496
+6.004	0.16341
+7.299	0.21281
+8.417	0.25655
+9.582	0.30428
+10.581	0.34623
+11.443	0.38335
+12.137	0.41623
+13.430	0.47192
+14.432	0.51779
+15.264	0.55634
+15.995	0.58451
+15.963	0.58915
+16.287	0.60404
+16.561	0.61741
+16.721	0.62490
+17.080	0.64204
+17.185	0.64721
+17.537	0.66364
+17.681	0.67128
+17.941	0.68276
+18.215	0.69717
+18.298	0.69984
+18.796	0.72517
+19.424	0.75565
+20.102	0.78869
+20.856	0.82484
+21.265	0.84444
+21.696	0.86492
+22.157	0.88654
+22.777	0.90937
+23.194	0.92847
+23.645	0.94863
+23.887	0.95936
+24.145	0.97038
+24.281	0.97624
+24.415	0.98213
+24.561	0.98821
+24.718	0.99452
+24.734	0.99514
+24.755	0.99583
+24.767	0.99649
+24.786	0.99710
+24.803	0.99767
+24.819	0.99826
+24.851	0.99875
+24.849	0.99932
+24.879	1.00000
+Source
+Rarey J.R.: Simultane Korrelation der Daten. Unpublished Data  (1995) 1-7
+Source
+Dakshinamurty P.; Rao C.V.: Vapour-liquid Equilibria: Acetone - n-Butyl Acetate & Chloroform - n-Butyl Acetate Systems. J.Sci.Ind.Res.B:Phys.Sci. 17 (1958) 105-108
+Rarey J.R.: Simultane Korrelation der Daten. Unpublished Data  (1995) 1-7
+Golubkov Yu.V.; Stadnichuk O.A.; Orlova E.V.; Zhvanetskii I.B.: Liquid-Vapor Equilibrium in the Acetone-n-Butyl. J.Appl.Chem.USSR 62 (1989) 1655-1658

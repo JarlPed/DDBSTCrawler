@@ -1,52 +1,52 @@
-$$$Vapor-Liquid Equilibrium Data Set 1394	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-472.15	0.00000	0.00000	
-461.75	0.01000	0.15200	
-453.45	0.01500	0.36800	
-444.25	0.02700	0.54000	
-439.15	0.03200	0.61000	
-420.35	0.07500	0.84500	
-404.65	0.10000	0.92200	
-383.15	0.14200	0.96000	
-374.15	0.18500	0.98500	
-362.35	0.25000	0.99500	
-350.65	0.36000	0.99500	
-341.15	0.59000	0.99800	
-338.65	0.75400	0.99900	
-337.25	1.00000	1.00000	
-Source	
-Baker T.H.; Fisher G.T.; Roth J.A.: Vapor Liquid Equilibrium and Refractive Indices of the Methanol-Ethylene Glycol System. J.Chem.Eng.Data 9 (1964) 11-12	
-$$$Vapor-Liquid Equilibrium Data Set 2620	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-400.95	0.19840	0.91590	
-375.65	0.29790	0.96700	
-355.05	0.49800	0.98800	
-347.25	0.69420	0.99080	
-Source	
-Chandramouli V.V.; Laddha G.S.: Vapour-Liquid Equilibria: Acetone-Methanol-Ethylene Glycol System. J.Sci.Ind.Res.B:Phys.Sci. 21 (1962) 269-274	
-$$$Vapor-Liquid Equilibrium Data Set 5026	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Temperature	313.15	K	
-P [kPa]	x1 [mol/mol]	
-11.599	0.29900	
-16.932	0.44700	
-20.532	0.55000	
-24.265	0.65300	
-29.198	0.79300	
-32.931	0.91000	
-Source	
-Sedletskaya I.S.; Kogan V.B.: Investigation of Liquid-Vapor Equilibrium and Tests of Thermodynamic Consistency of experimental Data for a Ternary System with a Nonvolatile Component. J.Appl.Chem.USSR 42 (1969) 2403-2407	
-Source	
-Baker T.H.; Fisher G.T.; Roth J.A.: Vapor Liquid Equilibrium and Refractive Indices of the Methanol-Ethylene Glycol System. J.Chem.Eng.Data 9 (1964) 11-12	
-Chandramouli V.V.; Laddha G.S.: Vapour-Liquid Equilibria: Acetone-Methanol-Ethylene Glycol System. J.Sci.Ind.Res.B:Phys.Sci. 21 (1962) 269-274	
-Sedletskaya I.S.; Kogan V.B.: Investigation of Liquid-Vapor Equilibrium and Tests of Thermodynamic Consistency of experimental Data for a Ternary System with a Nonvolatile Component. J.Appl.Chem.USSR 42 (1969) 2403-2407	
+$$$Vapor-Liquid Equilibrium Data Set 1394
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+472.15	0.000000.00000
+461.75	0.01000	0.15200
+453.45	0.01500	0.36800
+444.25	0.02700	0.54000
+439.15	0.03200	0.61000
+420.35	0.07500	0.84500
+404.65	0.10000	0.92200
+383.15	0.14200	0.96000
+374.15	0.18500	0.98500
+362.35	0.25000	0.99500
+350.65	0.36000	0.99500
+341.15	0.59000	0.99800
+338.65	0.75400	0.99900
+337.25	1.000001.00000
+Source
+Baker T.H.; Fisher G.T.; Roth J.A.: Vapor Liquid Equilibrium and Refractive Indices of the Methanol-Ethylene Glycol System. J.Chem.Eng.Data 9 (1964) 11-12
+$$$Vapor-Liquid Equilibrium Data Set 2620
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+400.95	0.19840	0.91590
+375.65	0.29790	0.96700
+355.05	0.49800	0.98800
+347.25	0.69420	0.99080
+Source
+Chandramouli V.V.; Laddha G.S.: Vapour-Liquid Equilibria: Acetone-Methanol-Ethylene Glycol System. J.Sci.Ind.Res.B:Phys.Sci. 21 (1962) 269-274
+$$$Vapor-Liquid Equilibrium Data Set 5026
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Temperature	313.15	K
+P [kPa]	x1 [mol/mol]
+11.599	0.29900
+16.932	0.44700
+20.532	0.55000
+24.265	0.65300
+29.198	0.79300
+32.931	0.91000
+Source
+Sedletskaya I.S.; Kogan V.B.: Investigation of Liquid-Vapor Equilibrium and Tests of Thermodynamic Consistency of experimental Data for a Ternary System with a Nonvolatile Component. J.Appl.Chem.USSR 42 (1969) 2403-2407
+Source
+Baker T.H.; Fisher G.T.; Roth J.A.: Vapor Liquid Equilibrium and Refractive Indices of the Methanol-Ethylene Glycol System. J.Chem.Eng.Data 9 (1964) 11-12
+Chandramouli V.V.; Laddha G.S.: Vapour-Liquid Equilibria: Acetone-Methanol-Ethylene Glycol System. J.Sci.Ind.Res.B:Phys.Sci. 21 (1962) 269-274
+Sedletskaya I.S.; Kogan V.B.: Investigation of Liquid-Vapor Equilibrium and Tests of Thermodynamic Consistency of experimental Data for a Ternary System with a Nonvolatile Component. J.Appl.Chem.USSR 42 (1969) 2403-2407

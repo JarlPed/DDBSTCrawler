@@ -1,514 +1,514 @@
-Formula	Molar Mass	CAS Registry Number	Name	
-C16H34	226.446	544-76-3	Hexadecane	
-$$$Compressibility (isentropic)	
-T [K]	Compressibility (isentropic) [/kPa]	State	Reference	
-298.15	7.24880010239E-007	Liquid	1	
-Number	Source	
-1	Tardajos G.; Diaz Pena M.; Aicart E.: Speed of sound in pure liquids by a pulse-echo-overlap method. J.Chem.Thermodyn. 18 (1986) 683-689	
-$$$Compressibility (isothermal)	
-T [K]	Compressibility (isothermal) [/kPa]	State	Reference	
-298.15	8.60000000102E-007	Liquid	1	
-318.15	9.7800000276E-007	Liquid	1	
-Number	Source	
-1	Bauder A.; Guenthard H.H.: Thermodynamic properties of formamide. (Ger). Helv.Chim.Acta 41 (1958) 670-673	
-$$$Critical Data	
-T [K]	P [kPa]	State	Reference	
-717.15		Critical Point	3	
-722.00		Critical Point	5	
-722.40	1401.000	Critical Point	6	
-723.00		Critical Point	1	
-Number	Source	
-1	Mogollon E.; Kay W.B.; Teja A.S.: Modified Sealed-Tube Method for the Determination of Critical Temperature.. Ind.Eng.Chem. Fundam. 21 (1982) 173-175	
-2	Teja A.S.; Gude M.; Rosenthal D.: Novel methods for the measurement of the critical properties of thermally unstable fluids.. Fluid Phase Equilib. 52 (1989) 193-200	
-3	Ambrose D.: Critical Temperatures of some Phenols and other Organic Compounds.. Trans.Faraday Soc. 59 (1963) 1988-1993	
-4	Anselme M.J.; Gude M.; Teja A.S.: The Critical Temperatures and Densities of the n-Alkanes from Pentane to Octadecane.. Fluid Phase Equilib. 57 (1990) 317-326	
-5	Smith R.L., Jr.; Teja A.S.; Kay W.B.: Measurement of Critical Temperatures of Thermally Unstable n-Alkanes. AIChE J. 33 (1987) 232-238	
-6	Rosenthal D.J.; Teja A.S.: The Critical Properties of n-Alkanes Using a Low-Residence Time Flow Apparatus. AIChE J. 35 (1989) 1829-1834	
-$$$Density	
-T [K]	Density [kg/m3]	State	Reference	
-298.15	769.890	Liquid	4	
-298.15	769.990	Liquid	1	
-298.15	770.100	Liquid	2	
-298.15	771.300	Liquid	6	
-303.15	767.700	Liquid	6	
-308.15	764.300	Liquid	6	
-308.15	765.310	Liquid	1	
-318.15	756.230	Liquid	5	
-Number	Source	
-1	Domanska U.; Lachwa J.; Morawski P.: Phase Equilibria and Volumetric Properties in Binary Mixtures Containing Branched Chain Ethers (Methyl 1,1-Dimethylethyl Ether or Ethyl 1,1-Dimethylethyl Ether or Methyl 1,1-Dimethylpropyl Ether or Ethyl 1,1-Dimethylpropyl Ether). J.Chem.Eng.Data 44 (1999) 974-984	
-2	Gonzalez E.; Ortega J.: VI. Excess enthalpy and excess volume for {xCH3(CH2) u-1 CO2CH3 (u=1 to 6) + (1-x)CH3(CH2)14CH3}. J.Chem.Thermodyn. 26 (1994) 41-47	
-3	Tanaka H.; Yamaki Y.; Kato M.: Solubility of Carbon Dioxide in Pentadecane, Hexadecane, and Pentadecane + Hexadecane. J.Chem.Eng.Data 38 (1993) 386-388	
-4	Sharma V.K.; Maken S.: Excess Molar Volumes of Binary Mixtures Containing Nitrotoluene at 308.15 K. Indian J.Chem.Sect.A 31 (1992) 721-722	
-5	Matilla A.D.; Tardajos G.; Aicart E.: Thermodynamic Mixing Properties of (Chlorobenzene + an Alkane). J.Chem.Thermodyn. 25 (1993) 201-207	
-6	Aralaguppi M.I.; Aminabhavi T.M.; Balundgi R.H.; Joshi S.S.: Thermodynamic Interactions in Mixtures of Bromoform with Hydrocarbons. J.Phys.Chem. 95 (1991) 5299-5308	
-$$$Dielectric Constant	
-T [K]	Dielectric Constant [-]	State	Reference	
-293.15	2.04900	Liquid	2	
-293.15	2.08000	Liquid	3	
-298.15	2.09000	Liquid	1	
-313.15	2.02700	Liquid	2	
-313.15	2.03000	Liquid	3	
-333.15	2.00400	Liquid	2	
-Number	Source	
-1	Aralaguppi M.I.; Aminabhavi T.M.; Balundgi R.H.; Joshi S.S.: Thermodynamic Interactions in Mixtures of Bromoform with Hydrocarbons. J.Phys.Chem. 95 (1991) 5299-5308	
-2	Franklin A.D.; Heston W.M.Jr.; Hennelly E.J.; Smyth C.P.: Microwave Absorption and Molecular Structure in Liquids. VI. Dielectric Relaxation of Four Organic Halides and Camphor in Different Solvents. J.Am.Chem.Soc. 72 (1950) 3447-3454	
-3	Hahn G.; Svejda P.; Dallos A.: Volumetric and dielectric properties of the binary liquid systems: 1,2-dichloroethane+n-alkanes or +2,2,4-trimethylpentane.. Fluid Phase Equilib. 86 (1993) 293-313	
-$$$Dynamic Viscosity	
-T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference	
-298.15		3.0041	Liquid	4	
-298.15		3.0050	Liquid	3	
-298.15		3.0248	Liquid	2	
-303.15		2.6634	Liquid	4	
-308.15		2.3810	Liquid	3	
-308.15		2.3822	Liquid	4	
-318.15		1.9200	Liquid	3	
-335.95	29400.000	2.1515	Liquid	1	
-335.95	49000.000	2.5802	Liquid	1	
-364.85	29400.000	1.4033	Liquid	1	
-364.85	49000.000	1.7210	Liquid	1	
-392.95	29400.000	1.0017	Liquid	1	
-392.95	49000.000	1.2310	Liquid	1	
-424.45	29400.000	0.7378	Liquid	1	
-424.45	49000.000	0.9005	Liquid	1	
-453.95	29400.000	0.5801	Liquid	1	
-453.95	49000.000	0.7005	Liquid	1	
-531.95	29400.000	0.3598	Liquid	1	
-531.95	49000.000	0.4558	Liquid	1	
-Number	Source	
-1	Rastorguev Yu.L.; Keramidi A.S.: Viskosität von Alkanen. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1972) 61-66	
-2	De Lorenzi L.; Fermeglia M.; Torriano G.: Densities and Viscosities of 1,1,1-Trichloroethane + Paraffins and + Cycloparaffins at 298.15 K. J.Chem.Eng.Data 39 (1994) 483-487	
-3	Aminabhavi T.M.; Gopalkrishna B.: Densities, Viscosities, Refractive Indices, and Speeds of Sound of the Binary Mixtures of Bis-(2-methoxyethyl) Ether with Nonane, Decane, Dodecane, Tetradecane, and Hexadecane at 298.15, 308.15, and 318.15 K. J.Chem.Eng.Data 39 (1994) 529-534	
-4	Aralaguppi M.I.; Aminabhavi T.M.; Balundgi R.H.; Joshi S.S.: Thermodynamic Interactions in Mixtures of Bromoform with Hydrocarbons. J.Phys.Chem. 95 (1991) 5299-5308	
-$$$Flash Point	
-T [K]	P [kPa]	State	Reference	
-396.48		Liquid	2	
-400.34	101.300	Liquid	3	
-406.00		Liquid	5	
-406.20		Liquid	4	
-408.00		Liquid	1	
-Number	Source	
-1	Prak D.J.L.; Trulove P.C.; Cowart J.S.: Density, Viscosity, Speed of Sound, Surface Tension, and Flash Point of Binary Mixtures of n-Hexadecane and 2,2,4,4,6,8,8-Heptamethylnonane and of Algal-Based Hydrotreated Renewable Diesel. J.Chem.Eng.Data 58 (2013) 920-926	
-2	Lenoir J.M.: Predict flash points accurately. Use molar composition in this simple calculation. Hydrocarbon Process. 54 (1975) 95-99	
-3	Richter R.: Theoretische Berechnung und experimentelle Überprüfung. Master's Thesis  (1999)	
-4	Luning Prak D.J.: Density, Viscosity, Speed of Sound, Bulk Modulus, Surface Tension, and Flash Point of Binary Mixtures of Butylcyclohexane with Toluene or n-Hexadecane. J.Chem.Eng.Data 61 (2016) 3595-3606	
-5	Luning Prak D.J.; Lee B.G.; Cowart J.S.; Trulove P.C.: Density, Viscosity, Speed of Sound, Bulk Modulus, Surface Tension, and Flash Point of Binary Mixtures of Butylbenzene + Linear Alkanes (n-Decane, n-Dodecane, n-Tetradecane, n-Hexadecane, or n-Heptadecane) at 0.1 MPa. J.Chem.Eng.Data 62 (2017) 169-187	
-$$$Heat of Fusion	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-290.70		53000.00	Solid-Liquid	2	
-291.07		52433.00	Solid-Liquid	5	
-291.10	101.325	51540.00	Solid-Liquid	1	
-291.95		51600.00	Solid-Liquid	3	
-293.15		48912.30	Solid-Liquid	4	
-Number	Source	
-1	Parks G.S.; Moore G.E.; Renquist M.L.; Naylor B.F.; McClaine L.A.; Fujii P.S.; Hatton J.A.: Thermal Data on Organic Compounds. XXV. Some Heat Capacity, Entropy and Free Energy Data for Nine Hydrocarbons of High Molecular Weight. J.Am.Chem.Soc. 71 (1949) 3386-3389	
-2	Metivaud V.; Rajabalee F.; Oonk H.A.J.; Mondieig D.; Haget Y.: Complete Determination of the Solid (Ri)-Liquid Equilibria of Four Consecutive n-Alkane Ternary Systems in the Range C14H30-C21H44 using Only Binary Data. Can.J.Chem. 77 (1999) 332-339	
-3	Paunovic I.; Mehrotra A.K.: Liquid-solid phase transformation of C16H34, C28H58 and C41H84 and their binary and ternary mixtures. Thermochim.Acta 356 (2000) 27-38	
-4	Babich M.W.; Benrashid R.; Mounts R.D.: Part 3. Thermal and Flammability Studies. Thermochim.Acta 243 (1994) 193-200	
-5	Goetsch T.; Zimmermann P.; van den Bongard R.; Enders S.; Zeiner T.: Binary Systems. Ind.Eng.Chem.Res. 55 (2016) 11167-11174	
-$$$Heat of Sublimation	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-289.15	125938.00	Solid-Gas	1	
-Number	Source	
-1	Bradley R.S.; Shellard A.D.: III. Vapour Pressures and Rates of Evaporation of Straight-Chain Paraffin Hydrocarbons.. Proc.Roy.Soc.London Ser.A 198 (1949) 239-251	
-$$$Heat of Vaporization	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.00	81210.00	Vapor-Liquid	3	
-298.00	81410.00	Vapor-Liquid	3	
-298.00	81440.00	Vapor-Liquid	3	
-298.00	81500.00	Vapor-Liquid	3	
-298.00	81800.00	Vapor-Liquid	1	
-298.15	69873.00	Vapor-Liquid	6	
-298.15	70040.00	Vapor-Liquid	6	
-298.15	70207.00	Vapor-Liquid	6	
-298.15	71421.00	Vapor-Liquid	6	
-298.15	71672.00	Vapor-Liquid	6	
-298.15	78534.00	Vapor-Liquid	5	
-298.15	78659.00	Vapor-Liquid	5	
-298.15	79538.00	Vapor-Liquid	5	
-298.15	79663.00	Vapor-Liquid	5	
-298.15	81400.00	Vapor-Liquid	2	
-372.00	80700.00	Vapor-Liquid	4	
-Number	Source	
-1	Nichols G.; Orf J.; Reiter S.M.; Chickos J.; Gokel G.W.: The Vaporization Enthalpies of some Crown and Polyethers by Correlation Gas Chromatography. Thermochim.Acta 346 (2000) 15-28	
-2	Dionisio M.S.; Moura Ramos J.J.; Goncalves R.M.: The enthalpy and entropy of cavity formation in liquids and Corresponding States Principle. Can.J.Chem. 68 (1990) 1937-1949	
-3	Chickos J.S.; Hosseini S.; Hesse D.G.: Determination of Vaporization Enthalpies of Simple Organic Molecules by Correlations of Changes in Gas Chromatographic Net Retention Times. Thermochim.Acta 249 (1995) 41-62	
-4	Ribeiro da Silva M.A.V.; Ferrao M.L.C.C.H.; Jiye F.: Standard Molar Enthalpy of Formation and of Vaporization of Ethyl 3-Oxobutanoate. J.Chem.Eng.Data 40 (1995) 426-428	
-5	Morawetz E.: Part I. Vapor Pressure Range 200-10^-3 mm Hg. Acta Chem.Scand. 22 (1968) 1509-1531	
-6	Morawetz E.; Sunner S.: Design, Construction and Testing of a Heat of Vaporization Calorimeter Useful in the Vapor Pressure Range 1 to 0.01 mm Hg at 25° C. Acta Chem.Scand. 17 (1963) 473-488	
-$$$Kinematic Viscosity	
-T [K]	Kinematic Viscosity [m2/s]	State	Reference	
-293.15	4.46139983978E-06	Liquid	2	
-298.12	3.97399981011E-06	Liquid	6	
-298.15	3.95799997932E-06	Liquid	4	
-298.15	3.9761998778E-06	Liquid	5	
-303.15	3.59000000572E-06	Liquid	1	
-308.15	3.21990000884E-06	Liquid	3	
-313.14	2.91799983643E-06	Liquid	6	
-313.15	2.92920003631E-06	Liquid	3	
-313.35	2.98999998449E-06	Liquid	1	
-334.45	2.05799983632E-06	Liquid	1	
-346.75	1.750000024E-06	Liquid	1	
-363.45	1.41999998959E-06	Liquid	1	
-Number	Source	
-1	Keramidi A.S.; Rastorguev Yu.L.; Grigorev B.A.: Untersuchung des dynamische Viskositätskoeffizienten von flüssigen n-Alkanen. Mater.Vses.Soveshch.Fiz.Zhidk. 10 (1975) 221-227	
-2	Cooper E.F.; Asfour A.-F.A.: Densities and Kinematic Viscosities of Some C6-C16 n-Alkane Binary Liquid Systems at 293.15 K. J.Chem.Eng.Data 36 (1991) 285-288	
-3	Vavanellos T.D.; Asfour A.F.A.; Siddique M.H.: Kinematic Viscosity-Composition Data for Eight Binary Systems Containing Toluene or Ethylbenzene and C8-C16 n-Alkanes at 308.15 and 313.15 K. J.Chem.Eng.Data 36 (1991) 281-284	
-4	Chevalier J.L.E.; Petrino P.J.; Gaston-Bonhomme Y.H.: Viscosity and Density of Some Aliphatic, Cyclic, and Aromatic Hydrocarbons Binary Liquid Mixtures. J.Chem.Eng.Data 35 (1990) 206-212	
-5	Asfour A.F.A.; Siddique M.H.; Vavanellos T.D.: Kinematic Viscosity-Composition Data for Eight Binary Systems Containing Toluene or Ethylbenzene and C8-C16 n-Alkanes at 293.15 and 298.15 K. J.Chem.Eng.Data 35 (1990) 199-201	
-6	Dymond J.H.; Young K.J.: I. Viscosity Coefficients for n-Alkane Mixtures at Saturation Pressure from 283 to 378 K. Int.J.Thermophys. 1 (1980) 331-344	
-$$$Melting Point	
-T [K]	P [kPa]	State	Reference	
-291.00		Solid-Liquid	5	
-291.29		Solid-Liquid	1	
-291.30		Solid-Liquid	4	
-291.30	101.325	Solid-Liquid	3	
-291.33	101.325	Solid-Liquid	6	
-293.15		Solid-Liquid	2	
-Number	Source	
-1	Wibaut J.P.; Brand H.: Syntheses and physical constants of eleven monobranched hexadecanes.. Recl.Trav.Chim.Pays-Bas 80 (1961) 97-115	
-2	Babich M.W.; Hwang S.; Mounts R.D.: Part2. New Materials and Bulk Studies. Thermochim.Acta 226 (1993) 163-168	
-3	Erkey C.; Rodden J.B.; Matthews M.A.; Akgerman A.: Application of Rough Hard-Sphere Theory to Diffusion in n-Alkanes. Int.J.Thermophys. 10 (1989) 953-962	
-4	Spiteri W.L.; Letcher T.M.: The Excess Volumes of Cyclopentane + n-Alkane. J.Chem.Thermodyn. 11 (1979) 667-670	
-5	Huang T.-C.; Kang B.-C.: Naphthalene Hydrogenation over Pt/Al2O3 Catalyst in a Trickle Bed Reactor. Ind.Eng.Chem.Res. 34 (1995) 2349-2357	
-6	Gioia Lobbia G.; Berchiesi G.; Vitali G.: A Comparison of the Experimental and Calculated Curves. Thermochim.Acta 65 (1983) 29-33	
-$$$Molar Heat Capacity (cP)	
-T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
-298.15		499.62	Liquid	2	
-318.15	100.000	512.37	Liquid	1	
-318.15	1000.000	512.33	Liquid	1	
-318.15	3000.000	512.22	Liquid	1	
-318.15	5000.000	511.67	Liquid	1	
-318.15	10000.000	511.21	Liquid	1	
-323.15	100.000	515.87	Liquid	1	
-323.15	1000.000	515.57	Liquid	1	
-323.15	3000.000	515.23	Liquid	1	
-323.15	5000.000	515.19	Liquid	1	
-323.15	10000.000	515.03	Liquid	1	
-328.15	100.000	518.92	Liquid	1	
-328.15	1000.000	518.86	Liquid	1	
-328.15	3000.000	518.73	Liquid	1	
-328.15	5000.000	518.47	Liquid	1	
-328.15	10000.000	518.37	Liquid	1	
-333.15	100.000	521.87	Liquid	1	
-333.15	1000.000	521.78	Liquid	1	
-333.15	3000.000	521.55	Liquid	1	
-333.15	5000.000	521.49	Liquid	1	
-333.15	10000.000	521.11	Liquid	1	
-338.15	100.000	525.45	Liquid	1	
-338.15	1000.000	525.40	Liquid	1	
-338.15	3000.000	525.26	Liquid	1	
-338.15	5000.000	525.18	Liquid	1	
-338.15	10000.000	524.97	Liquid	1	
-343.15	100.000	528.95	Liquid	1	
-343.15	1000.000	528.87	Liquid	1	
-343.15	3000.000	528.60	Liquid	1	
-343.15	5000.000	528.36	Liquid	1	
-343.15	10000.000	527.97	Liquid	1	
-348.15	100.000	532.40	Liquid	1	
-348.15	1000.000	532.24	Liquid	1	
-348.15	3000.000	531.77	Liquid	1	
-348.15	5000.000	531.48	Liquid	1	
-348.15	10000.000	531.47	Liquid	1	
-353.15	100.000	536.26	Liquid	1	
-353.15	1000.000	536.22	Liquid	1	
-353.15	3000.000	536.16	Liquid	1	
-353.15	5000.000	535.99	Liquid	1	
-353.15	10000.000	535.32	Liquid	1	
-358.15	100.000	540.04	Liquid	1	
-358.15	1000.000	539.52	Liquid	1	
-358.15	3000.000	539.12	Liquid	1	
-358.15	5000.000	539.11	Liquid	1	
-358.15	10000.000	538.75	Liquid	1	
-363.15	100.000	543.84	Liquid	1	
-363.15	1000.000	543.34	Liquid	1	
-363.15	3000.000	542.89	Liquid	1	
-363.15	5000.000	542.69	Liquid	1	
-363.15	10000.000	542.51	Liquid	1	
-368.15	100.000	548.27	Liquid	1	
-368.15	1000.000	548.14	Liquid	1	
-368.15	3000.000	547.76	Liquid	1	
-368.15	5000.000	547.42	Liquid	1	
-368.15	10000.000	547.18	Liquid	1	
-373.15	100.000	552.73	Liquid	1	
-373.15	1000.000	552.68	Liquid	1	
-373.15	3000.000	552.27	Liquid	1	
-373.15	5000.000	551.88	Liquid	1	
-373.15	10000.000	551.44	Liquid	1	
-Number	Source	
-1	Banipal T.S.; Garg S.K.; Ahluwalia J.C.: Heat capacities and densities of liquid n-octane, n-nonane, n-decane,and n-hexadecane at temperatures from 318.15 K to 373.15 K and at pressures up to 10 MPa.. J.Chem.Thermodyn. 23 (1991) 923-931	
-2	Tardajos G.; Aicart E.; Costas M.; Patterson D.: Liquid Structure and Second-order Mixing Functions for Benzene, Toluene and p-Xylene with n-Alkanes. J.Chem.Soc.Faraday Trans.1 82 (1986) 2977-2987	
-$$$Molar Heat Capacity (cV)	
-T [K]	Molar Heat Capacity (Cv) [J/(mol*K)]	State	Reference	
-310.91	422.00	Liquid	1	
-315.94	428.00	Liquid	1	
-321.74	434.00	Liquid	1	
-328.20	439.00	Liquid	1	
-334.91	448.00	Liquid	1	
-342.99	457.00	Liquid	1	
-350.65	459.00	Liquid	1	
-357.02	456.00	Liquid	1	
-367.88	474.00	Liquid	1	
-395.79	479.00	Liquid	1	
-412.84	495.00	Liquid	1	
-431.92	502.00	Liquid	1	
-453.55	519.00	Liquid	1	
-Number	Source	
-1	Petit J.C.; Minassian L.T.: Measurements of (dv/dt)P, (dv/dp)T, and (dh/dt)P by Flux Calorimetry. J.Chem.Thermodyn. 6 (1974) 1139-1152	
-$$$Speed of Sound	
-T [K]	P [kPa]	Ultrasonic Velocity [m/s]	State	Reference	
-310.93	101.325	1274.060	Liquid	1	
-310.93	6996.060	1310.640	Liquid	1	
-310.93	13890.800	1341.120	Liquid	1	
-310.93	20785.500	1380.740	Liquid	1	
-310.93	27680.301	1420.370	Liquid	1	
-338.70	101.325	1196.340	Liquid	1	
-338.70	6996.060	1231.390	Liquid	1	
-338.70	13890.800	1264.010	Liquid	1	
-338.70	20785.500	1307.590	Liquid	1	
-338.70	27680.301	1347.220	Liquid	1	
-338.70	34575.000	1391.410	Liquid	1	
-366.48	101.325	1115.570	Liquid	1	
-366.48	6996.060	1149.100	Liquid	1	
-366.48	13890.800	1194.820	Liquid	1	
-366.48	20785.500	1234.440	Liquid	1	
-366.48	27680.301	1277.110	Liquid	1	
-366.48	34575.000	1316.740	Liquid	1	
-394.26	101.325	1030.220	Liquid	1	
-394.26	6996.060	1071.370	Liquid	1	
-394.26	13890.800	1112.520	Liquid	1	
-394.26	20785.500	1158.240	Liquid	1	
-394.26	27680.301	1200.910	Liquid	1	
-394.26	34575.000	1246.630	Liquid	1	
-Number	Source	
-1	Rolling R.E.; Vogt C.J.: The Adiabatic Bulk Modulus of Normal Paraffin Hydrocarbons from Hexane to Hexadecane. J.Basic Eng. 82 (1960) 635-642	
-$$$Standard Heat of Vaporization	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-298.15	100.000	80600.00	Vapor-Liquid	1	
-Number	Source	
-1	Ribeira da Silva M. A.; Agostinha M.; Matos R.; Amaral L.M.P.F.: Thermochemical study of 2-, 4-, 6-, and 8-methylquinoline. J.Chem.Thermodyn. 27 (1995) 565-574	
-$$$Std. Heat of Combustion	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.00	-10700900.00	Liquid	1	
-298.15	-10698100.00	Liquid	2	
-Number	Source	
-1	Prosen E.J.; Rossini F.D.: Heats of combustion of eight normal paraffin hydrocarbons in the liquid state.. J.Res. NBS 33 (1944) 255-272	
-2	Beckhaus H.-D.; Kratt G.; Lay K.; Geiselmann J.; Ruechardt C.; Kitschke B.; Lindner H.-J.: XIII. 3,4-Dicyclohexyl-3,4-Dimethylhexane - Standard Heat of Formation, Thermal Stability and Structure. Chem.Ber. 113 (1980) 3441-3455	
-$$$Std. Heat of Formation	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.00	-459320.00	Liquid	2	
-298.00	-456350.00	Liquid	4	
-298.00	-374259.00	Vapor	3	
-298.00	-373338.00	Vapor	1	
-Number	Source	
-1	Prosen E.J.; Rossini F.D.: Heats of combustion and formation of the paraffin hydrocarbons at 25oC.. J.Res. NBS 34 (1945) 263-269	
-2	Richardson J.W.; Parks G.S.: Thermal data on organic compounds. XIX. Modern combustion data for some non-volatile compounds containing carbon, hydrogen and oxygen.. J.Am.Chem.Soc. 61 (1939) 3543-3546	
-3	Parks G.S.; Moore G.E.: Vapor pressure and other thermodynamic data for n-hexadecane and n-dodecylcyclohexane near room temperature.. J.Chem.Phys. 17 (1949) 1151-1153	
-4	Fraser F.M.; Prosen E.J.: Heats of Combustion of Liquid n-Hexadecane, 1-Hexadecene, n-Decylbenzene, n-Decylcyclohexane, n-Decylcyclopentane, and the Variation of Heat of Combustion With Chain Length. J.Res. NBS 55 (1955) 329-333	
-$$$Surface Tension	
-T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference	
-273.15		29.3200	Liquid Phase of VLE	4	
-283.15		28.4800	Liquid Phase of VLE	4	
-293.15		27.4000	Liquid	5	
-293.15		27.4200	Liquid	1	
-293.15		27.4900	Liquid	6	
-293.15		27.6400	Liquid Phase of VLE	4	
-293.15	101.300	27.4700	Liquid	3	
-303.15		26.6200	Liquid	1	
-303.15		26.7900	Liquid Phase of VLE	4	
-303.15	101.300	26.6200	Liquid	3	
-313.15		25.9500	Liquid Phase of VLE	4	
-313.15	101.300	25.7600	Liquid	3	
-323.15		25.1100	Liquid Phase of VLE	4	
-323.15	101.300	24.9100	Liquid	3	
-333.15		24.2700	Liquid Phase of VLE	4	
-333.15	101.300	24.0600	Liquid	3	
-343.15		23.4200	Liquid Phase of VLE	4	
-343.15	101.300	23.2000	Liquid	3	
-353.15		22.3400	Liquid	6	
-353.15		22.5800	Liquid Phase of VLE	4	
-353.15	101.300	22.3500	Liquid	3	
-363.15	101.300	21.4900	Liquid	3	
-373.15	101.300	20.6400	Liquid	3	
-Number	Source	
-1	Koefoed J.; Villadsen J.V.: Chloroform-Carbon Tetrachloride, Benyene-Diphenylmethane and Heptane-Hexadecane. Acta Chem.Scand. 12 (1958) 1124-1135	
-2	Aveyard R.; Haydon D.A.: Thermodynamic Properties of Aliphatic Hydrocarbon/Water Interfaces.. Trans.Faraday Soc. 61 (1965) 2255-2261	
-3	Jasper J.J.; Kring E.V.: The isobaric surface tensions and thermodynamic properties of the surfaces of a series of n-alkanes, C5 to C18, 1-alkenes, C6 to C16, andof n-decylcyclopentane, n-decylcyclohexane and n-decylbenzene.. J.Phys.Chem. 59 (1955) 1019-1021	
-4	Jasper J.J.; Kerr E.R.; Gregorich F.: The orthobaric surface tensions and thermodynamic properties of the liquid surfaces of the n-alkanes, C5 to C18.. J.Am.Chem.Soc. 75 (1953) 5252-5254	
-5	Sanchez-Rubio M.; Gordillo B.; Rushforth D.S.: An inexpensive Du Nuoy tensiometer.. J.Chem.Educ. 60 (1983) 70-71	
-6	Korösi G.; Kovats E.S.: Density and Surface Tension of 83 Organic Liquids. J.Chem.Eng.Data 26 (1981) 323-332	
-$$$Thermal Conductivity	
-T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
-307.17		0.14654	Liquid	1	
-308.90		0.14607	Liquid	1	
-309.45		0.14677	Liquid	1	
-310.57		0.1456	Liquid	1	
-313.15	98.066	0.1400	Liquid	2	
-313.15	9806.601	0.1441	Liquid	2	
-313.15	19613.000	0.1476	Liquid	2	
-313.15	29420.000	0.1505	Liquid	2	
-313.15	39227.000	0.1532	Liquid	2	
-333.15	98.066	0.1360	Liquid	2	
-333.15	9806.601	0.1407	Liquid	2	
-333.15	19613.000	0.1439	Liquid	2	
-333.15	29420.000	0.1468	Liquid	2	
-333.15	39227.000	0.1495	Liquid	2	
-335.16		0.1419	Liquid	1	
-335.79		0.14165	Liquid	1	
-337.26		0.1413	Liquid	1	
-353.15	98.066	0.1323	Liquid	2	
-353.15	9806.601	0.1367	Liquid	2	
-353.15	19613.000	0.1401	Liquid	2	
-353.15	29420.000	0.1430	Liquid	2	
-353.15	39227.000	0.1458	Liquid	2	
-373.15	98.066	0.1284	Liquid	2	
-373.15	9806.601	0.1329	Liquid	2	
-373.15	19613.000	0.1365	Liquid	2	
-373.15	29420.000	0.1396	Liquid	2	
-373.15	39227.000	0.1426	Liquid	2	
-374.57		0.1335	Liquid	1	
-375.41		0.13282	Liquid	1	
-378.57		0.13258	Liquid	1	
-386.18		0.13165	Liquid	1	
-393.15	98.066	0.1245	Liquid	2	
-393.15	9806.601	0.1292	Liquid	2	
-393.15	19613.000	0.1329	Liquid	2	
-393.15	29420.000	0.1362	Liquid	2	
-393.15	39227.000	0.1394	Liquid	2	
-393.25		0.1305	Liquid	1	
-410.52		0.12677	Liquid	1	
-412.97		0.12653	Liquid	1	
-413.15	98.066	0.1204	Liquid	2	
-413.15	9806.601	0.1256	Liquid	2	
-413.15	19613.000	0.1295	Liquid	2	
-413.15	29420.000	0.1330	Liquid	2	
-413.15	39227.000	0.1363	Liquid	2	
-433.15	98.066	0.1168	Liquid	2	
-433.15	9806.601	0.1224	Liquid	2	
-433.15	19613.000	0.1265	Liquid	2	
-433.15	29420.000	0.1303	Liquid	2	
-433.15	39227.000	0.1336	Liquid	2	
-453.15	98.066	0.1132	Liquid	2	
-453.15	9806.601	0.1192	Liquid	2	
-453.15	19613.000	0.1235	Liquid	2	
-453.15	29420.000	0.1276	Liquid	2	
-453.15	39227.000	0.1312	Liquid	2	
-453.16		0.11863	Liquid	1	
-473.15	98.066	0.1095	Liquid	2	
-473.15	9806.601	0.1160	Liquid	2	
-473.15	19613.000	0.1206	Liquid	2	
-473.15	29420.000	0.1249	Liquid	2	
-473.15	39227.000	0.1289	Liquid	2	
-493.15	98.066	0.1062	Liquid	2	
-493.15	9806.601	0.1132	Liquid	2	
-493.15	19613.000	0.1181	Liquid	2	
-493.15	29420.000	0.1228	Liquid	2	
-493.15	39227.000	0.1273	Liquid	2	
-513.15	98.066	0.1034	Liquid	2	
-513.15	9806.601	0.1111	Liquid	2	
-513.15	19613.000	0.1163	Liquid	2	
-513.15	29420.000	0.1215	Liquid	2	
-513.15	39227.000	0.1262	Liquid	2	
-533.15	98.066	0.1008	Liquid	2	
-533.15	9806.601	0.1090	Liquid	2	
-533.15	19613.000	0.1145	Liquid	2	
-533.15	29420.000	0.1199	Liquid	2	
-533.15	39227.000	0.1249	Liquid	2	
-553.15	9806.601	0.1072	Liquid	2	
-553.15	19613.000	0.1131	Liquid	2	
-553.15	29420.000	0.1186	Liquid	2	
-553.15	39227.000	0.1237	Liquid	2	
-573.15	9806.601	0.1052	Liquid	2	
-573.15	19613.000	0.1118	Liquid	2	
-573.15	29420.000	0.1174	Liquid	2	
-573.15	39227.000	0.1225	Liquid	2	
-593.15	9806.601	0.1036	Liquid	2	
-593.15	19613.000	0.1104	Liquid	2	
-593.15	29420.000	0.1163	Liquid	2	
-593.15	39227.000	0.1214	Liquid	2	
-613.15	9806.601	0.1025	Liquid	2	
-613.15	19613.000	0.1092	Liquid	2	
-613.15	29420.000	0.1153	Liquid	2	
-613.15	39227.000	0.1205	Liquid	2	
-633.15	9806.601	0.1015	Liquid	2	
-633.15	19613.000	0.1084	Liquid	2	
-633.15	29420.000	0.1145	Liquid	2	
-633.15	39227.000	0.1196	Liquid	2	
-653.15	9806.601	0.1008	Liquid	2	
-653.15	19613.000	0.1078	Liquid	2	
-653.15	29420.000	0.1138	Liquid	2	
-653.15	39227.000	0.1189	Liquid	2	
-673.15	9806.601	0.1002	Liquid	2	
-673.15	19613.000	0.1074	Liquid	2	
-673.15	29420.000	0.1132	Liquid	2	
-673.15	39227.000	0.1182	Liquid	2	
-693.15	9806.601	0.0995	Liquid	2	
-693.15	19613.000	0.1069	Liquid	2	
-693.15	29420.000	0.1127	Liquid	2	
-693.15	39227.000	0.1176	Liquid	2	
-Number	Source	
-1	Mukhamedzyanov G.Kh.; Usmanov A.G.; Tarzimanov A.A.: Experimentelle Bestimunng der Wärmeleitfähigkeit von flüssigen Alkanen. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1963) 75-79	
-2	Mustafaev R.A.: Thermal Conductivity of Higher Saturated n-Hydrocarbons over Wide Ranges of Temperature and Pressure. Inzh.Fiz.Zh. 24 (1973) 663-668	
-$$$Vapor Pressure	
-T [K]	P [kPa]	State	Reference	
-301.25	0.000308	Vapor-Liquid	6	
-308.20	0.000615	Vapor-Liquid	6	
-315.17	0.00124879996292	Vapor-Liquid	6	
-323.15	0.002532	Vapor-Liquid	6	
-329.36	0.0042	Vapor-Liquid	6	
-338.32	0.008814	Vapor-Liquid	6	
-340.71	0.010766	Vapor-Liquid	6	
-343.63	0.013172	Vapor-Liquid	6	
-357.85	0.036	Vapor-Liquid	3	
-378.45	0.13332	Vapor-Liquid	2	
-379.15	0.13866	Vapor-Liquid	3	
-397.55	0.432	Vapor-Liquid	3	
-410.15	0.7066	Vapor-Liquid	5	
-417.75	1.1826	Vapor-Liquid	3	
-418.15	1.200	Vapor-Liquid	5	
-423.15	1.3332	Vapor-Liquid	2	
-424.15	1.4665	Vapor-Liquid	4	
-429.15	1.840	Vapor-Liquid	5	
-430.65	2.000	Vapor-Liquid	4	
-434.65	2.600	Vapor-Liquid	5	
-439.15	2.6665	Vapor-Liquid	2	
-447.15	4.000	Vapor-Liquid	4	
-449.15	4.000	Vapor-Liquid	2	
-456.75	5.333	Vapor-Liquid	2	
-460.65	6.666	Vapor-Liquid	4	
-462.85	6.666	Vapor-Liquid	2	
-463.20	6.945	Vapor-Liquid	1	
-467.45	7.999	Vapor-Liquid	2	
-468.45	8.330	Vapor-Liquid	1	
-472.42	9.531	Vapor-Liquid	1	
-475.75	10.666	Vapor-Liquid	2	
-476.59	10.951	Vapor-Liquid	1	
-481.65	13.332	Vapor-Liquid	4	
-482.11	13.098	Vapor-Liquid	1	
-482.95	13.332	Vapor-Liquid	2	
-488.15	15.824	Vapor-Liquid	1	
-494.93	19.448	Vapor-Liquid	1	
-495.45	19.998	Vapor-Liquid	2	
-500.49	22.886	Vapor-Liquid	1	
-505.35	26.664	Vapor-Liquid	2	
-508.30	28.558	Vapor-Liquid	1	
-515.58	34.817	Vapor-Liquid	1	
-519.95	39.997	Vapor-Liquid	2	
-523.76	43.171	Vapor-Liquid	1	
-531.15	53.329	Vapor-Liquid	2	
-532.49	53.777	Vapor-Liquid	1	
-540.15	66.661	Vapor-Liquid	2	
-541.69	67.076	Vapor-Liquid	1	
-547.65	79.993	Vapor-Liquid	2	
-551.48	84.065	Vapor-Liquid	1	
-555.35	93.326	Vapor-Liquid	2	
-558.49	98.168	Vapor-Liquid	1	
-559.15	101.325	Vapor-Liquid	2	
-559.85	101.125	Vapor-Liquid	1	
-560.65	101.325	Vapor-Liquid	4	
-Number	Source	
-1	Camin D.L.; Forziati A.F.; Rossini F.D.: Physical Properties of n-Hexadecane, n-Decylcyclopentane, n-Decylcyclohexane, 1-Hexadecene and n-Decylbenzene.. J.Phys.Chem. 58 (1954) 440-442	
-2	Myers H.S.; Fenske M.R.: Measurement and Correlation of Vapor Pressure Data for High Boiling Hydrocarbons. Ind.Eng.Chem. 47 (1955) 1652-1658	
-3	Grenier-Loustalot M.F.; Potin-Gautier M.; Grenier P.: Applications analytiques de la mesure des tensions de vapeur par saturation d'un gaz inerte cas des alcanes normaux et des polyethyleneglycols. Anal.Lett. 14 (1981) 1335-1349	
-4	Krafft F.: Über neunzehn höhere Normalparaffine CnH2n+2 und ein einfaches Volumengesetz für den tropfbar flüssigen Zustand. I.. Ber.Dtsch.Chem.Ges. 15 (1882) 1687-1711	
-5	Francis F.; Wood N.E.: CLXXXIV. - The boiling points of some higher aliphatic n-hydrocarbons. J.Chem.Soc.London 129 (1926) 1420-1423	
-6	Yi S.; Ma P.; Ruan Y.: Determination of very low vapor pressures of seven organic compounds. Huagong-Xuebao / CIESC J. 45 (1994) 102-105	
+Formula	Molar Mass	CAS Registry Number	Name
+C16H34	226.446	544-76-3	Hexadecane
+$$$Compressibility (isentropic)
+T [K]	Compressibility (isentropic) [/kPa]	State	Reference
+298.15	7.24880010239E-007	Liquid	1
+Number	Source
+1	Tardajos G.; Diaz Pena M.; Aicart E.: Speed of sound in pure liquids by a pulse-echo-overlap method. J.Chem.Thermodyn. 18 (1986) 683-689
+$$$Compressibility (isothermal)
+T [K]	Compressibility (isothermal) [/kPa]	State	Reference
+298.15	8.60000000102E-007	Liquid	1
+318.15	9.7800000276E-007	Liquid	1
+Number	Source
+1	Bauder A.; Guenthard H.H.: Thermodynamic properties of formamide. (Ger). Helv.Chim.Acta 41 (1958) 670-673
+$$$Critical Data
+T [K]	P [kPa]	State	Reference
+717.15		Critical Point	3
+722.00		Critical Point	5
+722.40	1401.000	Critical Point	6
+723.00		Critical Point	1
+Number	Source
+1	Mogollon E.; Kay W.B.; Teja A.S.: Modified Sealed-Tube Method for the Determination of Critical Temperature.. Ind.Eng.Chem. Fundam. 21 (1982) 173-175
+2	Teja A.S.; Gude M.; Rosenthal D.: Novel methods for the measurement of the critical properties of thermally unstable fluids.. Fluid Phase Equilib. 52 (1989) 193-200
+3	Ambrose D.: Critical Temperatures of some Phenols and other Organic Compounds.. Trans.Faraday Soc. 59 (1963) 1988-1993
+4	Anselme M.J.; Gude M.; Teja A.S.: The Critical Temperatures and Densities of the n-Alkanes from Pentane to Octadecane.. Fluid Phase Equilib. 57 (1990) 317-326
+5	Smith R.L., Jr.; Teja A.S.; Kay W.B.: Measurement of Critical Temperatures of Thermally Unstable n-Alkanes. AIChE J. 33 (1987) 232-238
+6	Rosenthal D.J.; Teja A.S.: The Critical Properties of n-Alkanes Using a Low-Residence Time Flow Apparatus. AIChE J. 35 (1989) 1829-1834
+$$$Density
+T [K]	Density [kg/m3]	State	Reference
+298.15	769.890	Liquid	4
+298.15	769.990	Liquid	1
+298.15	770.100	Liquid	2
+298.15	771.300	Liquid	6
+303.15	767.700	Liquid	6
+308.15	764.300	Liquid	6
+308.15	765.310	Liquid	1
+318.15	756.230	Liquid	5
+Number	Source
+1	Domanska U.; Lachwa J.; Morawski P.: Phase Equilibria and Volumetric Properties in Binary Mixtures Containing Branched Chain Ethers (Methyl 1,1-Dimethylethyl Ether or Ethyl 1,1-Dimethylethyl Ether or Methyl 1,1-Dimethylpropyl Ether or Ethyl 1,1-Dimethylpropyl Ether). J.Chem.Eng.Data 44 (1999) 974-984
+2	Gonzalez E.; Ortega J.: VI. Excess enthalpy and excess volume for {xCH3(CH2) u-1 CO2CH3 (u=1 to 6) + (1-x)CH3(CH2)14CH3}. J.Chem.Thermodyn. 26 (1994) 41-47
+3	Tanaka H.; Yamaki Y.; Kato M.: Solubility of Carbon Dioxide in Pentadecane, Hexadecane, and Pentadecane + Hexadecane. J.Chem.Eng.Data 38 (1993) 386-388
+4	Sharma V.K.; Maken S.: Excess Molar Volumes of Binary Mixtures Containing Nitrotoluene at 308.15 K. Indian J.Chem.Sect.A 31 (1992) 721-722
+5	Matilla A.D.; Tardajos G.; Aicart E.: Thermodynamic Mixing Properties of (Chlorobenzene + an Alkane). J.Chem.Thermodyn. 25 (1993) 201-207
+6	Aralaguppi M.I.; Aminabhavi T.M.; Balundgi R.H.; Joshi S.S.: Thermodynamic Interactions in Mixtures of Bromoform with Hydrocarbons. J.Phys.Chem. 95 (1991) 5299-5308
+$$$Dielectric Constant
+T [K]	Dielectric Constant [-]	State	Reference
+293.15	2.04900	Liquid	2
+293.15	2.08000	Liquid	3
+298.15	2.09000	Liquid	1
+313.15	2.02700	Liquid	2
+313.15	2.03000	Liquid	3
+333.15	2.00400	Liquid	2
+Number	Source
+1	Aralaguppi M.I.; Aminabhavi T.M.; Balundgi R.H.; Joshi S.S.: Thermodynamic Interactions in Mixtures of Bromoform with Hydrocarbons. J.Phys.Chem. 95 (1991) 5299-5308
+2	Franklin A.D.; Heston W.M.Jr.; Hennelly E.J.; Smyth C.P.: Microwave Absorption and Molecular Structure in Liquids. VI. Dielectric Relaxation of Four Organic Halides and Camphor in Different Solvents. J.Am.Chem.Soc. 72 (1950) 3447-3454
+3	Hahn G.; Svejda P.; Dallos A.: Volumetric and dielectric properties of the binary liquid systems: 1,2-dichloroethane+n-alkanes or +2,2,4-trimethylpentane.. Fluid Phase Equilib. 86 (1993) 293-313
+$$$Dynamic Viscosity
+T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference
+298.15		3.0041	Liquid	4
+298.15		3.0050	Liquid	3
+298.15		3.0248	Liquid	2
+303.15		2.6634	Liquid	4
+308.15		2.3810	Liquid	3
+308.15		2.3822	Liquid	4
+318.15		1.9200	Liquid	3
+335.95	29400.000	2.1515	Liquid	1
+335.95	49000.000	2.5802	Liquid	1
+364.85	29400.000	1.4033	Liquid	1
+364.85	49000.000	1.7210	Liquid	1
+392.95	29400.000	1.0017	Liquid	1
+392.95	49000.000	1.2310	Liquid	1
+424.45	29400.000	0.7378	Liquid	1
+424.45	49000.000	0.9005	Liquid	1
+453.95	29400.000	0.5801	Liquid	1
+453.95	49000.000	0.7005	Liquid	1
+531.95	29400.000	0.3598	Liquid	1
+531.95	49000.000	0.4558	Liquid	1
+Number	Source
+1	Rastorguev Yu.L.; Keramidi A.S.: Viskosität von Alkanen. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1972) 61-66
+2	De Lorenzi L.; Fermeglia M.; Torriano G.: Densities and Viscosities of 1,1,1-Trichloroethane + Paraffins and + Cycloparaffins at 298.15 K. J.Chem.Eng.Data 39 (1994) 483-487
+3	Aminabhavi T.M.; Gopalkrishna B.: Densities, Viscosities, Refractive Indices, and Speeds of Sound of the Binary Mixtures of Bis-(2-methoxyethyl) Ether with Nonane, Decane, Dodecane, Tetradecane, and Hexadecane at 298.15, 308.15, and 318.15 K. J.Chem.Eng.Data 39 (1994) 529-534
+4	Aralaguppi M.I.; Aminabhavi T.M.; Balundgi R.H.; Joshi S.S.: Thermodynamic Interactions in Mixtures of Bromoform with Hydrocarbons. J.Phys.Chem. 95 (1991) 5299-5308
+$$$Flash Point
+T [K]	P [kPa]	State	Reference
+396.48		Liquid	2
+400.34	101.300	Liquid	3
+406.00		Liquid	5
+406.20		Liquid	4
+408.00		Liquid	1
+Number	Source
+1	Prak D.J.L.; Trulove P.C.; Cowart J.S.: Density, Viscosity, Speed of Sound, Surface Tension, and Flash Point of Binary Mixtures of n-Hexadecane and 2,2,4,4,6,8,8-Heptamethylnonane and of Algal-Based Hydrotreated Renewable Diesel. J.Chem.Eng.Data 58 (2013) 920-926
+2	Lenoir J.M.: Predict flash points accurately. Use molar composition in this simple calculation. Hydrocarbon Process. 54 (1975) 95-99
+3	Richter R.: Theoretische Berechnung und experimentelle Überprüfung. Master's Thesis  (1999)
+4	Luning Prak D.J.: Density, Viscosity, Speed of Sound, Bulk Modulus, Surface Tension, and Flash Point of Binary Mixtures of Butylcyclohexane with Toluene or n-Hexadecane. J.Chem.Eng.Data 61 (2016) 3595-3606
+5	Luning Prak D.J.; Lee B.G.; Cowart J.S.; Trulove P.C.: Density, Viscosity, Speed of Sound, Bulk Modulus, Surface Tension, and Flash Point of Binary Mixtures of Butylbenzene + Linear Alkanes (n-Decane, n-Dodecane, n-Tetradecane, n-Hexadecane, or n-Heptadecane) at 0.1 MPa. J.Chem.Eng.Data 62 (2017) 169-187
+$$$Heat of Fusion
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+290.70		53000.00	Solid-Liquid	2
+291.07		52433.00	Solid-Liquid	5
+291.10	101.325	51540.00	Solid-Liquid	1
+291.95		51600.00	Solid-Liquid	3
+293.15		48912.30	Solid-Liquid	4
+Number	Source
+1	Parks G.S.; Moore G.E.; Renquist M.L.; Naylor B.F.; McClaine L.A.; Fujii P.S.; Hatton J.A.: Thermal Data on Organic Compounds. XXV. Some Heat Capacity, Entropy and Free Energy Data for Nine Hydrocarbons of High Molecular Weight. J.Am.Chem.Soc. 71 (1949) 3386-3389
+2	Metivaud V.; Rajabalee F.; Oonk H.A.J.; Mondieig D.; Haget Y.: Complete Determination of the Solid (Ri)-Liquid Equilibria of Four Consecutive n-Alkane Ternary Systems in the Range C14H30-C21H44 using Only Binary Data. Can.J.Chem. 77 (1999) 332-339
+3	Paunovic I.; Mehrotra A.K.: Liquid-solid phase transformation of C16H34, C28H58 and C41H84 and their binary and ternary mixtures. Thermochim.Acta 356 (2000) 27-38
+4	Babich M.W.; Benrashid R.; Mounts R.D.: Part 3. Thermal and Flammability Studies. Thermochim.Acta 243 (1994) 193-200
+5	Goetsch T.; Zimmermann P.; van den Bongard R.; Enders S.; Zeiner T.: Binary Systems. Ind.Eng.Chem.Res. 55 (2016) 11167-11174
+$$$Heat of Sublimation
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+289.15	125938.00	Solid-Gas	1
+Number	Source
+1	Bradley R.S.; Shellard A.D.: III. Vapour Pressures and Rates of Evaporation of Straight-Chain Paraffin Hydrocarbons.. Proc.Roy.Soc.London Ser.A 198 (1949) 239-251
+$$$Heat of Vaporization
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.00	81210.00	Vapor-Liquid	3
+298.00	81410.00	Vapor-Liquid	3
+298.00	81440.00	Vapor-Liquid	3
+298.00	81500.00	Vapor-Liquid	3
+298.00	81800.00	Vapor-Liquid	1
+298.15	69873.00	Vapor-Liquid	6
+298.15	70040.00	Vapor-Liquid	6
+298.15	70207.00	Vapor-Liquid	6
+298.15	71421.00	Vapor-Liquid	6
+298.15	71672.00	Vapor-Liquid	6
+298.15	78534.00	Vapor-Liquid	5
+298.15	78659.00	Vapor-Liquid	5
+298.15	79538.00	Vapor-Liquid	5
+298.15	79663.00	Vapor-Liquid	5
+298.15	81400.00	Vapor-Liquid	2
+372.00	80700.00	Vapor-Liquid	4
+Number	Source
+1	Nichols G.; Orf J.; Reiter S.M.; Chickos J.; Gokel G.W.: The Vaporization Enthalpies of some Crown and Polyethers by Correlation Gas Chromatography. Thermochim.Acta 346 (2000) 15-28
+2	Dionisio M.S.; Moura Ramos J.J.; Goncalves R.M.: The enthalpy and entropy of cavity formation in liquids and Corresponding States Principle. Can.J.Chem. 68 (1990) 1937-1949
+3	Chickos J.S.; Hosseini S.; Hesse D.G.: Determination of Vaporization Enthalpies of Simple Organic Molecules by Correlations of Changes in Gas Chromatographic Net Retention Times. Thermochim.Acta 249 (1995) 41-62
+4	Ribeiro da Silva M.A.V.; Ferrao M.L.C.C.H.; Jiye F.: Standard Molar Enthalpy of Formation and of Vaporization of Ethyl 3-Oxobutanoate. J.Chem.Eng.Data 40 (1995) 426-428
+5	Morawetz E.: Part I. Vapor Pressure Range 200-10^-3 mm Hg. Acta Chem.Scand. 22 (1968) 1509-1531
+6	Morawetz E.; Sunner S.: Design, Construction and Testing of a Heat of Vaporization Calorimeter Useful in the Vapor Pressure Range 1 to 0.01 mm Hg at 25° C. Acta Chem.Scand. 17 (1963) 473-488
+$$$Kinematic Viscosity
+T [K]	Kinematic Viscosity [m2/s]	State	Reference
+293.15	4.46139983978E-06	Liquid	2
+298.12	3.97399981011E-06	Liquid	6
+298.15	3.95799997932E-06	Liquid	4
+298.15	3.9761998778E-06	Liquid	5
+303.15	3.59000000572E-06	Liquid	1
+308.15	3.21990000884E-06	Liquid	3
+313.14	2.91799983643E-06	Liquid	6
+313.15	2.92920003631E-06	Liquid	3
+313.35	2.98999998449E-06	Liquid	1
+334.45	2.05799983632E-06	Liquid	1
+346.75	1.750000024E-06	Liquid	1
+363.45	1.41999998959E-06	Liquid	1
+Number	Source
+1	Keramidi A.S.; Rastorguev Yu.L.; Grigorev B.A.: Untersuchung des dynamische Viskositätskoeffizienten von flüssigen n-Alkanen. Mater.Vses.Soveshch.Fiz.Zhidk. 10 (1975) 221-227
+2	Cooper E.F.; Asfour A.-F.A.: Densities and Kinematic Viscosities of Some C6-C16 n-Alkane Binary Liquid Systems at 293.15 K. J.Chem.Eng.Data 36 (1991) 285-288
+3	Vavanellos T.D.; Asfour A.F.A.; Siddique M.H.: Kinematic Viscosity-Composition Data for Eight Binary Systems Containing Toluene or Ethylbenzene and C8-C16 n-Alkanes at 308.15 and 313.15 K. J.Chem.Eng.Data 36 (1991) 281-284
+4	Chevalier J.L.E.; Petrino P.J.; Gaston-Bonhomme Y.H.: Viscosity and Density of Some Aliphatic, Cyclic, and Aromatic Hydrocarbons Binary Liquid Mixtures. J.Chem.Eng.Data 35 (1990) 206-212
+5	Asfour A.F.A.; Siddique M.H.; Vavanellos T.D.: Kinematic Viscosity-Composition Data for Eight Binary Systems Containing Toluene or Ethylbenzene and C8-C16 n-Alkanes at 293.15 and 298.15 K. J.Chem.Eng.Data 35 (1990) 199-201
+6	Dymond J.H.; Young K.J.: I. Viscosity Coefficients for n-Alkane Mixtures at Saturation Pressure from 283 to 378 K. Int.J.Thermophys. 1 (1980) 331-344
+$$$Melting Point
+T [K]	P [kPa]	State	Reference
+291.00		Solid-Liquid	5
+291.29		Solid-Liquid	1
+291.30		Solid-Liquid	4
+291.30	101.325	Solid-Liquid	3
+291.33	101.325	Solid-Liquid	6
+293.15		Solid-Liquid	2
+Number	Source
+1	Wibaut J.P.; Brand H.: Syntheses and physical constants of eleven monobranched hexadecanes.. Recl.Trav.Chim.Pays-Bas 80 (1961) 97-115
+2	Babich M.W.; Hwang S.; Mounts R.D.: Part2. New Materials and Bulk Studies. Thermochim.Acta 226 (1993) 163-168
+3	Erkey C.; Rodden J.B.; Matthews M.A.; Akgerman A.: Application of Rough Hard-Sphere Theory to Diffusion in n-Alkanes. Int.J.Thermophys. 10 (1989) 953-962
+4	Spiteri W.L.; Letcher T.M.: The Excess Volumes of Cyclopentane + n-Alkane. J.Chem.Thermodyn. 11 (1979) 667-670
+5	Huang T.-C.; Kang B.-C.: Naphthalene Hydrogenation over Pt/Al2O3 Catalyst in a Trickle Bed Reactor. Ind.Eng.Chem.Res. 34 (1995) 2349-2357
+6	Gioia Lobbia G.; Berchiesi G.; Vitali G.: A Comparison of the Experimental and Calculated Curves. Thermochim.Acta 65 (1983) 29-33
+$$$Molar Heat Capacity (cP)
+T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference
+298.15		499.62	Liquid	2
+318.15	100.000	512.37	Liquid	1
+318.15	1000.000	512.33	Liquid	1
+318.15	3000.000	512.22	Liquid	1
+318.15	5000.000	511.67	Liquid	1
+318.15	10000.000	511.21	Liquid	1
+323.15	100.000	515.87	Liquid	1
+323.15	1000.000	515.57	Liquid	1
+323.15	3000.000	515.23	Liquid	1
+323.15	5000.000	515.19	Liquid	1
+323.15	10000.000	515.03	Liquid	1
+328.15	100.000	518.92	Liquid	1
+328.15	1000.000	518.86	Liquid	1
+328.15	3000.000	518.73	Liquid	1
+328.15	5000.000	518.47	Liquid	1
+328.15	10000.000	518.37	Liquid	1
+333.15	100.000	521.87	Liquid	1
+333.15	1000.000	521.78	Liquid	1
+333.15	3000.000	521.55	Liquid	1
+333.15	5000.000	521.49	Liquid	1
+333.15	10000.000	521.11	Liquid	1
+338.15	100.000	525.45	Liquid	1
+338.15	1000.000	525.40	Liquid	1
+338.15	3000.000	525.26	Liquid	1
+338.15	5000.000	525.18	Liquid	1
+338.15	10000.000	524.97	Liquid	1
+343.15	100.000	528.95	Liquid	1
+343.15	1000.000	528.87	Liquid	1
+343.15	3000.000	528.60	Liquid	1
+343.15	5000.000	528.36	Liquid	1
+343.15	10000.000	527.97	Liquid	1
+348.15	100.000	532.40	Liquid	1
+348.15	1000.000	532.24	Liquid	1
+348.15	3000.000	531.77	Liquid	1
+348.15	5000.000	531.48	Liquid	1
+348.15	10000.000	531.47	Liquid	1
+353.15	100.000	536.26	Liquid	1
+353.15	1000.000	536.22	Liquid	1
+353.15	3000.000	536.16	Liquid	1
+353.15	5000.000	535.99	Liquid	1
+353.15	10000.000	535.32	Liquid	1
+358.15	100.000	540.04	Liquid	1
+358.15	1000.000	539.52	Liquid	1
+358.15	3000.000	539.12	Liquid	1
+358.15	5000.000	539.11	Liquid	1
+358.15	10000.000	538.75	Liquid	1
+363.15	100.000	543.84	Liquid	1
+363.15	1000.000	543.34	Liquid	1
+363.15	3000.000	542.89	Liquid	1
+363.15	5000.000	542.69	Liquid	1
+363.15	10000.000	542.51	Liquid	1
+368.15	100.000	548.27	Liquid	1
+368.15	1000.000	548.14	Liquid	1
+368.15	3000.000	547.76	Liquid	1
+368.15	5000.000	547.42	Liquid	1
+368.15	10000.000	547.18	Liquid	1
+373.15	100.000	552.73	Liquid	1
+373.15	1000.000	552.68	Liquid	1
+373.15	3000.000	552.27	Liquid	1
+373.15	5000.000	551.88	Liquid	1
+373.15	10000.000	551.44	Liquid	1
+Number	Source
+1	Banipal T.S.; Garg S.K.; Ahluwalia J.C.: Heat capacities and densities of liquid n-octane, n-nonane, n-decane,and n-hexadecane at temperatures from 318.15 K to 373.15 K and at pressures up to 10 MPa.. J.Chem.Thermodyn. 23 (1991) 923-931
+2	Tardajos G.; Aicart E.; Costas M.; Patterson D.: Liquid Structure and Second-order Mixing Functions for Benzene, Toluene and p-Xylene with n-Alkanes. J.Chem.Soc.Faraday Trans.1 82 (1986) 2977-2987
+$$$Molar Heat Capacity (cV)
+T [K]	Molar Heat Capacity (Cv) [J/(mol*K)]	State	Reference
+310.91	422.00	Liquid	1
+315.94	428.00	Liquid	1
+321.74	434.00	Liquid	1
+328.20	439.00	Liquid	1
+334.91	448.00	Liquid	1
+342.99	457.00	Liquid	1
+350.65	459.00	Liquid	1
+357.02	456.00	Liquid	1
+367.88	474.00	Liquid	1
+395.79	479.00	Liquid	1
+412.84	495.00	Liquid	1
+431.92	502.00	Liquid	1
+453.55	519.00	Liquid	1
+Number	Source
+1	Petit J.C.; Minassian L.T.: Measurements of (dv/dt)P, (dv/dp)T, and (dh/dt)P by Flux Calorimetry. J.Chem.Thermodyn. 6 (1974) 1139-1152
+$$$Speed of Sound
+T [K]	P [kPa]	Ultrasonic Velocity [m/s]	State	Reference
+310.93	101.325	1274.060	Liquid	1
+310.93	6996.060	1310.640	Liquid	1
+310.93	13890.800	1341.120	Liquid	1
+310.93	20785.500	1380.740	Liquid	1
+310.93	27680.301	1420.370	Liquid	1
+338.70	101.325	1196.340	Liquid	1
+338.70	6996.060	1231.390	Liquid	1
+338.70	13890.800	1264.010	Liquid	1
+338.70	20785.500	1307.590	Liquid	1
+338.70	27680.301	1347.220	Liquid	1
+338.70	34575.000	1391.410	Liquid	1
+366.48	101.325	1115.570	Liquid	1
+366.48	6996.060	1149.100	Liquid	1
+366.48	13890.800	1194.820	Liquid	1
+366.48	20785.500	1234.440	Liquid	1
+366.48	27680.301	1277.110	Liquid	1
+366.48	34575.000	1316.740	Liquid	1
+394.26	101.325	1030.220	Liquid	1
+394.26	6996.060	1071.370	Liquid	1
+394.26	13890.800	1112.520	Liquid	1
+394.26	20785.500	1158.240	Liquid	1
+394.26	27680.301	1200.910	Liquid	1
+394.26	34575.000	1246.630	Liquid	1
+Number	Source
+1	Rolling R.E.; Vogt C.J.: The Adiabatic Bulk Modulus of Normal Paraffin Hydrocarbons from Hexane to Hexadecane. J.Basic Eng. 82 (1960) 635-642
+$$$Standard Heat of Vaporization
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+298.15	100.000	80600.00	Vapor-Liquid	1
+Number	Source
+1	Ribeira da Silva M. A.; Agostinha M.; Matos R.; Amaral L.M.P.F.: Thermochemical study of 2-, 4-, 6-, and 8-methylquinoline. J.Chem.Thermodyn. 27 (1995) 565-574
+$$$Std. Heat of Combustion
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.00	-10700900.00	Liquid	1
+298.15	-10698100.00	Liquid	2
+Number	Source
+1	Prosen E.J.; Rossini F.D.: Heats of combustion of eight normal paraffin hydrocarbons in the liquid state.. J.Res. NBS 33 (1944) 255-272
+2	Beckhaus H.-D.; Kratt G.; Lay K.; Geiselmann J.; Ruechardt C.; Kitschke B.; Lindner H.-J.: XIII. 3,4-Dicyclohexyl-3,4-Dimethylhexane - Standard Heat of Formation, Thermal Stability and Structure. Chem.Ber. 113 (1980) 3441-3455
+$$$Std. Heat of Formation
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.00	-459320.00	Liquid	2
+298.00	-456350.00	Liquid	4
+298.00	-374259.00	Vapor	3
+298.00	-373338.00	Vapor	1
+Number	Source
+1	Prosen E.J.; Rossini F.D.: Heats of combustion and formation of the paraffin hydrocarbons at 25oC.. J.Res. NBS 34 (1945) 263-269
+2	Richardson J.W.; Parks G.S.: Thermal data on organic compounds. XIX. Modern combustion data for some non-volatile compounds containing carbon, hydrogen and oxygen.. J.Am.Chem.Soc. 61 (1939) 3543-3546
+3	Parks G.S.; Moore G.E.: Vapor pressure and other thermodynamic data for n-hexadecane and n-dodecylcyclohexane near room temperature.. J.Chem.Phys. 17 (1949) 1151-1153
+4	Fraser F.M.; Prosen E.J.: Heats of Combustion of Liquid n-Hexadecane, 1-Hexadecene, n-Decylbenzene, n-Decylcyclohexane, n-Decylcyclopentane, and the Variation of Heat of Combustion With Chain Length. J.Res. NBS 55 (1955) 329-333
+$$$Surface Tension
+T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference
+273.15		29.3200	Liquid Phase of VLE	4
+283.15		28.4800	Liquid Phase of VLE	4
+293.15		27.4000	Liquid	5
+293.15		27.4200	Liquid	1
+293.15		27.4900	Liquid	6
+293.15		27.6400	Liquid Phase of VLE	4
+293.15	101.300	27.4700	Liquid	3
+303.15		26.6200	Liquid	1
+303.15		26.7900	Liquid Phase of VLE	4
+303.15	101.300	26.6200	Liquid	3
+313.15		25.9500	Liquid Phase of VLE	4
+313.15	101.300	25.7600	Liquid	3
+323.15		25.1100	Liquid Phase of VLE	4
+323.15	101.300	24.9100	Liquid	3
+333.15		24.2700	Liquid Phase of VLE	4
+333.15	101.300	24.0600	Liquid	3
+343.15		23.4200	Liquid Phase of VLE	4
+343.15	101.300	23.2000	Liquid	3
+353.15		22.3400	Liquid	6
+353.15		22.5800	Liquid Phase of VLE	4
+353.15	101.300	22.3500	Liquid	3
+363.15	101.300	21.4900	Liquid	3
+373.15	101.300	20.6400	Liquid	3
+Number	Source
+1	Koefoed J.; Villadsen J.V.: Chloroform-Carbon Tetrachloride, Benyene-Diphenylmethane and Heptane-Hexadecane. Acta Chem.Scand. 12 (1958) 1124-1135
+2	Aveyard R.; Haydon D.A.: Thermodynamic Properties of Aliphatic Hydrocarbon/Water Interfaces.. Trans.Faraday Soc. 61 (1965) 2255-2261
+3	Jasper J.J.; Kring E.V.: The isobaric surface tensions and thermodynamic properties of the surfaces of a series of n-alkanes, C5 to C18, 1-alkenes, C6 to C16, andof n-decylcyclopentane, n-decylcyclohexane and n-decylbenzene.. J.Phys.Chem. 59 (1955) 1019-1021
+4	Jasper J.J.; Kerr E.R.; Gregorich F.: The orthobaric surface tensions and thermodynamic properties of the liquid surfaces of the n-alkanes, C5 to C18.. J.Am.Chem.Soc. 75 (1953) 5252-5254
+5	Sanchez-Rubio M.; Gordillo B.; Rushforth D.S.: An inexpensive Du Nuoy tensiometer.. J.Chem.Educ. 60 (1983) 70-71
+6	Korösi G.; Kovats E.S.: Density and Surface Tension of 83 Organic Liquids. J.Chem.Eng.Data 26 (1981) 323-332
+$$$Thermal Conductivity
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference
+307.17		0.14654	Liquid	1
+308.90		0.14607	Liquid	1
+309.45		0.14677	Liquid	1
+310.57		0.1456	Liquid	1
+313.15	98.066	0.1400	Liquid	2
+313.15	9806.601	0.1441	Liquid	2
+313.15	19613.000	0.1476	Liquid	2
+313.15	29420.000	0.1505	Liquid	2
+313.15	39227.000	0.1532	Liquid	2
+333.15	98.066	0.1360	Liquid	2
+333.15	9806.601	0.1407	Liquid	2
+333.15	19613.000	0.1439	Liquid	2
+333.15	29420.000	0.1468	Liquid	2
+333.15	39227.000	0.1495	Liquid	2
+335.16		0.1419	Liquid	1
+335.79		0.14165	Liquid	1
+337.26		0.1413	Liquid	1
+353.15	98.066	0.1323	Liquid	2
+353.15	9806.601	0.1367	Liquid	2
+353.15	19613.000	0.1401	Liquid	2
+353.15	29420.000	0.1430	Liquid	2
+353.15	39227.000	0.1458	Liquid	2
+373.15	98.066	0.1284	Liquid	2
+373.15	9806.601	0.1329	Liquid	2
+373.15	19613.000	0.1365	Liquid	2
+373.15	29420.000	0.1396	Liquid	2
+373.15	39227.000	0.1426	Liquid	2
+374.57		0.1335	Liquid	1
+375.41		0.13282	Liquid	1
+378.57		0.13258	Liquid	1
+386.18		0.13165	Liquid	1
+393.15	98.066	0.1245	Liquid	2
+393.15	9806.601	0.1292	Liquid	2
+393.15	19613.000	0.1329	Liquid	2
+393.15	29420.000	0.1362	Liquid	2
+393.15	39227.000	0.1394	Liquid	2
+393.25		0.1305	Liquid	1
+410.52		0.12677	Liquid	1
+412.97		0.12653	Liquid	1
+413.15	98.066	0.1204	Liquid	2
+413.15	9806.601	0.1256	Liquid	2
+413.15	19613.000	0.1295	Liquid	2
+413.15	29420.000	0.1330	Liquid	2
+413.15	39227.000	0.1363	Liquid	2
+433.15	98.066	0.1168	Liquid	2
+433.15	9806.601	0.1224	Liquid	2
+433.15	19613.000	0.1265	Liquid	2
+433.15	29420.000	0.1303	Liquid	2
+433.15	39227.000	0.1336	Liquid	2
+453.15	98.066	0.1132	Liquid	2
+453.15	9806.601	0.1192	Liquid	2
+453.15	19613.000	0.1235	Liquid	2
+453.15	29420.000	0.1276	Liquid	2
+453.15	39227.000	0.1312	Liquid	2
+453.16		0.11863	Liquid	1
+473.15	98.066	0.1095	Liquid	2
+473.15	9806.601	0.1160	Liquid	2
+473.15	19613.000	0.1206	Liquid	2
+473.15	29420.000	0.1249	Liquid	2
+473.15	39227.000	0.1289	Liquid	2
+493.15	98.066	0.1062	Liquid	2
+493.15	9806.601	0.1132	Liquid	2
+493.15	19613.000	0.1181	Liquid	2
+493.15	29420.000	0.1228	Liquid	2
+493.15	39227.000	0.1273	Liquid	2
+513.15	98.066	0.1034	Liquid	2
+513.15	9806.601	0.1111	Liquid	2
+513.15	19613.000	0.1163	Liquid	2
+513.15	29420.000	0.1215	Liquid	2
+513.15	39227.000	0.1262	Liquid	2
+533.15	98.066	0.1008	Liquid	2
+533.15	9806.601	0.1090	Liquid	2
+533.15	19613.000	0.1145	Liquid	2
+533.15	29420.000	0.1199	Liquid	2
+533.15	39227.000	0.1249	Liquid	2
+553.15	9806.601	0.1072	Liquid	2
+553.15	19613.000	0.1131	Liquid	2
+553.15	29420.000	0.1186	Liquid	2
+553.15	39227.000	0.1237	Liquid	2
+573.15	9806.601	0.1052	Liquid	2
+573.15	19613.000	0.1118	Liquid	2
+573.15	29420.000	0.1174	Liquid	2
+573.15	39227.000	0.1225	Liquid	2
+593.15	9806.601	0.1036	Liquid	2
+593.15	19613.000	0.1104	Liquid	2
+593.15	29420.000	0.1163	Liquid	2
+593.15	39227.000	0.1214	Liquid	2
+613.15	9806.601	0.1025	Liquid	2
+613.15	19613.000	0.1092	Liquid	2
+613.15	29420.000	0.1153	Liquid	2
+613.15	39227.000	0.1205	Liquid	2
+633.15	9806.601	0.1015	Liquid	2
+633.15	19613.000	0.1084	Liquid	2
+633.15	29420.000	0.1145	Liquid	2
+633.15	39227.000	0.1196	Liquid	2
+653.15	9806.601	0.1008	Liquid	2
+653.15	19613.000	0.1078	Liquid	2
+653.15	29420.000	0.1138	Liquid	2
+653.15	39227.000	0.1189	Liquid	2
+673.15	9806.601	0.1002	Liquid	2
+673.15	19613.000	0.1074	Liquid	2
+673.15	29420.000	0.1132	Liquid	2
+673.15	39227.000	0.1182	Liquid	2
+693.15	9806.601	0.0995	Liquid	2
+693.15	19613.000	0.1069	Liquid	2
+693.15	29420.000	0.1127	Liquid	2
+693.15	39227.000	0.1176	Liquid	2
+Number	Source
+1	Mukhamedzyanov G.Kh.; Usmanov A.G.; Tarzimanov A.A.: Experimentelle Bestimunng der Wärmeleitfähigkeit von flüssigen Alkanen. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1963) 75-79
+2	Mustafaev R.A.: Thermal Conductivity of Higher Saturated n-Hydrocarbons over Wide Ranges of Temperature and Pressure. Inzh.Fiz.Zh. 24 (1973) 663-668
+$$$Vapor Pressure
+T [K]	P [kPa]	State	Reference
+301.25	0.000308	Vapor-Liquid	6
+308.20	0.000615	Vapor-Liquid	6
+315.17	0.00124879996292	Vapor-Liquid	6
+323.15	0.002532	Vapor-Liquid	6
+329.36	0.0042	Vapor-Liquid	6
+338.32	0.008814	Vapor-Liquid	6
+340.71	0.010766	Vapor-Liquid	6
+343.63	0.013172	Vapor-Liquid	6
+357.85	0.036	Vapor-Liquid	3
+378.45	0.13332	Vapor-Liquid	2
+379.15	0.13866	Vapor-Liquid	3
+397.55	0.432	Vapor-Liquid	3
+410.15	0.7066	Vapor-Liquid	5
+417.75	1.1826	Vapor-Liquid	3
+418.15	1.200	Vapor-Liquid	5
+423.15	1.3332	Vapor-Liquid	2
+424.15	1.4665	Vapor-Liquid	4
+429.15	1.840	Vapor-Liquid	5
+430.65	2.000	Vapor-Liquid	4
+434.65	2.600	Vapor-Liquid	5
+439.15	2.6665	Vapor-Liquid	2
+447.15	4.000	Vapor-Liquid	4
+449.15	4.000	Vapor-Liquid	2
+456.75	5.333	Vapor-Liquid	2
+460.65	6.666	Vapor-Liquid	4
+462.85	6.666	Vapor-Liquid	2
+463.20	6.945	Vapor-Liquid	1
+467.45	7.999	Vapor-Liquid	2
+468.45	8.330	Vapor-Liquid	1
+472.42	9.531	Vapor-Liquid	1
+475.75	10.666	Vapor-Liquid	2
+476.59	10.951	Vapor-Liquid	1
+481.65	13.332	Vapor-Liquid	4
+482.11	13.098	Vapor-Liquid	1
+482.95	13.332	Vapor-Liquid	2
+488.15	15.824	Vapor-Liquid	1
+494.93	19.448	Vapor-Liquid	1
+495.45	19.998	Vapor-Liquid	2
+500.49	22.886	Vapor-Liquid	1
+505.35	26.664	Vapor-Liquid	2
+508.30	28.558	Vapor-Liquid	1
+515.58	34.817	Vapor-Liquid	1
+519.95	39.997	Vapor-Liquid	2
+523.76	43.171	Vapor-Liquid	1
+531.15	53.329	Vapor-Liquid	2
+532.49	53.777	Vapor-Liquid	1
+540.15	66.661	Vapor-Liquid	2
+541.69	67.076	Vapor-Liquid	1
+547.65	79.993	Vapor-Liquid	2
+551.48	84.065	Vapor-Liquid	1
+555.35	93.326	Vapor-Liquid	2
+558.49	98.168	Vapor-Liquid	1
+559.15	101.325	Vapor-Liquid	2
+559.85	101.125	Vapor-Liquid	1
+560.65	101.325	Vapor-Liquid	4
+Number	Source
+1	Camin D.L.; Forziati A.F.; Rossini F.D.: Physical Properties of n-Hexadecane, n-Decylcyclopentane, n-Decylcyclohexane, 1-Hexadecene and n-Decylbenzene.. J.Phys.Chem. 58 (1954) 440-442
+2	Myers H.S.; Fenske M.R.: Measurement and Correlation of Vapor Pressure Data for High Boiling Hydrocarbons. Ind.Eng.Chem. 47 (1955) 1652-1658
+3	Grenier-Loustalot M.F.; Potin-Gautier M.; Grenier P.: Applications analytiques de la mesure des tensions de vapeur par saturation d'un gaz inerte cas des alcanes normaux et des polyethyleneglycols. Anal.Lett. 14 (1981) 1335-1349
+4	Krafft F.: Über neunzehn höhere Normalparaffine CnH2n+2 und ein einfaches Volumengesetz für den tropfbar flüssigen Zustand. I.. Ber.Dtsch.Chem.Ges. 15 (1882) 1687-1711
+5	Francis F.; Wood N.E.: CLXXXIV. - The boiling points of some higher aliphatic n-hydrocarbons. J.Chem.Soc.London 129 (1926) 1420-1423
+6	Yi S.; Ma P.; Ruan Y.: Determination of very low vapor pressures of seven organic compounds. Huagong-Xuebao / CIESC J. 45 (1994) 102-105

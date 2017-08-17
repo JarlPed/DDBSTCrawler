@@ -1,8 +1,8 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	CH4O	32.042	67-56-1	Methanol	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	99.276	n.a.	n.a.	n.a.	Distillation	Author	1	
-none	zeotropic	
-1	Gmehling J.; Boelts R.: Azeotropic Data for Binary and Ternary Systems at Moderate Pressures. J.Chem.Eng.Data 41 (1996) 202-209	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H6O	46.069	64-17-5	Ethanol
+3	CH4O	32.042	67-56-1	Methanol
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	99.276	n.a.	n.a.	n.a.	Distillation	Author	1
+none	zeotropic
+1	Gmehling J.; Boelts R.: Azeotropic Data for Binary and Ternary Systems at Moderate Pressures. J.Chem.Eng.Data 41 (1996) 202-209

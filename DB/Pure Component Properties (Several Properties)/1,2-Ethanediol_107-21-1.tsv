@@ -1,701 +1,701 @@
-Formula	Molar Mass	CAS Registry Number	Name	
-C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-$$$Compressibility (isothermal)	
-T [K]	Compressibility (isothermal) [/kPa]	State	Reference	
-293.20	3.68600012735E-007	Liquid	1	
-303.20	3.79900001235E-007	Liquid	1	
-313.20	3.92900005863E-007	Liquid	1	
-323.20	4.05900010492E-007	Liquid	1	
-Number	Source	
-1	Technische Hochschule Carl Schorlemmer Leuna-Merseburg, Merseburg (GDR): Unpublished data. Unpublished Data  (1989) 1-360	
-$$$Critical Data	
-T [K]	P [kPa]	State	Reference	
-718.00		Critical Point	2	
-719.00	8200.000	Critical Point	3	
-720.00	8200.000	Critical Point	1	
-Number	Source	
-1	Nikitin E.D.; Pavlov P.A.; Skripov P.V.: Measurement of the critical properties of thermally unstable substances and mixtures by the pulse-heating method.. J.Chem.Thermodyn. 25 (1993) 869-880	
-2	Teja A.S.; Anselme M.J.: I. 1985 Results.. AIChE Symp.Ser. 86 (1990) 115-121	
-3	VonNiedernhausern D.M.; Wilson L.C.; Giles N.F.; Wilson G.M.: Critical-Point Measurements for Nine Compounds by a Flow Method. J.Chem.Eng.Data 45 (2000) 154-156	
-$$$Density	
-T [K]	P [kPa]	Density [kg/m3]	State	Reference	
-258.15		1137.000	Liquid	1	
-268.15		1130.000	Liquid	1	
-273.00	98.000	1131.200	Liquid	4	
-273.00	49000.000	1143.100	Liquid	4	
-273.00	98000.000	1162.200	Liquid	4	
-274.15		1112.500	Liquid	1	
-283.00	98.000	1123.500	Liquid	4	
-283.00	49000.000	1136.500	Liquid	4	
-283.00	98000.000	1155.900	Liquid	4	
-283.15		1120.000	Liquid	1	
-293.00	98.000	1115.700	Liquid	4	
-293.00	49000.000	1129.900	Liquid	4	
-293.00	98000.000	1149.600	Liquid	4	
-293.15		1113.000	Liquid	1	
-298.00		1109.700	Liquid	3	
-303.00	98.000	1107.900	Liquid	4	
-303.00	49000.000	1123.400	Liquid	4	
-303.00	98000.000	1143.300	Liquid	4	
-303.15		1106.600	Liquid	2	
-308.15		1103.100	Liquid	2	
-313.00		1099.200	Liquid	3	
-313.00	98.000	1100.100	Liquid	4	
-313.00	49000.000	1116.800	Liquid	4	
-313.00	98000.000	1137.000	Liquid	4	
-323.00	98.000	1092.300	Liquid	4	
-323.00	49000.000	1110.200	Liquid	4	
-323.00	98000.000	1130.700	Liquid	4	
-333.00		1084.300	Liquid	3	
-333.00	98.000	1084.500	Liquid	4	
-333.00	49000.000	1103.600	Liquid	4	
-333.00	98000.000	1124.400	Liquid	4	
-343.00	98.000	1076.700	Liquid	4	
-343.00	49000.000	1097.000	Liquid	4	
-343.00	98000.000	1118.100	Liquid	4	
-353.00		1069.300	Liquid	3	
-353.00	98.000	1069.000	Liquid	4	
-353.00	49000.000	1090.500	Liquid	4	
-353.00	98000.000	1111.800	Liquid	4	
-363.00	98.000	1061.200	Liquid	4	
-363.00	49000.000	1083.900	Liquid	4	
-363.00	98000.000	1105.500	Liquid	4	
-373.00	98.000	1053.400	Liquid	4	
-373.00	49000.000	1077.300	Liquid	4	
-373.00	98000.000	1099.200	Liquid	4	
-383.00	98.000	1045.600	Liquid	4	
-383.00	49000.000	1070.700	Liquid	4	
-383.00	98000.000	1092.900	Liquid	4	
-393.00	98.000	1037.800	Liquid	4	
-393.00	49000.000	1064.100	Liquid	4	
-393.00	98000.000	1086.600	Liquid	4	
-403.00	98.000	1030.000	Liquid	4	
-403.00	49000.000	1057.600	Liquid	4	
-403.00	98000.000	1080.400	Liquid	4	
-413.00	98.000	1022.300	Liquid	4	
-413.00	49000.000	1051.000	Liquid	4	
-413.00	98000.000	1074.100	Liquid	4	
-423.00	98.000	1014.500	Liquid	4	
-423.00	49000.000	1044.400	Liquid	4	
-423.00	98000.000	1067.800	Liquid	4	
-433.00	98.000	1006.700	Liquid	4	
-433.00	49000.000	1037.800	Liquid	4	
-433.00	98000.000	1061.500	Liquid	4	
-443.00	98.000	998.900	Liquid	4	
-443.00	49000.000	1031.200	Liquid	4	
-443.00	98000.000	1055.200	Liquid	4	
-453.00	98.000	991.100	Liquid	4	
-453.00	49000.000	1024.700	Liquid	4	
-453.00	98000.000	1048.900	Liquid	4	
-463.00	98.000	983.300	Liquid	4	
-463.00	49000.000	1018.100	Liquid	4	
-463.00	98000.000	1042.600	Liquid	4	
-473.00	98.000	975.500	Liquid	4	
-473.00	49000.000	1011.500	Liquid	4	
-473.00	98000.000	1036.300	Liquid	4	
-Number	Source	
-1	Gadaibaev U.Sh.; Shakhparonov M.I.: Akustische Relaxation in Ethylenglykol-n-Hexanol-Lösungen. Vestn.Mosk.Univ.Ser.2 Khim. 14 (1973) 296-298	
-2	Pal A.; Singh W.: Speeds of Sound and Viscosities in Aqueous Poly(ethylene glycol) Solutions at 303.15 and 308.15 K. J.Chem.Eng.Data 42 (1997) 234-237	
-3	Bogacheva I.S.; Zemdikhanov K.B.; Usmanov A.G.: Molekulardiffusionskoeffizienten und andere Eigenschaften binärer Lösungen von einigen flüssigen organischen Verbindungen. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 25 (1982) 182-186	
-4	Sagdeev D.I.; Mukhamedzyanov G.Kh.: Ein Gerät zur Bestimmung  des Dichtes und der Viskosität von flüssigen organischen Verbindungen bei Drücken bis 250 MPa und Temperaturen bis 473 K. Oniitekhim  (1982) 1-30	
-$$$Dielectric Constant	
-T [K]	Dielectric Constant [-]	State	Reference	
-278.15	41.67000	Liquid	2	
-283.15	40.88000	Liquid	2	
-288.15	40.09000	Liquid	2	
-293.15	38.69000	Liquid	6	
-293.15	39.30000	Liquid	2	
-298.15	37.67000	Liquid	6	
-298.15	37.70000	Liquid	3	
-298.15	38.51000	Liquid	2	
-298.15	40.25200	Liquid	4	
-298.15	40.81500	Liquid	5	
-303.15	37.17000	Liquid	6	
-303.15	37.60000	Liquid	1	
-303.15	37.71000	Liquid	2	
-308.15	35.74000	Liquid	6	
-308.15	36.92000	Liquid	2	
-308.15	38.22900	Liquid	4	
-313.15	34.85000	Liquid	6	
-313.15	36.13000	Liquid	2	
-318.15	34.12000	Liquid	6	
-318.15	35.34000	Liquid	2	
-323.15	33.07000	Liquid	6	
-323.15	34.55000	Liquid	2	
-328.15	33.76000	Liquid	2	
-328.15	34.46800	Liquid	5	
-333.15	32.96000	Liquid	2	
-Number	Source	
-1	Awwad A.M.; Al-Dujaili A.; Salman H.E.: Relative Permittivities, Densities, and Refractive Indices of the Binary Mixtures of Sulfolane with Ethylene Glycol, Diethylene Glycol, and Poly(ethylene glycol) at 303.15 K. J.Chem.Eng.Data 47 (2002) 421-424	
-2	Khimenko M.T.; Litinskaya V.V.; Tkachenko E.P.: Physico-chemical study of acetone-ethylene glycol and 2-propanol-ethylene glycol systems at  different temperatures.. Oniitekhim  (1982) 1-15	
-3	Shkodin A.M.; Podolyanko V.A.; Gritsan L.D.: Physico-chemical properties of binary solvent ethylene glycol-tetrahydrofuran. Vestn.Khar'k.Univ.  (1974) 32-35	
-4	Sastry N.V.; Patel M.C.: Densities, Excess Molar Volumes, Viscosities, Speeds of Sound, Excess Isentropic Compressibilities, and Relative Permittivities for Alkyl (Methyl, Ethyl, Butyl, and Isamyl) Acetates + Glycols at Different Temperatures. J.Chem.Eng.Data 48 (2003) 1019-1027	
-5	George J.; Sastry N.V.: Partial Excess Molar Volumes, Partial Excess Isentropic Compressilbilities and Relative Permittivities of Water + Ethane-1,2diol Derivative and Water + 1,2-Dimethoxyethane at Different Temperatures. Fluid Phase Equilib. 216 (2004) 307-321	
-6	Khimenko M.T.; Grishchenko N.N.; Tsybizova L.P.; Bezpalyi B.N.: Untersuchung der Polarisirbarkeit von Ethylenglykol. Zh.Fiz.Khim. 49 (1975) 250-251	
-$$$Dynamic Viscosity	
-T [K]	Dynamic Viscosity [mPas]	State	Reference	
-258.15	164.0000	Liquid	1	
-262.15	120.0000	Liquid	2	
-268.15	87.5000	Liquid	1	
-274.15	49.0000	Liquid	1	
-278.15	41.9000	Liquid	4	
-283.15	29.0000	Liquid	1	
-283.15	33.0000	Liquid	2	
-293.15	18.8000	Liquid	1	
-295.99	18.5000	Liquid	3	
-298.00	16.8000	Liquid	5	
-298.15	16.9000	Liquid	4	
-303.15	14.0000	Liquid	2	
-313.00	9.4000	Liquid	5	
-313.00	9.4300	Liquid	5	
-318.15	7.8500	Liquid	6	
-318.15	7.9100	Liquid	4	
-333.00	5.1600	Liquid	5	
-333.15	4.8000	Liquid	2	
-338.15	4.3800	Liquid	4	
-353.00	3.1500	Liquid	5	
-Number	Source	
-1	Gadaibaev U.Sh.; Shakhparonov M.I.: Akustische Relaxation in Ethylenglykol-n-Hexanol-Lösungen. Vestn.Mosk.Univ.Ser.2 Khim. 14 (1973) 296-298	
-2	Verblyan L.B.; Sperkach V.S.; Shakhparonov M.I.: Akustische Relaxation in tert-Butanol und binärer tert-Butanol-Ethylenglykol-Lösungen. Akust.Zh. 19 (1973) 448-450	
-3	Bultmann T.; Ernsting N.P.: Competition between Geminate Recombination and Solvation of Polar Radicals Following Ultrafast Photodissociation of bis(p-Aminophenyl)Disulfide. J.Phys.Chem. 100 (1996) 19417-19424	
-4	Shcherban A.I.; Perevertkina I.V.; Kharitonov G.V.: Dichte und Viskosität von binären  Ethylenglykol - N,N-Dimethylformamid-  und Etylenglykol - gamma-Butyrolacton-Mischungen. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 30 (1987) 35-38	
-5	Bogacheva I.S.; Zemdikhanov K.B.; Usmanov A.G.: Molekulardiffusionskoeffizienten und andere Eigenschaften binärer Lösungen von einigen flüssigen organischen Verbindungen. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 25 (1982) 182-186	
-6	Shcherban' A.I.; Perevertkina I.V.; Kharitonov G.V.: Dichte und Viskosität der binärer Systeme N,N-Dimethylacetamid mit Ethylenglykol und gamma-Butyrolacton. Oniitekhim  (1985) 1-9	
-$$$Enthalpy (H-H0)/T	
-T [K]	Enthalpy (H-H0)/T [J/(K*mol)]	State	Reference	
-298.16	64.56	Vapor	1	
-300.00	64.69	Vapor	1	
-400.00	74.98	Vapor	1	
-500.00	88.66	Vapor	1	
-600.00	92.17	Vapor	1	
-700.00	99.08	Vapor	1	
-800.00	105.60	Vapor	1	
-900.00	111.38	Vapor	1	
-1000.00	116.65	Vapor	1	
-Number	Source	
-1	Dyatkina M.E.: Thermodynamic functions of normal alcohols (propanol, butanol and ethylene glycol).(Russ). Zh.Fiz.Khim. 28 (1954) 377-388	
-$$$Entropy	
-T [K]	Molar Entropy [J/(mol*K)]	State	Reference	
-298.00	284.51	Vapor	3	
-298.00	303.80	Vapor	2	
-298.00	323.55	Vapor	1	
-Number	Source	
-1	Dyatkina M.E.: Thermodynamic functions of normal alcohols (propanol, butanol and ethylene glycol).(Russ). Zh.Fiz.Khim. 28 (1954) 377-388	
-2	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
-3	Buckley P.; Giguere P.A.: Infrared studies on rotational isomerism. I. Ethylene glycol.. Can.J.Chem. 45 (1967) 397-407	
-$$$Flash Point	
-T [K]	P [kPa]	State	Reference	
-		Liquid	1	
-385.35		Liquid	2	
-Number	Source	
-1	Martinez P.J.; Rus E.; Compana J.M.: Flash point determination of binary mixtures of alcohols, ketones and water. 7th World Congress of Chemical Engineering  (2005) 1-8	
-2	Zhang K.; Meng X.-Y.; Guo J.-W.; Wu J.-T.: Development of Flash Point Tester Based on Equilibrium Method and Flash Points of Dimethyl Sulfoxide Aqueous Solutions. Gongcheng-rewuli-xuebao 34 (2013) 2001-2005	
-$$$G-function (G-G0)/T	
-T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference	
-100.00	-199.09	Vapor	2	
-150.00	-215.09	Vapor	2	
-200.00	-227.79	Vapor	2	
-273.15	-243.39	Vapor	2	
-298.15	-248.09	Vapor	2	
-298.16	-258.99	Vapor	1	
-300.00	-259.53	Vapor	1	
-300.00	-248.49	Vapor	2	
-400.00	-279.49	Vapor	1	
-400.00	-265.79	Vapor	2	
-500.00	-297.11	Vapor	1	
-500.00	-281.19	Vapor	2	
-600.00	-313.72	Vapor	1	
-600.00	-295.49	Vapor	2	
-700.00	-328.78	Vapor	1	
-700.00	-308.99	Vapor	2	
-800.00	-341.75	Vapor	1	
-800.00	-321.59	Vapor	2	
-900.00	-354.59	Vapor	1	
-900.00	-333.59	Vapor	2	
-1000.00	-366.23	Vapor	1	
-1000.00	-345.09	Vapor	2	
-Number	Source	
-1	Dyatkina M.E.: Thermodynamic functions of normal alcohols (propanol, butanol and ethylene glycol).(Russ). Zh.Fiz.Khim. 28 (1954) 377-388	
-2	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
-$$$Heat of Fusion	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-		9500.00	Solid-Liquid	1	
-		11627.30	Solid-Liquid	4	
-	101.330	9957.92	Solid-Liquid	2	
-256.60	101.325	9500.00	Solid-Liquid-Vapor	1	
-260.80	101.325	11630.00	Solid-Liquid	3	
-261.57		11097.80	Solid-Liquid	5	
-Number	Source	
-1	Knauth P.; Sabbah R.: Energetics of infra- and intermolecular bonds in omega-alkanediols. III. Thermochemical study of 1,6-hexanediol, 1,7-heptanediol, 1,8-octanediol, 1,9-nonanediol, and 1,10-decanediol at 298.15 K.. Can.J.Chem. 68 (1990) 731-734	
-2	Nikolaev P.N.; Rabinovich I.B.: Heat capacity of ethylene glycol  and deuterioglycol in the range 80-300 K. Zh.Fiz.Khim. 41 (1967) 2191-2194	
-3	Parks G.S.; Kelley K.K.: Thermal Data on Organic Compounds. II. The Heat Capacities of Five Organic Compounds. The Entropies and Free Energies of Some Homologous Series of Aliphatic Compounds. J.Am.Chem.Soc. 47 (1925) 2089-2097	
-4	Grigorenko V.I.; Arbuzova G.G.; Pigulevskaya V.G.: Determination of Heat of Fusion of Ethylene- and Diethylene Glycol Ethers. Viniti  (1981) 1-6	
-5	Rodnikova M.N.; Solonina I.A.; Kiselev M.R.; Makaev S.V.: Phase Diagram of the Ethylene Glycol - Dioxane System in the Temperature Range from -90 to 25° C. Russ.J.Phys.Chem. A 86 (2012) 1745-1746	
-$$$Heat of Vaporization	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-298.15		65400.00	Vapor-Liquid	1	
-303.20	0.01799	65160.00	Vapor-Liquid	1	
-306.20	0.02275	65010.00	Vapor-Liquid	1	
-308.20	0.02639	64910.00	Vapor-Liquid	1	
-310.20	0.03107	64810.00	Vapor-Liquid	1	
-313.20	0.04027	64660.00	Vapor-Liquid	1	
-316.20	0.0495	64510.00	Vapor-Liquid	1	
-318.20	0.05997	64410.00	Vapor-Liquid	1	
-320.20	0.06797	64320.00	Vapor-Liquid	1	
-323.20	0.08464	64170.00	Vapor-Liquid	1	
-326.20	0.1053	64020.00	Vapor-Liquid	1	
-328.10	0.1244	63920.00	Vapor-Liquid	1	
-331.20	0.1523	63770.00	Vapor-Liquid	1	
-333.20	0.1792	63670.00	Vapor-Liquid	1	
-336.20	0.2164	63520.00	Vapor-Liquid	1	
-470.52	101.325	50508.00	Vapor-Liquid	2	
-Number	Source	
-1	Vasiltsova T.V.; Verevkin S.P.; Bich E.; Heintz A.; Bogel-Lukasik R.; Domanska U.: Activity Coefficients of Ethers and Alcohols in 1-Methyl-3-Ethyl-Imidazolium Bis(Trifluoromethyl-sulfonyl) Imide using the Transpiration Method. J.Chem.Eng.Data 50 (2005) 142-148	
-2	Louguinine W.: Deuxième partie: Détermination des chaleurs latentes de vaporisation.. Ann.Chim.Phys.(Paris) 13 (1898) 289-377	
-$$$Ideal Gas Heat Capacity	
-T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference	
-100.00	46.10	Ideal Gas	1	
-150.00	56.30	Ideal Gas	1	
-200.00	65.00	Ideal Gas	1	
-273.15	77.90	Ideal Gas	1	
-298.15	82.70	Ideal Gas	1	
-300.00	83.00	Ideal Gas	1	
-400.00	102.20	Ideal Gas	1	
-500.00	119.40	Ideal Gas	1	
-600.00	133.90	Ideal Gas	1	
-700.00	145.80	Ideal Gas	1	
-800.00	155.90	Ideal Gas	1	
-900.00	164.50	Ideal Gas	1	
-1000.00	171.90	Ideal Gas	1	
-Number	Source	
-1	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
-$$$Kinematic Viscosity	
-T [K]	Kinematic Viscosity [m2/s]	State	Reference	
-263.15	9.89100008155E-05	Liquid	4	
-263.15	9.89399995888E-05	Liquid	3	
-268.15	7.10800013621E-05	Liquid	4	
-268.15	7.10899985279E-05	Liquid	3	
-273.15	5.24200004293E-05	Liquid	3	
-278.15	3.95399983972E-05	Liquid	3	
-281.25	3.34100004693E-05	Liquid	6	
-283.15	3.04400000459E-05	Liquid	3	
-288.15	2.38899992837E-05	Liquid	3	
-290.25	2.15799991565E-05	Liquid	6	
-293.15	1.90400005522E-05	Liquid	3	
-293.90	1.80400002137E-05	Liquid	2	
-298.15	1.54400004249E-05	Liquid	3	
-298.25	1.51300000653E-05	Liquid	6	
-303.00	1.227499979E-05	Liquid	1	
-303.15	1.24369998957E-05	Liquid	5	
-303.15	1.26599998111E-05	Liquid	3	
-303.15	1.26699997054E-05	Liquid	4	
-307.95	1.04700002339E-05	Liquid	6	
-308.15	1.04900000224E-05	Liquid	3	
-313.00	8.47499995871E-06	Liquid	1	
-313.15	8.80599964148E-06	Liquid	3	
-313.30	8.53499932418E-06	Liquid	2	
-318.15	7.48100001147E-06	Liquid	4	
-318.15	7.48200000089E-06	Liquid	3	
-323.00	6.54999985272E-06	Liquid	1	
-323.15	6.43399971523E-06	Liquid	3	
-328.15	5.53199970454E-06	Liquid	3	
-329.35	5.25999985257E-06	Liquid	6	
-333.00	4.8249999054E-06	Liquid	1	
-333.15	4.77699995827E-06	Liquid	3	
-333.30	4.67299969387E-06	Liquid	2	
-336.95	4.29000010627E-06	Liquid	6	
-338.15	4.19199977841E-06	Liquid	3	
-343.00	3.62499986295E-06	Liquid	1	
-343.15	3.6869998894E-06	Liquid	3	
-343.15	3.68799987882E-06	Liquid	4	
-347.35	3.33999992108E-06	Liquid	6	
-348.15	3.27799989464E-06	Liquid	3	
-348.15	3.27899988406E-06	Liquid	4	
-353.00	2.90000002678E-06	Liquid	1	
-353.15	2.90899993161E-06	Liquid	3	
-353.15	2.90999992103E-06	Liquid	4	
-353.30	2.87699981527E-06	Liquid	2	
-356.45	2.66099982582E-06	Liquid	6	
-363.00	2.34999993154E-06	Liquid	1	
-373.00	1.9379999685E-06	Liquid	1	
-373.30	1.94099993678E-06	Liquid	2	
-374.95	1.92299989976E-06	Liquid	6	
-383.00	1.63799995789E-06	Liquid	1	
-383.25	1.64499999755E-06	Liquid	6	
-392.75	1.42599992614E-06	Liquid	6	
-393.00	1.41299994993E-06	Liquid	1	
-393.40	1.37899996844E-06	Liquid	2	
-403.00	1.24999996842E-06	Liquid	1	
-404.25	1.20599997899E-06	Liquid	6	
-413.00	1.09999996312E-06	Liquid	1	
-413.50	1.0389999261E-06	Liquid	2	
-413.85	1.05300000541E-06	Liquid	6	
-422.75	9.40000006722E-07	Liquid	6	
-423.00	9.749999208E-07	Liquid	1	
-423.70	9.24999994822E-07	Liquid	2	
-433.00	8.74999955158E-07	Liquid	1	
-433.05	8.30999965729E-07	Liquid	6	
-440.75	7.63000002735E-07	Liquid	6	
-443.00	7.74999989517E-07	Liquid	1	
-453.00	6.99999986864E-07	Liquid	1	
-463.00	6.50000004043E-07	Liquid	1	
-Number	Source	
-1	Sadykov A.Kh.; Sagdeev D.I.; Brykov V.P.; Mukhamedzyanov G.Kh.: Experimentelle Untersuchung von Dichte und Viskosität flüssiger Polyoxyverbindungen. Tr.Kazan.Khim.Tekhnol.Inst.  (1974) 98-101	
-2	Lee R.J.; Teja A.S.: Viscosities of Poly(Ethylene Glycols). J.Chem.Eng.Data 35 (1990) 385-387	
-3	Corradini F.; Marcheselli L.; Tassi L.; Tosi G.: Kinematic Viscosities of 1,2-Ethanediol/1,4-Dioxane Binary Mixtures from -10°C to + 80°C. Bull.Chem.Soc.Japan 66 (1993) 1886-1891	
-4	Marchetti A.; Preti C.; Tagliazucchi M.; Tassi L.; Tosi G.: Density, Viscosity, and Excess Molar Volume at Various Temperatures. J.Chem.Eng.Data 36 (1991) 360-365	
-5	Dizechi M.; Marschall E.: Viscosity of Some Binary and Ternary Liquid Mixtures. J.Chem.Eng.Data 27 (1982) 358-363	
-6	Thomas L.H.; Meatyard R.; Smith H.; Davis G.H.: Viscosity Behavior of Associated Liquids at Lower Temperatures and Vapor Pressures. J.Chem.Eng.Data 24 (1979) 161-164	
-$$$Melting Point	
-T [K]	P [kPa]	State	Reference	
-259.95		Solid-Liquid	4	
-260.25		Solid-Liquid	5	
-260.35		Solid-Liquid	4	
-260.46	101.325	Solid-Liquid	1	
-260.80	101.325	Solid-Liquid	3	
-261.65	101.325	Solid-Liquid	2	
-Number	Source	
-1	Ott J.B.; Goates J.R.; Lamb J.D.: Solid-Liquid Phase Equilibria in Water + Ethylene Glycol. J.Chem.Thermodyn. 4 (1972) 123-126	
-2	de Forcrand R.: Chaleur Specifique et Chaleur de Fusion du Glycol Ethylenique. C.R.Hebd.Seanc.Acad.Sci.Paris 132 (1901) 569-571	
-3	Parks G.S.; Kelley K.K.: Thermal Data on Organic Compounds. II. The Heat Capacities of Five Organic Compounds. The Entropies and Free Energies of Some Homologous Series of Aliphatic Compounds. J.Am.Chem.Soc. 47 (1925) 2089-2097	
-4	Cordray D.R.; Kaplan L.R.; Woyciesjes P.M.; Kozak T.F.: Solid-liquid phase diagram for ethylene glycol + water. Fluid Phase Equilib. 117 (1996) 146-152	
-5	Dykyj J.; Kuska V.; Seprakova M.: Physikalische Eigenschaften des Äthylenglykols und seiner Derivaten (I) Erstarrungspunkte von Lösungen von Äthylenglykolen. Chem.Zvesti 10 (1956) 193-203	
-$$$Molar Heat Capacity (cP)	
-T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
-273.15		141.02	Liquid	4	
-283.15	101.330	144.35	Liquid	3	
-288.15	101.330	146.02	Liquid	3	
-293.15		147.77	Liquid	4	
-293.15	101.330	147.28	Liquid	3	
-298.15		147.49	Liquid	2	
-298.15		149.60	Liquid	5	
-298.15	101.330	148.53	Liquid	3	
-298.71		149.15	Liquid	1	
-301.15		150.63	Liquid	6	
-303.15	101.330	150.21	Liquid	3	
-308.15	101.330	151.88	Liquid	3	
-313.15		152.44	Liquid	6	
-313.15		154.26	Liquid	4	
-313.15	101.330	153.55	Liquid	3	
-318.15	101.330	155.23	Liquid	3	
-323.15	101.330	157.32	Liquid	3	
-328.15	101.330	159.41	Liquid	3	
-328.88		156.85	Liquid	1	
-333.15		160.50	Liquid	4	
-338.07		158.22	Liquid	1	
-353.15		166.73	Liquid	4	
-373.15		172.70	Liquid	4	
-385.67		174.17	Liquid	1	
-393.15		178.67	Liquid	4	
-396.41		177.83	Liquid	1	
-413.15		184.39	Liquid	4	
-433.15		190.10	Liquid	4	
-433.27		190.68	Liquid	1	
-453.15		195.56	Liquid	4	
-463.15		198.15	Liquid	4	
-473.15		201.01	Liquid	4	
-483.15		203.61	Liquid	4	
-488.15		204.90	Liquid	4	
-493.15		205.68	Liquid	4	
-Number	Source	
-1	Mukhamedzyanov G.Kh.; Zaripov Z.I.: Wärmekapazität von Polyetylenglykolen und ihren Mischungen. Oniitekhim  (1988) 1-8	
-2	Douheret G.; Pal A.; Hoiland H.; Anowi O.; Davis M.I.: I. Molar volumes, isobaric molar heat capacities, ultrasonic speeds, and isentropic functions. J.Chem.Thermodyn. 23 (1991) 569-580	
-3	Rabinovich I.B.; Nikolaev P.N.: The Isotope Effect in the Heat Capacity of certain Deuterated Compounds. Dokl.Akad.Nauk SSSR 142 (1962) 1335-1338	
-4	Stephens M.A.; Tamplin W.S.: Saturated Liquid Specific Heats of Ethylene Glycol Homologues. J.Chem.Eng.Data 24 (1979) 81-82	
-5	Manohara Murthy N.; Subrahmanyam S.V.: Behaviour of Excess Heat Capacity of Aqueous Non-Electrolytes. Indian J.Pure Appl.Phys. 15 (1977) 485-489	
-6	Paz Andrade M.I.; Recacho E.; Paz Fernandez J.M.: Determinacion de calores especificos de liquidos. Acta Cient.Compostelana 5 (1968) 49-55	
-$$$Molar Heat Capacity (cV)	
-T [K]	Molar Heat Capacity (Cv) [J/(mol*K)]	State	Reference	
-298.15	132.00	Liquid	1	
-Number	Source	
-1	Manohara Murthy N.; Subrahmanyam S.V.: Behaviour of Excess Heat Capacity of Aqueous Non-Electrolytes. Indian J.Pure Appl.Phys. 15 (1977) 485-489	
-$$$Speed of Sound	
-T [K]	Ultrasonic Velocity [m/s]	State	Reference	
-293.15	1616.000	Liquid	4	
-293.15	1665.000	Liquid	2	
-298.15	1658.000	Liquid	3	
-298.15	1659.000	Liquid	6	
-303.15	1639.920	Liquid	5	
-303.15	1641.000	Liquid	2	
-303.15	1643.500	Liquid	1	
-313.15	1616.000	Liquid	2	
-323.15	1591.000	Liquid	2	
-333.15	1566.000	Liquid	2	
-343.15	1541.000	Liquid	2	
-353.15	1516.000	Liquid	2	
-363.15	1490.000	Liquid	2	
-373.15	1465.000	Liquid	2	
-383.15	1437.000	Liquid	2	
-393.15	1410.000	Liquid	2	
-403.15	1383.000	Liquid	2	
-413.15	1354.000	Liquid	2	
-423.15	1325.000	Liquid	2	
-433.15	1293.000	Liquid	2	
-443.15	1264.000	Liquid	2	
-453.15	1233.000	Liquid	2	
-463.15	1202.000	Liquid	2	
-Number	Source	
-1	Weissler A.: II. The Alcohols. J.Am.Chem.Soc. 70 (1948) 1634-1640	
-2	Zotov V.V.; Shoitov Yu.S.: Sound Velocity in Glycerol, Ethylene Glycol, and Diethylene Glycol. Uc.Zap.-Kursk.Gos.Ped.Inst. 71 (1970) 92-97	
-3	Willard G W.: Temperature Coefficients of Ultrasonic Velocity in Solutions. J.Acoust.Soc.Am. 19 (1947) 235-241	
-4	Schaaffs W.: I.Teil: Die Schallgeschwindigkeit in organischen Flüssigkeiten. Z.Phys.Chem.(Leipzig) 194 (1944) 28-38	
-5	Mehta S.K.; Ram G.; Sharma A.K.: Effect of Oxyethylene Groups on the Behaviour of Thermodynamic Properties of Pyrrolidin-2-One and Poly(Ethylene Glycols). Fluid Phase Equilib. 220 (2004) 153-160	
-6	Nayak J.N.; Aralguppi M.I.; Aminabhavi T.M.: Density, Viscosity, Refractive Index, and Speed of Sound in the Binary Mixtures of 1,4-Dioxane + Ethanediol, + Hexane, + Tributylamine, or + Triethylamine at (298.15, 303.15, and 308.15) K. J.Chem.Eng.Data 48 (2003) 1152-1156	
-$$$Std. Heat of Combustion	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-293.15	-1185330.00	Liquid	2	
-298.00	-1189720.00	Liquid	3	
-298.15	-1178630.00	Solid	1	
-Number	Source	
-1	Stohmann F.; Langbein H.: Ueber den Wärmewerth von Kohlehydraten, Mehrsäurigen Alkoholen und Phenolen. J.Prakt.Chem. 45 (1892) 305-356	
-2	Louguinine W.: Deuxième partie: Détermination des chaleurs latentes de vaporisation.. Ann.Chim.Phys.(Paris) 13 (1898) 289-377	
-3	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
-$$$Std. Heat of Formation	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.00	-460000.00	Liquid	2	
-298.00	-454926.00	Liquid	1	
-298.00	-454801.00	Liquid	6	
-298.00	-452290.00	Liquid	4	
-298.00	-387857.00	Vapor	3	
-298.15	-474047.00	Solid	5	
-Number	Source	
-1	Parks G.S.; West T.J.; Naylor B.F.; Fujii P.S.; McClaine L.A.: Thermal data on organic compounds. XXIII. Modern combustion data for fourteeen hydrocarbons and five polyhydroxy alcohols.. J.Am.Chem.Soc. 68 (1946) 2524-2527	
-2	Knauth P.; Sabbah R.: Combustion calorimetry on milligram samples of liquid substances with a CRMT rocking bomb calorimeter. Application to the study of omega-alkanediols at 298.15 K.. J.Chem.Thermodyn. 21 (1989) 203-210	
-3	Gardner P.J.; Hussain K.S.: The standard enthalpies of formation of some aliphatic diols.. J.Chem.Thermodyn. 4 (1972) 819-827	
-4	Moureu H.; Dode M.: Heats of formation of ethylene oxide, of ethanediol and several homologous.. Bull.Soc.Chim.France Mem. 4 (1937) 637-647	
-5	Stohmann F.; Langbein H.: Ueber den Wärmewerth von Kohlehydraten, Mehrsäurigen Alkoholen und Phenolen. J.Prakt.Chem. 45 (1892) 305-356	
-6	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
-$$$Surface Tension	
-T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference	
-263.15		50.8000	Liquid	5	
-273.15		50.0000	Liquid	5	
-283.15		48.9000	Liquid	5	
-293.15		47.0000	Liquid	2	
-293.15		48.2000	Liquid	5	
-293.15		48.4900	Liquid	4	
-295.15		46.1000	Liquid	6	
-298.15		47.7000	Liquid	5	
-298.15		48.2000	Liquid	1	
-300.95		48.0000	Liquid	1	
-303.15	101.325	46.2400	Liquid	3	
-305.05		47.8000	Liquid	1	
-308.35		47.5000	Liquid	1	
-312.95		47.1000	Liquid	1	
-317.75		46.4000	Liquid	1	
-323.45		46.3000	Liquid	1	
-331.55		45.4000	Liquid	1	
-338.15		44.8000	Liquid	1	
-348.55		44.2000	Liquid	1	
-353.15		43.1600	Liquid	4	
-356.55		43.3000	Liquid	1	
-362.75		42.9000	Liquid	1	
-369.15		42.3000	Liquid	1	
-376.95		41.4000	Liquid	1	
-383.35		41.0000	Liquid	1	
-388.95		40.4000	Liquid	1	
-398.15		39.5000	Liquid	1	
-407.05		38.8000	Liquid	1	
-411.15		38.5000	Liquid	1	
-414.65		38.0000	Liquid	1	
-420.05		37.2000	Liquid	1	
-424.55		36.9000	Liquid	1	
-432.55		35.7000	Liquid	1	
-439.35		35.1000	Liquid	1	
-443.95		34.2000	Liquid	1	
-450.35		33.7000	Liquid	1	
-454.65		33.1000	Liquid	1	
-460.35		32.5000	Liquid	1	
-464.05		32.0000	Liquid	1	
-465.45		32.0000	Liquid	1	
-468.85		31.8000	Liquid	1	
-470.15		31.5000	Liquid	1	
-471.15		31.4000	Liquid	1	
-Number	Source	
-1	Hoke B.C.Jr.; Chen J.C.: Binary Aqueous-Organic Surface Tension Temperature Dependence. J.Chem.Eng.Data 36 (1991) 322-326	
-2	Larachi F.; Laurent A.; Midoux N.; Wild G.: Experimental Study of a Trickle-Bed Reactor Operating at High Pressure: Two-Phase Pressure Drop and Liquid Saturation. Chem.Eng.Sci. 46 (1991) 1233-1246	
-3	Nakanishi K.; Matsumoto T.; Hayatsu M.: Surface Tension of Aqueous Solutions of some Glycols. J.Chem.Eng.Data 16 (1971) 44-45	
-4	Korösi G.; Kovats E.S.: Density and Surface Tension of 83 Organic Liquids. J.Chem.Eng.Data 26 (1981) 323-332	
-5	Horibe A.; Fukusako S.; Yamada M.: Surface Tension of Low-Temperature Aqueous Solutions. Int.J.Thermophys. 17 (1996) 483-493	
-6	Newman S.: The effect of composition on the critical surface tension of polyvinyl butyral.. J.Colloid Interface Sci. 25 (1967) 341-345	
-$$$Thermal Conductivity	
-T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
-264.21		0.2440	Liquid Phase of VLE	6	
-264.25		0.2450	Liquid	4	
-293.15		0.2530	Liquid	3	
-297.75		0.2484	Liquid	4	
-297.77		0.2476	Liquid Phase of VLE	6	
-298.00		0.2520	Liquid	1	
-298.00		0.2527	Liquid	1	
-303.15		0.2510	Liquid	5	
-303.15	100.000	0.2531	Liquid	2	
-313.00		0.2540	Liquid	1	
-313.00		0.2541	Liquid	1	
-313.00		0.2542	Liquid	1	
-313.15		0.2550	Liquid	3	
-323.00		0.2552	Liquid	1	
-333.00		0.2562	Liquid	1	
-333.15		0.2560	Liquid	3	
-337.91		0.2522	Liquid Phase of VLE	6	
-337.95		0.2537	Liquid	4	
-343.00		0.2572	Liquid	1	
-353.00		0.2582	Liquid	1	
-353.15		0.2570	Liquid	3	
-363.00		0.2592	Liquid	1	
-372.75		0.2577	Liquid	4	
-372.79		0.2555	Liquid Phase of VLE	6	
-373.15		0.2580	Liquid	3	
-393.15		0.2590	Liquid	3	
-394.81		0.2537	Liquid Phase of VLE	6	
-394.85		0.2566	Liquid	4	
-412.15		0.2577	Liquid	4	
-412.18		0.2542	Liquid Phase of VLE	6	
-413.15		0.2590	Liquid	3	
-433.15		0.2590	Liquid	3	
-451.85		0.2537	Liquid	4	
-451.89		0.2486	Liquid Phase of VLE	6	
-453.15		0.2590	Liquid	3	
-Number	Source	
-1	Bogacheva I.S.; Zemdikhanov K.B.; Mukhamedzyanov G.Kh.; Sadykov A.Kh.; Usmanov A.G.: Heat Conductivity of Mixtures of Organic Liquids. Zh.Fiz.Khim. 54 (1980) 1468-1470	
-2	Cai G.; Zong H.; Yu Q.; Lin R.: Thermal Conductivity of Alcohols with Acetonitrile and N,N-Dimethylformamide. J.Chem.Eng.Data 38 (1993) 332-335	
-3	Ganiev Yu.A.: Thermal Conductivity of Glycols. Zh.Fiz.Khim. 43 (1969) 239-240	
-4	Fischer S.: A Proposal for Thermal Conductivity Standards with Special Respect to Convection and Radiation Effects.. Wärme Stoffübertrag. 20 (1986) 183-187	
-5	Usmanov U.U.; Salikhov A.S.: Thermal Conductivity of Several Three-Component Liquid Solutions.. Izv.Vyssh.Uchebn.Zaved.Neft Gaz 18 (1975) 61-64	
-6	Bohne D.; Fischer S.; Obermeier E.: Thermal Conductivity, Density, Viscosity, and Prandtl-Numbers of Ethylene Glycol-Water Mixtures.. Ber.Bunsen-Ges.Phys.Chem. 88 (1984) 739-742	
-$$$Vapor Pressure	
-T [K]	P [kPa]	State	Reference	
-353.05	0.6533	Vapor-Liquid	4	
-360.60	1.080	Vapor-Liquid	4	
-365.25	1.3332	Vapor-Liquid	5	
-368.18	1.4932	Vapor-Liquid	4	
-373.47	1.9865	Vapor-Liquid	4	
-374.01	2.208	Vapor-Liquid	3	
-374.99	2.2665	Vapor-Liquid	4	
-377.02	2.584	Vapor-Liquid	3	
-378.51	2.560	Vapor-Liquid	4	
-379.00	2.7464	Vapor-Liquid	4	
-380.73	3.121	Vapor-Liquid	3	
-381.75	3.333	Vapor-Liquid	5	
-382.86	3.5064	Vapor-Liquid	4	
-384.03	3.695	Vapor-Liquid	1	
-385.15	3.885	Vapor-Liquid	3	
-387.28	4.280	Vapor-Liquid	4	
-389.12	4.705	Vapor-Liquid	3	
-389.67	4.847	Vapor-Liquid	1	
-392.21	5.386	Vapor-Liquid	4	
-393.15	5.280	Vapor-Liquid	2	
-393.80	5.857	Vapor-Liquid	3	
-394.14	5.977	Vapor-Liquid	1	
-395.65	6.666	Vapor-Liquid	5	
-397.06	6.639	Vapor-Liquid	4	
-397.47	6.813	Vapor-Liquid	4	
-397.80	7.032	Vapor-Liquid	3	
-398.47	7.364	Vapor-Liquid	1	
-402.67	8.506	Vapor-Liquid	4	
-402.86	8.800	Vapor-Liquid	3	
-404.74	9.591	Vapor-Liquid	1	
-406.37	10.244	Vapor-Liquid	3	
-407.40	10.412	Vapor-Liquid	4	
-410.65	12.271	Vapor-Liquid	3	
-411.68	12.802	Vapor-Liquid	1	
-411.76	12.599	Vapor-Liquid	4	
-414.35	14.025	Vapor-Liquid	4	
-414.95	13.332	Vapor-Liquid	5	
-414.96	14.655	Vapor-Liquid	3	
-417.08	16.012	Vapor-Liquid	1	
-419.15	17.332	Vapor-Liquid	3	
-420.97	18.332	Vapor-Liquid	4	
-422.71	20.006	Vapor-Liquid	1	
-424.51	21.344	Vapor-Liquid	3	
-425.33	22.171	Vapor-Liquid	4	
-428.79	25.210	Vapor-Liquid	1	
-429.08	25.384	Vapor-Liquid	3	
-429.15	25.478	Vapor-Liquid	4	
-431.82	28.344	Vapor-Liquid	4	
-434.27	30.733	Vapor-Liquid	3	
-434.56	31.192	Vapor-Liquid	1	
-435.73	33.197	Vapor-Liquid	4	
-439.06	37.410	Vapor-Liquid	4	
-439.31	36.788	Vapor-Liquid	3	
-440.43	38.427	Vapor-Liquid	1	
-444.36	44.556	Vapor-Liquid	4	
-444.56	44.142	Vapor-Liquid	3	
-446.53	47.439	Vapor-Liquid	1	
-447.94	50.996	Vapor-Liquid	4	
-450.31	53.546	Vapor-Liquid	3	
-451.06	57.742	Vapor-Liquid	4	
-452.54	57.953	Vapor-Liquid	1	
-453.38	61.995	Vapor-Liquid	4	
-455.25	62.918	Vapor-Liquid	3	
-455.70	64.261	Vapor-Liquid	6	
-457.66	72.021	Vapor-Liquid	4	
-458.00	68.661	Vapor-Liquid	6	
-458.40	70.024	Vapor-Liquid	1	
-459.35	71.727	Vapor-Liquid	6	
-460.51	74.338	Vapor-Liquid	3	
-460.60	74.261	Vapor-Liquid	6	
-460.65	74.394	Vapor-Liquid	6	
-461.35	75.727	Vapor-Liquid	6	
-462.00	77.327	Vapor-Liquid	6	
-462.05	77.460	Vapor-Liquid	6	
-462.10	77.460	Vapor-Liquid	6	
-462.18	81.993	Vapor-Liquid	4	
-462.20	77.594	Vapor-Liquid	6	
-462.30	77.994	Vapor-Liquid	6	
-462.45	78.394	Vapor-Liquid	6	
-462.55	78.394	Vapor-Liquid	6	
-463.00	79.727	Vapor-Liquid	6	
-463.10	79.727	Vapor-Liquid	6	
-463.10	79.993	Vapor-Liquid	6	
-463.65	81.327	Vapor-Liquid	6	
-464.00	82.393	Vapor-Liquid	6	
-464.47	84.612	Vapor-Liquid	1	
-464.85	84.260	Vapor-Liquid	6	
-464.90	84.526	Vapor-Liquid	6	
-465.06	87.219	Vapor-Liquid	4	
-466.13	88.398	Vapor-Liquid	3	
-466.45	89.593	Vapor-Liquid	6	
-467.03	92.232	Vapor-Liquid	4	
-467.55	91.993	Vapor-Liquid	6	
-467.65	92.259	Vapor-Liquid	6	
-467.75	92.526	Vapor-Liquid	6	
-467.85	92.926	Vapor-Liquid	6	
-467.95	93.059	Vapor-Liquid	6	
-468.05	93.326	Vapor-Liquid	6	
-468.10	93.459	Vapor-Liquid	6	
-468.10	93.592	Vapor-Liquid	6	
-468.15	93.592	Vapor-Liquid	6	
-468.20	93.659	Vapor-Liquid	6	
-468.35	94.392	Vapor-Liquid	6	
-468.45	94.392	Vapor-Liquid	6	
-468.55	94.659	Vapor-Liquid	6	
-468.60	94.726	Vapor-Liquid	6	
-468.65	94.926	Vapor-Liquid	6	
-468.80	96.725	Vapor-Liquid	4	
-468.90	95.725	Vapor-Liquid	6	
-468.95	96.125	Vapor-Liquid	6	
-469.40	97.192	Vapor-Liquid	6	
-469.65	97.992	Vapor-Liquid	6	
-469.85	98.659	Vapor-Liquid	6	
-470.44	101.352	Vapor-Liquid	4	
-470.45	100.525	Vapor-Liquid	6	
-470.45	101.325	Vapor-Liquid	5	
-470.65	101.325	Vapor-Liquid	6	
-470.85	101.829	Vapor-Liquid	3	
-470.85	102.507	Vapor-Liquid	1	
-471.40	103.458	Vapor-Liquid	6	
-471.75	104.525	Vapor-Liquid	6	
-472.65	107.591	Vapor-Liquid	6	
-472.80	107.724	Vapor-Liquid	6	
-473.35	110.124	Vapor-Liquid	6	
-476.28	119.270	Vapor-Liquid	3	
-480.77	135.464	Vapor-Liquid	3	
-486.08	156.959	Vapor-Liquid	3	
-491.14	179.863	Vapor-Liquid	3	
-495.44	201.399	Vapor-Liquid	3	
-Number	Source	
-1	Markovnik V.S.; Sachek A.I.; Peshchenko A.D.; Shvaro O.V.; Andreevskii D.N.: Dampfdruck von einigen Glykolen. Termodin.Organic.Soedin.  (1981) 54-57	
-2	Grenier-Loustalot M.F.; Potin-Gautier M.; Grenier P.: Applications analytiques de la mesure des tensions de vapeur par saturation d'un gaz inerte cas des alcanes normaux et des polyethyleneglycols. Anal.Lett. 14 (1981) 1335-1349	
-3	Ambrose D.; Hall D.J.: Thermodynamic properties of organic oxygen compounds L. The vapour pressures of 1,2-ethanediol (ethylene glycol) and bis(2-hydroxyethyl) ether (diethylene glycol). J.Chem.Thermodyn. 13 (1981) 61-66	
-4	Hieber W.; Woerner A.: Thermochemische Messungen an komplexbildenden Aminen und Alkoholen.. Z.Elektrochem.Angew.Physik.Chem. 40 (1934) 252-256	
-5	Sokolov N.M.; Tsygankova L.N.; Shtrom M.I.; Zhavoronkov N.M.: Separation of a 1,2-Propyleneglycol-Ethyleneglycol Mixture at Different Pressures. Soviet Chem.Ind. 48 (1972) 427-429	
-6	Brusset H.; Kaiser L.; Hocquel J.: Etude de Quelques Systemes Binaires du Glycol. Chim.Ind.Genie Chim. 99 (1968) 207-219	
+Formula	Molar Mass	CAS Registry Number	Name
+C2H6O2	62.068	107-21-1	1,2-Ethanediol
+$$$Compressibility (isothermal)
+T [K]	Compressibility (isothermal) [/kPa]	State	Reference
+293.20	3.68600012735E-007	Liquid	1
+303.20	3.79900001235E-007	Liquid	1
+313.20	3.92900005863E-007	Liquid	1
+323.20	4.05900010492E-007	Liquid	1
+Number	Source
+1	Technische Hochschule Carl Schorlemmer Leuna-Merseburg, Merseburg (GDR): Unpublished data. Unpublished Data  (1989) 1-360
+$$$Critical Data
+T [K]	P [kPa]	State	Reference
+718.00		Critical Point	2
+719.00	8200.000	Critical Point	3
+720.00	8200.000	Critical Point	1
+Number	Source
+1	Nikitin E.D.; Pavlov P.A.; Skripov P.V.: Measurement of the critical properties of thermally unstable substances and mixtures by the pulse-heating method.. J.Chem.Thermodyn. 25 (1993) 869-880
+2	Teja A.S.; Anselme M.J.: I. 1985 Results.. AIChE Symp.Ser. 86 (1990) 115-121
+3	VonNiedernhausern D.M.; Wilson L.C.; Giles N.F.; Wilson G.M.: Critical-Point Measurements for Nine Compounds by a Flow Method. J.Chem.Eng.Data 45 (2000) 154-156
+$$$Density
+T [K]	P [kPa]	Density [kg/m3]	State	Reference
+258.15		1137.000	Liquid	1
+268.15		1130.000	Liquid	1
+273.00	98.000	1131.200	Liquid	4
+273.00	49000.000	1143.100	Liquid	4
+273.00	98000.000	1162.200	Liquid	4
+274.15		1112.500	Liquid	1
+283.00	98.000	1123.500	Liquid	4
+283.00	49000.000	1136.500	Liquid	4
+283.00	98000.000	1155.900	Liquid	4
+283.15		1120.000	Liquid	1
+293.00	98.000	1115.700	Liquid	4
+293.00	49000.000	1129.900	Liquid	4
+293.00	98000.000	1149.600	Liquid	4
+293.15		1113.000	Liquid	1
+298.00		1109.700	Liquid	3
+303.00	98.000	1107.900	Liquid	4
+303.00	49000.000	1123.400	Liquid	4
+303.00	98000.000	1143.300	Liquid	4
+303.15		1106.600	Liquid	2
+308.15		1103.100	Liquid	2
+313.00		1099.200	Liquid	3
+313.00	98.000	1100.100	Liquid	4
+313.00	49000.000	1116.800	Liquid	4
+313.00	98000.000	1137.000	Liquid	4
+323.00	98.000	1092.300	Liquid	4
+323.00	49000.000	1110.200	Liquid	4
+323.00	98000.000	1130.700	Liquid	4
+333.00		1084.300	Liquid	3
+333.00	98.000	1084.500	Liquid	4
+333.00	49000.000	1103.600	Liquid	4
+333.00	98000.000	1124.400	Liquid	4
+343.00	98.000	1076.700	Liquid	4
+343.00	49000.000	1097.000	Liquid	4
+343.00	98000.000	1118.100	Liquid	4
+353.00		1069.300	Liquid	3
+353.00	98.000	1069.000	Liquid	4
+353.00	49000.000	1090.500	Liquid	4
+353.00	98000.000	1111.800	Liquid	4
+363.00	98.000	1061.200	Liquid	4
+363.00	49000.000	1083.900	Liquid	4
+363.00	98000.000	1105.500	Liquid	4
+373.00	98.000	1053.400	Liquid	4
+373.00	49000.000	1077.300	Liquid	4
+373.00	98000.000	1099.200	Liquid	4
+383.00	98.000	1045.600	Liquid	4
+383.00	49000.000	1070.700	Liquid	4
+383.00	98000.000	1092.900	Liquid	4
+393.00	98.000	1037.800	Liquid	4
+393.00	49000.000	1064.100	Liquid	4
+393.00	98000.000	1086.600	Liquid	4
+403.00	98.000	1030.000	Liquid	4
+403.00	49000.000	1057.600	Liquid	4
+403.00	98000.000	1080.400	Liquid	4
+413.00	98.000	1022.300	Liquid	4
+413.00	49000.000	1051.000	Liquid	4
+413.00	98000.000	1074.100	Liquid	4
+423.00	98.000	1014.500	Liquid	4
+423.00	49000.000	1044.400	Liquid	4
+423.00	98000.000	1067.800	Liquid	4
+433.00	98.000	1006.700	Liquid	4
+433.00	49000.000	1037.800	Liquid	4
+433.00	98000.000	1061.500	Liquid	4
+443.00	98.000	998.900	Liquid	4
+443.00	49000.000	1031.200	Liquid	4
+443.00	98000.000	1055.200	Liquid	4
+453.00	98.000	991.100	Liquid	4
+453.00	49000.000	1024.700	Liquid	4
+453.00	98000.000	1048.900	Liquid	4
+463.00	98.000	983.300	Liquid	4
+463.00	49000.000	1018.100	Liquid	4
+463.00	98000.000	1042.600	Liquid	4
+473.00	98.000	975.500	Liquid	4
+473.00	49000.000	1011.500	Liquid	4
+473.00	98000.000	1036.300	Liquid	4
+Number	Source
+1	Gadaibaev U.Sh.; Shakhparonov M.I.: Akustische Relaxation in Ethylenglykol-n-Hexanol-Lösungen. Vestn.Mosk.Univ.Ser.2 Khim. 14 (1973) 296-298
+2	Pal A.; Singh W.: Speeds of Sound and Viscosities in Aqueous Poly(ethylene glycol) Solutions at 303.15 and 308.15 K. J.Chem.Eng.Data 42 (1997) 234-237
+3	Bogacheva I.S.; Zemdikhanov K.B.; Usmanov A.G.: Molekulardiffusionskoeffizienten und andere Eigenschaften binärer Lösungen von einigen flüssigen organischen Verbindungen. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 25 (1982) 182-186
+4	Sagdeev D.I.; Mukhamedzyanov G.Kh.: Ein Gerät zur Bestimmung  des Dichtes und der Viskosität von flüssigen organischen Verbindungen bei Drücken bis 250 MPa und Temperaturen bis 473 K. Oniitekhim  (1982) 1-30
+$$$Dielectric Constant
+T [K]	Dielectric Constant [-]	State	Reference
+278.15	41.67000	Liquid	2
+283.15	40.88000	Liquid	2
+288.15	40.09000	Liquid	2
+293.15	38.69000	Liquid	6
+293.15	39.30000	Liquid	2
+298.15	37.67000	Liquid	6
+298.15	37.70000	Liquid	3
+298.15	38.51000	Liquid	2
+298.15	40.25200	Liquid	4
+298.15	40.81500	Liquid	5
+303.15	37.17000	Liquid	6
+303.15	37.60000	Liquid	1
+303.15	37.71000	Liquid	2
+308.15	35.74000	Liquid	6
+308.15	36.92000	Liquid	2
+308.15	38.22900	Liquid	4
+313.15	34.85000	Liquid	6
+313.15	36.13000	Liquid	2
+318.15	34.12000	Liquid	6
+318.15	35.34000	Liquid	2
+323.15	33.07000	Liquid	6
+323.15	34.55000	Liquid	2
+328.15	33.76000	Liquid	2
+328.15	34.46800	Liquid	5
+333.15	32.96000	Liquid	2
+Number	Source
+1	Awwad A.M.; Al-Dujaili A.; Salman H.E.: Relative Permittivities, Densities, and Refractive Indices of the Binary Mixtures of Sulfolane with Ethylene Glycol, Diethylene Glycol, and Poly(ethylene glycol) at 303.15 K. J.Chem.Eng.Data 47 (2002) 421-424
+2	Khimenko M.T.; Litinskaya V.V.; Tkachenko E.P.: Physico-chemical study of acetone-ethylene glycol and 2-propanol-ethylene glycol systems at  different temperatures.. Oniitekhim  (1982) 1-15
+3	Shkodin A.M.; Podolyanko V.A.; Gritsan L.D.: Physico-chemical properties of binary solvent ethylene glycol-tetrahydrofuran. Vestn.Khar'k.Univ.  (1974) 32-35
+4	Sastry N.V.; Patel M.C.: Densities, Excess Molar Volumes, Viscosities, Speeds of Sound, Excess Isentropic Compressibilities, and Relative Permittivities for Alkyl (Methyl, Ethyl, Butyl, and Isamyl) Acetates + Glycols at Different Temperatures. J.Chem.Eng.Data 48 (2003) 1019-1027
+5	George J.; Sastry N.V.: Partial Excess Molar Volumes, Partial Excess Isentropic Compressilbilities and Relative Permittivities of Water + Ethane-1,2diol Derivative and Water + 1,2-Dimethoxyethane at Different Temperatures. Fluid Phase Equilib. 216 (2004) 307-321
+6	Khimenko M.T.; Grishchenko N.N.; Tsybizova L.P.; Bezpalyi B.N.: Untersuchung der Polarisirbarkeit von Ethylenglykol. Zh.Fiz.Khim. 49 (1975) 250-251
+$$$Dynamic Viscosity
+T [K]	Dynamic Viscosity [mPas]	State	Reference
+258.15	164.0000	Liquid	1
+262.15	120.0000	Liquid	2
+268.15	87.5000	Liquid	1
+274.15	49.0000	Liquid	1
+278.15	41.9000	Liquid	4
+283.15	29.0000	Liquid	1
+283.15	33.0000	Liquid	2
+293.15	18.8000	Liquid	1
+295.99	18.5000	Liquid	3
+298.00	16.8000	Liquid	5
+298.15	16.9000	Liquid	4
+303.15	14.0000	Liquid	2
+313.00	9.4000	Liquid	5
+313.00	9.4300	Liquid	5
+318.15	7.8500	Liquid	6
+318.15	7.9100	Liquid	4
+333.00	5.1600	Liquid	5
+333.15	4.8000	Liquid	2
+338.15	4.3800	Liquid	4
+353.00	3.1500	Liquid	5
+Number	Source
+1	Gadaibaev U.Sh.; Shakhparonov M.I.: Akustische Relaxation in Ethylenglykol-n-Hexanol-Lösungen. Vestn.Mosk.Univ.Ser.2 Khim. 14 (1973) 296-298
+2	Verblyan L.B.; Sperkach V.S.; Shakhparonov M.I.: Akustische Relaxation in tert-Butanol und binärer tert-Butanol-Ethylenglykol-Lösungen. Akust.Zh. 19 (1973) 448-450
+3	Bultmann T.; Ernsting N.P.: Competition between Geminate Recombination and Solvation of Polar Radicals Following Ultrafast Photodissociation of bis(p-Aminophenyl)Disulfide. J.Phys.Chem. 100 (1996) 19417-19424
+4	Shcherban A.I.; Perevertkina I.V.; Kharitonov G.V.: Dichte und Viskosität von binären  Ethylenglykol - N,N-Dimethylformamid-  und Etylenglykol - gamma-Butyrolacton-Mischungen. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 30 (1987) 35-38
+5	Bogacheva I.S.; Zemdikhanov K.B.; Usmanov A.G.: Molekulardiffusionskoeffizienten und andere Eigenschaften binärer Lösungen von einigen flüssigen organischen Verbindungen. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 25 (1982) 182-186
+6	Shcherban' A.I.; Perevertkina I.V.; Kharitonov G.V.: Dichte und Viskosität der binärer Systeme N,N-Dimethylacetamid mit Ethylenglykol und gamma-Butyrolacton. Oniitekhim  (1985) 1-9
+$$$Enthalpy (H-H0)/T
+T [K]	Enthalpy (H-H0)/T [J/(K*mol)]	State	Reference
+298.16	64.56	Vapor	1
+300.00	64.69	Vapor	1
+400.00	74.98	Vapor	1
+500.00	88.66	Vapor	1
+600.00	92.17	Vapor	1
+700.00	99.08	Vapor	1
+800.00	105.60	Vapor	1
+900.00	111.38	Vapor	1
+1000.00	116.65	Vapor	1
+Number	Source
+1	Dyatkina M.E.: Thermodynamic functions of normal alcohols (propanol, butanol and ethylene glycol).(Russ). Zh.Fiz.Khim. 28 (1954) 377-388
+$$$Entropy
+T [K]	Molar Entropy [J/(mol*K)]	State	Reference
+298.00	284.51	Vapor	3
+298.00	303.80	Vapor	2
+298.00	323.55	Vapor	1
+Number	Source
+1	Dyatkina M.E.: Thermodynamic functions of normal alcohols (propanol, butanol and ethylene glycol).(Russ). Zh.Fiz.Khim. 28 (1954) 377-388
+2	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436
+3	Buckley P.; Giguere P.A.: Infrared studies on rotational isomerism. I. Ethylene glycol.. Can.J.Chem. 45 (1967) 397-407
+$$$Flash Point
+T [K]	P [kPa]	State	Reference
+		Liquid	1
+385.35		Liquid	2
+Number	Source
+1	Martinez P.J.; Rus E.; Compana J.M.: Flash point determination of binary mixtures of alcohols, ketones and water. 7th World Congress of Chemical Engineering  (2005) 1-8
+2	Zhang K.; Meng X.-Y.; Guo J.-W.; Wu J.-T.: Development of Flash Point Tester Based on Equilibrium Method and Flash Points of Dimethyl Sulfoxide Aqueous Solutions. Gongcheng-rewuli-xuebao 34 (2013) 2001-2005
+$$$G-function (G-G0)/T
+T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference
+100.00	-199.09	Vapor	2
+150.00	-215.09	Vapor	2
+200.00	-227.79	Vapor	2
+273.15	-243.39	Vapor	2
+298.15	-248.09	Vapor	2
+298.16	-258.99	Vapor	1
+300.00	-259.53	Vapor	1
+300.00	-248.49	Vapor	2
+400.00	-279.49	Vapor	1
+400.00	-265.79	Vapor	2
+500.00	-297.11	Vapor	1
+500.00	-281.19	Vapor	2
+600.00	-313.72	Vapor	1
+600.00	-295.49	Vapor	2
+700.00	-328.78	Vapor	1
+700.00	-308.99	Vapor	2
+800.00	-341.75	Vapor	1
+800.00	-321.59	Vapor	2
+900.00	-354.59	Vapor	1
+900.00	-333.59	Vapor	2
+1000.00	-366.23	Vapor	1
+1000.00	-345.09	Vapor	2
+Number	Source
+1	Dyatkina M.E.: Thermodynamic functions of normal alcohols (propanol, butanol and ethylene glycol).(Russ). Zh.Fiz.Khim. 28 (1954) 377-388
+2	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436
+$$$Heat of Fusion
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+		9500.00	Solid-Liquid	1
+		11627.30	Solid-Liquid	4
+	101.330	9957.92	Solid-Liquid	2
+256.60	101.325	9500.00	Solid-Liquid-Vapor	1
+260.80	101.325	11630.00	Solid-Liquid	3
+261.57		11097.80	Solid-Liquid	5
+Number	Source
+1	Knauth P.; Sabbah R.: Energetics of infra- and intermolecular bonds in omega-alkanediols. III. Thermochemical study of 1,6-hexanediol, 1,7-heptanediol, 1,8-octanediol, 1,9-nonanediol, and 1,10-decanediol at 298.15 K.. Can.J.Chem. 68 (1990) 731-734
+2	Nikolaev P.N.; Rabinovich I.B.: Heat capacity of ethylene glycol  and deuterioglycol in the range 80-300 K. Zh.Fiz.Khim. 41 (1967) 2191-2194
+3	Parks G.S.; Kelley K.K.: Thermal Data on Organic Compounds. II. The Heat Capacities of Five Organic Compounds. The Entropies and Free Energies of Some Homologous Series of Aliphatic Compounds. J.Am.Chem.Soc. 47 (1925) 2089-2097
+4	Grigorenko V.I.; Arbuzova G.G.; Pigulevskaya V.G.: Determination of Heat of Fusion of Ethylene- and Diethylene Glycol Ethers. Viniti  (1981) 1-6
+5	Rodnikova M.N.; Solonina I.A.; Kiselev M.R.; Makaev S.V.: Phase Diagram of the Ethylene Glycol - Dioxane System in the Temperature Range from -90 to 25° C. Russ.J.Phys.Chem. A 86 (2012) 1745-1746
+$$$Heat of Vaporization
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+298.15		65400.00	Vapor-Liquid	1
+303.20	0.01799	65160.00	Vapor-Liquid	1
+306.20	0.02275	65010.00	Vapor-Liquid	1
+308.20	0.02639	64910.00	Vapor-Liquid	1
+310.20	0.03107	64810.00	Vapor-Liquid	1
+313.20	0.04027	64660.00	Vapor-Liquid	1
+316.20	0.0495	64510.00	Vapor-Liquid	1
+318.20	0.05997	64410.00	Vapor-Liquid	1
+320.20	0.06797	64320.00	Vapor-Liquid	1
+323.20	0.08464	64170.00	Vapor-Liquid	1
+326.20	0.1053	64020.00	Vapor-Liquid	1
+328.10	0.1244	63920.00	Vapor-Liquid	1
+331.20	0.1523	63770.00	Vapor-Liquid	1
+333.20	0.1792	63670.00	Vapor-Liquid	1
+336.20	0.2164	63520.00	Vapor-Liquid	1
+470.52	101.325	50508.00	Vapor-Liquid	2
+Number	Source
+1	Vasiltsova T.V.; Verevkin S.P.; Bich E.; Heintz A.; Bogel-Lukasik R.; Domanska U.: Activity Coefficients of Ethers and Alcohols in 1-Methyl-3-Ethyl-Imidazolium Bis(Trifluoromethyl-sulfonyl) Imide using the Transpiration Method. J.Chem.Eng.Data 50 (2005) 142-148
+2	Louguinine W.: Deuxième partie: Détermination des chaleurs latentes de vaporisation.. Ann.Chim.Phys.(Paris) 13 (1898) 289-377
+$$$Ideal Gas Heat Capacity
+T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference
+100.00	46.10	Ideal Gas	1
+150.00	56.30	Ideal Gas	1
+200.00	65.00	Ideal Gas	1
+273.15	77.90	Ideal Gas	1
+298.15	82.70	Ideal Gas	1
+300.00	83.00	Ideal Gas	1
+400.00	102.20	Ideal Gas	1
+500.00	119.40	Ideal Gas	1
+600.00	133.90	Ideal Gas	1
+700.00	145.80	Ideal Gas	1
+800.00	155.90	Ideal Gas	1
+900.00	164.50	Ideal Gas	1
+1000.00	171.90	Ideal Gas	1
+Number	Source
+1	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436
+$$$Kinematic Viscosity
+T [K]	Kinematic Viscosity [m2/s]	State	Reference
+263.15	9.89100008155E-05	Liquid	4
+263.15	9.89399995888E-05	Liquid	3
+268.15	7.10800013621E-05	Liquid	4
+268.15	7.10899985279E-05	Liquid	3
+273.15	5.24200004293E-05	Liquid	3
+278.15	3.95399983972E-05	Liquid	3
+281.25	3.34100004693E-05	Liquid	6
+283.15	3.04400000459E-05	Liquid	3
+288.15	2.38899992837E-05	Liquid	3
+290.25	2.15799991565E-05	Liquid	6
+293.15	1.90400005522E-05	Liquid	3
+293.90	1.80400002137E-05	Liquid	2
+298.15	1.54400004249E-05	Liquid	3
+298.25	1.51300000653E-05	Liquid	6
+303.00	1.227499979E-05	Liquid	1
+303.15	1.24369998957E-05	Liquid	5
+303.15	1.26599998111E-05	Liquid	3
+303.15	1.26699997054E-05	Liquid	4
+307.95	1.04700002339E-05	Liquid	6
+308.15	1.04900000224E-05	Liquid	3
+313.00	8.47499995871E-06	Liquid	1
+313.15	8.80599964148E-06	Liquid	3
+313.30	8.53499932418E-06	Liquid	2
+318.15	7.48100001147E-06	Liquid	4
+318.15	7.48200000089E-06	Liquid	3
+323.00	6.54999985272E-06	Liquid	1
+323.15	6.43399971523E-06	Liquid	3
+328.15	5.53199970454E-06	Liquid	3
+329.35	5.25999985257E-06	Liquid	6
+333.00	4.8249999054E-06	Liquid	1
+333.15	4.77699995827E-06	Liquid	3
+333.30	4.67299969387E-06	Liquid	2
+336.95	4.29000010627E-06	Liquid	6
+338.15	4.19199977841E-06	Liquid	3
+343.00	3.62499986295E-06	Liquid	1
+343.15	3.6869998894E-06	Liquid	3
+343.15	3.68799987882E-06	Liquid	4
+347.35	3.33999992108E-06	Liquid	6
+348.15	3.27799989464E-06	Liquid	3
+348.15	3.27899988406E-06	Liquid	4
+353.00	2.90000002678E-06	Liquid	1
+353.15	2.90899993161E-06	Liquid	3
+353.15	2.90999992103E-06	Liquid	4
+353.30	2.87699981527E-06	Liquid	2
+356.45	2.66099982582E-06	Liquid	6
+363.00	2.34999993154E-06	Liquid	1
+373.00	1.9379999685E-06	Liquid	1
+373.30	1.94099993678E-06	Liquid	2
+374.95	1.92299989976E-06	Liquid	6
+383.00	1.63799995789E-06	Liquid	1
+383.25	1.64499999755E-06	Liquid	6
+392.75	1.42599992614E-06	Liquid	6
+393.00	1.41299994993E-06	Liquid	1
+393.40	1.37899996844E-06	Liquid	2
+403.00	1.24999996842E-06	Liquid	1
+404.25	1.20599997899E-06	Liquid	6
+413.00	1.09999996312E-06	Liquid	1
+413.50	1.0389999261E-06	Liquid	2
+413.85	1.05300000541E-06	Liquid	6
+422.75	9.40000006722E-07	Liquid	6
+423.00	9.749999208E-07	Liquid	1
+423.70	9.24999994822E-07	Liquid	2
+433.00	8.74999955158E-07	Liquid	1
+433.05	8.30999965729E-07	Liquid	6
+440.75	7.63000002735E-07	Liquid	6
+443.00	7.74999989517E-07	Liquid	1
+453.00	6.99999986864E-07	Liquid	1
+463.00	6.50000004043E-07	Liquid	1
+Number	Source
+1	Sadykov A.Kh.; Sagdeev D.I.; Brykov V.P.; Mukhamedzyanov G.Kh.: Experimentelle Untersuchung von Dichte und Viskosität flüssiger Polyoxyverbindungen. Tr.Kazan.Khim.Tekhnol.Inst.  (1974) 98-101
+2	Lee R.J.; Teja A.S.: Viscosities of Poly(Ethylene Glycols). J.Chem.Eng.Data 35 (1990) 385-387
+3	Corradini F.; Marcheselli L.; Tassi L.; Tosi G.: Kinematic Viscosities of 1,2-Ethanediol/1,4-Dioxane Binary Mixtures from -10°C to + 80°C. Bull.Chem.Soc.Japan 66 (1993) 1886-1891
+4	Marchetti A.; Preti C.; Tagliazucchi M.; Tassi L.; Tosi G.: Density, Viscosity, and Excess Molar Volume at Various Temperatures. J.Chem.Eng.Data 36 (1991) 360-365
+5	Dizechi M.; Marschall E.: Viscosity of Some Binary and Ternary Liquid Mixtures. J.Chem.Eng.Data 27 (1982) 358-363
+6	Thomas L.H.; Meatyard R.; Smith H.; Davis G.H.: Viscosity Behavior of Associated Liquids at Lower Temperatures and Vapor Pressures. J.Chem.Eng.Data 24 (1979) 161-164
+$$$Melting Point
+T [K]	P [kPa]	State	Reference
+259.95		Solid-Liquid	4
+260.25		Solid-Liquid	5
+260.35		Solid-Liquid	4
+260.46	101.325	Solid-Liquid	1
+260.80	101.325	Solid-Liquid	3
+261.65	101.325	Solid-Liquid	2
+Number	Source
+1	Ott J.B.; Goates J.R.; Lamb J.D.: Solid-Liquid Phase Equilibria in Water + Ethylene Glycol. J.Chem.Thermodyn. 4 (1972) 123-126
+2	de Forcrand R.: Chaleur Specifique et Chaleur de Fusion du Glycol Ethylenique. C.R.Hebd.Seanc.Acad.Sci.Paris 132 (1901) 569-571
+3	Parks G.S.; Kelley K.K.: Thermal Data on Organic Compounds. II. The Heat Capacities of Five Organic Compounds. The Entropies and Free Energies of Some Homologous Series of Aliphatic Compounds. J.Am.Chem.Soc. 47 (1925) 2089-2097
+4	Cordray D.R.; Kaplan L.R.; Woyciesjes P.M.; Kozak T.F.: Solid-liquid phase diagram for ethylene glycol + water. Fluid Phase Equilib. 117 (1996) 146-152
+5	Dykyj J.; Kuska V.; Seprakova M.: Physikalische Eigenschaften des Äthylenglykols und seiner Derivaten (I) Erstarrungspunkte von Lösungen von Äthylenglykolen. Chem.Zvesti 10 (1956) 193-203
+$$$Molar Heat Capacity (cP)
+T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference
+273.15		141.02	Liquid	4
+283.15	101.330	144.35	Liquid	3
+288.15	101.330	146.02	Liquid	3
+293.15		147.77	Liquid	4
+293.15	101.330	147.28	Liquid	3
+298.15		147.49	Liquid	2
+298.15		149.60	Liquid	5
+298.15	101.330	148.53	Liquid	3
+298.71		149.15	Liquid	1
+301.15		150.63	Liquid	6
+303.15	101.330	150.21	Liquid	3
+308.15	101.330	151.88	Liquid	3
+313.15		152.44	Liquid	6
+313.15		154.26	Liquid	4
+313.15	101.330	153.55	Liquid	3
+318.15	101.330	155.23	Liquid	3
+323.15	101.330	157.32	Liquid	3
+328.15	101.330	159.41	Liquid	3
+328.88		156.85	Liquid	1
+333.15		160.50	Liquid	4
+338.07		158.22	Liquid	1
+353.15		166.73	Liquid	4
+373.15		172.70	Liquid	4
+385.67		174.17	Liquid	1
+393.15		178.67	Liquid	4
+396.41		177.83	Liquid	1
+413.15		184.39	Liquid	4
+433.15		190.10	Liquid	4
+433.27		190.68	Liquid	1
+453.15		195.56	Liquid	4
+463.15		198.15	Liquid	4
+473.15		201.01	Liquid	4
+483.15		203.61	Liquid	4
+488.15		204.90	Liquid	4
+493.15		205.68	Liquid	4
+Number	Source
+1	Mukhamedzyanov G.Kh.; Zaripov Z.I.: Wärmekapazität von Polyetylenglykolen und ihren Mischungen. Oniitekhim  (1988) 1-8
+2	Douheret G.; Pal A.; Hoiland H.; Anowi O.; Davis M.I.: I. Molar volumes, isobaric molar heat capacities, ultrasonic speeds, and isentropic functions. J.Chem.Thermodyn. 23 (1991) 569-580
+3	Rabinovich I.B.; Nikolaev P.N.: The Isotope Effect in the Heat Capacity of certain Deuterated Compounds. Dokl.Akad.Nauk SSSR 142 (1962) 1335-1338
+4	Stephens M.A.; Tamplin W.S.: Saturated Liquid Specific Heats of Ethylene Glycol Homologues. J.Chem.Eng.Data 24 (1979) 81-82
+5	Manohara Murthy N.; Subrahmanyam S.V.: Behaviour of Excess Heat Capacity of Aqueous Non-Electrolytes. Indian J.Pure Appl.Phys. 15 (1977) 485-489
+6	Paz Andrade M.I.; Recacho E.; Paz Fernandez J.M.: Determinacion de calores especificos de liquidos. Acta Cient.Compostelana 5 (1968) 49-55
+$$$Molar Heat Capacity (cV)
+T [K]	Molar Heat Capacity (Cv) [J/(mol*K)]	State	Reference
+298.15	132.00	Liquid	1
+Number	Source
+1	Manohara Murthy N.; Subrahmanyam S.V.: Behaviour of Excess Heat Capacity of Aqueous Non-Electrolytes. Indian J.Pure Appl.Phys. 15 (1977) 485-489
+$$$Speed of Sound
+T [K]	Ultrasonic Velocity [m/s]	State	Reference
+293.15	1616.000	Liquid	4
+293.15	1665.000	Liquid	2
+298.15	1658.000	Liquid	3
+298.15	1659.000	Liquid	6
+303.15	1639.920	Liquid	5
+303.15	1641.000	Liquid	2
+303.15	1643.500	Liquid	1
+313.15	1616.000	Liquid	2
+323.15	1591.000	Liquid	2
+333.15	1566.000	Liquid	2
+343.15	1541.000	Liquid	2
+353.15	1516.000	Liquid	2
+363.15	1490.000	Liquid	2
+373.15	1465.000	Liquid	2
+383.15	1437.000	Liquid	2
+393.15	1410.000	Liquid	2
+403.15	1383.000	Liquid	2
+413.15	1354.000	Liquid	2
+423.15	1325.000	Liquid	2
+433.15	1293.000	Liquid	2
+443.15	1264.000	Liquid	2
+453.15	1233.000	Liquid	2
+463.15	1202.000	Liquid	2
+Number	Source
+1	Weissler A.: II. The Alcohols. J.Am.Chem.Soc. 70 (1948) 1634-1640
+2	Zotov V.V.; Shoitov Yu.S.: Sound Velocity in Glycerol, Ethylene Glycol, and Diethylene Glycol. Uc.Zap.-Kursk.Gos.Ped.Inst. 71 (1970) 92-97
+3	Willard G W.: Temperature Coefficients of Ultrasonic Velocity in Solutions. J.Acoust.Soc.Am. 19 (1947) 235-241
+4	Schaaffs W.: I.Teil: Die Schallgeschwindigkeit in organischen Flüssigkeiten. Z.Phys.Chem.(Leipzig) 194 (1944) 28-38
+5	Mehta S.K.; Ram G.; Sharma A.K.: Effect of Oxyethylene Groups on the Behaviour of Thermodynamic Properties of Pyrrolidin-2-One and Poly(Ethylene Glycols). Fluid Phase Equilib. 220 (2004) 153-160
+6	Nayak J.N.; Aralguppi M.I.; Aminabhavi T.M.: Density, Viscosity, Refractive Index, and Speed of Sound in the Binary Mixtures of 1,4-Dioxane + Ethanediol, + Hexane, + Tributylamine, or + Triethylamine at (298.15, 303.15, and 308.15) K. J.Chem.Eng.Data 48 (2003) 1152-1156
+$$$Std. Heat of Combustion
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+293.15	-1185330.00	Liquid	2
+298.00	-1189720.00	Liquid	3
+298.15	-1178630.00	Solid	1
+Number	Source
+1	Stohmann F.; Langbein H.: Ueber den Wärmewerth von Kohlehydraten, Mehrsäurigen Alkoholen und Phenolen. J.Prakt.Chem. 45 (1892) 305-356
+2	Louguinine W.: Deuxième partie: Détermination des chaleurs latentes de vaporisation.. Ann.Chim.Phys.(Paris) 13 (1898) 289-377
+3	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277
+$$$Std. Heat of Formation
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.00	-460000.00	Liquid	2
+298.00	-454926.00	Liquid	1
+298.00	-454801.00	Liquid	6
+298.00	-452290.00	Liquid	4
+298.00	-387857.00	Vapor	3
+298.15	-474047.00	Solid	5
+Number	Source
+1	Parks G.S.; West T.J.; Naylor B.F.; Fujii P.S.; McClaine L.A.: Thermal data on organic compounds. XXIII. Modern combustion data for fourteeen hydrocarbons and five polyhydroxy alcohols.. J.Am.Chem.Soc. 68 (1946) 2524-2527
+2	Knauth P.; Sabbah R.: Combustion calorimetry on milligram samples of liquid substances with a CRMT rocking bomb calorimeter. Application to the study of omega-alkanediols at 298.15 K.. J.Chem.Thermodyn. 21 (1989) 203-210
+3	Gardner P.J.; Hussain K.S.: The standard enthalpies of formation of some aliphatic diols.. J.Chem.Thermodyn. 4 (1972) 819-827
+4	Moureu H.; Dode M.: Heats of formation of ethylene oxide, of ethanediol and several homologous.. Bull.Soc.Chim.France Mem. 4 (1937) 637-647
+5	Stohmann F.; Langbein H.: Ueber den Wärmewerth von Kohlehydraten, Mehrsäurigen Alkoholen und Phenolen. J.Prakt.Chem. 45 (1892) 305-356
+6	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277
+$$$Surface Tension
+T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference
+263.15		50.8000	Liquid	5
+273.15		50.0000	Liquid	5
+283.15		48.9000	Liquid	5
+293.15		47.0000	Liquid	2
+293.15		48.2000	Liquid	5
+293.15		48.4900	Liquid	4
+295.15		46.1000	Liquid	6
+298.15		47.7000	Liquid	5
+298.15		48.2000	Liquid	1
+300.95		48.0000	Liquid	1
+303.15	101.325	46.2400	Liquid	3
+305.05		47.8000	Liquid	1
+308.35		47.5000	Liquid	1
+312.95		47.1000	Liquid	1
+317.75		46.4000	Liquid	1
+323.45		46.3000	Liquid	1
+331.55		45.4000	Liquid	1
+338.15		44.8000	Liquid	1
+348.55		44.2000	Liquid	1
+353.15		43.1600	Liquid	4
+356.55		43.3000	Liquid	1
+362.75		42.9000	Liquid	1
+369.15		42.3000	Liquid	1
+376.95		41.4000	Liquid	1
+383.35		41.0000	Liquid	1
+388.95		40.4000	Liquid	1
+398.15		39.5000	Liquid	1
+407.05		38.8000	Liquid	1
+411.15		38.5000	Liquid	1
+414.65		38.0000	Liquid	1
+420.05		37.2000	Liquid	1
+424.55		36.9000	Liquid	1
+432.55		35.7000	Liquid	1
+439.35		35.1000	Liquid	1
+443.95		34.2000	Liquid	1
+450.35		33.7000	Liquid	1
+454.65		33.1000	Liquid	1
+460.35		32.5000	Liquid	1
+464.05		32.0000	Liquid	1
+465.45		32.0000	Liquid	1
+468.85		31.8000	Liquid	1
+470.15		31.5000	Liquid	1
+471.15		31.4000	Liquid	1
+Number	Source
+1	Hoke B.C.Jr.; Chen J.C.: Binary Aqueous-Organic Surface Tension Temperature Dependence. J.Chem.Eng.Data 36 (1991) 322-326
+2	Larachi F.; Laurent A.; Midoux N.; Wild G.: Experimental Study of a Trickle-Bed Reactor Operating at High Pressure: Two-Phase Pressure Drop and Liquid Saturation. Chem.Eng.Sci. 46 (1991) 1233-1246
+3	Nakanishi K.; Matsumoto T.; Hayatsu M.: Surface Tension of Aqueous Solutions of some Glycols. J.Chem.Eng.Data 16 (1971) 44-45
+4	Korösi G.; Kovats E.S.: Density and Surface Tension of 83 Organic Liquids. J.Chem.Eng.Data 26 (1981) 323-332
+5	Horibe A.; Fukusako S.; Yamada M.: Surface Tension of Low-Temperature Aqueous Solutions. Int.J.Thermophys. 17 (1996) 483-493
+6	Newman S.: The effect of composition on the critical surface tension of polyvinyl butyral.. J.Colloid Interface Sci. 25 (1967) 341-345
+$$$Thermal Conductivity
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference
+264.21		0.2440	Liquid Phase of VLE	6
+264.25		0.2450	Liquid	4
+293.15		0.2530	Liquid	3
+297.75		0.2484	Liquid	4
+297.77		0.2476	Liquid Phase of VLE	6
+298.00		0.2520	Liquid	1
+298.00		0.2527	Liquid	1
+303.15		0.2510	Liquid	5
+303.15	100.000	0.2531	Liquid	2
+313.00		0.2540	Liquid	1
+313.00		0.2541	Liquid	1
+313.00		0.2542	Liquid	1
+313.15		0.2550	Liquid	3
+323.00		0.2552	Liquid	1
+333.00		0.2562	Liquid	1
+333.15		0.2560	Liquid	3
+337.91		0.2522	Liquid Phase of VLE	6
+337.95		0.2537	Liquid	4
+343.00		0.2572	Liquid	1
+353.00		0.2582	Liquid	1
+353.15		0.2570	Liquid	3
+363.00		0.2592	Liquid	1
+372.75		0.2577	Liquid	4
+372.79		0.2555	Liquid Phase of VLE	6
+373.15		0.2580	Liquid	3
+393.15		0.2590	Liquid	3
+394.81		0.2537	Liquid Phase of VLE	6
+394.85		0.2566	Liquid	4
+412.15		0.2577	Liquid	4
+412.18		0.2542	Liquid Phase of VLE	6
+413.15		0.2590	Liquid	3
+433.15		0.2590	Liquid	3
+451.85		0.2537	Liquid	4
+451.89		0.2486	Liquid Phase of VLE	6
+453.15		0.2590	Liquid	3
+Number	Source
+1	Bogacheva I.S.; Zemdikhanov K.B.; Mukhamedzyanov G.Kh.; Sadykov A.Kh.; Usmanov A.G.: Heat Conductivity of Mixtures of Organic Liquids. Zh.Fiz.Khim. 54 (1980) 1468-1470
+2	Cai G.; Zong H.; Yu Q.; Lin R.: Thermal Conductivity of Alcohols with Acetonitrile and N,N-Dimethylformamide. J.Chem.Eng.Data 38 (1993) 332-335
+3	Ganiev Yu.A.: Thermal Conductivity of Glycols. Zh.Fiz.Khim. 43 (1969) 239-240
+4	Fischer S.: A Proposal for Thermal Conductivity Standards with Special Respect to Convection and Radiation Effects.. Wärme Stoffübertrag. 20 (1986) 183-187
+5	Usmanov U.U.; Salikhov A.S.: Thermal Conductivity of Several Three-Component Liquid Solutions.. Izv.Vyssh.Uchebn.Zaved.Neft Gaz 18 (1975) 61-64
+6	Bohne D.; Fischer S.; Obermeier E.: Thermal Conductivity, Density, Viscosity, and Prandtl-Numbers of Ethylene Glycol-Water Mixtures.. Ber.Bunsen-Ges.Phys.Chem. 88 (1984) 739-742
+$$$Vapor Pressure
+T [K]	P [kPa]	State	Reference
+353.05	0.6533	Vapor-Liquid	4
+360.60	1.080	Vapor-Liquid	4
+365.25	1.3332	Vapor-Liquid	5
+368.18	1.4932	Vapor-Liquid	4
+373.47	1.9865	Vapor-Liquid	4
+374.01	2.208	Vapor-Liquid	3
+374.99	2.2665	Vapor-Liquid	4
+377.02	2.584	Vapor-Liquid	3
+378.51	2.560	Vapor-Liquid	4
+379.00	2.7464	Vapor-Liquid	4
+380.73	3.121	Vapor-Liquid	3
+381.75	3.333	Vapor-Liquid	5
+382.86	3.5064	Vapor-Liquid	4
+384.03	3.695	Vapor-Liquid	1
+385.15	3.885	Vapor-Liquid	3
+387.28	4.280	Vapor-Liquid	4
+389.12	4.705	Vapor-Liquid	3
+389.67	4.847	Vapor-Liquid	1
+392.21	5.386	Vapor-Liquid	4
+393.15	5.280	Vapor-Liquid	2
+393.80	5.857	Vapor-Liquid	3
+394.14	5.977	Vapor-Liquid	1
+395.65	6.666	Vapor-Liquid	5
+397.06	6.639	Vapor-Liquid	4
+397.47	6.813	Vapor-Liquid	4
+397.80	7.032	Vapor-Liquid	3
+398.47	7.364	Vapor-Liquid	1
+402.67	8.506	Vapor-Liquid	4
+402.86	8.800	Vapor-Liquid	3
+404.74	9.591	Vapor-Liquid	1
+406.37	10.244	Vapor-Liquid	3
+407.40	10.412	Vapor-Liquid	4
+410.65	12.271	Vapor-Liquid	3
+411.68	12.802	Vapor-Liquid	1
+411.76	12.599	Vapor-Liquid	4
+414.35	14.025	Vapor-Liquid	4
+414.95	13.332	Vapor-Liquid	5
+414.96	14.655	Vapor-Liquid	3
+417.08	16.012	Vapor-Liquid	1
+419.15	17.332	Vapor-Liquid	3
+420.97	18.332	Vapor-Liquid	4
+422.71	20.006	Vapor-Liquid	1
+424.51	21.344	Vapor-Liquid	3
+425.33	22.171	Vapor-Liquid	4
+428.79	25.210	Vapor-Liquid	1
+429.08	25.384	Vapor-Liquid	3
+429.15	25.478	Vapor-Liquid	4
+431.82	28.344	Vapor-Liquid	4
+434.27	30.733	Vapor-Liquid	3
+434.56	31.192	Vapor-Liquid	1
+435.73	33.197	Vapor-Liquid	4
+439.06	37.410	Vapor-Liquid	4
+439.31	36.788	Vapor-Liquid	3
+440.43	38.427	Vapor-Liquid	1
+444.36	44.556	Vapor-Liquid	4
+444.56	44.142	Vapor-Liquid	3
+446.53	47.439	Vapor-Liquid	1
+447.94	50.996	Vapor-Liquid	4
+450.31	53.546	Vapor-Liquid	3
+451.06	57.742	Vapor-Liquid	4
+452.54	57.953	Vapor-Liquid	1
+453.38	61.995	Vapor-Liquid	4
+455.25	62.918	Vapor-Liquid	3
+455.70	64.261	Vapor-Liquid	6
+457.66	72.021	Vapor-Liquid	4
+458.00	68.661	Vapor-Liquid	6
+458.40	70.024	Vapor-Liquid	1
+459.35	71.727	Vapor-Liquid	6
+460.51	74.338	Vapor-Liquid	3
+460.60	74.261	Vapor-Liquid	6
+460.65	74.394	Vapor-Liquid	6
+461.35	75.727	Vapor-Liquid	6
+462.00	77.327	Vapor-Liquid	6
+462.05	77.460	Vapor-Liquid	6
+462.10	77.460	Vapor-Liquid	6
+462.18	81.993	Vapor-Liquid	4
+462.20	77.594	Vapor-Liquid	6
+462.30	77.994	Vapor-Liquid	6
+462.45	78.394	Vapor-Liquid	6
+462.55	78.394	Vapor-Liquid	6
+463.00	79.727	Vapor-Liquid	6
+463.10	79.727	Vapor-Liquid	6
+463.10	79.993	Vapor-Liquid	6
+463.65	81.327	Vapor-Liquid	6
+464.00	82.393	Vapor-Liquid	6
+464.47	84.612	Vapor-Liquid	1
+464.85	84.260	Vapor-Liquid	6
+464.90	84.526	Vapor-Liquid	6
+465.06	87.219	Vapor-Liquid	4
+466.13	88.398	Vapor-Liquid	3
+466.45	89.593	Vapor-Liquid	6
+467.03	92.232	Vapor-Liquid	4
+467.55	91.993	Vapor-Liquid	6
+467.65	92.259	Vapor-Liquid	6
+467.75	92.526	Vapor-Liquid	6
+467.85	92.926	Vapor-Liquid	6
+467.95	93.059	Vapor-Liquid	6
+468.05	93.326	Vapor-Liquid	6
+468.10	93.459	Vapor-Liquid	6
+468.10	93.592	Vapor-Liquid	6
+468.15	93.592	Vapor-Liquid	6
+468.20	93.659	Vapor-Liquid	6
+468.35	94.392	Vapor-Liquid	6
+468.45	94.392	Vapor-Liquid	6
+468.55	94.659	Vapor-Liquid	6
+468.60	94.726	Vapor-Liquid	6
+468.65	94.926	Vapor-Liquid	6
+468.80	96.725	Vapor-Liquid	4
+468.90	95.725	Vapor-Liquid	6
+468.95	96.125	Vapor-Liquid	6
+469.40	97.192	Vapor-Liquid	6
+469.65	97.992	Vapor-Liquid	6
+469.85	98.659	Vapor-Liquid	6
+470.44	101.352	Vapor-Liquid	4
+470.45	100.525	Vapor-Liquid	6
+470.45	101.325	Vapor-Liquid	5
+470.65	101.325	Vapor-Liquid	6
+470.85	101.829	Vapor-Liquid	3
+470.85	102.507	Vapor-Liquid	1
+471.40	103.458	Vapor-Liquid	6
+471.75	104.525	Vapor-Liquid	6
+472.65	107.591	Vapor-Liquid	6
+472.80	107.724	Vapor-Liquid	6
+473.35	110.124	Vapor-Liquid	6
+476.28	119.270	Vapor-Liquid	3
+480.77	135.464	Vapor-Liquid	3
+486.08	156.959	Vapor-Liquid	3
+491.14	179.863	Vapor-Liquid	3
+495.44	201.399	Vapor-Liquid	3
+Number	Source
+1	Markovnik V.S.; Sachek A.I.; Peshchenko A.D.; Shvaro O.V.; Andreevskii D.N.: Dampfdruck von einigen Glykolen. Termodin.Organic.Soedin.  (1981) 54-57
+2	Grenier-Loustalot M.F.; Potin-Gautier M.; Grenier P.: Applications analytiques de la mesure des tensions de vapeur par saturation d'un gaz inerte cas des alcanes normaux et des polyethyleneglycols. Anal.Lett. 14 (1981) 1335-1349
+3	Ambrose D.; Hall D.J.: Thermodynamic properties of organic oxygen compounds L. The vapour pressures of 1,2-ethanediol (ethylene glycol) and bis(2-hydroxyethyl) ether (diethylene glycol). J.Chem.Thermodyn. 13 (1981) 61-66
+4	Hieber W.; Woerner A.: Thermochemische Messungen an komplexbildenden Aminen und Alkoholen.. Z.Elektrochem.Angew.Physik.Chem. 40 (1934) 252-256
+5	Sokolov N.M.; Tsygankova L.N.; Shtrom M.I.; Zhavoronkov N.M.: Separation of a 1,2-Propyleneglycol-Ethyleneglycol Mixture at Different Pressures. Soviet Chem.Ind. 48 (1972) 427-429
+6	Brusset H.; Kaiser L.; Hocquel J.: Etude de Quelques Systemes Binaires du Glycol. Chim.Ind.Genie Chim. 99 (1968) 207-219

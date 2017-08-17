@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-282.35	2.3300	GLCR	1	
-282.55	2.3200	GLCR	1	
-292.85	2.1800	GLCR	1	
-Short Term	Explanation	
-GLCR	GLC (with gas phase correction)	
-1	Vernier P.: Application de la chromatographie gaz liquide à l'étude thermodynamique de la sélectivité des mélanges de solvants. Thesis  (1968)	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+282.35	2.3300	GLCR	1
+282.55	2.3200	GLCR	1
+292.85	2.1800	GLCR	1
+Short Term	Explanation
+GLCR	GLC (with gas phase correction)
+1	Vernier P.: Application de la chromatographie gaz liquide à l'étude thermodynamique de la sélectivité des mélanges de solvants. Thesis  (1968)

@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	592-41-6	1-Hexene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-288.15	7.3000	GLCN	1	
-293.15	8.0000	DILU	2	
-298.15	6.7000	GLCN	1	
-Short Term	Explanation	
-DILU	dilutor	
-GLCN	GLC (not specified)	
-1	Masalscky T.; Popescu R.: Utilizarea coeficientilor de activitate la dilute infinita in studiul separarii hidrocarburilor olefinice si diolefinice. Rev.Chim. (Bucharest) 27 (1976) 292-295	
-2	Hradetzky G.; Wobst M.; Vopel H.; Bittrich H.J.: Measurement of Activity Coefficients in Highly Dilute Solutions Part I. Fluid Phase Equilib. 54 (1990) 133-145	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	592-41-6	1-Hexene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+288.15	7.3000	GLCN	1
+293.15	8.0000	DILU	2
+298.15	6.7000	GLCN	1
+Short Term	Explanation
+DILU	dilutor
+GLCN	GLC (not specified)
+1	Masalscky T.; Popescu R.: Utilizarea coeficientilor de activitate la dilute infinita in studiul separarii hidrocarburilor olefinice si diolefinice. Rev.Chim. (Bucharest) 27 (1976) 292-295
+2	Hradetzky G.; Wobst M.; Vopel H.; Bittrich H.J.: Measurement of Activity Coefficients in Highly Dilute Solutions Part I. Fluid Phase Equilib. 54 (1990) 133-145

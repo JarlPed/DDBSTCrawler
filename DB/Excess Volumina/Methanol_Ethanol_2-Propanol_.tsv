@@ -1,23 +1,23 @@
-$$$Excess Volume Data Set 5019	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
--0.018513	0.30827	0.23523	
--0.015793	0.29520	0.41585	
--0.010586	0.25374	0.59086	
--0.02537	0.52722	0.18495	
--0.02731	0.51472	0.28521	
--0.02125	0.50752	0.36366	
--0.038895	0.70368	0.16354	
--0.020733	0.42021	0.30661	
--0.05632	0.39977	0.30015	
--0.002296	0.16481	0.07875	
-0.015808	0.20195	0.71051	
-0.02819	0.83347	0.10357	
-Source	
-Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340	
-Source	
-Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340	
+$$$Excess Volume Data Set 5019
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O	46.069	64-17-5	Ethanol
+3	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]
+-0.018513	0.30827	0.23523
+-0.015793	0.29520	0.41585
+-0.010586	0.25374	0.59086
+-0.02537	0.52722	0.18495
+-0.02731	0.51472	0.28521
+-0.02125	0.50752	0.36366
+-0.038895	0.70368	0.16354
+-0.020733	0.42021	0.30661
+-0.05632	0.39977	0.30015
+-0.002296	0.16481	0.07875
+0.015808	0.20195	0.71051
+0.02819	0.83347	0.10357
+Source
+Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340
+Source
+Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340

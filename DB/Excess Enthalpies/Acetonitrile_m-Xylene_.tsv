@@ -1,48 +1,48 @@
-$$$Enthalpy of Mixing Data Set 948	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-310.240	0.17000	
-494.040	0.33800	
-621.740	0.48000	
-669.050	0.57400	
-673.240	0.60800	
-665.700	0.65700	
-656.490	0.68200	
-650.210	0.68800	
-636.390	0.70800	
-632.210	0.71700	
-611.270	0.73300	
-581.970	0.75800	
-532.980	0.79200	
-434.590	0.84650	
-316.100	0.89600	
-180.870	0.94070	
-Source	
-Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72	
-$$$Enthalpy of Mixing Data Set 949	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	314.350	K	
-hE [J/mol]	x1 [mol/mol]	
-327.410	0.12500	
-556.840	0.25500	
-697.100	0.37800	
-762.000	0.49000	
-770.370	0.53200	
-768.280	0.57200	
-759.070	0.60900	
-722.220	0.67800	
-709.660	0.69400	
-680.350	0.70600	
-615.040	0.76500	
-530.890	0.82050	
-419.520	0.87100	
-294.750	0.91800	
-Source	
-Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72	
-Source	
-Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72	
+$$$Enthalpy of Mixing Data Set 948
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+310.240	0.17000
+494.040	0.33800
+621.740	0.48000
+669.050	0.57400
+673.240	0.60800
+665.700	0.65700
+656.490	0.68200
+650.210	0.68800
+636.390	0.70800
+632.210	0.71700
+611.270	0.73300
+581.970	0.75800
+532.980	0.79200
+434.590	0.84650
+316.100	0.89600
+180.870	0.94070
+Source
+Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72
+$$$Enthalpy of Mixing Data Set 949
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	314.350	K
+hE [J/mol]	x1 [mol/mol]
+327.410	0.12500
+556.840	0.25500
+697.100	0.37800
+762.000	0.49000
+770.370	0.53200
+768.280	0.57200
+759.070	0.60900
+722.220	0.67800
+709.660	0.69400
+680.350	0.70600
+615.040	0.76500
+530.890	0.82050
+419.520	0.87100
+294.750	0.91800
+Source
+Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72
+Source
+Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72

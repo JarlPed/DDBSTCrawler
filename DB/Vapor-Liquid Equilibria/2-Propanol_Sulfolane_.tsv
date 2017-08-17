@@ -1,44 +1,44 @@
-$$$Vapor-Liquid Equilibrium Data Set 7593	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	303.15	K	
-P [kPa]	x1 [mol/mol]	
-0.009333	0.00000	
-1.6865	0.04900	
-4.137	0.15300	
-5.256	0.22600	
-6.205	0.30400	
-6.435	0.36500	
-7.067	0.54900	
-7.129	0.67200	
-7.211	0.77900	
-7.397	0.90100	
-7.561	0.98300	
-7.685	0.99200	
-7.821	1.00000	
-Source	
-Ashcroft S.J.; Clayton A.D.; Shearn R.B.: Isothermal Vapor-Liquid Equilibria for the Systems Toluene-n-Heptane, Toluene-Propan-2-ol, Toluene-Sulfolane and Propan-2-ol-Sulfolane. J.Chem.Eng.Data 24 (1979) 195-199	
-$$$Vapor-Liquid Equilibrium Data Set 7594	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	313.15	K	
-P [kPa]	x1 [mol/mol]	
-0.010666	0.00000	
-2.636	0.04900	
-6.607	0.15300	
-8.305	0.22600	
-10.251	0.30400	
-10.986	0.36500	
-11.956	0.54900	
-12.326	0.67200	
-12.542	0.77900	
-13.003	0.90100	
-13.550	0.98300	
-13.683	0.99200	
-13.780	1.00000	
-Source	
-Ashcroft S.J.; Clayton A.D.; Shearn R.B.: Isothermal Vapor-Liquid Equilibria for the Systems Toluene-n-Heptane, Toluene-Propan-2-ol, Toluene-Sulfolane and Propan-2-ol-Sulfolane. J.Chem.Eng.Data 24 (1979) 195-199	
-Source	
-Ashcroft S.J.; Clayton A.D.; Shearn R.B.: Isothermal Vapor-Liquid Equilibria for the Systems Toluene-n-Heptane, Toluene-Propan-2-ol, Toluene-Sulfolane and Propan-2-ol-Sulfolane. J.Chem.Eng.Data 24 (1979) 195-199	
+$$$Vapor-Liquid Equilibrium Data Set 7593
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	303.15	K
+P [kPa]	x1 [mol/mol]
+0.009333	0.00000
+1.6865	0.04900
+4.137	0.15300
+5.256	0.22600
+6.205	0.30400
+6.435	0.36500
+7.067	0.54900
+7.129	0.67200
+7.211	0.77900
+7.397	0.90100
+7.561	0.98300
+7.685	0.99200
+7.821	1.00000
+Source
+Ashcroft S.J.; Clayton A.D.; Shearn R.B.: Isothermal Vapor-Liquid Equilibria for the Systems Toluene-n-Heptane, Toluene-Propan-2-ol, Toluene-Sulfolane and Propan-2-ol-Sulfolane. J.Chem.Eng.Data 24 (1979) 195-199
+$$$Vapor-Liquid Equilibrium Data Set 7594
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	313.15	K
+P [kPa]	x1 [mol/mol]
+0.010666	0.00000
+2.636	0.04900
+6.607	0.15300
+8.305	0.22600
+10.251	0.30400
+10.986	0.36500
+11.956	0.54900
+12.326	0.67200
+12.542	0.77900
+13.003	0.90100
+13.550	0.98300
+13.683	0.99200
+13.780	1.00000
+Source
+Ashcroft S.J.; Clayton A.D.; Shearn R.B.: Isothermal Vapor-Liquid Equilibria for the Systems Toluene-n-Heptane, Toluene-Propan-2-ol, Toluene-Sulfolane and Propan-2-ol-Sulfolane. J.Chem.Eng.Data 24 (1979) 195-199
+Source
+Ashcroft S.J.; Clayton A.D.; Shearn R.B.: Isothermal Vapor-Liquid Equilibria for the Systems Toluene-n-Heptane, Toluene-Propan-2-ol, Toluene-Sulfolane and Propan-2-ol-Sulfolane. J.Chem.Eng.Data 24 (1979) 195-199

@@ -1,39 +1,39 @@
-$$$Solid-Liquid Equilibrium Data Set 50982	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-3	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-277.97	0.01915	0.00000	
-277.98	0.01724	0.00192	
-277.97	0.01532	0.00383	
-277.96	0.01341	0.00575	
-277.95	0.01149	0.00766	
-277.95	0.00958	0.00958	
-277.93	0.00766	0.01149	
-277.91	0.00632	0.01283	
-277.89	0.00575	0.01341	
-277.81	0.00383	0.01532	
-277.66	0.00000	0.01915	
-Source	
-Izmailov N.A.; Franke A.K.: III. Interaction of carbonic acids with butanol. Ukr.Khim.Zh.(Russ.Ed.) 22 (1956) 557-566	
-$$$Solid-Liquid Equilibrium Data Set 50983	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-3	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-276.83	0.05534	0.00000	
-276.83	0.04981	0.00553	
-276.87	0.04427	0.01107	
-276.89	0.03874	0.01660	
-276.91	0.03321	0.02214	
-276.92	0.02767	0.02767	
-276.93	0.02214	0.03321	
-276.93	0.01826	0.03708	
-276.92	0.01660	0.03874	
-276.88	0.01107	0.04427	
-276.81	0.00553	0.04981	
-276.75	0.00000	0.05534	
-Source	
-Izmailov N.A.; Franke A.K.: III. Interaction of carbonic acids with butanol. Ukr.Khim.Zh.(Russ.Ed.) 22 (1956) 557-566	
+$$$Solid-Liquid Equilibrium Data Set 50982
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C4H10O	74.123	71-36-3	1-Butanol
+3	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+277.97	0.01915	0.00000
+277.98	0.01724	0.00192
+277.97	0.01532	0.00383
+277.96	0.01341	0.00575
+277.95	0.01149	0.00766
+277.95	0.009580.00958
+277.93	0.00766	0.01149
+277.91	0.00632	0.01283
+277.89	0.00575	0.01341
+277.81	0.00383	0.01532
+277.66	0.00000	0.01915
+Source
+Izmailov N.A.; Franke A.K.: III. Interaction of carbonic acids with butanol. Ukr.Khim.Zh.(Russ.Ed.) 22 (1956) 557-566
+$$$Solid-Liquid Equilibrium Data Set 50983
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C4H10O	74.123	71-36-3	1-Butanol
+3	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+276.83	0.05534	0.00000
+276.83	0.04981	0.00553
+276.87	0.04427	0.01107
+276.89	0.03874	0.01660
+276.91	0.03321	0.02214
+276.92	0.027670.02767
+276.93	0.02214	0.03321
+276.93	0.01826	0.03708
+276.92	0.01660	0.03874
+276.88	0.01107	0.04427
+276.81	0.00553	0.04981
+276.75	0.00000	0.05534
+Source
+Izmailov N.A.; Franke A.K.: III. Interaction of carbonic acids with butanol. Ukr.Khim.Zh.(Russ.Ed.) 22 (1956) 557-566

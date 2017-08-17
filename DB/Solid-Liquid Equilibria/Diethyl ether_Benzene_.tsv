@@ -1,93 +1,93 @@
-$$$Solid-Liquid Equilibrium Data Set 2426	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	
-277.79	0.01186	
-277.04	0.023444	
-277.07	0.023444	
-276.77	0.026713	
-276.14	0.03636	
-275.32	0.04815	
-275.33	0.04815	
-272.85	0.08620	
-270.73	0.11638	
-268.51	0.14951	
-266.45	0.17944	
-264.32	0.21002	
-262.45	0.23588	
-260.31	0.26478	
-258.16	0.29289	
-256.12	0.32049	
-254.31	0.34343	
-252.31	0.36833	
-249.89	0.39189	
-247.19	0.42159	
-245.39	0.44631	
-245.29	0.44631	
-241.89	0.47379	
-239.59	0.49651	
-237.09	0.52132	
-233.89	0.54557	
-231.79	0.57222	
-228.09	0.59594	
-225.59	0.62213	
-222.79	0.64294	
-219.39	0.67068	
-216.79	0.69035	
-211.39	0.72449	
-208.19	0.74448	
-204.19	0.77427	
-200.59	0.79420	
-197.09	0.81087	
-Source	
-Pickering S.U.: A Study of the Properties of some Strong Solutions. J.Chem.Soc.London 63 (1893) 998-1027	
-$$$Solid-Liquid Equilibrium Data Set 39169	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	
-277.83	0.012848	
-277.12	0.023893	
-276.36	0.035555	
-275.67	0.04626	
-274.92	0.05769	
-Source	
-Granzhan V.A.; Laktionova S.K.; Kozlova V.A.; Shuster Ya.A.: The Binary Systems formed by Acetic Acid, Acetic Anhydride, Methyl Acetate, and Methyl Iodide in an Inert Solvent. Viniti  (1977) 1-29	
-$$$Solid-Liquid Equilibrium Data Set 40753	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	
-278.25	0.00000	
-274.85	0.05100	
-273.55	0.07000	
-268.85	0.14900	
-268.35	0.16000	
-261.95	0.25100	
-258.25	0.30600	
-254.55	0.35100	
-250.55	0.39500	
-246.15	0.44900	
-240.15	0.49600	
-236.25	0.55000	
-229.75	0.59600	
-225.15	0.64100	
-220.65	0.69700	
-211.85	0.74500	
-201.45	0.80300	
-198.65	0.82000	
-194.15	0.82300	
-184.65	0.85100	
-179.15	0.87700	
-168.15	0.90400	
-167.15	0.91300	
-157.65	0.92400	
-154.65	0.92700	
-146.65	0.94800	
-146.65	0.94900	
-148.15	0.97100	
-148.65	0.97600	
-149.65	1.00000	
-Source	
-Yamamura S.: Freezing Curves of the Systems Benzene-Ether and Benzene-Acetone. Bull.Chem.Soc.Japan 1 (1926) 183-184	
+$$$Solid-Liquid Equilibrium Data Set 2426
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]
+277.79	0.01186
+277.04	0.023444
+277.07	0.023444
+276.77	0.026713
+276.14	0.03636
+275.32	0.04815
+275.33	0.04815
+272.85	0.08620
+270.73	0.11638
+268.51	0.14951
+266.45	0.17944
+264.32	0.21002
+262.45	0.23588
+260.31	0.26478
+258.16	0.29289
+256.12	0.32049
+254.31	0.34343
+252.31	0.36833
+249.89	0.39189
+247.19	0.42159
+245.39	0.44631
+245.29	0.44631
+241.89	0.47379
+239.59	0.49651
+237.09	0.52132
+233.89	0.54557
+231.79	0.57222
+228.09	0.59594
+225.59	0.62213
+222.79	0.64294
+219.39	0.67068
+216.79	0.69035
+211.39	0.72449
+208.19	0.74448
+204.19	0.77427
+200.59	0.79420
+197.09	0.81087
+Source
+Pickering S.U.: A Study of the Properties of some Strong Solutions. J.Chem.Soc.London 63 (1893) 998-1027
+$$$Solid-Liquid Equilibrium Data Set 39169
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]
+277.83	0.012848
+277.12	0.023893
+276.36	0.035555
+275.67	0.04626
+274.92	0.05769
+Source
+Granzhan V.A.; Laktionova S.K.; Kozlova V.A.; Shuster Ya.A.: The Binary Systems formed by Acetic Acid, Acetic Anhydride, Methyl Acetate, and Methyl Iodide in an Inert Solvent. Viniti  (1977) 1-29
+$$$Solid-Liquid Equilibrium Data Set 40753
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]
+278.25	0.00000
+274.85	0.05100
+273.55	0.07000
+268.85	0.14900
+268.35	0.16000
+261.95	0.25100
+258.25	0.30600
+254.55	0.35100
+250.55	0.39500
+246.15	0.44900
+240.15	0.49600
+236.25	0.55000
+229.75	0.59600
+225.15	0.64100
+220.65	0.69700
+211.85	0.74500
+201.45	0.80300
+198.65	0.82000
+194.15	0.82300
+184.65	0.85100
+179.15	0.87700
+168.15	0.90400
+167.15	0.91300
+157.65	0.92400
+154.65	0.92700
+146.65	0.94800
+146.65	0.94900
+148.15	0.97100
+148.65	0.97600
+149.65	1.00000
+Source
+Yamamura S.: Freezing Curves of the Systems Benzene-Ether and Benzene-Acetone. Bull.Chem.Soc.Japan 1 (1926) 183-184

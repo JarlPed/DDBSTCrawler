@@ -1,13 +1,13 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	6.5000	GLCN	1	
-300.90	6.4100	EBUL	2	
-303.10	6.5100	EBUL	3	
-Short Term	Explanation	
-EBUL	ebulliometry	
-GLCN	GLC (not specified)	
-1	Deal C.H.; Derr E.L.: Selectivity and Solvency in Aromatics Recovery. Ind.Eng.Chem. Process Des.Dev. 3 (1964) 394-399	
-2	Trampe D.M.; Eckert C.A.: Limiting Activity Coefficients from an Improved Differential Boiling Point Technique. J.Chem.Eng.Data 35 (1990) 156-162	
-3	Dallinga L.; Schiller M.; Gmehling J.: Measurement of Activity Coefficients at Infinite Dilution Using Differential Ebulliometry and Non-Steady-State Gas-Liquid. J.Chem.Eng.Data 38 (1993) 147-155	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H14	86.177	110-54-3	Hexane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	6.5000	GLCN	1
+300.90	6.4100	EBUL	2
+303.10	6.5100	EBUL	3
+Short Term	Explanation
+EBUL	ebulliometry
+GLCN	GLC (not specified)
+1	Deal C.H.; Derr E.L.: Selectivity and Solvency in Aromatics Recovery. Ind.Eng.Chem. Process Des.Dev. 3 (1964) 394-399
+2	Trampe D.M.; Eckert C.A.: Limiting Activity Coefficients from an Improved Differential Boiling Point Technique. J.Chem.Eng.Data 35 (1990) 156-162
+3	Dallinga L.; Schiller M.; Gmehling J.: Measurement of Activity Coefficients at Infinite Dilution Using Differential Ebulliometry and Non-Steady-State Gas-Liquid. J.Chem.Eng.Data 38 (1993) 147-155

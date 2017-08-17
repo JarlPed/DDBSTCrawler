@@ -1,98 +1,98 @@
-$$$Vapor-Liquid Equilibrium Data Set 1330	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-390.65	0.00000	0.00000	
-382.15	0.06450	0.52500	
-377.65	0.10000	0.63500	
-373.15	0.13420	0.75000	
-365.15	0.20000	0.85500	
-364.65	0.21000	0.90000	
-356.45	0.29240	0.91500	
-356.15	0.30000	0.88000	
-351.65	0.38150	0.94500	
-350.65	0.40000	0.91500	
-347.15	0.48100	0.94500	
-346.45	0.50000	0.92500	
-343.35	0.59000	0.94500	
-342.95	0.60000	0.94500	
-340.15	0.70000	0.94500	
-339.75	0.71250	0.96500	
-338.15	0.80000	0.98000	
-337.15	0.84750	0.96500	
-336.35	0.90000	0.98000	
-334.35	1.00000	1.00000	
-Source	
-Lepin L.K.; Matseevsky B.I.: Isobaric Binary System n-Butyl alcohol - Chloroform. Zinatniskie Raksti (Riga) 9 (1956) 65-67	
-$$$Vapor-Liquid Equilibrium Data Set 1331	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-388.25	0.01800	0.10000	
-386.95	0.03000	0.16400	
-379.55	0.07640	0.36600	
-372.85	0.13880	0.56800	
-366.55	0.20160	0.69500	
-363.45	0.22720	0.72800	
-362.45	0.24840	0.74800	
-357.95	0.30360	0.80800	
-357.55	0.31560	0.81200	
-355.35	0.34520	0.84000	
-353.15	0.38380	0.85600	
-351.85	0.40600	0.87000	
-350.65	0.42440	0.88200	
-348.25	0.47980	0.89800	
-347.75	0.49400	0.90500	
-346.15	0.53000	0.91900	
-343.95	0.59800	0.93200	
-342.35	0.65240	0.94400	
-340.35	0.72200	0.95500	
-339.45	0.76980	0.96000	
-338.55	0.80840	0.96800	
-337.65	0.85280	0.97400	
-337.05	0.90320	0.98200	
-335.75	0.95360	0.99100	
-Source	
-Rao B.V.S.; Rao C.V.: Isopiestic binary vapour liquid equilibria system chloroform (1) - n-butanol (2). Chem.Eng.Sci. 17 (1962) 574-576	
-$$$Vapor-Liquid Equilibrium Data Set 16242	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Pressure	105.00	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-391.61	0.00000	0.00000	
-390.62	0.00910	0.04490	
-388.96	0.02130	0.12550	
-387.43	0.03570	0.18010	
-383.69	0.06120	0.30660	
-380.17	0.08650	0.39370	
-376.14	0.11950	0.49740	
-370.37	0.17070	0.61710	
-365.64	0.22030	0.68990	
-361.90	0.26440	0.75750	
-357.72	0.32470	0.80650	
-354.43	0.37730	0.84990	
-351.34	0.42780	0.87670	
-349.62	0.46240	0.89090	
-347.67	0.50910	0.91660	
-343.31	0.63860	0.94050	
-341.13	0.69670	0.94610	
-340.09	0.74450	0.94970	
-339.67	0.77980	0.96080	
-339.36	0.79810	0.96330	
-339.09	0.81130	0.96350	
-337.54	0.87550	0.97620	
-336.60	0.94000	0.98930	
-336.34	0.96610	0.98930	
-335.56	0.98040	0.99210	
-335.37	1.00000	1.00000	
-Source	
-Chen G.-H.; Wang Q.; Ma Z.M.; Yan X.-H.; Han S.-J.: Phase Equilibria at Superatmospheric Pressures for Systems Containing Halohydrocarbon, Aromatic Hydrocarbon, and Alcohol. J.Chem.Eng.Data 40 (1995) 361-366	
-Source	
-Lepin L.K.; Matseevsky B.I.: Isobaric Binary System n-Butyl alcohol - Chloroform. Zinatniskie Raksti (Riga) 9 (1956) 65-67	
-Rao B.V.S.; Rao C.V.: Isopiestic binary vapour liquid equilibria system chloroform (1) - n-butanol (2). Chem.Eng.Sci. 17 (1962) 574-576	
-Chen G.-H.; Wang Q.; Ma Z.M.; Yan X.-H.; Han S.-J.: Phase Equilibria at Superatmospheric Pressures for Systems Containing Halohydrocarbon, Aromatic Hydrocarbon, and Alcohol. J.Chem.Eng.Data 40 (1995) 361-366	
+$$$Vapor-Liquid Equilibrium Data Set 1330
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+390.65	0.000000.00000
+382.15	0.06450	0.52500
+377.65	0.10000	0.63500
+373.15	0.13420	0.75000
+365.15	0.20000	0.85500
+364.65	0.21000	0.90000
+356.45	0.29240	0.91500
+356.15	0.30000	0.88000
+351.65	0.38150	0.94500
+350.65	0.40000	0.91500
+347.15	0.48100	0.94500
+346.45	0.50000	0.92500
+343.35	0.59000	0.94500
+342.95	0.60000	0.94500
+340.15	0.70000	0.94500
+339.75	0.71250	0.96500
+338.15	0.80000	0.98000
+337.15	0.84750	0.96500
+336.35	0.90000	0.98000
+334.35	1.000001.00000
+Source
+Lepin L.K.; Matseevsky B.I.: Isobaric Binary System n-Butyl alcohol - Chloroform. Zinatniskie Raksti (Riga) 9 (1956) 65-67
+$$$Vapor-Liquid Equilibrium Data Set 1331
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+388.25	0.01800	0.10000
+386.95	0.03000	0.16400
+379.55	0.07640	0.36600
+372.85	0.13880	0.56800
+366.55	0.20160	0.69500
+363.45	0.22720	0.72800
+362.45	0.24840	0.74800
+357.95	0.30360	0.80800
+357.55	0.31560	0.81200
+355.35	0.34520	0.84000
+353.15	0.38380	0.85600
+351.85	0.40600	0.87000
+350.65	0.42440	0.88200
+348.25	0.47980	0.89800
+347.75	0.49400	0.90500
+346.15	0.53000	0.91900
+343.95	0.59800	0.93200
+342.35	0.65240	0.94400
+340.35	0.72200	0.95500
+339.45	0.76980	0.96000
+338.55	0.80840	0.96800
+337.65	0.85280	0.97400
+337.05	0.90320	0.98200
+335.75	0.95360	0.99100
+Source
+Rao B.V.S.; Rao C.V.: Isopiestic binary vapour liquid equilibria system chloroform (1) - n-butanol (2). Chem.Eng.Sci. 17 (1962) 574-576
+$$$Vapor-Liquid Equilibrium Data Set 16242
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C4H10O	74.123	71-36-3	1-Butanol
+Pressure	105.00	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+391.61	0.000000.00000
+390.62	0.00910	0.04490
+388.96	0.02130	0.12550
+387.43	0.03570	0.18010
+383.69	0.06120	0.30660
+380.17	0.08650	0.39370
+376.14	0.11950	0.49740
+370.37	0.17070	0.61710
+365.64	0.22030	0.68990
+361.90	0.26440	0.75750
+357.72	0.32470	0.80650
+354.43	0.37730	0.84990
+351.34	0.42780	0.87670
+349.62	0.46240	0.89090
+347.67	0.50910	0.91660
+343.31	0.63860	0.94050
+341.13	0.69670	0.94610
+340.09	0.74450	0.94970
+339.67	0.77980	0.96080
+339.36	0.79810	0.96330
+339.09	0.81130	0.96350
+337.54	0.87550	0.97620
+336.60	0.94000	0.98930
+336.34	0.96610	0.98930
+335.56	0.98040	0.99210
+335.37	1.000001.00000
+Source
+Chen G.-H.; Wang Q.; Ma Z.M.; Yan X.-H.; Han S.-J.: Phase Equilibria at Superatmospheric Pressures for Systems Containing Halohydrocarbon, Aromatic Hydrocarbon, and Alcohol. J.Chem.Eng.Data 40 (1995) 361-366
+Source
+Lepin L.K.; Matseevsky B.I.: Isobaric Binary System n-Butyl alcohol - Chloroform. Zinatniskie Raksti (Riga) 9 (1956) 65-67
+Rao B.V.S.; Rao C.V.: Isopiestic binary vapour liquid equilibria system chloroform (1) - n-butanol (2). Chem.Eng.Sci. 17 (1962) 574-576
+Chen G.-H.; Wang Q.; Ma Z.M.; Yan X.-H.; Han S.-J.: Phase Equilibria at Superatmospheric Pressures for Systems Containing Halohydrocarbon, Aromatic Hydrocarbon, and Alcohol. J.Chem.Eng.Data 40 (1995) 361-366

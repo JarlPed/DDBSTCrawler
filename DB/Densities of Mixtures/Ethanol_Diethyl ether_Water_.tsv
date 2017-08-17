@@ -1,29 +1,29 @@
-$$$Density Data Set 31805	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C4H10O	74.123	60-29-7	Diethyl ether	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	293.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9683	0.09313	0.00000	
-0.9596	0.09161	0.020838	
-0.9470	0.13482	0.018484	
-0.9320	0.13045	0.04911	
-0.9007	0.19230	0.07620	
-0.8855	0.39458	0.00000	
-0.8706	0.54117	0.20181	
-0.8462	0.34815	0.11959	
-0.8430	0.41551	0.09602	
-0.8317	0.68070	0.00000	
-0.8160	0.52009	0.13900	
-0.8056	0.34123	0.25745	
-0.8003	0.82112	0.04779	
-0.7946	0.78130	0.09116	
-0.7852	0.71812	0.16826	
-0.7777	0.45273	0.33552	
-0.7670	0.57420	0.33476	
-0.7451	0.30463	0.53517	
-Source	
-Moeller W.P.; Englund S.W.; Tsui T.K.; Othmer D.F.: Compositions of Vapors from Boiling Solutions. Ind.Eng.Chem. 43 (1951) 711-717	
-Source	
-Moeller W.P.; Englund S.W.; Tsui T.K.; Othmer D.F.: Compositions of Vapors from Boiling Solutions. Ind.Eng.Chem. 43 (1951) 711-717	
+$$$Density Data Set 31805
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C4H10O	74.123	60-29-7	Diethyl ether
+3	H2O	18.015	7732-18-5	Water
+Temperature	293.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9683	0.09313	0.00000
+0.9596	0.09161	0.020838
+0.9470	0.13482	0.018484
+0.9320	0.13045	0.04911
+0.9007	0.19230	0.07620
+0.8855	0.39458	0.00000
+0.8706	0.54117	0.20181
+0.8462	0.34815	0.11959
+0.8430	0.41551	0.09602
+0.8317	0.68070	0.00000
+0.8160	0.52009	0.13900
+0.8056	0.34123	0.25745
+0.8003	0.82112	0.04779
+0.7946	0.78130	0.09116
+0.7852	0.71812	0.16826
+0.7777	0.45273	0.33552
+0.7670	0.57420	0.33476
+0.7451	0.30463	0.53517
+Source
+Moeller W.P.; Englund S.W.; Tsui T.K.; Othmer D.F.: Compositions of Vapors from Boiling Solutions. Ind.Eng.Chem. 43 (1951) 711-717
+Source
+Moeller W.P.; Englund S.W.; Tsui T.K.; Othmer D.F.: Compositions of Vapors from Boiling Solutions. Ind.Eng.Chem. 43 (1951) 711-717

@@ -1,72 +1,72 @@
-$$$Vapor-Liquid Equilibrium Data Set 671	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-353.85	0.00000	0.00000	
-352.65	0.10100	0.13100	
-352.05	0.17100	0.21100	
-351.55	0.25600	0.29300	
-350.95	0.34300	0.37600	
-350.65	0.42800	0.44500	
-350.55	0.52500	0.52900	
-350.55	0.57100	0.56400	
-350.75	0.66500	0.64500	
-351.05	0.75900	0.72800	
-351.35	0.81000	0.77700	
-351.75	0.86300	0.83400	
-352.45	0.94500	0.92600	
-353.25	1.00000	1.00000	
-Source	
-Nagata I.: Vapor-Liquid Equilibria for the Ternary System Methyl Acetate-Benzene-Cyclohexane. J.Chem.Eng.Data 7 (1962) 461-466	
-$$$Vapor-Liquid Equilibrium Data Set 672	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Pressure	101.19	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-353.35	0.04500	0.05900	
-353.15	0.06600	0.08400	
-352.65	0.10500	0.12900	
-352.45	0.11800	0.14500	
-351.35	0.25400	0.29000	
-350.65	0.38300	0.40700	
-350.55	0.44900	0.46100	
-350.55	0.50200	0.50200	
-350.55	0.55400	0.54500	
-350.65	0.59700	0.58000	
-350.75	0.62800	0.60500	
-350.75	0.64500	0.62100	
-350.85	0.72000	0.68200	
-350.95	0.73800	0.69800	
-351.15	0.75300	0.71700	
-351.35	0.79800	0.75800	
-351.45	0.83500	0.79800	
-351.85	0.87900	0.84700	
-352.05	0.89300	0.86500	
-352.15	0.91400	0.88900	
-352.35	0.92800	0.90700	
-352.45	0.93700	0.91800	
-352.65	0.96000	0.94800	
-Source	
-Richards A.R.; Hargreaves E.: Vapor-Liquid Equilibria of Close-Boiling Binary Hydrocarbon Mixtures. Ind.Eng.Chem. 36 (1944) 805-808	
-$$$Vapor-Liquid Equilibrium Data Set 673	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	313.14	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-25.990	0.12820	0.16570	
-26.751	0.23540	0.27660	
-27.298	0.36850	0.39120	
-27.480	0.49320	0.49500	
-27.355	0.61430	0.59090	
-26.895	0.74280	0.69790	
-26.003	0.86560	0.82050	
-Source	
-Scatchard G.; Wood S.E.; Mochel J.M.: III. Benzene-Cyclohexane Mixtures. J.Phys.Chem. 43 (1939) 119-130	
-Source	
-Richards A.R.; Hargreaves E.: Vapor-Liquid Equilibria of Close-Boiling Binary Hydrocarbon Mixtures. Ind.Eng.Chem. 36 (1944) 805-808	
-Nagata I.: Vapor-Liquid Equilibria for the Ternary System Methyl Acetate-Benzene-Cyclohexane. J.Chem.Eng.Data 7 (1962) 461-466	
-Scatchard G.; Wood S.E.; Mochel J.M.: III. Benzene-Cyclohexane Mixtures. J.Phys.Chem. 43 (1939) 119-130	
+$$$Vapor-Liquid Equilibrium Data Set 671
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C6H12	84.161	110-82-7	Cyclohexane
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+353.85	0.000000.00000
+352.65	0.10100	0.13100
+352.05	0.17100	0.21100
+351.55	0.25600	0.29300
+350.95	0.34300	0.37600
+350.65	0.42800	0.44500
+350.55	0.52500	0.52900
+350.55	0.57100	0.56400
+350.75	0.66500	0.64500
+351.05	0.75900	0.72800
+351.35	0.81000	0.77700
+351.75	0.86300	0.83400
+352.45	0.94500	0.92600
+353.25	1.000001.00000
+Source
+Nagata I.: Vapor-Liquid Equilibria for the Ternary System Methyl Acetate-Benzene-Cyclohexane. J.Chem.Eng.Data 7 (1962) 461-466
+$$$Vapor-Liquid Equilibrium Data Set 672
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C6H12	84.161	110-82-7	Cyclohexane
+Pressure	101.19	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+353.35	0.04500	0.05900
+353.15	0.06600	0.08400
+352.65	0.10500	0.12900
+352.45	0.11800	0.14500
+351.35	0.25400	0.29000
+350.65	0.38300	0.40700
+350.55	0.44900	0.46100
+350.55	0.502000.50200
+350.55	0.55400	0.54500
+350.65	0.59700	0.58000
+350.75	0.62800	0.60500
+350.75	0.64500	0.62100
+350.85	0.72000	0.68200
+350.95	0.73800	0.69800
+351.15	0.75300	0.71700
+351.35	0.79800	0.75800
+351.45	0.83500	0.79800
+351.85	0.87900	0.84700
+352.05	0.89300	0.86500
+352.15	0.91400	0.88900
+352.35	0.92800	0.90700
+352.45	0.93700	0.91800
+352.65	0.96000	0.94800
+Source
+Richards A.R.; Hargreaves E.: Vapor-Liquid Equilibria of Close-Boiling Binary Hydrocarbon Mixtures. Ind.Eng.Chem. 36 (1944) 805-808
+$$$Vapor-Liquid Equilibrium Data Set 673
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	313.14	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+25.990	0.12820	0.16570
+26.751	0.23540	0.27660
+27.298	0.36850	0.39120
+27.480	0.49320	0.49500
+27.355	0.61430	0.59090
+26.895	0.74280	0.69790
+26.003	0.86560	0.82050
+Source
+Scatchard G.; Wood S.E.; Mochel J.M.: III. Benzene-Cyclohexane Mixtures. J.Phys.Chem. 43 (1939) 119-130
+Source
+Richards A.R.; Hargreaves E.: Vapor-Liquid Equilibria of Close-Boiling Binary Hydrocarbon Mixtures. Ind.Eng.Chem. 36 (1944) 805-808
+Nagata I.: Vapor-Liquid Equilibria for the Ternary System Methyl Acetate-Benzene-Cyclohexane. J.Chem.Eng.Data 7 (1962) 461-466
+Scatchard G.; Wood S.E.; Mochel J.M.: III. Benzene-Cyclohexane Mixtures. J.Phys.Chem. 43 (1939) 119-130

@@ -1,75 +1,75 @@
-$$$Enthalpy of Mixing Data Set 916	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-374.300	0.05060	
-641.836	0.09090	
-792.142	0.12190	
-978.874	0.16740	
-1165.600	0.21810	
-1290.790	0.26300	
-1384.570	0.31040	
-1467.890	0.36490	
-1525.250	0.42440	
-1548.280	0.48780	
-1535.720	0.51470	
-1512.270	0.54120	
-1483.800	0.57070	
-1438.170	0.60350	
-1377.460	0.64040	
-1293.720	0.68220	
-1176.490	0.72600	
-1013.210	0.78420	
-836.104	0.83410	
-707.150	0.86150	
-523.350	0.90630	
-260.837	0.95590	
-Source	
-Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)	
-$$$Enthalpy of Mixing Data Set 917	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	293.150	K	
-hE [J/mol]	x1 [mol/mol]	
-413.660	0.05600	
-800.770	0.13100	
-1086.930	0.21200	
-1278.770	0.29600	
-1378.590	0.37600	
-1419.410	0.46700	
-1427.910	0.54000	
-1355.020	0.61300	
-1185.030	0.71000	
-869.680	0.81800	
-396.030	0.93100	
-Source	
-Vierk A.-L.: Wasser-Acetonitril, Wasser-Dioxan, Äthanol-Acetonitril und Cyclohexan-Dioxan. Z.Anorg.Allg.Chem. 261 (1950) 283-296	
-$$$Enthalpy of Mixing Data Set 5039	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-178.600	0.02300	
-488.400	0.06830	
-841.200	0.13360	
-1184.300	0.22530	
-1405.500	0.32630	
-1500.600	0.42880	
-1509.000	0.47110	
-1498.100	0.50620	
-1463.700	0.56030	
-1348.800	0.64410	
-1158.200	0.73010	
-884.800	0.81800	
-477.000	0.91520	
-248.600	0.95850	
-Source	
-Nagata I.; Tamura K.: Excess Enthalpies of Binary and Ternary Mixtures of Acetonitrile with Methanol, Ethanol and Benzene. Fluid Phase Equilib. 24 (1985) 289-306	
-Source	
-Vierk A.-L.: Wasser-Acetonitril, Wasser-Dioxan, Äthanol-Acetonitril und Cyclohexan-Dioxan. Z.Anorg.Allg.Chem. 261 (1950) 283-296	
-Nagata I.; Tamura K.: Excess Enthalpies of Binary and Ternary Mixtures of Acetonitrile with Methanol, Ethanol and Benzene. Fluid Phase Equilib. 24 (1985) 289-306	
-Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)	
+$$$Enthalpy of Mixing Data Set 916
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+374.300	0.05060
+641.836	0.09090
+792.142	0.12190
+978.874	0.16740
+1165.600	0.21810
+1290.790	0.26300
+1384.570	0.31040
+1467.890	0.36490
+1525.250	0.42440
+1548.280	0.48780
+1535.720	0.51470
+1512.270	0.54120
+1483.800	0.57070
+1438.170	0.60350
+1377.460	0.64040
+1293.720	0.68220
+1176.490	0.72600
+1013.210	0.78420
+836.104	0.83410
+707.150	0.86150
+523.350	0.90630
+260.837	0.95590
+Source
+Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)
+$$$Enthalpy of Mixing Data Set 917
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	293.150	K
+hE [J/mol]	x1 [mol/mol]
+413.660	0.05600
+800.770	0.13100
+1086.930	0.21200
+1278.770	0.29600
+1378.590	0.37600
+1419.410	0.46700
+1427.910	0.54000
+1355.020	0.61300
+1185.030	0.71000
+869.680	0.81800
+396.030	0.93100
+Source
+Vierk A.-L.: Wasser-Acetonitril, Wasser-Dioxan, Äthanol-Acetonitril und Cyclohexan-Dioxan. Z.Anorg.Allg.Chem. 261 (1950) 283-296
+$$$Enthalpy of Mixing Data Set 5039
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+178.600	0.02300
+488.400	0.06830
+841.200	0.13360
+1184.300	0.22530
+1405.500	0.32630
+1500.600	0.42880
+1509.000	0.47110
+1498.100	0.50620
+1463.700	0.56030
+1348.800	0.64410
+1158.200	0.73010
+884.800	0.81800
+477.000	0.91520
+248.600	0.95850
+Source
+Nagata I.; Tamura K.: Excess Enthalpies of Binary and Ternary Mixtures of Acetonitrile with Methanol, Ethanol and Benzene. Fluid Phase Equilib. 24 (1985) 289-306
+Source
+Vierk A.-L.: Wasser-Acetonitril, Wasser-Dioxan, Äthanol-Acetonitril und Cyclohexan-Dioxan. Z.Anorg.Allg.Chem. 261 (1950) 283-296
+Nagata I.; Tamura K.: Excess Enthalpies of Binary and Ternary Mixtures of Acetonitrile with Methanol, Ethanol and Benzene. Fluid Phase Equilib. 24 (1985) 289-306
+Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)

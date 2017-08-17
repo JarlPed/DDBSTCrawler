@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H6	54.092	106-99-0	1,3-Butadiene	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-250.01	3.0000	DILU	1	
-270.04	2.9000	DILU	1	
-290.01	2.9000	DILU	1	
-Short Term	Explanation	
-DILU	dilutor	
-1	Miyano Y.: Henry's Constants and Infinite Dilution Activity Coefficients of Propane, Propene, Butane, Isobutane, 1-Butene, Isobutene, trans-2-Butene, and 1,3-Butadiene in 1-Butanol and 2-Butanol from (250 to 330) K. J.Chem.Eng.Data 49 (2004) 1285-1289	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H6	54.092	106-99-0	1,3-Butadiene
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+250.01	3.0000	DILU	1
+270.04	2.9000	DILU	1
+290.01	2.9000	DILU	1
+Short Term	Explanation
+DILU	dilutor
+1	Miyano Y.: Henry's Constants and Infinite Dilution Activity Coefficients of Propane, Propene, Butane, Isobutane, 1-Butene, Isobutene, trans-2-Butene, and 1,3-Butadiene in 1-Butanol and 2-Butanol from (250 to 330) K. J.Chem.Eng.Data 49 (2004) 1285-1289

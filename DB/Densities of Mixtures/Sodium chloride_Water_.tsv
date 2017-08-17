@@ -1,42 +1,42 @@
-$$$Density Data Set 21546	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	
-1.0052	0.00359	
-1.0131	0.007154	
-1.0209	0.010693	
-1.0286	0.014207	
-1.0362	0.017696	
-Source	
-Rodriguez H.; Soto A.; Arce A.; Khoshkbarchi M.K.: Apparent Molar Volume, Isentropic Compressibility, Refractive Index, and Viscosity of DL-Alanine in Aqueous NaCl Solutions. J.Solution Chem. 32 (2003) 53-63	
-$$$Density Data Set 21975	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	H2O	18.015	7732-18-5	Water	
-x	0.00894	mol/mol	
-Density [g/cm3]	T [K]	
-1.0206	283.150	
-1.0171	298.130	
-1.0106	313.150	
-1.0019	333.150	
-0.9900	353.150	
-Source	
-Kiepe J.; de Araujo Rodrigues A.K.; Horstmann S.; Gmehling J.: Experimental Determination and Correlation of Liquid Density Data of Electrolyte Mixtures Containing Water or Methanol. Ind.Eng.Chem.Res. 42 (2003) 2022-2029	
-$$$Density Data Set 21976	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	H2O	18.015	7732-18-5	Water	
-x	0.01775	mol/mol	
-Density [g/cm3]	T [K]	
-1.0405	283.150	
-1.0363	298.140	
-1.0304	313.160	
-1.0206	333.150	
-1.0087	353.150	
-Source	
-Kiepe J.; de Araujo Rodrigues A.K.; Horstmann S.; Gmehling J.: Experimental Determination and Correlation of Liquid Density Data of Electrolyte Mixtures Containing Water or Methanol. Ind.Eng.Chem.Res. 42 (2003) 2022-2029	
-Source	
-Kiepe J.; de Araujo Rodrigues A.K.; Horstmann S.; Gmehling J.: Experimental Determination and Correlation of Liquid Density Data of Electrolyte Mixtures Containing Water or Methanol. Ind.Eng.Chem.Res. 42 (2003) 2022-2029	
-Rodriguez H.; Soto A.; Arce A.; Khoshkbarchi M.K.: Apparent Molar Volume, Isentropic Compressibility, Refractive Index, and Viscosity of DL-Alanine in Aqueous NaCl Solutions. J.Solution Chem. 32 (2003) 53-63	
+$$$Density Data Set 21546
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]
+1.0052	0.00359
+1.0131	0.007154
+1.0209	0.010693
+1.0286	0.014207
+1.0362	0.017696
+Source
+Rodriguez H.; Soto A.; Arce A.; Khoshkbarchi M.K.: Apparent Molar Volume, Isentropic Compressibility, Refractive Index, and Viscosity of DL-Alanine in Aqueous NaCl Solutions. J.Solution Chem. 32 (2003) 53-63
+$$$Density Data Set 21975
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	H2O	18.015	7732-18-5	Water
+x	0.00894	mol/mol
+Density [g/cm3]	T [K]
+1.0206	283.150
+1.0171	298.130
+1.0106	313.150
+1.0019	333.150
+0.9900	353.150
+Source
+Kiepe J.; de Araujo Rodrigues A.K.; Horstmann S.; Gmehling J.: Experimental Determination and Correlation of Liquid Density Data of Electrolyte Mixtures Containing Water or Methanol. Ind.Eng.Chem.Res. 42 (2003) 2022-2029
+$$$Density Data Set 21976
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	H2O	18.015	7732-18-5	Water
+x	0.01775	mol/mol
+Density [g/cm3]	T [K]
+1.0405	283.150
+1.0363	298.140
+1.0304	313.160
+1.0206	333.150
+1.0087	353.150
+Source
+Kiepe J.; de Araujo Rodrigues A.K.; Horstmann S.; Gmehling J.: Experimental Determination and Correlation of Liquid Density Data of Electrolyte Mixtures Containing Water or Methanol. Ind.Eng.Chem.Res. 42 (2003) 2022-2029
+Source
+Kiepe J.; de Araujo Rodrigues A.K.; Horstmann S.; Gmehling J.: Experimental Determination and Correlation of Liquid Density Data of Electrolyte Mixtures Containing Water or Methanol. Ind.Eng.Chem.Res. 42 (2003) 2022-2029
+Rodriguez H.; Soto A.; Arce A.; Khoshkbarchi M.K.: Apparent Molar Volume, Isentropic Compressibility, Refractive Index, and Viscosity of DL-Alanine in Aqueous NaCl Solutions. J.Solution Chem. 32 (2003) 53-63

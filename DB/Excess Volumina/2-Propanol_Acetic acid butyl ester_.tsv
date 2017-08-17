@@ -1,45 +1,45 @@
-$$$Excess Volume Data Set 7377	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C3H8O	60.096	67-63-0	Acetic acid butyl ester	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0600	0.03780	
-0.1640	0.11970	
-0.2340	0.18870	
-0.2600	0.22620	
-0.2970	0.30210	
-0.3360	0.35740	
-0.3510	0.42310	
-0.3710	0.47600	
-0.3710	0.53180	
-0.3620	0.59800	
-0.3210	0.70170	
-0.3000	0.74210	
-0.2450	0.80040	
-0.2210	0.83720	
-0.1480	0.88690	
-0.0930	0.93720	
-Source	
-Gonzalez E.; Ortega J.: Vapor-Liquid Equilibria at 101.32 kPA Mixtures of Butyl Esters and Propan-2-ol. J.Chem.Eng.Japan 29 (1996) 294-299	
-$$$Excess Volume Data Set 11279	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C3H8O	60.096	67-63-0	Acetic acid butyl ester	
-Temperature	303.150	K	
-Pressure	1.010	bar	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.06842	0.11200	
-0.12137	0.17740	
-0.17818	0.23760	
-0.3438	0.43180	
-0.3774	0.48580	
-0.4032	0.54850	
-0.41525	0.66060	
-0.2395	0.87840	
-0.22935	0.91150	
-Source	
-Ramachandran D.; Rambabu K.; Venkateswarlu P.; Mohankrishnan K.; Raman G.K.: Speed of Sound and Viscosities of Butyl Acetate and Substituted Alcohols at 303.15 K. Phys.Chem.Liq. 33 (1996) 1-16	
-Source	
-Gonzalez E.; Ortega J.: Vapor-Liquid Equilibria at 101.32 kPA Mixtures of Butyl Esters and Propan-2-ol. J.Chem.Eng.Japan 29 (1996) 294-299	
-Ramachandran D.; Rambabu K.; Venkateswarlu P.; Mohankrishnan K.; Raman G.K.: Speed of Sound and Viscosities of Butyl Acetate and Substituted Alcohols at 303.15 K. Phys.Chem.Liq. 33 (1996) 1-16	
+$$$Excess Volume Data Set 7377
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C3H8O	60.096	67-63-0	Acetic acid butyl ester
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0600	0.03780
+0.1640	0.11970
+0.2340	0.18870
+0.2600	0.22620
+0.2970	0.30210
+0.3360	0.35740
+0.3510	0.42310
+0.3710	0.47600
+0.3710	0.53180
+0.3620	0.59800
+0.3210	0.70170
+0.3000	0.74210
+0.2450	0.80040
+0.2210	0.83720
+0.1480	0.88690
+0.0930	0.93720
+Source
+Gonzalez E.; Ortega J.: Vapor-Liquid Equilibria at 101.32 kPA Mixtures of Butyl Esters and Propan-2-ol. J.Chem.Eng.Japan 29 (1996) 294-299
+$$$Excess Volume Data Set 11279
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C3H8O	60.096	67-63-0	Acetic acid butyl ester
+Temperature	303.150	K
+Pressure	1.010	bar
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.06842	0.11200
+0.12137	0.17740
+0.17818	0.23760
+0.3438	0.43180
+0.3774	0.48580
+0.4032	0.54850
+0.41525	0.66060
+0.2395	0.87840
+0.22935	0.91150
+Source
+Ramachandran D.; Rambabu K.; Venkateswarlu P.; Mohankrishnan K.; Raman G.K.: Speed of Sound and Viscosities of Butyl Acetate and Substituted Alcohols at 303.15 K. Phys.Chem.Liq. 33 (1996) 1-16
+Source
+Gonzalez E.; Ortega J.: Vapor-Liquid Equilibria at 101.32 kPA Mixtures of Butyl Esters and Propan-2-ol. J.Chem.Eng.Japan 29 (1996) 294-299
+Ramachandran D.; Rambabu K.; Venkateswarlu P.; Mohankrishnan K.; Raman G.K.: Speed of Sound and Viscosities of Butyl Acetate and Substituted Alcohols at 303.15 K. Phys.Chem.Liq. 33 (1996) 1-16

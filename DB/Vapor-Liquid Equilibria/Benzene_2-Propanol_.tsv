@@ -1,63 +1,63 @@
-$$$Vapor-Liquid Equilibrium Data Set 607	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	318.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-21.305	0.03450	0.17480	
-25.235	0.08800	0.33420	
-30.283	0.19270	0.48930	
-33.024	0.29040	0.56220	
-34.577	0.38020	0.60490	
-35.320	0.44960	0.63080	
-35.929	0.52470	0.65370	
-36.293	0.61380	0.67890	
-36.450	0.70400	0.70470	
-36.272	0.79530	0.73370	
-35.214	0.90200	0.79340	
-33.664	0.95280	0.85330	
-Source	
-Brown I.; Fock W.; Smith F.: II. Ethanol and Isopropanol Systems. Aust.J.Chem. 9 (1956) 364-372	
-$$$Vapor-Liquid Equilibrium Data Set 682	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Pressure	66.66	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-342.65	0.03900	0.14800	
-340.25	0.08900	0.26200	
-338.55	0.14200	0.35000	
-337.05	0.19700	0.42400	
-336.05	0.25500	0.46900	
-334.95	0.33500	0.52500	
-334.15	0.41400	0.56300	
-334.05	0.49500	0.60000	
-333.45	0.56600	0.62600	
-333.35	0.64000	0.64700	
-333.25	0.71600	0.67400	
-333.45	0.79700	0.70700	
-336.15	0.94200	0.82800	
-337.85	0.97600	0.89600	
-Source	
-Nagata I.: Vapor-Liquid Equilibrium Data. J.Chem.Eng.Data 10 (1965) 106-111	
-$$$Vapor-Liquid Equilibrium Data Set 683	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-5.866	0.00000	0.00000	
-8.853	0.07600	0.36500	
-11.199	0.16400	0.53000	
-13.306	0.30000	0.63500	
-14.106	0.47900	0.71200	
-14.452	0.63800	0.74500	
-14.532	0.85400	0.79500	
-13.932	0.94100	0.87700	
-12.586	1.00000	1.00000	
-Source	
-Olsen A.L.; Washburn E.R.: The Vapor Pressure of Binary Solutions of Isopropyl Alcohol and Benzene at 25°C. J.Phys.Chem. 41 (1937) 457-462	
-Source	
-Nagata I.: Vapor-Liquid Equilibrium Data. J.Chem.Eng.Data 10 (1965) 106-111	
-Brown I.; Fock W.; Smith F.: II. Ethanol and Isopropanol Systems. Aust.J.Chem. 9 (1956) 364-372	
-Olsen A.L.; Washburn E.R.: The Vapor Pressure of Binary Solutions of Isopropyl Alcohol and Benzene at 25°C. J.Phys.Chem. 41 (1937) 457-462	
+$$$Vapor-Liquid Equilibrium Data Set 607
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	318.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+21.305	0.03450	0.17480
+25.235	0.08800	0.33420
+30.283	0.19270	0.48930
+33.024	0.29040	0.56220
+34.577	0.38020	0.60490
+35.320	0.44960	0.63080
+35.929	0.52470	0.65370
+36.293	0.61380	0.67890
+36.450	0.70400	0.70470
+36.272	0.79530	0.73370
+35.214	0.90200	0.79340
+33.664	0.95280	0.85330
+Source
+Brown I.; Fock W.; Smith F.: II. Ethanol and Isopropanol Systems. Aust.J.Chem. 9 (1956) 364-372
+$$$Vapor-Liquid Equilibrium Data Set 682
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C3H8O	60.096	67-63-0	2-Propanol
+Pressure	66.66	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+342.65	0.03900	0.14800
+340.25	0.08900	0.26200
+338.55	0.14200	0.35000
+337.05	0.19700	0.42400
+336.05	0.25500	0.46900
+334.95	0.33500	0.52500
+334.15	0.41400	0.56300
+334.05	0.49500	0.60000
+333.45	0.56600	0.62600
+333.35	0.64000	0.64700
+333.25	0.71600	0.67400
+333.45	0.79700	0.70700
+336.15	0.94200	0.82800
+337.85	0.97600	0.89600
+Source
+Nagata I.: Vapor-Liquid Equilibrium Data. J.Chem.Eng.Data 10 (1965) 106-111
+$$$Vapor-Liquid Equilibrium Data Set 683
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+5.866	0.000000.00000
+8.853	0.07600	0.36500
+11.199	0.16400	0.53000
+13.306	0.30000	0.63500
+14.106	0.47900	0.71200
+14.452	0.63800	0.74500
+14.532	0.85400	0.79500
+13.932	0.94100	0.87700
+12.586	1.000001.00000
+Source
+Olsen A.L.; Washburn E.R.: The Vapor Pressure of Binary Solutions of Isopropyl Alcohol and Benzene at 25°C. J.Phys.Chem. 41 (1937) 457-462
+Source
+Nagata I.: Vapor-Liquid Equilibrium Data. J.Chem.Eng.Data 10 (1965) 106-111
+Brown I.; Fock W.; Smith F.: II. Ethanol and Isopropanol Systems. Aust.J.Chem. 9 (1956) 364-372
+Olsen A.L.; Washburn E.R.: The Vapor Pressure of Binary Solutions of Isopropyl Alcohol and Benzene at 25°C. J.Phys.Chem. 41 (1937) 457-462

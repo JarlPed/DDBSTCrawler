@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C2H6O	46.069	64-17-5	Acetic acid butyl ester	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.320	n.a.	n.a.	n.a.	Author	3	
-none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1	
-none	n.a.	101.325	n.a.	n.a.	n.a.	Author	2	
-none	zeotropic	
-1	Davies B.; Jenkins J.D.; Jeffreys G.V.: Part I: Vapour Liquid Equilibria of the Quaternary Systems Ethyl Acetate-Ethyl Alcohol-Butyl Acetate-Butyl Alcohol. Trans.Inst.Chem.Engr. 51 (1973) 267-270	
-2	Park W.-K.: Vapor-Liquid Equilibria of Ester-Alcohol Systems (III). Hwahak Konghak 9 (1971) 181-190	
-3	Ortega J.; Pena J.A.; de Alfonso C.: Vapor-Liquid Equilibrium at 101.32 kPa for the Binary Systems CnH2n+1 (OH) (n = 2. 3, 4) + H3CCO2C4H9 and + H7C3CO2C2H5. Rev.Latinoam.Ing.Quim.Quim.Apl. 17 (1987) 195-205	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C2H6O	46.069	64-17-5	Acetic acid butyl ester
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.320	n.a.	n.a.	n.a.	Author	3
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	2
+none	zeotropic
+1	Davies B.; Jenkins J.D.; Jeffreys G.V.: Part I: Vapour Liquid Equilibria of the Quaternary Systems Ethyl Acetate-Ethyl Alcohol-Butyl Acetate-Butyl Alcohol. Trans.Inst.Chem.Engr. 51 (1973) 267-270
+2	Park W.-K.: Vapor-Liquid Equilibria of Ester-Alcohol Systems (III). Hwahak Konghak 9 (1971) 181-190
+3	Ortega J.; Pena J.A.; de Alfonso C.: Vapor-Liquid Equilibrium at 101.32 kPa for the Binary Systems CnH2n+1 (OH) (n = 2. 3, 4) + H3CCO2C4H9 and + H7C3CO2C2H5. Rev.Latinoam.Ing.Quim.Quim.Apl. 17 (1987) 195-205

@@ -1,115 +1,115 @@
-$$$Enthalpy of Mixing Data Set 3072	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.030	K	
-hE [J/mol]	x1 [mol/mol]	
-193.100	0.25310	
-210.800	0.31640	
-222.200	0.41910	
-217.400	0.49700	
-214.500	0.52240	
-198.900	0.59000	
-186.200	0.63860	
-170.900	0.68680	
-136.000	0.76290	
-Source	
-Ahmed A.: Enthalpy of Mixing of n-Hexane and Cyclohexane. J.Chem.Soc.Faraday Trans.1 69 (1973) 387-389	
-$$$Enthalpy of Mixing Data Set 3073	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-55.200	0.09000	
-158.100	0.23000	
-187.900	0.30000	
-208.200	0.39000	
-217.800	0.46000	
-219.100	0.50000	
-188.200	0.67000	
-133.800	0.79000	
-Source	
-Alessi P.; Kikic I.; Longo V.: The Heats of Mixing of Paraffin-Cycloparaffin Systems. Ist.Chim.Appl./Fac.Ing.,Univ.Studi Trieste 49 (1974) 1-10	
-$$$Enthalpy of Mixing Data Set 3074	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-61.000	0.05720	
-81.000	0.07700	
-108.000	0.10910	
-134.000	0.14300	
-168.000	0.19850	
-186.000	0.23890	
-193.000	0.25460	
-199.000	0.27260	
-206.000	0.29920	
-208.000	0.30560	
-214.000	0.33550	
-215.000	0.34190	
-215.000	0.34220	
-218.000	0.35890	
-217.000	0.36120	
-218.000	0.37470	
-219.000	0.37770	
-220.000	0.37850	
-220.000	0.38340	
-219.000	0.38600	
-220.000	0.38730	
-220.000	0.39860	
-221.000	0.40060	
-221.000	0.40930	
-221.000	0.40990	
-221.000	0.41050	
-221.000	0.41630	
-221.000	0.42630	
-221.000	0.42970	
-221.000	0.43130	
-221.000	0.43650	
-221.000	0.44090	
-221.000	0.44800	
-221.000	0.44860	
-220.000	0.45380	
-220.000	0.46600	
-220.000	0.46830	
-219.000	0.47070	
-218.000	0.48430	
-218.000	0.49110	
-217.000	0.49690	
-216.000	0.49880	
-215.000	0.50910	
-214.000	0.51900	
-213.000	0.52080	
-211.000	0.53380	
-211.000	0.53490	
-209.000	0.54380	
-207.000	0.55610	
-205.000	0.56290	
-202.000	0.57770	
-197.000	0.59440	
-197.000	0.59860	
-189.000	0.62360	
-188.000	0.62850	
-182.000	0.64800	
-178.000	0.66110	
-168.000	0.68840	
-162.000	0.70200	
-161.000	0.70600	
-141.000	0.75300	
-137.000	0.76080	
-130.000	0.77630	
-118.000	0.80140	
-95.000	0.84530	
-92.000	0.84920	
-87.000	0.85990	
-48.000	0.92650	
-42.000	0.93580	
-37.000	0.94350	
-Source	
-Arenosa R.L.; Menduina C.; Tardajos G.; Diaz Pena M.: Excess Enthalpies at 298.15 K of Binary Mixtures of Cyclohexane with n-Alkanes. J.Chem.Thermodyn. 11 (1979) 159-166	
-Source	
-Ahmed A.: Enthalpy of Mixing of n-Hexane and Cyclohexane. J.Chem.Soc.Faraday Trans.1 69 (1973) 387-389	
-Alessi P.; Kikic I.; Longo V.: The Heats of Mixing of Paraffin-Cycloparaffin Systems. Ist.Chim.Appl./Fac.Ing.,Univ.Studi Trieste 49 (1974) 1-10	
-Arenosa R.L.; Menduina C.; Tardajos G.; Diaz Pena M.: Excess Enthalpies at 298.15 K of Binary Mixtures of Cyclohexane with n-Alkanes. J.Chem.Thermodyn. 11 (1979) 159-166	
+$$$Enthalpy of Mixing Data Set 3072
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.030	K
+hE [J/mol]	x1 [mol/mol]
+193.100	0.25310
+210.800	0.31640
+222.200	0.41910
+217.400	0.49700
+214.500	0.52240
+198.900	0.59000
+186.200	0.63860
+170.900	0.68680
+136.000	0.76290
+Source
+Ahmed A.: Enthalpy of Mixing of n-Hexane and Cyclohexane. J.Chem.Soc.Faraday Trans.1 69 (1973) 387-389
+$$$Enthalpy of Mixing Data Set 3073
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+55.200	0.09000
+158.100	0.23000
+187.900	0.30000
+208.200	0.39000
+217.800	0.46000
+219.100	0.50000
+188.200	0.67000
+133.800	0.79000
+Source
+Alessi P.; Kikic I.; Longo V.: The Heats of Mixing of Paraffin-Cycloparaffin Systems. Ist.Chim.Appl./Fac.Ing.,Univ.Studi Trieste 49 (1974) 1-10
+$$$Enthalpy of Mixing Data Set 3074
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+61.000	0.05720
+81.000	0.07700
+108.000	0.10910
+134.000	0.14300
+168.000	0.19850
+186.000	0.23890
+193.000	0.25460
+199.000	0.27260
+206.000	0.29920
+208.000	0.30560
+214.000	0.33550
+215.000	0.34190
+215.000	0.34220
+218.000	0.35890
+217.000	0.36120
+218.000	0.37470
+219.000	0.37770
+220.000	0.37850
+220.000	0.38340
+219.000	0.38600
+220.000	0.38730
+220.000	0.39860
+221.000	0.40060
+221.000	0.40930
+221.000	0.40990
+221.000	0.41050
+221.000	0.41630
+221.000	0.42630
+221.000	0.42970
+221.000	0.43130
+221.000	0.43650
+221.000	0.44090
+221.000	0.44800
+221.000	0.44860
+220.000	0.45380
+220.000	0.46600
+220.000	0.46830
+219.000	0.47070
+218.000	0.48430
+218.000	0.49110
+217.000	0.49690
+216.000	0.49880
+215.000	0.50910
+214.000	0.51900
+213.000	0.52080
+211.000	0.53380
+211.000	0.53490
+209.000	0.54380
+207.000	0.55610
+205.000	0.56290
+202.000	0.57770
+197.000	0.59440
+197.000	0.59860
+189.000	0.62360
+188.000	0.62850
+182.000	0.64800
+178.000	0.66110
+168.000	0.68840
+162.000	0.70200
+161.000	0.70600
+141.000	0.75300
+137.000	0.76080
+130.000	0.77630
+118.000	0.80140
+95.000	0.84530
+92.000	0.84920
+87.000	0.85990
+48.000	0.92650
+42.000	0.93580
+37.000	0.94350
+Source
+Arenosa R.L.; Menduina C.; Tardajos G.; Diaz Pena M.: Excess Enthalpies at 298.15 K of Binary Mixtures of Cyclohexane with n-Alkanes. J.Chem.Thermodyn. 11 (1979) 159-166
+Source
+Ahmed A.: Enthalpy of Mixing of n-Hexane and Cyclohexane. J.Chem.Soc.Faraday Trans.1 69 (1973) 387-389
+Alessi P.; Kikic I.; Longo V.: The Heats of Mixing of Paraffin-Cycloparaffin Systems. Ist.Chim.Appl./Fac.Ing.,Univ.Studi Trieste 49 (1974) 1-10
+Arenosa R.L.; Menduina C.; Tardajos G.; Diaz Pena M.: Excess Enthalpies at 298.15 K of Binary Mixtures of Cyclohexane with n-Alkanes. J.Chem.Thermodyn. 11 (1979) 159-166

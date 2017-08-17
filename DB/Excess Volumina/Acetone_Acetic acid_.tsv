@@ -1,49 +1,49 @@
-$$$Excess Volume Data Set 9139	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.3498	0.15150	
--0.4855	0.23320	
--0.6525	0.39190	
--0.6889	0.52050	
--0.6941	0.54380	
--0.6878	0.55420	
--0.6698	0.62290	
--0.5304	0.77360	
--0.2958	0.90180	
-Source	
-Howard K.S.; Pike F.P.: Viscosities and Densities of Acetone-Benzene and Acetone-Acetic Acid Systems up to Their Normal Boiling Points. J.Chem.Eng.Data 4 (1959) 331-333	
-$$$Excess Volume Data Set 9140	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.25494	0.10560	
--0.4949	0.23170	
--0.6497	0.37600	
--0.7112	0.54240	
--0.6663	0.65940	
--0.5990	0.73370	
--0.3574	0.87810	
-Source	
-Howard K.S.; Pike F.P.: Viscosities and Densities of Acetone-Benzene and Acetone-Acetic Acid Systems up to Their Normal Boiling Points. J.Chem.Eng.Data 4 (1959) 331-333	
-$$$Excess Volume Data Set 9141	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	310.950	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.2758	0.10560	
--0.5412	0.23170	
--0.7118	0.37600	
--0.7844	0.54240	
--0.7342	0.65940	
--0.6711	0.73370	
--0.3975	0.87810	
-Source	
-Howard K.S.; Pike F.P.: Viscosities and Densities of Acetone-Benzene and Acetone-Acetic Acid Systems up to Their Normal Boiling Points. J.Chem.Eng.Data 4 (1959) 331-333	
-Source	
-Howard K.S.; Pike F.P.: Viscosities and Densities of Acetone-Benzene and Acetone-Acetic Acid Systems up to Their Normal Boiling Points. J.Chem.Eng.Data 4 (1959) 331-333	
+$$$Excess Volume Data Set 9139
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.3498	0.15150
+-0.4855	0.23320
+-0.6525	0.39190
+-0.6889	0.52050
+-0.6941	0.54380
+-0.6878	0.55420
+-0.6698	0.62290
+-0.5304	0.77360
+-0.2958	0.90180
+Source
+Howard K.S.; Pike F.P.: Viscosities and Densities of Acetone-Benzene and Acetone-Acetic Acid Systems up to Their Normal Boiling Points. J.Chem.Eng.Data 4 (1959) 331-333
+$$$Excess Volume Data Set 9140
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.25494	0.10560
+-0.4949	0.23170
+-0.6497	0.37600
+-0.7112	0.54240
+-0.6663	0.65940
+-0.5990	0.73370
+-0.3574	0.87810
+Source
+Howard K.S.; Pike F.P.: Viscosities and Densities of Acetone-Benzene and Acetone-Acetic Acid Systems up to Their Normal Boiling Points. J.Chem.Eng.Data 4 (1959) 331-333
+$$$Excess Volume Data Set 9141
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	310.950	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.2758	0.10560
+-0.5412	0.23170
+-0.7118	0.37600
+-0.7844	0.54240
+-0.7342	0.65940
+-0.6711	0.73370
+-0.3975	0.87810
+Source
+Howard K.S.; Pike F.P.: Viscosities and Densities of Acetone-Benzene and Acetone-Acetic Acid Systems up to Their Normal Boiling Points. J.Chem.Eng.Data 4 (1959) 331-333
+Source
+Howard K.S.; Pike F.P.: Viscosities and Densities of Acetone-Benzene and Acetone-Acetic Acid Systems up to Their Normal Boiling Points. J.Chem.Eng.Data 4 (1959) 331-333

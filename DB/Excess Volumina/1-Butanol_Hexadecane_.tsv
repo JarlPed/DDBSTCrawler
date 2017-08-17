@@ -1,66 +1,66 @@
-$$$Excess Volume Data Set 1078	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.2200	0.08220	
-0.3130	0.13980	
-0.4000	0.22480	
-0.4710	0.29240	
-0.5060	0.36400	
-0.5200	0.45760	
-0.5130	0.50860	
-0.4960	0.58220	
-0.4780	0.62440	
-0.4400	0.68870	
-0.3550	0.79170	
-0.2280	0.89900	
-0.1710	0.93250	
-Source	
-Banos I.; Sanchez F.; Perez P.; Valero J.; Gracia M.: Description of butan-1-ol + n-alkane systems by ERAS model. Fluid Phase Equilib. 81 (1992) 165-174	
-$$$Excess Volume Data Set 14935	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	303.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.3494	0.04330	
--0.6977	0.09030	
--1.1542	0.14130	
--1.3567	0.19690	
--1.4820	0.25280	
--1.6564	0.32480	
--1.7336	0.39880	
--1.8762	0.48090	
--1.8066	0.57260	
--1.4615	0.67570	
--1.4502	0.79250	
--1.2323	0.92590	
--0.8307	0.96290	
-Source	
-Mehra R.; Israni R.: Effect of temperature on excess molar volumes of binary mixtures of hexadecane and butanol. Indian J.Pure Appl.Phys. 38 (2000) 81-83	
-$$$Excess Volume Data Set 14936	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature	308.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.3110	0.04330	
--0.6815	0.09030	
--0.8858	0.14130	
--1.2094	0.19690	
--1.1300	0.25280	
--1.5993	0.32480	
--1.6942	0.39880	
--1.8492	0.48090	
--1.7960	0.57260	
--1.7430	0.67570	
--1.3792	0.79250	
--1.1743	0.92590	
--0.8223	0.96290	
-Source	
-Mehra R.; Israni R.: Effect of temperature on excess molar volumes of binary mixtures of hexadecane and butanol. Indian J.Pure Appl.Phys. 38 (2000) 81-83	
-Source	
-Banos I.; Sanchez F.; Perez P.; Valero J.; Gracia M.: Description of butan-1-ol + n-alkane systems by ERAS model. Fluid Phase Equilib. 81 (1992) 165-174	
-Mehra R.; Israni R.: Effect of temperature on excess molar volumes of binary mixtures of hexadecane and butanol. Indian J.Pure Appl.Phys. 38 (2000) 81-83	
+$$$Excess Volume Data Set 1078
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.2200	0.08220
+0.3130	0.13980
+0.4000	0.22480
+0.4710	0.29240
+0.5060	0.36400
+0.5200	0.45760
+0.5130	0.50860
+0.4960	0.58220
+0.4780	0.62440
+0.4400	0.68870
+0.3550	0.79170
+0.2280	0.89900
+0.1710	0.93250
+Source
+Banos I.; Sanchez F.; Perez P.; Valero J.; Gracia M.: Description of butan-1-ol + n-alkane systems by ERAS model. Fluid Phase Equilib. 81 (1992) 165-174
+$$$Excess Volume Data Set 14935
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	303.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.3494	0.04330
+-0.6977	0.09030
+-1.1542	0.14130
+-1.3567	0.19690
+-1.4820	0.25280
+-1.6564	0.32480
+-1.7336	0.39880
+-1.8762	0.48090
+-1.8066	0.57260
+-1.4615	0.67570
+-1.4502	0.79250
+-1.2323	0.92590
+-0.8307	0.96290
+Source
+Mehra R.; Israni R.: Effect of temperature on excess molar volumes of binary mixtures of hexadecane and butanol. Indian J.Pure Appl.Phys. 38 (2000) 81-83
+$$$Excess Volume Data Set 14936
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature	308.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.3110	0.04330
+-0.6815	0.09030
+-0.8858	0.14130
+-1.2094	0.19690
+-1.1300	0.25280
+-1.5993	0.32480
+-1.6942	0.39880
+-1.8492	0.48090
+-1.7960	0.57260
+-1.7430	0.67570
+-1.3792	0.79250
+-1.1743	0.92590
+-0.8223	0.96290
+Source
+Mehra R.; Israni R.: Effect of temperature on excess molar volumes of binary mixtures of hexadecane and butanol. Indian J.Pure Appl.Phys. 38 (2000) 81-83
+Source
+Banos I.; Sanchez F.; Perez P.; Valero J.; Gracia M.: Description of butan-1-ol + n-alkane systems by ERAS model. Fluid Phase Equilib. 81 (1992) 165-174
+Mehra R.; Israni R.: Effect of temperature on excess molar volumes of binary mixtures of hexadecane and butanol. Indian J.Pure Appl.Phys. 38 (2000) 81-83

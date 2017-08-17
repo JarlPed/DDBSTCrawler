@@ -1,82 +1,82 @@
-$$$Enthalpy of Mixing Data Set 385	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--434.171	0.11540	
--594.107	0.20410	
--607.086	0.30010	
--349.179	0.47150	
-14.235	0.63450	
-80.387	0.66450	
-314.010	0.80420	
-393.559	0.91410	
-Source	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
-$$$Enthalpy of Mixing Data Set 386	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
--213.527	0.05100	
--414.493	0.11700	
--548.471	0.20800	
--510.790	0.33100	
--213.527	0.49300	
-146.538	0.65000	
-439.614	0.80800	
-439.614	0.80900	
-439.614	0.91900	
-263.768	0.96500	
-Source	
-Moelwyn-Hughes E.A.; Missen R.W.: Thermodynamic Properties of Methyl Alcohol-Chloromethane Solutions. J.Phys.Chem. 61 (1957) 518-521	
-$$$Enthalpy of Mixing Data Set 387	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature	323.150	K	
-hE [J/mol]	x1 [mol/mol]	
--96.800	0.02560	
--194.400	0.05590	
--283.400	0.09300	
--297.400	0.09740	
--364.600	0.13740	
--369.500	0.14470	
--400.300	0.17550	
--407.400	0.20140	
--409.900	0.21750	
--394.800	0.25680	
--369.100	0.28600	
--364.600	0.29210	
--328.900	0.31840	
--316.200	0.32720	
--287.200	0.34560	
--284.300	0.34680	
--255.700	0.36220	
--237.500	0.37400	
--208.500	0.38700	
--189.400	0.39630	
--90.100	0.44310	
--87.900	0.44330	
-31.200	0.49530	
-51.500	0.50530	
-194.300	0.56550	
-241.000	0.59080	
-390.300	0.65630	
-524.500	0.73310	
-587.200	0.78550	
-573.300	0.79090	
-590.900	0.85630	
-523.900	0.91320	
-489.100	0.92240	
-334.000	0.95780	
-186.300	0.97970	
-33.900	0.99670	
-Source	
-Morris J.W.; Mulvey P.J.; Abbott M.M.; van Ness H.C.: I. Acetone-Chloroform-Methanol at 50 °C. J.Chem.Eng.Data 20 (1975) 403-405	
-Source	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
-Moelwyn-Hughes E.A.; Missen R.W.: Thermodynamic Properties of Methyl Alcohol-Chloromethane Solutions. J.Phys.Chem. 61 (1957) 518-521	
-Morris J.W.; Mulvey P.J.; Abbott M.M.; van Ness H.C.: I. Acetone-Chloroform-Methanol at 50 °C. J.Chem.Eng.Data 20 (1975) 403-405	
+$$$Enthalpy of Mixing Data Set 385
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-434.171	0.11540
+-594.107	0.20410
+-607.086	0.30010
+-349.179	0.47150
+14.235	0.63450
+80.387	0.66450
+314.010	0.80420
+393.559	0.91410
+Source
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222
+$$$Enthalpy of Mixing Data Set 386
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+-213.527	0.05100
+-414.493	0.11700
+-548.471	0.20800
+-510.790	0.33100
+-213.527	0.49300
+146.538	0.65000
+439.614	0.80800
+439.614	0.80900
+439.614	0.91900
+263.768	0.96500
+Source
+Moelwyn-Hughes E.A.; Missen R.W.: Thermodynamic Properties of Methyl Alcohol-Chloromethane Solutions. J.Phys.Chem. 61 (1957) 518-521
+$$$Enthalpy of Mixing Data Set 387
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+Temperature	323.150	K
+hE [J/mol]	x1 [mol/mol]
+-96.800	0.02560
+-194.400	0.05590
+-283.400	0.09300
+-297.400	0.09740
+-364.600	0.13740
+-369.500	0.14470
+-400.300	0.17550
+-407.400	0.20140
+-409.900	0.21750
+-394.800	0.25680
+-369.100	0.28600
+-364.600	0.29210
+-328.900	0.31840
+-316.200	0.32720
+-287.200	0.34560
+-284.300	0.34680
+-255.700	0.36220
+-237.500	0.37400
+-208.500	0.38700
+-189.400	0.39630
+-90.100	0.44310
+-87.900	0.44330
+31.200	0.49530
+51.500	0.50530
+194.300	0.56550
+241.000	0.59080
+390.300	0.65630
+524.500	0.73310
+587.200	0.78550
+573.300	0.79090
+590.900	0.85630
+523.900	0.91320
+489.100	0.92240
+334.000	0.95780
+186.300	0.97970
+33.900	0.99670
+Source
+Morris J.W.; Mulvey P.J.; Abbott M.M.; van Ness H.C.: I. Acetone-Chloroform-Methanol at 50 °C. J.Chem.Eng.Data 20 (1975) 403-405
+Source
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222
+Moelwyn-Hughes E.A.; Missen R.W.: Thermodynamic Properties of Methyl Alcohol-Chloromethane Solutions. J.Phys.Chem. 61 (1957) 518-521
+Morris J.W.; Mulvey P.J.; Abbott M.M.; van Ness H.C.: I. Acetone-Chloroform-Methanol at 50 °C. J.Chem.Eng.Data 20 (1975) 403-405

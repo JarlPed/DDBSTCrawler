@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H6	78.114	71-43-2	Benzene	
-3	C6H12	84.161	110-82-7	Cyclohexane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.325	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	318.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	2	
-none	zeotropic	
-1	Rao V.K.K.; Krishnamurty V.V.G.; Rao C.V.: Vapour-Liquid Equilibria: System Acetone 1 Benzene 2 Cyclohexane 3. Recl.Trav.Chim.Pays-Bas 76 (1957) 769-778	
-2	Vitman T.A.; Markova F.P.; Zharov V.T.: Investigation of Liquid-Vapor Equilibrium in the Four Component System Acetone-Benzene-Toluene-Cyclohexane. J.Appl.Chem.USSR 42 (1969) 2218-2221	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H6	78.114	71-43-2	Benzene
+3	C6H12	84.161	110-82-7	Cyclohexane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.325	n.a.	n.a.	n.a.	n.a.	Author	1
+none	318.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	2
+none	zeotropic
+1	Rao V.K.K.; Krishnamurty V.V.G.; Rao C.V.: Vapour-Liquid Equilibria: System Acetone 1 Benzene 2 Cyclohexane 3. Recl.Trav.Chim.Pays-Bas 76 (1957) 769-778
+2	Vitman T.A.; Markova F.P.; Zharov V.T.: Investigation of Liquid-Vapor Equilibrium in the Four Component System Acetone-Benzene-Toluene-Cyclohexane. J.Appl.Chem.USSR 42 (1969) 2218-2221

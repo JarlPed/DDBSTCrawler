@@ -1,29 +1,29 @@
-$$$Excess Volume Data Set 48255	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0180	0.05200	
--0.0300	0.09910	
--0.0420	0.15030	
--0.0510	0.20030	
--0.0620	0.24880	
--0.0670	0.29980	
--0.0710	0.35500	
--0.0730	0.40060	
--0.0750	0.44930	
--0.0740	0.50000	
--0.0700	0.54980	
--0.0650	0.60050	
--0.0600	0.65000	
--0.0510	0.70000	
--0.0450	0.75040	
--0.0360	0.80000	
--0.0290	0.85070	
--0.0200	0.90020	
--0.0110	0.94980	
-Source	
-Ouyang G.; Yang Y.; Lu S.; Huang Z.; Kang B.: Excess Molar Volumes and Surface Tensions of Xylene with Acetone or 2-Butanone at 298.15 K. J.Chem.Eng.Data 49 (2004) 330-332	
-Source	
-Ouyang G.; Yang Y.; Lu S.; Huang Z.; Kang B.: Excess Molar Volumes and Surface Tensions of Xylene with Acetone or 2-Butanone at 298.15 K. J.Chem.Eng.Data 49 (2004) 330-332	
+$$$Excess Volume Data Set 48255
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0180	0.05200
+-0.0300	0.09910
+-0.0420	0.15030
+-0.0510	0.20030
+-0.0620	0.24880
+-0.0670	0.29980
+-0.0710	0.35500
+-0.0730	0.40060
+-0.0750	0.44930
+-0.0740	0.50000
+-0.0700	0.54980
+-0.0650	0.60050
+-0.0600	0.65000
+-0.0510	0.70000
+-0.0450	0.75040
+-0.0360	0.80000
+-0.0290	0.85070
+-0.0200	0.90020
+-0.0110	0.94980
+Source
+Ouyang G.; Yang Y.; Lu S.; Huang Z.; Kang B.: Excess Molar Volumes and Surface Tensions of Xylene with Acetone or 2-Butanone at 298.15 K. J.Chem.Eng.Data 49 (2004) 330-332
+Source
+Ouyang G.; Yang Y.; Lu S.; Huang Z.; Kang B.: Excess Molar Volumes and Surface Tensions of Xylene with Acetone or 2-Butanone at 298.15 K. J.Chem.Eng.Data 49 (2004) 330-332

@@ -1,26 +1,26 @@
-$$$Vapor-Liquid Equilibrium Data Set 21049	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	C2H6O	46.069	64-17-5	Acetic acid butyl ester	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
-345.85	0.20500	0.63600	0.38720	0.56880	
-339.75	0.40000	0.48000	0.57290	0.39520	
-335.75	0.51000	0.39200	0.68980	0.27720	
-332.95	0.77600	0.17900	0.85000	0.13500	
-348.65	0.22600	0.46400	0.36410	0.55090	
-342.65	0.39000	0.36600	0.56660	0.38230	
-337.55	0.57800	0.25300	0.72000	0.26100	
-333.35	0.74800	0.15100	0.85000	0.13200	
-353.05	0.18600	0.32600	0.39200	0.46400	
-343.45	0.34600	0.26200	0.62120	0.30000	
-337.35	0.68000	0.12800	0.80100	0.16100	
-333.55	0.70500	0.11800	0.85100	0.14200	
-361.55	0.15700	0.16900	0.40000	0.35000	
-351.75	0.23600	0.15300	0.52300	0.30200	
-349.35	0.56500	0.08700	0.78000	0.15000	
-335.15	0.80200	0.04000	0.92000	0.05300	
-Source	
-Polyakova L.V.; Komarova L.F.; Kobilyatskaya E.G.; Garber Y.N.: Untersuchung der Phasengleichgewichte in Systemen Aceton-Ethanol-Buthylacetat, Aceton-Wasser-Butylacetat, Ethanol-Wasser-Buthylacetat. Mitteilung 2.. Oniitekhim  (1982) 1-15	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 21049
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H6O	46.069	64-17-5	Ethanol
+3	C2H6O	46.069	64-17-5	Acetic acid butyl ester
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]
+345.85	0.20500	0.63600	0.38720	0.56880
+339.75	0.40000	0.48000	0.57290	0.39520
+335.75	0.51000	0.39200	0.68980	0.27720
+332.95	0.77600	0.17900	0.85000	0.13500
+348.65	0.22600	0.46400	0.36410	0.55090
+342.65	0.39000	0.36600	0.56660	0.38230
+337.55	0.57800	0.25300	0.72000	0.26100
+333.35	0.74800	0.15100	0.85000	0.13200
+353.05	0.18600	0.32600	0.39200	0.46400
+343.45	0.34600	0.26200	0.62120	0.30000
+337.35	0.68000	0.12800	0.80100	0.16100
+333.55	0.70500	0.11800	0.85100	0.14200
+361.55	0.15700	0.16900	0.40000	0.35000
+351.75	0.23600	0.15300	0.52300	0.30200
+349.35	0.56500	0.08700	0.78000	0.15000
+335.15	0.80200	0.04000	0.92000	0.05300
+Source
+Polyakova L.V.; Komarova L.F.; Kobilyatskaya E.G.; Garber Y.N.: Untersuchung der Phasengleichgewichte in Systemen Aceton-Ethanol-Buthylacetat, Aceton-Wasser-Butylacetat, Ethanol-Wasser-Buthylacetat. Mitteilung 2.. Oniitekhim  (1982) 1-15
+Source

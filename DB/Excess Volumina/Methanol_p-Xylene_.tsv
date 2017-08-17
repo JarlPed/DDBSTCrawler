@@ -1,67 +1,67 @@
-$$$Excess Volume Data Set 637	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0022	0.00570	
-0.0053	0.01490	
-0.0096	0.02930	
-0.0157	0.04090	
-0.0177	0.09850	
-0.0160	0.16080	
-0.0128	0.21430	
--0.0031	0.31210	
--0.0144	0.41810	
--0.0306	0.54650	
--0.0390	0.63060	
--0.0453	0.68950	
--0.0487	0.74970	
--0.0462	0.80850	
--0.0428	0.84000	
--0.0367	0.89030	
--0.0248	0.93940	
--0.0210	0.95020	
--0.0168	0.96390	
--0.0128	0.97320	
--0.0097	0.97940	
-Source	
-Letcher T.M.; Prasad A.K.; Mercer-Chalmers J.; Radloff S.E.: Excess molar volumes of ( a xylene + an alkanol) at 298.15 K. J.Chem.Thermodyn. 22 (1990) 1175-1179	
-$$$Excess Volume Data Set 2744	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.0070	0.23100	
--0.0340	0.42000	
--0.0480	0.56500	
--0.0570	0.66600	
--0.0570	0.74600	
--0.0530	0.81700	
--0.0440	0.87400	
--0.0320	0.92100	
--0.0170	0.96400	
-Source	
-Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624	
-$$$Excess Volume Data Set 2770	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.8680	0.25300	
--0.7151	0.43270	
--0.4363	0.56640	
--0.18208	0.67020	
--0.024017	0.75300	
-0.08821	0.82050	
-0.12416	0.87670	
-0.11372	0.92420	
-0.0693	0.96480	
-Source	
-Wanchoo R.K.; Narayan J.: Excess Properties of (Methanol + Toluene or p-Xylene) Binary Liquid Mixture. Phys.Chem.Liq. 25 (1992) 15-26	
-Source	
-Letcher T.M.; Prasad A.K.; Mercer-Chalmers J.; Radloff S.E.: Excess molar volumes of ( a xylene + an alkanol) at 298.15 K. J.Chem.Thermodyn. 22 (1990) 1175-1179	
-Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624	
-Wanchoo R.K.; Narayan J.: Excess Properties of (Methanol + Toluene or p-Xylene) Binary Liquid Mixture. Phys.Chem.Liq. 25 (1992) 15-26	
+$$$Excess Volume Data Set 637
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0022	0.00570
+0.0053	0.01490
+0.0096	0.02930
+0.0157	0.04090
+0.0177	0.09850
+0.0160	0.16080
+0.0128	0.21430
+-0.0031	0.31210
+-0.0144	0.41810
+-0.0306	0.54650
+-0.0390	0.63060
+-0.0453	0.68950
+-0.0487	0.74970
+-0.0462	0.80850
+-0.0428	0.84000
+-0.0367	0.89030
+-0.0248	0.93940
+-0.0210	0.95020
+-0.0168	0.96390
+-0.0128	0.97320
+-0.0097	0.97940
+Source
+Letcher T.M.; Prasad A.K.; Mercer-Chalmers J.; Radloff S.E.: Excess molar volumes of ( a xylene + an alkanol) at 298.15 K. J.Chem.Thermodyn. 22 (1990) 1175-1179
+$$$Excess Volume Data Set 2744
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.0070	0.23100
+-0.0340	0.42000
+-0.0480	0.56500
+-0.0570	0.66600
+-0.0570	0.74600
+-0.0530	0.81700
+-0.0440	0.87400
+-0.0320	0.92100
+-0.0170	0.96400
+Source
+Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624
+$$$Excess Volume Data Set 2770
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.8680	0.25300
+-0.7151	0.43270
+-0.4363	0.56640
+-0.18208	0.67020
+-0.024017	0.75300
+0.08821	0.82050
+0.12416	0.87670
+0.11372	0.92420
+0.0693	0.96480
+Source
+Wanchoo R.K.; Narayan J.: Excess Properties of (Methanol + Toluene or p-Xylene) Binary Liquid Mixture. Phys.Chem.Liq. 25 (1992) 15-26
+Source
+Letcher T.M.; Prasad A.K.; Mercer-Chalmers J.; Radloff S.E.: Excess molar volumes of ( a xylene + an alkanol) at 298.15 K. J.Chem.Thermodyn. 22 (1990) 1175-1179
+Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624
+Wanchoo R.K.; Narayan J.: Excess Properties of (Methanol + Toluene or p-Xylene) Binary Liquid Mixture. Phys.Chem.Liq. 25 (1992) 15-26

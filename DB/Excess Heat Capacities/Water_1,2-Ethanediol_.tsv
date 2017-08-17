@@ -1,69 +1,69 @@
-$$$Excess Heat Capacity Data Set 426	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-1.3310	0.25210	
-1.2904	0.36730	
-1.7477	0.53900	
-2.4441	0.68700	
-2.3387	0.82690	
-3.2929	0.90300	
-1.5822	0.95400	
-0.4809	0.98090	
-0.9582	0.99540	
-Source	
-Manohara Murthy N.; Subrahmanyam S.V.: Behaviour of Excess Heat Capacity of Aqueous Non-Electrolytes. Indian J.Pure Appl.Phys. 15 (1977) 485-489	
-$$$Excess Heat Capacity Data Set 620	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--0.0400	0.04010	
--0.1000	0.09480	
--0.1500	0.14350	
--0.1800	0.22010	
--0.1400	0.30190	
--0.0100	0.38670	
-0.2000	0.47320	
-0.4200	0.53610	
-0.6900	0.60040	
-0.8600	0.64180	
-1.0800	0.69210	
-1.3500	0.74090	
-1.6100	0.78110	
-1.8300	0.81620	
-1.9800	0.85000	
-2.1200	0.88010	
-2.0900	0.89930	
-1.9800	0.92010	
-1.8100	0.93510	
-1.5500	0.94960	
-1.2000	0.96480	
-0.7500	0.97990	
-0.3900	0.98990	
-Source	
-Douheret G.; Pal A.; Hoiland H.; Anowi O.; Davis M.I.: I. Molar volumes, isobaric molar heat capacities, ultrasonic speeds, and isentropic functions. J.Chem.Thermodyn. 23 (1991) 569-580	
-$$$Excess Heat Capacity Data Set 1517	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Temperature	273.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--0.9125	0.27680	
--2.0474	0.46280	
--3.1744	0.59620	
--3.3621	0.69670	
--2.8016	0.77500	
--2.5637	0.84280	
--1.8044	0.88940	
--1.4246	0.93235	
--0.7792	0.96876	
-Source	
-Nan Z.; Liu B.; Tan Z.: Calorimetric investigation of excess molar heat capacities for water + ethylene glycol from T = 273.15 to T = 373.15 K. J.Chem.Thermodyn. 34 (2002) 915-926	
-Source	
-Manohara Murthy N.; Subrahmanyam S.V.: Behaviour of Excess Heat Capacity of Aqueous Non-Electrolytes. Indian J.Pure Appl.Phys. 15 (1977) 485-489	
-Douheret G.; Pal A.; Hoiland H.; Anowi O.; Davis M.I.: I. Molar volumes, isobaric molar heat capacities, ultrasonic speeds, and isentropic functions. J.Chem.Thermodyn. 23 (1991) 569-580	
-Nan Z.; Liu B.; Tan Z.: Calorimetric investigation of excess molar heat capacities for water + ethylene glycol from T = 273.15 to T = 373.15 K. J.Chem.Thermodyn. 34 (2002) 915-926	
+$$$Excess Heat Capacity Data Set 426
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+1.3310	0.25210
+1.2904	0.36730
+1.7477	0.53900
+2.4441	0.68700
+2.3387	0.82690
+3.2929	0.90300
+1.5822	0.95400
+0.4809	0.98090
+0.9582	0.99540
+Source
+Manohara Murthy N.; Subrahmanyam S.V.: Behaviour of Excess Heat Capacity of Aqueous Non-Electrolytes. Indian J.Pure Appl.Phys. 15 (1977) 485-489
+$$$Excess Heat Capacity Data Set 620
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-0.0400	0.04010
+-0.1000	0.09480
+-0.1500	0.14350
+-0.1800	0.22010
+-0.1400	0.30190
+-0.0100	0.38670
+0.2000	0.47320
+0.4200	0.53610
+0.6900	0.60040
+0.8600	0.64180
+1.0800	0.69210
+1.3500	0.74090
+1.6100	0.78110
+1.8300	0.81620
+1.9800	0.85000
+2.1200	0.88010
+2.0900	0.89930
+1.9800	0.92010
+1.8100	0.93510
+1.5500	0.94960
+1.2000	0.96480
+0.7500	0.97990
+0.3900	0.98990
+Source
+Douheret G.; Pal A.; Hoiland H.; Anowi O.; Davis M.I.: I. Molar volumes, isobaric molar heat capacities, ultrasonic speeds, and isentropic functions. J.Chem.Thermodyn. 23 (1991) 569-580
+$$$Excess Heat Capacity Data Set 1517
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Temperature	273.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-0.9125	0.27680
+-2.0474	0.46280
+-3.1744	0.59620
+-3.3621	0.69670
+-2.8016	0.77500
+-2.5637	0.84280
+-1.8044	0.88940
+-1.4246	0.93235
+-0.7792	0.96876
+Source
+Nan Z.; Liu B.; Tan Z.: Calorimetric investigation of excess molar heat capacities for water + ethylene glycol from T = 273.15 to T = 373.15 K. J.Chem.Thermodyn. 34 (2002) 915-926
+Source
+Manohara Murthy N.; Subrahmanyam S.V.: Behaviour of Excess Heat Capacity of Aqueous Non-Electrolytes. Indian J.Pure Appl.Phys. 15 (1977) 485-489
+Douheret G.; Pal A.; Hoiland H.; Anowi O.; Davis M.I.: I. Molar volumes, isobaric molar heat capacities, ultrasonic speeds, and isentropic functions. J.Chem.Thermodyn. 23 (1991) 569-580
+Nan Z.; Liu B.; Tan Z.: Calorimetric investigation of excess molar heat capacities for water + ethylene glycol from T = 273.15 to T = 373.15 K. J.Chem.Thermodyn. 34 (2002) 915-926

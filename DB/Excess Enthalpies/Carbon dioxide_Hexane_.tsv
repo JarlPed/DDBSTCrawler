@@ -1,117 +1,117 @@
-$$$Enthalpy of Mixing Data Set 7801	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	308.150	K	
-Pressure	75.000	bar	
-hE [J/mol]	x1 [mol/mol]	
-9.000	0.04350	
--238.000	0.12450	
--509.000	0.19840	
--655.000	0.26610	
--964.000	0.32840	
--1160.000	0.38590	
--1440.000	0.43910	
--1690.000	0.48840	
--1960.000	0.53440	
--2210.000	0.57730	
--2470.000	0.61730	
--2630.000	0.65490	
--2820.000	0.69020	
--3150.000	0.72340	
--3210.000	0.75470	
--3450.000	0.78420	
--3450.000	0.81220	
--3840.000	0.83870	
--3850.000	0.86380	
--3810.000	0.86380	
--3880.000	0.88760	
--4040.000	0.91030	
--4090.000	0.93190	
--4080.000	0.95250	
--4050.000	0.95250	
--3680.000	0.96240	
--3100.000	0.97210	
--1730.000	0.98160	
--429.000	0.99090	
-Source	
-Christensen J.J.; Walker T.A.C.; Schofield R.S.; Faux P.W.; Harding P.R.; Izatt R.M.: The Excess Enthalpies of (Carbon Dioxide + Hexane) at 308.15, 358.15, and 413.15 K from 7.50 to 12.50 MPa. J.Chem.Thermodyn. 16 (1984) 445-451	
-$$$Enthalpy of Mixing Data Set 7802	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	358.150	K	
-Pressure	75.000	bar	
-hE [J/mol]	x1 [mol/mol]	
--41.000	0.04350	
--367.000	0.12450	
--693.000	0.19840	
--1050.000	0.26610	
--1320.000	0.32840	
--1430.000	0.35770	
--1580.000	0.38590	
--1770.000	0.43910	
--1790.000	0.48840	
--1800.000	0.53440	
--1690.000	0.57720	
--1490.000	0.61730	
--1240.000	0.65490	
--940.000	0.69020	
--679.000	0.72340	
--581.000	0.75470	
--415.000	0.76970	
--295.000	0.78420	
--164.000	0.81220	
-11.000	0.83870	
-218.000	0.85140	
-351.000	0.86380	
-478.000	0.88760	
-600.000	0.91030	
-753.000	0.93190	
-633.000	0.94230	
-428.000	0.95250	
-132.000	0.97210	
-43.000	0.99090	
-Source	
-Christensen J.J.; Walker T.A.C.; Schofield R.S.; Faux P.W.; Harding P.R.; Izatt R.M.: The Excess Enthalpies of (Carbon Dioxide + Hexane) at 308.15, 358.15, and 413.15 K from 7.50 to 12.50 MPa. J.Chem.Thermodyn. 16 (1984) 445-451	
-$$$Enthalpy of Mixing Data Set 7803	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	413.150	K	
-Pressure	75.000	bar	
-hE [J/mol]	x1 [mol/mol]	
--53.000	0.04380	
--169.000	0.08560	
--248.000	0.12540	
--387.000	0.19980	
--521.000	0.26780	
--588.000	0.33030	
--593.000	0.35770	
--583.000	0.38790	
--399.000	0.41500	
--185.000	0.44110	
-113.000	0.49050	
-110.000	0.49050	
-498.000	0.53650	
-880.000	0.57930	
-1080.000	0.61930	
-1340.000	0.65680	
-1550.000	0.69200	
-1830.000	0.72510	
-2020.000	0.75620	
-2280.000	0.78570	
-2200.000	0.79980	
-2310.000	0.81350	
-2160.000	0.83980	
-2040.000	0.86480	
-1700.000	0.88850	
-1330.000	0.91100	
-951.000	0.93240	
-717.000	0.95290	
-330.000	0.97240	
-104.000	0.99100	
-Source	
-Christensen J.J.; Walker T.A.C.; Schofield R.S.; Faux P.W.; Harding P.R.; Izatt R.M.: The Excess Enthalpies of (Carbon Dioxide + Hexane) at 308.15, 358.15, and 413.15 K from 7.50 to 12.50 MPa. J.Chem.Thermodyn. 16 (1984) 445-451	
-Source	
-Christensen J.J.; Walker T.A.C.; Schofield R.S.; Faux P.W.; Harding P.R.; Izatt R.M.: The Excess Enthalpies of (Carbon Dioxide + Hexane) at 308.15, 358.15, and 413.15 K from 7.50 to 12.50 MPa. J.Chem.Thermodyn. 16 (1984) 445-451	
+$$$Enthalpy of Mixing Data Set 7801
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	308.150	K
+Pressure	75.000	bar
+hE [J/mol]	x1 [mol/mol]
+9.000	0.04350
+-238.000	0.12450
+-509.000	0.19840
+-655.000	0.26610
+-964.000	0.32840
+-1160.000	0.38590
+-1440.000	0.43910
+-1690.000	0.48840
+-1960.000	0.53440
+-2210.000	0.57730
+-2470.000	0.61730
+-2630.000	0.65490
+-2820.000	0.69020
+-3150.000	0.72340
+-3210.000	0.75470
+-3450.000	0.78420
+-3450.000	0.81220
+-3840.000	0.83870
+-3850.000	0.86380
+-3810.000	0.86380
+-3880.000	0.88760
+-4040.000	0.91030
+-4090.000	0.93190
+-4080.000	0.95250
+-4050.000	0.95250
+-3680.000	0.96240
+-3100.000	0.97210
+-1730.000	0.98160
+-429.000	0.99090
+Source
+Christensen J.J.; Walker T.A.C.; Schofield R.S.; Faux P.W.; Harding P.R.; Izatt R.M.: The Excess Enthalpies of (Carbon Dioxide + Hexane) at 308.15, 358.15, and 413.15 K from 7.50 to 12.50 MPa. J.Chem.Thermodyn. 16 (1984) 445-451
+$$$Enthalpy of Mixing Data Set 7802
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	358.150	K
+Pressure	75.000	bar
+hE [J/mol]	x1 [mol/mol]
+-41.000	0.04350
+-367.000	0.12450
+-693.000	0.19840
+-1050.000	0.26610
+-1320.000	0.32840
+-1430.000	0.35770
+-1580.000	0.38590
+-1770.000	0.43910
+-1790.000	0.48840
+-1800.000	0.53440
+-1690.000	0.57720
+-1490.000	0.61730
+-1240.000	0.65490
+-940.000	0.69020
+-679.000	0.72340
+-581.000	0.75470
+-415.000	0.76970
+-295.000	0.78420
+-164.000	0.81220
+11.000	0.83870
+218.000	0.85140
+351.000	0.86380
+478.000	0.88760
+600.000	0.91030
+753.000	0.93190
+633.000	0.94230
+428.000	0.95250
+132.000	0.97210
+43.000	0.99090
+Source
+Christensen J.J.; Walker T.A.C.; Schofield R.S.; Faux P.W.; Harding P.R.; Izatt R.M.: The Excess Enthalpies of (Carbon Dioxide + Hexane) at 308.15, 358.15, and 413.15 K from 7.50 to 12.50 MPa. J.Chem.Thermodyn. 16 (1984) 445-451
+$$$Enthalpy of Mixing Data Set 7803
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	413.150	K
+Pressure	75.000	bar
+hE [J/mol]	x1 [mol/mol]
+-53.000	0.04380
+-169.000	0.08560
+-248.000	0.12540
+-387.000	0.19980
+-521.000	0.26780
+-588.000	0.33030
+-593.000	0.35770
+-583.000	0.38790
+-399.000	0.41500
+-185.000	0.44110
+113.000	0.49050
+110.000	0.49050
+498.000	0.53650
+880.000	0.57930
+1080.000	0.61930
+1340.000	0.65680
+1550.000	0.69200
+1830.000	0.72510
+2020.000	0.75620
+2280.000	0.78570
+2200.000	0.79980
+2310.000	0.81350
+2160.000	0.83980
+2040.000	0.86480
+1700.000	0.88850
+1330.000	0.91100
+951.000	0.93240
+717.000	0.95290
+330.000	0.97240
+104.000	0.99100
+Source
+Christensen J.J.; Walker T.A.C.; Schofield R.S.; Faux P.W.; Harding P.R.; Izatt R.M.: The Excess Enthalpies of (Carbon Dioxide + Hexane) at 308.15, 358.15, and 413.15 K from 7.50 to 12.50 MPa. J.Chem.Thermodyn. 16 (1984) 445-451
+Source
+Christensen J.J.; Walker T.A.C.; Schofield R.S.; Faux P.W.; Harding P.R.; Izatt R.M.: The Excess Enthalpies of (Carbon Dioxide + Hexane) at 308.15, 358.15, and 413.15 K from 7.50 to 12.50 MPa. J.Chem.Thermodyn. 16 (1984) 445-451

@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	CH4O	32.042	67-56-1	Methanol	
-3	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.300	n.a.	n.a.	n.a.	Phase equilibrium	Author	3	
-none	n.a.	101.325	n.a.	n.a.	n.a.	Phase equilibrium	Author	2	
-none	298.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	zeotropic	
-1	Hall D.J.; Mash C.J.; Pemberton R.C.: Vapor-Liquid equilibrium for the Systems Water + Methanol, Water, Ethanol, Methano, Ethanol, Water, Methanol Ethanol. Nat.Phys.Lab.Rep.Chem. 95 (1979) 1-13	
-2	Kurihara K.; Nakamichi M.; Kojima K.: Isobaric Vapor-Liquid Equilibria for Methanol + Ethanol + Water and the Three Constituent Binary Systems. J.Chem.Eng.Data 38 (1993) 446-449	
-3	Resa J.M.; Goenaga J.M.; Gonzalez-Olmos R.; Iglesias M.: Measurement and Modeling of Phase Equilibria for Ethanol + Water + Methanol at Isobaric Condition. J.Chem.Eng.Data 51 (2006) 2114-2120	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	CH4O	32.042	67-56-1	Methanol
+3	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.300	n.a.	n.a.	n.a.	Phase equilibrium	Author	3
+none	n.a.	101.325	n.a.	n.a.	n.a.	Phase equilibrium	Author	2
+none	298.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	1
+none	zeotropic
+1	Hall D.J.; Mash C.J.; Pemberton R.C.: Vapor-Liquid equilibrium for the Systems Water + Methanol, Water, Ethanol, Methano, Ethanol, Water, Methanol Ethanol. Nat.Phys.Lab.Rep.Chem. 95 (1979) 1-13
+2	Kurihara K.; Nakamichi M.; Kojima K.: Isobaric Vapor-Liquid Equilibria for Methanol + Ethanol + Water and the Three Constituent Binary Systems. J.Chem.Eng.Data 38 (1993) 446-449
+3	Resa J.M.; Goenaga J.M.; Gonzalez-Olmos R.; Iglesias M.: Measurement and Modeling of Phase Equilibria for Ethanol + Water + Methanol at Isobaric Condition. J.Chem.Eng.Data 51 (2006) 2114-2120

@@ -1,71 +1,71 @@
-$$$Enthalpy of Mixing Data Set 950	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-242.834	0.10220	
-317.359	0.14800	
-454.686	0.23830	
-538.841	0.30370	
-612.529	0.37890	
-665.701	0.46070	
-684.960	0.54470	
-678.680	0.62540	
-633.881	0.70110	
-562.287	0.76740	
-486.506	0.82250	
-401.514	0.86570	
-319.453	0.89990	
-190.081	0.94620	
-Source	
-Absood A.H.; Tutunji M.S.; Hsu K.-Y.; Clever H.L.: The Density and Enthalpy of Mixing of Solutions of Acetonitrile and of Dimethyl Sulfoxide with Several Aromatic Hydrocarbons.. J.Chem.Eng.Data 21 (1976) 304-308	
-$$$Enthalpy of Mixing Data Set 951	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-320.290	0.14600	
-529.630	0.29400	
-644.770	0.42600	
-687.050	0.54200	
-685.800	0.58500	
-677.420	0.62400	
-660.680	0.66200	
-636.390	0.69600	
-628.020	0.70200	
-606.250	0.72650	
-579.870	0.75200	
-532.560	0.78900	
-455.520	0.83600	
-342.480	0.88950	
-210.600	0.93800	
-63.220	0.98180	
-Source	
-Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72	
-$$$Enthalpy of Mixing Data Set 952	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	314.350	K	
-hE [J/mol]	x1 [mol/mol]	
-325.730	0.13500	
-549.310	0.27000	
-679.940	0.39700	
-729.340	0.51500	
-731.850	0.55800	
-724.320	0.59900	
-707.570	0.63800	
-686.640	0.67400	
-673.240	0.69200	
-649.790	0.71300	
-606.250	0.75400	
-522.510	0.81150	
-417.420	0.86450	
-294.330	0.91350	
-Source	
-Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72	
-Source	
-Absood A.H.; Tutunji M.S.; Hsu K.-Y.; Clever H.L.: The Density and Enthalpy of Mixing of Solutions of Acetonitrile and of Dimethyl Sulfoxide with Several Aromatic Hydrocarbons.. J.Chem.Eng.Data 21 (1976) 304-308	
-Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72	
+$$$Enthalpy of Mixing Data Set 950
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+242.834	0.10220
+317.359	0.14800
+454.686	0.23830
+538.841	0.30370
+612.529	0.37890
+665.701	0.46070
+684.960	0.54470
+678.680	0.62540
+633.881	0.70110
+562.287	0.76740
+486.506	0.82250
+401.514	0.86570
+319.453	0.89990
+190.081	0.94620
+Source
+Absood A.H.; Tutunji M.S.; Hsu K.-Y.; Clever H.L.: The Density and Enthalpy of Mixing of Solutions of Acetonitrile and of Dimethyl Sulfoxide with Several Aromatic Hydrocarbons.. J.Chem.Eng.Data 21 (1976) 304-308
+$$$Enthalpy of Mixing Data Set 951
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+320.290	0.14600
+529.630	0.29400
+644.770	0.42600
+687.050	0.54200
+685.800	0.58500
+677.420	0.62400
+660.680	0.66200
+636.390	0.69600
+628.020	0.70200
+606.250	0.72650
+579.870	0.75200
+532.560	0.78900
+455.520	0.83600
+342.480	0.88950
+210.600	0.93800
+63.220	0.98180
+Source
+Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72
+$$$Enthalpy of Mixing Data Set 952
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	314.350	K
+hE [J/mol]	x1 [mol/mol]
+325.730	0.13500
+549.310	0.27000
+679.940	0.39700
+729.340	0.51500
+731.850	0.55800
+724.320	0.59900
+707.570	0.63800
+686.640	0.67400
+673.240	0.69200
+649.790	0.71300
+606.250	0.75400
+522.510	0.81150
+417.420	0.86450
+294.330	0.91350
+Source
+Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72
+Source
+Absood A.H.; Tutunji M.S.; Hsu K.-Y.; Clever H.L.: The Density and Enthalpy of Mixing of Solutions of Acetonitrile and of Dimethyl Sulfoxide with Several Aromatic Hydrocarbons.. J.Chem.Eng.Data 21 (1976) 304-308
+Di Cave S.; de Santis R.; Marrelli L.: Excess Enthalpies for Mixtures of Acetonitrile and Aromatic Hydrocarbons. J.Chem.Eng.Data 25 (1980) 70-72

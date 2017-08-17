@@ -1,60 +1,60 @@
-$$$Excess Volume Data Set 9606	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0250	0.14110	
-0.0550	0.18860	
-0.1670	0.46470	
-0.1740	0.47940	
-0.1740	0.47970	
-0.1900	0.59360	
-0.1760	0.72880	
-0.1350	0.83680	
-0.0750	0.91850	
-0.0670	0.93053	
-Source	
-Delitala C.; Fanni A.M.; Marongiu B.; Porcedda S.: Excess volumes of some binary and ternary liquid mixtures containing butanenitrile, tetrahydrofuran (oxolane), isopropanol (propan-2-ol), and cyclohexane at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 2 (1996) 51-58	
-$$$Excess Volume Data Set 10882	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1060	0.09670	
-0.1770	0.20090	
-0.2210	0.29420	
-0.2560	0.40830	
-0.2650	0.50340	
-0.2620	0.59830	
-0.2360	0.69690	
-0.1520	0.80910	
-0.0930	0.89490	
-Source	
-Salas J.A.; Arancibia E.L.; Katz M.: Excess molar volumes and isothermal vapor-liquid equilibria in the tetrahydrofuran with propan-1-ol and propan-2-ol systems at 298.15 K. Can.J.Chem. 75 (1997) 207-211	
-$$$Excess Volume Data Set 14940	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.01972	0.04380	
-0.05779	0.11170	
-0.1003	0.20500	
-0.14918	0.31370	
-0.1759	0.41210	
-0.19275	0.51180	
-0.19913	0.56150	
-0.1944	0.61800	
-0.18624	0.67340	
-0.17696	0.69430	
-0.14143	0.79600	
--0.00516	0.90350	
-0.04839	0.95280	
-Source	
-Acevedo I.L.; Pedrosa G.C.; Katz M.; Mussari L.; Postigo M.A.: Excess Molar Volumes and Excess Viscosities of the Propan-2-ol + Tetrahydrofuran + 1-Chlorobutane Ternary System at 25°C. J.Solution Chem. 29 (2000) 1237-1254	
-Source	
-Salas J.A.; Arancibia E.L.; Katz M.: Excess molar volumes and isothermal vapor-liquid equilibria in the tetrahydrofuran with propan-1-ol and propan-2-ol systems at 298.15 K. Can.J.Chem. 75 (1997) 207-211	
-Delitala C.; Fanni A.M.; Marongiu B.; Porcedda S.: Excess volumes of some binary and ternary liquid mixtures containing butanenitrile, tetrahydrofuran (oxolane), isopropanol (propan-2-ol), and cyclohexane at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 2 (1996) 51-58	
-Acevedo I.L.; Pedrosa G.C.; Katz M.; Mussari L.; Postigo M.A.: Excess Molar Volumes and Excess Viscosities of the Propan-2-ol + Tetrahydrofuran + 1-Chlorobutane Ternary System at 25°C. J.Solution Chem. 29 (2000) 1237-1254	
+$$$Excess Volume Data Set 9606
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0250	0.14110
+0.0550	0.18860
+0.1670	0.46470
+0.1740	0.47940
+0.1740	0.47970
+0.1900	0.59360
+0.1760	0.72880
+0.1350	0.83680
+0.0750	0.91850
+0.0670	0.93053
+Source
+Delitala C.; Fanni A.M.; Marongiu B.; Porcedda S.: Excess volumes of some binary and ternary liquid mixtures containing butanenitrile, tetrahydrofuran (oxolane), isopropanol (propan-2-ol), and cyclohexane at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 2 (1996) 51-58
+$$$Excess Volume Data Set 10882
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1060	0.09670
+0.1770	0.20090
+0.2210	0.29420
+0.2560	0.40830
+0.2650	0.50340
+0.2620	0.59830
+0.2360	0.69690
+0.1520	0.80910
+0.0930	0.89490
+Source
+Salas J.A.; Arancibia E.L.; Katz M.: Excess molar volumes and isothermal vapor-liquid equilibria in the tetrahydrofuran with propan-1-ol and propan-2-ol systems at 298.15 K. Can.J.Chem. 75 (1997) 207-211
+$$$Excess Volume Data Set 14940
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.01972	0.04380
+0.05779	0.11170
+0.1003	0.20500
+0.14918	0.31370
+0.1759	0.41210
+0.19275	0.51180
+0.19913	0.56150
+0.1944	0.61800
+0.18624	0.67340
+0.17696	0.69430
+0.14143	0.79600
+-0.00516	0.90350
+0.04839	0.95280
+Source
+Acevedo I.L.; Pedrosa G.C.; Katz M.; Mussari L.; Postigo M.A.: Excess Molar Volumes and Excess Viscosities of the Propan-2-ol + Tetrahydrofuran + 1-Chlorobutane Ternary System at 25°C. J.Solution Chem. 29 (2000) 1237-1254
+Source
+Salas J.A.; Arancibia E.L.; Katz M.: Excess molar volumes and isothermal vapor-liquid equilibria in the tetrahydrofuran with propan-1-ol and propan-2-ol systems at 298.15 K. Can.J.Chem. 75 (1997) 207-211
+Delitala C.; Fanni A.M.; Marongiu B.; Porcedda S.: Excess volumes of some binary and ternary liquid mixtures containing butanenitrile, tetrahydrofuran (oxolane), isopropanol (propan-2-ol), and cyclohexane at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 2 (1996) 51-58
+Acevedo I.L.; Pedrosa G.C.; Katz M.; Mussari L.; Postigo M.A.: Excess Molar Volumes and Excess Viscosities of the Propan-2-ol + Tetrahydrofuran + 1-Chlorobutane Ternary System at 25°C. J.Solution Chem. 29 (2000) 1237-1254

@@ -1,13 +1,13 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H6	78.114	71-43-2	Benzene	
-3	C6H12	84.161	110-82-7	Cyclohexane	
-4	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	yaz,4 [mol/mol]	Measurement Method	Evaluation	Source	
-hetPmax	n.a.	101.325	0.25082	0.15716	0.38830	n.a.	n.a.	Author	3	
-hetPmax	n.a.	101.325	0.25446	0.15780	0.38989	n.a.	n.a.	Author	2	
-hetPmax	335.340	101.325	0.22367	0.16299	0.37999	n.a.	Distillation	Author	1	
-hetPmax	heterogeneous pressure maximum	
-1	Zieborak K.: On the Quaternary Azeotropes Formed by Paraffinic and Naphthenic Hydrocarbons with Benzene, Ethanol and Water. Rocz.Chem. 25 (1951) 388-391	
-2	Swietoslawski W.; Galska A.: A Method for Determining the Composition of Quaternary Heteroazeotrope. Bull.Acad.Pol.Sci.Cl.3 2 (1954) 497-500	
-3	Zieborak K.; Galska A.: A Method for Determining the Composition of Quaternary Azeotropes and the Position of Heteroazeotropic Lines. Bull.Acad.Pol.Sci.Cl.3 3 (1955) 383-387	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H6	78.114	71-43-2	Benzene
+3	C6H12	84.161	110-82-7	Cyclohexane
+4	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	yaz,4 [mol/mol]	Measurement Method	Evaluation	Source
+hetPmax	n.a.	101.325	0.25082	0.15716	0.38830	n.a.	n.a.	Author	3
+hetPmax	n.a.	101.325	0.25446	0.15780	0.38989	n.a.	n.a.	Author	2
+hetPmax	335.340	101.325	0.22367	0.16299	0.37999	n.a.	Distillation	Author	1
+hetPmax	heterogeneous pressure maximum
+1	Zieborak K.: On the Quaternary Azeotropes Formed by Paraffinic and Naphthenic Hydrocarbons with Benzene, Ethanol and Water. Rocz.Chem. 25 (1951) 388-391
+2	Swietoslawski W.; Galska A.: A Method for Determining the Composition of Quaternary Heteroazeotrope. Bull.Acad.Pol.Sci.Cl.3 2 (1954) 497-500
+3	Zieborak K.; Galska A.: A Method for Determining the Composition of Quaternary Azeotropes and the Position of Heteroazeotropic Lines. Bull.Acad.Pol.Sci.Cl.3 3 (1955) 383-387

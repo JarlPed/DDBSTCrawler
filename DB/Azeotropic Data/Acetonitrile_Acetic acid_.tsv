@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1	
-none	298.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	2	
-none	318.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	2	
-none	zeotropic	
-1	Mato F.; Sanchez M.: Equilibrio Liquido-Vapor de Mezclas Binarias de Acetonitrilio. II.. Anal.Fis.Quim.Ser.B 63 (1967) 971-980	
-2	Banipal T.S.; Lark B.S.; Singh S.: Excess Gibbs for binary mixtures of acetonitrile with acetic acid, propionic acid, isobutyric acid, and trimethylacetic acid. Can.J.Chem. 69 (1991) 2117-2121	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.325	n.a.	n.a.	n.a.	Author	1
+none	298.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	2
+none	318.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	2
+none	zeotropic
+1	Mato F.; Sanchez M.: Equilibrio Liquido-Vapor de Mezclas Binarias de Acetonitrilio. II.. Anal.Fis.Quim.Ser.B 63 (1967) 971-980
+2	Banipal T.S.; Lark B.S.; Singh S.: Excess Gibbs for binary mixtures of acetonitrile with acetic acid, propionic acid, isobutyric acid, and trimethylacetic acid. Can.J.Chem. 69 (1991) 2117-2121

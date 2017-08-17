@@ -1,60 +1,60 @@
-$$$Enthalpy of Mixing Data Set 392	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	298.000	K	
-hE [J/mol]	x1 [mol/mol]	
--119.500	0.07310	
--162.600	0.09960	
--369.100	0.20510	
--500.600	0.27610	
--689.800	0.38840	
--808.500	0.50070	
--855.000	0.59430	
--809.000	0.69230	
--735.600	0.74440	
--606.400	0.81980	
-Source	
-Handa Y.P.; Jones D.E.: Molar Excess Enthalpies of Acetonitrile + Chloroform and of Acetonitrile + Chloroform-D1 at 298 K. Can.J.Chem. 55 (1977) 2977-2979	
-$$$Enthalpy of Mixing Data Set 393	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--24.800	0.01400	
--79.300	0.04800	
--197.600	0.11600	
--325.100	0.18600	
--438.700	0.24900	
--534.700	0.30500	
--612.800	0.35300	
--683.100	0.40100	
--759.100	0.47700	
--810.300	0.55200	
--821.100	0.62500	
--751.400	0.72300	
--607.300	0.81000	
--365.600	0.90000	
--115.700	0.97200	
-Source	
-Nagata I.; Kawamura Y.: Excess Thermodynamic Functions and Complex Formation in Binary Liquid Mixtures Containing Acetonitrile. Fluid Phase Equilib. 3 (1979) 1-11	
-$$$Enthalpy of Mixing Data Set 6279	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--4.020	0.00270	
--5.790	0.00410	
--7.740	0.00540	
--9.870	0.00680	
--11.890	0.00810	
--14.140	0.00950	
--16.310	0.01090	
-Source	
-Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	
-Source	
-Nagata I.; Kawamura Y.: Excess Thermodynamic Functions and Complex Formation in Binary Liquid Mixtures Containing Acetonitrile. Fluid Phase Equilib. 3 (1979) 1-11	
-Handa Y.P.; Jones D.E.: Molar Excess Enthalpies of Acetonitrile + Chloroform and of Acetonitrile + Chloroform-D1 at 298 K. Can.J.Chem. 55 (1977) 2977-2979	
-Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118	
+$$$Enthalpy of Mixing Data Set 392
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	298.000	K
+hE [J/mol]	x1 [mol/mol]
+-119.500	0.07310
+-162.600	0.09960
+-369.100	0.20510
+-500.600	0.27610
+-689.800	0.38840
+-808.500	0.50070
+-855.000	0.59430
+-809.000	0.69230
+-735.600	0.74440
+-606.400	0.81980
+Source
+Handa Y.P.; Jones D.E.: Molar Excess Enthalpies of Acetonitrile + Chloroform and of Acetonitrile + Chloroform-D1 at 298 K. Can.J.Chem. 55 (1977) 2977-2979
+$$$Enthalpy of Mixing Data Set 393
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-24.800	0.01400
+-79.300	0.04800
+-197.600	0.11600
+-325.100	0.18600
+-438.700	0.24900
+-534.700	0.30500
+-612.800	0.35300
+-683.100	0.40100
+-759.100	0.47700
+-810.300	0.55200
+-821.100	0.62500
+-751.400	0.72300
+-607.300	0.81000
+-365.600	0.90000
+-115.700	0.97200
+Source
+Nagata I.; Kawamura Y.: Excess Thermodynamic Functions and Complex Formation in Binary Liquid Mixtures Containing Acetonitrile. Fluid Phase Equilib. 3 (1979) 1-11
+$$$Enthalpy of Mixing Data Set 6279
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-4.020	0.00270
+-5.790	0.00410
+-7.740	0.00540
+-9.870	0.00680
+-11.890	0.00810
+-14.140	0.00950
+-16.310	0.01090
+Source
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118
+Source
+Nagata I.; Kawamura Y.: Excess Thermodynamic Functions and Complex Formation in Binary Liquid Mixtures Containing Acetonitrile. Fluid Phase Equilib. 3 (1979) 1-11
+Handa Y.P.; Jones D.E.: Molar Excess Enthalpies of Acetonitrile + Chloroform and of Acetonitrile + Chloroform-D1 at 298 K. Can.J.Chem. 55 (1977) 2977-2979
+Trampe D.M.; Eckert C.A.: Calorimetric Measurement of Partial Molar Excess Enthalpies at Infinite Dilution. J.Chem.Eng.Data 36 (1991) 112-118

@@ -1,48 +1,48 @@
-$$$Vapor-Liquid Equilibrium Data Set 12682	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	293.15	K	
-P [kPa]	x1 [mol/mol]	
-9.374	0.00000	
-10.863	0.00650	
-12.966	0.01690	
-14.655	0.02700	
-16.454	0.04020	
-17.726	0.05200	
-18.572	0.06190	
-19.049	0.07300	
-19.050	0.94630	
-19.049	0.95220	
-18.065	0.96740	
-15.533	0.98380	
-10.357	1.00000	
-Source	
-Van Nhu N.; Kohler F.: Excess Properties of Mixtures of Polar Components and Hydrocarbons of Varying Local Polarisability. Fluid Phase Equilib. 50 (1989) 267-296	
-$$$Vapor-Liquid Equilibrium Data Set 12683	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	313.15	K	
-P [kPa]	x1 [mol/mol]	
-22.694	0.00000	
-24.442	0.00410	
-25.513	0.00670	
-28.601	0.01490	
-32.453	0.02680	
-36.839	0.04400	
-40.702	0.06480	
-42.991	0.08360	
-44.369	0.10120	
-44.878	0.13050	
-44.873	0.89540	
-44.876	0.90060	
-44.252	0.92710	
-42.651	0.94140	
-38.293	0.96820	
-31.012	0.98870	
-24.575	1.00000	
-Source	
-Van Nhu N.; Kohler F.: Excess Properties of Mixtures of Polar Components and Hydrocarbons of Varying Local Polarisability. Fluid Phase Equilib. 50 (1989) 267-296	
-Source	
-Van Nhu N.; Kohler F.: Excess Properties of Mixtures of Polar Components and Hydrocarbons of Varying Local Polarisability. Fluid Phase Equilib. 50 (1989) 267-296	
+$$$Vapor-Liquid Equilibrium Data Set 12682
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	293.15	K
+P [kPa]	x1 [mol/mol]
+9.374	0.00000
+10.863	0.00650
+12.966	0.01690
+14.655	0.02700
+16.454	0.04020
+17.726	0.05200
+18.572	0.06190
+19.049	0.07300
+19.050	0.94630
+19.049	0.95220
+18.065	0.96740
+15.533	0.98380
+10.357	1.00000
+Source
+Van Nhu N.; Kohler F.: Excess Properties of Mixtures of Polar Components and Hydrocarbons of Varying Local Polarisability. Fluid Phase Equilib. 50 (1989) 267-296
+$$$Vapor-Liquid Equilibrium Data Set 12683
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	313.15	K
+P [kPa]	x1 [mol/mol]
+22.694	0.00000
+24.442	0.00410
+25.513	0.00670
+28.601	0.01490
+32.453	0.02680
+36.839	0.04400
+40.702	0.06480
+42.991	0.08360
+44.369	0.10120
+44.878	0.13050
+44.873	0.89540
+44.876	0.90060
+44.252	0.92710
+42.651	0.94140
+38.293	0.96820
+31.012	0.98870
+24.575	1.00000
+Source
+Van Nhu N.; Kohler F.: Excess Properties of Mixtures of Polar Components and Hydrocarbons of Varying Local Polarisability. Fluid Phase Equilib. 50 (1989) 267-296
+Source
+Van Nhu N.; Kohler F.: Excess Properties of Mixtures of Polar Components and Hydrocarbons of Varying Local Polarisability. Fluid Phase Equilib. 50 (1989) 267-296

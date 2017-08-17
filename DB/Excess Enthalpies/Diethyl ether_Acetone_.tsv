@@ -1,30 +1,30 @@
-$$$Enthalpy of Mixing Data Set 1354	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C3H6O	58.080	67-64-1	Acetone	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-158.680	0.09230	
-257.907	0.17050	
-385.186	0.27310	
-505.347	0.50020	
-461.385	0.70570	
-384.767	0.79320	
-249.533	0.88450	
-Source	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
-$$$Enthalpy of Mixing Data Set 10067	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C3H6O	58.080	67-64-1	Acetone	
-Temperature	314.150	K	
-hE [J/mol]	x1 [mol/mol]	
-311.917	0.21100	
-556.844	0.40600	
-404.026	0.54400	
-473.108	0.66600	
-Source	
-Carroll B.H.; Mathews J.H.: A  Calorimeter for Heats of Mixing at Elevated Temperatures. J.Am.Chem.Soc. 46 (1924) 30-36	
-Source	
-Carroll B.H.; Mathews J.H.: A  Calorimeter for Heats of Mixing at Elevated Temperatures. J.Am.Chem.Soc. 46 (1924) 30-36	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
+$$$Enthalpy of Mixing Data Set 1354
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C3H6O	58.080	67-64-1	Acetone
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+158.680	0.09230
+257.907	0.17050
+385.186	0.27310
+505.347	0.50020
+461.385	0.70570
+384.767	0.79320
+249.533	0.88450
+Source
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222
+$$$Enthalpy of Mixing Data Set 10067
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C3H6O	58.080	67-64-1	Acetone
+Temperature	314.150	K
+hE [J/mol]	x1 [mol/mol]
+311.917	0.21100
+556.844	0.40600
+404.026	0.54400
+473.108	0.66600
+Source
+Carroll B.H.; Mathews J.H.: A  Calorimeter for Heats of Mixing at Elevated Temperatures. J.Am.Chem.Soc. 46 (1924) 30-36
+Source
+Carroll B.H.; Mathews J.H.: A  Calorimeter for Heats of Mixing at Elevated Temperatures. J.Am.Chem.Soc. 46 (1924) 30-36
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222

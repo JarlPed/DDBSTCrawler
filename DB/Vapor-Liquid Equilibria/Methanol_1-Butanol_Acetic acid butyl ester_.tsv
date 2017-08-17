@@ -1,16 +1,16 @@
-$$$Vapor-Liquid Equilibrium Data Set 10209	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-3	C4H10O	74.123	71-36-3	Acetic acid butyl ester	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	
-337.55	1.00000	0.00000	1.00000	0.00000	
-390.87	0.00000	1.00000	0.00000	1.00000	
-399.12	0.00000	0.00000	0.00000	0.00000	
-346.45	0.58200	0.19700	0.91800	0.02500	
-371.05	0.13900	0.65600	0.53200	0.32500	
-363.75	0.14900	0.23400	0.68800	0.09900	
-Source	
-Patlasov V.P.; Naumova T.B.; Sergacheva N.I.; Balashov M.I.: Untersuchung und Berechnung des Dampf-Flüssig-Gleichgewichtes im System Methylacetat-Methanol-n-Butanol-Butylacetat. Tr.Inst.Mosk.Inst.Tonkoj Khim.Tekhnol. 7 (1977) 179-183	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 10209
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C4H10O	74.123	71-36-3	1-Butanol
+3	C4H10O	74.123	71-36-3	Acetic acid butyl ester
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	x2 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]
+337.55	1.00000	0.000001.00000	0.00000
+390.87	0.00000	1.000000.00000	1.00000
+399.12	0.000000.000000.000000.00000
+346.45	0.58200	0.19700	0.91800	0.02500
+371.05	0.13900	0.65600	0.53200	0.32500
+363.75	0.14900	0.23400	0.68800	0.09900
+Source
+Patlasov V.P.; Naumova T.B.; Sergacheva N.I.; Balashov M.I.: Untersuchung und Berechnung des Dampf-Flüssig-Gleichgewichtes im System Methylacetat-Methanol-n-Butanol-Butylacetat. Tr.Inst.Mosk.Inst.Tonkoj Khim.Tekhnol. 7 (1977) 179-183
+Source

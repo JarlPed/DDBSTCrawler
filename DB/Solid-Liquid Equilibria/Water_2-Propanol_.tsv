@@ -1,28 +1,28 @@
-$$$Solid-Liquid Equilibrium Data Set 1490	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-179.70	0.09900	0.09900	
-219.80	0.26200	0.26200	
-Source	
-Ott J.B.; Goates J.R.; Waite B.A.: (Solid + Liquid) Phase Equilibria and Solid-Hydrate Formation in Water + Methyl, + Ethyl, + Isopropyl, and + Tertiary Butyl Alcohols. J.Chem.Thermodyn. 11 (1979) 739-746	
-$$$Solid-Liquid Equilibrium Data Set 2945	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-253.15	0.17067	
-236.15	0.57733	
-173.15	0.88641	
-Source	
-Rosso C.; Carbonnel L.: Le systeme eau-propanol. C.R.Seanc.Acad.Sci.Ser.C Sci.Chim. 268 (1969) 1012-1015	
-$$$Solid-Liquid Equilibrium Data Set 2946	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-223.15	0.66154	
-165.15	0.85605	
-Source	
-Rosso C.; Carbonnel L.: Le systeme eau-propanol. C.R.Seanc.Acad.Sci.Ser.C Sci.Chim. 268 (1969) 1012-1015	
+$$$Solid-Liquid Equilibrium Data Set 1490
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C3H8O	60.096	67-63-0	2-Propanol
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+179.70	0.099000.09900
+219.80	0.262000.26200
+Source
+Ott J.B.; Goates J.R.; Waite B.A.: (Solid + Liquid) Phase Equilibria and Solid-Hydrate Formation in Water + Methyl, + Ethyl, + Isopropyl, and + Tertiary Butyl Alcohols. J.Chem.Thermodyn. 11 (1979) 739-746
+$$$Solid-Liquid Equilibrium Data Set 2945
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+253.15	0.17067
+236.15	0.57733
+173.15	0.88641
+Source
+Rosso C.; Carbonnel L.: Le systeme eau-propanol. C.R.Seanc.Acad.Sci.Ser.C Sci.Chim. 268 (1969) 1012-1015
+$$$Solid-Liquid Equilibrium Data Set 2946
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+223.15	0.66154
+165.15	0.85605
+Source
+Rosso C.; Carbonnel L.: Le systeme eau-propanol. C.R.Seanc.Acad.Sci.Ser.C Sci.Chim. 268 (1969) 1012-1015

@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmax	318.150	36.450	0.70400	n.a.	n.a.	Author	2	
-homPmax	~   344.650	101.058	0.64223	n.a.	Distillation	Author	1	
-homPmax	344.850	101.325	0.60650	n.a.	n.a.	Author	3	
-homPmax	homogeneous pressure maximum	
-~	Approximate Value	
-1	Ryland G.: A Contribution to the Study of Liquid Mixtures of Constant Boiling-Point. Am.Chem.J. 22 (1899) 384-396	
-2	Brown I.; Fock W.; Smith F.: II. Ethanol and Isopropanol Systems. Aust.J.Chem. 9 (1956) 364-372	
-3	Udovenko V.V.; Mazanko T.F.; Plyngeu V.Ya.: Dampf-Flüssig-Gleichgewicht in Systemen  Isopropanol - Wasser  und  Isopropanol - Benzol. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 16 (1973) 686-688	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C3H8O	60.096	67-63-0	2-Propanol
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+homPmax	318.150	36.450	0.70400	n.a.	n.a.	Author	2
+homPmax	~   344.650	101.058	0.64223	n.a.	Distillation	Author	1
+homPmax	344.850	101.325	0.60650	n.a.	n.a.	Author	3
+homPmax	homogeneous pressure maximum
+~	Approximate Value
+1	Ryland G.: A Contribution to the Study of Liquid Mixtures of Constant Boiling-Point. Am.Chem.J. 22 (1899) 384-396
+2	Brown I.; Fock W.; Smith F.: II. Ethanol and Isopropanol Systems. Aust.J.Chem. 9 (1956) 364-372
+3	Udovenko V.V.; Mazanko T.F.; Plyngeu V.Ya.: Dampf-Flüssig-Gleichgewicht in Systemen  Isopropanol - Wasser  und  Isopropanol - Benzol. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 16 (1973) 686-688

@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H10O	74.123	71-36-3	Acetic acid butyl ester	
-3	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-hetPmax	362.550	101.325	0.13475	n.a.	0.75449	n.a.	Author	1	
-hetPmax	362.650	101.325	0.13475	n.a.	0.75449	n.a.	Author	2	
-hetPmax	363.525	101.325	0.07260	n.a.	0.70340	n.a.	Author	3	
-hetPmax	heterogeneous pressure maximum	
-1	Hannotte T.: Contribution aux propriétés azéotropiques des éthers formique et acétiques des alcools saturés acycliques. Bull.Soc.Chim.Belg. 35 (1926) 85-109	
-2	von Bramer H.; Ruggles A.C.; Robinson E.A.: Process for the Purification of N-Monomethyl-P-Aminophenol and its Sulphate. US-Patent  (1937) 1-4	
-3	Beregovykh V.V.; Timofeev V.S.; Lukyanova R.N.; Yakushev V.M.; Serafimov L.A.: Die Phasengleichgewichte in den Systemen n-Propanol-Wasser-n-Butylacetat und n-Butanol-Wasser-n-Butylacetat bei Atmosphärendruck. Uch.Zap.Mosk.Inst.Tonkoj Khim.Tekhnol. 1 (1971) 31-38	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H10O	74.123	71-36-3	Acetic acid butyl ester
+3	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+hetPmax	362.550	101.325	0.13475	n.a.	0.75449	n.a.	Author	1
+hetPmax	362.650	101.325	0.13475	n.a.	0.75449	n.a.	Author	2
+hetPmax	363.525	101.325	0.07260	n.a.	0.70340	n.a.	Author	3
+hetPmax	heterogeneous pressure maximum
+1	Hannotte T.: Contribution aux propriétés azéotropiques des éthers formique et acétiques des alcools saturés acycliques. Bull.Soc.Chim.Belg. 35 (1926) 85-109
+2	von Bramer H.; Ruggles A.C.; Robinson E.A.: Process for the Purification of N-Monomethyl-P-Aminophenol and its Sulphate. US-Patent  (1937) 1-4
+3	Beregovykh V.V.; Timofeev V.S.; Lukyanova R.N.; Yakushev V.M.; Serafimov L.A.: Die Phasengleichgewichte in den Systemen n-Propanol-Wasser-n-Butylacetat und n-Butanol-Wasser-n-Butylacetat bei Atmosphärendruck. Uch.Zap.Mosk.Inst.Tonkoj Khim.Tekhnol. 1 (1971) 31-38

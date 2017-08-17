@@ -1,39 +1,39 @@
-$$$Solid-Liquid Equilibrium Data Set 51070	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-278.13	0.001861	0.00891	
-277.70	0.004161	0.01992	
-277.27	0.007582	0.036296	
-276.77	0.012735	0.06096	
-275.95	0.02330	0.11154	
-Source	
-Udovenko V.V.; Babak S.F.: Determination of molecular weight as method of the physico- chemical analysis. Zh.Obshch.Khim. 18 (1948) 579-585	
-$$$Solid-Liquid Equilibrium Data Set 51071	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-278.08	0.004783	0.008733	
-277.73	0.008943	0.016328	
-277.27	0.01631	0.029777	
-276.59	0.02878	0.05254	
-275.75	0.04748	0.08668	
-Source	
-Udovenko V.V.; Babak S.F.: Determination of molecular weight as method of the physico- chemical analysis. Zh.Obshch.Khim. 18 (1948) 579-585	
-$$$Solid-Liquid Equilibrium Data Set 51072	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-278.15	0.007265	0.005034	
-277.76	0.014458	0.010018	
-277.24	0.027106	0.018782	
-276.52	0.04644	0.03218	
-275.49	0.07762	0.05378	
-Source	
-Udovenko V.V.; Babak S.F.: Determination of molecular weight as method of the physico- chemical analysis. Zh.Obshch.Khim. 18 (1948) 579-585	
+$$$Solid-Liquid Equilibrium Data Set 51070
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C2H6O	46.069	64-17-5	Ethanol
+3	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+278.13	0.001861	0.00891
+277.70	0.004161	0.01992
+277.27	0.007582	0.036296
+276.77	0.012735	0.06096
+275.95	0.02330	0.11154
+Source
+Udovenko V.V.; Babak S.F.: Determination of molecular weight as method of the physico- chemical analysis. Zh.Obshch.Khim. 18 (1948) 579-585
+$$$Solid-Liquid Equilibrium Data Set 51071
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C2H6O	46.069	64-17-5	Ethanol
+3	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+278.08	0.004783	0.008733
+277.73	0.008943	0.016328
+277.27	0.01631	0.029777
+276.59	0.02878	0.05254
+275.75	0.04748	0.08668
+Source
+Udovenko V.V.; Babak S.F.: Determination of molecular weight as method of the physico- chemical analysis. Zh.Obshch.Khim. 18 (1948) 579-585
+$$$Solid-Liquid Equilibrium Data Set 51072
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C2H6O	46.069	64-17-5	Ethanol
+3	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+278.15	0.007265	0.005034
+277.76	0.014458	0.010018
+277.24	0.027106	0.018782
+276.52	0.04644	0.03218
+275.49	0.07762	0.05378
+Source
+Udovenko V.V.; Babak S.F.: Determination of molecular weight as method of the physico- chemical analysis. Zh.Obshch.Khim. 18 (1948) 579-585

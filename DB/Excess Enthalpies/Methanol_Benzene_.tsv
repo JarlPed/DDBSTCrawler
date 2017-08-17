@@ -1,72 +1,72 @@
-$$$Enthalpy of Mixing Data Set 756	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
-800.000	0.38100	
-545.000	0.65800	
-545.000	0.65900	
-Source	
-Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396	
-$$$Enthalpy of Mixing Data Set 757	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-435.427	0.05010	
-539.260	0.07920	
-589.920	0.10670	
-632.207	0.13260	
-656.909	0.15700	
-692.915	0.20190	
-711.337	0.26090	
-707.150	0.32730	
-690.403	0.37950	
-658.583	0.43770	
-625.927	0.48600	
-575.266	0.54800	
-525.025	0.60150	
-400.677	0.70740	
-347.504	0.75110	
-279.678	0.80510	
-224.831	0.84470	
-162.866	0.89050	
-72.850	0.95230	
-Source	
-Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)	
-$$$Enthalpy of Mixing Data Set 758	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-483.156	0.06180	
-622.577	0.11780	
-694.171	0.19020	
-731.853	0.25580	
-719.292	0.35010	
-681.192	0.42810	
-647.698	0.49370	
-560.194	0.55750	
-588.245	0.57320	
-513.302	0.61500	
-512.045	0.63830	
-466.828	0.65620	
-413.656	0.69930	
-369.694	0.73170	
-327.408	0.76410	
-281.771	0.79750	
-238.229	0.83080	
-194.267	0.86430	
-144.863	0.89830	
-91.272	0.93220	
-43.124	0.96010	
-14.235	0.98620	
-Source	
-Deshpande D.D.; Pandya M.V.: Part 1. Heats of Mixing of Aniline in Benzene, Carbontetrachloride and Chlorobenzene. Trans.Faraday Soc. 61 (1965) 1858-1868	
-Source	
-Deshpande D.D.; Pandya M.V.: Part 1. Heats of Mixing of Aniline in Benzene, Carbontetrachloride and Chlorobenzene. Trans.Faraday Soc. 61 (1965) 1858-1868	
-Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396	
-Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)	
+$$$Enthalpy of Mixing Data Set 756
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+800.000	0.38100
+545.000	0.65800
+545.000	0.65900
+Source
+Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396
+$$$Enthalpy of Mixing Data Set 757
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+435.427	0.05010
+539.260	0.07920
+589.920	0.10670
+632.207	0.13260
+656.909	0.15700
+692.915	0.20190
+711.337	0.26090
+707.150	0.32730
+690.403	0.37950
+658.583	0.43770
+625.927	0.48600
+575.266	0.54800
+525.025	0.60150
+400.677	0.70740
+347.504	0.75110
+279.678	0.80510
+224.831	0.84470
+162.866	0.89050
+72.850	0.95230
+Source
+Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)
+$$$Enthalpy of Mixing Data Set 758
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+483.156	0.06180
+622.577	0.11780
+694.171	0.19020
+731.853	0.25580
+719.292	0.35010
+681.192	0.42810
+647.698	0.49370
+560.194	0.55750
+588.245	0.57320
+513.302	0.61500
+512.045	0.63830
+466.828	0.65620
+413.656	0.69930
+369.694	0.73170
+327.408	0.76410
+281.771	0.79750
+238.229	0.83080
+194.267	0.86430
+144.863	0.89830
+91.272	0.93220
+43.124	0.96010
+14.235	0.98620
+Source
+Deshpande D.D.; Pandya M.V.: Part 1. Heats of Mixing of Aniline in Benzene, Carbontetrachloride and Chlorobenzene. Trans.Faraday Soc. 61 (1965) 1858-1868
+Source
+Deshpande D.D.; Pandya M.V.: Part 1. Heats of Mixing of Aniline in Benzene, Carbontetrachloride and Chlorobenzene. Trans.Faraday Soc. 61 (1965) 1858-1868
+Brown I.; Fock W.: IV. Systems of n-Alcohols with Benzene at 25, 35, and 45° C. Aust.J.Chem. 14 (1961) 387-396
+Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)

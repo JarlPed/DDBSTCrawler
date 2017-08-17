@@ -1,14 +1,14 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-303.25	56.970	STAT	1	
-325.25	45.010	STAT	1	
-Short Term	Explanation	
-STAT	static method	
-1	Alessi P.; Fermeglia M.; Kikic I.: A Differential Static Apparatus for the Investigation of the Infinitely Diluted Region. Fluid Phase Equilib. 29 (1986) 249-256	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-293.15	54.650	GLCN	1	
-Short Term	Explanation	
-GLCN	GLC (not specified)	
-1	Gritchina N.D.: Gas-Flussigchromatographische Bestimmung der Aktivitätskoeffizienten von flüchtigen Komponenten in unpolaren  flüssigen Phasen. Nepodviznye fazy v gazovoi chromatografii  (1970) 42-46	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+303.25	56.970	STAT	1
+325.25	45.010	STAT	1
+Short Term	Explanation
+STAT	static method
+1	Alessi P.; Fermeglia M.; Kikic I.: A Differential Static Apparatus for the Investigation of the Infinitely Diluted Region. Fluid Phase Equilib. 29 (1986) 249-256
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+293.15	54.650	GLCN	1
+Short Term	Explanation
+GLCN	GLC (not specified)
+1	Gritchina N.D.: Gas-Flussigchromatographische Bestimmung der Aktivitätskoeffizienten von flüchtigen Komponenten in unpolaren  flüssigen Phasen. Nepodviznye fazy v gazovoi chromatografii  (1970) 42-46

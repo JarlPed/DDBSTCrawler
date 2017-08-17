@@ -1,20 +1,20 @@
-$$$Excess Heat Capacity Data Set 1640	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-1.2230	0.00500	
-2.6370	0.01180	
-9.4530	0.04190	
-12.7110	0.05930	
-14.6720	0.07000	
-16.4490	0.08170	
-16.9090	0.09900	
-16.9040	0.12270	
-16.4940	0.16000	
-15.8740	0.19600	
-Source	
-Kozhevnikov O.A.; Semenova Z.V.: Isobaric and isochoric heat capacity of isopropanol- and acetone- water mixtures. Oniitekhim  (1979) 1-11	
-Source	
-Kozhevnikov O.A.; Semenova Z.V.: Isobaric and isochoric heat capacity of isopropanol- and acetone- water mixtures. Oniitekhim  (1979) 1-11	
+$$$Excess Heat Capacity Data Set 1640
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	H2O	18.015	7732-18-5	Water
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+1.2230	0.00500
+2.6370	0.01180
+9.4530	0.04190
+12.7110	0.05930
+14.6720	0.07000
+16.4490	0.08170
+16.9090	0.09900
+16.9040	0.12270
+16.4940	0.16000
+15.8740	0.19600
+Source
+Kozhevnikov O.A.; Semenova Z.V.: Isobaric and isochoric heat capacity of isopropanol- and acetone- water mixtures. Oniitekhim  (1979) 1-11
+Source
+Kozhevnikov O.A.; Semenova Z.V.: Isobaric and isochoric heat capacity of isopropanol- and acetone- water mixtures. Oniitekhim  (1979) 1-11

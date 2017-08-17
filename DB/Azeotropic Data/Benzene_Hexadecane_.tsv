@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	298.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	2	
-none	333.150	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	353.150	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	zeotropic	
-1	Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228	
-2	Jain D.V.S.; Lark B.S.: Thermodynamics of n-Alkane Mixtures VI. Vapor Pressures and Excess Gibbs Energies of Mixtures of n-Hexadecane + Benzene and + Carbon Tetrachloride. J.Chem.Thermodyn. 5 (1973) 455-457	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C16H34	226.446	544-76-3	Hexadecane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	298.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	2
+none	333.150	n.a.	n.a.	n.a.	n.a.	Author	1
+none	353.150	n.a.	n.a.	n.a.	n.a.	Author	1
+none	zeotropic
+1	Messow U.; Schütze D.; Hauthal W.H.: II. Benzol(1)/n-Tetradecan(2), Benzol(1)/n-Hexadecan(2) und Benzol(1)/n-Heptadecan(2). Z.Phys.Chem.(Leipzig) 257 (1976) 218-228
+2	Jain D.V.S.; Lark B.S.: Thermodynamics of n-Alkane Mixtures VI. Vapor Pressures and Excess Gibbs Energies of Mixtures of n-Hexadecane + Benzene and + Carbon Tetrachloride. J.Chem.Thermodyn. 5 (1973) 455-457

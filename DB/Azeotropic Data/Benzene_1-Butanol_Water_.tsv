@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-3	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-hetPmax	342.100	101.325	0.67900	n.a.	0.30100	Distillation	Author	1	
-hetPmax	342.150	101.325	0.66085	n.a.	0.32733	Distillation	Author	2	
-hetPmax	heterogeneous pressure maximum	
-1	Kudryavtseva L.S.; Toome M.Yu.; Susarev M.P.: XI. Calculation of the Compositions of Ternary Hydrocarbon (Halogenohydrocarbon) - Water - Ethyl (Butyl) Alcohol Ternary Azeotropes. Viniti  (1973) 1-7	
-2	Shorr L.M.; Segall J.: The Use of Relative Volatilities in the Graphical Representation of Three Component Vapour-Liquid Equilibria. Examination of the System: n-Butanol, Benzene, Water. Israel J.Technol. 1 (1963) 1-4	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C4H10O	74.123	71-36-3	1-Butanol
+3	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+hetPmax	342.100	101.325	0.67900	n.a.	0.30100	Distillation	Author	1
+hetPmax	342.150	101.325	0.66085	n.a.	0.32733	Distillation	Author	2
+hetPmax	heterogeneous pressure maximum
+1	Kudryavtseva L.S.; Toome M.Yu.; Susarev M.P.: XI. Calculation of the Compositions of Ternary Hydrocarbon (Halogenohydrocarbon) - Water - Ethyl (Butyl) Alcohol Ternary Azeotropes. Viniti  (1973) 1-7
+2	Shorr L.M.; Segall J.: The Use of Relative Volatilities in the Graphical Representation of Three Component Vapour-Liquid Equilibria. Examination of the System: n-Butanol, Benzene, Water. Israel J.Technol. 1 (1963) 1-4

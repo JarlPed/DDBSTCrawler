@@ -1,61 +1,61 @@
-$$$Enthalpy of Mixing Data Set 1733	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	303.150	K	
-hE [J/mol]	x1 [mol/mol]	
-306.000	0.11170	
-428.000	0.17130	
-519.000	0.21880	
-652.000	0.31810	
-704.000	0.39340	
-740.000	0.49210	
-715.000	0.59080	
-649.000	0.67510	
-489.000	0.79560	
-308.000	0.88710	
-Source	
-Guillen M.D.; Gutierrez Losa C.: Excess Enthalpies and Excess Volumes of n-Hexane + and of Tetrachloromethane + Furan,+ 1,4-Dioxane, + Tetrahydrofuran, and + Tetrahydropyran. J.Chem.Thermodyn. 10 (1978) 567-576	
-$$$Enthalpy of Mixing Data Set 9613	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.150	K	
-Pressure	1.010	bar	
-hE [J/mol]	x1 [mol/mol]	
-265.000	0.09910	
-390.000	0.14680	
-505.000	0.20780	
-626.000	0.27890	
-689.000	0.34380	
-735.000	0.41340	
-775.000	0.50410	
-768.000	0.51060	
-759.000	0.57370	
-695.000	0.66290	
-601.000	0.75090	
-464.000	0.82240	
-390.000	0.85900	
-291.000	0.89970	
-188.000	0.93820	
-Source	
-Castro I.; Pintos M.; Amigo A.; Bravo R.; Paz Andrade M.I.: Excess enthalpies of (tetrahydrofuran or tetrahydropyran + an n-alkane) at the temperature 298.15 K. J.Chem.Thermodyn. 26 (1994) 29-33	
-$$$Enthalpy of Mixing Data Set 11464	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-168.000	0.94300	
-126.000	0.96000	
-103.000	0.96500	
-91.700	0.96800	
-88.600	0.97200	
-36.800	0.98700	
-27.300	0.99000	
-Source	
-Koldobskaya L.L.; Gaile A.A.; Semenov L.V.; Zhmaev E.G.; Kuznetsova S.Yu.; Rumyantseva N.V.: Mischungsenthalpie von Kohlenwasserstoffen mit sauerstoff- und stickstoffhaltigen polaren Lösungsmitteln. Viniti  (1987) 1-17	
-Source	
-Guillen M.D.; Gutierrez Losa C.: Excess Enthalpies and Excess Volumes of n-Hexane + and of Tetrachloromethane + Furan,+ 1,4-Dioxane, + Tetrahydrofuran, and + Tetrahydropyran. J.Chem.Thermodyn. 10 (1978) 567-576	
-Castro I.; Pintos M.; Amigo A.; Bravo R.; Paz Andrade M.I.: Excess enthalpies of (tetrahydrofuran or tetrahydropyran + an n-alkane) at the temperature 298.15 K. J.Chem.Thermodyn. 26 (1994) 29-33	
-Koldobskaya L.L.; Gaile A.A.; Semenov L.V.; Zhmaev E.G.; Kuznetsova S.Yu.; Rumyantseva N.V.: Mischungsenthalpie von Kohlenwasserstoffen mit sauerstoff- und stickstoffhaltigen polaren Lösungsmitteln. Viniti  (1987) 1-17	
+$$$Enthalpy of Mixing Data Set 1733
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	303.150	K
+hE [J/mol]	x1 [mol/mol]
+306.000	0.11170
+428.000	0.17130
+519.000	0.21880
+652.000	0.31810
+704.000	0.39340
+740.000	0.49210
+715.000	0.59080
+649.000	0.67510
+489.000	0.79560
+308.000	0.88710
+Source
+Guillen M.D.; Gutierrez Losa C.: Excess Enthalpies and Excess Volumes of n-Hexane + and of Tetrachloromethane + Furan,+ 1,4-Dioxane, + Tetrahydrofuran, and + Tetrahydropyran. J.Chem.Thermodyn. 10 (1978) 567-576
+$$$Enthalpy of Mixing Data Set 9613
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	298.150	K
+Pressure	1.010	bar
+hE [J/mol]	x1 [mol/mol]
+265.000	0.09910
+390.000	0.14680
+505.000	0.20780
+626.000	0.27890
+689.000	0.34380
+735.000	0.41340
+775.000	0.50410
+768.000	0.51060
+759.000	0.57370
+695.000	0.66290
+601.000	0.75090
+464.000	0.82240
+390.000	0.85900
+291.000	0.89970
+188.000	0.93820
+Source
+Castro I.; Pintos M.; Amigo A.; Bravo R.; Paz Andrade M.I.: Excess enthalpies of (tetrahydrofuran or tetrahydropyran + an n-alkane) at the temperature 298.15 K. J.Chem.Thermodyn. 26 (1994) 29-33
+$$$Enthalpy of Mixing Data Set 11464
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+168.000	0.94300
+126.000	0.96000
+103.000	0.96500
+91.700	0.96800
+88.600	0.97200
+36.800	0.98700
+27.300	0.99000
+Source
+Koldobskaya L.L.; Gaile A.A.; Semenov L.V.; Zhmaev E.G.; Kuznetsova S.Yu.; Rumyantseva N.V.: Mischungsenthalpie von Kohlenwasserstoffen mit sauerstoff- und stickstoffhaltigen polaren Lösungsmitteln. Viniti  (1987) 1-17
+Source
+Guillen M.D.; Gutierrez Losa C.: Excess Enthalpies and Excess Volumes of n-Hexane + and of Tetrachloromethane + Furan,+ 1,4-Dioxane, + Tetrahydrofuran, and + Tetrahydropyran. J.Chem.Thermodyn. 10 (1978) 567-576
+Castro I.; Pintos M.; Amigo A.; Bravo R.; Paz Andrade M.I.: Excess enthalpies of (tetrahydrofuran or tetrahydropyran + an n-alkane) at the temperature 298.15 K. J.Chem.Thermodyn. 26 (1994) 29-33
+Koldobskaya L.L.; Gaile A.A.; Semenov L.V.; Zhmaev E.G.; Kuznetsova S.Yu.; Rumyantseva N.V.: Mischungsenthalpie von Kohlenwasserstoffen mit sauerstoff- und stickstoffhaltigen polaren Lösungsmitteln. Viniti  (1987) 1-17

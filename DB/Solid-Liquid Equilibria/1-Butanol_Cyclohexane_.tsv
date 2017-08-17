@@ -1,22 +1,22 @@
-$$$Solid-Liquid Equilibrium Data Set 49402	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-T [K]	xL1 [mol/mol]	
-280.07	0.00000	
-276.78	0.05088	
-274.20	0.10598	
-271.56	0.15209	
-268.86	0.20838	
-266.85	0.24818	
-264.01	0.30214	
-261.11	0.34994	
-257.03	0.40167	
-253.08	0.44981	
-247.89	0.49989	
-241.33	0.55046	
-232.89	0.59953	
-222.21	0.64949	
-195.92	0.94857	
-Source	
-Lohmann J.; Gmehling J.: . Unpublished Data  (1997) 0	
+$$$Solid-Liquid Equilibrium Data Set 49402
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C6H12	84.161	110-82-7	Cyclohexane
+T [K]	xL1 [mol/mol]
+280.07	0.00000
+276.78	0.05088
+274.20	0.10598
+271.56	0.15209
+268.86	0.20838
+266.85	0.24818
+264.01	0.30214
+261.11	0.34994
+257.03	0.40167
+253.08	0.44981
+247.89	0.49989
+241.33	0.55046
+232.89	0.59953
+222.21	0.64949
+195.92	0.94857
+Source
+Lohmann J.; Gmehling J.: . Unpublished Data  (1997) 0

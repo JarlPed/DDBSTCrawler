@@ -1,59 +1,59 @@
-$$$Excess Volume Data Set 873	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0033	0.09504	
-0.0059	0.21032	
-0.0078	0.28978	
-0.0089	0.40208	
-0.0092	0.50105	
-0.0095	0.60089	
-0.0085	0.69921	
-0.0071	0.79978	
-0.0044	0.89897	
-Source	
-Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326	
-$$$Excess Volume Data Set 2793	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0012	0.03720	
-0.0015	0.04300	
-0.0027	0.08780	
-0.0029	0.09440	
-0.0043	0.15750	
-0.0043	0.16450	
-0.0058	0.23480	
-0.0059	0.24220	
-0.0071	0.30920	
-0.0069	0.31640	
-0.0078	0.37980	
-0.0078	0.38900	
-0.0084	0.44440	
-0.0082	0.45430	
-0.0085	0.50170	
-0.0083	0.51080	
-0.0086	0.55050	
-0.0084	0.56030	
-0.0085	0.59320	
-0.0093	0.59540	
-0.0082	0.60240	
-0.0084	0.62770	
-0.0090	0.63700	
-0.0088	0.68140	
-0.0081	0.72840	
-0.0073	0.77850	
-0.0062	0.82800	
-0.0050	0.87430	
-0.0035	0.91850	
-0.0021	0.95640	
-0.0009	0.98230	
-Source	
-Benson G.C.; Pflug H.D.: Molar Excess Volumes of Binary Systems of Normal Alcohols at 25°C. J.Chem.Eng.Data 15 (1970) 382-386	
-Source	
-Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326	
-Benson G.C.; Pflug H.D.: Molar Excess Volumes of Binary Systems of Normal Alcohols at 25°C. J.Chem.Eng.Data 15 (1970) 382-386	
+$$$Excess Volume Data Set 873
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O	46.069	64-17-5	Ethanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0033	0.09504
+0.0059	0.21032
+0.0078	0.28978
+0.0089	0.40208
+0.0092	0.50105
+0.0095	0.60089
+0.0085	0.69921
+0.0071	0.79978
+0.0044	0.89897
+Source
+Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326
+$$$Excess Volume Data Set 2793
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O	46.069	64-17-5	Ethanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0012	0.03720
+0.0015	0.04300
+0.0027	0.08780
+0.0029	0.09440
+0.0043	0.15750
+0.0043	0.16450
+0.0058	0.23480
+0.0059	0.24220
+0.0071	0.30920
+0.0069	0.31640
+0.0078	0.37980
+0.0078	0.38900
+0.0084	0.44440
+0.0082	0.45430
+0.0085	0.50170
+0.0083	0.51080
+0.0086	0.55050
+0.0084	0.56030
+0.0085	0.59320
+0.0093	0.59540
+0.0082	0.60240
+0.0084	0.62770
+0.0090	0.63700
+0.0088	0.68140
+0.0081	0.72840
+0.0073	0.77850
+0.0062	0.82800
+0.0050	0.87430
+0.0035	0.91850
+0.0021	0.95640
+0.0009	0.98230
+Source
+Benson G.C.; Pflug H.D.: Molar Excess Volumes of Binary Systems of Normal Alcohols at 25°C. J.Chem.Eng.Data 15 (1970) 382-386
+Source
+Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326
+Benson G.C.; Pflug H.D.: Molar Excess Volumes of Binary Systems of Normal Alcohols at 25°C. J.Chem.Eng.Data 15 (1970) 382-386

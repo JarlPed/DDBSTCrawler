@@ -1,14 +1,14 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	3.6100	NSGC	3	
-313.15	2.7700	EBUL	1	
-318.15	3.0000	GLCN	2	
-Short Term	Explanation	
-EBUL	ebulliometry	
-GLCN	GLC (not specified)	
-NSGC	GLC (non steady state method)	
-1	Tochigi K.; Minami S.; Kojima K.: Prediction of Vapor-Liquid Equilibria with Chemical Reaction by Analytical Solutions of Groups. J.Chem.Eng.Japan 10 (1977) 349-354	
-2	Yang Y.; Wu H.; Xie S.: The Measurement of Activity Coefficients at Infinite Dilution of Binary Volatile Liquid Systems by Gas-Liquid Chromatography. Chengdu-Keji-Daxue-Xuebao  (1983) 27-32	
-3	Landau I.; Belfer A.J.; Locke D.C.: Measurement of Limiting Activity Coefficients Using Non-Steady-State Gas Chromatography. Ind.Eng.Chem.Res. 30 (1991) 1900-1906	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	3.6100	NSGC	3
+313.15	2.7700	EBUL	1
+318.15	3.0000	GLCN	2
+Short Term	Explanation
+EBUL	ebulliometry
+GLCN	GLC (not specified)
+NSGC	GLC (non steady state method)
+1	Tochigi K.; Minami S.; Kojima K.: Prediction of Vapor-Liquid Equilibria with Chemical Reaction by Analytical Solutions of Groups. J.Chem.Eng.Japan 10 (1977) 349-354
+2	Yang Y.; Wu H.; Xie S.: The Measurement of Activity Coefficients at Infinite Dilution of Binary Volatile Liquid Systems by Gas-Liquid Chromatography. Chengdu-Keji-Daxue-Xuebao  (1983) 27-32
+3	Landau I.; Belfer A.J.; Locke D.C.: Measurement of Limiting Activity Coefficients Using Non-Steady-State Gas Chromatography. Ind.Eng.Chem.Res. 30 (1991) 1900-1906

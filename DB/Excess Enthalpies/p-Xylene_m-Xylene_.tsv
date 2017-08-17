@@ -1,91 +1,91 @@
-$$$Enthalpy of Mixing Data Set 3740	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--0.879	0.03510	
--1.424	0.05170	
--2.470	0.09830	
--3.140	0.12690	
--3.936	0.16660	
--4.605	0.20280	
--5.317	0.24650	
--5.820	0.28560	
--6.238	0.32090	
--6.531	0.35280	
--6.824	0.39550	
--6.950	0.42090	
--7.076	0.45530	
--7.118	0.47100	
--7.159	0.48100	
--7.118	0.49920	
--7.076	0.51350	
--7.034	0.53920	
--6.866	0.57980	
--6.699	0.61290	
--6.531	0.63450	
--6.322	0.65780	
--5.987	0.69160	
--5.401	0.73910	
--4.940	0.77090	
--4.354	0.80550	
--3.391	0.85670	
--2.512	0.89970	
--1.884	0.93080	
--0.921	0.96420	
-Source	
-Holt D.L.; Smith B.D.: Measurement of Excess Enthalpies with Tronac Titration Calorimeter. Data for Some C8 Aromatic Binaries. J.Chem.Eng.Data 19 (1974) 129-133	
-$$$Enthalpy of Mixing Data Set 3741	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--1.300	0.03980	
--1.200	0.04420	
--2.600	0.08690	
--2.800	0.10240	
--4.000	0.15360	
--4.400	0.18280	
--5.700	0.23960	
--5.800	0.25990	
--6.600	0.30950	
--6.800	0.33670	
--7.200	0.38360	
--7.500	0.40960	
--7.700	0.43250	
--7.500	0.44820	
--7.600	0.44990	
--7.600	0.48730	
--7.700	0.50280	
--7.500	0.54510	
--7.500	0.56350	
--7.300	0.60840	
--6.800	0.62860	
--6.600	0.67620	
--5.900	0.69760	
--5.600	0.74890	
--5.700	0.76990	
--4.100	0.83420	
--4.000	0.84570	
--2.600	0.90690	
--2.600	0.91660	
--1.000	0.96210	
--1.100	0.96660	
-Source	
-Lam V.T.; Murakami S.; Benson G.C.: III. Excess Enthalpies and Volumes of Isomeric Xylene Mixtures at 25°C. J.Chem.Thermodyn. 2 (1970) 17-25	
-$$$Enthalpy of Mixing Data Set 12157	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	288.650	K	
-hE [J/mol]	x1 [mol/mol]	
--1.340	0.24600	
--10.886	0.70800	
-Source	
-Kremann R.; Meingast R.; Gugl F.: II.Mitteilung: Die Volumänderungen und Wärmeerscheinungen bei Bildung binärer Gemische. Monatsh.Chemie u.verw.Teil.and.Wiss. 35 (1914) 1235-1322	
-Source	
-Holt D.L.; Smith B.D.: Measurement of Excess Enthalpies with Tronac Titration Calorimeter. Data for Some C8 Aromatic Binaries. J.Chem.Eng.Data 19 (1974) 129-133	
-Lam V.T.; Murakami S.; Benson G.C.: III. Excess Enthalpies and Volumes of Isomeric Xylene Mixtures at 25°C. J.Chem.Thermodyn. 2 (1970) 17-25	
-Kremann R.; Meingast R.; Gugl F.: II.Mitteilung: Die Volumänderungen und Wärmeerscheinungen bei Bildung binärer Gemische. Monatsh.Chemie u.verw.Teil.and.Wiss. 35 (1914) 1235-1322	
+$$$Enthalpy of Mixing Data Set 3740
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-0.879	0.03510
+-1.424	0.05170
+-2.470	0.09830
+-3.140	0.12690
+-3.936	0.16660
+-4.605	0.20280
+-5.317	0.24650
+-5.820	0.28560
+-6.238	0.32090
+-6.531	0.35280
+-6.824	0.39550
+-6.950	0.42090
+-7.076	0.45530
+-7.118	0.47100
+-7.159	0.48100
+-7.118	0.49920
+-7.076	0.51350
+-7.034	0.53920
+-6.866	0.57980
+-6.699	0.61290
+-6.531	0.63450
+-6.322	0.65780
+-5.987	0.69160
+-5.401	0.73910
+-4.940	0.77090
+-4.354	0.80550
+-3.391	0.85670
+-2.512	0.89970
+-1.884	0.93080
+-0.921	0.96420
+Source
+Holt D.L.; Smith B.D.: Measurement of Excess Enthalpies with Tronac Titration Calorimeter. Data for Some C8 Aromatic Binaries. J.Chem.Eng.Data 19 (1974) 129-133
+$$$Enthalpy of Mixing Data Set 3741
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-1.300	0.03980
+-1.200	0.04420
+-2.600	0.08690
+-2.800	0.10240
+-4.000	0.15360
+-4.400	0.18280
+-5.700	0.23960
+-5.800	0.25990
+-6.600	0.30950
+-6.800	0.33670
+-7.200	0.38360
+-7.500	0.40960
+-7.700	0.43250
+-7.500	0.44820
+-7.600	0.44990
+-7.600	0.48730
+-7.700	0.50280
+-7.500	0.54510
+-7.500	0.56350
+-7.300	0.60840
+-6.800	0.62860
+-6.600	0.67620
+-5.900	0.69760
+-5.600	0.74890
+-5.700	0.76990
+-4.100	0.83420
+-4.000	0.84570
+-2.600	0.90690
+-2.600	0.91660
+-1.000	0.96210
+-1.100	0.96660
+Source
+Lam V.T.; Murakami S.; Benson G.C.: III. Excess Enthalpies and Volumes of Isomeric Xylene Mixtures at 25°C. J.Chem.Thermodyn. 2 (1970) 17-25
+$$$Enthalpy of Mixing Data Set 12157
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	288.650	K
+hE [J/mol]	x1 [mol/mol]
+-1.340	0.24600
+-10.886	0.70800
+Source
+Kremann R.; Meingast R.; Gugl F.: II.Mitteilung: Die Volumänderungen und Wärmeerscheinungen bei Bildung binärer Gemische. Monatsh.Chemie u.verw.Teil.and.Wiss. 35 (1914) 1235-1322
+Source
+Holt D.L.; Smith B.D.: Measurement of Excess Enthalpies with Tronac Titration Calorimeter. Data for Some C8 Aromatic Binaries. J.Chem.Eng.Data 19 (1974) 129-133
+Lam V.T.; Murakami S.; Benson G.C.: III. Excess Enthalpies and Volumes of Isomeric Xylene Mixtures at 25°C. J.Chem.Thermodyn. 2 (1970) 17-25
+Kremann R.; Meingast R.; Gugl F.: II.Mitteilung: Die Volumänderungen und Wärmeerscheinungen bei Bildung binärer Gemische. Monatsh.Chemie u.verw.Teil.and.Wiss. 35 (1914) 1235-1322

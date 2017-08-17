@@ -1,26 +1,26 @@
-$$$Enthalpy of Mixing Data Set 1107	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-7.000	0.04840	
-21.800	0.16010	
-36.400	0.29980	
-45.300	0.42700	
-46.300	0.44740	
-47.700	0.48180	
-48.900	0.52530	
-48.700	0.53410	
-49.300	0.58640	
-48.400	0.61250	
-47.500	0.66260	
-46.200	0.67330	
-43.000	0.73750	
-34.700	0.81800	
-24.200	0.88810	
-14.100	0.94010	
-Source	
-Pope A.E.; Pflug H.D.; Dacre B.; Benson G.C.: Molar Excess Enthalpies of Binary n-Alcohol Systems at 25 °C. Can.J.Chem. 45 (1967) 2665-2674	
-Source	
-Pope A.E.; Pflug H.D.; Dacre B.; Benson G.C.: Molar Excess Enthalpies of Binary n-Alcohol Systems at 25 °C. Can.J.Chem. 45 (1967) 2665-2674	
+$$$Enthalpy of Mixing Data Set 1107
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+7.000	0.04840
+21.800	0.16010
+36.400	0.29980
+45.300	0.42700
+46.300	0.44740
+47.700	0.48180
+48.900	0.52530
+48.700	0.53410
+49.300	0.58640
+48.400	0.61250
+47.500	0.66260
+46.200	0.67330
+43.000	0.73750
+34.700	0.81800
+24.200	0.88810
+14.100	0.94010
+Source
+Pope A.E.; Pflug H.D.; Dacre B.; Benson G.C.: Molar Excess Enthalpies of Binary n-Alcohol Systems at 25 °C. Can.J.Chem. 45 (1967) 2665-2674
+Source
+Pope A.E.; Pflug H.D.; Dacre B.; Benson G.C.: Molar Excess Enthalpies of Binary n-Alcohol Systems at 25 °C. Can.J.Chem. 45 (1967) 2665-2674

@@ -1,18 +1,18 @@
-$$$Solid-Liquid Equilibrium Data Set 54739	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	xL2 [mol/mol]	
-277.28	0.018658	0.020597	
-280.07	0.019458	0.04299	
-283.60	0.02033	0.06738	
-287.84	0.021277	0.09403	
-279.70	0.03952	0.021815	
-283.07	0.04135	0.04566	
-287.00	0.04330	0.07174	
-282.51	0.06299	0.02318	
-286.27	0.06609	0.04864	
-285.49	0.08966	0.02473	
-Source	
-Abegg R.: Studien über Gefrierpunkte konzentrierter Lösungen. Z.Phys.Chem.(Leipzig) 15 (1894) 209-261	
+$$$Solid-Liquid Equilibrium Data Set 54739
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]	xL2 [mol/mol]
+277.28	0.018658	0.020597
+280.07	0.019458	0.04299
+283.60	0.02033	0.06738
+287.84	0.021277	0.09403
+279.70	0.03952	0.021815
+283.07	0.04135	0.04566
+287.00	0.04330	0.07174
+282.51	0.06299	0.02318
+286.27	0.06609	0.04864
+285.49	0.08966	0.02473
+Source
+Abegg R.: Studien über Gefrierpunkte konzentrierter Lösungen. Z.Phys.Chem.(Leipzig) 15 (1894) 209-261

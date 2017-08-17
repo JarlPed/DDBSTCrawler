@@ -1,10 +1,10 @@
-$$$Solid-Liquid Equilibrium Data Set 3363	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-T [K]	xL1 [mol/mol]	
-285.75	0.021645	
-285.38	0.04599	
-285.16	0.06860	
-Source	
-Waentig P.: Über den Zustand des gelösten Jods. Z.Phys.Chem.(Leipzig) 68 (1909) 513-571	
+$$$Solid-Liquid Equilibrium Data Set 3363
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	106-42-3	p-Xylene
+T [K]	xL1 [mol/mol]
+285.75	0.021645
+285.38	0.04599
+285.16	0.06860
+Source
+Waentig P.: Über den Zustand des gelösten Jods. Z.Phys.Chem.(Leipzig) 68 (1909) 513-571

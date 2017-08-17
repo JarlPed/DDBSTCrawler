@@ -1,54 +1,54 @@
-$$$Vapor-Liquid Equilibrium Data Set 25777	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
-3	C4H10O	74.123	71-36-3	1-Butanol	
-4	C2H4O2	60.053	64-19-7	Acetic acid	
-Pressure	30.00	kPa	
-T [K]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	y3 [mol/mol]	
-355.97	0.00550	0.00030	0.04270	0.01240	0.00020	0.02290	
-358.94	0.00310	0.00130	0.18980	0.00760	0.00140	0.11960	
-361.71	0.00370	0.00130	0.36160	0.00960	0.00170	0.28460	
-363.49	0.00180	0.00100	0.63520	0.00650	0.00170	0.63760	
-363.24	0.00130	0.00030	0.72300	0.00470	0.00060	0.75850	
-362.76	0.00120	0.00020	0.79300	0.00450	0.00040	0.84310	
-361.24	0.00000	0.00020	0.92570	0.00310	0.00040	0.96010	
-Source	
-Grob S.; Hasse H.: Thermodynamics of Phase and Chemical Equilibrium in a Strongly Nonideal Esterification System. J.Chem.Eng.Data 50 (2005) 92-101	
-$$$Vapor-Liquid Equilibrium Data Set 25778	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
-3	C4H10O	74.123	71-36-3	1-Butanol	
-4	C2H4O2	60.053	64-19-7	Acetic acid	
-Pressure	50.00	kPa	
-T [K]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	y3 [mol/mol]	
-370.22	0.00490	0.00060	0.04630	0.00880	0.00050	0.03010	
-373.00	0.00380	0.00290	0.19610	0.00800	0.00300	0.14300	
-374.89	0.00420	0.00270	0.36000	0.01350	0.00340	0.29510	
-376.11	0.00320	0.00240	0.49720	0.00770	0.00310	0.47250	
-376.17	0.00270	0.00180	0.63100	0.00820	0.00260	0.64590	
-375.93	0.00190	0.00100	0.71860	0.00410	0.00140	0.74910	
-375.24	0.00120	0.00040	0.78550	0.00430	0.00070	0.84180	
-374.30	0.00190	0.00050	0.86690	0.00550	0.00080	0.91260	
-373.79	0.00000	0.00030	0.92030	0.00200	0.00040	0.95190	
-Source	
-Grob S.; Hasse H.: Thermodynamics of Phase and Chemical Equilibrium in a Strongly Nonideal Esterification System. J.Chem.Eng.Data 50 (2005) 92-101	
-$$$Vapor-Liquid Equilibrium Data Set 25779	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	H2O	18.015	7732-18-5	Acetic acid butyl ester	
-3	C4H10O	74.123	71-36-3	1-Butanol	
-4	C2H4O2	60.053	64-19-7	Acetic acid	
-Pressure	70.00	kPa	
-T [K]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	y3 [mol/mol]	
-379.98	0.00500	0.00120	0.04460	0.01110	0.00110	0.02840	
-382.56	0.00470	0.00540	0.19930	0.01180	0.00560	0.14770	
-384.09	0.00560	0.00490	0.35570	0.01920	0.00580	0.30100	
-385.25	0.00280	0.00270	0.62330	0.00700	0.00350	0.64240	
-384.09	0.00140	0.00080	0.78220	0.00460	0.00110	0.84050	
-382.79	0.00160	0.00030	0.87050	0.00730	0.00040	0.92100	
-382.45	0.00000	0.00040	0.91650	0.00200	0.00050	0.94880	
-Source	
-Grob S.; Hasse H.: Thermodynamics of Phase and Chemical Equilibrium in a Strongly Nonideal Esterification System. J.Chem.Eng.Data 50 (2005) 92-101	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 25777
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester
+3	C4H10O	74.123	71-36-3	1-Butanol
+4	C2H4O2	60.053	64-19-7	Acetic acid
+Pressure	30.00	kPa
+T [K]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	y3 [mol/mol]
+355.97	0.00550	0.00030	0.04270	0.01240	0.00020	0.02290
+358.94	0.00310	0.00130	0.18980	0.00760	0.00140	0.11960
+361.71	0.00370	0.00130	0.36160	0.00960	0.00170	0.28460
+363.49	0.00180	0.00100	0.63520	0.00650	0.00170	0.63760
+363.24	0.00130	0.00030	0.72300	0.00470	0.00060	0.75850
+362.76	0.00120	0.00020	0.79300	0.00450	0.00040	0.84310
+361.24	0.00000	0.00020	0.92570	0.00310	0.00040	0.96010
+Source
+Grob S.; Hasse H.: Thermodynamics of Phase and Chemical Equilibrium in a Strongly Nonideal Esterification System. J.Chem.Eng.Data 50 (2005) 92-101
+$$$Vapor-Liquid Equilibrium Data Set 25778
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester
+3	C4H10O	74.123	71-36-3	1-Butanol
+4	C2H4O2	60.053	64-19-7	Acetic acid
+Pressure	50.00	kPa
+T [K]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	y3 [mol/mol]
+370.22	0.00490	0.00060	0.04630	0.00880	0.00050	0.03010
+373.00	0.00380	0.00290	0.19610	0.00800	0.00300	0.14300
+374.89	0.00420	0.00270	0.36000	0.01350	0.00340	0.29510
+376.11	0.00320	0.00240	0.49720	0.00770	0.00310	0.47250
+376.17	0.00270	0.00180	0.63100	0.00820	0.00260	0.64590
+375.93	0.00190	0.00100	0.71860	0.00410	0.00140	0.74910
+375.24	0.00120	0.00040	0.78550	0.00430	0.00070	0.84180
+374.30	0.00190	0.00050	0.86690	0.00550	0.00080	0.91260
+373.79	0.00000	0.00030	0.92030	0.00200	0.00040	0.95190
+Source
+Grob S.; Hasse H.: Thermodynamics of Phase and Chemical Equilibrium in a Strongly Nonideal Esterification System. J.Chem.Eng.Data 50 (2005) 92-101
+$$$Vapor-Liquid Equilibrium Data Set 25779
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	H2O	18.015	7732-18-5	Acetic acid butyl ester
+3	C4H10O	74.123	71-36-3	1-Butanol
+4	C2H4O2	60.053	64-19-7	Acetic acid
+Pressure	70.00	kPa
+T [K]	x1 [mol/mol]	x2 [mol/mol]	x3 [mol/mol]	y1 [mol/mol]	y2 [mol/mol]	y3 [mol/mol]
+379.98	0.00500	0.00120	0.04460	0.01110	0.00110	0.02840
+382.56	0.00470	0.00540	0.19930	0.01180	0.00560	0.14770
+384.09	0.00560	0.00490	0.35570	0.01920	0.00580	0.30100
+385.25	0.00280	0.00270	0.62330	0.00700	0.00350	0.64240
+384.09	0.00140	0.00080	0.78220	0.00460	0.00110	0.84050
+382.79	0.00160	0.00030	0.87050	0.00730	0.00040	0.92100
+382.45	0.00000	0.00040	0.91650	0.00200	0.00050	0.94880
+Source
+Grob S.; Hasse H.: Thermodynamics of Phase and Chemical Equilibrium in a Strongly Nonideal Esterification System. J.Chem.Eng.Data 50 (2005) 92-101
+Source

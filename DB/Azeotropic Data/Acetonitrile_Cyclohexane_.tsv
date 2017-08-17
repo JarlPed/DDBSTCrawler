@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-hetPmax	293.150	19.050	n.a.	n.a.	n.a.	Author from VLE	3	
-hetPmax	335.350	101.325	n.a.	n.a.	Distillation	Author	1	
-hetPmax	335.650	101.325	n.a.	0.39268	Distillation	Author	2	
-hetPmax	heterogeneous pressure maximum	
-1	Bishop R.B.; Denton W.I.: Hydrocarbon Azeotropes with Acetonitrile. Ind.Eng.Chem. 42 (1950) 883-885	
-2	Lecat M.: Azéotropes d´un genre nouveau et azéotropes de nitriles. Bull.Cl.Sci.Acad.Roy.Belg. 32 (1946) 351-362	
-3	Van Nhu N.; Kohler F.: Excess Properties of Mixtures of Polar Components and Hydrocarbons of Varying Local Polarisability. Fluid Phase Equilib. 50 (1989) 267-296	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C6H12	84.161	110-82-7	Cyclohexane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+hetPmax	293.150	19.050	n.a.	n.a.	n.a.	Author from VLE	3
+hetPmax	335.350	101.325	n.a.	n.a.	Distillation	Author	1
+hetPmax	335.650	101.325	n.a.	0.39268	Distillation	Author	2
+hetPmax	heterogeneous pressure maximum
+1	Bishop R.B.; Denton W.I.: Hydrocarbon Azeotropes with Acetonitrile. Ind.Eng.Chem. 42 (1950) 883-885
+2	Lecat M.: Azéotropes d´un genre nouveau et azéotropes de nitriles. Bull.Cl.Sci.Acad.Roy.Belg. 32 (1946) 351-362
+3	Van Nhu N.; Kohler F.: Excess Properties of Mixtures of Polar Components and Hydrocarbons of Varying Local Polarisability. Fluid Phase Equilib. 50 (1989) 267-296

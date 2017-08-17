@@ -1,73 +1,73 @@
-$$$Enthalpy of Mixing Data Set 1618	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-270.800	0.01950	
-507.100	0.04620	
-738.100	0.09230	
-936.700	0.15830	
-1090.500	0.24180	
-1168.800	0.32490	
-1187.400	0.39030	
-1163.000	0.47730	
-1107.500	0.54540	
-1081.700	0.57150	
-1008.800	0.62450	
-887.700	0.69360	
-770.500	0.74870	
-616.700	0.81020	
-415.100	0.87970	
-242.000	0.93300	
-113.600	0.97000	
-Source	
-Nagata I.; Ogasawara Y.: Prediction of Ternary Excess Enthalpies from Binary Data.. Thermochim.Acta 52 (1982) 155-168	
-$$$Enthalpy of Mixing Data Set 7180	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	298.200	K	
-hE [J/mol]	x1 [mol/mol]	
-780.900	0.11050	
-905.100	0.14150	
-1065.200	0.21160	
-1156.000	0.28560	
-1175.900	0.33810	
-1181.400	0.38850	
-1170.400	0.43510	
-1140.600	0.49680	
-1090.600	0.54510	
-978.400	0.63860	
-760.000	0.75240	
-550.400	0.83280	
-324.500	0.90640	
-190.000	0.94610	
-Source	
-Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770	
-$$$Enthalpy of Mixing Data Set 12231	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-931.000	0.11100	
-1155.000	0.17270	
-1278.000	0.25780	
-1290.000	0.31260	
-1274.000	0.37190	
-1236.000	0.43340	
-1184.000	0.49780	
-1103.000	0.56610	
-1031.000	0.61340	
-887.000	0.68830	
-809.000	0.72240	
-595.000	0.79990	
-403.000	0.86050	
-233.000	0.91320	
-Source	
-Singh K.C.; Kalra K.C.; Maken S.; Gupta V.: Excess heat of mixing of 1-propanol or 2-propanol with benzene, toluene, o-, m- and p-xylenes at 298.15 K. Thermochim.Acta 275 (1996) 51-65	
-Source	
-Nagata I.; Ogasawara Y.: Prediction of Ternary Excess Enthalpies from Binary Data.. Thermochim.Acta 52 (1982) 155-168	
-Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770	
-Singh K.C.; Kalra K.C.; Maken S.; Gupta V.: Excess heat of mixing of 1-propanol or 2-propanol with benzene, toluene, o-, m- and p-xylenes at 298.15 K. Thermochim.Acta 275 (1996) 51-65	
+$$$Enthalpy of Mixing Data Set 1618
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+270.800	0.01950
+507.100	0.04620
+738.100	0.09230
+936.700	0.15830
+1090.500	0.24180
+1168.800	0.32490
+1187.400	0.39030
+1163.000	0.47730
+1107.500	0.54540
+1081.700	0.57150
+1008.800	0.62450
+887.700	0.69360
+770.500	0.74870
+616.700	0.81020
+415.100	0.87970
+242.000	0.93300
+113.600	0.97000
+Source
+Nagata I.; Ogasawara Y.: Prediction of Ternary Excess Enthalpies from Binary Data.. Thermochim.Acta 52 (1982) 155-168
+$$$Enthalpy of Mixing Data Set 7180
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	298.200	K
+hE [J/mol]	x1 [mol/mol]
+780.900	0.11050
+905.100	0.14150
+1065.200	0.21160
+1156.000	0.28560
+1175.900	0.33810
+1181.400	0.38850
+1170.400	0.43510
+1140.600	0.49680
+1090.600	0.54510
+978.400	0.63860
+760.000	0.75240
+550.400	0.83280
+324.500	0.90640
+190.000	0.94610
+Source
+Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770
+$$$Enthalpy of Mixing Data Set 12231
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+931.000	0.11100
+1155.000	0.17270
+1278.000	0.25780
+1290.000	0.31260
+1274.000	0.37190
+1236.000	0.43340
+1184.000	0.49780
+1103.000	0.56610
+1031.000	0.61340
+887.000	0.68830
+809.000	0.72240
+595.000	0.79990
+403.000	0.86050
+233.000	0.91320
+Source
+Singh K.C.; Kalra K.C.; Maken S.; Gupta V.: Excess heat of mixing of 1-propanol or 2-propanol with benzene, toluene, o-, m- and p-xylenes at 298.15 K. Thermochim.Acta 275 (1996) 51-65
+Source
+Nagata I.; Ogasawara Y.: Prediction of Ternary Excess Enthalpies from Binary Data.. Thermochim.Acta 52 (1982) 155-168
+Letcher T.M.; Prasad A.K.; Schoonbaert F.E.Z.; Mercer-Chalmers J.: Excess enthalpies of (a xylene + an alkanol) at 298.2 K. J.Chem.Thermodyn. 22 (1990) 765-770
+Singh K.C.; Kalra K.C.; Maken S.; Gupta V.: Excess heat of mixing of 1-propanol or 2-propanol with benzene, toluene, o-, m- and p-xylenes at 298.15 K. Thermochim.Acta 275 (1996) 51-65

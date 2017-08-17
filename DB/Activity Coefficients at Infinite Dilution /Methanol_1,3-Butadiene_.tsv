@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C4H6	54.092	106-99-0	1,3-Butadiene	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-254.92	6.0000	DILU	1	
-260.02	6.1000	DILU	1	
-269.95	6.1000	DILU	1	
-Short Term	Explanation	
-DILU	dilutor	
-1	Miyano Y.; Fukuchi K.: Henry's Constants of Propane, Propene, trans-2-Butene and 1,3-Butadiene in Methanol at 255 - 320 K. Fluid Phase Equilib. 226 (2004) 183-187	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C4H6	54.092	106-99-0	1,3-Butadiene
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+254.92	6.0000	DILU	1
+260.02	6.1000	DILU	1
+269.95	6.1000	DILU	1
+Short Term	Explanation
+DILU	dilutor
+1	Miyano Y.; Fukuchi K.: Henry's Constants of Propane, Propene, trans-2-Butene and 1,3-Butadiene in Methanol at 255 - 320 K. Fluid Phase Equilib. 226 (2004) 183-187

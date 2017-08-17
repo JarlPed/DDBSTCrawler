@@ -1,63 +1,63 @@
-$$$Enthalpy of Mixing Data Set 1015	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-195.100	0.05290	
-317.780	0.09840	
-489.440	0.19770	
-570.660	0.29500	
-612.110	0.33680	
-619.650	0.41760	
-635.140	0.46360	
-638.070	0.51520	
-554.330	0.61050	
-515.810	0.64550	
-406.960	0.71480	
-353.780	0.75120	
-281.350	0.80620	
-62.380	0.93270	
-Source	
-Nagata I.; Nagashima M.; Kazuma K.; Nagagawa M.: Heats of Mixing for Binary Systems and Data Reduction Based on a Triplet Model of Guggenheim. J.Chem.Eng.Japan 8 (1975) 261-265	
-$$$Enthalpy of Mixing Data Set 11273	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-312.000	0.07300	
-557.000	0.16400	
-714.000	0.26600	
-786.000	0.36100	
-822.000	0.40300	
-839.000	0.47200	
-842.000	0.53800	
-794.000	0.61700	
-771.000	0.63200	
-643.000	0.73300	
-326.000	0.88800	
-276.000	0.91000	
-Source	
-Ruiz A.: Excess Enthalpies of (Hexane + a Carboxylic Acid). J.Chem.Thermodyn. 27 (1995) 1227-1234	
-$$$Enthalpy of Mixing Data Set 11274	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
-371.000	0.09400	
-548.000	0.16200	
-732.000	0.27300	
-863.000	0.44500	
-863.000	0.54700	
-790.000	0.66000	
-695.000	0.71700	
-560.000	0.79900	
-389.000	0.87100	
-266.000	0.91400	
-Source	
-Ruiz A.: Excess Enthalpies of (Hexane + a Carboxylic Acid). J.Chem.Thermodyn. 27 (1995) 1227-1234	
-Source	
-Nagata I.; Nagashima M.; Kazuma K.; Nagagawa M.: Heats of Mixing for Binary Systems and Data Reduction Based on a Triplet Model of Guggenheim. J.Chem.Eng.Japan 8 (1975) 261-265	
-Ruiz A.: Excess Enthalpies of (Hexane + a Carboxylic Acid). J.Chem.Thermodyn. 27 (1995) 1227-1234	
+$$$Enthalpy of Mixing Data Set 1015
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+195.100	0.05290
+317.780	0.09840
+489.440	0.19770
+570.660	0.29500
+612.110	0.33680
+619.650	0.41760
+635.140	0.46360
+638.070	0.51520
+554.330	0.61050
+515.810	0.64550
+406.960	0.71480
+353.780	0.75120
+281.350	0.80620
+62.380	0.93270
+Source
+Nagata I.; Nagashima M.; Kazuma K.; Nagagawa M.: Heats of Mixing for Binary Systems and Data Reduction Based on a Triplet Model of Guggenheim. J.Chem.Eng.Japan 8 (1975) 261-265
+$$$Enthalpy of Mixing Data Set 11273
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+312.000	0.07300
+557.000	0.16400
+714.000	0.26600
+786.000	0.36100
+822.000	0.40300
+839.000	0.47200
+842.000	0.53800
+794.000	0.61700
+771.000	0.63200
+643.000	0.73300
+326.000	0.88800
+276.000	0.91000
+Source
+Ruiz A.: Excess Enthalpies of (Hexane + a Carboxylic Acid). J.Chem.Thermodyn. 27 (1995) 1227-1234
+$$$Enthalpy of Mixing Data Set 11274
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+371.000	0.09400
+548.000	0.16200
+732.000	0.27300
+863.000	0.44500
+863.000	0.54700
+790.000	0.66000
+695.000	0.71700
+560.000	0.79900
+389.000	0.87100
+266.000	0.91400
+Source
+Ruiz A.: Excess Enthalpies of (Hexane + a Carboxylic Acid). J.Chem.Thermodyn. 27 (1995) 1227-1234
+Source
+Nagata I.; Nagashima M.; Kazuma K.; Nagagawa M.: Heats of Mixing for Binary Systems and Data Reduction Based on a Triplet Model of Guggenheim. J.Chem.Eng.Japan 8 (1975) 261-265
+Ruiz A.: Excess Enthalpies of (Hexane + a Carboxylic Acid). J.Chem.Thermodyn. 27 (1995) 1227-1234

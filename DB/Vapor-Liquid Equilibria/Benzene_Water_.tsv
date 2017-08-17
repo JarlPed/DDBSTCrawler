@@ -1,84 +1,84 @@
-$$$Vapor-Liquid Equilibrium Data Set 922	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	363.63	K	
-P [kPa]	x1 [mol/mol]	
-208.637	0.97286	
-208.635	0.97499	
-208.028	0.97714	
-206.224	0.97825	
-204.261	0.97951	
-201.771	0.98113	
-199.272	0.98195	
-198.072	0.98273	
-195.011	0.98380	
-189.339	0.98574	
-184.108	0.98742	
-179.249	0.98900	
-171.781	0.99087	
-166.836	0.99245	
-157.770	0.99520	
-151.566	0.99682	
-146.259	0.99814	
-141.380	0.99925	
-138.033	1.00000	
-Source	
-Fischer K.: Experimentelle Bestimmung der Siedekurve im System Benzol(1)-Wasser(2) im homogenen Benzol - reichen Bereich bei 90.48 °C mit Hilfe der synthetischen statischen Meßmethode. Unpublished Data  (1994) 0	
-$$$Vapor-Liquid Equilibrium Data Set 3804	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	293.15	K	
-P [kPa]	x1 [mol/mol]	
-12.899	0.99740	
-12.386	0.99770	
-11.799	0.99810	
-11.639	0.99850	
-10.998	0.99900	
-10.831	0.99910	
-10.602	0.99930	
-10.566	0.99950	
-10.508	0.99960	
-10.212	0.99970	
-10.136	0.99980	
-10.172	0.99990	
-10.106	0.99990	
-10.083	0.99990	
-9.994	1.00000	
-Source	
-Niini A.: I. Unpolare Lösungsmittel. Suom.Tied.Toimit.Ser.A Sci.Nat. 55 (1940) 1-52	
-$$$Vapor-Liquid Equilibrium Data Set 15335	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	H2O	18.015	7732-18-5	Water	
-Pressure	101.30	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-373.01	0.00000	0.00000	
-365.35	0.00040	0.23200	
-370.90	0.00200	0.12120	
-367.65	0.00670	0.18520	
-351.50	0.00690	0.48060	
-355.15	0.00830	0.41340	
-342.43	0.00870	0.68280	
-362.35	0.01070	0.26110	
-344.88	0.01070	0.62210	
-357.10	0.01230	0.35760	
-348.65	0.01230	0.49700	
-346.74	0.01250	0.60980	
-342.42	0.01680	0.70020	
-342.80	0.01990	0.68600	
-342.42	0.02800	0.70380	
-343.45	0.78550	0.70240	
-345.17	0.97030	0.76650	
-345.99	0.98330	0.81730	
-348.99	0.98710	0.88850	
-347.80	0.98750	0.85640	
-350.87	0.99050	0.93100	
-352.98	1.00000	1.00000	
-Source	
-Tu M.; Lei G.; Fei D.: Phase Equilibrium for the System of Phosphoric Acid - Water - Benzene. Chengdu-Keji-Daxue-Xuebao 3 (1992) 65-70	
-Source	
-Niini A.: I. Unpolare Lösungsmittel. Suom.Tied.Toimit.Ser.A Sci.Nat. 55 (1940) 1-52	
-Fischer K.: Experimentelle Bestimmung der Siedekurve im System Benzol(1)-Wasser(2) im homogenen Benzol - reichen Bereich bei 90.48 °C mit Hilfe der synthetischen statischen Meßmethode. Unpublished Data  (1994) 0	
-Tu M.; Lei G.; Fei D.: Phase Equilibrium for the System of Phosphoric Acid - Water - Benzene. Chengdu-Keji-Daxue-Xuebao 3 (1992) 65-70	
+$$$Vapor-Liquid Equilibrium Data Set 922
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	H2O	18.015	7732-18-5	Water
+Temperature	363.63	K
+P [kPa]	x1 [mol/mol]
+208.637	0.97286
+208.635	0.97499
+208.028	0.97714
+206.224	0.97825
+204.261	0.97951
+201.771	0.98113
+199.272	0.98195
+198.072	0.98273
+195.011	0.98380
+189.339	0.98574
+184.108	0.98742
+179.249	0.98900
+171.781	0.99087
+166.836	0.99245
+157.770	0.99520
+151.566	0.99682
+146.259	0.99814
+141.380	0.99925
+138.033	1.00000
+Source
+Fischer K.: Experimentelle Bestimmung der Siedekurve im System Benzol(1)-Wasser(2) im homogenen Benzol - reichen Bereich bei 90.48 °C mit Hilfe der synthetischen statischen Meßmethode. Unpublished Data  (1994) 0
+$$$Vapor-Liquid Equilibrium Data Set 3804
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	H2O	18.015	7732-18-5	Water
+Temperature	293.15	K
+P [kPa]	x1 [mol/mol]
+12.899	0.99740
+12.386	0.99770
+11.799	0.99810
+11.639	0.99850
+10.998	0.99900
+10.831	0.99910
+10.602	0.99930
+10.566	0.99950
+10.508	0.99960
+10.212	0.99970
+10.136	0.99980
+10.172	0.99990
+10.106	0.99990
+10.083	0.99990
+9.994	1.00000
+Source
+Niini A.: I. Unpolare Lösungsmittel. Suom.Tied.Toimit.Ser.A Sci.Nat. 55 (1940) 1-52
+$$$Vapor-Liquid Equilibrium Data Set 15335
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	H2O	18.015	7732-18-5	Water
+Pressure	101.30	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+373.01	0.000000.00000
+365.35	0.00040	0.23200
+370.90	0.00200	0.12120
+367.65	0.00670	0.18520
+351.50	0.00690	0.48060
+355.15	0.00830	0.41340
+342.43	0.00870	0.68280
+362.35	0.01070	0.26110
+344.88	0.01070	0.62210
+357.10	0.01230	0.35760
+348.65	0.01230	0.49700
+346.74	0.01250	0.60980
+342.42	0.01680	0.70020
+342.80	0.01990	0.68600
+342.42	0.02800	0.70380
+343.45	0.78550	0.70240
+345.17	0.97030	0.76650
+345.99	0.98330	0.81730
+348.99	0.98710	0.88850
+347.80	0.98750	0.85640
+350.87	0.99050	0.93100
+352.98	1.000001.00000
+Source
+Tu M.; Lei G.; Fei D.: Phase Equilibrium for the System of Phosphoric Acid - Water - Benzene. Chengdu-Keji-Daxue-Xuebao 3 (1992) 65-70
+Source
+Niini A.: I. Unpolare Lösungsmittel. Suom.Tied.Toimit.Ser.A Sci.Nat. 55 (1940) 1-52
+Fischer K.: Experimentelle Bestimmung der Siedekurve im System Benzol(1)-Wasser(2) im homogenen Benzol - reichen Bereich bei 90.48 °C mit Hilfe der synthetischen statischen Meßmethode. Unpublished Data  (1994) 0
+Tu M.; Lei G.; Fei D.: Phase Equilibrium for the System of Phosphoric Acid - Water - Benzene. Chengdu-Keji-Daxue-Xuebao 3 (1992) 65-70

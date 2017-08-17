@@ -1,63 +1,63 @@
-$$$Vapor-Liquid Equilibrium Data Set 11	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	H2O	18.015	7732-18-5	Water	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-368.25	0.00800	0.13800	
-363.25	0.01600	0.27700	
-355.25	0.03300	0.47900	
-349.35	0.05200	0.60400	
-345.35	0.07200	0.67500	
-342.65	0.09400	0.71900	
-340.75	0.11700	0.73800	
-338.15	0.17100	0.77600	
-336.45	0.23700	0.80000	
-335.15	0.31800	0.82200	
-334.15	0.42000	0.83900	
-333.05	0.55400	0.86300	
-331.35	0.73600	0.90900	
-Source	
-Reinders W.; de Minjer C.H.: VI. The System Water-Acetone-Chloroform. Recl.Trav.Chim.Pays-Bas 66 (1947) 573-604	
-$$$Vapor-Liquid Equilibrium Data Set 12	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	H2O	18.015	7732-18-5	Water	
-Pressure	344.73	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-395.65	0.01700	0.34900	
-393.15	0.02400	0.39800	
-385.15	0.05500	0.51800	
-379.15	0.10700	0.60800	
-375.95	0.19400	0.67000	
-374.45	0.27300	0.69500	
-373.05	0.38800	0.71800	
-372.15	0.54500	0.74700	
-371.95	0.63300	0.76800	
-371.75	0.77800	0.83000	
-371.55	0.89000	0.90300	
-371.35	0.95000	0.95100	
-Source	
-Othmer D.F.; Chudgar M.M.; Levy S.L.: Binary and Ternary Systems of Acetone, Methyl Ethyl Ketone, and Water. Ind.Eng.Chem. 44 (1952) 1872-1881	
-$$$Vapor-Liquid Equilibrium Data Set 13	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	H2O	18.015	7732-18-5	Water	
-Pressure	689.48	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-423.85	0.01400	0.24900	
-415.45	0.03600	0.39500	
-409.55	0.07800	0.50700	
-404.25	0.14400	0.58200	
-402.75	0.22900	0.61800	
-402.15	0.34100	0.65000	
-401.45	0.44400	0.66500	
-399.75	0.55900	0.70000	
-398.85	0.75400	0.78100	
-398.55	0.84200	0.84500	
-399.15	0.92500	0.91200	
-Source	
-Othmer D.F.; Chudgar M.M.; Levy S.L.: Binary and Ternary Systems of Acetone, Methyl Ethyl Ketone, and Water. Ind.Eng.Chem. 44 (1952) 1872-1881	
-Source	
-Othmer D.F.; Chudgar M.M.; Levy S.L.: Binary and Ternary Systems of Acetone, Methyl Ethyl Ketone, and Water. Ind.Eng.Chem. 44 (1952) 1872-1881	
-Reinders W.; de Minjer C.H.: VI. The System Water-Acetone-Chloroform. Recl.Trav.Chim.Pays-Bas 66 (1947) 573-604	
+$$$Vapor-Liquid Equilibrium Data Set 11
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	H2O	18.015	7732-18-5	Water
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+368.25	0.00800	0.13800
+363.25	0.01600	0.27700
+355.25	0.03300	0.47900
+349.35	0.05200	0.60400
+345.35	0.07200	0.67500
+342.65	0.09400	0.71900
+340.75	0.11700	0.73800
+338.15	0.17100	0.77600
+336.45	0.23700	0.80000
+335.15	0.31800	0.82200
+334.15	0.42000	0.83900
+333.05	0.55400	0.86300
+331.35	0.73600	0.90900
+Source
+Reinders W.; de Minjer C.H.: VI. The System Water-Acetone-Chloroform. Recl.Trav.Chim.Pays-Bas 66 (1947) 573-604
+$$$Vapor-Liquid Equilibrium Data Set 12
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	H2O	18.015	7732-18-5	Water
+Pressure	344.73	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+395.65	0.01700	0.34900
+393.15	0.02400	0.39800
+385.15	0.05500	0.51800
+379.15	0.10700	0.60800
+375.95	0.19400	0.67000
+374.45	0.27300	0.69500
+373.05	0.38800	0.71800
+372.15	0.54500	0.74700
+371.95	0.63300	0.76800
+371.75	0.77800	0.83000
+371.55	0.89000	0.90300
+371.35	0.95000	0.95100
+Source
+Othmer D.F.; Chudgar M.M.; Levy S.L.: Binary and Ternary Systems of Acetone, Methyl Ethyl Ketone, and Water. Ind.Eng.Chem. 44 (1952) 1872-1881
+$$$Vapor-Liquid Equilibrium Data Set 13
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	H2O	18.015	7732-18-5	Water
+Pressure	689.48	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+423.85	0.01400	0.24900
+415.45	0.03600	0.39500
+409.55	0.07800	0.50700
+404.25	0.14400	0.58200
+402.75	0.22900	0.61800
+402.15	0.34100	0.65000
+401.45	0.44400	0.66500
+399.75	0.55900	0.70000
+398.85	0.75400	0.78100
+398.55	0.84200	0.84500
+399.15	0.92500	0.91200
+Source
+Othmer D.F.; Chudgar M.M.; Levy S.L.: Binary and Ternary Systems of Acetone, Methyl Ethyl Ketone, and Water. Ind.Eng.Chem. 44 (1952) 1872-1881
+Source
+Othmer D.F.; Chudgar M.M.; Levy S.L.: Binary and Ternary Systems of Acetone, Methyl Ethyl Ketone, and Water. Ind.Eng.Chem. 44 (1952) 1872-1881
+Reinders W.; de Minjer C.H.: VI. The System Water-Acetone-Chloroform. Recl.Trav.Chim.Pays-Bas 66 (1947) 573-604

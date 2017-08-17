@@ -1,21 +1,21 @@
-$$$Excess Heat Capacity Data Set 569	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CHCl3	119.377	67-66-3	Chloroform	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-1.2900	0.05003	
-2.4020	0.10006	
-4.2620	0.20011	
-5.4100	0.30014	
-5.6010	0.40016	
-4.9410	0.50017	
-3.8240	0.60016	
-2.5410	0.70014	
-1.3640	0.80011	
-0.4800	0.90006	
-0.2000	0.95003	
-Source	
-Yamanaka K.; Ogawa H.; Murakami S.: Excess Molar Isobaric Heat Capacities of Mixtures of 2-Propane with Heptane, Benzene, and Trichloromethane at 298.15 K. Thermochim.Acta 169 (1990) 193-201	
-Source	
-Yamanaka K.; Ogawa H.; Murakami S.: Excess Molar Isobaric Heat Capacities of Mixtures of 2-Propane with Heptane, Benzene, and Trichloromethane at 298.15 K. Thermochim.Acta 169 (1990) 193-201	
+$$$Excess Heat Capacity Data Set 569
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CHCl3	119.377	67-66-3	Chloroform
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+1.2900	0.05003
+2.4020	0.10006
+4.2620	0.20011
+5.4100	0.30014
+5.6010	0.40016
+4.9410	0.50017
+3.8240	0.60016
+2.5410	0.70014
+1.3640	0.80011
+0.4800	0.90006
+0.2000	0.95003
+Source
+Yamanaka K.; Ogawa H.; Murakami S.: Excess Molar Isobaric Heat Capacities of Mixtures of 2-Propane with Heptane, Benzene, and Trichloromethane at 298.15 K. Thermochim.Acta 169 (1990) 193-201
+Source
+Yamanaka K.; Ogawa H.; Murakami S.: Excess Molar Isobaric Heat Capacities of Mixtures of 2-Propane with Heptane, Benzene, and Trichloromethane at 298.15 K. Thermochim.Acta 169 (1990) 193-201

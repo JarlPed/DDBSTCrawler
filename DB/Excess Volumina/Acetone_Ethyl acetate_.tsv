@@ -1,34 +1,34 @@
-$$$Excess Volume Data Set 6307	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.009514	0.12200	
-0.033806	0.23530	
-0.014946	0.34530	
-0.006889	0.50820	
-0.000359	0.60740	
--0.01036	0.72850	
--0.03457	0.80260	
--0.022446	0.90010	
-Source	
-Petrino P.J.; Gaston-Bonhomme Y.H.; Chevalier J.L.E.: Viscosity and Density of Binary Liquid Mixtures of Hydrocarbons, Esters, Ketones, and Normal Chloroalkanes. J.Chem.Eng.Data 40 (1995) 136-140	
-$$$Excess Volume Data Set 16108	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0000	0.00000	
-0.003457	0.01480	
-0.02382	0.02880	
-0.02446	0.06840	
-0.05583	0.07710	
-0.07131	0.27690	
-0.0000	1.00000	
-Source	
-Shidlovskaya A.N.; Syrkin Ya K.: Dielektrische Polarisation binärer Systeme. Zh.Fiz.Khim. 22 (1948) 913-919	
-Source	
-Petrino P.J.; Gaston-Bonhomme Y.H.; Chevalier J.L.E.: Viscosity and Density of Binary Liquid Mixtures of Hydrocarbons, Esters, Ketones, and Normal Chloroalkanes. J.Chem.Eng.Data 40 (1995) 136-140	
-Shidlovskaya A.N.; Syrkin Ya K.: Dielektrische Polarisation binärer Systeme. Zh.Fiz.Khim. 22 (1948) 913-919	
+$$$Excess Volume Data Set 6307
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.009514	0.12200
+0.033806	0.23530
+0.014946	0.34530
+0.006889	0.50820
+0.000359	0.60740
+-0.01036	0.72850
+-0.03457	0.80260
+-0.022446	0.90010
+Source
+Petrino P.J.; Gaston-Bonhomme Y.H.; Chevalier J.L.E.: Viscosity and Density of Binary Liquid Mixtures of Hydrocarbons, Esters, Ketones, and Normal Chloroalkanes. J.Chem.Eng.Data 40 (1995) 136-140
+$$$Excess Volume Data Set 16108
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0000	0.00000
+0.003457	0.01480
+0.02382	0.02880
+0.02446	0.06840
+0.05583	0.07710
+0.07131	0.27690
+0.0000	1.00000
+Source
+Shidlovskaya A.N.; Syrkin Ya K.: Dielektrische Polarisation binärer Systeme. Zh.Fiz.Khim. 22 (1948) 913-919
+Source
+Petrino P.J.; Gaston-Bonhomme Y.H.; Chevalier J.L.E.: Viscosity and Density of Binary Liquid Mixtures of Hydrocarbons, Esters, Ketones, and Normal Chloroalkanes. J.Chem.Eng.Data 40 (1995) 136-140
+Shidlovskaya A.N.; Syrkin Ya K.: Dielektrische Polarisation binärer Systeme. Zh.Fiz.Khim. 22 (1948) 913-919

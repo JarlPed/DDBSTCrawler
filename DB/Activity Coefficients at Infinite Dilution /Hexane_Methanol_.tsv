@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-263.15	392.00	DILU	1	
-273.15	243.00	DILU	1	
-293.15	127.30	DILU	2	
-Short Term	Explanation	
-DILU	dilutor	
-1	Warsow K.: . Master's Thesis  (1987)	
-2	Wobst M.; Hradetzky G.; Bittrich H.J.: Measurement of activity coefficients in highly dilute solutions. Part II.. Fluid Phase Equilib. 77 (1992) 297-312	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	CH4O	32.042	67-56-1	Methanol
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+263.15	392.00	DILU	1
+273.15	243.00	DILU	1
+293.15	127.30	DILU	2
+Short Term	Explanation
+DILU	dilutor
+1	Warsow K.: . Master's Thesis  (1987)
+2	Wobst M.; Hradetzky G.; Bittrich H.J.: Measurement of activity coefficients in highly dilute solutions. Part II.. Fluid Phase Equilib. 77 (1992) 297-312

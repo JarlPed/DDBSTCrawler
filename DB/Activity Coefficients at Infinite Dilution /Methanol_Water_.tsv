@@ -1,9 +1,9 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	H2O	18.015	7732-18-5	Water	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-307.75	1.6000	EBUL	1	
-317.85	1.8000	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-1	Bergmann D.L.; Eckert C.A.: Measurement of Limiting Activity Coefficients for Aqueous Systems by Differential Ebulliometry. Fluid Phase Equilib. 63 (1991) 141-150	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	H2O	18.015	7732-18-5	Water
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+307.75	1.6000	EBUL	1
+317.85	1.8000	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+1	Bergmann D.L.; Eckert C.A.: Measurement of Limiting Activity Coefficients for Aqueous Systems by Differential Ebulliometry. Fluid Phase Equilib. 63 (1991) 141-150

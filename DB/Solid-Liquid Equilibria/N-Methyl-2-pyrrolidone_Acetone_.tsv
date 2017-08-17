@@ -1,32 +1,32 @@
-$$$Solid-Liquid Equilibrium Data Set 17269	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	C3H6O	58.080	67-64-1	Acetone	
-T [K]	xL1 [mol/mol]	
-211.17	0.38930	
-214.57	0.42900	
-216.20	0.44690	
-218.74	0.47820	
-221.30	0.51210	
-223.53	0.53980	
-226.49	0.59580	
-229.65	0.64030	
-232.37	0.69100	
-235.00	0.72860	
-236.95	0.76430	
-239.60	0.80670	
-241.66	0.84030	
-243.90	0.87660	
-245.75	0.91250	
-247.21	0.94390	
-249.68	1.00000	
-Source	
-Domanska U.; Lachwa J.: Thermodynamics of binary mixtures of N-methyl-2-pyrrolidinone and ketone. Experimental results and modelling of the (solid + liquid) equilibrium and the (vapour + liquid) equilibrium. The modified UNIFAC (Do) model characterization.. J.Chem.Thermodyn. 37 (2005) 692-704	
-$$$Solid-Liquid Equilibrium Data Set 19719	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-159.15	0.74236	0.74236	
-Source	
-Bakhtyukova G.N.; Blinov Yu.S.; Demidova Yu.A.; Schleinikov V.M.: Über Erstarrungstemperatur von gemischten Lösungsmitteln Methanol - Aceton, N-Methylpyrrolidon - Aceton. Zh.Prikl.Khim. 45 (1972) 449-450	
+$$$Solid-Liquid Equilibrium Data Set 17269
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	C3H6O	58.080	67-64-1	Acetone
+T [K]	xL1 [mol/mol]
+211.17	0.38930
+214.57	0.42900
+216.20	0.44690
+218.74	0.47820
+221.30	0.51210
+223.53	0.53980
+226.49	0.59580
+229.65	0.64030
+232.37	0.69100
+235.00	0.72860
+236.95	0.76430
+239.60	0.80670
+241.66	0.84030
+243.90	0.87660
+245.75	0.91250
+247.21	0.94390
+249.68	1.00000
+Source
+Domanska U.; Lachwa J.: Thermodynamics of binary mixtures of N-methyl-2-pyrrolidinone and ketone. Experimental results and modelling of the (solid + liquid) equilibrium and the (vapour + liquid) equilibrium. The modified UNIFAC (Do) model characterization.. J.Chem.Thermodyn. 37 (2005) 692-704
+$$$Solid-Liquid Equilibrium Data Set 19719
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+159.15	0.742360.74236
+Source
+Bakhtyukova G.N.; Blinov Yu.S.; Demidova Yu.A.; Schleinikov V.M.: Über Erstarrungstemperatur von gemischten Lösungsmitteln Methanol - Aceton, N-Methylpyrrolidon - Aceton. Zh.Prikl.Khim. 45 (1972) 449-450

@@ -1,63 +1,63 @@
-$$$Enthalpy of Mixing Data Set 7115	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.200	K	
-hE [J/mol]	x1 [mol/mol]	
--3.600	0.09000	
--8.400	0.13490	
--2.600	0.29940	
-14.100	0.43900	
-18.400	0.46980	
-33.400	0.49220	
-36.000	0.55020	
-53.600	0.61990	
-69.700	0.80130	
-77.700	0.82110	
-Source	
-Hammerl I.; Vogel A.; Bittrich H.-J.: Exzeßenthalpien von N-Methylpyrrolidon- (NMP) und N-Methylcaprolactam- (NMC) Systemen. Z.Phys.Chem.(Leipzig) 271 (1990) 477-482	
-$$$Enthalpy of Mixing Data Set 7116	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	313.200	K	
-hE [J/mol]	x1 [mol/mol]	
-24.200	0.12970	
-56.000	0.23340	
-89.100	0.35400	
-98.300	0.42410	
-109.900	0.44380	
-150.000	0.58060	
-191.100	0.76630	
-180.600	0.80710	
-128.600	0.90160	
-Source	
-Hammerl I.; Vogel A.; Bittrich H.-J.: Exzeßenthalpien von N-Methylpyrrolidon- (NMP) und N-Methylcaprolactam- (NMC) Systemen. Z.Phys.Chem.(Leipzig) 271 (1990) 477-482	
-$$$Enthalpy of Mixing Data Set 7684	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	363.150	K	
-Pressure	7.000	bar	
-hE [J/mol]	x1 [mol/mol]	
-20.517	0.08000	
-20.384	0.08000	
-44.051	0.16370	
-44.154	0.16370	
-71.109	0.25120	
-98.440	0.34290	
-125.702	0.43910	
-152.734	0.54010	
-172.184	0.64620	
-174.951	0.75790	
-162.248	0.81600	
-152.612	0.84570	
-137.346	0.87570	
-116.064	0.90610	
-87.836	0.93700	
-49.704	0.96830	
-Source	
-Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213	
-Source	
-Hammerl I.; Vogel A.; Bittrich H.-J.: Exzeßenthalpien von N-Methylpyrrolidon- (NMP) und N-Methylcaprolactam- (NMC) Systemen. Z.Phys.Chem.(Leipzig) 271 (1990) 477-482	
-Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213	
+$$$Enthalpy of Mixing Data Set 7115
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.200	K
+hE [J/mol]	x1 [mol/mol]
+-3.600	0.09000
+-8.400	0.13490
+-2.600	0.29940
+14.100	0.43900
+18.400	0.46980
+33.400	0.49220
+36.000	0.55020
+53.600	0.61990
+69.700	0.80130
+77.700	0.82110
+Source
+Hammerl I.; Vogel A.; Bittrich H.-J.: Exzeßenthalpien von N-Methylpyrrolidon- (NMP) und N-Methylcaprolactam- (NMC) Systemen. Z.Phys.Chem.(Leipzig) 271 (1990) 477-482
+$$$Enthalpy of Mixing Data Set 7116
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	313.200	K
+hE [J/mol]	x1 [mol/mol]
+24.200	0.12970
+56.000	0.23340
+89.100	0.35400
+98.300	0.42410
+109.900	0.44380
+150.000	0.58060
+191.100	0.76630
+180.600	0.80710
+128.600	0.90160
+Source
+Hammerl I.; Vogel A.; Bittrich H.-J.: Exzeßenthalpien von N-Methylpyrrolidon- (NMP) und N-Methylcaprolactam- (NMC) Systemen. Z.Phys.Chem.(Leipzig) 271 (1990) 477-482
+$$$Enthalpy of Mixing Data Set 7684
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	363.150	K
+Pressure	7.000	bar
+hE [J/mol]	x1 [mol/mol]
+20.517	0.08000
+20.384	0.08000
+44.051	0.16370
+44.154	0.16370
+71.109	0.25120
+98.440	0.34290
+125.702	0.43910
+152.734	0.54010
+172.184	0.64620
+174.951	0.75790
+162.248	0.81600
+152.612	0.84570
+137.346	0.87570
+116.064	0.90610
+87.836	0.93700
+49.704	0.96830
+Source
+Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213
+Source
+Hammerl I.; Vogel A.; Bittrich H.-J.: Exzeßenthalpien von N-Methylpyrrolidon- (NMP) und N-Methylcaprolactam- (NMC) Systemen. Z.Phys.Chem.(Leipzig) 271 (1990) 477-482
+Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213

@@ -1,71 +1,71 @@
-$$$Enthalpy of Mixing Data Set 4140	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	303.150	K	
-hE [J/mol]	x1 [mol/mol]	
-164.700	0.06820	
-341.700	0.16930	
-419.000	0.23260	
-457.900	0.27040	
-470.500	0.29580	
-509.000	0.33930	
-519.000	0.38470	
-536.100	0.43320	
-555.900	0.48300	
-570.800	0.53210	
-562.300	0.58170	
-559.800	0.60420	
-565.400	0.65830	
-552.300	0.67900	
-497.300	0.78290	
-481.400	0.79930	
-460.000	0.81380	
-346.300	0.88440	
-177.400	0.95060	
-Source	
-Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825	
-$$$Enthalpy of Mixing Data Set 4141	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	313.150	K	
-hE [J/mol]	x1 [mol/mol]	
-174.100	0.07030	
-326.100	0.14290	
-445.800	0.23260	
-514.100	0.29580	
-569.200	0.38470	
-594.400	0.43320	
-601.600	0.48300	
-628.900	0.60420	
-617.200	0.67900	
-545.900	0.78290	
-507.200	0.81380	
-372.600	0.88440	
-227.800	0.95060	
-Source	
-Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825	
-$$$Enthalpy of Mixing Data Set 4142	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	323.150	K	
-hE [J/mol]	x1 [mol/mol]	
-181.800	0.07090	
-360.600	0.14290	
-484.200	0.23260	
-556.800	0.29580	
-621.300	0.38470	
-649.900	0.43320	
-670.300	0.48300	
-687.900	0.60420	
-664.300	0.67900	
-581.500	0.78290	
-542.100	0.81380	
-428.000	0.87500	
-276.900	0.93360	
-Source	
-Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825	
-Source	
-Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825	
+$$$Enthalpy of Mixing Data Set 4140
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	303.150	K
+hE [J/mol]	x1 [mol/mol]
+164.700	0.06820
+341.700	0.16930
+419.000	0.23260
+457.900	0.27040
+470.500	0.29580
+509.000	0.33930
+519.000	0.38470
+536.100	0.43320
+555.900	0.48300
+570.800	0.53210
+562.300	0.58170
+559.800	0.60420
+565.400	0.65830
+552.300	0.67900
+497.300	0.78290
+481.400	0.79930
+460.000	0.81380
+346.300	0.88440
+177.400	0.95060
+Source
+Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825
+$$$Enthalpy of Mixing Data Set 4141
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	313.150	K
+hE [J/mol]	x1 [mol/mol]
+174.100	0.07030
+326.100	0.14290
+445.800	0.23260
+514.100	0.29580
+569.200	0.38470
+594.400	0.43320
+601.600	0.48300
+628.900	0.60420
+617.200	0.67900
+545.900	0.78290
+507.200	0.81380
+372.600	0.88440
+227.800	0.95060
+Source
+Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825
+$$$Enthalpy of Mixing Data Set 4142
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	323.150	K
+hE [J/mol]	x1 [mol/mol]
+181.800	0.07090
+360.600	0.14290
+484.200	0.23260
+556.800	0.29580
+621.300	0.38470
+649.900	0.43320
+670.300	0.48300
+687.900	0.60420
+664.300	0.67900
+581.500	0.78290
+542.100	0.81380
+428.000	0.87500
+276.900	0.93360
+Source
+Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825
+Source
+Karvo M.: Excess Enthalpies of Sulfolane + Benzene, + Toluene, + p-Xylane, and + Mesitylene as Functions of Temperature. J.Chem.Thermodyn. 15 (1983) 821-825

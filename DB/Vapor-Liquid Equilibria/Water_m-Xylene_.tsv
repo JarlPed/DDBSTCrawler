@@ -1,30 +1,30 @@
-$$$Vapor-Liquid Equilibrium Data Set 15334	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Pressure	101.30	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-408.15	0.00220	0.12160	
-407.59	0.00290	0.13960	
-405.01	0.00350	0.18750	
-399.85	0.00820	0.30820	
-395.63	0.01220	0.40130	
-391.15	0.01630	0.48070	
-385.91	0.02420	0.56270	
-382.35	0.02310	0.60230	
-377.35	0.03490	0.67040	
-374.89	0.08640	0.69210	
-372.65	0.12940	0.71260	
-370.25	0.20570	0.72430	
-369.87	0.24350	0.73780	
-367.16	0.99920	0.79240	
-367.20	0.99928	0.79920	
-367.46	0.99940	0.81380	
-368.06	0.99957	0.83130	
-369.32	0.99980	0.87230	
-371.21	0.99993	0.93340	
-372.84	0.99999	0.98970	
-Source	
-Tu M.; Lai G.; Fei D.: Vapor-Liquid Phase Equilibrium of Binary System of Benzene-Water and m-Xylene-Water. Huagong-Xuebao / CIESC J. 45 (1994) 225-229	
-Source	
-Tu M.; Lai G.; Fei D.: Vapor-Liquid Phase Equilibrium of Binary System of Benzene-Water and m-Xylene-Water. Huagong-Xuebao / CIESC J. 45 (1994) 225-229	
+$$$Vapor-Liquid Equilibrium Data Set 15334
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C8H10	106.167	108-38-3	m-Xylene
+Pressure	101.30	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+408.15	0.00220	0.12160
+407.59	0.00290	0.13960
+405.01	0.00350	0.18750
+399.85	0.00820	0.30820
+395.63	0.01220	0.40130
+391.15	0.01630	0.48070
+385.91	0.02420	0.56270
+382.35	0.02310	0.60230
+377.35	0.03490	0.67040
+374.89	0.08640	0.69210
+372.65	0.12940	0.71260
+370.25	0.20570	0.72430
+369.87	0.24350	0.73780
+367.16	0.99920	0.79240
+367.20	0.99928	0.79920
+367.46	0.99940	0.81380
+368.06	0.99957	0.83130
+369.32	0.99980	0.87230
+371.21	0.99993	0.93340
+372.84	0.99999	0.98970
+Source
+Tu M.; Lai G.; Fei D.: Vapor-Liquid Phase Equilibrium of Binary System of Benzene-Water and m-Xylene-Water. Huagong-Xuebao / CIESC J. 45 (1994) 225-229
+Source
+Tu M.; Lai G.; Fei D.: Vapor-Liquid Phase Equilibrium of Binary System of Benzene-Water and m-Xylene-Water. Huagong-Xuebao / CIESC J. 45 (1994) 225-229

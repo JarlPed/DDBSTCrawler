@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C6H6	78.114	71-43-2	Benzene	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	1.7000	GLCN	2	
-303.95	1.5900	EBUL	1	
-314.35	1.5700	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-GLCN	GLC (not specified)	
-1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240	
-2	Deal C.H.; Derr E.L.: Selectivity and Solvency in Aromatics Recovery. Ind.Eng.Chem. Process Des.Dev. 3 (1964) 394-399	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C6H6	78.114	71-43-2	Benzene
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	1.7000	GLCN	2
+303.95	1.5900	EBUL	1
+314.35	1.5700	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+GLCN	GLC (not specified)
+1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240
+2	Deal C.H.; Derr E.L.: Selectivity and Solvency in Aromatics Recovery. Ind.Eng.Chem. Process Des.Dev. 3 (1964) 394-399

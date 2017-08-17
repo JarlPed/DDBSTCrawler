@@ -1,72 +1,72 @@
-$$$Solid-Liquid Equilibrium Data Set 1373	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	
-278.55	0.00000	
-277.35	0.04460	
-276.95	0.05620	
-275.45	0.15510	
-274.80	0.21290	
-273.85	0.32010	
-272.95	0.37800	
-272.15	0.43000	
-271.40	0.47410	
-270.15	0.50990	
-269.25	0.55200	
-267.15	0.61080	
-265.35	0.65120	
-263.05	0.68960	
-260.55	0.74000	
-255.65	0.79140	
-250.45	0.83910	
-243.15	0.87900	
-236.15	0.90880	
-227.15	0.94490	
-210.15	0.96720	
-194.15	0.97290	
-185.15	0.98970	
-187.15	1.00000	
-Source	
-Perrakis N.: Les propriétés physiques des mélanges doubles liquides dans le voisinage de l'état critique de miscibilité. J.Chim.Phys. 22 (1925) 280-310	
-$$$Solid-Liquid Equilibrium Data Set 6673	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	
-278.67	0.00000	
-276.84	0.05130	
-275.94	0.10110	
-275.10	0.14780	
-274.21	0.20070	
-273.52	0.24900	
-272.72	0.30820	
-272.15	0.34960	
-271.34	0.39950	
-270.47	0.45130	
-269.29	0.50090	
-244.92	0.85270	
-253.25	0.79990	
-257.44	0.74890	
-261.45	0.70110	
-265.04	0.64850	
-266.83	0.59500	
-268.26	0.54880	
-Source	
-Joh R.: . Unpublished Data  (1996) 1-1	
-$$$Solid-Liquid Equilibrium Data Set 30336	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	C6H6	78.114	71-43-2	Benzene	
-T [K]	xL1 [mol/mol]	
-278.24	0.00570	
-278.24	0.00570	
-277.94	0.01140	
-277.93	0.01140	
-277.70	0.01700	
-277.51	0.02260	
-277.35	0.02810	
-277.20	0.03350	
-277.07	0.03890	
-Source	
-Aguirre-Ode F.; Koo J.; Rojas E.: Activity Coefficients in Benzene-Alcohol Systems near the Freezing Point of Benzene. J.Chem.Eng.Data 33 (1988) 445-448	
+$$$Solid-Liquid Equilibrium Data Set 1373
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]
+278.55	0.00000
+277.35	0.04460
+276.95	0.05620
+275.45	0.15510
+274.80	0.21290
+273.85	0.32010
+272.95	0.37800
+272.15	0.43000
+271.40	0.47410
+270.15	0.50990
+269.25	0.55200
+267.15	0.61080
+265.35	0.65120
+263.05	0.68960
+260.55	0.74000
+255.65	0.79140
+250.45	0.83910
+243.15	0.87900
+236.15	0.90880
+227.15	0.94490
+210.15	0.96720
+194.15	0.97290
+185.15	0.98970
+187.15	1.00000
+Source
+Perrakis N.: Les propriétés physiques des mélanges doubles liquides dans le voisinage de l'état critique de miscibilité. J.Chim.Phys. 22 (1925) 280-310
+$$$Solid-Liquid Equilibrium Data Set 6673
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]
+278.67	0.00000
+276.84	0.05130
+275.94	0.10110
+275.10	0.14780
+274.21	0.20070
+273.52	0.24900
+272.72	0.30820
+272.15	0.34960
+271.34	0.39950
+270.47	0.45130
+269.29	0.50090
+244.92	0.85270
+253.25	0.79990
+257.44	0.74890
+261.45	0.70110
+265.04	0.64850
+266.83	0.59500
+268.26	0.54880
+Source
+Joh R.: . Unpublished Data  (1996) 1-1
+$$$Solid-Liquid Equilibrium Data Set 30336
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	C6H6	78.114	71-43-2	Benzene
+T [K]	xL1 [mol/mol]
+278.24	0.00570
+278.24	0.00570
+277.94	0.01140
+277.93	0.01140
+277.70	0.01700
+277.51	0.02260
+277.35	0.02810
+277.20	0.03350
+277.07	0.03890
+Source
+Aguirre-Ode F.; Koo J.; Rojas E.: Activity Coefficients in Benzene-Alcohol Systems near the Freezing Point of Benzene. J.Chem.Eng.Data 33 (1988) 445-448

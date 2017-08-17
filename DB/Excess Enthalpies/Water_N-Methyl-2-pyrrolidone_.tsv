@@ -1,82 +1,82 @@
-$$$Enthalpy of Mixing Data Set 2229	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-hE [cal/mol]	x1 [mol/mol]	
--154.000	0.12000	
--346.000	0.26300	
--512.000	0.43200	
--707.000	0.64000	
--648.000	0.76200	
--563.000	0.84200	
--441.000	0.89900	
--280.000	0.94100	
-Source	
-MacDonald D.D.; Dunay D.; Hanlon G.; Hyne J.B.: Properties of the N-Methyl-2-Pyrrolidinone-Water System. Can.J.Chem.Eng. 49 (1971) 420-423	
-$$$Enthalpy of Mixing Data Set 2230	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--83.900	0.01730	
--170.700	0.03440	
--345.000	0.06850	
--683.100	0.13250	
--1280.800	0.24370	
--2129.100	0.41320	
--2792.000	0.62590	
--2256.800	0.83940	
--2238.500	0.83940	
--2238.000	0.83940	
--1097.400	0.93960	
--1087.000	0.93960	
--535.600	0.97300	
--530.700	0.97300	
--265.300	0.98710	
--263.200	0.98710	
--133.900	0.99370	
--131.900	0.99370	
--67.000	0.99680	
--66.400	0.99680	
--33.300	0.99840	
--33.000	0.99840	
-Source	
-Murakami S.; Tanaka R.; Fujishiro R.: I. Enthalpies of Transfer of 1-Methyl-2-pyrrolidinone from Water to Aqueous Methanol. J.Solution Chem. 3 (1974) 71-79	
-$$$Enthalpy of Mixing Data Set 8174	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	416.290	K	
-Pressure	24.000	bar	
-hE [J/mol]	x1 [mol/mol]	
--93.380	0.06360	
--208.200	0.14540	
--207.400	0.14540	
--249.700	0.17300	
--378.600	0.25990	
--380.800	0.25990	
--378.200	0.25990	
--489.700	0.33980	
--571.500	0.40490	
--665.300	0.48640	
--722.100	0.55330	
--768.800	0.64150	
--725.500	0.76310	
--586.200	0.84300	
--582.200	0.84300	
--487.600	0.87900	
--368.100	0.91330	
--254.500	0.94150	
--255.500	0.94150	
--184.400	0.95880	
--115.600	0.97410	
--53.950	0.98770	
--31.400	0.99280	
-Source	
-Noll O.; Fischer K.; Gmehling J.: Vapor-Liquid Equilibria and Enthalpies of Mixing for the Binary System Water + N-Methyl-2-pyrrolidone in the Temperature Range 80-140 °C. J.Chem.Eng.Data 41 (1996) 1434-1438	
-Source	
-Noll O.; Fischer K.; Gmehling J.: Vapor-Liquid Equilibria and Enthalpies of Mixing for the Binary System Water + N-Methyl-2-pyrrolidone in the Temperature Range 80-140 °C. J.Chem.Eng.Data 41 (1996) 1434-1438	
-MacDonald D.D.; Dunay D.; Hanlon G.; Hyne J.B.: Properties of the N-Methyl-2-Pyrrolidinone-Water System. Can.J.Chem.Eng. 49 (1971) 420-423	
-Murakami S.; Tanaka R.; Fujishiro R.: I. Enthalpies of Transfer of 1-Methyl-2-pyrrolidinone from Water to Aqueous Methanol. J.Solution Chem. 3 (1974) 71-79	
+$$$Enthalpy of Mixing Data Set 2229
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+hE [cal/mol]	x1 [mol/mol]
+-154.000	0.12000
+-346.000	0.26300
+-512.000	0.43200
+-707.000	0.64000
+-648.000	0.76200
+-563.000	0.84200
+-441.000	0.89900
+-280.000	0.94100
+Source
+MacDonald D.D.; Dunay D.; Hanlon G.; Hyne J.B.: Properties of the N-Methyl-2-Pyrrolidinone-Water System. Can.J.Chem.Eng. 49 (1971) 420-423
+$$$Enthalpy of Mixing Data Set 2230
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-83.900	0.01730
+-170.700	0.03440
+-345.000	0.06850
+-683.100	0.13250
+-1280.800	0.24370
+-2129.100	0.41320
+-2792.000	0.62590
+-2256.800	0.83940
+-2238.500	0.83940
+-2238.000	0.83940
+-1097.400	0.93960
+-1087.000	0.93960
+-535.600	0.97300
+-530.700	0.97300
+-265.300	0.98710
+-263.200	0.98710
+-133.900	0.99370
+-131.900	0.99370
+-67.000	0.99680
+-66.400	0.99680
+-33.300	0.99840
+-33.000	0.99840
+Source
+Murakami S.; Tanaka R.; Fujishiro R.: I. Enthalpies of Transfer of 1-Methyl-2-pyrrolidinone from Water to Aqueous Methanol. J.Solution Chem. 3 (1974) 71-79
+$$$Enthalpy of Mixing Data Set 8174
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	416.290	K
+Pressure	24.000	bar
+hE [J/mol]	x1 [mol/mol]
+-93.380	0.06360
+-208.200	0.14540
+-207.400	0.14540
+-249.700	0.17300
+-378.600	0.25990
+-380.800	0.25990
+-378.200	0.25990
+-489.700	0.33980
+-571.500	0.40490
+-665.300	0.48640
+-722.100	0.55330
+-768.800	0.64150
+-725.500	0.76310
+-586.200	0.84300
+-582.200	0.84300
+-487.600	0.87900
+-368.100	0.91330
+-254.500	0.94150
+-255.500	0.94150
+-184.400	0.95880
+-115.600	0.97410
+-53.950	0.98770
+-31.400	0.99280
+Source
+Noll O.; Fischer K.; Gmehling J.: Vapor-Liquid Equilibria and Enthalpies of Mixing for the Binary System Water + N-Methyl-2-pyrrolidone in the Temperature Range 80-140 °C. J.Chem.Eng.Data 41 (1996) 1434-1438
+Source
+Noll O.; Fischer K.; Gmehling J.: Vapor-Liquid Equilibria and Enthalpies of Mixing for the Binary System Water + N-Methyl-2-pyrrolidone in the Temperature Range 80-140 °C. J.Chem.Eng.Data 41 (1996) 1434-1438
+MacDonald D.D.; Dunay D.; Hanlon G.; Hyne J.B.: Properties of the N-Methyl-2-Pyrrolidinone-Water System. Can.J.Chem.Eng. 49 (1971) 420-423
+Murakami S.; Tanaka R.; Fujishiro R.: I. Enthalpies of Transfer of 1-Methyl-2-pyrrolidinone from Water to Aqueous Methanol. J.Solution Chem. 3 (1974) 71-79

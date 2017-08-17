@@ -1,71 +1,71 @@
-$$$Enthalpy of Mixing Data Set 1090	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--41.870	0.21000	
--39.770	0.21900	
--47.310	0.39600	
--48.570	0.39800	
--51.920	0.56500	
--53.170	0.56500	
--42.710	0.72400	
--41.870	0.72600	
--30.140	0.86600	
--30.560	0.87300	
-Source	
-Parks G.S.; Kelley K.K.: Some Physical-Chemical Properties of Mixtures of Ethyl and iso-Propyl Alcohols. J.Phys.Chem. 29 (1925) 727-732	
-$$$Enthalpy of Mixing Data Set 12648	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--11.700	0.05440	
--24.000	0.12470	
--34.100	0.19640	
--45.700	0.31040	
--50.100	0.40810	
--50.200	0.48860	
--49.300	0.53270	
--49.400	0.54200	
--46.600	0.59850	
--40.200	0.68610	
--30.700	0.78250	
--17.700	0.88400	
--8.600	0.94470	
-Source	
-Haase R.; Tillmann W.: Mixing Properties of the Liquid System Ethanol + 2-Propanol. Z.Phys.Chem.(München) 196 (1996) 271-274	
-$$$Enthalpy of Mixing Data Set 13596	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-Pressure	1.010	bar	
-hE [J/mol]	x1 [mol/mol]	
--10.200	0.05000	
--19.300	0.10000	
--26.100	0.15000	
--32.700	0.20000	
--36.800	0.25000	
--40.500	0.30000	
--43.000	0.35000	
--44.500	0.40000	
--45.200	0.45000	
--45.300	0.50000	
--44.800	0.55000	
--43.300	0.60000	
--40.200	0.65000	
--36.600	0.70000	
--32.400	0.75000	
--27.000	0.80000	
--21.300	0.85000	
--14.900	0.90000	
--8.000	0.95000	
-Source	
-Nagata I.; Tamura K.; Miyai K.: Excess molar enthalpies hE of ternary mixtures of (methanol + ethanol + 1-propanol or 2-propanol) at 298.15 K. Fluid Phase Equilib. 149 (1998) 147-161	
-Source	
-Haase R.; Tillmann W.: Mixing Properties of the Liquid System Ethanol + 2-Propanol. Z.Phys.Chem.(München) 196 (1996) 271-274	
-Parks G.S.; Kelley K.K.: Some Physical-Chemical Properties of Mixtures of Ethyl and iso-Propyl Alcohols. J.Phys.Chem. 29 (1925) 727-732	
-Nagata I.; Tamura K.; Miyai K.: Excess molar enthalpies hE of ternary mixtures of (methanol + ethanol + 1-propanol or 2-propanol) at 298.15 K. Fluid Phase Equilib. 149 (1998) 147-161	
+$$$Enthalpy of Mixing Data Set 1090
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-41.870	0.21000
+-39.770	0.21900
+-47.310	0.39600
+-48.570	0.39800
+-51.920	0.56500
+-53.170	0.56500
+-42.710	0.72400
+-41.870	0.72600
+-30.140	0.86600
+-30.560	0.87300
+Source
+Parks G.S.; Kelley K.K.: Some Physical-Chemical Properties of Mixtures of Ethyl and iso-Propyl Alcohols. J.Phys.Chem. 29 (1925) 727-732
+$$$Enthalpy of Mixing Data Set 12648
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-11.700	0.05440
+-24.000	0.12470
+-34.100	0.19640
+-45.700	0.31040
+-50.100	0.40810
+-50.200	0.48860
+-49.300	0.53270
+-49.400	0.54200
+-46.600	0.59850
+-40.200	0.68610
+-30.700	0.78250
+-17.700	0.88400
+-8.600	0.94470
+Source
+Haase R.; Tillmann W.: Mixing Properties of the Liquid System Ethanol + 2-Propanol. Z.Phys.Chem.(München) 196 (1996) 271-274
+$$$Enthalpy of Mixing Data Set 13596
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+Pressure	1.010	bar
+hE [J/mol]	x1 [mol/mol]
+-10.200	0.05000
+-19.300	0.10000
+-26.100	0.15000
+-32.700	0.20000
+-36.800	0.25000
+-40.500	0.30000
+-43.000	0.35000
+-44.500	0.40000
+-45.200	0.45000
+-45.300	0.50000
+-44.800	0.55000
+-43.300	0.60000
+-40.200	0.65000
+-36.600	0.70000
+-32.400	0.75000
+-27.000	0.80000
+-21.300	0.85000
+-14.900	0.90000
+-8.000	0.95000
+Source
+Nagata I.; Tamura K.; Miyai K.: Excess molar enthalpies hE of ternary mixtures of (methanol + ethanol + 1-propanol or 2-propanol) at 298.15 K. Fluid Phase Equilib. 149 (1998) 147-161
+Source
+Haase R.; Tillmann W.: Mixing Properties of the Liquid System Ethanol + 2-Propanol. Z.Phys.Chem.(München) 196 (1996) 271-274
+Parks G.S.; Kelley K.K.: Some Physical-Chemical Properties of Mixtures of Ethyl and iso-Propyl Alcohols. J.Phys.Chem. 29 (1925) 727-732
+Nagata I.; Tamura K.; Miyai K.: Excess molar enthalpies hE of ternary mixtures of (methanol + ethanol + 1-propanol or 2-propanol) at 298.15 K. Fluid Phase Equilib. 149 (1998) 147-161

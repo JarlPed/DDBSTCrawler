@@ -1,55 +1,55 @@
-$$$Vapor-Liquid Equilibrium Data Set 26552	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-477.01	0.00000	0.00000	
-475.02	0.06000	0.11230	
-472.68	0.10810	0.21120	
-470.40	0.17610	0.32660	
-467.13	0.24430	0.46060	
-463.42	0.30350	0.58340	
-460.54	0.34520	0.65930	
-456.52	0.39240	0.72310	
-451.92	0.44180	0.79100	
-448.17	0.46900	0.81860	
-444.28	0.50300	0.87300	
-440.81	0.53900	0.90450	
-437.56	0.55980	0.91670	
-435.11	0.58030	0.93400	
-430.83	0.61040	0.95060	
-424.42	0.65560	0.96310	
-420.45	0.68640	0.96830	
-417.71	0.71120	0.98080	
-411.22	0.75490	0.98220	
-407.99	0.79350	0.98770	
-403.67	0.83190	0.99000	
-400.75	0.86610	0.99310	
-390.85	1.00000	1.00000	
-Source	
-Chang W.; Wan H.; Guan G.; Yao H.: Isobaric Vapor-Liquid Equilibria for Water + Acetic Acid + (N-Methyl Pyrrolidone or n-Methyl Acetamide). Fluid Phase Equilib. 242 (2006) 204-209	
-$$$Vapor-Liquid Equilibrium Data Set 32320	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H4O2	60.053	64-19-7	Acetic acid	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Pressure	26.67	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-428.65	0.00000	0.00000	
-428.35	0.11280	0.16270	
-427.80	0.14900	0.22940	
-426.80	0.19410	0.32070	
-425.50	0.23680	0.41290	
-423.15	0.28940	0.52870	
-419.95	0.34530	0.64620	
-414.15	0.41270	0.76880	
-403.50	0.50910	0.89270	
-390.85	0.59680	0.95500	
-374.65	0.73120	0.99170	
-364.10	0.81750	0.99790	
-353.00	1.00000	1.00000	
-Source	
-Ping L.-J.; Peng Y.; Mao J.-W.: Vapor-Liquid Equilibria of Acetic Acid-Water-N-Methylpyrrolidone System at 26.67 kPa. Gaoxiao-huaxue-gongcheng-xuebao 25 (2011) 554-557	
-Source	
-Chang W.; Wan H.; Guan G.; Yao H.: Isobaric Vapor-Liquid Equilibria for Water + Acetic Acid + (N-Methyl Pyrrolidone or n-Methyl Acetamide). Fluid Phase Equilib. 242 (2006) 204-209	
-Ping L.-J.; Peng Y.; Mao J.-W.: Vapor-Liquid Equilibria of Acetic Acid-Water-N-Methylpyrrolidone System at 26.67 kPa. Gaoxiao-huaxue-gongcheng-xuebao 25 (2011) 554-557	
+$$$Vapor-Liquid Equilibrium Data Set 26552
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+477.01	0.000000.00000
+475.02	0.06000	0.11230
+472.68	0.10810	0.21120
+470.40	0.17610	0.32660
+467.13	0.24430	0.46060
+463.42	0.30350	0.58340
+460.54	0.34520	0.65930
+456.52	0.39240	0.72310
+451.92	0.44180	0.79100
+448.17	0.46900	0.81860
+444.28	0.50300	0.87300
+440.81	0.53900	0.90450
+437.56	0.55980	0.91670
+435.11	0.58030	0.93400
+430.83	0.61040	0.95060
+424.42	0.65560	0.96310
+420.45	0.68640	0.96830
+417.71	0.71120	0.98080
+411.22	0.75490	0.98220
+407.99	0.79350	0.98770
+403.67	0.83190	0.99000
+400.75	0.86610	0.99310
+390.85	1.000001.00000
+Source
+Chang W.; Wan H.; Guan G.; Yao H.: Isobaric Vapor-Liquid Equilibria for Water + Acetic Acid + (N-Methyl Pyrrolidone or n-Methyl Acetamide). Fluid Phase Equilib. 242 (2006) 204-209
+$$$Vapor-Liquid Equilibrium Data Set 32320
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H4O2	60.053	64-19-7	Acetic acid
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Pressure	26.67	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+428.65	0.000000.00000
+428.35	0.11280	0.16270
+427.80	0.14900	0.22940
+426.80	0.19410	0.32070
+425.50	0.23680	0.41290
+423.15	0.28940	0.52870
+419.95	0.34530	0.64620
+414.15	0.41270	0.76880
+403.50	0.50910	0.89270
+390.85	0.59680	0.95500
+374.65	0.73120	0.99170
+364.10	0.81750	0.99790
+353.00	1.000001.00000
+Source
+Ping L.-J.; Peng Y.; Mao J.-W.: Vapor-Liquid Equilibria of Acetic Acid-Water-N-Methylpyrrolidone System at 26.67 kPa. Gaoxiao-huaxue-gongcheng-xuebao 25 (2011) 554-557
+Source
+Chang W.; Wan H.; Guan G.; Yao H.: Isobaric Vapor-Liquid Equilibria for Water + Acetic Acid + (N-Methyl Pyrrolidone or n-Methyl Acetamide). Fluid Phase Equilib. 242 (2006) 204-209
+Ping L.-J.; Peng Y.; Mao J.-W.: Vapor-Liquid Equilibria of Acetic Acid-Water-N-Methylpyrrolidone System at 26.67 kPa. Gaoxiao-huaxue-gongcheng-xuebao 25 (2011) 554-557

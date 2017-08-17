@@ -1,18 +1,18 @@
-$$$Vapor-Liquid Equilibrium Data Set 2220	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H6	54.092	106-99-0	1,3-Butadiene	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-12.615	0.00000	0.00000	
-28.628	0.05500	0.57600	
-44.116	0.10910	0.73700	
-58.446	0.15970	0.81100	
-71.805	0.20780	0.85400	
-83.357	0.24980	0.87900	
-93.806	0.28810	0.89700	
-103.557	0.32420	0.91100	
-Source	
-Wong K.F.; Eckert C.A.: Vapor-Liquid Equilibria of 1,3-Butadiene Systems. J.Chem.Eng.Data 14 (1969) 432-436	
-Source	
-Wong K.F.; Eckert C.A.: Vapor-Liquid Equilibria of 1,3-Butadiene Systems. J.Chem.Eng.Data 14 (1969) 432-436	
+$$$Vapor-Liquid Equilibrium Data Set 2220
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H6	54.092	106-99-0	1,3-Butadiene
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+12.615	0.000000.00000
+28.628	0.05500	0.57600
+44.116	0.10910	0.73700
+58.446	0.15970	0.81100
+71.805	0.20780	0.85400
+83.357	0.24980	0.87900
+93.806	0.28810	0.89700
+103.557	0.32420	0.91100
+Source
+Wong K.F.; Eckert C.A.: Vapor-Liquid Equilibria of 1,3-Butadiene Systems. J.Chem.Eng.Data 14 (1969) 432-436
+Source
+Wong K.F.; Eckert C.A.: Vapor-Liquid Equilibria of 1,3-Butadiene Systems. J.Chem.Eng.Data 14 (1969) 432-436

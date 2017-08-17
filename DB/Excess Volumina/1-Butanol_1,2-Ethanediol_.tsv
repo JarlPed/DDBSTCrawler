@@ -1,29 +1,29 @@
-$$$Excess Volume Data Set 1762	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.1022	0.11290	
--0.1146	0.12300	
--0.1236	0.16140	
--0.1300	0.20500	
--0.1281	0.20830	
--0.1350	0.25880	
--0.1369	0.26600	
--0.1378	0.31580	
--0.1300	0.33550	
--0.1213	0.38100	
--0.1264	0.38370	
--0.1140	0.43330	
--0.1150	0.43570	
--0.1000	0.50220	
--0.0998	0.51000	
--0.0803	0.57010	
--0.0731	0.58910	
--0.0536	0.66270	
--0.0306	0.76120	
-Source	
-Jimenez E.; Paz-Andrade M.I.; Casanova C.: Enthalpies and Volumes of Mixing of 1,2-Ethanediol - n-Alkanol Systems. J.Chim.Phys.Phys.-Chim.Biol. 76 (1979) 46-50	
-Source	
-Jimenez E.; Paz-Andrade M.I.; Casanova C.: Enthalpies and Volumes of Mixing of 1,2-Ethanediol - n-Alkanol Systems. J.Chim.Phys.Phys.-Chim.Biol. 76 (1979) 46-50	
+$$$Excess Volume Data Set 1762
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.1022	0.11290
+-0.1146	0.12300
+-0.1236	0.16140
+-0.1300	0.20500
+-0.1281	0.20830
+-0.1350	0.25880
+-0.1369	0.26600
+-0.1378	0.31580
+-0.1300	0.33550
+-0.1213	0.38100
+-0.1264	0.38370
+-0.1140	0.43330
+-0.1150	0.43570
+-0.1000	0.50220
+-0.0998	0.51000
+-0.0803	0.57010
+-0.0731	0.58910
+-0.0536	0.66270
+-0.0306	0.76120
+Source
+Jimenez E.; Paz-Andrade M.I.; Casanova C.: Enthalpies and Volumes of Mixing of 1,2-Ethanediol - n-Alkanol Systems. J.Chim.Phys.Phys.-Chim.Biol. 76 (1979) 46-50
+Source
+Jimenez E.; Paz-Andrade M.I.; Casanova C.: Enthalpies and Volumes of Mixing of 1,2-Ethanediol - n-Alkanol Systems. J.Chim.Phys.Phys.-Chim.Biol. 76 (1979) 46-50

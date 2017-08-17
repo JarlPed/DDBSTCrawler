@@ -1,492 +1,492 @@
-Formula	Molar Mass	CAS Registry Number	Name	
-C6H12	84.161	592-41-6	1-Hexene	
-$$$Critical Data	
-T [K]	P [kPa]	State	Reference	
-502.25	3339.000	Critical Point	5	
-503.20	3212.000	Critical Point	6	
-503.98		Critical Point	3	
-504.00	3210.000	Critical Point	1	
-504.20	3206.000	Critical Point	4	
-516.65		Critical Point	2	
-Number	Source	
-1	Tsonopoulos C.; Ambrose D.: 6. Unsaturated Aliphatic Hydrocarbons.. J.Chem.Eng.Data 41 (1996) 645-656	
-2	Altschul M.: Critical properties of several organic compounds. (Ger). Z.Phys.Chem.(Leipzig) 11 (1893) 577-597	
-3	Ambrose D.; Cox J.D.; Townsend R.: The Critical Temperatures of Forty Organic Compounds.. Trans.Faraday Soc. 56 (1960) 1452-1459	
-4	Gude M.T.; Rosenthal D.J.; Teja A.S.: The critical properties of 1-alkanes from 1-pentene to 1-dodecene. Fluid Phase Equilib. 70 (1991) 55-64	
-5	Li Y.; Ma P.: Measurement of the Critical Constants of 1-Hexene and 1-Bromopropane. Shiyou-huagong 22 (1993) 322-327	
-6	Kay W.B.; Young C.L.: Gas-Liquid Critical Properties. Int.Data Series Sel.Data Mixtures Ser. A 1974 (1974) 192-201	
-$$$Density	
-T [K]	P [kPa]	Density [kg/m3]	State	Reference	
-283.15	101.300	682.500	Liquid	1	
-283.15	813.270	683.100	Liquid	1	
-283.15	885.740	683.300	Liquid	1	
-283.15	1572.300	683.900	Liquid	1	
-283.15	2062.600	684.400	Liquid	1	
-283.15	2650.900	685.000	Liquid	1	
-289.40	101.300	677.100	Liquid	1	
-289.40	813.270	677.600	Liquid	1	
-289.40	885.740	677.800	Liquid	1	
-289.40	1572.300	678.500	Liquid	1	
-289.40	2062.600	678.800	Liquid	1	
-289.40	2650.900	679.400	Liquid	1	
-298.15	101.300	668.800	Liquid	1	
-298.15	813.270	669.400	Liquid	1	
-298.15	885.740	669.600	Liquid	1	
-298.15	1572.300	670.300	Liquid	1	
-298.15	2062.600	670.700	Liquid	1	
-298.15	2650.900	671.300	Liquid	1	
-323.15	101.300	644.800	Liquid	1	
-323.15	813.270	645.600	Liquid	1	
-323.15	885.740	645.900	Liquid	1	
-323.15	1572.300	646.500	Liquid	1	
-323.15	2062.600	647.100	Liquid	1	
-323.15	2650.900	647.800	Liquid	1	
-348.15	813.270	619.900	Liquid	1	
-348.15	885.740	620.200	Liquid	1	
-348.15	1572.300	621.400	Liquid	1	
-348.15	2062.600	622.200	Liquid	1	
-348.15	2650.900	623.300	Liquid	1	
-373.15	885.740	594.300	Liquid	1	
-373.15	1572.300	595.800	Liquid	1	
-373.15	2062.600	596.700	Liquid	1	
-373.15	2650.900	598.200	Liquid	1	
-398.15	885.740	563.700	Liquid	1	
-398.15	1572.300	565.700	Liquid	1	
-398.15	2062.600	567.200	Liquid	1	
-398.15	2650.900	568.800	Liquid	1	
-423.15	885.740	528.700	Liquid	1	
-423.15	1572.300	532.100	Liquid	1	
-423.15	2062.600	534.300	Liquid	1	
-423.15	2650.900	536.500	Liquid	1	
-448.15	1572.300	491.100	Liquid	1	
-448.15	2062.600	494.900	Liquid	1	
-448.15	2650.900	499.400	Liquid	1	
-473.15	2062.600	439.400	Liquid	1	
-473.15	2650.900	446.000	Liquid	1	
-493.15	2650.900	380.000	Liquid	1	
-Number	Source	
-1	Kerimov A.M.; Apaev T.A.: Experimental values of density of 1-hexene,1-octene,cyclohexene,cyclohexane, and methylcyclohexane in dependence on temperature and pressure. Teplofiz.Svoistva Vesh.Mater.  (1972) 26-46	
-$$$Dielectric Constant	
-T [K]	Dielectric Constant [-]	State	Reference	
-149.00	2.50900	Liquid	1	
-183.00	2.38500	Liquid	1	
-212.00	2.29300	Liquid	1	
-239.00	2.22300	Liquid	1	
-266.00	2.15300	Liquid	1	
-273.15	2.09100	Liquid	2	
-283.15	2.07300	Liquid	2	
-293.15	2.05200	Liquid	2	
-294.00	2.07700	Liquid	1	
-303.15	2.03200	Liquid	2	
-313.15	2.00700	Liquid	2	
-323.15	1.98300	Liquid	2	
-Number	Source	
-1	Gee N.; Shinsaka K.; Dodelet J.-P.; Freeman G.R.: Dielectric Constant Against Temperature for 43 Liquids. J.Chem.Thermodyn. 18 (1986) 221-234	
-2	Watanabe A.; Sugiyama S.: Temperature Coefficient of Dielectric Constant for Organic Liquids of Homologous Series. Nagoya-Kogyo-Gijutsu-Shikensho-hokoku 22 (1973) 67-76	
-$$$Dynamic Viscosity	
-T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference	
-290.65	101.000	0.24813	Liquid	1	
-290.65	980.000	0.2535	Liquid	1	
-290.65	2940.000	0.25446	Liquid	1	
-290.65	4900.000	0.2575	Liquid	1	
-290.65	9800.000	0.27203	Liquid	1	
-325.65	101.000	0.1895	Liquid	1	
-325.65	980.000	0.1964	Liquid	1	
-325.65	2940.000	0.19665	Liquid	1	
-325.65	4900.000	0.20655	Liquid	1	
-325.65	9800.000	0.2184	Liquid	1	
-325.65	14700.000	0.22434	Liquid	1	
-348.15	101.000	0.1613	Liquid	1	
-348.15	980.000	0.16198	Liquid	1	
-348.15	2940.000	0.16596	Liquid	1	
-348.15	4900.000	0.1734	Liquid	1	
-348.15	9800.000	0.18205	Liquid	1	
-348.15	14700.000	0.1939	Liquid	1	
-373.15	101.000	0.13953	Liquid	1	
-373.15	980.000	0.1444	Liquid	1	
-373.15	2940.000	0.1422	Liquid	1	
-373.15	4900.000	0.1549	Liquid	1	
-373.15	9800.000	0.16055	Liquid	1	
-373.15	14700.000	0.17038	Liquid	1	
-Number	Source	
-1	Naziev Ya.M.; Gusejnov S.O.; Akhmedov A.K.: Untersuchung der Viskosität von einigen Kohlenwasserstoffen bei verschiedenen Drücken und Temperaturen. Izv.Vyssh.Uchebn.Zaved.Neft Gaz 15 (1972) 65-68	
-$$$Enthalpy (H-H0)/T	
-T [K]	Enthalpy (H-H0)/T [J/(K*mol)]	State	Reference	
-240.00	272.20	Vapor	1	
-260.00	266.38	Vapor	1	
-280.00	256.15	Vapor	1	
-298.15	248.51	Vapor	1	
-300.00	247.76	Vapor	1	
-320.00	240.86	Vapor	1	
-340.00	235.04	Vapor	1	
-350.00	232.54	Vapor	1	
-Number	Source	
-1	Steele W.V.; Chirico R.D.: Thermodynamic properties of alkenes (mono-olefins larger than C4).. J.Phys.Chem.Ref.Data 22 (1993) 377-430	
-$$$Entropy	
-T [K]	Molar Entropy [J/(mol*K)]	State	Reference	
-298.00	385.97	Vapor	1	
-298.00	386.52	Vapor	2	
-Number	Source	
-1	Kilpatrick J.E.; Prosen E.J.; Pitzer K.S.; Rossini F.D.: Heats, equilibrium constants, and free energies of formation of the monoolefin hydrocarbons.. J.Res. NBS 36 (1946) 559-612	
-2	Steele W.V.; Chirico R.D.: Thermodynamic properties of alkenes (mono-olefins larger than C4).. J.Phys.Chem.Ref.Data 22 (1993) 377-430	
-$$$G-function (G-G0)/T	
-T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference	
-298.16	-296.44	Vapor	1	
-300.00	-296.98	Vapor	1	
-400.00	-325.10	Vapor	1	
-500.00	-350.62	Vapor	1	
-600.00	-374.47	Vapor	1	
-700.00	-396.64	Vapor	1	
-800.00	-417.98	Vapor	1	
-900.00	-438.48	Vapor	1	
-1000.00	-458.15	Vapor	1	
-1100.00	-476.56	Vapor	1	
-1200.00	-494.55	Vapor	1	
-1300.00	-511.70	Vapor	1	
-1400.00	-528.44	Vapor	1	
-1500.00	-544.34	Vapor	1	
-Number	Source	
-1	Kilpatrick J.E.; Prosen E.J.; Pitzer K.S.; Rossini F.D.: Heats, equilibrium constants, and free energies of formation of the monoolefin hydrocarbons.. J.Res. NBS 36 (1946) 559-612	
-$$$Gibbs Energy of Form./T	
-T [K]	Energy of formation/T [J/(K*mol)]	State	Reference	
-240.00	274.70	Vapor	1	
-260.00	280.18	Vapor	1	
-280.00	290.24	Vapor	1	
-298.15	298.72	Vapor	1	
-300.00	299.47	Vapor	1	
-320.00	307.95	Vapor	1	
-340.00	315.77	Vapor	1	
-350.00	319.42	Vapor	1	
-Number	Source	
-1	Steele W.V.; Chirico R.D.: Thermodynamic properties of alkenes (mono-olefins larger than C4).. J.Phys.Chem.Ref.Data 22 (1993) 377-430	
-$$$Heat of Fusion	
-T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference	
-133.39	101.325	9385.00	Solid-Liquid-Vapor	1	
-Number	Source	
-1	McCullough J.P.; Finke H.L.; Gross M.E.; Messerly J.F.; Waddington G.: Low Temperature Calorimetric Studies of Seven 1-Olefins: Effect of Orientational Disorder in the Solid State. J.Phys.Chem. 61 (1957) 289-301	
-$$$Heat of Vaporization	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.15	30626.90	Vapor-Liquid	1	
-336.64	28283.80	Vapor-Liquid	1	
-Number	Source	
-1	Camin D.L.; Rossini F.D.: Physical properties of the 17 isomeric hexenes of the API research series.. J.Phys.Chem. 60 (1956) 1446-1451	
-$$$Ideal Gas Heat Capacity	
-T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference	
-298.16	138.32	Ideal Gas	1	
-300.00	139.33	Ideal Gas	1	
-400.00	172.80	Ideal Gas	1	
-500.00	203.76	Ideal Gas	1	
-600.00	229.28	Ideal Gas	1	
-700.00	251.46	Ideal Gas	1	
-800.00	270.29	Ideal Gas	1	
-900.00	287.02	Ideal Gas	1	
-1000.00	301.25	Ideal Gas	1	
-1100.00	313.38	Ideal Gas	1	
-1200.00	324.68	Ideal Gas	1	
-1300.00	333.88	Ideal Gas	1	
-1400.00	342.25	Ideal Gas	1	
-1500.00	348.95	Ideal Gas	1	
-Number	Source	
-1	Kilpatrick J.E.; Prosen E.J.; Pitzer K.S.; Rossini F.D.: Heats, equilibrium constants, and free energies of formation of the monoolefin hydrocarbons.. J.Res. NBS 36 (1946) 559-612	
-$$$Kinematic Viscosity	
-T [K]	P [kPa]	Kinematic Viscosity [m2/s]	State	Reference	
-353.45	88.558	3.0199998946E-06	Vapor	1	
-419.55	88.761	4.29000010627E-06	Vapor	1	
-483.05	91.699	5.46000001123E-06	Vapor	1	
-576.25	91.091	7.79000038165E-06	Vapor	1	
-Number	Source	
-1	Zhdanov A.G.; Lyusternik V.E.: Viskosität von gasförmigen Alkenen. Viniti  (1972) 1-11	
-$$$Melting Point	
-T [K]	P [kPa]	State	Reference	
-128.15		Solid-Liquid	1	
-132.15		Solid-Liquid	1	
-133.15	101.325	Solid-Liquid	2	
-133.25	101.325	Solid-Liquid	4	
-133.35	100.000	Solid-Liquid	3	
-133.35	101.325	Solid-Liquid	5	
-Number	Source	
-1	Campbell K.N.; Eby L.T.: III. Further Studies on the Preparation of Olefins from Acetylenes. J.Am.Chem.Soc. 63 (1941) 2683-2685	
-2	Brooks J.H.; Pilcher G.: A simple melting-point calorimeter for moderately precise determinations of purity.. J.Chem.Soc.London  (1959) 1535-1539	
-3	Streiff A.J.; Zimmerman J.C.; Soule L.F.; Butt M.T.; Sedlak V.A.; Willingham C.B.; Rossini F.D.: Purification, purity, and freezing points of 30 hydrocarbons of the API-standard and API-NBS series.. J.Res. NBS 41 (1948) 323-357	
-4	Mears T.W.; Fookson A.; Pomerantz P.; Rich E.H.; Dussinger C.S.; Howard F.L.: Syntheses and properties of two olefins, six paraffins and their intermediates.. J.Res. NBS 44 (1950) 299-311	
-5	Melikhov Yu.F.; Mel'Nikov G.A.; Tutov V.M.; Verveiko V.N.: Accoustic and thermal properties of some hexane derivatives at high state parameters. (Russ). Izv.Vyssh.Uchebn.Zaved.Energ. 34 (1991) 73-78	
-$$$Molar Heat Capacity (cP)	
-T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
-11.27		2.368	Solid	1	
-11.53		2.5564	Solid	1	
-12.66		3.418	Solid	1	
-12.84		3.59	Solid	1	
-14.21		4.69	Solid	1	
-14.46		4.937	Solid	1	
-15.83		6.142	Solid	1	
-16.24		6.556	Solid	1	
-17.61		7.891	Solid	1	
-18.18		8.49	Solid	1	
-19.59		10.025	Solid	1	
-20.32		10.803	Solid	1	
-21.69		12.39	Solid	1	
-22.49		13.339	Solid	1	
-24.04		15.13	Solid	1	
-24.79		16.025	Solid	1	
-26.72		18.318	Solid	1	
-27.63		19.422	Solid	1	
-29.57		21.715	Solid	1	
-30.62		23.02	Solid	1	
-33.37		26.29	Solid	1	
-37.03		30.526	Solid	1	
-41.21		35.11	Solid	1	
-45.09		39.14	Solid	1	
-49.69		43.69	Solid	1	
-53.84		47.52	Solid	1	
-55.02		48.56	Solid	1	
-58.70		51.74	Solid	1	
-64.17		56.25	Solid	1	
-69.46		60.14	Solid	1	
-74.77		63.84	Solid	1	
-80.24		67.55	Solid	1	
-85.77		71.19	Solid	1	
-91.37		74.47	Solid	1	
-96.61		77.11	Solid	1	
-97.07		77.55	Solid	1	
-102.53		80.46	Solid	1	
-104.46		81.41	Solid	1	
-104.58		81.48	Solid	1	
-110.16		84.40	Solid	1	
-112.33		85.58	Solid	1	
-120.26		89.76	Solid	1	
-127.41		94.47	Solid	1	
-136.19		154.31	Liquid	1	
-140.60		154.18	Liquid	1	
-142.88		154.18	Liquid	1	
-146.95		154.22	Liquid	1	
-148.76		154.35	Liquid	1	
-154.71		154.52	Liquid	1	
-159.41		154.60	Liquid	1	
-163.38		154.81	Liquid	1	
-168.98		155.19	Liquid	1	
-178.94		155.98	Liquid	1	
-186.58		157.94	Liquid	2	
-189.27		157.07	Liquid	1	
-189.43		158.43	Liquid	2	
-192.40		158.95	Liquid	2	
-195.64		159.53	Liquid	2	
-199.04		160.13	Liquid	2	
-199.48		158.49	Liquid	1	
-202.45		160.72	Liquid	2	
-205.90		161.32	Liquid	2	
-208.80		161.81	Liquid	2	
-209.56		160.12	Liquid	1	
-212.87		162.50	Liquid	2	
-217.15		163.22	Liquid	2	
-219.53		161.96	Liquid	1	
-221.24		163.91	Liquid	2	
-229.36		164.06	Liquid	1	
-229.45		165.37	Liquid	2	
-233.56		166.14	Liquid	2	
-235.93		166.61	Liquid	2	
-239.50		166.36	Liquid	1	
-239.94		167.42	Liquid	2	
-243.96		168.28	Liquid	2	
-245.76		167.90	Liquid	1	
-248.08		169.20	Liquid	2	
-252.10		170.14	Liquid	2	
-255.43		170.95	Liquid	2	
-256.11		170.62	Liquid	1	
-259.56		171.97	Liquid	2	
-263.58		172.99	Liquid	2	
-266.29		173.47	Liquid	1	
-267.67		174.05	Liquid	2	
-270.22		174.72	Liquid	2	
-274.35		175.81	Liquid	2	
-276.71		176.57	Liquid	1	
-278.45		176.91	Liquid	2	
-282.56		178.02	Liquid	2	
-287.16		179.29	Liquid	2	
-287.38		179.87	Liquid	1	
-289.91		180.07	Liquid	2	
-294.34		181.40	Liquid	2	
-297.86		183.18	Liquid	1	
-298.15		182.79	Liquid	3	
-298.15	98.000	182.71	Liquid	4	
-298.56		182.77	Liquid	2	
-301.06		183.66	Liquid	2	
-308.16		186.73	Liquid	1	
-323.15	98.000	194.41	Liquid	4	
-348.15	98.000	204.26	Liquid Phase of VLE	4	
-363.15	98.000	209.90	Liquid Phase of VLE	4	
-Number	Source	
-1	McCullough J.P.; Finke H.L.; Gross M.E.; Messerly J.F.; Waddington G.: Low Temperature Calorimetric Studies of Seven 1-Olefins: Effect of Orientational Disorder in the Solid State. J.Phys.Chem. 61 (1957) 289-301	
-2	Kalinowska B.; Woycicki W.: I. (Propan-1-ol + n-hex-1-ene). J.Chem.Thermodyn. 17 (1985) 829-834	
-3	Figueroa-Gerstenmaier S.; Cabanas A.; Costas M.: Heat capacities of linear alcohols mixed with alkenes and alkynes. Phys.Chem.Chem.Phys. (PCCP) 1 (1999) 665-674	
-4	Zaripov Z.I.; Mukhamedzyanov G.Kh.; Bulaev S.A.: Thermal Conductivity, Thermal Diffusivity, and Heat Capacity of Unsaturated Hydrocarbons at Pressures up to 200 MPa. High Temp. 48 (2010) 132-135	
-$$$Speed of Sound	
-T [K]	P [kPa]	Ultrasonic Velocity [m/s]	State	Reference	
-293.15		1086.400	Liquid	1	
-303.15		1044.500	Liquid	1	
-303.15	101.325	1050.000	Liquid	2	
-303.15	9806.649	1125.000	Liquid	2	
-303.15	19613.301	1192.000	Liquid	2	
-303.15	29419.900	1252.000	Liquid	2	
-303.15	39226.602	1306.000	Liquid	2	
-303.15	49033.199	1356.000	Liquid	2	
-303.15	58839.902	1402.000	Liquid	2	
-303.15	68646.500	1446.000	Liquid	2	
-303.15	78453.203	1487.000	Liquid	2	
-303.15	88259.898	1526.000	Liquid	2	
-303.15	98066.500	1563.000	Liquid	2	
-303.15	107873.000	1598.000	Liquid	2	
-303.15	117680.000	1631.000	Liquid	2	
-313.15	101.325	1004.000	Liquid	2	
-313.15	9806.649	1086.000	Liquid	2	
-313.15	19613.301	1155.000	Liquid	2	
-313.15	29419.900	1217.000	Liquid	2	
-313.15	39226.602	1273.000	Liquid	2	
-313.15	49033.199	1325.000	Liquid	2	
-313.15	58839.902	1373.000	Liquid	2	
-313.15	68646.500	1416.000	Liquid	2	
-313.15	78453.203	1457.000	Liquid	2	
-313.15	88259.898	1497.000	Liquid	2	
-313.15	98066.500	1535.000	Liquid	2	
-313.15	107873.000	1571.000	Liquid	2	
-313.15	117680.000	1606.000	Liquid	2	
-323.15	101.325	960.000	Liquid	2	
-323.15	9806.649	1045.000	Liquid	2	
-323.15	19613.301	1118.000	Liquid	2	
-323.15	29419.900	1183.000	Liquid	2	
-323.15	39226.602	1241.000	Liquid	2	
-323.15	49033.199	1293.000	Liquid	2	
-323.15	58839.902	1342.000	Liquid	2	
-323.15	68646.500	1388.000	Liquid	2	
-323.15	78453.203	1430.000	Liquid	2	
-323.15	88259.898	1471.000	Liquid	2	
-323.15	98066.500	1509.000	Liquid	2	
-323.15	107873.000	1546.000	Liquid	2	
-323.15	117680.000	1580.000	Liquid	2	
-333.15	101.325	916.000	Liquid	2	
-333.15	9806.649	1007.000	Liquid	2	
-333.15	19613.301	1082.000	Liquid	2	
-333.15	29419.900	1149.000	Liquid	2	
-333.15	39226.602	1209.000	Liquid	2	
-333.15	49033.199	1263.000	Liquid	2	
-333.15	58839.902	1313.000	Liquid	2	
-333.15	68646.500	1361.000	Liquid	2	
-333.15	78453.203	1403.000	Liquid	2	
-333.15	88259.898	1444.000	Liquid	2	
-333.15	98066.500	1484.000	Liquid	2	
-333.15	107873.000	1521.000	Liquid	2	
-333.15	117680.000	1556.000	Liquid	2	
-Number	Source	
-1	Weissler A.; Del Grosso V.A.: VI. Acetylene Derivatives.. J.Am.Chem.Soc. 72 (1950) 4209-4210	
-2	Badalyan A.L.; Otpushchennikov N.F.: Some thermodynamic properties of liquid 1-hexene at higher pressures. Uc.Zap.-Kursk.Gos.Ped.Inst. 91 (1971) 215-225	
-$$$Std. Heat of Formation	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.00	-41673.00	Vapor	1	
-Number	Source	
-1	Bartolo H.F.; Rossini F.D.: Heats of isomerization of the seventeen isomeric hexenes.. J.Phys.Chem. 64 (1960) 1085-1089	
-$$$Surface Tension	
-T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference	
-273.15		20.5800	Liquid Phase of VLE	3	
-273.15	101.300	20.4700	Liquid	2	
-283.15		19.5500	Liquid Phase of VLE	3	
-283.15	101.300	19.4400	Liquid	2	
-288.65		20.1300	Liquid	1	
-291.05		19.7600	Liquid	1	
-293.15		18.5200	Liquid Phase of VLE	3	
-293.15	101.300	18.4200	Liquid	2	
-293.85		19.4900	Liquid	1	
-303.15		17.4900	Liquid Phase of VLE	3	
-303.15	101.300	17.3900	Liquid	2	
-313.15		16.4600	Liquid Phase of VLE	3	
-313.15	101.300	16.3600	Liquid	2	
-314.05		17.4800	Liquid	1	
-323.15		15.4300	Liquid Phase of VLE	3	
-323.15	101.300	15.3300	Liquid	2	
-333.15		14.4000	Liquid Phase of VLE	3	
-333.15	101.300	14.3100	Liquid	2	
-Number	Source	
-1	Jeffery G.H.; Vogel A.I.: Part XVI. Ethylenic Compounds.. J.Chem.Soc.London  (1948) 658-673	
-2	Jasper J.J.; Kring E.V.: The isobaric surface tensions and thermodynamic properties of the surfaces of a series of n-alkanes, C5 to C18, 1-alkenes, C6 to C16, andof n-decylcyclopentane, n-decylcyclohexane and n-decylbenzene.. J.Phys.Chem. 59 (1955) 1019-1021	
-3	Jasper J.J.; Kerr E.R.: The orthobaric surface tensions and thermodynamic properties of the liquid surfaces of a series of 1-alkenes, C6 to C16, and of n-decylcyclopentane, n-decylcyclohexane and n-decylbenzene.. J.Am.Chem.Soc. 76 (1954) 2659-2661	
-$$$Thermal Conductivity	
-T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
-293.15		0.0120	Vapor	2	
-300.30		0.1130	Liquid	1	
-300.30	5000.000	0.1411	Liquid	1	
-300.30	10000.000	0.1161	Liquid	1	
-300.30	20000.000	0.1200	Liquid	1	
-300.30	30000.000	0.1225	Liquid	1	
-313.15		0.0139	Vapor	2	
-323.40		0.1047	Liquid	1	
-323.40	5000.000	0.1068	Liquid	1	
-323.40	10000.000	0.1096	Liquid	1	
-323.40	20000.000	0.1140	Liquid	1	
-323.40	30000.000	0.1164	Liquid	1	
-333.15		0.0159	Vapor	2	
-353.15		0.0179	Vapor	2	
-373.00	5000.000	0.0938	Liquid	1	
-373.00	10000.000	0.0964	Liquid	1	
-373.00	20000.000	0.1026	Liquid	1	
-373.00	30000.000	0.1062	Liquid	1	
-373.15		0.0200	Vapor	2	
-393.15		0.0223	Vapor	2	
-413.15		0.0245	Vapor	2	
-422.00	5000.000	0.0824	Liquid	1	
-422.00	10000.000	0.0859	Liquid	1	
-422.00	20000.000	0.0930	Liquid	1	
-422.00	30000.000	0.0978	Liquid	1	
-433.15		0.0267	Vapor	2	
-453.15		0.0291	Vapor	2	
-473.15		0.0315	Vapor	2	
-493.15		0.0339	Vapor	2	
-513.15		0.0364	Vapor	2	
-533.15		0.0389	Vapor	2	
-553.15		0.0415	Vapor	2	
-573.15		0.0442	Vapor	2	
-593.15		0.0468	Vapor	2	
-613.15		0.0493	Vapor	2	
-633.15		0.0518	Vapor	2	
-Number	Source	
-1	Tarzimanov A.A.; Sharafutdinov R.A.; Gabitov F.R.: I. Results of Experimental Study. Inzh.Fiz.Zh. 59 (1990) 662-667	
-2	Naziev Ya.M.; Abasov A.A.: Untersuchung der Wärmeleitfähigkeit von gasförmigen Alkenen bei Atmosphärendruck und verschiedenen Temperaturen. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1968) 63-66	
-$$$Vapor Pressure	
-T [K]	P [kPa]	State	Reference	
-298.15	24.665	Vapor-Liquid	5	
-336.15	98.925	Vapor-Liquid	3	
-336.30	99.992	Vapor-Liquid	2	
-336.80	99.058	Vapor-Liquid	2	
-353.15	166.906	Vapor-Liquid	4	
-389.32	456.000	Vapor-Liquid	1	
-397.64	546.000	Vapor-Liquid	1	
-408.73	682.000	Vapor-Liquid	1	
-419.44	847.000	Vapor-Liquid	1	
-433.28	1082.000	Vapor-Liquid	1	
-445.21	1307.000	Vapor-Liquid	1	
-456.15	1574.000	Vapor-Liquid	1	
-468.26	1907.000	Vapor-Liquid	1	
-479.71	2263.000	Vapor-Liquid	1	
-484.95	2449.000	Vapor-Liquid	1	
-489.32	2589.000	Vapor-Liquid	1	
-497.10	2886.000	Vapor-Liquid	1	
-499.76	3003.000	Vapor-Liquid	1	
-504.05	3186.000	Vapor-Liquid	1	
-Number	Source	
-1	Ma P.; Fang Z.; Zhang J.; Ruan Y.: Determination of Critical Constants, Saturated Vapor or Liquid Densities and Vapor Pressures of Six Organic Compounds. Gaoxiao-huaxue-gongcheng-xuebao 6 (1992) 112-117	
-2	Campbell K.N.; Eby L.T.: III. Further Studies on the Preparation of Olefins from Acetylenes. J.Am.Chem.Soc. 63 (1941) 2683-2685	
-3	Campbell K.N.; O'Connor M.J.: The hydrogenation of substituted acetylenes with Raney nickel. J.Am.Chem.Soc. 61 (1939) 2897-2900	
-4	Tassios D.; van Winkle M.: Members of a Homologous Series and a Common Solvent. J.Chem.Eng.Data 12 (1967) 555-561	
-5	Heinrich J.: Activity Coefficients in Binary Systems of Perfectly Miscible Components. Collect.Czech.Chem.Commun. 40 (1975) 787-793	
-$$$Virial Coefficients	
-T [K]	Second Virial Coefficient [cm3/mol]	State	Reference	
-313.80	-1493.0000	Vapor	1	
-325.70	-1340.0000	Vapor	1	
-333.70	-1262.0000	Vapor	1	
-342.60	-1194.0000	Vapor	1	
-353.80	-1087.0000	Vapor	1	
-364.30	-1009.0000	Vapor	1	
-373.10	-947.0000	Vapor	1	
-383.40	-886.0000	Vapor	1	
-392.60	-845.0000	Vapor	1	
-403.20	-779.0000	Vapor	1	
-410.30	-763.0000	Vapor	1	
-Number	Source	
-1	McGlashan M.L.; Wormald C.J.: Second Virial Coefficients of some Alk-1-enes, and of a Mixture of Propene + Hept-1-ene.. Trans.Faraday Soc. 60 (1964) 646-652	
+Formula	Molar Mass	CAS Registry Number	Name
+C6H12	84.161	592-41-6	1-Hexene
+$$$Critical Data
+T [K]	P [kPa]	State	Reference
+502.25	3339.000	Critical Point	5
+503.20	3212.000	Critical Point	6
+503.98		Critical Point	3
+504.00	3210.000	Critical Point	1
+504.20	3206.000	Critical Point	4
+516.65		Critical Point	2
+Number	Source
+1	Tsonopoulos C.; Ambrose D.: 6. Unsaturated Aliphatic Hydrocarbons.. J.Chem.Eng.Data 41 (1996) 645-656
+2	Altschul M.: Critical properties of several organic compounds. (Ger). Z.Phys.Chem.(Leipzig) 11 (1893) 577-597
+3	Ambrose D.; Cox J.D.; Townsend R.: The Critical Temperatures of Forty Organic Compounds.. Trans.Faraday Soc. 56 (1960) 1452-1459
+4	Gude M.T.; Rosenthal D.J.; Teja A.S.: The critical properties of 1-alkanes from 1-pentene to 1-dodecene. Fluid Phase Equilib. 70 (1991) 55-64
+5	Li Y.; Ma P.: Measurement of the Critical Constants of 1-Hexene and 1-Bromopropane. Shiyou-huagong 22 (1993) 322-327
+6	Kay W.B.; Young C.L.: Gas-Liquid Critical Properties. Int.Data Series Sel.Data Mixtures Ser. A 1974 (1974) 192-201
+$$$Density
+T [K]	P [kPa]	Density [kg/m3]	State	Reference
+283.15	101.300	682.500	Liquid	1
+283.15	813.270	683.100	Liquid	1
+283.15	885.740	683.300	Liquid	1
+283.15	1572.300	683.900	Liquid	1
+283.15	2062.600	684.400	Liquid	1
+283.15	2650.900	685.000	Liquid	1
+289.40	101.300	677.100	Liquid	1
+289.40	813.270	677.600	Liquid	1
+289.40	885.740	677.800	Liquid	1
+289.40	1572.300	678.500	Liquid	1
+289.40	2062.600	678.800	Liquid	1
+289.40	2650.900	679.400	Liquid	1
+298.15	101.300	668.800	Liquid	1
+298.15	813.270	669.400	Liquid	1
+298.15	885.740	669.600	Liquid	1
+298.15	1572.300	670.300	Liquid	1
+298.15	2062.600	670.700	Liquid	1
+298.15	2650.900	671.300	Liquid	1
+323.15	101.300	644.800	Liquid	1
+323.15	813.270	645.600	Liquid	1
+323.15	885.740	645.900	Liquid	1
+323.15	1572.300	646.500	Liquid	1
+323.15	2062.600	647.100	Liquid	1
+323.15	2650.900	647.800	Liquid	1
+348.15	813.270	619.900	Liquid	1
+348.15	885.740	620.200	Liquid	1
+348.15	1572.300	621.400	Liquid	1
+348.15	2062.600	622.200	Liquid	1
+348.15	2650.900	623.300	Liquid	1
+373.15	885.740	594.300	Liquid	1
+373.15	1572.300	595.800	Liquid	1
+373.15	2062.600	596.700	Liquid	1
+373.15	2650.900	598.200	Liquid	1
+398.15	885.740	563.700	Liquid	1
+398.15	1572.300	565.700	Liquid	1
+398.15	2062.600	567.200	Liquid	1
+398.15	2650.900	568.800	Liquid	1
+423.15	885.740	528.700	Liquid	1
+423.15	1572.300	532.100	Liquid	1
+423.15	2062.600	534.300	Liquid	1
+423.15	2650.900	536.500	Liquid	1
+448.15	1572.300	491.100	Liquid	1
+448.15	2062.600	494.900	Liquid	1
+448.15	2650.900	499.400	Liquid	1
+473.15	2062.600	439.400	Liquid	1
+473.15	2650.900	446.000	Liquid	1
+493.15	2650.900	380.000	Liquid	1
+Number	Source
+1	Kerimov A.M.; Apaev T.A.: Experimental values of density of 1-hexene,1-octene,cyclohexene,cyclohexane, and methylcyclohexane in dependence on temperature and pressure. Teplofiz.Svoistva Vesh.Mater.  (1972) 26-46
+$$$Dielectric Constant
+T [K]	Dielectric Constant [-]	State	Reference
+149.00	2.50900	Liquid	1
+183.00	2.38500	Liquid	1
+212.00	2.29300	Liquid	1
+239.00	2.22300	Liquid	1
+266.00	2.15300	Liquid	1
+273.15	2.09100	Liquid	2
+283.15	2.07300	Liquid	2
+293.15	2.05200	Liquid	2
+294.00	2.07700	Liquid	1
+303.15	2.03200	Liquid	2
+313.15	2.00700	Liquid	2
+323.15	1.98300	Liquid	2
+Number	Source
+1	Gee N.; Shinsaka K.; Dodelet J.-P.; Freeman G.R.: Dielectric Constant Against Temperature for 43 Liquids. J.Chem.Thermodyn. 18 (1986) 221-234
+2	Watanabe A.; Sugiyama S.: Temperature Coefficient of Dielectric Constant for Organic Liquids of Homologous Series. Nagoya-Kogyo-Gijutsu-Shikensho-hokoku 22 (1973) 67-76
+$$$Dynamic Viscosity
+T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference
+290.65	101.000	0.24813	Liquid	1
+290.65	980.000	0.2535	Liquid	1
+290.65	2940.000	0.25446	Liquid	1
+290.65	4900.000	0.2575	Liquid	1
+290.65	9800.000	0.27203	Liquid	1
+325.65	101.000	0.1895	Liquid	1
+325.65	980.000	0.1964	Liquid	1
+325.65	2940.000	0.19665	Liquid	1
+325.65	4900.000	0.20655	Liquid	1
+325.65	9800.000	0.2184	Liquid	1
+325.65	14700.000	0.22434	Liquid	1
+348.15	101.000	0.1613	Liquid	1
+348.15	980.000	0.16198	Liquid	1
+348.15	2940.000	0.16596	Liquid	1
+348.15	4900.000	0.1734	Liquid	1
+348.15	9800.000	0.18205	Liquid	1
+348.15	14700.000	0.1939	Liquid	1
+373.15	101.000	0.13953	Liquid	1
+373.15	980.000	0.1444	Liquid	1
+373.15	2940.000	0.1422	Liquid	1
+373.15	4900.000	0.1549	Liquid	1
+373.15	9800.000	0.16055	Liquid	1
+373.15	14700.000	0.17038	Liquid	1
+Number	Source
+1	Naziev Ya.M.; Gusejnov S.O.; Akhmedov A.K.: Untersuchung der Viskosität von einigen Kohlenwasserstoffen bei verschiedenen Drücken und Temperaturen. Izv.Vyssh.Uchebn.Zaved.Neft Gaz 15 (1972) 65-68
+$$$Enthalpy (H-H0)/T
+T [K]	Enthalpy (H-H0)/T [J/(K*mol)]	State	Reference
+240.00	272.20	Vapor	1
+260.00	266.38	Vapor	1
+280.00	256.15	Vapor	1
+298.15	248.51	Vapor	1
+300.00	247.76	Vapor	1
+320.00	240.86	Vapor	1
+340.00	235.04	Vapor	1
+350.00	232.54	Vapor	1
+Number	Source
+1	Steele W.V.; Chirico R.D.: Thermodynamic properties of alkenes (mono-olefins larger than C4).. J.Phys.Chem.Ref.Data 22 (1993) 377-430
+$$$Entropy
+T [K]	Molar Entropy [J/(mol*K)]	State	Reference
+298.00	385.97	Vapor	1
+298.00	386.52	Vapor	2
+Number	Source
+1	Kilpatrick J.E.; Prosen E.J.; Pitzer K.S.; Rossini F.D.: Heats, equilibrium constants, and free energies of formation of the monoolefin hydrocarbons.. J.Res. NBS 36 (1946) 559-612
+2	Steele W.V.; Chirico R.D.: Thermodynamic properties of alkenes (mono-olefins larger than C4).. J.Phys.Chem.Ref.Data 22 (1993) 377-430
+$$$G-function (G-G0)/T
+T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference
+298.16	-296.44	Vapor	1
+300.00	-296.98	Vapor	1
+400.00	-325.10	Vapor	1
+500.00	-350.62	Vapor	1
+600.00	-374.47	Vapor	1
+700.00	-396.64	Vapor	1
+800.00	-417.98	Vapor	1
+900.00	-438.48	Vapor	1
+1000.00	-458.15	Vapor	1
+1100.00	-476.56	Vapor	1
+1200.00	-494.55	Vapor	1
+1300.00	-511.70	Vapor	1
+1400.00	-528.44	Vapor	1
+1500.00	-544.34	Vapor	1
+Number	Source
+1	Kilpatrick J.E.; Prosen E.J.; Pitzer K.S.; Rossini F.D.: Heats, equilibrium constants, and free energies of formation of the monoolefin hydrocarbons.. J.Res. NBS 36 (1946) 559-612
+$$$Gibbs Energy of Form./T
+T [K]	Energy of formation/T [J/(K*mol)]	State	Reference
+240.00	274.70	Vapor	1
+260.00	280.18	Vapor	1
+280.00	290.24	Vapor	1
+298.15	298.72	Vapor	1
+300.00	299.47	Vapor	1
+320.00	307.95	Vapor	1
+340.00	315.77	Vapor	1
+350.00	319.42	Vapor	1
+Number	Source
+1	Steele W.V.; Chirico R.D.: Thermodynamic properties of alkenes (mono-olefins larger than C4).. J.Phys.Chem.Ref.Data 22 (1993) 377-430
+$$$Heat of Fusion
+T [K]	P [kPa]	Molar Enthalpy [J/mol]	State	Reference
+133.39	101.325	9385.00	Solid-Liquid-Vapor	1
+Number	Source
+1	McCullough J.P.; Finke H.L.; Gross M.E.; Messerly J.F.; Waddington G.: Low Temperature Calorimetric Studies of Seven 1-Olefins: Effect of Orientational Disorder in the Solid State. J.Phys.Chem. 61 (1957) 289-301
+$$$Heat of Vaporization
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.15	30626.90	Vapor-Liquid	1
+336.64	28283.80	Vapor-Liquid	1
+Number	Source
+1	Camin D.L.; Rossini F.D.: Physical properties of the 17 isomeric hexenes of the API research series.. J.Phys.Chem. 60 (1956) 1446-1451
+$$$Ideal Gas Heat Capacity
+T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference
+298.16	138.32	Ideal Gas	1
+300.00	139.33	Ideal Gas	1
+400.00	172.80	Ideal Gas	1
+500.00	203.76	Ideal Gas	1
+600.00	229.28	Ideal Gas	1
+700.00	251.46	Ideal Gas	1
+800.00	270.29	Ideal Gas	1
+900.00	287.02	Ideal Gas	1
+1000.00	301.25	Ideal Gas	1
+1100.00	313.38	Ideal Gas	1
+1200.00	324.68	Ideal Gas	1
+1300.00	333.88	Ideal Gas	1
+1400.00	342.25	Ideal Gas	1
+1500.00	348.95	Ideal Gas	1
+Number	Source
+1	Kilpatrick J.E.; Prosen E.J.; Pitzer K.S.; Rossini F.D.: Heats, equilibrium constants, and free energies of formation of the monoolefin hydrocarbons.. J.Res. NBS 36 (1946) 559-612
+$$$Kinematic Viscosity
+T [K]	P [kPa]	Kinematic Viscosity [m2/s]	State	Reference
+353.45	88.558	3.0199998946E-06	Vapor	1
+419.55	88.761	4.29000010627E-06	Vapor	1
+483.05	91.699	5.46000001123E-06	Vapor	1
+576.25	91.091	7.79000038165E-06	Vapor	1
+Number	Source
+1	Zhdanov A.G.; Lyusternik V.E.: Viskosität von gasförmigen Alkenen. Viniti  (1972) 1-11
+$$$Melting Point
+T [K]	P [kPa]	State	Reference
+128.15		Solid-Liquid	1
+132.15		Solid-Liquid	1
+133.15	101.325	Solid-Liquid	2
+133.25	101.325	Solid-Liquid	4
+133.35	100.000	Solid-Liquid	3
+133.35	101.325	Solid-Liquid	5
+Number	Source
+1	Campbell K.N.; Eby L.T.: III. Further Studies on the Preparation of Olefins from Acetylenes. J.Am.Chem.Soc. 63 (1941) 2683-2685
+2	Brooks J.H.; Pilcher G.: A simple melting-point calorimeter for moderately precise determinations of purity.. J.Chem.Soc.London  (1959) 1535-1539
+3	Streiff A.J.; Zimmerman J.C.; Soule L.F.; Butt M.T.; Sedlak V.A.; Willingham C.B.; Rossini F.D.: Purification, purity, and freezing points of 30 hydrocarbons of the API-standard and API-NBS series.. J.Res. NBS 41 (1948) 323-357
+4	Mears T.W.; Fookson A.; Pomerantz P.; Rich E.H.; Dussinger C.S.; Howard F.L.: Syntheses and properties of two olefins, six paraffins and their intermediates.. J.Res. NBS 44 (1950) 299-311
+5	Melikhov Yu.F.; Mel'Nikov G.A.; Tutov V.M.; Verveiko V.N.: Accoustic and thermal properties of some hexane derivatives at high state parameters. (Russ). Izv.Vyssh.Uchebn.Zaved.Energ. 34 (1991) 73-78
+$$$Molar Heat Capacity (cP)
+T [K]	P [kPa]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference
+11.27		2.368	Solid	1
+11.53		2.5564	Solid	1
+12.66		3.418	Solid	1
+12.84		3.59	Solid	1
+14.21		4.69	Solid	1
+14.46		4.937	Solid	1
+15.83		6.142	Solid	1
+16.24		6.556	Solid	1
+17.61		7.891	Solid	1
+18.18		8.49	Solid	1
+19.59		10.025	Solid	1
+20.32		10.803	Solid	1
+21.69		12.39	Solid	1
+22.49		13.339	Solid	1
+24.04		15.13	Solid	1
+24.79		16.025	Solid	1
+26.72		18.318	Solid	1
+27.63		19.422	Solid	1
+29.57		21.715	Solid	1
+30.62		23.02	Solid	1
+33.37		26.29	Solid	1
+37.03		30.526	Solid	1
+41.21		35.11	Solid	1
+45.09		39.14	Solid	1
+49.69		43.69	Solid	1
+53.84		47.52	Solid	1
+55.02		48.56	Solid	1
+58.70		51.74	Solid	1
+64.17		56.25	Solid	1
+69.46		60.14	Solid	1
+74.77		63.84	Solid	1
+80.24		67.55	Solid	1
+85.77		71.19	Solid	1
+91.37		74.47	Solid	1
+96.61		77.11	Solid	1
+97.07		77.55	Solid	1
+102.53		80.46	Solid	1
+104.46		81.41	Solid	1
+104.58		81.48	Solid	1
+110.16		84.40	Solid	1
+112.33		85.58	Solid	1
+120.26		89.76	Solid	1
+127.41		94.47	Solid	1
+136.19		154.31	Liquid	1
+140.60		154.18	Liquid	1
+142.88		154.18	Liquid	1
+146.95		154.22	Liquid	1
+148.76		154.35	Liquid	1
+154.71		154.52	Liquid	1
+159.41		154.60	Liquid	1
+163.38		154.81	Liquid	1
+168.98		155.19	Liquid	1
+178.94		155.98	Liquid	1
+186.58		157.94	Liquid	2
+189.27		157.07	Liquid	1
+189.43		158.43	Liquid	2
+192.40		158.95	Liquid	2
+195.64		159.53	Liquid	2
+199.04		160.13	Liquid	2
+199.48		158.49	Liquid	1
+202.45		160.72	Liquid	2
+205.90		161.32	Liquid	2
+208.80		161.81	Liquid	2
+209.56		160.12	Liquid	1
+212.87		162.50	Liquid	2
+217.15		163.22	Liquid	2
+219.53		161.96	Liquid	1
+221.24		163.91	Liquid	2
+229.36		164.06	Liquid	1
+229.45		165.37	Liquid	2
+233.56		166.14	Liquid	2
+235.93		166.61	Liquid	2
+239.50		166.36	Liquid	1
+239.94		167.42	Liquid	2
+243.96		168.28	Liquid	2
+245.76		167.90	Liquid	1
+248.08		169.20	Liquid	2
+252.10		170.14	Liquid	2
+255.43		170.95	Liquid	2
+256.11		170.62	Liquid	1
+259.56		171.97	Liquid	2
+263.58		172.99	Liquid	2
+266.29		173.47	Liquid	1
+267.67		174.05	Liquid	2
+270.22		174.72	Liquid	2
+274.35		175.81	Liquid	2
+276.71		176.57	Liquid	1
+278.45		176.91	Liquid	2
+282.56		178.02	Liquid	2
+287.16		179.29	Liquid	2
+287.38		179.87	Liquid	1
+289.91		180.07	Liquid	2
+294.34		181.40	Liquid	2
+297.86		183.18	Liquid	1
+298.15		182.79	Liquid	3
+298.15	98.000	182.71	Liquid	4
+298.56		182.77	Liquid	2
+301.06		183.66	Liquid	2
+308.16		186.73	Liquid	1
+323.15	98.000	194.41	Liquid	4
+348.15	98.000	204.26	Liquid Phase of VLE	4
+363.15	98.000	209.90	Liquid Phase of VLE	4
+Number	Source
+1	McCullough J.P.; Finke H.L.; Gross M.E.; Messerly J.F.; Waddington G.: Low Temperature Calorimetric Studies of Seven 1-Olefins: Effect of Orientational Disorder in the Solid State. J.Phys.Chem. 61 (1957) 289-301
+2	Kalinowska B.; Woycicki W.: I. (Propan-1-ol + n-hex-1-ene). J.Chem.Thermodyn. 17 (1985) 829-834
+3	Figueroa-Gerstenmaier S.; Cabanas A.; Costas M.: Heat capacities of linear alcohols mixed with alkenes and alkynes. Phys.Chem.Chem.Phys. (PCCP) 1 (1999) 665-674
+4	Zaripov Z.I.; Mukhamedzyanov G.Kh.; Bulaev S.A.: Thermal Conductivity, Thermal Diffusivity, and Heat Capacity of Unsaturated Hydrocarbons at Pressures up to 200 MPa. High Temp. 48 (2010) 132-135
+$$$Speed of Sound
+T [K]	P [kPa]	Ultrasonic Velocity [m/s]	State	Reference
+293.15		1086.400	Liquid	1
+303.15		1044.500	Liquid	1
+303.15	101.325	1050.000	Liquid	2
+303.15	9806.649	1125.000	Liquid	2
+303.15	19613.301	1192.000	Liquid	2
+303.15	29419.900	1252.000	Liquid	2
+303.15	39226.602	1306.000	Liquid	2
+303.15	49033.199	1356.000	Liquid	2
+303.15	58839.902	1402.000	Liquid	2
+303.15	68646.500	1446.000	Liquid	2
+303.15	78453.203	1487.000	Liquid	2
+303.15	88259.898	1526.000	Liquid	2
+303.15	98066.500	1563.000	Liquid	2
+303.15	107873.000	1598.000	Liquid	2
+303.15	117680.000	1631.000	Liquid	2
+313.15	101.325	1004.000	Liquid	2
+313.15	9806.649	1086.000	Liquid	2
+313.15	19613.301	1155.000	Liquid	2
+313.15	29419.900	1217.000	Liquid	2
+313.15	39226.602	1273.000	Liquid	2
+313.15	49033.199	1325.000	Liquid	2
+313.15	58839.902	1373.000	Liquid	2
+313.15	68646.500	1416.000	Liquid	2
+313.15	78453.203	1457.000	Liquid	2
+313.15	88259.898	1497.000	Liquid	2
+313.15	98066.500	1535.000	Liquid	2
+313.15	107873.000	1571.000	Liquid	2
+313.15	117680.000	1606.000	Liquid	2
+323.15	101.325	960.000	Liquid	2
+323.15	9806.649	1045.000	Liquid	2
+323.15	19613.301	1118.000	Liquid	2
+323.15	29419.900	1183.000	Liquid	2
+323.15	39226.602	1241.000	Liquid	2
+323.15	49033.199	1293.000	Liquid	2
+323.15	58839.902	1342.000	Liquid	2
+323.15	68646.500	1388.000	Liquid	2
+323.15	78453.203	1430.000	Liquid	2
+323.15	88259.898	1471.000	Liquid	2
+323.15	98066.500	1509.000	Liquid	2
+323.15	107873.000	1546.000	Liquid	2
+323.15	117680.000	1580.000	Liquid	2
+333.15	101.325	916.000	Liquid	2
+333.15	9806.649	1007.000	Liquid	2
+333.15	19613.301	1082.000	Liquid	2
+333.15	29419.900	1149.000	Liquid	2
+333.15	39226.602	1209.000	Liquid	2
+333.15	49033.199	1263.000	Liquid	2
+333.15	58839.902	1313.000	Liquid	2
+333.15	68646.500	1361.000	Liquid	2
+333.15	78453.203	1403.000	Liquid	2
+333.15	88259.898	1444.000	Liquid	2
+333.15	98066.500	1484.000	Liquid	2
+333.15	107873.000	1521.000	Liquid	2
+333.15	117680.000	1556.000	Liquid	2
+Number	Source
+1	Weissler A.; Del Grosso V.A.: VI. Acetylene Derivatives.. J.Am.Chem.Soc. 72 (1950) 4209-4210
+2	Badalyan A.L.; Otpushchennikov N.F.: Some thermodynamic properties of liquid 1-hexene at higher pressures. Uc.Zap.-Kursk.Gos.Ped.Inst. 91 (1971) 215-225
+$$$Std. Heat of Formation
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.00	-41673.00	Vapor	1
+Number	Source
+1	Bartolo H.F.; Rossini F.D.: Heats of isomerization of the seventeen isomeric hexenes.. J.Phys.Chem. 64 (1960) 1085-1089
+$$$Surface Tension
+T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference
+273.15		20.5800	Liquid Phase of VLE	3
+273.15	101.300	20.4700	Liquid	2
+283.15		19.5500	Liquid Phase of VLE	3
+283.15	101.300	19.4400	Liquid	2
+288.65		20.1300	Liquid	1
+291.05		19.7600	Liquid	1
+293.15		18.5200	Liquid Phase of VLE	3
+293.15	101.300	18.4200	Liquid	2
+293.85		19.4900	Liquid	1
+303.15		17.4900	Liquid Phase of VLE	3
+303.15	101.300	17.3900	Liquid	2
+313.15		16.4600	Liquid Phase of VLE	3
+313.15	101.300	16.3600	Liquid	2
+314.05		17.4800	Liquid	1
+323.15		15.4300	Liquid Phase of VLE	3
+323.15	101.300	15.3300	Liquid	2
+333.15		14.4000	Liquid Phase of VLE	3
+333.15	101.300	14.3100	Liquid	2
+Number	Source
+1	Jeffery G.H.; Vogel A.I.: Part XVI. Ethylenic Compounds.. J.Chem.Soc.London  (1948) 658-673
+2	Jasper J.J.; Kring E.V.: The isobaric surface tensions and thermodynamic properties of the surfaces of a series of n-alkanes, C5 to C18, 1-alkenes, C6 to C16, andof n-decylcyclopentane, n-decylcyclohexane and n-decylbenzene.. J.Phys.Chem. 59 (1955) 1019-1021
+3	Jasper J.J.; Kerr E.R.: The orthobaric surface tensions and thermodynamic properties of the liquid surfaces of a series of 1-alkenes, C6 to C16, and of n-decylcyclopentane, n-decylcyclohexane and n-decylbenzene.. J.Am.Chem.Soc. 76 (1954) 2659-2661
+$$$Thermal Conductivity
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference
+293.15		0.0120	Vapor	2
+300.30		0.1130	Liquid	1
+300.30	5000.000	0.1411	Liquid	1
+300.30	10000.000	0.1161	Liquid	1
+300.30	20000.000	0.1200	Liquid	1
+300.30	30000.000	0.1225	Liquid	1
+313.15		0.0139	Vapor	2
+323.40		0.1047	Liquid	1
+323.40	5000.000	0.1068	Liquid	1
+323.40	10000.000	0.1096	Liquid	1
+323.40	20000.000	0.1140	Liquid	1
+323.40	30000.000	0.1164	Liquid	1
+333.15		0.0159	Vapor	2
+353.15		0.0179	Vapor	2
+373.00	5000.000	0.0938	Liquid	1
+373.00	10000.000	0.0964	Liquid	1
+373.00	20000.000	0.1026	Liquid	1
+373.00	30000.000	0.1062	Liquid	1
+373.15		0.0200	Vapor	2
+393.15		0.0223	Vapor	2
+413.15		0.0245	Vapor	2
+422.00	5000.000	0.0824	Liquid	1
+422.00	10000.000	0.0859	Liquid	1
+422.00	20000.000	0.0930	Liquid	1
+422.00	30000.000	0.0978	Liquid	1
+433.15		0.0267	Vapor	2
+453.15		0.0291	Vapor	2
+473.15		0.0315	Vapor	2
+493.15		0.0339	Vapor	2
+513.15		0.0364	Vapor	2
+533.15		0.0389	Vapor	2
+553.15		0.0415	Vapor	2
+573.15		0.0442	Vapor	2
+593.15		0.0468	Vapor	2
+613.15		0.0493	Vapor	2
+633.15		0.0518	Vapor	2
+Number	Source
+1	Tarzimanov A.A.; Sharafutdinov R.A.; Gabitov F.R.: I. Results of Experimental Study. Inzh.Fiz.Zh. 59 (1990) 662-667
+2	Naziev Ya.M.; Abasov A.A.: Untersuchung der Wärmeleitfähigkeit von gasförmigen Alkenen bei Atmosphärendruck und verschiedenen Temperaturen. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1968) 63-66
+$$$Vapor Pressure
+T [K]	P [kPa]	State	Reference
+298.15	24.665	Vapor-Liquid	5
+336.15	98.925	Vapor-Liquid	3
+336.30	99.992	Vapor-Liquid	2
+336.80	99.058	Vapor-Liquid	2
+353.15	166.906	Vapor-Liquid	4
+389.32	456.000	Vapor-Liquid	1
+397.64	546.000	Vapor-Liquid	1
+408.73	682.000	Vapor-Liquid	1
+419.44	847.000	Vapor-Liquid	1
+433.28	1082.000	Vapor-Liquid	1
+445.21	1307.000	Vapor-Liquid	1
+456.15	1574.000	Vapor-Liquid	1
+468.26	1907.000	Vapor-Liquid	1
+479.71	2263.000	Vapor-Liquid	1
+484.95	2449.000	Vapor-Liquid	1
+489.32	2589.000	Vapor-Liquid	1
+497.10	2886.000	Vapor-Liquid	1
+499.76	3003.000	Vapor-Liquid	1
+504.05	3186.000	Vapor-Liquid	1
+Number	Source
+1	Ma P.; Fang Z.; Zhang J.; Ruan Y.: Determination of Critical Constants, Saturated Vapor or Liquid Densities and Vapor Pressures of Six Organic Compounds. Gaoxiao-huaxue-gongcheng-xuebao 6 (1992) 112-117
+2	Campbell K.N.; Eby L.T.: III. Further Studies on the Preparation of Olefins from Acetylenes. J.Am.Chem.Soc. 63 (1941) 2683-2685
+3	Campbell K.N.; O'Connor M.J.: The hydrogenation of substituted acetylenes with Raney nickel. J.Am.Chem.Soc. 61 (1939) 2897-2900
+4	Tassios D.; van Winkle M.: Members of a Homologous Series and a Common Solvent. J.Chem.Eng.Data 12 (1967) 555-561
+5	Heinrich J.: Activity Coefficients in Binary Systems of Perfectly Miscible Components. Collect.Czech.Chem.Commun. 40 (1975) 787-793
+$$$Virial Coefficients
+T [K]	Second Virial Coefficient [cm3/mol]	State	Reference
+313.80	-1493.0000	Vapor	1
+325.70	-1340.0000	Vapor	1
+333.70	-1262.0000	Vapor	1
+342.60	-1194.0000	Vapor	1
+353.80	-1087.0000	Vapor	1
+364.30	-1009.0000	Vapor	1
+373.10	-947.0000	Vapor	1
+383.40	-886.0000	Vapor	1
+392.60	-845.0000	Vapor	1
+403.20	-779.0000	Vapor	1
+410.30	-763.0000	Vapor	1
+Number	Source
+1	McGlashan M.L.; Wormald C.J.: Second Virial Coefficients of some Alk-1-enes, and of a Mixture of Propene + Hept-1-ene.. Trans.Faraday Soc. 60 (1964) 646-652

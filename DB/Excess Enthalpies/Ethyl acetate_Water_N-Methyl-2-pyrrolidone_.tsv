@@ -1,32 +1,32 @@
-$$$Enthalpy of Mixing Data Set 19562	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	H2O	18.015	7732-18-5	Water	
-3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	353.150	K	
-hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]	
-32.720	0.02170	0.14370	
-65.290	0.04360	0.14048	
-126.350	0.08780	0.13399	
-183.110	0.13270	0.12740	
-234.130	0.17810	0.12073	
-278.690	0.22410	0.11397	
-319.240	0.27080	0.10711	
-353.980	0.31820	0.10015	
-382.900	0.36620	0.09310	
-404.770	0.41490	0.08594	
-422.260	0.46430	0.07869	
-429.090	0.51440	0.07133	
-430.630	0.56520	0.06387	
-422.430	0.61680	0.05629	
-404.570	0.66910	0.04861	
-376.630	0.72220	0.04081	
-339.270	0.77610	0.03289	
-286.440	0.83080	0.02485	
-214.670	0.88640	0.01669	
-122.620	0.94270	0.00842	
-65.030	0.97130	0.00422	
-Source	
-Strotmann B.: Experimentelle Bestimmung von Dampf-Flüssig-Phasengleichgewichten sowie Mischungsenthalpien und simultane Korrelation der Meßergebnisse unter Verwendung von gE-Modellen. Master's Thesis  (1996)	
-Source	
-Strotmann B.: Experimentelle Bestimmung von Dampf-Flüssig-Phasengleichgewichten sowie Mischungsenthalpien und simultane Korrelation der Meßergebnisse unter Verwendung von gE-Modellen. Master's Thesis  (1996)	
+$$$Enthalpy of Mixing Data Set 19562
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	H2O	18.015	7732-18-5	Water
+3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	353.150	K
+hE [J/mol]	x1 [mol/mol]	x2 [mol/mol]
+32.720	0.02170	0.14370
+65.290	0.04360	0.14048
+126.350	0.08780	0.13399
+183.110	0.13270	0.12740
+234.130	0.17810	0.12073
+278.690	0.22410	0.11397
+319.240	0.27080	0.10711
+353.980	0.31820	0.10015
+382.900	0.36620	0.09310
+404.770	0.41490	0.08594
+422.260	0.46430	0.07869
+429.090	0.51440	0.07133
+430.630	0.56520	0.06387
+422.430	0.61680	0.05629
+404.570	0.66910	0.04861
+376.630	0.72220	0.04081
+339.270	0.77610	0.03289
+286.440	0.83080	0.02485
+214.670	0.88640	0.01669
+122.620	0.94270	0.00842
+65.030	0.97130	0.00422
+Source
+Strotmann B.: Experimentelle Bestimmung von Dampf-Flüssig-Phasengleichgewichten sowie Mischungsenthalpien und simultane Korrelation der Meßergebnisse unter Verwendung von gE-Modellen. Master's Thesis  (1996)
+Source
+Strotmann B.: Experimentelle Bestimmung von Dampf-Flüssig-Phasengleichgewichten sowie Mischungsenthalpien und simultane Korrelation der Meßergebnisse unter Verwendung von gE-Modellen. Master's Thesis  (1996)

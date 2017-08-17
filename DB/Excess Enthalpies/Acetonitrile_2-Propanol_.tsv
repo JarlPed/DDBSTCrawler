@@ -1,64 +1,64 @@
-$$$Enthalpy of Mixing Data Set 921	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-542.190	0.07750	
-837.779	0.11820	
-1166.020	0.17290	
-1372.010	0.21360	
-1568.380	0.26420	
-1732.080	0.31460	
-1846.800	0.35860	
-1933.880	0.40620	
-1988.310	0.44720	
-2021.810	0.48960	
-2027.670	0.52020	
-2020.130	0.55240	
-1984.540	0.59000	
-1925.510	0.61530	
-1881.550	0.64040	
-1825.030	0.66750	
-1748.830	0.69700	
-1650.850	0.72930	
-1493.850	0.77220	
-1334.330	0.81200	
-1138.810	0.84690	
-949.566	0.88000	
-786.281	0.90530	
-543.865	0.93760	
-358.390	0.96050	
-132.722	0.98450	
-Source	
-Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)	
-$$$Enthalpy of Mixing Data Set 5519	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-200.300	0.02050	
-486.800	0.05410	
-752.300	0.08980	
-1123.100	0.14970	
-1541.500	0.24060	
-1833.200	0.33750	
-1988.200	0.43390	
-2021.900	0.50280	
-2006.400	0.55260	
-1969.200	0.58470	
-1967.000	0.59490	
-1916.000	0.62440	
-1829.800	0.66830	
-1686.300	0.72160	
-1463.900	0.78200	
-1154.200	0.84600	
-843.600	0.89690	
-489.500	0.94480	
-130.100	0.98620	
-Source	
-Nagata I.; Tamura K.: Excess molar enthalpies of (propan-1-ol or propan-2-ol + acetonitrile), (propan-1-ol or propan-2-ol + chlorobenzene), and (propan-1-ol or propan-2-ol + acetonitrile + chlorobenzene) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 87-93	
-Source	
-Nagata I.; Tamura K.: Excess molar enthalpies of (propan-1-ol or propan-2-ol + acetonitrile), (propan-1-ol or propan-2-ol + chlorobenzene), and (propan-1-ol or propan-2-ol + acetonitrile + chlorobenzene) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 87-93	
-Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)	
+$$$Enthalpy of Mixing Data Set 921
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+542.190	0.07750
+837.779	0.11820
+1166.020	0.17290
+1372.010	0.21360
+1568.380	0.26420
+1732.080	0.31460
+1846.800	0.35860
+1933.880	0.40620
+1988.310	0.44720
+2021.810	0.48960
+2027.670	0.52020
+2020.130	0.55240
+1984.540	0.59000
+1925.510	0.61530
+1881.550	0.64040
+1825.030	0.66750
+1748.830	0.69700
+1650.850	0.72930
+1493.850	0.77220
+1334.330	0.81200
+1138.810	0.84690
+949.566	0.88000
+786.281	0.90530
+543.865	0.93760
+358.390	0.96050
+132.722	0.98450
+Source
+Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)
+$$$Enthalpy of Mixing Data Set 5519
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+200.300	0.02050
+486.800	0.05410
+752.300	0.08980
+1123.100	0.14970
+1541.500	0.24060
+1833.200	0.33750
+1988.200	0.43390
+2021.900	0.50280
+2006.400	0.55260
+1969.200	0.58470
+1967.000	0.59490
+1916.000	0.62440
+1829.800	0.66830
+1686.300	0.72160
+1463.900	0.78200
+1154.200	0.84600
+843.600	0.89690
+489.500	0.94480
+130.100	0.98620
+Source
+Nagata I.; Tamura K.: Excess molar enthalpies of (propan-1-ol or propan-2-ol + acetonitrile), (propan-1-ol or propan-2-ol + chlorobenzene), and (propan-1-ol or propan-2-ol + acetonitrile + chlorobenzene) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 87-93
+Source
+Nagata I.; Tamura K.: Excess molar enthalpies of (propan-1-ol or propan-2-ol + acetonitrile), (propan-1-ol or propan-2-ol + chlorobenzene), and (propan-1-ol or propan-2-ol + acetonitrile + chlorobenzene) at 298.15 K. J.Chem.Thermodyn. 20 (1988) 87-93
+Coca Prados J.: Propiedades Fisico - Quimicas de Mezclas Liquidas Binarias: Viscosidad y Calor de Mezcla. Thesis  (1969)

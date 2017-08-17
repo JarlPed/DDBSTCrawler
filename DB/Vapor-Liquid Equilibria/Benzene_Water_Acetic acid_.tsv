@@ -1,15 +1,15 @@
-$$$Vapor-Liquid Equilibrium Data Set 26811	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	H2O	18.015	7732-18-5	Water	
-3	C2H4O2	60.053	64-19-7	Acetic acid	
-P [kPa]	T [K]	y1 [mol/mol]	y2 [mol/mol]	
-99.725	342.35	0.69000	0.29400	
-90.659	339.65	0.70100	0.28150	
-77.327	336.65	0.72200	0.25850	
-63.995	330.35	0.74000	0.23650	
-50.663	326.35	0.77400	0.19880	
-35.997	321.15	0.81350	0.15400	
-Source	
-Ulusoy E.; Avciata U.: Vapor-Liquid Equilibria of Binary, Ternary and Quaternary Systems at Different Pressures. Chim.Acta Turc. 11 (1983) 413-432	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 26811
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	H2O	18.015	7732-18-5	Water
+3	C2H4O2	60.053	64-19-7	Acetic acid
+P [kPa]	T [K]	y1 [mol/mol]	y2 [mol/mol]
+99.725	342.35	0.69000	0.29400
+90.659	339.65	0.70100	0.28150
+77.327	336.65	0.72200	0.25850
+63.995	330.35	0.74000	0.23650
+50.663	326.35	0.77400	0.19880
+35.997	321.15	0.81350	0.15400
+Source
+Ulusoy E.; Avciata U.: Vapor-Liquid Equilibria of Binary, Ternary and Quaternary Systems at Different Pressures. Chim.Acta Turc. 11 (1983) 413-432
+Source

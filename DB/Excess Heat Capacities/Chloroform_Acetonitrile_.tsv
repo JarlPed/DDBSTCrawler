@@ -1,25 +1,25 @@
-$$$Excess Heat Capacity Data Set 573	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-0.6760	0.05770	
-1.3340	0.13990	
-2.0640	0.19500	
-2.8220	0.27390	
-2.9680	0.29140	
-3.4070	0.34330	
-3.7810	0.41110	
-4.3570	0.50340	
-4.6110	0.59070	
-4.5660	0.67450	
-4.3520	0.71000	
-3.9930	0.76310	
-3.5660	0.80340	
-2.2070	0.90630	
-1.3730	0.95170	
-Source	
-Grolier J.-P.E.; Roux-Desgranges G.; Berkane M.; Wilhelm E.: 1. Mixtures containing acetonitrile. J.Chem.Thermodyn. 23 (1991) 421-429	
-Source	
-Grolier J.-P.E.; Roux-Desgranges G.; Berkane M.; Wilhelm E.: 1. Mixtures containing acetonitrile. J.Chem.Thermodyn. 23 (1991) 421-429	
+$$$Excess Heat Capacity Data Set 573
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C2H3N	41.053	75-05-8	Acetonitrile
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+0.6760	0.05770
+1.3340	0.13990
+2.0640	0.19500
+2.8220	0.27390
+2.9680	0.29140
+3.4070	0.34330
+3.7810	0.41110
+4.3570	0.50340
+4.6110	0.59070
+4.5660	0.67450
+4.3520	0.71000
+3.9930	0.76310
+3.5660	0.80340
+2.2070	0.90630
+1.3730	0.95170
+Source
+Grolier J.-P.E.; Roux-Desgranges G.; Berkane M.; Wilhelm E.: 1. Mixtures containing acetonitrile. J.Chem.Thermodyn. 23 (1991) 421-429
+Source
+Grolier J.-P.E.; Roux-Desgranges G.; Berkane M.; Wilhelm E.: 1. Mixtures containing acetonitrile. J.Chem.Thermodyn. 23 (1991) 421-429

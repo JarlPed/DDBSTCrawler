@@ -1,110 +1,110 @@
-$$$Excess Volume Data Set 1968	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	300.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1779	0.04653	
-0.28214	0.09789	
-0.2934	0.10358	
-0.4177	0.20115	
-0.5048	0.30420	
-0.5508	0.39284	
-0.5723	0.46164	
-0.5696	0.50271	
-0.5646	0.58431	
-0.5217	0.68596	
-0.4309	0.79388	
-0.27416	0.89805	
-Source	
-Scatchard G.; Satkiewicz F.G.: XII. The System Ethanol-Cyclohexane from 5 to 65°. J.Am.Chem.Soc. 86 (1964) 130-133	
-$$$Excess Volume Data Set 2942	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	283.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.008774	0.00129	
-0.013293	0.00200	
-0.017064	0.00262	
-0.021684	0.00355	
-0.025677	0.00447	
-0.030666	0.00582	
-0.03512	0.00722	
-0.04116	0.00897	
-0.04917	0.01125	
-0.0487	0.01162	
-0.0633	0.01722	
-0.08016	0.02416	
-0.09898	0.03267	
-0.12342	0.04456	
-0.14815	0.05772	
-0.1861	0.08057	
-0.23486	0.10820	
-0.31804	0.17870	
-0.4375	0.33850	
-0.4828	0.44740	
-0.4990	0.56090	
-0.4941	0.62000	
-0.4848	0.64560	
-0.4700	0.68680	
-0.3943	0.78720	
-0.3098	0.85430	
-0.19363	0.92060	
-0.12026	0.95360	
-0.039894	0.98520	
-Source	
-Marsh K.N.; Burfitt C.: I. Ethanol + Cyclohexane, + n-Hexane, + Benzene, + Carbon Tetrachloride, + Cyclopentane, and + p-Xylene. J.Chem.Thermodyn. 7 (1975) 955-968	
-$$$Excess Volume Data Set 2943	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.004643	0.00057	
-0.01177	0.00141	
-0.016044	0.00197	
-0.020794	0.00253	
-0.02563	0.00319	
-0.03215	0.00415	
-0.03893	0.00534	
-0.04884	0.00716	
-0.05395	0.00828	
-0.05644	0.00880	
-0.06239	0.01020	
-0.0714	0.01251	
-0.07973	0.01485	
-0.10238	0.02185	
-0.11278	0.02515	
-0.11734	0.02704	
-0.13536	0.03359	
-0.1579	0.04273	
-0.18836	0.05597	
-0.1979	0.05996	
-0.2135	0.06793	
-0.23464	0.07905	
-0.34134	0.14420	
-0.4116	0.20650	
-0.4750	0.28220	
-0.5212	0.36300	
-0.5465	0.43120	
-0.5560	0.47920	
-0.5582	0.54870	
-0.5448	0.61810	
-0.5449	0.62620	
-0.5329	0.64890	
-0.5275	0.66640	
-0.4886	0.72520	
-0.4459	0.77080	
-0.37476	0.82780	
-0.3106	0.86800	
-0.22597	0.91100	
-0.18414	0.93070	
-0.11486	0.95920	
-0.07874	0.97270	
-0.05414	0.98140	
-Source	
-Marsh K.N.; Burfitt C.: I. Ethanol + Cyclohexane, + n-Hexane, + Benzene, + Carbon Tetrachloride, + Cyclopentane, and + p-Xylene. J.Chem.Thermodyn. 7 (1975) 955-968	
-Source	
-Scatchard G.; Satkiewicz F.G.: XII. The System Ethanol-Cyclohexane from 5 to 65°. J.Am.Chem.Soc. 86 (1964) 130-133	
-Marsh K.N.; Burfitt C.: I. Ethanol + Cyclohexane, + n-Hexane, + Benzene, + Carbon Tetrachloride, + Cyclopentane, and + p-Xylene. J.Chem.Thermodyn. 7 (1975) 955-968	
+$$$Excess Volume Data Set 1968
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	300.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1779	0.04653
+0.28214	0.09789
+0.2934	0.10358
+0.4177	0.20115
+0.5048	0.30420
+0.5508	0.39284
+0.5723	0.46164
+0.5696	0.50271
+0.5646	0.58431
+0.5217	0.68596
+0.4309	0.79388
+0.27416	0.89805
+Source
+Scatchard G.; Satkiewicz F.G.: XII. The System Ethanol-Cyclohexane from 5 to 65°. J.Am.Chem.Soc. 86 (1964) 130-133
+$$$Excess Volume Data Set 2942
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	283.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.008774	0.00129
+0.013293	0.00200
+0.017064	0.00262
+0.021684	0.00355
+0.025677	0.00447
+0.030666	0.00582
+0.03512	0.00722
+0.04116	0.00897
+0.04917	0.01125
+0.0487	0.01162
+0.0633	0.01722
+0.08016	0.02416
+0.09898	0.03267
+0.12342	0.04456
+0.14815	0.05772
+0.1861	0.08057
+0.23486	0.10820
+0.31804	0.17870
+0.4375	0.33850
+0.4828	0.44740
+0.4990	0.56090
+0.4941	0.62000
+0.4848	0.64560
+0.4700	0.68680
+0.3943	0.78720
+0.3098	0.85430
+0.19363	0.92060
+0.12026	0.95360
+0.039894	0.98520
+Source
+Marsh K.N.; Burfitt C.: I. Ethanol + Cyclohexane, + n-Hexane, + Benzene, + Carbon Tetrachloride, + Cyclopentane, and + p-Xylene. J.Chem.Thermodyn. 7 (1975) 955-968
+$$$Excess Volume Data Set 2943
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.004643	0.00057
+0.01177	0.00141
+0.016044	0.00197
+0.020794	0.00253
+0.02563	0.00319
+0.03215	0.00415
+0.03893	0.00534
+0.04884	0.00716
+0.05395	0.00828
+0.05644	0.00880
+0.06239	0.01020
+0.0714	0.01251
+0.07973	0.01485
+0.10238	0.02185
+0.11278	0.02515
+0.11734	0.02704
+0.13536	0.03359
+0.1579	0.04273
+0.18836	0.05597
+0.1979	0.05996
+0.2135	0.06793
+0.23464	0.07905
+0.34134	0.14420
+0.4116	0.20650
+0.4750	0.28220
+0.5212	0.36300
+0.5465	0.43120
+0.5560	0.47920
+0.5582	0.54870
+0.5448	0.61810
+0.5449	0.62620
+0.5329	0.64890
+0.5275	0.66640
+0.4886	0.72520
+0.4459	0.77080
+0.37476	0.82780
+0.3106	0.86800
+0.22597	0.91100
+0.18414	0.93070
+0.11486	0.95920
+0.07874	0.97270
+0.05414	0.98140
+Source
+Marsh K.N.; Burfitt C.: I. Ethanol + Cyclohexane, + n-Hexane, + Benzene, + Carbon Tetrachloride, + Cyclopentane, and + p-Xylene. J.Chem.Thermodyn. 7 (1975) 955-968
+Source
+Scatchard G.; Satkiewicz F.G.: XII. The System Ethanol-Cyclohexane from 5 to 65°. J.Am.Chem.Soc. 86 (1964) 130-133
+Marsh K.N.; Burfitt C.: I. Ethanol + Cyclohexane, + n-Hexane, + Benzene, + Carbon Tetrachloride, + Cyclopentane, and + p-Xylene. J.Chem.Thermodyn. 7 (1975) 955-968

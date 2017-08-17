@@ -1,33 +1,33 @@
-$$$Solid-Liquid Equilibrium Data Set 11465	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2S	120.172	126-33-0	Sulfolane	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-T [K]	xL1 [mol/mol]	
-231.56	0.00000	
-227.83	0.05560	
-224.49	0.10350	
-222.35	0.14350	
-220.33	0.17810	
-219.14	0.19890	
-218.12	0.22070	
-217.38	0.25110	
-219.40	0.28000	
-226.06	0.32230	
-230.30	0.35280	
-229.71	0.36240	
-241.90	0.46800	
-252.53	0.57210	
-262.62	0.67200	
-270.42	0.75810	
-278.44	0.85410	
-301.15	1.00000	
-Source	
-Domanska U.; Gonzales J.A.: Thermodynamics of mixtures containing a very strongly polar compound. Part II. Solid-liquid equilibria for sulfolane + nitrile systems and characterization of the sufolane-nitrile and sulfolane-1-alkyne interactions in terms of DISQUAC. Can.J.Chem. 80 (2002) 476-482	
-$$$Solid-Liquid Equilibrium Data Set 11466	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2S	120.172	126-33-0	Sulfolane	
-2	C2H3N	41.053	75-05-8	Acetonitrile	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-217.03	0.25300	0.25300	
-Source	
-Domanska U.; Gonzales J.A.: Thermodynamics of mixtures containing a very strongly polar compound. Part II. Solid-liquid equilibria for sulfolane + nitrile systems and characterization of the sufolane-nitrile and sulfolane-1-alkyne interactions in terms of DISQUAC. Can.J.Chem. 80 (2002) 476-482	
+$$$Solid-Liquid Equilibrium Data Set 11465
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2S	120.172	126-33-0	Sulfolane
+2	C2H3N	41.053	75-05-8	Acetonitrile
+T [K]	xL1 [mol/mol]
+231.56	0.00000
+227.83	0.05560
+224.49	0.10350
+222.35	0.14350
+220.33	0.17810
+219.14	0.19890
+218.12	0.22070
+217.38	0.25110
+219.40	0.28000
+226.06	0.32230
+230.30	0.35280
+229.71	0.36240
+241.90	0.46800
+252.53	0.57210
+262.62	0.67200
+270.42	0.75810
+278.44	0.85410
+301.15	1.00000
+Source
+Domanska U.; Gonzales J.A.: Thermodynamics of mixtures containing a very strongly polar compound. Part II. Solid-liquid equilibria for sulfolane + nitrile systems and characterization of the sufolane-nitrile and sulfolane-1-alkyne interactions in terms of DISQUAC. Can.J.Chem. 80 (2002) 476-482
+$$$Solid-Liquid Equilibrium Data Set 11466
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2S	120.172	126-33-0	Sulfolane
+2	C2H3N	41.053	75-05-8	Acetonitrile
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+217.03	0.253000.25300
+Source
+Domanska U.; Gonzales J.A.: Thermodynamics of mixtures containing a very strongly polar compound. Part II. Solid-liquid equilibria for sulfolane + nitrile systems and characterization of the sufolane-nitrile and sulfolane-1-alkyne interactions in terms of DISQUAC. Can.J.Chem. 80 (2002) 476-482

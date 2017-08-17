@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-323.60	1.0900	EBUL	1	
-332.90	1.0800	EBUL	1	
-353.20	1.0500	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-1	Trampe D.M.; Eckert C.A.: Limiting Activity Coefficients from an Improved Differential Boiling Point Technique. J.Chem.Eng.Data 35 (1990) 156-162	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C6H14	86.177	110-54-3	Hexane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+323.60	1.0900	EBUL	1
+332.90	1.0800	EBUL	1
+353.20	1.0500	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+1	Trampe D.M.; Eckert C.A.: Limiting Activity Coefficients from an Improved Differential Boiling Point Technique. J.Chem.Eng.Data 35 (1990) 156-162

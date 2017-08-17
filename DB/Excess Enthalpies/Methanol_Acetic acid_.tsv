@@ -1,52 +1,52 @@
-$$$Enthalpy of Mixing Data Set 682	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-64.600	0.07900	
-69.100	0.08800	
-71.600	0.16400	
-60.700	0.19900	
-42.500	0.25300	
-18.300	0.30000	
--8.400	0.34400	
--36.500	0.40300	
--61.900	0.44100	
--88.400	0.50200	
--108.000	0.54300	
--113.000	0.55700	
--125.000	0.60000	
--131.000	0.65000	
--135.000	0.70000	
--111.000	0.80000	
--82.900	0.86800	
--67.500	0.89800	
--35.100	0.95000	
-Source	
-Abramov E.V.; Mirzayan A.S.; Devina O.A.: Bildungswärme der ternären Systeme. 3.. Izv.Akad.Nauk Kaz.SSR Ser.Khim. 23 (1973) 29-34	
-$$$Enthalpy of Mixing Data Set 6521	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H4O2	60.053	64-19-7	Acetic acid	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-34.370	0.05100	
-44.400	0.13570	
-25.510	0.19120	
-3.850	0.24480	
--30.980	0.30070	
--119.800	0.41390	
--198.480	0.52940	
--261.590	0.64260	
--268.710	0.69230	
--268.460	0.73480	
--256.440	0.80080	
--212.440	0.86020	
--133.180	0.91200	
--77.830	0.94450	
-Source	
-Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818	
-Source	
-Abramov E.V.; Mirzayan A.S.; Devina O.A.: Bildungswärme der ternären Systeme. 3.. Izv.Akad.Nauk Kaz.SSR Ser.Khim. 23 (1973) 29-34	
-Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818	
+$$$Enthalpy of Mixing Data Set 682
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+64.600	0.07900
+69.100	0.08800
+71.600	0.16400
+60.700	0.19900
+42.500	0.25300
+18.300	0.30000
+-8.400	0.34400
+-36.500	0.40300
+-61.900	0.44100
+-88.400	0.50200
+-108.000	0.54300
+-113.000	0.55700
+-125.000	0.60000
+-131.000	0.65000
+-135.000	0.70000
+-111.000	0.80000
+-82.900	0.86800
+-67.500	0.89800
+-35.100	0.95000
+Source
+Abramov E.V.; Mirzayan A.S.; Devina O.A.: Bildungswärme der ternären Systeme. 3.. Izv.Akad.Nauk Kaz.SSR Ser.Khim. 23 (1973) 29-34
+$$$Enthalpy of Mixing Data Set 6521
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H4O2	60.053	64-19-7	Acetic acid
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+34.370	0.05100
+44.400	0.13570
+25.510	0.19120
+3.850	0.24480
+-30.980	0.30070
+-119.800	0.41390
+-198.480	0.52940
+-261.590	0.64260
+-268.710	0.69230
+-268.460	0.73480
+-256.440	0.80080
+-212.440	0.86020
+-133.180	0.91200
+-77.830	0.94450
+Source
+Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818
+Source
+Abramov E.V.; Mirzayan A.S.; Devina O.A.: Bildungswärme der ternären Systeme. 3.. Izv.Akad.Nauk Kaz.SSR Ser.Khim. 23 (1973) 29-34
+Zhao J.; Bao J.; Hu Y.: Excess molar enthalpies of (an alkanol + a carboxylic acid) at 298.15 K measured with a Picker calorimeter. J.Chem.Thermodyn. 21 (1989) 811-818

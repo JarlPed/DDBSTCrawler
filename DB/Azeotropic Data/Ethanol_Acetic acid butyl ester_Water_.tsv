@@ -1,8 +1,8 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C2H6O	46.069	64-17-5	Acetic acid butyl ester	
-3	H2O	18.015	7732-18-5	Water	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.325	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	zeotropic	
-1	Beregovykh V.V.; Timofeev V.S.; Lukyanova R.N.; Serafimov L.A.: Die Phasengleichgewicht in den Systemen Methanol-Wasser-n-Butylacetat und Ethanol-Wasser- n-Butylacetat bei Atmosphärendruck. Uch.Zap.Mosk.Inst.Tonkoj Khim.Tekhnol. 1 (1971) 24-30	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C2H6O	46.069	64-17-5	Acetic acid butyl ester
+3	H2O	18.015	7732-18-5	Water
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.325	n.a.	n.a.	n.a.	n.a.	Author	1
+none	zeotropic
+1	Beregovykh V.V.; Timofeev V.S.; Lukyanova R.N.; Serafimov L.A.: Die Phasengleichgewicht in den Systemen Methanol-Wasser-n-Butylacetat und Ethanol-Wasser- n-Butylacetat bei Atmosphärendruck. Uch.Zap.Mosk.Inst.Tonkoj Khim.Tekhnol. 1 (1971) 24-30

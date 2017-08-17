@@ -1,52 +1,52 @@
-$$$Excess Volume Data Set 5227	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.05809	0.04070	
-0.10322	0.06690	
-0.14333	0.09710	
-0.1873	0.12720	
-0.2354	0.16720	
-0.2850	0.21140	
-0.3393	0.26200	
-0.4640	0.38600	
-0.46725	0.38630	
-0.4492	0.45710	
-0.4941	0.46040	
-0.5113	0.51190	
-0.5212	0.56820	
-0.5320	0.57060	
-0.5161	0.63990	
-0.5081	0.67420	
-0.4853	0.71460	
-0.4274	0.81160	
-0.3972	0.82440	
-0.28343	0.89190	
-0.22084	0.92220	
-0.13357	0.95550	
-Source	
-Ocon J.; Tojo G.; Bao M.; Arce A.: XIV. Sistemas binarios ciclohexano-propanol normal y ciclohexano-isopropanol a 760 mm Hg. Anal.Quim. 69 (1973) 1169-1176	
-$$$Excess Volume Data Set 8797	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0860	0.04370	
-0.1960	0.10350	
-0.3410	0.20250	
-0.4550	0.30000	
-0.5400	0.40440	
-0.5920	0.49550	
-0.6130	0.60120	
-0.5730	0.71370	
-0.4990	0.79060	
-0.3250	0.89800	
-0.1990	0.95100	
-Source	
-Haase R.; Tillmann W.: Mixing Properties of the Liquid System 2-Propanol + Cyclohexane. Z.Phys.Chem.(München) 189 (1995) 81-88	
-Source	
-Ocon J.; Tojo G.; Bao M.; Arce A.: XIV. Sistemas binarios ciclohexano-propanol normal y ciclohexano-isopropanol a 760 mm Hg. Anal.Quim. 69 (1973) 1169-1176	
-Haase R.; Tillmann W.: Mixing Properties of the Liquid System 2-Propanol + Cyclohexane. Z.Phys.Chem.(München) 189 (1995) 81-88	
+$$$Excess Volume Data Set 5227
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.05809	0.04070
+0.10322	0.06690
+0.14333	0.09710
+0.1873	0.12720
+0.2354	0.16720
+0.2850	0.21140
+0.3393	0.26200
+0.4640	0.38600
+0.46725	0.38630
+0.4492	0.45710
+0.4941	0.46040
+0.5113	0.51190
+0.5212	0.56820
+0.5320	0.57060
+0.5161	0.63990
+0.5081	0.67420
+0.4853	0.71460
+0.4274	0.81160
+0.3972	0.82440
+0.28343	0.89190
+0.22084	0.92220
+0.13357	0.95550
+Source
+Ocon J.; Tojo G.; Bao M.; Arce A.: XIV. Sistemas binarios ciclohexano-propanol normal y ciclohexano-isopropanol a 760 mm Hg. Anal.Quim. 69 (1973) 1169-1176
+$$$Excess Volume Data Set 8797
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0860	0.04370
+0.1960	0.10350
+0.3410	0.20250
+0.4550	0.30000
+0.5400	0.40440
+0.5920	0.49550
+0.6130	0.60120
+0.5730	0.71370
+0.4990	0.79060
+0.3250	0.89800
+0.1990	0.95100
+Source
+Haase R.; Tillmann W.: Mixing Properties of the Liquid System 2-Propanol + Cyclohexane. Z.Phys.Chem.(München) 189 (1995) 81-88
+Source
+Ocon J.; Tojo G.; Bao M.; Arce A.: XIV. Sistemas binarios ciclohexano-propanol normal y ciclohexano-isopropanol a 760 mm Hg. Anal.Quim. 69 (1973) 1169-1176
+Haase R.; Tillmann W.: Mixing Properties of the Liquid System 2-Propanol + Cyclohexane. Z.Phys.Chem.(München) 189 (1995) 81-88

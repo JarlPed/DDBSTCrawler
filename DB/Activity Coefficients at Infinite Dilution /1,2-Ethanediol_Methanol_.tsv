@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-323.15	1.4400	GLCN	1	
-333.15	1.5130	GLCN	1	
-343.15	1.5890	GLCN	1	
-Short Term	Explanation	
-GLCN	GLC (not specified)	
-1	Zhao C.; Chen M.; Zhao C.: Relative volatility and selectivity of salt containing systems. Huaxue-gongcheng 20 (1992) 58-60	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+2	CH4O	32.042	67-56-1	Methanol
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+323.15	1.4400	GLCN	1
+333.15	1.5130	GLCN	1
+343.15	1.5890	GLCN	1
+Short Term	Explanation
+GLCN	GLC (not specified)
+1	Zhao C.; Chen M.; Zhao C.: Relative volatility and selectivity of salt containing systems. Huaxue-gongcheng 20 (1992) 58-60

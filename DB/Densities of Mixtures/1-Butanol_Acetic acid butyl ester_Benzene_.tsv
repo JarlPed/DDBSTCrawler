@@ -1,56 +1,56 @@
-$$$Density Data Set 50726	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H10O	74.123	71-36-3	Acetic acid butyl ester	
-3	C6H6	78.114	71-43-2	Benzene	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.8516	0.37653	0.39152	
-0.8593	0.20260	0.21082	
-0.8659	0.10027	0.10406	
-0.8384	0.53135	0.17736	
-0.8503	0.32201	0.10727	
-0.8601	0.18387	0.06107	
-0.8476	0.40952	0.24360	
-0.8540	0.28949	0.17179	
-0.8636	0.13040	0.07766	
-0.8435	0.49550	0.21806	
-0.8527	0.31469	0.13105	
-0.8624	0.15340	0.06755	
-0.8663	0.14207	0.52464	
-0.8685	0.08873	0.32420	
-0.8702	0.04186	0.15520	
-0.8597	0.25085	0.44140	
-0.8639	0.15006	0.26465	
-0.8681	0.07726	0.13647	
-Source	
-Dubrovskii S.M.; Afonina K.V.: Density, Viscosity, and Refractive Index in the System Butyl Alcohol-Butyl Acetate-Benzene. J.Gen.Chem.USSR 36 (1966) 1868-1870	
-$$$Density Data Set 50727	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C4H10O	74.123	71-36-3	Acetic acid butyl ester	
-3	C6H6	78.114	71-43-2	Benzene	
-Temperature	308.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.8417	0.37653	0.39152	
-0.8490	0.20260	0.21082	
-0.8553	0.10027	0.10406	
-0.8295	0.53135	0.17736	
-0.8405	0.32201	0.10727	
-0.8492	0.18387	0.06107	
-0.8382	0.40952	0.24360	
-0.8440	0.28949	0.17179	
-0.8535	0.13040	0.07766	
-0.8340	0.49550	0.21806	
-0.8432	0.31469	0.13105	
-0.8520	0.15340	0.06755	
-0.8563	0.14207	0.52464	
-0.8580	0.08873	0.32420	
-0.8600	0.04186	0.15520	
-0.8497	0.25085	0.44140	
-0.8535	0.15006	0.26465	
-0.8576	0.07726	0.13647	
-Source	
-Dubrovskii S.M.; Afonina K.V.: Density, Viscosity, and Refractive Index in the System Butyl Alcohol-Butyl Acetate-Benzene. J.Gen.Chem.USSR 36 (1966) 1868-1870	
-Source	
-Dubrovskii S.M.; Afonina K.V.: Density, Viscosity, and Refractive Index in the System Butyl Alcohol-Butyl Acetate-Benzene. J.Gen.Chem.USSR 36 (1966) 1868-1870	
+$$$Density Data Set 50726
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H10O	74.123	71-36-3	Acetic acid butyl ester
+3	C6H6	78.114	71-43-2	Benzene
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.8516	0.37653	0.39152
+0.8593	0.20260	0.21082
+0.8659	0.10027	0.10406
+0.8384	0.53135	0.17736
+0.8503	0.32201	0.10727
+0.8601	0.18387	0.06107
+0.8476	0.40952	0.24360
+0.8540	0.28949	0.17179
+0.8636	0.13040	0.07766
+0.8435	0.49550	0.21806
+0.8527	0.31469	0.13105
+0.8624	0.15340	0.06755
+0.8663	0.14207	0.52464
+0.8685	0.08873	0.32420
+0.8702	0.04186	0.15520
+0.8597	0.25085	0.44140
+0.8639	0.15006	0.26465
+0.8681	0.07726	0.13647
+Source
+Dubrovskii S.M.; Afonina K.V.: Density, Viscosity, and Refractive Index in the System Butyl Alcohol-Butyl Acetate-Benzene. J.Gen.Chem.USSR 36 (1966) 1868-1870
+$$$Density Data Set 50727
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C4H10O	74.123	71-36-3	Acetic acid butyl ester
+3	C6H6	78.114	71-43-2	Benzene
+Temperature	308.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.8417	0.37653	0.39152
+0.8490	0.20260	0.21082
+0.8553	0.10027	0.10406
+0.8295	0.53135	0.17736
+0.8405	0.32201	0.10727
+0.8492	0.18387	0.06107
+0.8382	0.40952	0.24360
+0.8440	0.28949	0.17179
+0.8535	0.13040	0.07766
+0.8340	0.49550	0.21806
+0.8432	0.31469	0.13105
+0.8520	0.15340	0.06755
+0.8563	0.14207	0.52464
+0.8580	0.08873	0.32420
+0.8600	0.04186	0.15520
+0.8497	0.25085	0.44140
+0.8535	0.15006	0.26465
+0.8576	0.07726	0.13647
+Source
+Dubrovskii S.M.; Afonina K.V.: Density, Viscosity, and Refractive Index in the System Butyl Alcohol-Butyl Acetate-Benzene. J.Gen.Chem.USSR 36 (1966) 1868-1870
+Source
+Dubrovskii S.M.; Afonina K.V.: Density, Viscosity, and Refractive Index in the System Butyl Alcohol-Butyl Acetate-Benzene. J.Gen.Chem.USSR 36 (1966) 1868-1870

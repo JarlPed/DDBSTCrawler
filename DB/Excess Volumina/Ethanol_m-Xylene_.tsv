@@ -1,78 +1,78 @@
-$$$Excess Volume Data Set 634	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0140	0.00930	
-0.0261	0.02110	
-0.0379	0.03260	
-0.0650	0.06260	
-0.0857	0.11980	
-0.0936	0.17350	
-0.0868	0.23450	
-0.0663	0.31670	
-0.0327	0.43960	
-0.0192	0.48450	
-0.0060	0.53570	
--0.0063	0.58350	
--0.0202	0.64590	
--0.0344	0.73530	
--0.0427	0.77940	
--0.0438	0.82750	
--0.0389	0.89360	
--0.0284	0.93330	
--0.0215	0.95160	
--0.0199	0.96230	
--0.0097	0.98280	
-Source	
-Letcher T.M.; Prasad A.K.; Mercer-Chalmers J.; Radloff S.E.: Excess molar volumes of ( a xylene + an alkanol) at 298.15 K. J.Chem.Thermodyn. 22 (1990) 1175-1179	
-$$$Excess Volume Data Set 9153	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0000	0.00000	
-0.04334	0.02500	
-0.06446	0.05000	
-0.07749	0.07500	
-0.08541	0.10000	
-0.0918	0.15000	
-0.09184	0.20000	
-0.07791	0.30000	
-0.0528	0.40000	
-0.0235	0.50000	
--0.00792	0.60000	
--0.0315	0.70000	
--0.04304	0.80000	
--0.03708	0.90000	
-0.0000	1.00000	
-Source	
-Pardo F.; van Ness H.C.: Volume Changes of Mixing of Some Ethanol-Hydrocarbon Systems. J.Chem.Eng.Data 10 (1965) 163-165	
-$$$Excess Volume Data Set 9154	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	318.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0000	0.00000	
-0.0615	0.02500	
-0.10027	0.05000	
-0.12938	0.07500	
-0.1467	0.10000	
-0.16843	0.15000	
-0.1784	0.20000	
-0.17493	0.30000	
-0.15456	0.40000	
-0.1215	0.50000	
-0.08376	0.60000	
-0.04494	0.70000	
-0.0120	0.80000	
--0.00792	0.90000	
-0.0000	1.00000	
-Source	
-Pardo F.; van Ness H.C.: Volume Changes of Mixing of Some Ethanol-Hydrocarbon Systems. J.Chem.Eng.Data 10 (1965) 163-165	
-Source	
-Letcher T.M.; Prasad A.K.; Mercer-Chalmers J.; Radloff S.E.: Excess molar volumes of ( a xylene + an alkanol) at 298.15 K. J.Chem.Thermodyn. 22 (1990) 1175-1179	
-Pardo F.; van Ness H.C.: Volume Changes of Mixing of Some Ethanol-Hydrocarbon Systems. J.Chem.Eng.Data 10 (1965) 163-165	
+$$$Excess Volume Data Set 634
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0140	0.00930
+0.0261	0.02110
+0.0379	0.03260
+0.0650	0.06260
+0.0857	0.11980
+0.0936	0.17350
+0.0868	0.23450
+0.0663	0.31670
+0.0327	0.43960
+0.0192	0.48450
+0.0060	0.53570
+-0.0063	0.58350
+-0.0202	0.64590
+-0.0344	0.73530
+-0.0427	0.77940
+-0.0438	0.82750
+-0.0389	0.89360
+-0.0284	0.93330
+-0.0215	0.95160
+-0.0199	0.96230
+-0.0097	0.98280
+Source
+Letcher T.M.; Prasad A.K.; Mercer-Chalmers J.; Radloff S.E.: Excess molar volumes of ( a xylene + an alkanol) at 298.15 K. J.Chem.Thermodyn. 22 (1990) 1175-1179
+$$$Excess Volume Data Set 9153
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0000	0.00000
+0.04334	0.02500
+0.06446	0.05000
+0.07749	0.07500
+0.08541	0.10000
+0.0918	0.15000
+0.09184	0.20000
+0.07791	0.30000
+0.0528	0.40000
+0.0235	0.50000
+-0.00792	0.60000
+-0.0315	0.70000
+-0.04304	0.80000
+-0.03708	0.90000
+0.0000	1.00000
+Source
+Pardo F.; van Ness H.C.: Volume Changes of Mixing of Some Ethanol-Hydrocarbon Systems. J.Chem.Eng.Data 10 (1965) 163-165
+$$$Excess Volume Data Set 9154
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	318.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0000	0.00000
+0.0615	0.02500
+0.10027	0.05000
+0.12938	0.07500
+0.1467	0.10000
+0.16843	0.15000
+0.1784	0.20000
+0.17493	0.30000
+0.15456	0.40000
+0.1215	0.50000
+0.08376	0.60000
+0.04494	0.70000
+0.0120	0.80000
+-0.00792	0.90000
+0.0000	1.00000
+Source
+Pardo F.; van Ness H.C.: Volume Changes of Mixing of Some Ethanol-Hydrocarbon Systems. J.Chem.Eng.Data 10 (1965) 163-165
+Source
+Letcher T.M.; Prasad A.K.; Mercer-Chalmers J.; Radloff S.E.: Excess molar volumes of ( a xylene + an alkanol) at 298.15 K. J.Chem.Thermodyn. 22 (1990) 1175-1179
+Pardo F.; van Ness H.C.: Volume Changes of Mixing of Some Ethanol-Hydrocarbon Systems. J.Chem.Eng.Data 10 (1965) 163-165

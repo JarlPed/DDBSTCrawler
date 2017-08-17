@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2	88.106	141-78-6	Ethyl acetate	
-2	C6H6	78.114	71-43-2	Benzene	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.325	n.a.	n.a.	Distillation	Author	1	
-homPmax	323.150	38.064	0.82000	n.a.	Phase equilibrium	DDBST	2	
-homPmax	333.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	2	
-none	zeotropic	
-homPmax	homogeneous pressure maximum	
-1	Lecat M.: Influence du noyau aromatique sur l´azeotropic binaire. C.R.Hebd.Seanc.Acad.Sci.Paris 223 (1946) 286-288	
-2	Linek J.; Prochazka K.; Wichterle I.: Liquid-Vapor Equilibrium LIV The Systems Ethyl Acetate-Benzene, Ethyl Acetate-Toluene and Ethyl Acetate-Ethylbenzene. Collect.Czech.Chem.Commun. 37 (1972) 3010-3014	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2	88.106	141-78-6	Ethyl acetate
+2	C6H6	78.114	71-43-2	Benzene
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.325	n.a.	n.a.	Distillation	Author	1
+homPmax	323.150	38.064	0.82000	n.a.	Phase equilibrium	DDBST	2
+homPmax	333.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	2
+none	zeotropic
+homPmax	homogeneous pressure maximum
+1	Lecat M.: Influence du noyau aromatique sur l´azeotropic binaire. C.R.Hebd.Seanc.Acad.Sci.Paris 223 (1946) 286-288
+2	Linek J.; Prochazka K.; Wichterle I.: Liquid-Vapor Equilibrium LIV The Systems Ethyl Acetate-Benzene, Ethyl Acetate-Toluene and Ethyl Acetate-Ethylbenzene. Collect.Czech.Chem.Commun. 37 (1972) 3010-3014

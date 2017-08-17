@@ -1,23 +1,23 @@
-$$$Solid-Liquid Equilibrium Data Set 12030	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-Pressure	1.013	bar	
-T [K]	xL1 [mol/mol]	
-261.15	0.00000	
-249.55	0.19581	
-227.15	0.39838	
-205.15	0.50004	
-205.15	0.50533	
-216.35	0.59250	
-248.65	1.00000	
-Source	
-Kalinichenko V.P.; Afanasenko L.D.; Korotkova E.V.: Dampf-Flüssig- und Fest-Flüssig-Gleichgewicht in System N-Methylpyrrolidon-Ethylenglyhol. Ukr.Khim.Zh.(Russ.Ed.) 68 (2002) 18-21	
-$$$Solid-Liquid Equilibrium Data Set 31131	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-2	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-205.15	0.50533	0.50533	
-Source	
-Kalinichenko V.P.; Afanasenko L.D.; Korotkova E.V.: Dampf-Flüssig- und Fest-Flüssig-Gleichgewicht in System N-Methylpyrrolidon-Ethylenglyhol. Ukr.Khim.Zh.(Russ.Ed.) 68 (2002) 18-21	
+$$$Solid-Liquid Equilibrium Data Set 12030
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+Pressure	1.013	bar
+T [K]	xL1 [mol/mol]
+261.15	0.00000
+249.55	0.19581
+227.15	0.39838
+205.15	0.50004
+205.15	0.50533
+216.35	0.59250
+248.65	1.00000
+Source
+Kalinichenko V.P.; Afanasenko L.D.; Korotkova E.V.: Dampf-Flüssig- und Fest-Flüssig-Gleichgewicht in System N-Methylpyrrolidon-Ethylenglyhol. Ukr.Khim.Zh.(Russ.Ed.) 68 (2002) 18-21
+$$$Solid-Liquid Equilibrium Data Set 31131
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+2	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+205.15	0.505330.50533
+Source
+Kalinichenko V.P.; Afanasenko L.D.; Korotkova E.V.: Dampf-Flüssig- und Fest-Flüssig-Gleichgewicht in System N-Methylpyrrolidon-Ethylenglyhol. Ukr.Khim.Zh.(Russ.Ed.) 68 (2002) 18-21

@@ -1,70 +1,70 @@
-$$$Enthalpy of Mixing Data Set 2225	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--187.400	0.11960	
--300.700	0.21320	
--369.100	0.28910	
--436.000	0.35170	
--460.800	0.40420	
--483.700	0.44860	
--496.300	0.48700	
--506.400	0.55350	
--498.700	0.59130	
--481.500	0.63440	
--463.800	0.68460	
--414.500	0.74300	
--317.900	0.81280	
--202.300	0.89700	
-Source	
-Gustin J.-L.; Renon H.: Heats of Mixing of Binary Mixtures of N-Methylpyrrolidone, Ethanolamine, n-Heptane, Cyclohexane, and Benzene by Differential Flow Calorimeter. J.Chem.Eng.Data 18 (1973) 164-166	
-$$$Enthalpy of Mixing Data Set 2226	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	313.150	K	
-hE [J/mol]	x1 [mol/mol]	
--186.800	0.11960	
--293.300	0.21320	
--368.000	0.28910	
--424.800	0.35170	
--464.100	0.40420	
--476.800	0.44860	
--493.800	0.48700	
--499.200	0.52040	
--491.300	0.55350	
--484.800	0.59130	
--472.000	0.63440	
--438.900	0.68460	
--392.600	0.74300	
--206.800	0.89700	
-Source	
-Gustin J.-L.; Renon H.: Heats of Mixing of Binary Mixtures of N-Methylpyrrolidone, Ethanolamine, n-Heptane, Cyclohexane, and Benzene by Differential Flow Calorimeter. J.Chem.Eng.Data 18 (1973) 164-166	
-$$$Enthalpy of Mixing Data Set 7680	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	363.150	K	
-Pressure	7.000	bar	
-hE [J/mol]	x1 [mol/mol]	
--86.269	0.05400	
--163.477	0.10760	
--231.144	0.16070	
--295.808	0.21340	
--293.419	0.21340	
--390.518	0.31740	
--452.182	0.41970	
--469.333	0.52040	
--442.836	0.61940	
--374.020	0.71690	
--267.651	0.81270	
--198.964	0.86010	
--130.232	0.90710	
--94.792	0.93050	
-Source	
-Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213	
-Source	
-Gustin J.-L.; Renon H.: Heats of Mixing of Binary Mixtures of N-Methylpyrrolidone, Ethanolamine, n-Heptane, Cyclohexane, and Benzene by Differential Flow Calorimeter. J.Chem.Eng.Data 18 (1973) 164-166	
-Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213	
+$$$Enthalpy of Mixing Data Set 2225
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-187.400	0.11960
+-300.700	0.21320
+-369.100	0.28910
+-436.000	0.35170
+-460.800	0.40420
+-483.700	0.44860
+-496.300	0.48700
+-506.400	0.55350
+-498.700	0.59130
+-481.500	0.63440
+-463.800	0.68460
+-414.500	0.74300
+-317.900	0.81280
+-202.300	0.89700
+Source
+Gustin J.-L.; Renon H.: Heats of Mixing of Binary Mixtures of N-Methylpyrrolidone, Ethanolamine, n-Heptane, Cyclohexane, and Benzene by Differential Flow Calorimeter. J.Chem.Eng.Data 18 (1973) 164-166
+$$$Enthalpy of Mixing Data Set 2226
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	313.150	K
+hE [J/mol]	x1 [mol/mol]
+-186.800	0.11960
+-293.300	0.21320
+-368.000	0.28910
+-424.800	0.35170
+-464.100	0.40420
+-476.800	0.44860
+-493.800	0.48700
+-499.200	0.52040
+-491.300	0.55350
+-484.800	0.59130
+-472.000	0.63440
+-438.900	0.68460
+-392.600	0.74300
+-206.800	0.89700
+Source
+Gustin J.-L.; Renon H.: Heats of Mixing of Binary Mixtures of N-Methylpyrrolidone, Ethanolamine, n-Heptane, Cyclohexane, and Benzene by Differential Flow Calorimeter. J.Chem.Eng.Data 18 (1973) 164-166
+$$$Enthalpy of Mixing Data Set 7680
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	363.150	K
+Pressure	7.000	bar
+hE [J/mol]	x1 [mol/mol]
+-86.269	0.05400
+-163.477	0.10760
+-231.144	0.16070
+-295.808	0.21340
+-293.419	0.21340
+-390.518	0.31740
+-452.182	0.41970
+-469.333	0.52040
+-442.836	0.61940
+-374.020	0.71690
+-267.651	0.81270
+-198.964	0.86010
+-130.232	0.90710
+-94.792	0.93050
+Source
+Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213
+Source
+Gustin J.-L.; Renon H.: Heats of Mixing of Binary Mixtures of N-Methylpyrrolidone, Ethanolamine, n-Heptane, Cyclohexane, and Benzene by Differential Flow Calorimeter. J.Chem.Eng.Data 18 (1973) 164-166
+Gmehling J.; Meents B.: Excess Enthalpies of 1-Methyl-2-pyrrolidinone + Cyclohexane, + Benzene, + Toluene, or + 1,4-Dimethylbenzene. Int.Data Series Sel.Data Mixtures Ser. A 1992 (1992) 210-213

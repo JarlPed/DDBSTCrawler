@@ -1,71 +1,71 @@
-$$$Density Data Set 24546	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	CH4O	32.042	67-56-1	Methanol	
-3	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.8910	0.59750	0.20200	
-0.8701	0.49240	0.30590	
-0.8515	0.38980	0.41030	
-0.8329	0.28720	0.50880	
-0.8182	0.19990	0.59780	
-0.8665	0.49670	0.20450	
-0.8328	0.30060	0.40050	
-0.8174	0.20710	0.49510	
-0.8469	0.40300	0.19450	
-0.8292	0.29050	0.30450	
-0.8143	0.19340	0.40830	
-0.8286	0.30090	0.20450	
-0.8127	0.19510	0.30870	
-0.8128	0.20070	0.20190	
-Source	
-Mori H.; Iwata S.; Kawachi T.; Matsubara T.; Nobuoka Y.; Aragaki T.: Practical Correlation of Excess Molar Volumes of Binary, Ternary and Quaternary Mixtures of Water, Methanol, Ethanol and 1-Propanol by an NRTL-Type Equation. J.Chem.Eng.Japan 37 (2004) 850-857	
-$$$Density Data Set 24547	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	CH4O	32.042	67-56-1	Methanol	
-3	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	308.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.8825	0.59750	0.20200	
-0.8617	0.49240	0.30590	
-0.8427	0.38980	0.41030	
-0.8241	0.28720	0.50880	
-0.8092	0.19990	0.59780	
-0.8581	0.49670	0.20450	
-0.8241	0.30060	0.40050	
-0.8086	0.20710	0.49510	
-0.8381	0.40300	0.19450	
-0.8203	0.29050	0.30450	
-0.8054	0.19340	0.40830	
-0.8197	0.30090	0.20450	
-0.8039	0.19510	0.30870	
-0.8039	0.20070	0.20190	
-Source	
-Mori H.; Iwata S.; Kawachi T.; Matsubara T.; Nobuoka Y.; Aragaki T.: Practical Correlation of Excess Molar Volumes of Binary, Ternary and Quaternary Mixtures of Water, Methanol, Ethanol and 1-Propanol by an NRTL-Type Equation. J.Chem.Eng.Japan 37 (2004) 850-857	
-$$$Density Data Set 24548	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	CH4O	32.042	67-56-1	Methanol	
-3	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	318.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.8739	0.59750	0.20200	
-0.8529	0.49240	0.30590	
-0.8338	0.38980	0.41030	
-0.8151	0.28720	0.50880	
-0.8001	0.19990	0.59780	
-0.8493	0.49670	0.20450	
-0.8151	0.30060	0.40050	
-0.7995	0.20710	0.49510	
-0.8290	0.40300	0.19450	
-0.8112	0.29050	0.30450	
-0.7964	0.19340	0.40830	
-0.8106	0.30090	0.20450	
-0.7948	0.19510	0.30870	
-0.7948	0.20070	0.20190	
-Source	
-Mori H.; Iwata S.; Kawachi T.; Matsubara T.; Nobuoka Y.; Aragaki T.: Practical Correlation of Excess Molar Volumes of Binary, Ternary and Quaternary Mixtures of Water, Methanol, Ethanol and 1-Propanol by an NRTL-Type Equation. J.Chem.Eng.Japan 37 (2004) 850-857	
-Source	
-Mori H.; Iwata S.; Kawachi T.; Matsubara T.; Nobuoka Y.; Aragaki T.: Practical Correlation of Excess Molar Volumes of Binary, Ternary and Quaternary Mixtures of Water, Methanol, Ethanol and 1-Propanol by an NRTL-Type Equation. J.Chem.Eng.Japan 37 (2004) 850-857	
+$$$Density Data Set 24546
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	CH4O	32.042	67-56-1	Methanol
+3	C2H6O	46.069	64-17-5	Ethanol
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.8910	0.59750	0.20200
+0.8701	0.49240	0.30590
+0.8515	0.38980	0.41030
+0.8329	0.28720	0.50880
+0.8182	0.19990	0.59780
+0.8665	0.49670	0.20450
+0.8328	0.30060	0.40050
+0.8174	0.20710	0.49510
+0.8469	0.40300	0.19450
+0.8292	0.29050	0.30450
+0.8143	0.19340	0.40830
+0.8286	0.30090	0.20450
+0.8127	0.19510	0.30870
+0.8128	0.20070	0.20190
+Source
+Mori H.; Iwata S.; Kawachi T.; Matsubara T.; Nobuoka Y.; Aragaki T.: Practical Correlation of Excess Molar Volumes of Binary, Ternary and Quaternary Mixtures of Water, Methanol, Ethanol and 1-Propanol by an NRTL-Type Equation. J.Chem.Eng.Japan 37 (2004) 850-857
+$$$Density Data Set 24547
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	CH4O	32.042	67-56-1	Methanol
+3	C2H6O	46.069	64-17-5	Ethanol
+Temperature	308.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.8825	0.59750	0.20200
+0.8617	0.49240	0.30590
+0.8427	0.38980	0.41030
+0.8241	0.28720	0.50880
+0.8092	0.19990	0.59780
+0.8581	0.49670	0.20450
+0.8241	0.30060	0.40050
+0.8086	0.20710	0.49510
+0.8381	0.40300	0.19450
+0.8203	0.29050	0.30450
+0.8054	0.19340	0.40830
+0.8197	0.30090	0.20450
+0.8039	0.19510	0.30870
+0.8039	0.20070	0.20190
+Source
+Mori H.; Iwata S.; Kawachi T.; Matsubara T.; Nobuoka Y.; Aragaki T.: Practical Correlation of Excess Molar Volumes of Binary, Ternary and Quaternary Mixtures of Water, Methanol, Ethanol and 1-Propanol by an NRTL-Type Equation. J.Chem.Eng.Japan 37 (2004) 850-857
+$$$Density Data Set 24548
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	CH4O	32.042	67-56-1	Methanol
+3	C2H6O	46.069	64-17-5	Ethanol
+Temperature	318.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.8739	0.59750	0.20200
+0.8529	0.49240	0.30590
+0.8338	0.38980	0.41030
+0.8151	0.28720	0.50880
+0.8001	0.19990	0.59780
+0.8493	0.49670	0.20450
+0.8151	0.30060	0.40050
+0.7995	0.20710	0.49510
+0.8290	0.40300	0.19450
+0.8112	0.29050	0.30450
+0.7964	0.19340	0.40830
+0.8106	0.30090	0.20450
+0.7948	0.19510	0.30870
+0.7948	0.20070	0.20190
+Source
+Mori H.; Iwata S.; Kawachi T.; Matsubara T.; Nobuoka Y.; Aragaki T.: Practical Correlation of Excess Molar Volumes of Binary, Ternary and Quaternary Mixtures of Water, Methanol, Ethanol and 1-Propanol by an NRTL-Type Equation. J.Chem.Eng.Japan 37 (2004) 850-857
+Source
+Mori H.; Iwata S.; Kawachi T.; Matsubara T.; Nobuoka Y.; Aragaki T.: Practical Correlation of Excess Molar Volumes of Binary, Ternary and Quaternary Mixtures of Water, Methanol, Ethanol and 1-Propanol by an NRTL-Type Equation. J.Chem.Eng.Japan 37 (2004) 850-857

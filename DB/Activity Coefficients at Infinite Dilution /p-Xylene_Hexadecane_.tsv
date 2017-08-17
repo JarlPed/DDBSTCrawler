@@ -1,13 +1,13 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	0.9890	GLCR	3	
-323.15	1.0620	GLCN	2	
-453.15	0.8300	GLCR	1	
-Short Term	Explanation	
-GLCN	GLC (not specified)	
-GLCR	GLC (with gas phase correction)	
-1	Turek E.A.; Arnold D.W.; Greenkorn R.A.; Chao K.C.: A Gas-Liquid Partition Chromatograph for the Accurate Determination of Infinite Dilution Activity Coefficients. Ind.Eng.Chem. Fundam. 18 (1979) 426-428	
-2	Vyakhirev D.A.; Reshetnikova L.E.: Gas-Flüssigchromatographische Bestimmung thermodynamischer Charakteristiken von unendlich verdünnten Alkylbenzol- und Alkylcyclohexan-Lösungen. Nepodviznye fazy v gazovoi chromatografii  (1970) 46-55	
-3	Dallas A.J.: Vol. I - IV. Thesis  (1995)	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	0.9890	GLCR	3
+323.15	1.0620	GLCN	2
+453.15	0.8300	GLCR	1
+Short Term	Explanation
+GLCN	GLC (not specified)
+GLCR	GLC (with gas phase correction)
+1	Turek E.A.; Arnold D.W.; Greenkorn R.A.; Chao K.C.: A Gas-Liquid Partition Chromatograph for the Accurate Determination of Infinite Dilution Activity Coefficients. Ind.Eng.Chem. Fundam. 18 (1979) 426-428
+2	Vyakhirev D.A.; Reshetnikova L.E.: Gas-Flüssigchromatographische Bestimmung thermodynamischer Charakteristiken von unendlich verdünnten Alkylbenzol- und Alkylcyclohexan-Lösungen. Nepodviznye fazy v gazovoi chromatografii  (1970) 46-55
+3	Dallas A.J.: Vol. I - IV. Thesis  (1995)

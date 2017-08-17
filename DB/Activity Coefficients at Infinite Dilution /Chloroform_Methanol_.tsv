@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	9.5500	NSGC	2	
-315.95	6.3800	EBUL	1	
-328.35	6.9300	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-NSGC	GLC (non steady state method)	
-1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240	
-2	Landau I.; Belfer A.J.; Locke D.C.: Measurement of Limiting Activity Coefficients Using Non-Steady-State Gas Chromatography. Ind.Eng.Chem.Res. 30 (1991) 1900-1906	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	9.5500	NSGC	2
+315.95	6.3800	EBUL	1
+328.35	6.9300	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+NSGC	GLC (non steady state method)
+1	Thomas E.R.; Newman B.A.; Nicolaides G.L.; Eckert C.A.: Limiting Activity Coefficients from Differential Ebulliometry. J.Chem.Eng.Data 27 (1982) 233-240
+2	Landau I.; Belfer A.J.; Locke D.C.: Measurement of Limiting Activity Coefficients Using Non-Steady-State Gas Chromatography. Ind.Eng.Chem.Res. 30 (1991) 1900-1906

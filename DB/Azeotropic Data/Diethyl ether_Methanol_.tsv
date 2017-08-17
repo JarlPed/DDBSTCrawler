@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	CH4O	32.042	67-56-1	Methanol	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmax	298.150	71.527	0.97600	n.a.	Phase equilibrium	DDBST	2	
-homPmax	298.160	71.594	0.97600	n.a.	Phase equilibrium	DDBST	3	
-homPmax	303.150	86.326	0.97600	n.a.	Phase equilibrium	DDBST	1	
-homPmax	homogeneous pressure maximum	
-1	Gmehling J.; Onken U.; Schulte H.-W.: Vapor-Liquid Equilibria for the Binary Systems Diethyl Ether-Halothane (1,1,1-Trifluoro-2-Bromo-2-Chloroethane) Halothane-Methanol and Diethyl Ether Methanol. J.Chem.Eng.Data 25 (1980) 29-32	
-2	Arm H.; Bankay D.: Dampfdrücke, Dichten, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Methanol-Diäthyläther bei 25°. Helv.Chim.Acta 51 (1968) 1243-1245	
-3	Srivastava R.; Natarajan G.; Smith B.D.: Total Pressure Vapor-Liquid Equilibrium Data for Binary Systems of Diethyl Ether with Acetone, Acetonitrile, and Methanol. J.Chem.Eng.Data 31 (1986) 89-93	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	CH4O	32.042	67-56-1	Methanol
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+homPmax	298.150	71.527	0.97600	n.a.	Phase equilibrium	DDBST	2
+homPmax	298.160	71.594	0.97600	n.a.	Phase equilibrium	DDBST	3
+homPmax	303.150	86.326	0.97600	n.a.	Phase equilibrium	DDBST	1
+homPmax	homogeneous pressure maximum
+1	Gmehling J.; Onken U.; Schulte H.-W.: Vapor-Liquid Equilibria for the Binary Systems Diethyl Ether-Halothane (1,1,1-Trifluoro-2-Bromo-2-Chloroethane) Halothane-Methanol and Diethyl Ether Methanol. J.Chem.Eng.Data 25 (1980) 29-32
+2	Arm H.; Bankay D.: Dampfdrücke, Dichten, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Methanol-Diäthyläther bei 25°. Helv.Chim.Acta 51 (1968) 1243-1245
+3	Srivastava R.; Natarajan G.; Smith B.D.: Total Pressure Vapor-Liquid Equilibrium Data for Binary Systems of Diethyl Ether with Acetone, Acetonitrile, and Methanol. J.Chem.Eng.Data 31 (1986) 89-93

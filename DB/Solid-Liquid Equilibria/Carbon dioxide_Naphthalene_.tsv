@@ -1,44 +1,44 @@
-$$$Solid-Liquid Equilibrium Data Set 1141	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	
-351.26	0.04000	
-350.22	0.06480	
-348.67	0.09790	
-347.36	0.12970	
-346.00	0.15940	
-344.74	0.18790	
-343.45	0.22180	
-342.33	0.24580	
-341.00	0.28720	
-339.97	0.30940	
-Source	
-Hong S.-P.; Luks K.D.: Multiphase Equilibria of the Mixture Carbon Dioxide + Toluene + Naphthalene. Fluid Phase Equilib. 74 (1992) 133-144	
-$$$Solid-Liquid Equilibrium Data Set 2027	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	
-252.15	0.99820	
-273.15	0.99628	
-283.15	0.99489	
-293.15	0.99338	
-298.15	0.99302	
-Source	
-Quinn E.L.: The Internal Pressure of Liquid Carbon Dioxide from Solubility Measurements. J.Am.Chem.Soc. 50 (1928) 672-681	
-$$$Solid-Liquid Equilibrium Data Set 2413	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CO2	44.010	124-38-9	Carbon dioxide	
-2	C10H8	128.174	91-20-3	Naphthalene	
-T [K]	xL1 [mol/mol]	
-304.90	0.99872	
-306.45	0.99844	
-306.65	0.99788	
-307.25	0.99712	
-307.36	0.99496	
-307.09	0.99436	
-306.39	0.99389	
-305.72	0.99364	
-Source	
-Tsekhanskaya Y.V.; Roginskaya N.G.: Three-phase Solid-Liquid-Gas Equilibrium in the Naphthalene-Carbon Dioxide System. Russ.J.Phys.Chem. 45 (1971) 560-560	
+$$$Solid-Liquid Equilibrium Data Set 1141
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]
+351.26	0.04000
+350.22	0.06480
+348.67	0.09790
+347.36	0.12970
+346.00	0.15940
+344.74	0.18790
+343.45	0.22180
+342.33	0.24580
+341.00	0.28720
+339.97	0.30940
+Source
+Hong S.-P.; Luks K.D.: Multiphase Equilibria of the Mixture Carbon Dioxide + Toluene + Naphthalene. Fluid Phase Equilib. 74 (1992) 133-144
+$$$Solid-Liquid Equilibrium Data Set 2027
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]
+252.15	0.99820
+273.15	0.99628
+283.15	0.99489
+293.15	0.99338
+298.15	0.99302
+Source
+Quinn E.L.: The Internal Pressure of Liquid Carbon Dioxide from Solubility Measurements. J.Am.Chem.Soc. 50 (1928) 672-681
+$$$Solid-Liquid Equilibrium Data Set 2413
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CO2	44.010	124-38-9	Carbon dioxide
+2	C10H8	128.174	91-20-3	Naphthalene
+T [K]	xL1 [mol/mol]
+304.90	0.99872
+306.45	0.99844
+306.65	0.99788
+307.25	0.99712
+307.36	0.99496
+307.09	0.99436
+306.39	0.99389
+305.72	0.99364
+Source
+Tsekhanskaya Y.V.; Roginskaya N.G.: Three-phase Solid-Liquid-Gas Equilibrium in the Naphthalene-Carbon Dioxide System. Russ.J.Phys.Chem. 45 (1971) 560-560

@@ -1,8 +1,8 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H3N	41.053	75-05-8	Acetonitrile	
-2	C6H12	84.161	592-41-6	1-Hexene	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-298.15	12.700	NSGC	1	
-Short Term	Explanation	
-NSGC	GLC (non steady state method)	
-1	Belfer A.J.; Locke D.C.: Non-Steady-State Gas Chromatography for Activity Coefficient Measurements. Anal.Chem. 56 (1984) 2485-2489	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H3N	41.053	75-05-8	Acetonitrile
+2	C6H12	84.161	592-41-6	1-Hexene
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+298.15	12.700	NSGC	1
+Short Term	Explanation
+NSGC	GLC (non steady state method)
+1	Belfer A.J.; Locke D.C.: Non-Steady-State Gas Chromatography for Activity Coefficient Measurements. Anal.Chem. 56 (1984) 2485-2489

@@ -1,982 +1,982 @@
-Formula	Molar Mass	CAS Registry Number	Name	
-C4H10O	74.123	60-29-7	Diethyl ether	
-$$$Critical Data	
-T [K]	P [kPa]	State	Reference	
-463.37		Critical Point	1	
-466.73		Critical Point	5	
-466.74	3637.600	Critical Point	3	
-466.75		Critical Point	6	
-467.40		Critical Point	2	
-467.55		Critical Point	4	
-Number	Source	
-1	Audant M.: Contribution to the Study on the Critical State of Ethyl Ether. C.R.Hebd.Seanc.Acad.Sci.Paris 170 (1920) 1573-1575	
-2	Rätzsch M.: Kritische Temperaturen binärer Systeme. Z.Phys.Chem.(Leipzig) 243 (1970) 212-220	
-3	Ambrose D.; Sprake C.H.S.; Townsend R.: XXIX. The Vapour Pressure of Diethyl Ether. J.Chem.Thermodyn. 4 (1972) 247-254	
-4	Centnerszwer M.: Determination of the critical volumes using the method of Cailletet and Mathias. (Ger). Z.Phys.Chem.(Leipzig) 46 (1903) 199-207	
-5	Young F.B.: Critical phenomena at ether. (Ger). Chem.Zentralbl. 2 (1910) 1854-1854	
-6	Travers M.W.; Usher F.L.: Behaviour of some substances at critical temperature. (Ger). Chem.Zentralbl. 2 (1907) 4-5	
-$$$Density	
-T [K]	P [kPa]	Density [kg/m3]	State	Reference	
-296.71	101.000	713.200	Liquid	1	
-296.71	4910.000	716.900	Liquid	1	
-296.71	9810.000	723.600	Liquid	1	
-296.71	19620.000	731.000	Liquid	1	
-296.71	29430.000	739.100	Liquid	1	
-296.71	39240.000	743.400	Liquid	1	
-296.71	49050.000	747.900	Liquid	1	
-296.71	58860.000	753.500	Liquid	1	
-296.71	68810.000	763.200	Liquid	1	
-296.71	78480.000	766.000	Liquid	1	
-296.71	88290.000	771.000	Liquid	1	
-296.71	98100.000	777.000	Liquid	1	
-319.61	101.000	688.100	Liquid	1	
-319.61	4910.000	696.300	Liquid	1	
-319.61	9810.000	703.400	Liquid	1	
-319.61	19620.000	711.200	Liquid	1	
-319.61	29430.000	719.400	Liquid	1	
-319.61	39240.000	725.000	Liquid	1	
-319.61	49050.000	728.600	Liquid	1	
-319.61	58860.000	734.000	Liquid	1	
-319.61	68810.000	742.000	Liquid	1	
-319.61	78480.000	746.100	Liquid	1	
-319.61	88290.000	749.400	Liquid	1	
-319.61	98100.000	761.500	Liquid	1	
-341.22	4910.000	676.600	Liquid	1	
-341.22	9810.000	683.500	Liquid	1	
-341.22	19620.000	691.000	Liquid	1	
-341.22	29430.000	698.300	Liquid	1	
-341.22	39240.000	705.400	Liquid	1	
-341.22	49050.000	710.000	Liquid	1	
-341.22	58860.000	716.300	Liquid	1	
-341.22	68810.000	723.900	Liquid	1	
-341.22	78480.000	728.000	Liquid	1	
-341.22	88290.000	731.500	Liquid	1	
-341.22	98100.000	741.200	Liquid	1	
-368.35	4910.000	653.400	Liquid	1	
-368.35	9810.000	660.100	Liquid	1	
-368.35	19620.000	670.400	Liquid	1	
-368.35	29430.000	675.900	Liquid	1	
-368.35	39240.000	683.700	Liquid	1	
-368.35	49050.000	688.600	Liquid	1	
-368.35	58860.000	694.100	Liquid	1	
-368.35	68810.000	701.000	Liquid	1	
-368.35	78480.000	705.400	Liquid	1	
-368.35	88290.000	710.000	Liquid	1	
-368.35	98100.000	719.200	Liquid	1	
-389.75	4910.000	631.700	Liquid	1	
-389.75	9810.000	640.300	Liquid	1	
-389.75	19620.000	650.800	Liquid	1	
-389.75	29430.000	657.500	Liquid	1	
-389.75	39240.000	666.300	Liquid	1	
-389.75	49050.000	671.500	Liquid	1	
-389.75	58860.000	676.800	Liquid	1	
-389.75	68810.000	683.300	Liquid	1	
-389.75	78480.000	688.300	Liquid	1	
-389.75	88290.000	693.500	Liquid	1	
-389.75	98100.000	702.400	Liquid	1	
-416.18	4910.000	608.500	Liquid	1	
-416.18	9810.000	615.700	Liquid	1	
-416.18	19620.000	627.500	Liquid	1	
-416.18	29430.000	635.500	Liquid	1	
-416.18	39240.000	643.500	Liquid	1	
-416.18	49050.000	648.900	Liquid	1	
-416.18	58860.000	654.000	Liquid	1	
-416.18	68810.000	659.300	Liquid	1	
-416.18	78480.000	665.300	Liquid	1	
-416.18	88290.000	673.200	Liquid	1	
-416.18	98100.000	682.000	Liquid	1	
-Number	Source	
-1	Safarov M.M.; Madzhidov Kh.; Asoev R.Sh.: Zusammenfassende Zustandsgleichung von flüssigen Ätheren. Zh.Fiz.Khim. 66 (1992) 2595-2603	
-$$$Dielectric Constant	
-T [K]	P [kPa]	Dielectric Constant [-]	State	Reference	
-171.00		9.87000	Liquid	2	
-190.00		8.30000	Liquid	2	
-220.00		6.59000	Liquid	2	
-257.00		5.28000	Liquid	2	
-278.15		4.65000	Liquid	4	
-283.15		4.53000	Liquid	4	
-288.15		4.43000	Liquid	4	
-293.15		4.20000	Liquid	3	
-293.15		4.24000	Liquid	5	
-293.15		4.33500	Liquid	4	
-293.15	98.066	4.32800	Liquid	6	
-293.15	49033.199	4.79000	Liquid	6	
-293.15	98066.500	5.14200	Liquid	6	
-293.15	147100.000	5.42800	Liquid	6	
-293.15	196133.000	5.66800	Liquid	6	
-293.15	245166.000	5.88000	Liquid	6	
-293.15	294200.000	6.07100	Liquid	6	
-296.00		4.30000	Liquid	2	
-298.15		4.25000	Liquid	4	
-303.15	98.066	4.17000	Liquid	1	
-303.15	98.066	4.18000	Liquid	1	
-303.15	93163.203	4.84000	Liquid	1	
-303.15	165732.000	5.19000	Liquid	1	
-303.15	224082.000	5.39000	Liquid	1	
-303.15	282432.000	5.59000	Liquid	1	
-303.15	330974.000	5.79000	Liquid	1	
-303.15	371672.000	5.88000	Liquid	1	
-303.15	401092.000	5.94000	Liquid	1	
-303.15	468758.000	6.14000	Liquid	1	
-Number	Source	
-1	Skinner J.F.; Cussler E.L.; Fuoss R.M.: Pressure Dependence of Dielectric Constant and Density of Liquids.. J.Phys.Chem. 72 (1968) 1057-1064	
-2	Gee N.; Shinsaka K.; Dodelet J.-P.; Freeman G.R.: Dielectric Constant Against Temperature for 43 Liquids. J.Chem.Thermodyn. 18 (1986) 221-234	
-3	Wollmann H.; Skaletzki B.; Schaaf A.: 14. Mitteilung: Beiträge zur Problematik des Einsatzes von Kunststoffbehältern für flüssige Arzneizubereitungen. Pharmazie 29 (1974) 708-711	
-4	Ulich H.; Nespital W.: Beschreibung einer kristallgesteuerten Resonanzapparatur. Z.Phys.Chem.Abt.B 16 (1932) 221-233	
-5	Moll W.L.H.: Dielectrical Study of the Effect of Organic Solvent on High-Molecular Substances. Kolloid Beih. 49 (1939) 1-74	
-6	Kyropoulos S.: Die Druckabhängigkeit der Dielektrizitätskonstante einiger Flüssigkeiten bis zu 3000kg/cm2. Z.Phys. (Berlin) 40 (1926) 507-520	
-$$$Dipole Moment	
-T [K]	Dipole Moment [Debye]	State	Reference	
-	1.4500	Liquid	1	
-Number	Source	
-1	Kramer K.D.; Mueller-Warmuth W.; Roth N.: Molecular motion in liquids and solutions. I. Nuclear-electron double resonance. Viscosity and dielectric relaxation in ether and diethoxyethane. (Ger). Z.Naturforsch.A 20 (1965) 1391-1400	
-$$$Dynamic Viscosity	
-T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference	
-273.15		0.2880	Liquid	3	
-275.55		0.2871	Liquid	5	
-280.55		0.2687	Liquid	5	
-280.75		0.2655	Liquid	5	
-281.55		0.2583	Liquid	5	
-288.95		0.2502	Liquid	5	
-289.95		0.2401	Liquid	5	
-289.95		0.2435	Liquid	5	
-291.55		0.2392	Liquid	5	
-291.85		0.2386	Liquid	5	
-292.75		0.2371	Liquid	5	
-293.15		0.2300	Liquid	1	
-293.15		0.2500	Liquid	2	
-298.15		0.2240	Liquid	3	
-298.15		0.2400	Liquid	2	
-302.35		0.2180	Liquid	5	
-303.15		0.2100	Liquid	1	
-303.15	98.066	0.2110	Liquid	4	
-303.15	98066.500	0.4470	Liquid	4	
-303.15	196133.000	0.6900	Liquid	4	
-303.15	294200.000	0.9700	Liquid	4	
-303.15	392266.000	1.3100	Liquid	4	
-303.15	490332.000	1.7900	Liquid	4	
-303.75		0.2132	Liquid	5	
-304.45		0.2132	Liquid	5	
-311.15		0.1960	Superheated Liquid	1	
-313.15		0.1920	Superheated Liquid	1	
-316.15		0.1870	Superheated Liquid	1	
-320.25		0.1839	Liquid	5	
-320.25		0.1857	Liquid	5	
-320.35		0.1870	Liquid	5	
-323.15		0.1760	Superheated Liquid	1	
-326.15		0.1720	Superheated Liquid	1	
-333.15		0.1630	Superheated Liquid	1	
-336.15		0.1590	Superheated Liquid	1	
-336.65		0.1626	Liquid	5	
-336.95		0.1610	Liquid	5	
-338.15		0.1540	Superheated Liquid	1	
-343.15		0.1500	Superheated Liquid	1	
-346.15		0.1450	Superheated Liquid	1	
-348.15		0.1430	Superheated Liquid	1	
-350.15		0.1410	Superheated Liquid	1	
-351.65		0.1413	Liquid	5	
-351.65		0.1428	Liquid	5	
-351.85		0.1413	Liquid	5	
-353.15		0.1340	Superheated Liquid	1	
-356.15		0.1320	Superheated Liquid	1	
-358.45		0.1310	Superheated Liquid	1	
-363.15		0.1250	Superheated Liquid	1	
-367.65		0.1200	Superheated Liquid	1	
-368.15		0.1190	Superheated Liquid	1	
-372.35		0.1181	Liquid	5	
-373.55		0.1177	Liquid	5	
-Number	Source	
-1	Bulanov N.V.; Skripov V.P.: Viskosität von Flüssigkeiten im metastabil (überhitzten) Zustand. Teplofiz.Vys.Temp. 12 (1974) 1184-1187	
-2	Lutskii A.E.; Obukhova E.M.: I. Viskosität von flüssigen binären Mischungen. Zh.Fiz.Khim. 31 (1957) 1693-1703	
-3	Sakhanov A.N.; Ryakhovskii N.A.: Viskosität von flüssigen Mischungen. Zh.Russ.Fiz.Khim.Obshch.Khim. 46 (1914) 78-88	
-4	Skinner J.F.; Fuoss R.M.: Effect of pressure on conductance. I. Tetraisoamylammonium picrate indiethyl ether and in benzene.. J.Phys.Chem. 69 (1965) 1437-1443	
-5	Heydweiller A.: Die innere Reibung einiger Flüssigkeiten oberhalb ihres Siedepunktes. Ann.Physik 295 (1896) 193-212	
-$$$Entropy	
-T [K]	Molar Entropy [J/(mol*K)]	State	Reference	
-298.00	342.20	Vapor	2	
-298.00	342.67	Vapor	1	
-Number	Source	
-1	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
-2	Counsell J.F.; Lee D.A.; Martin J.F.: Thermodynamic properties of organic oxygen compounds. Part XXVI. Diethyl ether.. J.Chem.Soc.A  (1971) 313-316	
-$$$G-function (G-G0)/T	
-T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference	
-100.00	-199.18	Vapor	1	
-150.00	-218.73	Vapor	1	
-200.00	-235.55	Vapor	1	
-273.15	-257.15	Vapor	1	
-298.15	-263.88	Vapor	1	
-300.00	-264.37	Vapor	1	
-400.00	-288.89	Vapor	1	
-500.00	-310.76	Vapor	1	
-600.00	-330.88	Vapor	1	
-700.00	-349.69	Vapor	1	
-800.00	-367.44	Vapor	1	
-900.00	-384.31	Vapor	1	
-1000.00	-400.41	Vapor	1	
-1100.00	-415.81	Vapor	1	
-1200.00	-430.58	Vapor	1	
-1300.00	-444.78	Vapor	1	
-1400.00	-458.46	Vapor	1	
-1500.00	-471.64	Vapor	1	
-Number	Source	
-1	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
-$$$Heat of Fusion	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-149.86	6820.00	Metastable Solid-Liquid-Vapor	1	
-156.92	7190.00	Solid-Liquid-Vapor	1	
-Number	Source	
-1	Counsell J.F.; Lee D.A.; Martin J.F.: Thermodynamic properties of organic oxygen compounds. Part XXVI. Diethyl ether.. J.Chem.Soc.A  (1971) 313-316	
-$$$Heat of Vaporization	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-273.25	28067.00	Vapor-Liquid	3	
-280.69	28147.00	Vapor-Liquid	6	
-284.95	27549.00	Vapor-Liquid	3	
-289.39	27620.00	Vapor-Liquid	6	
-295.63	27247.00	Vapor-Liquid	6	
-298.15	27140.00	Vapor-Liquid	4	
-298.15	27237.80	Vapor-Liquid	1	
-307.14	26714.00	Vapor-Liquid	5	
-307.58	26508.00	Vapor-Liquid	6	
-307.60	26600.00	Vapor-Liquid	2	
-313.15	26170.00	Vapor-Liquid	4	
-Number	Source	
-1	Sherman S.R.; Suleiman D.; Hait M.J.; Schiller M.; Liotta C.L.; Eckert C.A.; Li J.; Carr P.W.; Poe R.B.; Rutan S.C.: Correlation of Partial Molar Heats of Transfer at Infinite Dilution by a Linear Solvation Energy Relationship. J.Phys.Chem. 99 (1995) 11239-11247	
-2	Matyushov D.V.; Schmid R.: Properties of Liquids at the Boiling Point: Equation of State, Internal Pressure and Vaporization Entropy. Int.J.Phys.Chem.Ber.Bunsen-Ges. 98 (1994) 1590-1595	
-3	Keyes F.G.; Beattie J.A.: A calorimeter for measuring specific heats and heats of vaporization of liquids. The specific heat and heat of vaporization of liquid ethyl ether at 0° and 12°.. J.Am.Chem.Soc. 46 (1924) 1753-1760	
-4	Majer V.; Wagner Z.; Svoboda V.; Cadek V.: Enthalpies of vaporization and cohesive energies for a group of aliphatic ethers. J.Chem.Thermodyn. 12 (1980) 387-391	
-5	Mathews J.H.: The Accurate Measurement of the Heats of Vaporization of Liquids. J.Am.Chem.Soc. 48 (1926) 562-576	
-6	Counsell J.F.; Lee D.A.; Martin J.F.: Thermodynamic properties of organic oxygen compounds. Part XXVI. Diethyl ether.. J.Chem.Soc.A  (1971) 313-316	
-$$$Ideal Gas Heat Capacity	
-T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference	
-100.00	62.50	Ideal Gas	2	
-150.00	84.80	Ideal Gas	2	
-200.00	95.97	Ideal Gas	1	
-200.00	99.70	Ideal Gas	2	
-273.15	114.30	Ideal Gas	2	
-280.00	114.00	Ideal Gas	1	
-298.15	119.46	Ideal Gas	2	
-300.00	119.86	Ideal Gas	2	
-317.49	120.21	Ideal Gas	4	
-340.48	127.95	Ideal Gas	4	
-372.00	128.03	Ideal Gas	3	
-372.31	134.47	Ideal Gas	4	
-400.00	135.14	Ideal Gas	3	
-400.00	142.81	Ideal Gas	2	
-450.00	147.70	Ideal Gas	3	
-500.00	159.83	Ideal Gas	3	
-500.00	165.77	Ideal Gas	2	
-600.00	186.35	Ideal Gas	2	
-700.00	204.35	Ideal Gas	2	
-800.00	220.04	Ideal Gas	2	
-900.00	233.74	Ideal Gas	2	
-1000.00	245.68	Ideal Gas	2	
-1100.00	256.08	Ideal Gas	2	
-1200.00	265.12	Ideal Gas	2	
-1300.00	272.97	Ideal Gas	2	
-1400.00	279.81	Ideal Gas	2	
-1500.00	285.76	Ideal Gas	2	
-Number	Source	
-1	Eucken A.; Franck E.U.: Rotation in ether and alcohol molecules on the basis of determination of molar heat capacity. (Ger). Z.Elektrochem.Angew.Physik.Chem. 52 (1948) 195-204	
-2	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436	
-3	Valentin F.H.H.: Equilibrium and Thermodynamic Relation in the Vapour-phase Catalytic Dehyrdation of Ethyl Alcohol to Ethyl Ether. J.Chem.Soc.London  (1950) 498-500	
-4	Jennings W.H.; Bixler M.E.: Specific heat of furan and ethyl ether vapors.. J.Phys.Chem. 38 (1934) 747-751	
-$$$Kinematic Viscosity	
-T [K]	P [kPa]	Kinematic Viscosity [m2/s]	State	Reference	
-205.65		8.72999976309E-07	Liquid	1	
-213.15		7.86999976299E-07	Liquid	1	
-220.65		7.09999994797E-07	Liquid	1	
-228.15		6.42999964384E-07	Liquid	1	
-235.65		5.83999963055E-07	Liquid	1	
-243.15		5.32000001385E-07	Liquid	1	
-250.65		4.88000011956E-07	Liquid	1	
-258.15		4.48999998071E-07	Liquid	1	
-265.65		4.16999995423E-07	Liquid	1	
-273.15		3.88999978895E-07	Liquid	1	
-280.65		3.6499997691E-07	Liquid	1	
-457.65	2458.530	3.8199999608E-07	Vapor	2	
-457.65	2528.150	3.6699998418E-07	Vapor	2	
-457.65	2641.910	3.47999986161E-07	Vapor	2	
-457.65	2764.490	3.23999984175E-07	Vapor	2	
-457.65	2889.040	3.09999990122E-07	Vapor	2	
-457.65	2964.550	2.91999981528E-07	Vapor	2	
-457.65	3043.980	2.7699999805E-07	Vapor	2	
-457.65	3118.510	2.61999986151E-07	Vapor	2	
-457.65	3133.220	1.6999999275E-07	Vapor	2	
-457.65	3235.210	1.6999999275E-07	Vapor	2	
-457.65	3285.230	1.70999996385E-07	Vapor	2	
-457.65	3344.070	1.70999996385E-07	Vapor	2	
-457.65	3730.450	1.6999999275E-07	Vapor	2	
-457.65	4173.710	1.72999989445E-07	Vapor	2	
-457.65	4261.970	1.7200000002E-07	Vapor	2	
-457.65	4326.690	1.7200000002E-07	Vapor	2	
-457.65	4422.800	1.73999993081E-07	Vapor	2	
-457.65	4704.250	1.76000000351E-07	Vapor	2	
-457.65	5204.390	1.7200000002E-07	Vapor	2	
-457.65	5792.790	1.73999993081E-07	Vapor	2	
-457.65	6260.570	1.73999993081E-07	Vapor	2	
-457.65	6751.880	1.76000000351E-07	Vapor	2	
-457.65	7067.650	1.74999996716E-07	Vapor	2	
-467.75	2627.200	3.76999992113E-07	Vapor	2	
-467.75	2755.670	3.52000000703E-07	Vapor	2	
-467.75	2897.860	3.30999995413E-07	Vapor	2	
-467.75	3038.100	3.10999979547E-07	Vapor	2	
-467.75	3206.770	2.85999988137E-07	Vapor	2	
-467.75	3281.300	2.74000001355E-07	Vapor	2	
-467.75	3382.310	2.61999986151E-07	Vapor	2	
-467.75	3526.470	2.37999998376E-07	Vapor	2	
-467.75	3553.930	2.37999998376E-07	Vapor	2	
-467.75	3595.120	2.21999997052E-07	Vapor	2	
-467.75	3634.340	2.10999999695E-07	Vapor	2	
-467.75	3661.800	1.66999996054E-07	Vapor	2	
-467.75	3701.030	1.63999999359E-07	Vapor	2	
-467.75	3756.930	1.65999992419E-07	Vapor	2	
-467.75	3871.670	1.63999999359E-07	Vapor	2	
-467.75	3926.580	1.64999988783E-07	Vapor	2	
-467.75	4023.670	1.6799999969E-07	Vapor	2	
-467.75	4064.860	1.66999996054E-07	Vapor	2	
-467.75	4275.700	1.65999992419E-07	Vapor	2	
-467.75	4415.930	1.65999992419E-07	Vapor	2	
-467.75	4550.290	1.66999996054E-07	Vapor	2	
-467.75	4911.170	1.66999996054E-07	Vapor	2	
-467.75	5205.370	1.65999992419E-07	Vapor	2	
-467.75	5680.990	1.65999992419E-07	Vapor	2	
-467.75	6176.230	1.64999988783E-07	Vapor	2	
-467.75	6686.170	1.65999992419E-07	Vapor	2	
-467.75	7122.570	1.6799999969E-07	Vapor	2	
-468.75	3601.000	2.31999990774E-07	Vapor	2	
-468.75	3628.460	2.15000000026E-07	Vapor	2	
-468.75	3698.090	1.91999987464E-07	Vapor	2	
-468.75	3747.120	1.68999989114E-07	Vapor	2	
-468.75	3813.810	1.66999996054E-07	Vapor	2	
-468.75	3908.930	1.63999999359E-07	Vapor	2	
-468.75	4112.910	1.63999999359E-07	Vapor	2	
-468.75	4307.080	1.61999992088E-07	Vapor	2	
-468.75	4513.020	1.64999988783E-07	Vapor	2	
-469.75	2656.620	3.8199999608E-07	Vapor	2	
-469.75	2908.650	3.36999988804E-07	Vapor	2	
-469.75	3206.770	2.90999992103E-07	Vapor	2	
-469.75	3479.400	2.56999982184E-07	Vapor	2	
-469.75	3620.610	2.33999998045E-07	Vapor	2	
-469.75	3694.160	2.16999993086E-07	Vapor	2	
-469.75	3765.750	1.84000001013E-07	Vapor	2	
-469.75	3784.390	1.7200000002E-07	Vapor	2	
-469.75	3832.440	1.65999992419E-07	Vapor	2	
-469.75	3893.240	1.63999999359E-07	Vapor	2	
-469.75	3965.810	1.66999996054E-07	Vapor	2	
-469.75	4063.880	1.65999992419E-07	Vapor	2	
-469.75	4118.790	1.6799999969E-07	Vapor	2	
-469.75	4202.150	1.64999988783E-07	Vapor	2	
-469.75	4318.850	1.62999995723E-07	Vapor	2	
-469.75	4435.550	1.65999992419E-07	Vapor	2	
-469.75	4526.750	1.64999988783E-07	Vapor	2	
-469.75	4607.160	1.66999996054E-07	Vapor	2	
-473.15	2953.760	3.35999999379E-07	Vapor	2	
-473.15	3094.000	3.14000004664E-07	Vapor	2	
-473.15	3229.330	2.98999992765E-07	Vapor	2	
-473.15	3378.390	2.79999994746E-07	Vapor	2	
-473.15	3474.500	2.68999997388E-07	Vapor	2	
-473.15	3565.700	2.58999989455E-07	Vapor	2	
-473.15	3662.780	2.44999995402E-07	Vapor	2	
-473.15	3755.950	2.31999990774E-07	Vapor	2	
-473.15	3842.250	2.1399999639E-07	Vapor	2	
-473.15	3916.780	1.93999994735E-07	Vapor	2	
-473.15	3966.790	1.80999990107E-07	Vapor	2	
-473.15	4059.950	1.7200000002E-07	Vapor	2	
-473.15	4138.410	1.68999989114E-07	Vapor	2	
-473.15	4211.960	1.66999996054E-07	Vapor	2	
-473.15	4416.920	1.6799999969E-07	Vapor	2	
-473.15	4515.960	1.66999996054E-07	Vapor	2	
-473.15	4614.030	1.6799999969E-07	Vapor	2	
-473.15	4700.330	1.68999989114E-07	Vapor	2	
-473.15	4804.280	1.6799999969E-07	Vapor	2	
-473.15	5108.280	1.65999992419E-07	Vapor	2	
-473.15	5315.200	1.64999988783E-07	Vapor	2	
-473.15	5402.480	1.64999988783E-07	Vapor	2	
-473.15	6009.510	1.63999999359E-07	Vapor	2	
-473.15	6492.000	1.63999999359E-07	Vapor	2	
-473.15	7389.310	1.65999992419E-07	Vapor	2	
-Number	Source	
-1	Simons J.H.; Dresdner R.D.: The Viscosity of Hydrogen Fluoride. J.Am.Chem.Soc. 66 (1944) 1070-1072	
-2	Schröer E.; Becker G.: V: Beitrag zur Kenntnis der Zähigkeit im kritischen Zustand. Z.Phys.Chem.Abt.A 173 (1935) 178-197	
-$$$Melting Point	
-T [K]	P [kPa]	State	Reference	
-151.15		Solid-Liquid	5	
-155.45		Solid-Liquid	4	
-156.75		Solid-Liquid	2	
-156.90	101.325	Solid-Liquid	1	
-156.95		Solid-Liquid	3	
-Number	Source	
-1	Lebedev B.V.; Kulagina T.G.; Karatayev Ye.N.: Thermodynamics of the complex (C2H5)2Zn.O(C2H5)2 at temperatures from 0 to 330 K.. J.Chem.Thermodyn. 25 (1993) 957-964	
-2	Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408	
-3	Timmermans J.: XII. Application de l'analyse thermique à la détermination de la chaleur de fusion de quelques composés organiques. Bull.Soc.Chim.Belg. 43 (1934) 626-638	
-4	Hirai M.: Melting Curves of the Systems Hydrogen Chloride-Ethyl Ether and Hydrogen Chloride-Acetone. Bull.Chem.Soc.Japan 1 (1926) 123-125	
-5	Joukovsky N.I.: XI. Contribution a l'Etude des Proprietes Thermodynamiques des Solutions Concentrees de Composes Organiques Azotes de la Serie Grasse. Bull.Soc.Chim.Belg. 43 (1934) 397-446	
-$$$Molar Heat Capacity (cP)	
-T [K]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference	
-15.84	6.889	Crystal 1	3	
-16.39	7.477	Crystal 1	3	
-17.56	8.675	Crystal 1	3	
-19.03	10.31	Crystal 1	3	
-20.66	12.02	Crystal 1	3	
-22.52	14.08	Crystal 1	3	
-24.47	16.31	Crystal 1	3	
-26.56	18.57	Crystal 1	3	
-28.87	21.09	Crystal 1	3	
-31.55	23.96	Crystal 1	3	
-34.58	27.21	Crystal 1	3	
-37.76	30.51	Crystal 1	3	
-41.07	33.75	Crystal 1	3	
-44.38	36.83	Crystal 1	3	
-47.48	39.63	Crystal 1	3	
-50.31	42.09	Crystal 1	3	
-52.94	44.41	Crystal 1	3	
-55.39	46.44	Crystal 1	3	
-57.15	47.86	Crystal 1	3	
-57.70	48.26	Crystal 1	3	
-59.04	49.25	Crystal 1	3	
-59.90	50.07	Crystal 1	3	
-61.07	50.78	Crystal 1	3	
-62.02	50.85	Crystal 1	3	
-62.83	52.03	Crystal 1	3	
-64.06	52.75	Crystal 1	3	
-64.33	53.00	Crystal 1	3	
-65.44	53.72	Crystal 1	3	
-65.79	53.92	Crystal 1	3	
-66.01	54.06	Crystal 1	3	
-67.21	54.84	Crystal 1	3	
-67.90	55.21	Crystal 1	3	
-68.71	55.82	Crystal 1	3	
-69.72	56.47	Crystal 1	3	
-69.73	56.88	Crystal 1	3	
-71.52	57.74	Crystal 1	3	
-72.87	58.45	Crystal 1	3	
-73.54	58.91	Crystal 1	3	
-76.10	62.33	Solid	1	
-76.83	61.08	Crystal 1	3	
-77.48	61.49	Crystal 1	3	
-80.61	63.48	Crystal 1	3	
-81.22	63.87	Crystal 1	3	
-82.50	65.75	Solid	1	
-84.22	65.65	Crystal 1	3	
-84.81	65.98	Crystal 1	3	
-87.70	67.46	Crystal 1	3	
-88.27	67.70	Crystal 1	3	
-89.10	68.85	Solid	1	
-91.06	69.51	Crystal 1	3	
-91.62	69.89	Crystal 1	3	
-93.40	70.40	Solid	1	
-94.32	71.12	Crystal 1	3	
-94.87	71.39	Crystal 1	3	
-95.50	72.26	Solid	1	
-96.70	72.26	Solid	1	
-98.03	72.87	Crystal 1	3	
-98.18	72.95	Crystal 1	3	
-98.30	73.19	Solid	1	
-102.60	75.08	Crystal 1	3	
-103.40	75.67	Solid	1	
-103.70	75.67	Solid	1	
-106.88	77.04	Crystal 1	3	
-110.50	78.77	Solid	1	
-110.80	79.08	Solid	1	
-111.05	78.96	Crystal 1	3	
-112.00	79.39	Solid	1	
-114.50	80.32	Solid	1	
-115.12	81.07	Crystal 1	3	
-119.09	82.42	Crystal 1	3	
-122.98	83.96	Crystal 1	3	
-123.30	84.04	Solid	1	
-123.40	84.04	Solid	1	
-126.80	84.00	Crystal 1	3	
-130.70	88.03	Crystal 1	3	
-131.10	87.76	Solid	1	
-135.20	89.00	Solid	1	
-135.68	90.21	Crystal 1	3	
-139.79	97.52	Metastable Crystal	3	
-140.36	96.56	Metastable Crystal	3	
-140.55	92.49	Crystal 1	3	
-142.43	100.40	Metastable Crystal	3	
-142.66	100.70	Metastable Crystal	3	
-144.90	105.80	Metastable Crystal	3	
-145.00	106.10	Metastable Crystal	3	
-145.31	95.03	Crystal 1	3	
-148.26	97.37	Crystal 1	3	
-149.44	98.65	Crystal 1	3	
-150.61	100.40	Crystal 1	3	
-152.63	107.70	Crystal 1	3	
-159.89	147.60	Liquid	3	
-160.10	147.70	Liquid	3	
-162.54	148.20	Liquid	3	
-163.63	148.40	Liquid	3	
-164.40	147.31	Liquid	1	
-167.35	149.20	Liquid	3	
-171.04	150.00	Liquid	3	
-174.71	150.70	Liquid	3	
-178.35	151.40	Liquid	3	
-181.97	152.10	Liquid	3	
-185.57	152.80	Liquid	3	
-186.10	151.96	Liquid	1	
-189.14	153.50	Liquid	3	
-195.60	154.44	Liquid	1	
-200.00	155.65	Liquid	2	
-201.60	155.37	Liquid	1	
-205.48	156.10	Liquid	3	
-205.50	156.61	Liquid	1	
-210.03	156.80	Liquid	3	
-213.50	157.23	Liquid	1	
-214.54	157.50	Liquid	3	
-219.04	158.30	Liquid	3	
-223.50	159.10	Liquid	3	
-225.00	158.99	Liquid	2	
-227.95	160.00	Liquid	3	
-232.37	160.50	Liquid	3	
-236.77	161.20	Liquid	3	
-239.07	161.50	Liquid	3	
-241.14	161.90	Liquid	3	
-241.77	162.00	Liquid	3	
-243.41	162.20	Liquid	3	
-245.50	162.60	Liquid	3	
-246.10	162.60	Liquid	3	
-249.83	163.20	Liquid	3	
-250.00	161.92	Liquid	2	
-250.40	163.40	Liquid	3	
-254.15	164.00	Liquid	3	
-254.68	164.10	Liquid	3	
-258.44	164.80	Liquid	3	
-258.94	164.80	Liquid	3	
-262.72	165.50	Liquid	3	
-263.19	165.60	Liquid	3	
-266.97	166.20	Liquid	3	
-267.41	166.20	Liquid	3	
-271.21	167.00	Liquid	3	
-271.61	167.10	Liquid	3	
-273.00	167.78	Liquid	2	
-275.20	168.70	Liquid	1	
-275.80	167.80	Liquid	3	
-279.97	168.60	Liquid	3	
-280.20	169.64	Liquid	1	
-284.12	169.50	Liquid	3	
-286.00	170.26	Liquid	1	
-288.25	170.30	Liquid	3	
-290.00	170.88	Liquid	1	
-290.00	171.13	Liquid	2	
-291.35	171.00	Liquid	3	
-292.36	172.20	Liquid	3	
-295.38	171.80	Liquid	3	
-296.46	172.00	Liquid	3	
-299.39	172.70	Liquid	3	
-Number	Source	
-1	Parks G.S.; Huffman H.M.: Thermal Data on Organic Compounds. IV. The Heat Capacities, Entropies and Free Energies of Normal Propyl Alcohol, Ethyl Ether and Dulcitol. J.Am.Chem.Soc. 48 (1926) 2788-2793	
-2	Eucken A.: Assoziation in Flüssigkeiten. Z.Elektrochem.Angew.Physik.Chem. 52 (1948) 255-269	
-3	Counsell J.F.; Lee D.A.; Martin J.F.: Thermodynamic properties of organic oxygen compounds. Part XXVI. Diethyl ether.. J.Chem.Soc.A  (1971) 313-316	
-$$$Molar Heat Capacity (cV)	
-T [K]	Molar Heat Capacity (Cv) [J/(mol*K)]	State	Reference	
-280.00	55.27	Vapor	1	
-347.72	185.75	Liquid	2	
-347.84	183.90	Liquid	2	
-347.96	187.16	Liquid	2	
-348.07	182.49	Liquid	2	
-348.19	185.97	Liquid	2	
-348.31	185.09	Liquid	2	
-348.43	185.01	Liquid	2	
-348.55	183.31	Liquid	2	
-357.73	182.42	Liquid	2	
-357.90	183.53	Liquid	2	
-358.14	182.27	Liquid	2	
-358.32	180.71	Liquid	2	
-358.50	181.90	Liquid	2	
-362.98	183.38	Liquid	2	
-363.10	185.53	Liquid	2	
-363.21	183.75	Liquid	2	
-363.33	186.12	Liquid	2	
-363.44	184.34	Liquid	2	
-363.58	187.90	Liquid	2	
-373.32	188.94	Liquid	2	
-373.43	188.20	Liquid	2	
-373.54	191.39	Liquid	2	
-373.66	188.42	Liquid	2	
-373.77	190.05	Liquid	2	
-373.89	191.16	Liquid	2	
-373.90	189.53	Liquid	2	
-374.00	188.49	Liquid	2	
-374.00	189.38	Liquid	2	
-374.11	187.31	Liquid	2	
-374.12	190.79	Liquid	2	
-374.23	187.09	Liquid	2	
-374.35	188.12	Liquid	2	
-385.73	192.79	Liquid	2	
-386.06	195.31	Liquid	2	
-386.34	195.83	Liquid	2	
-386.40	198.06	Liquid	2	
-386.51	194.20	Liquid	2	
-397.58	203.99	Liquid	2	
-397.68	202.73	Liquid	2	
-397.90	203.17	Liquid	2	
-398.01	205.02	Liquid	2	
-398.01	206.14	Liquid	2	
-398.12	206.80	Liquid	2	
-398.13	204.13	Liquid	2	
-398.23	203.54	Liquid	2	
-398.23	206.80	Liquid	2	
-398.34	203.84	Liquid	2	
-398.34	204.80	Liquid	2	
-398.45	206.51	Liquid	2	
-398.56	205.47	Liquid	2	
-398.67	202.80	Liquid	2	
-398.89	205.17	Liquid	2	
-409.43	211.55	Liquid	2	
-409.54	212.73	Liquid	2	
-409.64	212.29	Liquid	2	
-409.75	210.73	Liquid	2	
-409.86	211.32	Liquid	2	
-409.97	213.33	Liquid	2	
-410.07	209.99	Liquid	2	
-410.18	210.06	Liquid	2	
-410.18	212.29	Liquid	2	
-410.29	211.47	Liquid	2	
-410.51	210.95	Liquid	2	
-410.61	212.36	Liquid	2	
-410.72	213.84	Liquid	2	
-410.94	212.14	Liquid	2	
-414.80	213.33	Liquid	2	
-414.91	211.84	Liquid	2	
-415.02	212.29	Liquid	2	
-415.12	213.33	Liquid	2	
-415.23	216.07	Liquid	2	
-415.34	214.73	Liquid	2	
-415.44	213.84	Liquid	2	
-415.55	215.48	Liquid	2	
-415.66	214.07	Liquid	2	
-415.76	214.59	Liquid	2	
-415.87	216.29	Liquid	2	
-415.98	217.25	Liquid	2	
-416.08	216.74	Liquid	2	
-416.10	156.77	Vapor	2	
-416.10	218.00	Liquid	2	
-416.11	156.03	Vapor	2	
-416.19	155.21	Vapor	2	
-416.30	153.58	Vapor	2	
-416.41	154.55	Vapor	2	
-416.51	153.66	Vapor	2	
-416.62	153.21	Vapor	2	
-417.58	153.58	Vapor	2	
-417.69	154.25	Vapor	2	
-417.79	153.36	Vapor	2	
-417.79	217.77	Liquid	2	
-417.90	154.32	Vapor	2	
-418.01	153.88	Vapor	2	
-418.01	219.33	Liquid	2	
-418.11	218.44	Liquid	2	
-418.22	220.59	Liquid	2	
-418.33	218.89	Liquid	2	
-418.43	219.70	Liquid	2	
-418.54	220.59	Liquid	2	
-421.52	155.29	Vapor	2	
-421.62	219.92	Liquid	2	
-421.72	224.00	Liquid	2	
-421.73	154.69	Vapor	2	
-421.83	155.14	Vapor	2	
-421.83	218.89	Liquid	2	
-421.94	154.25	Vapor	2	
-421.94	221.92	Liquid	2	
-422.05	154.10	Vapor	2	
-422.15	218.51	Liquid	2	
-422.15	223.04	Liquid	2	
-422.26	219.70	Liquid	2	
-422.26	220.00	Liquid	2	
-422.36	221.03	Liquid	2	
-422.48	221.33	Liquid	2	
-422.58	217.70	Liquid	2	
-422.58	222.89	Liquid	2	
-422.68	220.52	Liquid	2	
-422.79	219.48	Liquid	2	
-422.80	219.26	Liquid	2	
-422.89	217.40	Liquid	2	
-423.00	216.22	Liquid	2	
-423.11	218.89	Liquid	2	
-424.05	219.11	Liquid	2	
-424.15	223.93	Liquid	2	
-424.26	222.89	Liquid	2	
-424.36	225.26	Liquid	2	
-424.47	219.63	Liquid	2	
-424.58	226.00	Liquid	2	
-424.68	218.29	Liquid	2	
-424.79	221.78	Liquid	2	
-424.89	223.55	Liquid	2	
-425.02	218.96	Liquid	2	
-425.06	222.74	Liquid	2	
-425.11	225.63	Liquid	2	
-425.15	222.52	Liquid	2	
-425.19	159.36	Vapor	2	
-425.19	223.11	Liquid	2	
-425.23	158.03	Vapor	2	
-425.28	155.88	Vapor	2	
-425.32	154.40	Vapor	2	
-425.36	156.62	Vapor	2	
-425.45	155.51	Vapor	2	
-425.53	154.40	Vapor	2	
-425.63	154.77	Vapor	2	
-425.74	153.88	Vapor	2	
-426.05	154.92	Vapor	2	
-426.16	154.62	Vapor	2	
-426.25	155.95	Vapor	2	
-426.26	154.10	Vapor	2	
-426.37	154.77	Vapor	2	
-426.48	153.95	Vapor	2	
-426.49	156.40	Vapor	2	
-426.58	154.18	Vapor	2	
-426.59	154.10	Vapor	2	
-426.69	154.32	Vapor	2	
-426.70	154.69	Vapor	2	
-426.79	155.21	Vapor	2	
-426.80	155.29	Vapor	2	
-426.90	154.84	Vapor	2	
-426.91	154.32	Vapor	2	
-426.96	155.58	Vapor	2	
-427.00	154.55	Vapor	2	
-433.20	157.73	Vapor	2	
-433.31	158.10	Vapor	2	
-433.41	156.33	Vapor	2	
-433.52	158.10	Vapor	2	
-433.62	157.07	Vapor	2	
-433.73	155.44	Vapor	2	
-433.83	155.14	Vapor	2	
-434.77	226.52	Liquid	2	
-434.98	229.26	Liquid	2	
-435.18	226.89	Liquid	2	
-435.29	227.93	Liquid	2	
-435.50	225.93	Liquid	2	
-435.81	229.78	Liquid	2	
-435.92	228.97	Liquid	2	
-436.02	228.22	Liquid	2	
-436.13	226.96	Liquid	2	
-436.39	228.60	Liquid	2	
-436.65	229.34	Liquid	2	
-436.80	227.71	Liquid	2	
-437.06	228.45	Liquid	2	
-437.14	229.48	Liquid	2	
-439.24	158.10	Vapor	2	
-439.35	157.36	Vapor	2	
-439.45	158.48	Vapor	2	
-439.55	159.14	Vapor	2	
-439.66	158.48	Vapor	2	
-439.76	157.07	Vapor	2	
-439.86	156.70	Vapor	2	
-439.97	158.77	Vapor	2	
-449.24	157.88	Vapor	2	
-449.34	158.62	Vapor	2	
-449.45	159.29	Vapor	2	
-449.55	159.66	Vapor	2	
-449.75	158.62	Vapor	2	
-449.85	159.29	Vapor	2	
-449.96	160.03	Vapor	2	
-460.94	163.52	Vapor	2	
-461.04	162.18	Vapor	2	
-461.14	161.51	Vapor	2	
-461.25	163.00	Vapor	2	
-461.35	160.85	Vapor	2	
-461.45	161.51	Vapor	2	
-471.19	164.92	Vapor	2	
-471.29	165.29	Vapor	2	
-471.39	163.07	Vapor	2	
-471.49	163.07	Vapor	2	
-471.59	164.92	Vapor	2	
-471.69	163.81	Vapor	2	
-Number	Source	
-1	Maikowski M.: Molwärmemessungen an Dämpfen bei kleinen Drucken. Master's Thesis  (1949)	
-2	Polikhronidi N.G.; Abdulagatov I.M.; Batyrova R.G.; Stepanov G.V.; Wu J.T.4; Ustuzhanin E.E.: Experimental Study of the Isochoric Heat Capacity of Diethyl Ether (DEE) in the Critical and Supercritical Regions. Int.J.Thermophys. 33 (2012) 185-219	
-$$$Speed of Sound	
-T [K]	Ultrasonic Velocity [m/s]	State	Reference	
-273.15	1095.000	Liquid	3	
-283.15	1054.000	Liquid	3	
-283.15	1064.000	Liquid	5	
-293.15	1006.000	Liquid	3	
-293.15	1008.000	Liquid	2	
-293.15	1010.000	Liquid	5	
-298.15	982.000	Liquid	4	
-298.15	985.000	Liquid	1	
-303.15	949.000	Liquid	3	
-303.15	957.000	Liquid	5	
-370.25	206.540	Vapor	6	
-407.15	217.450	Vapor	6	
-Number	Source	
-1	Willard G W.: Temperature Coefficients of Ultrasonic Velocity in Solutions. J.Acoust.Soc.Am. 19 (1947) 235-241	
-2	Schaaffs W.: I.Teil: Die Schallgeschwindigkeit in organischen Flüssigkeiten. Z.Phys.Chem.(Leipzig) 194 (1944) 28-38	
-3	Freyer E.B.; Hubbard J.C.; Andrews D.H.: Sonic Studies of the Physical Properties of Liquids. I. The Sonic Interferometer. The Velocity of Sound in Some Organic Liquids and Their Compressibilities. J.Am.Chem.Soc. 51 (1929) 759-770	
-4	Gabrielli I.; Poiani G.: Misure di velocita degli ultrasuoni in alcune mescolanze di liquidi. Ricerca Scient. (Roma) 22 (1952) 1424-1432	
-5	Syuzyaev V.I.; Berdyev A.A.: Study of ultrasound speed distribution in the systems with chloral. Izv.AN Turkmen.SSR Ser.Fiz.-Mat.Tekh.Khim.Geol.Nauk  (1957) 9-15	
-6	Jatkar S.K.K.: Part V. Specific Heats of Vapours of Acetone, Benzene, Cyclohexane, n-Hexane, Methyl, Ethyl, and n-Propyl Ethers. J.Indian Inst.Sci.Sec.A Sci. 22 (1939) 19-37	
-$$$Std. Heat of Combustion	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.00	-2751060.00	Vapor	1	
-298.15	-2723500.00	Liquid	2	
-Number	Source	
-1	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
-2	Lautenschütz L.; Oestreich D.; Seidenspinner P.; Arnold U.; Dinjus E.; Sauer J.: Physico-chemical properties and fuel characteristics of oxymethylene dialkyl ethers. Fuel 173 (2016) 129-137	
-$$$Std. Heat of Formation	
-T [K]	Molar Enthalpy [J/mol]	State	Reference	
-298.00	-252212.00	Vapor	2	
-298.00	-252128.00	Vapor	3	
-298.00	-250287.00	Vapor	1	
-Number	Source	
-1	Pihlaja K.; Heikkila J.: Heats of combustion. Diethyl ether and 1,1-diethoxyethane.. Acta Chem.Scand. 22 (1968) 2731-2732	
-2	Pilcher G.; Skinner H.A.; Pell S.A.; Pope A.E.: Measurements of heats of combustion by flame calorimetry.. Trans.Faraday Soc. 59 (1963) 316-330	
-3	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277	
-$$$Surface Tension	
-T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference	
-287.15		17.8000	Liquid	3	
-288.15		17.6200	Liquid	5	
-291.55	101.325	17.2500	Liquid	4	
-293.15		16.9600	Liquid	6	
-293.15		17.0600	Liquid	5	
-296.75	101.325	16.7800	Liquid	4	
-298.15		16.5000	Liquid	1	
-298.15		17.3000	Liquid	2	
-298.15		17.4000	Liquid	2	
-298.15		17.5000	Liquid	2	
-298.15		17.6000	Liquid	2	
-302.55	101.325	16.2500	Liquid	4	
-303.15		15.9500	Liquid	5	
-Number	Source	
-1	Koefoed J.; Villadsen J.V.: Chloroform-Carbon Tetrachloride, Benyene-Diphenylmethane and Heptane-Hexadecane. Acta Chem.Scand. 12 (1958) 1124-1135	
-2	Andreas J.M.; Hauser E.A.; Tucker W.B.: Boundary tension by pendant drops.. J.Phys.Chem. 42 (1938) 1001-1019	
-3	Green S.J.; Olden M.J.F.: The insoluble matter of coal tar. VII. Dilution of tars.. J.Appl.Chem. 1 (1951) 433-443	
-4	Vogel A.I.: Part XII. Ethers and Acetals.. J.Chem.Soc.London  (1948) 616-624	
-5	Hennaut-Roland L.; Lek M.: Methods and equipment used at the Bureau of Physico-Chem. Standards.IV. Surface tension of a series of org. substances.. Bull.Soc.Chim.Belg. 40 (1931) 177-188	
-6	Richards T.W.; Carver E.K.: A critical study of the capillary rise method of determining surface tension, with data for water, benzene, toluene, chloroform, carbon tetrachloride, ether and dimethyl aniline.. J.Am.Chem.Soc. 43 (1921) 827-847	
-$$$Thermal Conductivity	
-T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference	
-273.15		0.1382	Liquid	4	
-273.15		0.1390	Liquid	4	
-293.15		0.1256	Liquid	4	
-293.15		0.1277	Liquid	4	
-293.15		0.1285	Liquid	4	
-298.15		0.1306	Liquid	3	
-303.15		0.1239	Liquid	4	
-303.15		0.1243	Liquid	4	
-318.80		0.01609	Vapor	1	
-318.80		0.0163	Vapor	1	
-333.35	101.000	0.01809	Vapor	2	
-348.15		0.01947	Vapor	5	
-352.25	101.000	0.01995	Vapor	2	
-364.15	26.660	0.0214	Vapor	6	
-369.90		0.02224	Vapor	1	
-369.90		0.0227	Vapor	1	
-373.85	101.000	0.0222	Vapor	2	
-383.25		0.02345	Vapor	5	
-399.10		0.02483	Vapor	1	
-399.10		0.0252	Vapor	1	
-399.15	101.000	0.02516	Vapor	2	
-422.15	101.000	0.02784	Vapor	2	
-433.80		0.02927	Vapor	1	
-433.80		0.0297	Vapor	1	
-456.80		0.03223	Vapor	1	
-456.80		0.0325	Vapor	1	
-482.90		0.03541	Vapor	1	
-507.20		0.03865	Vapor	1	
-507.20		0.0394	Vapor	1	
-529.10		0.04421	Vapor	1	
-531.30		0.0455	Vapor	1	
-545.90		0.0497	Vapor	1	
-545.90		0.04971	Vapor	1	
-549.60		0.0495	Vapor	1	
-559.50		0.0520	Vapor	1	
-572.30		0.05931	Vapor	1	
-572.30		0.0601	Vapor	1	
-Number	Source	
-1	Madzhidov Kh.: Experimentelle Untersuchung der Wärmeleitfähigkeitskoeffizient von Diethyläther bei verschiedenen Temperaturen und Drücken. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1983) 56-60	
-2	Vines R.G.; Bennet L.A.: The Thermal Conductivity of Organic Vapors. The Relationship Betweenthermal Conductivity and Viscosity, and the Significance of the Eucken Factor.. J.Chem.Phys. 22 (1954) 360-366	
-3	Spencer A.N.; Todd M.C.J.: Viscosity and thermal conductivity of liquid boron trifluoride.. Br.J.Appl.Phys. 11 (1960) 60-64	
-4	Mason H.L.: Thermal Conductivity of some Industrial Liquids from 0 to 100 C.. Trans. ASME 76 (1954) 817-821	
-5	Vines R.G.: The Influence of Molecular Interaction.. Aust.J.Chem. 6 (1953) 1-26	
-6	Schluender E.U.: Measurement of Thermal Conductivity of Gase/Vapour Mixtures.. Chem.Ing.Tech. CIT 36 (1964) 115-125	
-$$$Transition Temperature	
-T [K]	P [kPa]	State	Reference	
-92.55		Glass > Crystal	2	
-149.85		Crystal 2 > Crystal 1	1	
-Number	Source	
-1	Timmermans J.; Van Der Horst H.; Kamerlingh Onnes H.: Les points de congélation de liquides organiques purs comme repères thermométriques aux températures inférieures à 0°C. C.R.Hebd.Seanc.Acad.Sci.Paris 174 (1922) 365-367	
-2	Lesikar A.V.: Effect of Association Complexes on the Glass Transition in Organic Halide Mixtures. J.Phys.Chem. 80 (1976) 1005-1011	
-$$$Vapor Pressure	
-T [K]	P [kPa]	State	Reference	
-171.85	0.007733	Vapor-Liquid	3	
-176.45	0.0128	Vapor-Liquid	3	
-177.95	0.015732	Vapor-Liquid	3	
-179.75	0.020	Vapor-Liquid	3	
-185.05	0.036	Vapor-Liquid	3	
-189.65	0.05906	Vapor-Liquid	3	
-192.15	0.07786	Vapor-Liquid	3	
-194.65	0.1016	Vapor-Liquid	3	
-196.95	0.12652	Vapor-Liquid	3	
-208.15	0.26664	Vapor-Liquid	1	
-212.35	0.5266	Vapor-Liquid	2	
-217.40	0.7906	Vapor-Liquid	2	
-219.15	0.6666	Vapor-Liquid	1	
-222.28	1.1692	Vapor-Liquid	2	
-227.15	1.6825	Vapor-Liquid	2	
-229.15	1.2666	Vapor-Liquid	1	
-232.03	2.3705	Vapor-Liquid	2	
-236.92	3.3024	Vapor-Liquid	2	
-239.15	2.800	Vapor-Liquid	1	
-241.82	4.537	Vapor-Liquid	2	
-246.73	6.108	Vapor-Liquid	2	
-247.15	4.933	Vapor-Liquid	1	
-251.65	8.174	Vapor-Liquid	2	
-254.15	7.333	Vapor-Liquid	1	
-256.57	10.755	Vapor-Liquid	2	
-259.15	10.266	Vapor-Liquid	1	
-261.51	13.971	Vapor-Liquid	2	
-265.15	15.199	Vapor-Liquid	1	
-266.45	17.966	Vapor-Liquid	2	
-273.15	25.331	Vapor-Liquid	1	
-273.16	24.815	Vapor-Liquid	2	
-278.13	31.161	Vapor-Liquid	2	
-283.09	38.746	Vapor-Liquid	2	
-288.05	47.749	Vapor-Liquid	2	
-293.02	58.355	Vapor-Liquid	2	
-298.15	71.487	Vapor-Liquid	5	
-307.85	101.325	Vapor-Liquid	6	
-373.15	666.718	Vapor-Liquid	4	
-383.15	846.064	Vapor-Liquid	4	
-393.15	1053.780	Vapor-Liquid	4	
-403.15	1287.840	Vapor-Liquid	4	
-413.15	1562.430	Vapor-Liquid	4	
-423.15	1888.700	Vapor-Liquid	4	
-433.15	2263.600	Vapor-Liquid	4	
-443.15	2715.510	Vapor-Liquid	4	
-453.15	3232.270	Vapor-Liquid	4	
-463.15	3738.890	Vapor-Liquid	4	
-Number	Source	
-1	Emeleus H.J.: The Light Emission from the Phosphorescent Flames of Ether, Acetaldehyde, Propaldehyde, and Hexane. J.Chem.Soc.London  (1929) 1733-1739	
-2	Taylor R.S.; Smith L.B.: The Vapor Pressures, Densities and some Derived Quantities for Ether at Low Temperatures. J.Am.Chem.Soc. 44 (1922) 2450-2463	
-3	Muendel C.F.: Experimentelle Bestimmung und theoretische Berechnung kleiner Dampfdrucke bei tiefen Temperaturen. Z.Phys.Chem.(Leipzig) 85 (1913) 435-465	
-4	Sajotschewsky W.: Dampfspannungen gesaettigter Daempfe bei hohen Temperaturen. Ann.Phys./Beibl. 3 (1879) 741-743	
-5	Wong K.F.; Eckert C.A.: Vapor-Liquid Equilibria of 1,3-Butadiene Systems. J.Chem.Eng.Data 14 (1969) 432-436	
-6	Satyanarayana M.; Rao M.N.: Vapor-Liquid Equilibria of Non-Ideal Solutions at Atmospheric and Super-Atmospheric Pressures-Benzene-Cyclohexane-Diethyl Ether System. Trans.Indian Inst.Chem.Engrs. 13 (1961) 4-12	
-$$$Virial Coefficients	
-T [K]	Second Virial Coefficient [cm3/mol]	State	Reference	
-295.15	-1226.0000	Vapor	5	
-298.15	-1165.0000	Vapor	4	
-302.79	-1116.0000	Vapor	2	
-308.15	-1084.0000	Vapor	5	
-322.75	-923.0000	Vapor	2	
-323.15	-960.0000	Vapor	1	
-323.15	-950.0000	Vapor	5	
-323.25	-995.0000	Vapor	4	
-333.15	-895.0000	Vapor	3	
-333.15	-850.0000	Vapor	1	
-339.15	-790.0000	Vapor	1	
-343.15	-760.0000	Vapor	1	
-344.97	-757.0000	Vapor	2	
-348.15	-770.0000	Vapor	4	
-353.15	-730.0000	Vapor	1	
-353.15	-677.0000	Vapor	3	
-358.15	-720.0000	Vapor	1	
-363.26	-654.0000	Vapor	2	
-368.15	-630.0000	Vapor	4	
-373.15	-525.0000	Vapor	3	
-Number	Source	
-1	Zaalishvili Sh.D.; Kolysko L.E.: I. Das System Diethylester-Aceton. Zh.Fiz.Khim. 34 (1960) 2596-2600	
-2	McElroy P.J.; Robertson G.A.; Kolahi S.S.: Excess Second Virial Coefficients and Mixture Critical Temperatures of Diethyl Ether and Methyl Acetate. J.Chem.Eng.Data 35 (1990) 427-429	
-3	Knoebel D.H.; Edmister W.C.: Second Virial Coefficients of Binary Mixtures of Benzene with Methanol, Ethanol, Acetone, and Diethyl Ether.. J.Chem.Eng.Data 13 (1968) 312-317	
-4	Stryjek R.; Kreglewski A.: The second virial coefficients of gaseous mixtures. I. The diethyl ether - sulphur dioxide systems.. Bull.Acad.Pol.Sci.Ser.Sci.Chim. 13 (1965) 201-207	
-5	Bottomley G.A.; Reeves C.G.: The virial coefficients of carbon disulphide, diethyl ether, and n-hexane.. J.Chem.Soc.London 126 (1958) 3794-3799	
+Formula	Molar Mass	CAS Registry Number	Name
+C4H10O	74.123	60-29-7	Diethyl ether
+$$$Critical Data
+T [K]	P [kPa]	State	Reference
+463.37		Critical Point	1
+466.73		Critical Point	5
+466.74	3637.600	Critical Point	3
+466.75		Critical Point	6
+467.40		Critical Point	2
+467.55		Critical Point	4
+Number	Source
+1	Audant M.: Contribution to the Study on the Critical State of Ethyl Ether. C.R.Hebd.Seanc.Acad.Sci.Paris 170 (1920) 1573-1575
+2	Rätzsch M.: Kritische Temperaturen binärer Systeme. Z.Phys.Chem.(Leipzig) 243 (1970) 212-220
+3	Ambrose D.; Sprake C.H.S.; Townsend R.: XXIX. The Vapour Pressure of Diethyl Ether. J.Chem.Thermodyn. 4 (1972) 247-254
+4	Centnerszwer M.: Determination of the critical volumes using the method of Cailletet and Mathias. (Ger). Z.Phys.Chem.(Leipzig) 46 (1903) 199-207
+5	Young F.B.: Critical phenomena at ether. (Ger). Chem.Zentralbl. 2 (1910) 1854-1854
+6	Travers M.W.; Usher F.L.: Behaviour of some substances at critical temperature. (Ger). Chem.Zentralbl. 2 (1907) 4-5
+$$$Density
+T [K]	P [kPa]	Density [kg/m3]	State	Reference
+296.71	101.000	713.200	Liquid	1
+296.71	4910.000	716.900	Liquid	1
+296.71	9810.000	723.600	Liquid	1
+296.71	19620.000	731.000	Liquid	1
+296.71	29430.000	739.100	Liquid	1
+296.71	39240.000	743.400	Liquid	1
+296.71	49050.000	747.900	Liquid	1
+296.71	58860.000	753.500	Liquid	1
+296.71	68810.000	763.200	Liquid	1
+296.71	78480.000	766.000	Liquid	1
+296.71	88290.000	771.000	Liquid	1
+296.71	98100.000	777.000	Liquid	1
+319.61	101.000	688.100	Liquid	1
+319.61	4910.000	696.300	Liquid	1
+319.61	9810.000	703.400	Liquid	1
+319.61	19620.000	711.200	Liquid	1
+319.61	29430.000	719.400	Liquid	1
+319.61	39240.000	725.000	Liquid	1
+319.61	49050.000	728.600	Liquid	1
+319.61	58860.000	734.000	Liquid	1
+319.61	68810.000	742.000	Liquid	1
+319.61	78480.000	746.100	Liquid	1
+319.61	88290.000	749.400	Liquid	1
+319.61	98100.000	761.500	Liquid	1
+341.22	4910.000	676.600	Liquid	1
+341.22	9810.000	683.500	Liquid	1
+341.22	19620.000	691.000	Liquid	1
+341.22	29430.000	698.300	Liquid	1
+341.22	39240.000	705.400	Liquid	1
+341.22	49050.000	710.000	Liquid	1
+341.22	58860.000	716.300	Liquid	1
+341.22	68810.000	723.900	Liquid	1
+341.22	78480.000	728.000	Liquid	1
+341.22	88290.000	731.500	Liquid	1
+341.22	98100.000	741.200	Liquid	1
+368.35	4910.000	653.400	Liquid	1
+368.35	9810.000	660.100	Liquid	1
+368.35	19620.000	670.400	Liquid	1
+368.35	29430.000	675.900	Liquid	1
+368.35	39240.000	683.700	Liquid	1
+368.35	49050.000	688.600	Liquid	1
+368.35	58860.000	694.100	Liquid	1
+368.35	68810.000	701.000	Liquid	1
+368.35	78480.000	705.400	Liquid	1
+368.35	88290.000	710.000	Liquid	1
+368.35	98100.000	719.200	Liquid	1
+389.75	4910.000	631.700	Liquid	1
+389.75	9810.000	640.300	Liquid	1
+389.75	19620.000	650.800	Liquid	1
+389.75	29430.000	657.500	Liquid	1
+389.75	39240.000	666.300	Liquid	1
+389.75	49050.000	671.500	Liquid	1
+389.75	58860.000	676.800	Liquid	1
+389.75	68810.000	683.300	Liquid	1
+389.75	78480.000	688.300	Liquid	1
+389.75	88290.000	693.500	Liquid	1
+389.75	98100.000	702.400	Liquid	1
+416.18	4910.000	608.500	Liquid	1
+416.18	9810.000	615.700	Liquid	1
+416.18	19620.000	627.500	Liquid	1
+416.18	29430.000	635.500	Liquid	1
+416.18	39240.000	643.500	Liquid	1
+416.18	49050.000	648.900	Liquid	1
+416.18	58860.000	654.000	Liquid	1
+416.18	68810.000	659.300	Liquid	1
+416.18	78480.000	665.300	Liquid	1
+416.18	88290.000	673.200	Liquid	1
+416.18	98100.000	682.000	Liquid	1
+Number	Source
+1	Safarov M.M.; Madzhidov Kh.; Asoev R.Sh.: Zusammenfassende Zustandsgleichung von flüssigen Ätheren. Zh.Fiz.Khim. 66 (1992) 2595-2603
+$$$Dielectric Constant
+T [K]	P [kPa]	Dielectric Constant [-]	State	Reference
+171.00		9.87000	Liquid	2
+190.00		8.30000	Liquid	2
+220.00		6.59000	Liquid	2
+257.00		5.28000	Liquid	2
+278.15		4.65000	Liquid	4
+283.15		4.53000	Liquid	4
+288.15		4.43000	Liquid	4
+293.15		4.20000	Liquid	3
+293.15		4.24000	Liquid	5
+293.15		4.33500	Liquid	4
+293.15	98.066	4.32800	Liquid	6
+293.15	49033.199	4.79000	Liquid	6
+293.15	98066.500	5.14200	Liquid	6
+293.15	147100.000	5.42800	Liquid	6
+293.15	196133.000	5.66800	Liquid	6
+293.15	245166.000	5.88000	Liquid	6
+293.15	294200.000	6.07100	Liquid	6
+296.00		4.30000	Liquid	2
+298.15		4.25000	Liquid	4
+303.15	98.066	4.17000	Liquid	1
+303.15	98.066	4.18000	Liquid	1
+303.15	93163.203	4.84000	Liquid	1
+303.15	165732.000	5.19000	Liquid	1
+303.15	224082.000	5.39000	Liquid	1
+303.15	282432.000	5.59000	Liquid	1
+303.15	330974.000	5.79000	Liquid	1
+303.15	371672.000	5.88000	Liquid	1
+303.15	401092.000	5.94000	Liquid	1
+303.15	468758.000	6.14000	Liquid	1
+Number	Source
+1	Skinner J.F.; Cussler E.L.; Fuoss R.M.: Pressure Dependence of Dielectric Constant and Density of Liquids.. J.Phys.Chem. 72 (1968) 1057-1064
+2	Gee N.; Shinsaka K.; Dodelet J.-P.; Freeman G.R.: Dielectric Constant Against Temperature for 43 Liquids. J.Chem.Thermodyn. 18 (1986) 221-234
+3	Wollmann H.; Skaletzki B.; Schaaf A.: 14. Mitteilung: Beiträge zur Problematik des Einsatzes von Kunststoffbehältern für flüssige Arzneizubereitungen. Pharmazie 29 (1974) 708-711
+4	Ulich H.; Nespital W.: Beschreibung einer kristallgesteuerten Resonanzapparatur. Z.Phys.Chem.Abt.B 16 (1932) 221-233
+5	Moll W.L.H.: Dielectrical Study of the Effect of Organic Solvent on High-Molecular Substances. Kolloid Beih. 49 (1939) 1-74
+6	Kyropoulos S.: Die Druckabhängigkeit der Dielektrizitätskonstante einiger Flüssigkeiten bis zu 3000kg/cm2. Z.Phys. (Berlin) 40 (1926) 507-520
+$$$Dipole Moment
+T [K]	Dipole Moment [Debye]	State	Reference
+	1.4500	Liquid	1
+Number	Source
+1	Kramer K.D.; Mueller-Warmuth W.; Roth N.: Molecular motion in liquids and solutions. I. Nuclear-electron double resonance. Viscosity and dielectric relaxation in ether and diethoxyethane. (Ger). Z.Naturforsch.A 20 (1965) 1391-1400
+$$$Dynamic Viscosity
+T [K]	P [kPa]	Dynamic Viscosity [mPas]	State	Reference
+273.15		0.2880	Liquid	3
+275.55		0.2871	Liquid	5
+280.55		0.2687	Liquid	5
+280.75		0.2655	Liquid	5
+281.55		0.2583	Liquid	5
+288.95		0.2502	Liquid	5
+289.95		0.2401	Liquid	5
+289.95		0.2435	Liquid	5
+291.55		0.2392	Liquid	5
+291.85		0.2386	Liquid	5
+292.75		0.2371	Liquid	5
+293.15		0.2300	Liquid	1
+293.15		0.2500	Liquid	2
+298.15		0.2240	Liquid	3
+298.15		0.2400	Liquid	2
+302.35		0.2180	Liquid	5
+303.15		0.2100	Liquid	1
+303.15	98.066	0.2110	Liquid	4
+303.15	98066.500	0.4470	Liquid	4
+303.15	196133.000	0.6900	Liquid	4
+303.15	294200.000	0.9700	Liquid	4
+303.15	392266.000	1.3100	Liquid	4
+303.15	490332.000	1.7900	Liquid	4
+303.75		0.2132	Liquid	5
+304.45		0.2132	Liquid	5
+311.15		0.1960	Superheated Liquid	1
+313.15		0.1920	Superheated Liquid	1
+316.15		0.1870	Superheated Liquid	1
+320.25		0.1839	Liquid	5
+320.25		0.1857	Liquid	5
+320.35		0.1870	Liquid	5
+323.15		0.1760	Superheated Liquid	1
+326.15		0.1720	Superheated Liquid	1
+333.15		0.1630	Superheated Liquid	1
+336.15		0.1590	Superheated Liquid	1
+336.65		0.1626	Liquid	5
+336.95		0.1610	Liquid	5
+338.15		0.1540	Superheated Liquid	1
+343.15		0.1500	Superheated Liquid	1
+346.15		0.1450	Superheated Liquid	1
+348.15		0.1430	Superheated Liquid	1
+350.15		0.1410	Superheated Liquid	1
+351.65		0.1413	Liquid	5
+351.65		0.1428	Liquid	5
+351.85		0.1413	Liquid	5
+353.15		0.1340	Superheated Liquid	1
+356.15		0.1320	Superheated Liquid	1
+358.45		0.1310	Superheated Liquid	1
+363.15		0.1250	Superheated Liquid	1
+367.65		0.1200	Superheated Liquid	1
+368.15		0.1190	Superheated Liquid	1
+372.35		0.1181	Liquid	5
+373.55		0.1177	Liquid	5
+Number	Source
+1	Bulanov N.V.; Skripov V.P.: Viskosität von Flüssigkeiten im metastabil (überhitzten) Zustand. Teplofiz.Vys.Temp. 12 (1974) 1184-1187
+2	Lutskii A.E.; Obukhova E.M.: I. Viskosität von flüssigen binären Mischungen. Zh.Fiz.Khim. 31 (1957) 1693-1703
+3	Sakhanov A.N.; Ryakhovskii N.A.: Viskosität von flüssigen Mischungen. Zh.Russ.Fiz.Khim.Obshch.Khim. 46 (1914) 78-88
+4	Skinner J.F.; Fuoss R.M.: Effect of pressure on conductance. I. Tetraisoamylammonium picrate indiethyl ether and in benzene.. J.Phys.Chem. 69 (1965) 1437-1443
+5	Heydweiller A.: Die innere Reibung einiger Flüssigkeiten oberhalb ihres Siedepunktes. Ann.Physik 295 (1896) 193-212
+$$$Entropy
+T [K]	Molar Entropy [J/(mol*K)]	State	Reference
+298.00	342.20	Vapor	2
+298.00	342.67	Vapor	1
+Number	Source
+1	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436
+2	Counsell J.F.; Lee D.A.; Martin J.F.: Thermodynamic properties of organic oxygen compounds. Part XXVI. Diethyl ether.. J.Chem.Soc.A  (1971) 313-316
+$$$G-function (G-G0)/T
+T [K]	G-function (G-G0)/T [J/(mol*K)]	State	Reference
+100.00	-199.18	Vapor	1
+150.00	-218.73	Vapor	1
+200.00	-235.55	Vapor	1
+273.15	-257.15	Vapor	1
+298.15	-263.88	Vapor	1
+300.00	-264.37	Vapor	1
+400.00	-288.89	Vapor	1
+500.00	-310.76	Vapor	1
+600.00	-330.88	Vapor	1
+700.00	-349.69	Vapor	1
+800.00	-367.44	Vapor	1
+900.00	-384.31	Vapor	1
+1000.00	-400.41	Vapor	1
+1100.00	-415.81	Vapor	1
+1200.00	-430.58	Vapor	1
+1300.00	-444.78	Vapor	1
+1400.00	-458.46	Vapor	1
+1500.00	-471.64	Vapor	1
+Number	Source
+1	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436
+$$$Heat of Fusion
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+149.86	6820.00	Metastable Solid-Liquid-Vapor	1
+156.92	7190.00	Solid-Liquid-Vapor	1
+Number	Source
+1	Counsell J.F.; Lee D.A.; Martin J.F.: Thermodynamic properties of organic oxygen compounds. Part XXVI. Diethyl ether.. J.Chem.Soc.A  (1971) 313-316
+$$$Heat of Vaporization
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+273.25	28067.00	Vapor-Liquid	3
+280.69	28147.00	Vapor-Liquid	6
+284.95	27549.00	Vapor-Liquid	3
+289.39	27620.00	Vapor-Liquid	6
+295.63	27247.00	Vapor-Liquid	6
+298.15	27140.00	Vapor-Liquid	4
+298.15	27237.80	Vapor-Liquid	1
+307.14	26714.00	Vapor-Liquid	5
+307.58	26508.00	Vapor-Liquid	6
+307.60	26600.00	Vapor-Liquid	2
+313.15	26170.00	Vapor-Liquid	4
+Number	Source
+1	Sherman S.R.; Suleiman D.; Hait M.J.; Schiller M.; Liotta C.L.; Eckert C.A.; Li J.; Carr P.W.; Poe R.B.; Rutan S.C.: Correlation of Partial Molar Heats of Transfer at Infinite Dilution by a Linear Solvation Energy Relationship. J.Phys.Chem. 99 (1995) 11239-11247
+2	Matyushov D.V.; Schmid R.: Properties of Liquids at the Boiling Point: Equation of State, Internal Pressure and Vaporization Entropy. Int.J.Phys.Chem.Ber.Bunsen-Ges. 98 (1994) 1590-1595
+3	Keyes F.G.; Beattie J.A.: A calorimeter for measuring specific heats and heats of vaporization of liquids. The specific heat and heat of vaporization of liquid ethyl ether at 0° and 12°.. J.Am.Chem.Soc. 46 (1924) 1753-1760
+4	Majer V.; Wagner Z.; Svoboda V.; Cadek V.: Enthalpies of vaporization and cohesive energies for a group of aliphatic ethers. J.Chem.Thermodyn. 12 (1980) 387-391
+5	Mathews J.H.: The Accurate Measurement of the Heats of Vaporization of Liquids. J.Am.Chem.Soc. 48 (1926) 562-576
+6	Counsell J.F.; Lee D.A.; Martin J.F.: Thermodynamic properties of organic oxygen compounds. Part XXVI. Diethyl ether.. J.Chem.Soc.A  (1971) 313-316
+$$$Ideal Gas Heat Capacity
+T [K]	Ideal Gas Heat Capacity [J/(mol*K)]	State	Reference
+100.00	62.50	Ideal Gas	2
+150.00	84.80	Ideal Gas	2
+200.00	95.97	Ideal Gas	1
+200.00	99.70	Ideal Gas	2
+273.15	114.30	Ideal Gas	2
+280.00	114.00	Ideal Gas	1
+298.15	119.46	Ideal Gas	2
+300.00	119.86	Ideal Gas	2
+317.49	120.21	Ideal Gas	4
+340.48	127.95	Ideal Gas	4
+372.00	128.03	Ideal Gas	3
+372.31	134.47	Ideal Gas	4
+400.00	135.14	Ideal Gas	3
+400.00	142.81	Ideal Gas	2
+450.00	147.70	Ideal Gas	3
+500.00	159.83	Ideal Gas	3
+500.00	165.77	Ideal Gas	2
+600.00	186.35	Ideal Gas	2
+700.00	204.35	Ideal Gas	2
+800.00	220.04	Ideal Gas	2
+900.00	233.74	Ideal Gas	2
+1000.00	245.68	Ideal Gas	2
+1100.00	256.08	Ideal Gas	2
+1200.00	265.12	Ideal Gas	2
+1300.00	272.97	Ideal Gas	2
+1400.00	279.81	Ideal Gas	2
+1500.00	285.76	Ideal Gas	2
+Number	Source
+1	Eucken A.; Franck E.U.: Rotation in ether and alcohol molecules on the basis of determination of molar heat capacity. (Ger). Z.Elektrochem.Angew.Physik.Chem. 52 (1948) 195-204
+2	Chao J.; Hall K.R.; Marsh K.N.; Wilhoit R.C.: Thermodynamic properties of key organic oxygen compounds in the carbon range C1 to C4. Part 2. Ideal gas properties.. J.Phys.Chem.Ref.Data 15 (1986) 1369-1436
+3	Valentin F.H.H.: Equilibrium and Thermodynamic Relation in the Vapour-phase Catalytic Dehyrdation of Ethyl Alcohol to Ethyl Ether. J.Chem.Soc.London  (1950) 498-500
+4	Jennings W.H.; Bixler M.E.: Specific heat of furan and ethyl ether vapors.. J.Phys.Chem. 38 (1934) 747-751
+$$$Kinematic Viscosity
+T [K]	P [kPa]	Kinematic Viscosity [m2/s]	State	Reference
+205.65		8.72999976309E-07	Liquid	1
+213.15		7.86999976299E-07	Liquid	1
+220.65		7.09999994797E-07	Liquid	1
+228.15		6.42999964384E-07	Liquid	1
+235.65		5.83999963055E-07	Liquid	1
+243.15		5.32000001385E-07	Liquid	1
+250.65		4.88000011956E-07	Liquid	1
+258.15		4.48999998071E-07	Liquid	1
+265.65		4.16999995423E-07	Liquid	1
+273.15		3.88999978895E-07	Liquid	1
+280.65		3.6499997691E-07	Liquid	1
+457.65	2458.530	3.8199999608E-07	Vapor	2
+457.65	2528.150	3.6699998418E-07	Vapor	2
+457.65	2641.910	3.47999986161E-07	Vapor	2
+457.65	2764.490	3.23999984175E-07	Vapor	2
+457.65	2889.040	3.09999990122E-07	Vapor	2
+457.65	2964.550	2.91999981528E-07	Vapor	2
+457.65	3043.980	2.7699999805E-07	Vapor	2
+457.65	3118.510	2.61999986151E-07	Vapor	2
+457.65	3133.220	1.6999999275E-07	Vapor	2
+457.65	3235.210	1.6999999275E-07	Vapor	2
+457.65	3285.230	1.70999996385E-07	Vapor	2
+457.65	3344.070	1.70999996385E-07	Vapor	2
+457.65	3730.450	1.6999999275E-07	Vapor	2
+457.65	4173.710	1.72999989445E-07	Vapor	2
+457.65	4261.970	1.7200000002E-07	Vapor	2
+457.65	4326.690	1.7200000002E-07	Vapor	2
+457.65	4422.800	1.73999993081E-07	Vapor	2
+457.65	4704.250	1.76000000351E-07	Vapor	2
+457.65	5204.390	1.7200000002E-07	Vapor	2
+457.65	5792.790	1.73999993081E-07	Vapor	2
+457.65	6260.570	1.73999993081E-07	Vapor	2
+457.65	6751.880	1.76000000351E-07	Vapor	2
+457.65	7067.650	1.74999996716E-07	Vapor	2
+467.75	2627.200	3.76999992113E-07	Vapor	2
+467.75	2755.670	3.52000000703E-07	Vapor	2
+467.75	2897.860	3.30999995413E-07	Vapor	2
+467.75	3038.100	3.10999979547E-07	Vapor	2
+467.75	3206.770	2.85999988137E-07	Vapor	2
+467.75	3281.300	2.74000001355E-07	Vapor	2
+467.75	3382.310	2.61999986151E-07	Vapor	2
+467.75	3526.470	2.37999998376E-07	Vapor	2
+467.75	3553.930	2.37999998376E-07	Vapor	2
+467.75	3595.120	2.21999997052E-07	Vapor	2
+467.75	3634.340	2.10999999695E-07	Vapor	2
+467.75	3661.800	1.66999996054E-07	Vapor	2
+467.75	3701.030	1.63999999359E-07	Vapor	2
+467.75	3756.930	1.65999992419E-07	Vapor	2
+467.75	3871.670	1.63999999359E-07	Vapor	2
+467.75	3926.580	1.64999988783E-07	Vapor	2
+467.75	4023.670	1.6799999969E-07	Vapor	2
+467.75	4064.860	1.66999996054E-07	Vapor	2
+467.75	4275.700	1.65999992419E-07	Vapor	2
+467.75	4415.930	1.65999992419E-07	Vapor	2
+467.75	4550.290	1.66999996054E-07	Vapor	2
+467.75	4911.170	1.66999996054E-07	Vapor	2
+467.75	5205.370	1.65999992419E-07	Vapor	2
+467.75	5680.990	1.65999992419E-07	Vapor	2
+467.75	6176.230	1.64999988783E-07	Vapor	2
+467.75	6686.170	1.65999992419E-07	Vapor	2
+467.75	7122.570	1.6799999969E-07	Vapor	2
+468.75	3601.000	2.31999990774E-07	Vapor	2
+468.75	3628.460	2.15000000026E-07	Vapor	2
+468.75	3698.090	1.91999987464E-07	Vapor	2
+468.75	3747.120	1.68999989114E-07	Vapor	2
+468.75	3813.810	1.66999996054E-07	Vapor	2
+468.75	3908.930	1.63999999359E-07	Vapor	2
+468.75	4112.910	1.63999999359E-07	Vapor	2
+468.75	4307.080	1.61999992088E-07	Vapor	2
+468.75	4513.020	1.64999988783E-07	Vapor	2
+469.75	2656.620	3.8199999608E-07	Vapor	2
+469.75	2908.650	3.36999988804E-07	Vapor	2
+469.75	3206.770	2.90999992103E-07	Vapor	2
+469.75	3479.400	2.56999982184E-07	Vapor	2
+469.75	3620.610	2.33999998045E-07	Vapor	2
+469.75	3694.160	2.16999993086E-07	Vapor	2
+469.75	3765.750	1.84000001013E-07	Vapor	2
+469.75	3784.390	1.7200000002E-07	Vapor	2
+469.75	3832.440	1.65999992419E-07	Vapor	2
+469.75	3893.240	1.63999999359E-07	Vapor	2
+469.75	3965.810	1.66999996054E-07	Vapor	2
+469.75	4063.880	1.65999992419E-07	Vapor	2
+469.75	4118.790	1.6799999969E-07	Vapor	2
+469.75	4202.150	1.64999988783E-07	Vapor	2
+469.75	4318.850	1.62999995723E-07	Vapor	2
+469.75	4435.550	1.65999992419E-07	Vapor	2
+469.75	4526.750	1.64999988783E-07	Vapor	2
+469.75	4607.160	1.66999996054E-07	Vapor	2
+473.15	2953.760	3.35999999379E-07	Vapor	2
+473.15	3094.000	3.14000004664E-07	Vapor	2
+473.15	3229.330	2.98999992765E-07	Vapor	2
+473.15	3378.390	2.79999994746E-07	Vapor	2
+473.15	3474.500	2.68999997388E-07	Vapor	2
+473.15	3565.700	2.58999989455E-07	Vapor	2
+473.15	3662.780	2.44999995402E-07	Vapor	2
+473.15	3755.950	2.31999990774E-07	Vapor	2
+473.15	3842.250	2.1399999639E-07	Vapor	2
+473.15	3916.780	1.93999994735E-07	Vapor	2
+473.15	3966.790	1.80999990107E-07	Vapor	2
+473.15	4059.950	1.7200000002E-07	Vapor	2
+473.15	4138.410	1.68999989114E-07	Vapor	2
+473.15	4211.960	1.66999996054E-07	Vapor	2
+473.15	4416.920	1.6799999969E-07	Vapor	2
+473.15	4515.960	1.66999996054E-07	Vapor	2
+473.15	4614.030	1.6799999969E-07	Vapor	2
+473.15	4700.330	1.68999989114E-07	Vapor	2
+473.15	4804.280	1.6799999969E-07	Vapor	2
+473.15	5108.280	1.65999992419E-07	Vapor	2
+473.15	5315.200	1.64999988783E-07	Vapor	2
+473.15	5402.480	1.64999988783E-07	Vapor	2
+473.15	6009.510	1.63999999359E-07	Vapor	2
+473.15	6492.000	1.63999999359E-07	Vapor	2
+473.15	7389.310	1.65999992419E-07	Vapor	2
+Number	Source
+1	Simons J.H.; Dresdner R.D.: The Viscosity of Hydrogen Fluoride. J.Am.Chem.Soc. 66 (1944) 1070-1072
+2	Schröer E.; Becker G.: V: Beitrag zur Kenntnis der Zähigkeit im kritischen Zustand. Z.Phys.Chem.Abt.A 173 (1935) 178-197
+$$$Melting Point
+T [K]	P [kPa]	State	Reference
+151.15		Solid-Liquid	5
+155.45		Solid-Liquid	4
+156.75		Solid-Liquid	2
+156.90	101.325	Solid-Liquid	1
+156.95		Solid-Liquid	3
+Number	Source
+1	Lebedev B.V.; Kulagina T.G.; Karatayev Ye.N.: Thermodynamics of the complex (C2H5)2Zn.O(C2H5)2 at temperatures from 0 to 330 K.. J.Chem.Thermodyn. 25 (1993) 957-964
+2	Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408
+3	Timmermans J.: XII. Application de l'analyse thermique à la détermination de la chaleur de fusion de quelques composés organiques. Bull.Soc.Chim.Belg. 43 (1934) 626-638
+4	Hirai M.: Melting Curves of the Systems Hydrogen Chloride-Ethyl Ether and Hydrogen Chloride-Acetone. Bull.Chem.Soc.Japan 1 (1926) 123-125
+5	Joukovsky N.I.: XI. Contribution a l'Etude des Proprietes Thermodynamiques des Solutions Concentrees de Composes Organiques Azotes de la Serie Grasse. Bull.Soc.Chim.Belg. 43 (1934) 397-446
+$$$Molar Heat Capacity (cP)
+T [K]	Molar Heat Capacity (cP) [J/(mol*K)]	State	Reference
+15.84	6.889	Crystal 1	3
+16.39	7.477	Crystal 1	3
+17.56	8.675	Crystal 1	3
+19.03	10.31	Crystal 1	3
+20.66	12.02	Crystal 1	3
+22.52	14.08	Crystal 1	3
+24.47	16.31	Crystal 1	3
+26.56	18.57	Crystal 1	3
+28.87	21.09	Crystal 1	3
+31.55	23.96	Crystal 1	3
+34.58	27.21	Crystal 1	3
+37.76	30.51	Crystal 1	3
+41.07	33.75	Crystal 1	3
+44.38	36.83	Crystal 1	3
+47.48	39.63	Crystal 1	3
+50.31	42.09	Crystal 1	3
+52.94	44.41	Crystal 1	3
+55.39	46.44	Crystal 1	3
+57.15	47.86	Crystal 1	3
+57.70	48.26	Crystal 1	3
+59.04	49.25	Crystal 1	3
+59.90	50.07	Crystal 1	3
+61.07	50.78	Crystal 1	3
+62.02	50.85	Crystal 1	3
+62.83	52.03	Crystal 1	3
+64.06	52.75	Crystal 1	3
+64.33	53.00	Crystal 1	3
+65.44	53.72	Crystal 1	3
+65.79	53.92	Crystal 1	3
+66.01	54.06	Crystal 1	3
+67.21	54.84	Crystal 1	3
+67.90	55.21	Crystal 1	3
+68.71	55.82	Crystal 1	3
+69.72	56.47	Crystal 1	3
+69.73	56.88	Crystal 1	3
+71.52	57.74	Crystal 1	3
+72.87	58.45	Crystal 1	3
+73.54	58.91	Crystal 1	3
+76.10	62.33	Solid	1
+76.83	61.08	Crystal 1	3
+77.48	61.49	Crystal 1	3
+80.61	63.48	Crystal 1	3
+81.22	63.87	Crystal 1	3
+82.50	65.75	Solid	1
+84.22	65.65	Crystal 1	3
+84.81	65.98	Crystal 1	3
+87.70	67.46	Crystal 1	3
+88.27	67.70	Crystal 1	3
+89.10	68.85	Solid	1
+91.06	69.51	Crystal 1	3
+91.62	69.89	Crystal 1	3
+93.40	70.40	Solid	1
+94.32	71.12	Crystal 1	3
+94.87	71.39	Crystal 1	3
+95.50	72.26	Solid	1
+96.70	72.26	Solid	1
+98.03	72.87	Crystal 1	3
+98.18	72.95	Crystal 1	3
+98.30	73.19	Solid	1
+102.60	75.08	Crystal 1	3
+103.40	75.67	Solid	1
+103.70	75.67	Solid	1
+106.88	77.04	Crystal 1	3
+110.50	78.77	Solid	1
+110.80	79.08	Solid	1
+111.05	78.96	Crystal 1	3
+112.00	79.39	Solid	1
+114.50	80.32	Solid	1
+115.12	81.07	Crystal 1	3
+119.09	82.42	Crystal 1	3
+122.98	83.96	Crystal 1	3
+123.30	84.04	Solid	1
+123.40	84.04	Solid	1
+126.80	84.00	Crystal 1	3
+130.70	88.03	Crystal 1	3
+131.10	87.76	Solid	1
+135.20	89.00	Solid	1
+135.68	90.21	Crystal 1	3
+139.79	97.52	Metastable Crystal	3
+140.36	96.56	Metastable Crystal	3
+140.55	92.49	Crystal 1	3
+142.43	100.40	Metastable Crystal	3
+142.66	100.70	Metastable Crystal	3
+144.90	105.80	Metastable Crystal	3
+145.00	106.10	Metastable Crystal	3
+145.31	95.03	Crystal 1	3
+148.26	97.37	Crystal 1	3
+149.44	98.65	Crystal 1	3
+150.61	100.40	Crystal 1	3
+152.63	107.70	Crystal 1	3
+159.89	147.60	Liquid	3
+160.10	147.70	Liquid	3
+162.54	148.20	Liquid	3
+163.63	148.40	Liquid	3
+164.40	147.31	Liquid	1
+167.35	149.20	Liquid	3
+171.04	150.00	Liquid	3
+174.71	150.70	Liquid	3
+178.35	151.40	Liquid	3
+181.97	152.10	Liquid	3
+185.57	152.80	Liquid	3
+186.10	151.96	Liquid	1
+189.14	153.50	Liquid	3
+195.60	154.44	Liquid	1
+200.00	155.65	Liquid	2
+201.60	155.37	Liquid	1
+205.48	156.10	Liquid	3
+205.50	156.61	Liquid	1
+210.03	156.80	Liquid	3
+213.50	157.23	Liquid	1
+214.54	157.50	Liquid	3
+219.04	158.30	Liquid	3
+223.50	159.10	Liquid	3
+225.00	158.99	Liquid	2
+227.95	160.00	Liquid	3
+232.37	160.50	Liquid	3
+236.77	161.20	Liquid	3
+239.07	161.50	Liquid	3
+241.14	161.90	Liquid	3
+241.77	162.00	Liquid	3
+243.41	162.20	Liquid	3
+245.50	162.60	Liquid	3
+246.10	162.60	Liquid	3
+249.83	163.20	Liquid	3
+250.00	161.92	Liquid	2
+250.40	163.40	Liquid	3
+254.15	164.00	Liquid	3
+254.68	164.10	Liquid	3
+258.44	164.80	Liquid	3
+258.94	164.80	Liquid	3
+262.72	165.50	Liquid	3
+263.19	165.60	Liquid	3
+266.97	166.20	Liquid	3
+267.41	166.20	Liquid	3
+271.21	167.00	Liquid	3
+271.61	167.10	Liquid	3
+273.00	167.78	Liquid	2
+275.20	168.70	Liquid	1
+275.80	167.80	Liquid	3
+279.97	168.60	Liquid	3
+280.20	169.64	Liquid	1
+284.12	169.50	Liquid	3
+286.00	170.26	Liquid	1
+288.25	170.30	Liquid	3
+290.00	170.88	Liquid	1
+290.00	171.13	Liquid	2
+291.35	171.00	Liquid	3
+292.36	172.20	Liquid	3
+295.38	171.80	Liquid	3
+296.46	172.00	Liquid	3
+299.39	172.70	Liquid	3
+Number	Source
+1	Parks G.S.; Huffman H.M.: Thermal Data on Organic Compounds. IV. The Heat Capacities, Entropies and Free Energies of Normal Propyl Alcohol, Ethyl Ether and Dulcitol. J.Am.Chem.Soc. 48 (1926) 2788-2793
+2	Eucken A.: Assoziation in Flüssigkeiten. Z.Elektrochem.Angew.Physik.Chem. 52 (1948) 255-269
+3	Counsell J.F.; Lee D.A.; Martin J.F.: Thermodynamic properties of organic oxygen compounds. Part XXVI. Diethyl ether.. J.Chem.Soc.A  (1971) 313-316
+$$$Molar Heat Capacity (cV)
+T [K]	Molar Heat Capacity (Cv) [J/(mol*K)]	State	Reference
+280.00	55.27	Vapor	1
+347.72	185.75	Liquid	2
+347.84	183.90	Liquid	2
+347.96	187.16	Liquid	2
+348.07	182.49	Liquid	2
+348.19	185.97	Liquid	2
+348.31	185.09	Liquid	2
+348.43	185.01	Liquid	2
+348.55	183.31	Liquid	2
+357.73	182.42	Liquid	2
+357.90	183.53	Liquid	2
+358.14	182.27	Liquid	2
+358.32	180.71	Liquid	2
+358.50	181.90	Liquid	2
+362.98	183.38	Liquid	2
+363.10	185.53	Liquid	2
+363.21	183.75	Liquid	2
+363.33	186.12	Liquid	2
+363.44	184.34	Liquid	2
+363.58	187.90	Liquid	2
+373.32	188.94	Liquid	2
+373.43	188.20	Liquid	2
+373.54	191.39	Liquid	2
+373.66	188.42	Liquid	2
+373.77	190.05	Liquid	2
+373.89	191.16	Liquid	2
+373.90	189.53	Liquid	2
+374.00	188.49	Liquid	2
+374.00	189.38	Liquid	2
+374.11	187.31	Liquid	2
+374.12	190.79	Liquid	2
+374.23	187.09	Liquid	2
+374.35	188.12	Liquid	2
+385.73	192.79	Liquid	2
+386.06	195.31	Liquid	2
+386.34	195.83	Liquid	2
+386.40	198.06	Liquid	2
+386.51	194.20	Liquid	2
+397.58	203.99	Liquid	2
+397.68	202.73	Liquid	2
+397.90	203.17	Liquid	2
+398.01	205.02	Liquid	2
+398.01	206.14	Liquid	2
+398.12	206.80	Liquid	2
+398.13	204.13	Liquid	2
+398.23	203.54	Liquid	2
+398.23	206.80	Liquid	2
+398.34	203.84	Liquid	2
+398.34	204.80	Liquid	2
+398.45	206.51	Liquid	2
+398.56	205.47	Liquid	2
+398.67	202.80	Liquid	2
+398.89	205.17	Liquid	2
+409.43	211.55	Liquid	2
+409.54	212.73	Liquid	2
+409.64	212.29	Liquid	2
+409.75	210.73	Liquid	2
+409.86	211.32	Liquid	2
+409.97	213.33	Liquid	2
+410.07	209.99	Liquid	2
+410.18	210.06	Liquid	2
+410.18	212.29	Liquid	2
+410.29	211.47	Liquid	2
+410.51	210.95	Liquid	2
+410.61	212.36	Liquid	2
+410.72	213.84	Liquid	2
+410.94	212.14	Liquid	2
+414.80	213.33	Liquid	2
+414.91	211.84	Liquid	2
+415.02	212.29	Liquid	2
+415.12	213.33	Liquid	2
+415.23	216.07	Liquid	2
+415.34	214.73	Liquid	2
+415.44	213.84	Liquid	2
+415.55	215.48	Liquid	2
+415.66	214.07	Liquid	2
+415.76	214.59	Liquid	2
+415.87	216.29	Liquid	2
+415.98	217.25	Liquid	2
+416.08	216.74	Liquid	2
+416.10	156.77	Vapor	2
+416.10	218.00	Liquid	2
+416.11	156.03	Vapor	2
+416.19	155.21	Vapor	2
+416.30	153.58	Vapor	2
+416.41	154.55	Vapor	2
+416.51	153.66	Vapor	2
+416.62	153.21	Vapor	2
+417.58	153.58	Vapor	2
+417.69	154.25	Vapor	2
+417.79	153.36	Vapor	2
+417.79	217.77	Liquid	2
+417.90	154.32	Vapor	2
+418.01	153.88	Vapor	2
+418.01	219.33	Liquid	2
+418.11	218.44	Liquid	2
+418.22	220.59	Liquid	2
+418.33	218.89	Liquid	2
+418.43	219.70	Liquid	2
+418.54	220.59	Liquid	2
+421.52	155.29	Vapor	2
+421.62	219.92	Liquid	2
+421.72	224.00	Liquid	2
+421.73	154.69	Vapor	2
+421.83	155.14	Vapor	2
+421.83	218.89	Liquid	2
+421.94	154.25	Vapor	2
+421.94	221.92	Liquid	2
+422.05	154.10	Vapor	2
+422.15	218.51	Liquid	2
+422.15	223.04	Liquid	2
+422.26	219.70	Liquid	2
+422.26	220.00	Liquid	2
+422.36	221.03	Liquid	2
+422.48	221.33	Liquid	2
+422.58	217.70	Liquid	2
+422.58	222.89	Liquid	2
+422.68	220.52	Liquid	2
+422.79	219.48	Liquid	2
+422.80	219.26	Liquid	2
+422.89	217.40	Liquid	2
+423.00	216.22	Liquid	2
+423.11	218.89	Liquid	2
+424.05	219.11	Liquid	2
+424.15	223.93	Liquid	2
+424.26	222.89	Liquid	2
+424.36	225.26	Liquid	2
+424.47	219.63	Liquid	2
+424.58	226.00	Liquid	2
+424.68	218.29	Liquid	2
+424.79	221.78	Liquid	2
+424.89	223.55	Liquid	2
+425.02	218.96	Liquid	2
+425.06	222.74	Liquid	2
+425.11	225.63	Liquid	2
+425.15	222.52	Liquid	2
+425.19	159.36	Vapor	2
+425.19	223.11	Liquid	2
+425.23	158.03	Vapor	2
+425.28	155.88	Vapor	2
+425.32	154.40	Vapor	2
+425.36	156.62	Vapor	2
+425.45	155.51	Vapor	2
+425.53	154.40	Vapor	2
+425.63	154.77	Vapor	2
+425.74	153.88	Vapor	2
+426.05	154.92	Vapor	2
+426.16	154.62	Vapor	2
+426.25	155.95	Vapor	2
+426.26	154.10	Vapor	2
+426.37	154.77	Vapor	2
+426.48	153.95	Vapor	2
+426.49	156.40	Vapor	2
+426.58	154.18	Vapor	2
+426.59	154.10	Vapor	2
+426.69	154.32	Vapor	2
+426.70	154.69	Vapor	2
+426.79	155.21	Vapor	2
+426.80	155.29	Vapor	2
+426.90	154.84	Vapor	2
+426.91	154.32	Vapor	2
+426.96	155.58	Vapor	2
+427.00	154.55	Vapor	2
+433.20	157.73	Vapor	2
+433.31	158.10	Vapor	2
+433.41	156.33	Vapor	2
+433.52	158.10	Vapor	2
+433.62	157.07	Vapor	2
+433.73	155.44	Vapor	2
+433.83	155.14	Vapor	2
+434.77	226.52	Liquid	2
+434.98	229.26	Liquid	2
+435.18	226.89	Liquid	2
+435.29	227.93	Liquid	2
+435.50	225.93	Liquid	2
+435.81	229.78	Liquid	2
+435.92	228.97	Liquid	2
+436.02	228.22	Liquid	2
+436.13	226.96	Liquid	2
+436.39	228.60	Liquid	2
+436.65	229.34	Liquid	2
+436.80	227.71	Liquid	2
+437.06	228.45	Liquid	2
+437.14	229.48	Liquid	2
+439.24	158.10	Vapor	2
+439.35	157.36	Vapor	2
+439.45	158.48	Vapor	2
+439.55	159.14	Vapor	2
+439.66	158.48	Vapor	2
+439.76	157.07	Vapor	2
+439.86	156.70	Vapor	2
+439.97	158.77	Vapor	2
+449.24	157.88	Vapor	2
+449.34	158.62	Vapor	2
+449.45	159.29	Vapor	2
+449.55	159.66	Vapor	2
+449.75	158.62	Vapor	2
+449.85	159.29	Vapor	2
+449.96	160.03	Vapor	2
+460.94	163.52	Vapor	2
+461.04	162.18	Vapor	2
+461.14	161.51	Vapor	2
+461.25	163.00	Vapor	2
+461.35	160.85	Vapor	2
+461.45	161.51	Vapor	2
+471.19	164.92	Vapor	2
+471.29	165.29	Vapor	2
+471.39	163.07	Vapor	2
+471.49	163.07	Vapor	2
+471.59	164.92	Vapor	2
+471.69	163.81	Vapor	2
+Number	Source
+1	Maikowski M.: Molwärmemessungen an Dämpfen bei kleinen Drucken. Master's Thesis  (1949)
+2	Polikhronidi N.G.; Abdulagatov I.M.; Batyrova R.G.; Stepanov G.V.; Wu J.T.4; Ustuzhanin E.E.: Experimental Study of the Isochoric Heat Capacity of Diethyl Ether (DEE) in the Critical and Supercritical Regions. Int.J.Thermophys. 33 (2012) 185-219
+$$$Speed of Sound
+T [K]	Ultrasonic Velocity [m/s]	State	Reference
+273.15	1095.000	Liquid	3
+283.15	1054.000	Liquid	3
+283.15	1064.000	Liquid	5
+293.15	1006.000	Liquid	3
+293.15	1008.000	Liquid	2
+293.15	1010.000	Liquid	5
+298.15	982.000	Liquid	4
+298.15	985.000	Liquid	1
+303.15	949.000	Liquid	3
+303.15	957.000	Liquid	5
+370.25	206.540	Vapor	6
+407.15	217.450	Vapor	6
+Number	Source
+1	Willard G W.: Temperature Coefficients of Ultrasonic Velocity in Solutions. J.Acoust.Soc.Am. 19 (1947) 235-241
+2	Schaaffs W.: I.Teil: Die Schallgeschwindigkeit in organischen Flüssigkeiten. Z.Phys.Chem.(Leipzig) 194 (1944) 28-38
+3	Freyer E.B.; Hubbard J.C.; Andrews D.H.: Sonic Studies of the Physical Properties of Liquids. I. The Sonic Interferometer. The Velocity of Sound in Some Organic Liquids and Their Compressibilities. J.Am.Chem.Soc. 51 (1929) 759-770
+4	Gabrielli I.; Poiani G.: Misure di velocita degli ultrasuoni in alcune mescolanze di liquidi. Ricerca Scient. (Roma) 22 (1952) 1424-1432
+5	Syuzyaev V.I.; Berdyev A.A.: Study of ultrasound speed distribution in the systems with chloral. Izv.AN Turkmen.SSR Ser.Fiz.-Mat.Tekh.Khim.Geol.Nauk  (1957) 9-15
+6	Jatkar S.K.K.: Part V. Specific Heats of Vapours of Acetone, Benzene, Cyclohexane, n-Hexane, Methyl, Ethyl, and n-Propyl Ethers. J.Indian Inst.Sci.Sec.A Sci. 22 (1939) 19-37
+$$$Std. Heat of Combustion
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.00	-2751060.00	Vapor	1
+298.15	-2723500.00	Liquid	2
+Number	Source
+1	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277
+2	Lautenschütz L.; Oestreich D.; Seidenspinner P.; Arnold U.; Dinjus E.; Sauer J.: Physico-chemical properties and fuel characteristics of oxymethylene dialkyl ethers. Fuel 173 (2016) 129-137
+$$$Std. Heat of Formation
+T [K]	Molar Enthalpy [J/mol]	State	Reference
+298.00	-252212.00	Vapor	2
+298.00	-252128.00	Vapor	3
+298.00	-250287.00	Vapor	1
+Number	Source
+1	Pihlaja K.; Heikkila J.: Heats of combustion. Diethyl ether and 1,1-diethoxyethane.. Acta Chem.Scand. 22 (1968) 2731-2732
+2	Pilcher G.; Skinner H.A.; Pell S.A.; Pope A.E.: Measurements of heats of combustion by flame calorimetry.. Trans.Faraday Soc. 59 (1963) 316-330
+3	Domalski E.S.: Selected Values of Heats of Combustion and Heats of Formation of Organic Compounds Containing the Elements C, H, N, O, P, and S. J.Phys.Chem.Ref.Data 1 (1972) 221-277
+$$$Surface Tension
+T [K]	P [kPa]	Surface Tension [mN/m]	State	Reference
+287.15		17.8000	Liquid	3
+288.15		17.6200	Liquid	5
+291.55	101.325	17.2500	Liquid	4
+293.15		16.9600	Liquid	6
+293.15		17.0600	Liquid	5
+296.75	101.325	16.7800	Liquid	4
+298.15		16.5000	Liquid	1
+298.15		17.3000	Liquid	2
+298.15		17.4000	Liquid	2
+298.15		17.5000	Liquid	2
+298.15		17.6000	Liquid	2
+302.55	101.325	16.2500	Liquid	4
+303.15		15.9500	Liquid	5
+Number	Source
+1	Koefoed J.; Villadsen J.V.: Chloroform-Carbon Tetrachloride, Benyene-Diphenylmethane and Heptane-Hexadecane. Acta Chem.Scand. 12 (1958) 1124-1135
+2	Andreas J.M.; Hauser E.A.; Tucker W.B.: Boundary tension by pendant drops.. J.Phys.Chem. 42 (1938) 1001-1019
+3	Green S.J.; Olden M.J.F.: The insoluble matter of coal tar. VII. Dilution of tars.. J.Appl.Chem. 1 (1951) 433-443
+4	Vogel A.I.: Part XII. Ethers and Acetals.. J.Chem.Soc.London  (1948) 616-624
+5	Hennaut-Roland L.; Lek M.: Methods and equipment used at the Bureau of Physico-Chem. Standards.IV. Surface tension of a series of org. substances.. Bull.Soc.Chim.Belg. 40 (1931) 177-188
+6	Richards T.W.; Carver E.K.: A critical study of the capillary rise method of determining surface tension, with data for water, benzene, toluene, chloroform, carbon tetrachloride, ether and dimethyl aniline.. J.Am.Chem.Soc. 43 (1921) 827-847
+$$$Thermal Conductivity
+T [K]	P [kPa]	Thermal Conductivity [W/(m*K)]	State	Reference
+273.15		0.1382	Liquid	4
+273.15		0.1390	Liquid	4
+293.15		0.1256	Liquid	4
+293.15		0.1277	Liquid	4
+293.15		0.1285	Liquid	4
+298.15		0.1306	Liquid	3
+303.15		0.1239	Liquid	4
+303.15		0.1243	Liquid	4
+318.80		0.01609	Vapor	1
+318.80		0.0163	Vapor	1
+333.35	101.000	0.01809	Vapor	2
+348.15		0.01947	Vapor	5
+352.25	101.000	0.01995	Vapor	2
+364.15	26.660	0.0214	Vapor	6
+369.90		0.02224	Vapor	1
+369.90		0.0227	Vapor	1
+373.85	101.000	0.0222	Vapor	2
+383.25		0.02345	Vapor	5
+399.10		0.02483	Vapor	1
+399.10		0.0252	Vapor	1
+399.15	101.000	0.02516	Vapor	2
+422.15	101.000	0.02784	Vapor	2
+433.80		0.02927	Vapor	1
+433.80		0.0297	Vapor	1
+456.80		0.03223	Vapor	1
+456.80		0.0325	Vapor	1
+482.90		0.03541	Vapor	1
+507.20		0.03865	Vapor	1
+507.20		0.0394	Vapor	1
+529.10		0.04421	Vapor	1
+531.30		0.0455	Vapor	1
+545.90		0.0497	Vapor	1
+545.90		0.04971	Vapor	1
+549.60		0.0495	Vapor	1
+559.50		0.0520	Vapor	1
+572.30		0.05931	Vapor	1
+572.30		0.0601	Vapor	1
+Number	Source
+1	Madzhidov Kh.: Experimentelle Untersuchung der Wärmeleitfähigkeitskoeffizient von Diethyläther bei verschiedenen Temperaturen und Drücken. Izv.Vyssh.Uchebn.Zaved.Neft Gaz  (1983) 56-60
+2	Vines R.G.; Bennet L.A.: The Thermal Conductivity of Organic Vapors. The Relationship Betweenthermal Conductivity and Viscosity, and the Significance of the Eucken Factor.. J.Chem.Phys. 22 (1954) 360-366
+3	Spencer A.N.; Todd M.C.J.: Viscosity and thermal conductivity of liquid boron trifluoride.. Br.J.Appl.Phys. 11 (1960) 60-64
+4	Mason H.L.: Thermal Conductivity of some Industrial Liquids from 0 to 100 C.. Trans. ASME 76 (1954) 817-821
+5	Vines R.G.: The Influence of Molecular Interaction.. Aust.J.Chem. 6 (1953) 1-26
+6	Schluender E.U.: Measurement of Thermal Conductivity of Gase/Vapour Mixtures.. Chem.Ing.Tech. CIT 36 (1964) 115-125
+$$$Transition Temperature
+T [K]	P [kPa]	State	Reference
+92.55		Glass > Crystal	2
+149.85		Crystal 2 > Crystal 1	1
+Number	Source
+1	Timmermans J.; Van Der Horst H.; Kamerlingh Onnes H.: Les points de congélation de liquides organiques purs comme repères thermométriques aux températures inférieures à 0°C. C.R.Hebd.Seanc.Acad.Sci.Paris 174 (1922) 365-367
+2	Lesikar A.V.: Effect of Association Complexes on the Glass Transition in Organic Halide Mixtures. J.Phys.Chem. 80 (1976) 1005-1011
+$$$Vapor Pressure
+T [K]	P [kPa]	State	Reference
+171.85	0.007733	Vapor-Liquid	3
+176.45	0.0128	Vapor-Liquid	3
+177.95	0.015732	Vapor-Liquid	3
+179.75	0.020	Vapor-Liquid	3
+185.05	0.036	Vapor-Liquid	3
+189.65	0.05906	Vapor-Liquid	3
+192.15	0.07786	Vapor-Liquid	3
+194.65	0.1016	Vapor-Liquid	3
+196.95	0.12652	Vapor-Liquid	3
+208.15	0.26664	Vapor-Liquid	1
+212.35	0.5266	Vapor-Liquid	2
+217.40	0.7906	Vapor-Liquid	2
+219.15	0.6666	Vapor-Liquid	1
+222.28	1.1692	Vapor-Liquid	2
+227.15	1.6825	Vapor-Liquid	2
+229.15	1.2666	Vapor-Liquid	1
+232.03	2.3705	Vapor-Liquid	2
+236.92	3.3024	Vapor-Liquid	2
+239.15	2.800	Vapor-Liquid	1
+241.82	4.537	Vapor-Liquid	2
+246.73	6.108	Vapor-Liquid	2
+247.15	4.933	Vapor-Liquid	1
+251.65	8.174	Vapor-Liquid	2
+254.15	7.333	Vapor-Liquid	1
+256.57	10.755	Vapor-Liquid	2
+259.15	10.266	Vapor-Liquid	1
+261.51	13.971	Vapor-Liquid	2
+265.15	15.199	Vapor-Liquid	1
+266.45	17.966	Vapor-Liquid	2
+273.15	25.331	Vapor-Liquid	1
+273.16	24.815	Vapor-Liquid	2
+278.13	31.161	Vapor-Liquid	2
+283.09	38.746	Vapor-Liquid	2
+288.05	47.749	Vapor-Liquid	2
+293.02	58.355	Vapor-Liquid	2
+298.15	71.487	Vapor-Liquid	5
+307.85	101.325	Vapor-Liquid	6
+373.15	666.718	Vapor-Liquid	4
+383.15	846.064	Vapor-Liquid	4
+393.15	1053.780	Vapor-Liquid	4
+403.15	1287.840	Vapor-Liquid	4
+413.15	1562.430	Vapor-Liquid	4
+423.15	1888.700	Vapor-Liquid	4
+433.15	2263.600	Vapor-Liquid	4
+443.15	2715.510	Vapor-Liquid	4
+453.15	3232.270	Vapor-Liquid	4
+463.15	3738.890	Vapor-Liquid	4
+Number	Source
+1	Emeleus H.J.: The Light Emission from the Phosphorescent Flames of Ether, Acetaldehyde, Propaldehyde, and Hexane. J.Chem.Soc.London  (1929) 1733-1739
+2	Taylor R.S.; Smith L.B.: The Vapor Pressures, Densities and some Derived Quantities for Ether at Low Temperatures. J.Am.Chem.Soc. 44 (1922) 2450-2463
+3	Muendel C.F.: Experimentelle Bestimmung und theoretische Berechnung kleiner Dampfdrucke bei tiefen Temperaturen. Z.Phys.Chem.(Leipzig) 85 (1913) 435-465
+4	Sajotschewsky W.: Dampfspannungen gesaettigter Daempfe bei hohen Temperaturen. Ann.Phys./Beibl. 3 (1879) 741-743
+5	Wong K.F.; Eckert C.A.: Vapor-Liquid Equilibria of 1,3-Butadiene Systems. J.Chem.Eng.Data 14 (1969) 432-436
+6	Satyanarayana M.; Rao M.N.: Vapor-Liquid Equilibria of Non-Ideal Solutions at Atmospheric and Super-Atmospheric Pressures-Benzene-Cyclohexane-Diethyl Ether System. Trans.Indian Inst.Chem.Engrs. 13 (1961) 4-12
+$$$Virial Coefficients
+T [K]	Second Virial Coefficient [cm3/mol]	State	Reference
+295.15	-1226.0000	Vapor	5
+298.15	-1165.0000	Vapor	4
+302.79	-1116.0000	Vapor	2
+308.15	-1084.0000	Vapor	5
+322.75	-923.0000	Vapor	2
+323.15	-960.0000	Vapor	1
+323.15	-950.0000	Vapor	5
+323.25	-995.0000	Vapor	4
+333.15	-895.0000	Vapor	3
+333.15	-850.0000	Vapor	1
+339.15	-790.0000	Vapor	1
+343.15	-760.0000	Vapor	1
+344.97	-757.0000	Vapor	2
+348.15	-770.0000	Vapor	4
+353.15	-730.0000	Vapor	1
+353.15	-677.0000	Vapor	3
+358.15	-720.0000	Vapor	1
+363.26	-654.0000	Vapor	2
+368.15	-630.0000	Vapor	4
+373.15	-525.0000	Vapor	3
+Number	Source
+1	Zaalishvili Sh.D.; Kolysko L.E.: I. Das System Diethylester-Aceton. Zh.Fiz.Khim. 34 (1960) 2596-2600
+2	McElroy P.J.; Robertson G.A.; Kolahi S.S.: Excess Second Virial Coefficients and Mixture Critical Temperatures of Diethyl Ether and Methyl Acetate. J.Chem.Eng.Data 35 (1990) 427-429
+3	Knoebel D.H.; Edmister W.C.: Second Virial Coefficients of Binary Mixtures of Benzene with Methanol, Ethanol, Acetone, and Diethyl Ether.. J.Chem.Eng.Data 13 (1968) 312-317
+4	Stryjek R.; Kreglewski A.: The second virial coefficients of gaseous mixtures. I. The diethyl ether - sulphur dioxide systems.. Bull.Acad.Pol.Sci.Ser.Sci.Chim. 13 (1965) 201-207
+5	Bottomley G.A.; Reeves C.G.: The virial coefficients of carbon disulphide, diethyl ether, and n-hexane.. J.Chem.Soc.London 126 (1958) 3794-3799

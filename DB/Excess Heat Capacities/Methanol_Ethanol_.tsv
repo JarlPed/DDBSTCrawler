@@ -1,21 +1,21 @@
-$$$Excess Heat Capacity Data Set 634	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--0.1400	0.09999	
--0.2610	0.19998	
--0.3160	0.29997	
--0.3460	0.39997	
--0.3430	0.49997	
--0.3120	0.59997	
--0.2530	0.69997	
--0.1950	0.79951	
--0.1550	0.84998	
--0.1130	0.89999	
--0.0680	0.94999	
-Source	
-Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326	
-Source	
-Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326	
+$$$Excess Heat Capacity Data Set 634
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	C2H6O	46.069	64-17-5	Ethanol
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-0.1400	0.09999
+-0.2610	0.19998
+-0.3160	0.29997
+-0.3460	0.39997
+-0.3430	0.49997
+-0.3120	0.59997
+-0.2530	0.69997
+-0.1950	0.79951
+-0.1550	0.84998
+-0.1130	0.89999
+-0.0680	0.94999
+Source
+Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326
+Source
+Ogawa H.; Murakami S.: Excess Volumes, Isentropic Compressions, and Isobaric Heat Capacities for Methanol Mixed with Other Alkanols at 25 °C. J.Solution Chem. 16 (1987) 315-326

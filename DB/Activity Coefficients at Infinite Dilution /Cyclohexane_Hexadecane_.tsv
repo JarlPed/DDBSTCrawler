@@ -1,13 +1,13 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C16H34	226.446	544-76-3	Hexadecane	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-293.15	0.8100	GLCR	1	
-293.15	0.8110	GLCN	2	
-293.15	0.8210	GLCR	3	
-Short Term	Explanation	
-GLCN	GLC (not specified)	
-GLCR	GLC (with gas phase correction)	
-1	Chien C.-F.; Kopecni M.M.; Laub R.J.; Smith C.A.: Solute Liquid-Gas Activity and Partition Coefficients with Mixtures of n-Hexadecane and n-Octadecane with N,N-Dibutyl-2-ethylhexylamide Solvents. J.Phys.Chem. 85 (1981) 1864-1871	
-2	Iwai Y.; Yamashita M.; Kohashi K.; Arai Y.: Measurement and Prediction of Infinite Dilution Activity Coefficients for C6 hydrocarbons in Heavy Paraffinic Hydrocarbons. Kagaku Kogaku Ronbunshu 14 (1988) 706-711	
-3	Castells R.C.; Arancibia E.L.; Nardillo A.M.; Castells C.: n-Hexane, n-heptane, benzene, and toluene as solutes each at infinite dilution in n-hexadecane, in n-octadecane, and in n-eicosane. J.Chem.Thermodyn. 22 (1990) 969-977	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C16H34	226.446	544-76-3	Hexadecane
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+293.15	0.8100	GLCR	1
+293.15	0.8110	GLCN	2
+293.15	0.8210	GLCR	3
+Short Term	Explanation
+GLCN	GLC (not specified)
+GLCR	GLC (with gas phase correction)
+1	Chien C.-F.; Kopecni M.M.; Laub R.J.; Smith C.A.: Solute Liquid-Gas Activity and Partition Coefficients with Mixtures of n-Hexadecane and n-Octadecane with N,N-Dibutyl-2-ethylhexylamide Solvents. J.Phys.Chem. 85 (1981) 1864-1871
+2	Iwai Y.; Yamashita M.; Kohashi K.; Arai Y.: Measurement and Prediction of Infinite Dilution Activity Coefficients for C6 hydrocarbons in Heavy Paraffinic Hydrocarbons. Kagaku Kogaku Ronbunshu 14 (1988) 706-711
+3	Castells R.C.; Arancibia E.L.; Nardillo A.M.; Castells C.: n-Hexane, n-heptane, benzene, and toluene as solutes each at infinite dilution in n-hexadecane, in n-octadecane, and in n-eicosane. J.Chem.Thermodyn. 22 (1990) 969-977

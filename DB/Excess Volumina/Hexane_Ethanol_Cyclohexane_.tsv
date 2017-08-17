@@ -1,23 +1,23 @@
-$$$Excess Volume Data Set 5018	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
-0.42294	0.10507	0.74556	
-0.4943	0.13933	0.57677	
-0.5360	0.14674	0.34253	
-0.3674	0.26173	0.57766	
-0.4338	0.26267	0.47650	
-0.5011	0.29720	0.34067	
-0.4051	0.42689	0.39429	
-0.4350	0.19408	0.57116	
-0.4996	0.20538	0.49564	
-0.2283	0.04047	0.88779	
-0.25116	0.09555	0.15116	
-0.23676	0.60532	0.30546	
-Source	
-Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340	
-Source	
-Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340	
+$$$Excess Volume Data Set 5018
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C2H6O	46.069	64-17-5	Ethanol
+3	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]
+0.42294	0.10507	0.74556
+0.4943	0.13933	0.57677
+0.5360	0.14674	0.34253
+0.3674	0.26173	0.57766
+0.4338	0.26267	0.47650
+0.5011	0.29720	0.34067
+0.4051	0.42689	0.39429
+0.4350	0.19408	0.57116
+0.4996	0.20538	0.49564
+0.2283	0.04047	0.88779
+0.25116	0.09555	0.15116
+0.23676	0.60532	0.30546
+Source
+Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340
+Source
+Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340

@@ -1,29 +1,29 @@
-$$$Enthalpy of Mixing Data Set 11686	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	363.150	K	
-Pressure	10.660	bar	
-hE [J/mol]	x1 [mol/mol]	
--127.685	0.04250	
--246.681	0.08360	
--428.282	0.16150	
--562.616	0.23420	
--640.542	0.30230	
--684.446	0.36610	
--700.743	0.42620	
--689.634	0.48270	
--665.384	0.53600	
--593.277	0.63410	
--433.272	0.76290	
--372.441	0.80170	
--310.128	0.83870	
--248.674	0.87390	
--188.033	0.90760	
--127.196	0.93970	
--63.822	0.97050	
--31.262	0.98540	
-Source	
-de Haan A.B.: . Unpublished Data  (1996) 0	
-Source	
-de Haan A.B.: . Unpublished Data  (1996) 0	
+$$$Enthalpy of Mixing Data Set 11686
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	363.150	K
+Pressure	10.660	bar
+hE [J/mol]	x1 [mol/mol]
+-127.685	0.04250
+-246.681	0.08360
+-428.282	0.16150
+-562.616	0.23420
+-640.542	0.30230
+-684.446	0.36610
+-700.743	0.42620
+-689.634	0.48270
+-665.384	0.53600
+-593.277	0.63410
+-433.272	0.76290
+-372.441	0.80170
+-310.128	0.83870
+-248.674	0.87390
+-188.033	0.90760
+-127.196	0.93970
+-63.822	0.97050
+-31.262	0.98540
+Source
+de Haan A.B.: . Unpublished Data  (1996) 0
+Source
+de Haan A.B.: . Unpublished Data  (1996) 0

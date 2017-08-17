@@ -1,50 +1,50 @@
-$$$Vapor-Liquid Equilibrium Data Set 6867	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	
-13.011	0.00000	
-21.732	0.10400	
-25.198	0.14900	
-29.064	0.20900	
-38.264	0.35700	
-39.997	0.38700	
-40.930	0.40100	
-47.063	0.51900	
-48.529	0.53900	
-51.996	0.61500	
-55.062	0.67600	
-58.129	0.73300	
-60.262	0.78000	
-60.528	0.78400	
-65.195	0.87900	
-71.447	1.00000	
-Source	
-Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016	
-$$$Vapor-Liquid Equilibrium Data Set 12876	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-Temperature	298.15	K	
-x1 [mol/mol]	y1 [mol/mol]	
-0.01459	0.11370	
-0.04550	0.27680	
-0.10700	0.47150	
-0.17030	0.58840	
-0.19610	0.62260	
-0.26010	0.69360	
-0.32740	0.74500	
-0.42860	0.80680	
-0.53670	0.85570	
-0.62230	0.88640	
-0.69920	0.91300	
-0.75350	0.92870	
-0.82380	0.95060	
-0.90743	0.97410	
-0.95719	0.98760	
-Source	
-Lepori L.; Matteoli E.: 3. Excess Gibbs Free Energies of Cylohexane + a Linear Ether. Fluid Phase Equilib. 42 (1988) 229-240	
-Source	
-Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016	
-Lepori L.; Matteoli E.: 3. Excess Gibbs Free Energies of Cylohexane + a Linear Ether. Fluid Phase Equilib. 42 (1988) 229-240	
+$$$Vapor-Liquid Equilibrium Data Set 6867
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]
+13.011	0.00000
+21.732	0.10400
+25.198	0.14900
+29.064	0.20900
+38.264	0.35700
+39.997	0.38700
+40.930	0.40100
+47.063	0.51900
+48.529	0.53900
+51.996	0.61500
+55.062	0.67600
+58.129	0.73300
+60.262	0.78000
+60.528	0.78400
+65.195	0.87900
+71.447	1.00000
+Source
+Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016
+$$$Vapor-Liquid Equilibrium Data Set 12876
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	C6H12	84.161	110-82-7	Cyclohexane
+Temperature	298.15	K
+x1 [mol/mol]	y1 [mol/mol]
+0.01459	0.11370
+0.04550	0.27680
+0.10700	0.47150
+0.17030	0.58840
+0.19610	0.62260
+0.26010	0.69360
+0.32740	0.74500
+0.42860	0.80680
+0.53670	0.85570
+0.62230	0.88640
+0.69920	0.91300
+0.75350	0.92870
+0.82380	0.95060
+0.90743	0.97410
+0.95719	0.98760
+Source
+Lepori L.; Matteoli E.: 3. Excess Gibbs Free Energies of Cylohexane + a Linear Ether. Fluid Phase Equilib. 42 (1988) 229-240
+Source
+Arm H.; Bankay D.; Strub K.; Waelti M.: Dampfdrücke, thermodynamische Mischungsfunktionen und Brechungsindices des binären Systems Cyclohexan-Diäthyläther bei 25°. Helv.Chim.Acta 50 (1967) 1013-1016
+Lepori L.; Matteoli E.: 3. Excess Gibbs Free Energies of Cylohexane + a Linear Ether. Fluid Phase Equilib. 42 (1988) 229-240

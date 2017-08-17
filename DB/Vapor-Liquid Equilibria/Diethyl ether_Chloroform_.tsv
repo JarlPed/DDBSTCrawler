@@ -1,96 +1,96 @@
-$$$Vapor-Liquid Equilibrium Data Set 1332	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	CHCl3	119.377	67-66-3	Chloroform	
-Temperature	290.55	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-19.065	0.00000	0.00000	
-19.065	0.10000	0.09800	
-19.065	0.20000	0.22400	
-20.132	0.30000	0.39700	
-22.132	0.40000	0.57200	
-25.731	0.50000	0.74100	
-30.664	0.60000	0.85200	
-36.397	0.70000	0.91900	
-42.263	0.80000	0.95900	
-47.996	0.90000	0.98300	
-50.529	0.95000	0.99240	
-52.982	1.00000	1.00000	
-Source	
-Guglielmo G.: Sulle Tensioni Parziali e le Pressioni Osmotiche delle Miscele di Liquidi Volatili. Rendiconti/Acad.Naz.Lincei Cl.Sci.Fis.Mat.Natur. 1 (1892) 294-298	
-$$$Vapor-Liquid Equilibrium Data Set 2727	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	CHCl3	119.377	67-66-3	Chloroform	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-26.398	0.00000	0.00000	
-26.331	0.01630	0.01534	
-26.305	0.03269	0.03172	
-26.278	0.04339	0.04241	
-26.265	0.05221	0.05123	
-26.238	0.07199	0.07100	
-26.211	0.09102	0.09203	
-26.198	0.10214	0.10621	
-26.211	0.11232	0.11743	
-26.265	0.13078	0.14216	
-26.265	0.13181	0.14216	
-26.318	0.15255	0.16931	
-26.371	0.16301	0.18619	
-26.438	0.17984	0.20854	
-26.491	0.18301	0.21068	
-26.504	0.18407	0.21389	
-26.944	0.23648	0.29312	
-27.131	0.25163	0.31732	
-27.704	0.28763	0.37825	
-28.438	0.31953	0.43614	
-28.731	0.33168	0.45952	
-30.011	0.37492	0.53610	
-30.677	0.39160	0.56148	
-32.024	0.42946	0.62724	
-32.611	0.44171	0.64465	
-39.130	0.55708	0.78732	
-39.237	0.55928	0.79262	
-41.410	0.58348	0.82647	
-43.503	0.61961	0.85179	
-43.543	0.61961	0.85179	
-43.623	0.62397	0.85495	
-44.663	0.63269	0.86654	
-50.436	0.71052	0.91709	
-50.556	0.71589	0.91920	
-54.502	0.75117	0.93924	
-54.529	0.75437	0.94135	
-54.929	0.76502	0.94241	
-56.182	0.78202	0.94874	
-56.209	0.78202	0.95191	
-57.489	0.80216	0.95826	
-57.502	0.80269	0.95932	
-59.422	0.82542	0.96461	
-62.208	0.86022	0.97522	
-63.888	0.88760	0.98053	
-71.594	1.00000	1.00000	
-Source	
-Becker F.; Kiefer M.; Rhensius P.; Schaefer H.D.: Interpretation von Dampfdruckdiagrammen binärer flüssiger Mischungen mit Hilfe von Gleichgewichtsmodellen. Z.Phys.Chem.(München) 92 (1974) 169-192	
-$$$Vapor-Liquid Equilibrium Data Set 3493	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	60-29-7	Diethyl ether	
-2	CHCl3	119.377	67-66-3	Chloroform	
-Temperature	273.15	K	
-P [kPa]	x1 [mol/mol]	
-8.133	0.00000	
-9.333	0.10000	
-10.532	0.20000	
-11.866	0.30000	
-13.332	0.40000	
-14.532	0.50000	
-16.265	0.60000	
-18.265	0.70000	
-20.132	0.80000	
-22.398	0.90000	
-24.971	1.00000	
-Source	
-Schmidt G.C.: Binäre Gemische. Z.Phys.Chem.(Leipzig) 121 (1926) 221-253	
-Source	
-Becker F.; Kiefer M.; Rhensius P.; Schaefer H.D.: Interpretation von Dampfdruckdiagrammen binärer flüssiger Mischungen mit Hilfe von Gleichgewichtsmodellen. Z.Phys.Chem.(München) 92 (1974) 169-192	
-Guglielmo G.: Sulle Tensioni Parziali e le Pressioni Osmotiche delle Miscele di Liquidi Volatili. Rendiconti/Acad.Naz.Lincei Cl.Sci.Fis.Mat.Natur. 1 (1892) 294-298	
-Schmidt G.C.: Binäre Gemische. Z.Phys.Chem.(Leipzig) 121 (1926) 221-253	
+$$$Vapor-Liquid Equilibrium Data Set 1332
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	CHCl3	119.377	67-66-3	Chloroform
+Temperature	290.55	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+19.065	0.000000.00000
+19.065	0.10000	0.09800
+19.065	0.20000	0.22400
+20.132	0.30000	0.39700
+22.132	0.40000	0.57200
+25.731	0.50000	0.74100
+30.664	0.60000	0.85200
+36.397	0.70000	0.91900
+42.263	0.80000	0.95900
+47.996	0.90000	0.98300
+50.529	0.95000	0.99240
+52.982	1.000001.00000
+Source
+Guglielmo G.: Sulle Tensioni Parziali e le Pressioni Osmotiche delle Miscele di Liquidi Volatili. Rendiconti/Acad.Naz.Lincei Cl.Sci.Fis.Mat.Natur. 1 (1892) 294-298
+$$$Vapor-Liquid Equilibrium Data Set 2727
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	CHCl3	119.377	67-66-3	Chloroform
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+26.398	0.000000.00000
+26.331	0.01630	0.01534
+26.305	0.03269	0.03172
+26.278	0.04339	0.04241
+26.265	0.05221	0.05123
+26.238	0.07199	0.07100
+26.211	0.09102	0.09203
+26.198	0.10214	0.10621
+26.211	0.11232	0.11743
+26.265	0.13078	0.14216
+26.265	0.13181	0.14216
+26.318	0.15255	0.16931
+26.371	0.16301	0.18619
+26.438	0.17984	0.20854
+26.491	0.18301	0.21068
+26.504	0.18407	0.21389
+26.944	0.23648	0.29312
+27.131	0.25163	0.31732
+27.704	0.28763	0.37825
+28.438	0.31953	0.43614
+28.731	0.33168	0.45952
+30.011	0.37492	0.53610
+30.677	0.39160	0.56148
+32.024	0.42946	0.62724
+32.611	0.44171	0.64465
+39.130	0.55708	0.78732
+39.237	0.55928	0.79262
+41.410	0.58348	0.82647
+43.503	0.61961	0.85179
+43.543	0.61961	0.85179
+43.623	0.62397	0.85495
+44.663	0.63269	0.86654
+50.436	0.71052	0.91709
+50.556	0.71589	0.91920
+54.502	0.75117	0.93924
+54.529	0.75437	0.94135
+54.929	0.76502	0.94241
+56.182	0.78202	0.94874
+56.209	0.78202	0.95191
+57.489	0.80216	0.95826
+57.502	0.80269	0.95932
+59.422	0.82542	0.96461
+62.208	0.86022	0.97522
+63.888	0.88760	0.98053
+71.594	1.000001.00000
+Source
+Becker F.; Kiefer M.; Rhensius P.; Schaefer H.D.: Interpretation von Dampfdruckdiagrammen binärer flüssiger Mischungen mit Hilfe von Gleichgewichtsmodellen. Z.Phys.Chem.(München) 92 (1974) 169-192
+$$$Vapor-Liquid Equilibrium Data Set 3493
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	60-29-7	Diethyl ether
+2	CHCl3	119.377	67-66-3	Chloroform
+Temperature	273.15	K
+P [kPa]	x1 [mol/mol]
+8.133	0.00000
+9.333	0.10000
+10.532	0.20000
+11.866	0.30000
+13.332	0.40000
+14.532	0.50000
+16.265	0.60000
+18.265	0.70000
+20.132	0.80000
+22.398	0.90000
+24.971	1.00000
+Source
+Schmidt G.C.: Binäre Gemische. Z.Phys.Chem.(Leipzig) 121 (1926) 221-253
+Source
+Becker F.; Kiefer M.; Rhensius P.; Schaefer H.D.: Interpretation von Dampfdruckdiagrammen binärer flüssiger Mischungen mit Hilfe von Gleichgewichtsmodellen. Z.Phys.Chem.(München) 92 (1974) 169-192
+Guglielmo G.: Sulle Tensioni Parziali e le Pressioni Osmotiche delle Miscele di Liquidi Volatili. Rendiconti/Acad.Naz.Lincei Cl.Sci.Fis.Mat.Natur. 1 (1892) 294-298
+Schmidt G.C.: Binäre Gemische. Z.Phys.Chem.(Leipzig) 121 (1926) 221-253

@@ -1,73 +1,73 @@
-$$$Solid-Liquid Equilibrium Data Set 12462	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClK	74.551	7447-40-7	Potassium chloride	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-272.94	0.001139800064	
-272.76	0.002067320049	
-272.34	0.004310510121	
-271.55	0.008663	
-269.85	0.017567	
-269.85	0.017567	
-269.75	0.018214	
-269.75	0.018214	
-267.65	0.029317	
-267.65	0.029317	
-267.65	0.029317	
-266.47	0.035595	
-266.47	0.035595	
-265.30	0.04167	
-265.30	0.04167	
-264.27	0.04726	
-263.95	0.04726	
-263.38	0.05135	
-263.35	0.05135	
-262.98	0.05344	
-263.35	0.05344	
-263.35	0.05697	
-Source	
-Fialkov Ya.A.; Chernogorenko V.B.: Über die Hydratform von Potassiumchlorid. Dokl.Akad.Nauk SSSR 102 (1955) 759-762	
-$$$Solid-Liquid Equilibrium Data Set 12463	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClK	74.551	7447-40-7	Potassium chloride	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xS1 [mol/mol]	
-262.39	0.001139800064	
-262.39	0.002067320049	
-262.39	0.004310510121	
-262.39	0.008663	
-262.39	0.017567	
-262.39	0.017567	
-262.39	0.018214	
-262.39	0.029317	
-262.39	0.029317	
-262.39	0.029317	
-262.39	0.035595	
-262.39	0.035595	
-262.39	0.04167	
-262.39	0.04167	
-262.39	0.04726	
-262.39	0.04726	
-262.39	0.05135	
-262.39	0.05135	
-262.39	0.05344	
-262.39	0.05697	
-Source	
-Fialkov Ya.A.; Chernogorenko V.B.: Über die Hydratform von Potassiumchlorid. Dokl.Akad.Nauk SSSR 102 (1955) 759-762	
-$$$Solid-Liquid Equilibrium Data Set 12464	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClK	74.551	7447-40-7	Potassium chloride	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xS1 [mol/mol]	
-263.35	0.017567	
-263.35	0.018214	
-263.35	0.029317	
-263.15	0.029317	
-263.35	0.035595	
-263.35	0.04167	
-263.35	0.04726	
-262.95	0.05135	
-263.35	0.05344	
-263.35	0.05697	
-Source	
-Fialkov Ya.A.; Chernogorenko V.B.: Über die Hydratform von Potassiumchlorid. Dokl.Akad.Nauk SSSR 102 (1955) 759-762	
+$$$Solid-Liquid Equilibrium Data Set 12462
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClK	74.551	7447-40-7	Potassium chloride
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+272.94	0.001139800064
+272.76	0.002067320049
+272.34	0.004310510121
+271.55	0.008663
+269.85	0.017567
+269.85	0.017567
+269.75	0.018214
+269.75	0.018214
+267.65	0.029317
+267.65	0.029317
+267.65	0.029317
+266.47	0.035595
+266.47	0.035595
+265.30	0.04167
+265.30	0.04167
+264.27	0.04726
+263.95	0.04726
+263.38	0.05135
+263.35	0.05135
+262.98	0.05344
+263.35	0.05344
+263.35	0.05697
+Source
+Fialkov Ya.A.; Chernogorenko V.B.: Über die Hydratform von Potassiumchlorid. Dokl.Akad.Nauk SSSR 102 (1955) 759-762
+$$$Solid-Liquid Equilibrium Data Set 12463
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClK	74.551	7447-40-7	Potassium chloride
+2	H2O	18.015	7732-18-5	Water
+T [K]	xS1 [mol/mol]
+262.39	0.001139800064
+262.39	0.002067320049
+262.39	0.004310510121
+262.39	0.008663
+262.39	0.017567
+262.39	0.017567
+262.39	0.018214
+262.39	0.029317
+262.39	0.029317
+262.39	0.029317
+262.39	0.035595
+262.39	0.035595
+262.39	0.04167
+262.39	0.04167
+262.39	0.04726
+262.39	0.04726
+262.39	0.05135
+262.39	0.05135
+262.39	0.05344
+262.39	0.05697
+Source
+Fialkov Ya.A.; Chernogorenko V.B.: Über die Hydratform von Potassiumchlorid. Dokl.Akad.Nauk SSSR 102 (1955) 759-762
+$$$Solid-Liquid Equilibrium Data Set 12464
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClK	74.551	7447-40-7	Potassium chloride
+2	H2O	18.015	7732-18-5	Water
+T [K]	xS1 [mol/mol]
+263.35	0.017567
+263.35	0.018214
+263.35	0.029317
+263.15	0.029317
+263.35	0.035595
+263.35	0.04167
+263.35	0.04726
+262.95	0.05135
+263.35	0.05344
+263.35	0.05697
+Source
+Fialkov Ya.A.; Chernogorenko V.B.: Über die Hydratform von Potassiumchlorid. Dokl.Akad.Nauk SSSR 102 (1955) 759-762

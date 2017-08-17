@@ -1,61 +1,61 @@
-$$$Vapor-Liquid Equilibrium Data Set 15343	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	348.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-3.541	0.08200	0.99510	
-7.602	0.22100	0.99800	
-7.797	0.23000	0.99810	
-10.066	0.37800	0.99860	
-10.951	0.49900	0.99860	
-11.299	0.60600	0.99860	
-11.482	0.72900	0.99890	
-11.740	0.84600	0.99870	
-Source	
-Yu Y.-X.; Gao G.-H.; Tong J.S.: Experimental Determination of Vapour-Liquid Equilibria of Sulfolane-Aromatic Hydrocarbon Systems and their Correlation. Proceedings / International Symposium on Thermodynamics in Chemical Engineering and Industry (ISTCEI)  (1994) 420-425	
-$$$Vapor-Liquid Equilibrium Data Set 22711	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	
-560.47	0.00000	
-452.45	0.09790	
-445.76	0.12940	
-443.03	0.14500	
-437.38	0.16780	
-434.24	0.19790	
-431.73	0.21460	
-429.13	0.24340	
-427.00	0.25390	
-424.43	0.29320	
-422.96	0.32010	
-421.59	0.38790	
-420.30	0.43810	
-418.45	0.53820	
-415.12	0.80420	
-412.97	0.94590	
-411.60	1.00000	
-Source	
-Yu Y.-X.; He M.-Y.; Gao G.-H.; Li Z.-C.: Boiling points for five binary systems of sulfolane with aromatic hydrocarbons at 101.33 kPa. Fluid Phase Equilib. 190 (2001) 61-71	
-$$$Vapor-Liquid Equilibrium Data Set 34188	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-Temperature	348.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-3.541	0.08200	0.99510	
-7.602	0.22100	0.99800	
-7.795	0.23000	0.99810	
-10.066	0.37800	0.99860	
-10.951	0.49900	0.99860	
-11.299	0.60600	0.99860	
-11.482	0.72900	0.99860	
-11.740	0.84600	0.99870	
-Source	
-Tong J.; Gao G.; He J.; Liang Y.: Determination and Correlation of Vapor-Liquid Equilibria for Sulfolane-Carbon-8 Aromatic Hydrocarbon Systems. Tianranqi-Huagong 20 (1995) 54-58	
-Source	
-Yu Y.-X.; Gao G.-H.; Tong J.S.: Experimental Determination of Vapour-Liquid Equilibria of Sulfolane-Aromatic Hydrocarbon Systems and their Correlation. Proceedings / International Symposium on Thermodynamics in Chemical Engineering and Industry (ISTCEI)  (1994) 420-425	
-Yu Y.-X.; He M.-Y.; Gao G.-H.; Li Z.-C.: Boiling points for five binary systems of sulfolane with aromatic hydrocarbons at 101.33 kPa. Fluid Phase Equilib. 190 (2001) 61-71	
-Tong J.; Gao G.; He J.; Liang Y.: Determination and Correlation of Vapor-Liquid Equilibria for Sulfolane-Carbon-8 Aromatic Hydrocarbon Systems. Tianranqi-Huagong 20 (1995) 54-58	
+$$$Vapor-Liquid Equilibrium Data Set 15343
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	348.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+3.541	0.08200	0.99510
+7.602	0.22100	0.99800
+7.797	0.23000	0.99810
+10.066	0.37800	0.99860
+10.951	0.49900	0.99860
+11.299	0.60600	0.99860
+11.482	0.72900	0.99890
+11.740	0.84600	0.99870
+Source
+Yu Y.-X.; Gao G.-H.; Tong J.S.: Experimental Determination of Vapour-Liquid Equilibria of Sulfolane-Aromatic Hydrocarbon Systems and their Correlation. Proceedings / International Symposium on Thermodynamics in Chemical Engineering and Industry (ISTCEI)  (1994) 420-425
+$$$Vapor-Liquid Equilibrium Data Set 22711
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]
+560.47	0.00000
+452.45	0.09790
+445.76	0.12940
+443.03	0.14500
+437.38	0.16780
+434.24	0.19790
+431.73	0.21460
+429.13	0.24340
+427.00	0.25390
+424.43	0.29320
+422.96	0.32010
+421.59	0.38790
+420.30	0.43810
+418.45	0.53820
+415.12	0.80420
+412.97	0.94590
+411.60	1.00000
+Source
+Yu Y.-X.; He M.-Y.; Gao G.-H.; Li Z.-C.: Boiling points for five binary systems of sulfolane with aromatic hydrocarbons at 101.33 kPa. Fluid Phase Equilib. 190 (2001) 61-71
+$$$Vapor-Liquid Equilibrium Data Set 34188
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+Temperature	348.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+3.541	0.08200	0.99510
+7.602	0.22100	0.99800
+7.795	0.23000	0.99810
+10.066	0.37800	0.99860
+10.951	0.49900	0.99860
+11.299	0.60600	0.99860
+11.482	0.72900	0.99860
+11.740	0.84600	0.99870
+Source
+Tong J.; Gao G.; He J.; Liang Y.: Determination and Correlation of Vapor-Liquid Equilibria for Sulfolane-Carbon-8 Aromatic Hydrocarbon Systems. Tianranqi-Huagong 20 (1995) 54-58
+Source
+Yu Y.-X.; Gao G.-H.; Tong J.S.: Experimental Determination of Vapour-Liquid Equilibria of Sulfolane-Aromatic Hydrocarbon Systems and their Correlation. Proceedings / International Symposium on Thermodynamics in Chemical Engineering and Industry (ISTCEI)  (1994) 420-425
+Yu Y.-X.; He M.-Y.; Gao G.-H.; Li Z.-C.: Boiling points for five binary systems of sulfolane with aromatic hydrocarbons at 101.33 kPa. Fluid Phase Equilib. 190 (2001) 61-71
+Tong J.; Gao G.; He J.; Liang Y.: Determination and Correlation of Vapor-Liquid Equilibria for Sulfolane-Carbon-8 Aromatic Hydrocarbon Systems. Tianranqi-Huagong 20 (1995) 54-58

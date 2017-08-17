@@ -1,12 +1,12 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	333.150	n.a.	0.51500	n.a.	Phase equilibrium	Author from diagram	3	
-homPmax	388.850	101.325	0.75271	n.a.	Distillation	Author	1	
-homPmax	389.150	101.325	0.76500	n.a.	n.a.	Author	2	
-none	zeotropic	
-homPmax	homogeneous pressure maximum	
-1	Lecat M.: Nouveaux azéotropes binaires. Onzième liste. Ann.Soc.Sci.Bruxelles/B 49 (1929) 54-62	
-2	Galska-Krajewska A.: Vpour-Liquid Equilibria in Binary Systems: p-Xylene-Aliphatic Alcohols at 760 mm Hg. Rocz.Chem. 41 (1967) 609-616	
-3	Park S.J.; Doh M.S.: Measurement of the Vapor-liquid Equilibria and the Excess Molar Volumes of Benzene, Toluene and p-Xylene Mixtures with Alcohols(C1-C4). Hwahak Konghak 35 (1997) 46-54	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	333.150	n.a.	0.51500	n.a.	Phase equilibrium	Author from diagram	3
+homPmax	388.850	101.325	0.75271	n.a.	Distillation	Author	1
+homPmax	389.150	101.325	0.76500	n.a.	n.a.	Author	2
+none	zeotropic
+homPmax	homogeneous pressure maximum
+1	Lecat M.: Nouveaux azéotropes binaires. Onzième liste. Ann.Soc.Sci.Bruxelles/B 49 (1929) 54-62
+2	Galska-Krajewska A.: Vpour-Liquid Equilibria in Binary Systems: p-Xylene-Aliphatic Alcohols at 760 mm Hg. Rocz.Chem. 41 (1967) 609-616
+3	Park S.J.; Doh M.S.: Measurement of the Vapor-liquid Equilibria and the Excess Molar Volumes of Benzene, Toluene and p-Xylene Mixtures with Alcohols(C1-C4). Hwahak Konghak 35 (1997) 46-54

@@ -1,97 +1,97 @@
-$$$Density Data Set 54726	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9938	0.00348	0.00735	
-0.9936	0.00494	0.00780	
-0.9939	0.00755	0.00756	
-0.9936	0.00909	0.00833	
-0.9940	0.01128	0.00747	
-0.9940	0.01172	0.00762	
-0.9945	0.01380	0.00638	
-Source	
-Perron G.; Desnoyers J.E.: Heat Capacities and Volumes of Interaction between Mixtures of Alcohols in Water at 298.15 K. J.Chem.Thermodyn. 13 (1981) 1105-1121	
-$$$Density Data Set 63525	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	283.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.8359	0.11724	0.58295	
-0.8349	0.22452	0.48841	
-0.8333	0.32305	0.40157	
-0.8315	0.41387	0.32154	
-0.8305	0.49784	0.24754	
-0.8294	0.57572	0.17891	
-0.8283	0.64813	0.11509	
-0.8270	0.71564	0.05560	
-0.8549	0.09556	0.41573	
-0.8540	0.18444	0.34390	
-0.8534	0.26733	0.27692	
-0.8528	0.34481	0.21431	
-0.8532	0.41740	0.15565	
-0.8519	0.48554	0.10059	
-0.8521	0.54962	0.04880	
-0.8734	0.15650	0.24318	
-0.8742	0.22800	0.18894	
-0.8741	0.29550	0.13775	
-0.8745	0.35933	0.08933	
-0.8751	0.41978	0.04348	
-0.8931	0.13592	0.16895	
-0.8941	0.19876	0.12353	
-0.8955	0.25853	0.08034	
-0.8967	0.31545	0.03921	
-0.9133	0.12011	0.11198	
-0.9156	0.17617	0.07300	
-0.9193	0.22978	0.035704	
-0.9339	0.10761	0.06688	
-0.9380	0.15819	0.03277	
-0.9559	0.09746	0.030286	
-Source	
-Kharin S.E.; Kniga A.A.; Sorokina G.S.: Density and refractive index of solutions formed by water, ethanol and n-butanol. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 12 (1969) 265-268	
-$$$Density Data Set 63526	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	293.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.8283	0.11724	0.58295	
-0.8273	0.22452	0.48841	
-0.8253	0.32305	0.40157	
-0.8242	0.41387	0.32154	
-0.8226	0.49784	0.24754	
-0.8210	0.57572	0.17891	
-0.8202	0.64813	0.11509	
-0.8189	0.71564	0.05560	
-0.8468	0.09556	0.41573	
-0.8463	0.18444	0.34390	
-0.8460	0.26733	0.27692	
-0.8452	0.34481	0.21431	
-0.8445	0.41740	0.15565	
-0.8441	0.48554	0.10059	
-0.8438	0.54962	0.04880	
-0.8662	0.15650	0.24318	
-0.8659	0.22800	0.18894	
-0.8662	0.29550	0.13775	
-0.8670	0.35933	0.08933	
-0.8673	0.41978	0.04348	
-0.8859	0.13592	0.16895	
-0.8876	0.19876	0.12353	
-0.8886	0.25853	0.08034	
-0.8896	0.31545	0.03921	
-0.9064	0.12011	0.11198	
-0.9088	0.17617	0.07300	
-0.9116	0.22978	0.035704	
-0.9284	0.10761	0.06688	
-0.9316	0.15819	0.03277	
-0.9505	0.09746	0.030286	
-Source	
-Kharin S.E.; Kniga A.A.; Sorokina G.S.: Density and refractive index of solutions formed by water, ethanol and n-butanol. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 12 (1969) 265-268	
-Source	
-Perron G.; Desnoyers J.E.: Heat Capacities and Volumes of Interaction between Mixtures of Alcohols in Water at 298.15 K. J.Chem.Thermodyn. 13 (1981) 1105-1121	
-Kharin S.E.; Kniga A.A.; Sorokina G.S.: Density and refractive index of solutions formed by water, ethanol and n-butanol. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 12 (1969) 265-268	
+$$$Density Data Set 54726
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C2H6O	46.069	64-17-5	Ethanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9938	0.00348	0.00735
+0.9936	0.00494	0.00780
+0.9939	0.00755	0.00756
+0.9936	0.00909	0.00833
+0.9940	0.01128	0.00747
+0.9940	0.01172	0.00762
+0.9945	0.01380	0.00638
+Source
+Perron G.; Desnoyers J.E.: Heat Capacities and Volumes of Interaction between Mixtures of Alcohols in Water at 298.15 K. J.Chem.Thermodyn. 13 (1981) 1105-1121
+$$$Density Data Set 63525
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C4H10O	74.123	71-36-3	1-Butanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	283.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.8359	0.11724	0.58295
+0.8349	0.22452	0.48841
+0.8333	0.32305	0.40157
+0.8315	0.41387	0.32154
+0.8305	0.49784	0.24754
+0.8294	0.57572	0.17891
+0.8283	0.64813	0.11509
+0.8270	0.71564	0.05560
+0.8549	0.09556	0.41573
+0.8540	0.18444	0.34390
+0.8534	0.26733	0.27692
+0.8528	0.34481	0.21431
+0.8532	0.41740	0.15565
+0.8519	0.48554	0.10059
+0.8521	0.54962	0.04880
+0.8734	0.15650	0.24318
+0.8742	0.22800	0.18894
+0.8741	0.29550	0.13775
+0.8745	0.35933	0.08933
+0.8751	0.41978	0.04348
+0.8931	0.13592	0.16895
+0.8941	0.19876	0.12353
+0.8955	0.25853	0.08034
+0.8967	0.31545	0.03921
+0.9133	0.12011	0.11198
+0.9156	0.17617	0.07300
+0.9193	0.22978	0.035704
+0.9339	0.10761	0.06688
+0.9380	0.15819	0.03277
+0.9559	0.09746	0.030286
+Source
+Kharin S.E.; Kniga A.A.; Sorokina G.S.: Density and refractive index of solutions formed by water, ethanol and n-butanol. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 12 (1969) 265-268
+$$$Density Data Set 63526
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C4H10O	74.123	71-36-3	1-Butanol
+3	H2O	18.015	7732-18-5	Water
+Temperature	293.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.8283	0.11724	0.58295
+0.8273	0.22452	0.48841
+0.8253	0.32305	0.40157
+0.8242	0.41387	0.32154
+0.8226	0.49784	0.24754
+0.8210	0.57572	0.17891
+0.8202	0.64813	0.11509
+0.8189	0.71564	0.05560
+0.8468	0.09556	0.41573
+0.8463	0.18444	0.34390
+0.8460	0.26733	0.27692
+0.8452	0.34481	0.21431
+0.8445	0.41740	0.15565
+0.8441	0.48554	0.10059
+0.8438	0.54962	0.04880
+0.8662	0.15650	0.24318
+0.8659	0.22800	0.18894
+0.8662	0.29550	0.13775
+0.8670	0.35933	0.08933
+0.8673	0.41978	0.04348
+0.8859	0.13592	0.16895
+0.8876	0.19876	0.12353
+0.8886	0.25853	0.08034
+0.8896	0.31545	0.03921
+0.9064	0.12011	0.11198
+0.9088	0.17617	0.07300
+0.9116	0.22978	0.035704
+0.9284	0.10761	0.06688
+0.9316	0.15819	0.03277
+0.9505	0.09746	0.030286
+Source
+Kharin S.E.; Kniga A.A.; Sorokina G.S.: Density and refractive index of solutions formed by water, ethanol and n-butanol. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 12 (1969) 265-268
+Source
+Perron G.; Desnoyers J.E.: Heat Capacities and Volumes of Interaction between Mixtures of Alcohols in Water at 298.15 K. J.Chem.Thermodyn. 13 (1981) 1105-1121
+Kharin S.E.; Kniga A.A.; Sorokina G.S.: Density and refractive index of solutions formed by water, ethanol and n-butanol. Izv.Vyssh.Uchebn.Zaved.Khim.Khim.Tekhnol. 12 (1969) 265-268

@@ -1,35 +1,35 @@
-$$$Solid-Liquid Equilibrium Data Set 19141	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-T [K]	xL1 [mol/mol]	
-279.67	0.00000	
-269.46	0.05200	
-254.71	0.09700	
-240.43	0.15730	
-247.23	0.24960	
-249.35	0.29840	
-253.65	0.34880	
-258.14	0.39870	
-261.15	0.44980	
-262.76	0.48400	
-267.10	0.55100	
-269.35	0.60100	
-270.85	0.65100	
-272.57	0.69800	
-275.29	0.74900	
-277.56	0.80000	
-278.44	0.81200	
-281.68	0.89400	
-283.49	0.94400	
-286.02	1.00000	
-Source	
-Park S.J.; Paik S.K.: A Study on the Solid-Liquid Equilibria for Benzene + Aniline, Benzene + Nitrobenzene, p-Xylene and Cyclohexane. Kongop-hwahak 9 (1998) 864-869	
-$$$Solid-Liquid Equilibrium Data Set 31887	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-240.43	0.15730	0.15730	
-Source	
-Park S.J.; Paik S.K.: A Study on the Solid-Liquid Equilibria for Benzene + Aniline, Benzene + Nitrobenzene, p-Xylene and Cyclohexane. Kongop-hwahak 9 (1998) 864-869	
+$$$Solid-Liquid Equilibrium Data Set 19141
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C6H12	84.161	110-82-7	Cyclohexane
+T [K]	xL1 [mol/mol]
+279.67	0.00000
+269.46	0.05200
+254.71	0.09700
+240.43	0.15730
+247.23	0.24960
+249.35	0.29840
+253.65	0.34880
+258.14	0.39870
+261.15	0.44980
+262.76	0.48400
+267.10	0.55100
+269.35	0.60100
+270.85	0.65100
+272.57	0.69800
+275.29	0.74900
+277.56	0.80000
+278.44	0.81200
+281.68	0.89400
+283.49	0.94400
+286.02	1.00000
+Source
+Park S.J.; Paik S.K.: A Study on the Solid-Liquid Equilibria for Benzene + Aniline, Benzene + Nitrobenzene, p-Xylene and Cyclohexane. Kongop-hwahak 9 (1998) 864-869
+$$$Solid-Liquid Equilibrium Data Set 31887
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C6H12	84.161	110-82-7	Cyclohexane
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+240.43	0.157300.15730
+Source
+Park S.J.; Paik S.K.: A Study on the Solid-Liquid Equilibria for Benzene + Aniline, Benzene + Nitrobenzene, p-Xylene and Cyclohexane. Kongop-hwahak 9 (1998) 864-869

@@ -1,35 +1,35 @@
-$$$Excess Volume Data Set 11562	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	H2O	18.015	7732-18-5	Water	
-3	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
-0.09055	0.95200	0.00600	
-0.16166	0.89100	0.01600	
-0.1504	0.88900	0.01700	
-0.16095	0.83400	0.02800	
-0.26157	0.77600	0.04100	
-0.25357	0.71400	0.05700	
-0.18112	0.65800	0.07300	
-0.21523	0.60000	0.09200	
-0.15584	0.61200	0.07400	
-0.14458	0.54100	0.11300	
-0.06332	0.53900	0.11400	
-0.09695	0.48400	0.13600	
-0.06842	0.42900	0.16000	
-0.04203	0.42200	0.16300	
-0.03903	0.37300	0.18700	
-0.02518	0.37000	0.18800	
-0.08498	0.33500	0.20600	
-0.0275	0.31700	0.21600	
--0.0247	0.27300	0.24200	
--0.09949	0.25000	0.25600	
--0.12993	0.22700	0.26600	
--0.0870	0.18900	0.29700	
--0.11842	0.12900	0.34400	
--0.3539	0.05600	0.41900	
-Source	
-Meeussen E.; Huyskens P.: Étude de la structure du butanol-n en solution par les coefficients de partage. J.Chim.Phys.Phys.-Chim.Biol. 63 (1966) 845-854	
-Source	
-Meeussen E.; Huyskens P.: Étude de la structure du butanol-n en solution par les coefficients de partage. J.Chim.Phys.Phys.-Chim.Biol. 63 (1966) 845-854	
+$$$Excess Volume Data Set 11562
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	H2O	18.015	7732-18-5	Water
+3	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]
+0.09055	0.95200	0.00600
+0.16166	0.89100	0.01600
+0.1504	0.88900	0.01700
+0.16095	0.83400	0.02800
+0.26157	0.77600	0.04100
+0.25357	0.71400	0.05700
+0.18112	0.65800	0.07300
+0.21523	0.60000	0.09200
+0.15584	0.61200	0.07400
+0.14458	0.54100	0.11300
+0.06332	0.53900	0.11400
+0.09695	0.48400	0.13600
+0.06842	0.42900	0.16000
+0.04203	0.42200	0.16300
+0.03903	0.37300	0.18700
+0.02518	0.37000	0.18800
+0.08498	0.33500	0.20600
+0.0275	0.31700	0.21600
+-0.0247	0.27300	0.24200
+-0.09949	0.25000	0.25600
+-0.12993	0.22700	0.26600
+-0.0870	0.18900	0.29700
+-0.11842	0.12900	0.34400
+-0.3539	0.05600	0.41900
+Source
+Meeussen E.; Huyskens P.: Étude de la structure du butanol-n en solution par les coefficients de partage. J.Chim.Phys.Phys.-Chim.Biol. 63 (1966) 845-854
+Source
+Meeussen E.; Huyskens P.: Étude de la structure du butanol-n en solution par les coefficients de partage. J.Chim.Phys.Phys.-Chim.Biol. 63 (1966) 845-854

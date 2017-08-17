@@ -1,26 +1,26 @@
-$$$Vapor-Liquid Equilibrium Data Set 30032	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H14	86.177	110-54-3	Hexane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	342.85	K	
-P [kPa]	x1 [mol/mol]	x2 [mol/mol]	
-73.350	0.15670	0.63940	
-71.090	0.11700	0.47730	
-67.220	0.07820	0.31880	
-54.660	0.03960	0.16160	
-80.250	0.30850	0.49310	
-77.060	0.22920	0.36630	
-74.230	0.15330	0.24500	
-62.330	0.07880	0.12610	
-85.810	0.47340	0.31580	
-83.660	0.35530	0.23710	
-81.060	0.23450	0.15650	
-69.470	0.12060	0.08050	
-91.460	0.64130	0.16310	
-89.550	0.51630	0.13130	
-87.470	0.32380	0.08230	
-74.310	0.15280	0.03890	
-Source	
-Dojcansky J.; Bafrncova S; Surovy J.: Application of the Wilson Equation with Binary Parameters to the Prediction of the Isothermal Vapour-Liquid Equilibrium Data of Ternary and Quaternary Systems in the Assessment of the Polar Solvent in Extractive Distillation. Chem.Papers 55 (2001) 71-74	
-Source	
+$$$Vapor-Liquid Equilibrium Data Set 30032
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H14	86.177	110-54-3	Hexane
+2	C6H12	84.161	110-82-7	Cyclohexane
+3	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	342.85	K
+P [kPa]	x1 [mol/mol]	x2 [mol/mol]
+73.350	0.15670	0.63940
+71.090	0.11700	0.47730
+67.220	0.07820	0.31880
+54.660	0.03960	0.16160
+80.250	0.30850	0.49310
+77.060	0.22920	0.36630
+74.230	0.15330	0.24500
+62.330	0.07880	0.12610
+85.810	0.47340	0.31580
+83.660	0.35530	0.23710
+81.060	0.23450	0.15650
+69.470	0.12060	0.08050
+91.460	0.64130	0.16310
+89.550	0.51630	0.13130
+87.470	0.32380	0.08230
+74.310	0.15280	0.03890
+Source
+Dojcansky J.; Bafrncova S; Surovy J.: Application of the Wilson Equation with Binary Parameters to the Prediction of the Isothermal Vapour-Liquid Equilibrium Data of Ternary and Quaternary Systems in the Assessment of the Polar Solvent in Extractive Distillation. Chem.Papers 55 (2001) 71-74
+Source

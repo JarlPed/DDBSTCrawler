@@ -1,59 +1,59 @@
-$$$Density Data Set 35353	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClK	74.551	7447-40-7	Potassium chloride	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	288.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9925	0.00000	0.016063	
-1.0016	0.00252169999294	0.016022	
-1.0104	0.006377	0.015977	
-1.0260	0.013001	0.015854	
-1.0461	0.02130	0.01572	
-1.0600	0.027056	0.015628	
-1.0760	0.03300	0.015533	
-1.0900	0.04040	0.015414	
-1.1082	0.04876	0.01528	
-1.1265	0.05819	0.015128	
-Source	
-Ivanova F.I.: Viscosity of Aqueous Organic Solutions of Potassium Chloride. Viniti  (1973) 1-27	
-$$$Density Data Set 35354	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClK	74.551	7447-40-7	Potassium chloride	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	298.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9873	0.00000	0.016063	
-0.9962	0.00252169999294	0.016022	
-1.0076	0.006377	0.015977	
-1.0243	0.013001	0.015854	
-1.0438	0.02130	0.01572	
-1.0561	0.027056	0.015628	
-1.0689	0.03300	0.015533	
-1.0860	0.04040	0.015414	
-1.1025	0.04876	0.01528	
-1.1229	0.05819	0.015128	
-Source	
-Ivanova F.I.: Viscosity of Aqueous Organic Solutions of Potassium Chloride. Viniti  (1973) 1-27	
-$$$Density Data Set 35355	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClK	74.551	7447-40-7	Potassium chloride	
-2	C3H6O	58.080	67-64-1	Acetone	
-3	H2O	18.015	7732-18-5	Water	
-Temperature	308.150	K	
-Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]	
-0.9848	0.00000	0.016063	
-0.9897	0.00252169999294	0.016022	
-1.0010	0.006377	0.015977	
-1.0184	0.013001	0.015854	
-1.0366	0.02130	0.01572	
-1.0528	0.027056	0.015628	
-1.0611	0.03300	0.015533	
-1.0829	0.04040	0.015414	
-1.0970	0.04876	0.01528	
-1.1167	0.05819	0.015128	
-Source	
-Ivanova F.I.: Viscosity of Aqueous Organic Solutions of Potassium Chloride. Viniti  (1973) 1-27	
-Source	
-Ivanova F.I.: Viscosity of Aqueous Organic Solutions of Potassium Chloride. Viniti  (1973) 1-27	
+$$$Density Data Set 35353
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClK	74.551	7447-40-7	Potassium chloride
+2	C3H6O	58.080	67-64-1	Acetone
+3	H2O	18.015	7732-18-5	Water
+Temperature	288.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9925	0.00000	0.016063
+1.0016	0.00252169999294	0.016022
+1.0104	0.006377	0.015977
+1.0260	0.013001	0.015854
+1.0461	0.02130	0.01572
+1.0600	0.027056	0.015628
+1.0760	0.03300	0.015533
+1.0900	0.04040	0.015414
+1.1082	0.04876	0.01528
+1.1265	0.05819	0.015128
+Source
+Ivanova F.I.: Viscosity of Aqueous Organic Solutions of Potassium Chloride. Viniti  (1973) 1-27
+$$$Density Data Set 35354
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClK	74.551	7447-40-7	Potassium chloride
+2	C3H6O	58.080	67-64-1	Acetone
+3	H2O	18.015	7732-18-5	Water
+Temperature	298.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9873	0.00000	0.016063
+0.9962	0.00252169999294	0.016022
+1.0076	0.006377	0.015977
+1.0243	0.013001	0.015854
+1.0438	0.02130	0.01572
+1.0561	0.027056	0.015628
+1.0689	0.03300	0.015533
+1.0860	0.04040	0.015414
+1.1025	0.04876	0.01528
+1.1229	0.05819	0.015128
+Source
+Ivanova F.I.: Viscosity of Aqueous Organic Solutions of Potassium Chloride. Viniti  (1973) 1-27
+$$$Density Data Set 35355
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClK	74.551	7447-40-7	Potassium chloride
+2	C3H6O	58.080	67-64-1	Acetone
+3	H2O	18.015	7732-18-5	Water
+Temperature	308.150	K
+Density [g/cm3]	x1 [mol/mol]	x2 [mol/mol]
+0.9848	0.00000	0.016063
+0.9897	0.00252169999294	0.016022
+1.0010	0.006377	0.015977
+1.0184	0.013001	0.015854
+1.0366	0.02130	0.01572
+1.0528	0.027056	0.015628
+1.0611	0.03300	0.015533
+1.0829	0.04040	0.015414
+1.0970	0.04876	0.01528
+1.1167	0.05819	0.015128
+Source
+Ivanova F.I.: Viscosity of Aqueous Organic Solutions of Potassium Chloride. Viniti  (1973) 1-27
+Source
+Ivanova F.I.: Viscosity of Aqueous Organic Solutions of Potassium Chloride. Viniti  (1973) 1-27

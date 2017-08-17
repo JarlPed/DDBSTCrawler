@@ -1,55 +1,55 @@
-$$$Enthalpy of Mixing Data Set 417	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CHCl3	119.377	67-66-3	Chloroform	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--1246.830	0.16500	
--1687.280	0.26400	
--1829.210	0.31700	
--1950.210	0.41000	
--1955.240	0.44300	
--1942.260	0.47400	
--1908.340	0.51000	
--1580.100	0.65500	
--1022.840	0.79800	
--852.432	0.83400	
-Source	
-Chevalier J.-L.; Bares D.: I. Chaleurs de mélange à 25 °C. J.Chim.Phys.Phys.-Chim.Biol. 66 (1969) 1448-1452	
-$$$Enthalpy of Mixing Data Set 418	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CHCl3	119.377	67-66-3	Chloroform	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--713.000	0.09340	
--1640.000	0.27240	
--1968.000	0.44100	
--1903.000	0.48590	
--1901.000	0.51890	
--1380.000	0.70440	
--1085.000	0.76960	
--622.000	0.87430	
-Source	
-Handa Y.P.; Fenby D.V.: Calorimetric Study of the Deuterium Isotope Effect in Liquid Mixtures. J.Chim.Phys.Phys.-Chim.Biol. 72 (1975) 1235-1240	
-$$$Enthalpy of Mixing Data Set 419	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CHCl3	119.377	67-66-3	Chloroform	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
--158.680	0.01920	
--1573.820	0.24420	
--1776.040	0.30190	
--1901.220	0.35140	
--1974.080	0.45240	
--1921.740	0.49960	
--1868.570	0.54220	
--1715.330	0.60330	
--1167.280	0.75190	
-Source	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
-Source	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
-Handa Y.P.; Fenby D.V.: Calorimetric Study of the Deuterium Isotope Effect in Liquid Mixtures. J.Chim.Phys.Phys.-Chim.Biol. 72 (1975) 1235-1240	
-Chevalier J.-L.; Bares D.: I. Chaleurs de mélange à 25 °C. J.Chim.Phys.Phys.-Chim.Biol. 66 (1969) 1448-1452	
+$$$Enthalpy of Mixing Data Set 417
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CHCl3	119.377	67-66-3	Chloroform
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-1246.830	0.16500
+-1687.280	0.26400
+-1829.210	0.31700
+-1950.210	0.41000
+-1955.240	0.44300
+-1942.260	0.47400
+-1908.340	0.51000
+-1580.100	0.65500
+-1022.840	0.79800
+-852.432	0.83400
+Source
+Chevalier J.-L.; Bares D.: I. Chaleurs de mélange à 25 °C. J.Chim.Phys.Phys.-Chim.Biol. 66 (1969) 1448-1452
+$$$Enthalpy of Mixing Data Set 418
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CHCl3	119.377	67-66-3	Chloroform
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-713.000	0.09340
+-1640.000	0.27240
+-1968.000	0.44100
+-1903.000	0.48590
+-1901.000	0.51890
+-1380.000	0.70440
+-1085.000	0.76960
+-622.000	0.87430
+Source
+Handa Y.P.; Fenby D.V.: Calorimetric Study of the Deuterium Isotope Effect in Liquid Mixtures. J.Chim.Phys.Phys.-Chim.Biol. 72 (1975) 1235-1240
+$$$Enthalpy of Mixing Data Set 419
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CHCl3	119.377	67-66-3	Chloroform
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+-158.680	0.01920
+-1573.820	0.24420
+-1776.040	0.30190
+-1901.220	0.35140
+-1974.080	0.45240
+-1921.740	0.49960
+-1868.570	0.54220
+-1715.330	0.60330
+-1167.280	0.75190
+Source
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222
+Source
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222
+Handa Y.P.; Fenby D.V.: Calorimetric Study of the Deuterium Isotope Effect in Liquid Mixtures. J.Chim.Phys.Phys.-Chim.Biol. 72 (1975) 1235-1240
+Chevalier J.-L.; Bares D.: I. Chaleurs de mélange à 25 °C. J.Chim.Phys.Phys.-Chim.Biol. 66 (1969) 1448-1452

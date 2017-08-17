@@ -1,62 +1,62 @@
-$$$Vapor-Liquid Equilibrium Data Set 3575	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	y1 [mol/mol]	
-355.38	0.00000	0.00000	
-353.88	0.05000	0.10500	
-352.55	0.10000	0.19570	
-350.33	0.20000	0.34600	
-348.45	0.30000	0.46500	
-346.69	0.40000	0.56510	
-345.00	0.50000	0.65100	
-343.49	0.60000	0.72790	
-342.17	0.70000	0.79910	
-341.00	0.80000	0.86720	
-339.89	0.90000	0.93360	
-339.39	0.95000	0.96670	
-338.88	1.00000	1.00000	
-Source	
-Shnitko V.A.; Kogan V.B.; Sheblom T.V.: Liquid-Vapor Equilibrium in the System Tetrahydrofuran-Isopropyl Alcohol. Zh.Prikl.Khim. 42 (1969) 2389-2390	
-$$$Vapor-Liquid Equilibrium Data Set 7986	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Pressure	79.90	kPa	
-x1 [mol/mol]	y1 [mol/mol]	
-0.95500	0.96988	
-0.98000	0.98661	
-0.98500	0.98996	
-0.99000	0.99331	
-0.99500	0.99665	
-0.99800	0.99866	
-0.99990	0.99993	
-0.99995	0.99997	
-Source	
-Shnitko V.A.; Kogan V.B.: Dampf-Flüssig-Gleichgewicht in geringen Tetrahydrofuran-Lösungen von Methanol, Isopropanol und Furan. Massoobmennye Processy v chimiceskich reaktorach i apparatach razdelenija  (1977) 6-9	
-$$$Vapor-Liquid Equilibrium Data Set 8409	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O	72.107	109-99-9	Tetrahydrofuran	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Pressure	101.33	kPa	
-T [K]	x1 [mol/mol]	
-354.95	0.00000	
-353.95	0.05000	
-352.85	0.10000	
-350.65	0.20000	
-348.55	0.30000	
-346.55	0.40000	
-344.75	0.50000	
-343.35	0.60000	
-342.15	0.70000	
-340.95	0.80000	
-339.95	0.90000	
-339.45	0.95000	
-338.95	1.00000	
-Source	
-Yoshikawa Y.; Takagi A.; Kato M.: Indirect Determination of Vapor-Liquid Equilibria by a Small Ebulliometer. J.Chem.Eng.Data 25 (1980) 344-346	
-Source	
-Shnitko V.A.; Kogan V.B.; Sheblom T.V.: Liquid-Vapor Equilibrium in the System Tetrahydrofuran-Isopropyl Alcohol. Zh.Prikl.Khim. 42 (1969) 2389-2390	
-Shnitko V.A.; Kogan V.B.: Dampf-Flüssig-Gleichgewicht in geringen Tetrahydrofuran-Lösungen von Methanol, Isopropanol und Furan. Massoobmennye Processy v chimiceskich reaktorach i apparatach razdelenija  (1977) 6-9	
-Yoshikawa Y.; Takagi A.; Kato M.: Indirect Determination of Vapor-Liquid Equilibria by a Small Ebulliometer. J.Chem.Eng.Data 25 (1980) 344-346	
+$$$Vapor-Liquid Equilibrium Data Set 3575
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C3H8O	60.096	67-63-0	2-Propanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]	y1 [mol/mol]
+355.38	0.000000.00000
+353.88	0.05000	0.10500
+352.55	0.10000	0.19570
+350.33	0.20000	0.34600
+348.45	0.30000	0.46500
+346.69	0.40000	0.56510
+345.00	0.50000	0.65100
+343.49	0.60000	0.72790
+342.17	0.70000	0.79910
+341.00	0.80000	0.86720
+339.89	0.90000	0.93360
+339.39	0.95000	0.96670
+338.88	1.000001.00000
+Source
+Shnitko V.A.; Kogan V.B.; Sheblom T.V.: Liquid-Vapor Equilibrium in the System Tetrahydrofuran-Isopropyl Alcohol. Zh.Prikl.Khim. 42 (1969) 2389-2390
+$$$Vapor-Liquid Equilibrium Data Set 7986
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C3H8O	60.096	67-63-0	2-Propanol
+Pressure	79.90	kPa
+x1 [mol/mol]	y1 [mol/mol]
+0.95500	0.96988
+0.98000	0.98661
+0.98500	0.98996
+0.99000	0.99331
+0.99500	0.99665
+0.99800	0.99866
+0.99990	0.99993
+0.99995	0.99997
+Source
+Shnitko V.A.; Kogan V.B.: Dampf-Flüssig-Gleichgewicht in geringen Tetrahydrofuran-Lösungen von Methanol, Isopropanol und Furan. Massoobmennye Processy v chimiceskich reaktorach i apparatach razdelenija  (1977) 6-9
+$$$Vapor-Liquid Equilibrium Data Set 8409
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O	72.107	109-99-9	Tetrahydrofuran
+2	C3H8O	60.096	67-63-0	2-Propanol
+Pressure	101.33	kPa
+T [K]	x1 [mol/mol]
+354.95	0.00000
+353.95	0.05000
+352.85	0.10000
+350.65	0.20000
+348.55	0.30000
+346.55	0.40000
+344.75	0.50000
+343.35	0.60000
+342.15	0.70000
+340.95	0.80000
+339.95	0.90000
+339.45	0.95000
+338.95	1.00000
+Source
+Yoshikawa Y.; Takagi A.; Kato M.: Indirect Determination of Vapor-Liquid Equilibria by a Small Ebulliometer. J.Chem.Eng.Data 25 (1980) 344-346
+Source
+Shnitko V.A.; Kogan V.B.; Sheblom T.V.: Liquid-Vapor Equilibrium in the System Tetrahydrofuran-Isopropyl Alcohol. Zh.Prikl.Khim. 42 (1969) 2389-2390
+Shnitko V.A.; Kogan V.B.: Dampf-Flüssig-Gleichgewicht in geringen Tetrahydrofuran-Lösungen von Methanol, Isopropanol und Furan. Massoobmennye Processy v chimiceskich reaktorach i apparatach razdelenija  (1977) 6-9
+Yoshikawa Y.; Takagi A.; Kato M.: Indirect Determination of Vapor-Liquid Equilibria by a Small Ebulliometer. J.Chem.Eng.Data 25 (1980) 344-346

@@ -1,33 +1,33 @@
-$$$Excess Volume Data Set 4618	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1890	0.11300	
-0.3520	0.21900	
-0.4850	0.32600	
-0.5790	0.43000	
-0.6310	0.52900	
-0.6350	0.62600	
-0.5830	0.72300	
-0.4680	0.81800	
-0.2720	0.91100	
-Source	
-Qin A.; Hoffman D.E.; Munk P.: Excess Volume of Mixtures of Alkanes with Aromatic Hydrocarbons. J.Chem.Eng.Data 37 (1992) 61-65	
-$$$Excess Volume Data Set 10567	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	305.650	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.07314	0.16970	
-0.39014	0.40700	
-0.4836	0.53880	
-0.4694	0.65410	
-0.3707	0.86270	
-Source	
-Reddy K.C.; Subrahmanyam S.V.; Bhimasenachar J.: Part 1.. J.Phys.Soc.Japan 19 (1964) 559-566	
-Source	
-Qin A.; Hoffman D.E.; Munk P.: Excess Volume of Mixtures of Alkanes with Aromatic Hydrocarbons. J.Chem.Eng.Data 37 (1992) 61-65	
-Reddy K.C.; Subrahmanyam S.V.; Bhimasenachar J.: Part 1.. J.Phys.Soc.Japan 19 (1964) 559-566	
+$$$Excess Volume Data Set 4618
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1890	0.11300
+0.3520	0.21900
+0.4850	0.32600
+0.5790	0.43000
+0.6310	0.52900
+0.6350	0.62600
+0.5830	0.72300
+0.4680	0.81800
+0.2720	0.91100
+Source
+Qin A.; Hoffman D.E.; Munk P.: Excess Volume of Mixtures of Alkanes with Aromatic Hydrocarbons. J.Chem.Eng.Data 37 (1992) 61-65
+$$$Excess Volume Data Set 10567
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	305.650	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.07314	0.16970
+0.39014	0.40700
+0.4836	0.53880
+0.4694	0.65410
+0.3707	0.86270
+Source
+Reddy K.C.; Subrahmanyam S.V.; Bhimasenachar J.: Part 1.. J.Phys.Soc.Japan 19 (1964) 559-566
+Source
+Qin A.; Hoffman D.E.; Munk P.: Excess Volume of Mixtures of Alkanes with Aromatic Hydrocarbons. J.Chem.Eng.Data 37 (1992) 61-65
+Reddy K.C.; Subrahmanyam S.V.; Bhimasenachar J.: Part 1.. J.Phys.Soc.Japan 19 (1964) 559-566

@@ -1,57 +1,57 @@
-$$$Excess Volume Data Set 2756	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1040	0.13000	
-0.1150	0.24900	
-0.0730	0.35900	
-0.0580	0.46500	
--0.0100	0.66900	
--0.0180	0.75800	
--0.0320	0.84800	
--0.0320	0.92100	
-Source	
-Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624	
-$$$Excess Volume Data Set 5157	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.1014	0.15040	
-0.0966	0.26490	
-0.0623	0.39710	
-0.0396	0.50090	
-0.0008	0.58500	
--0.0327	0.69320	
--0.0423	0.76880	
-Source	
-Fermeglia M.; Lapasin R.: Excess Volumes and Viscosities of Binary Mixtures of Organics. J.Chem.Eng.Data 33 (1988) 415-417	
-$$$Excess Volume Data Set 8037	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H10O	74.123	71-36-3	1-Butanol	
-2	C8H10	106.167	106-42-3	p-Xylene	
-Temperature	308.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0703	0.03906	
-0.1241	0.09744	
-0.14895	0.18101	
-0.1353	0.25438	
-0.13046	0.29036	
-0.1099	0.36077	
-0.08869	0.47053	
-0.07659	0.51081	
-0.0665	0.58524	
-0.05123	0.66286	
-0.03148	0.75156	
-0.01055	0.82683	
--0.00219	0.88644	
--0.00414	0.96124	
-Source	
-Bhardwaj U.; Singh K.C.: Excess molar enthalpies of mixing of 1-butanol with aromatic hydrocarbons at 308.15 K. Indian J.Chem.Sect.A 37 (1998) 1063-1069	
-Source	
-Bhardwaj U.; Singh K.C.: Excess molar enthalpies of mixing of 1-butanol with aromatic hydrocarbons at 308.15 K. Indian J.Chem.Sect.A 37 (1998) 1063-1069	
-Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624	
-Fermeglia M.; Lapasin R.: Excess Volumes and Viscosities of Binary Mixtures of Organics. J.Chem.Eng.Data 33 (1988) 415-417	
+$$$Excess Volume Data Set 2756
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1040	0.13000
+0.1150	0.24900
+0.0730	0.35900
+0.0580	0.46500
+-0.0100	0.66900
+-0.0180	0.75800
+-0.0320	0.84800
+-0.0320	0.92100
+Source
+Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624
+$$$Excess Volume Data Set 5157
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.1014	0.15040
+0.0966	0.26490
+0.0623	0.39710
+0.0396	0.50090
+0.0008	0.58500
+-0.0327	0.69320
+-0.0423	0.76880
+Source
+Fermeglia M.; Lapasin R.: Excess Volumes and Viscosities of Binary Mixtures of Organics. J.Chem.Eng.Data 33 (1988) 415-417
+$$$Excess Volume Data Set 8037
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H10O	74.123	71-36-3	1-Butanol
+2	C8H10	106.167	106-42-3	p-Xylene
+Temperature	308.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0703	0.03906
+0.1241	0.09744
+0.14895	0.18101
+0.1353	0.25438
+0.13046	0.29036
+0.1099	0.36077
+0.08869	0.47053
+0.07659	0.51081
+0.0665	0.58524
+0.05123	0.66286
+0.03148	0.75156
+0.01055	0.82683
+-0.00219	0.88644
+-0.00414	0.96124
+Source
+Bhardwaj U.; Singh K.C.: Excess molar enthalpies of mixing of 1-butanol with aromatic hydrocarbons at 308.15 K. Indian J.Chem.Sect.A 37 (1998) 1063-1069
+Source
+Bhardwaj U.; Singh K.C.: Excess molar enthalpies of mixing of 1-butanol with aromatic hydrocarbons at 308.15 K. Indian J.Chem.Sect.A 37 (1998) 1063-1069
+Munk P.; Qin A.; Hoffman D.E.: Excess Volumes of Mixtures of Alkanols with Aromatic Hydrocarbons. Collect.Czech.Chem.Commun. 58 (1993) 2612-2624
+Fermeglia M.; Lapasin R.: Excess Volumes and Viscosities of Binary Mixtures of Organics. J.Chem.Eng.Data 33 (1988) 415-417

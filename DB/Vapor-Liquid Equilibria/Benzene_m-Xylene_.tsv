@@ -1,60 +1,60 @@
-$$$Vapor-Liquid Equilibrium Data Set 6609	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-3.938	0.24400	0.78600	
-4.046	0.25200	0.79000	
-5.558	0.38000	0.87400	
-6.610	0.47000	0.90900	
-7.642	0.55600	0.93100	
-8.662	0.64500	0.95500	
-9.502	0.71900	0.96700	
-10.628	0.82000	0.98100	
-11.832	0.92700	0.99300	
-Source	
-Boublik T.; Benson G.C.: Molar Excess Gibbs Free Energies of Benzene-m-Xylene Mixtures. Can.J.Chem. 47 (1969) 539-542	
-$$$Vapor-Liquid Equilibrium Data Set 6610	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	310.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-2.944	0.03700	0.29600	
-3.040	0.04200	0.31400	
-3.609	0.07200	0.44600	
-3.925	0.08500	0.50100	
-4.877	0.13700	0.61900	
-7.341	0.26800	0.78200	
-9.821	0.39400	0.86600	
-11.423	0.47400	0.90000	
-12.634	0.53500	0.91600	
-14.852	0.65100	0.94800	
-16.679	0.74500	0.96700	
-18.065	0.81900	0.97700	
-20.092	0.92800	0.99100	
-Source	
-Boublik T.; Benson G.C.: Molar Excess Gibbs Free Energies of Benzene-m-Xylene Mixtures. Can.J.Chem. 47 (1969) 539-542	
-$$$Vapor-Liquid Equilibrium Data Set 6611	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	323.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-5.684	0.04400	0.30800	
-7.014	0.08800	0.46400	
-7.255	0.09500	0.48800	
-8.862	0.14600	0.60300	
-12.942	0.27400	0.76900	
-16.692	0.38800	0.84800	
-19.625	0.48000	0.89000	
-21.532	0.53800	0.91100	
-25.251	0.65400	0.94300	
-28.238	0.74900	0.96200	
-29.971	0.80400	0.97500	
-30.717	0.82600	0.97600	
-Source	
-Boublik T.; Benson G.C.: Molar Excess Gibbs Free Energies of Benzene-m-Xylene Mixtures. Can.J.Chem. 47 (1969) 539-542	
-Source	
-Boublik T.; Benson G.C.: Molar Excess Gibbs Free Energies of Benzene-m-Xylene Mixtures. Can.J.Chem. 47 (1969) 539-542	
+$$$Vapor-Liquid Equilibrium Data Set 6609
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+3.938	0.24400	0.78600
+4.046	0.25200	0.79000
+5.558	0.38000	0.87400
+6.610	0.47000	0.90900
+7.642	0.55600	0.93100
+8.662	0.64500	0.95500
+9.502	0.71900	0.96700
+10.628	0.82000	0.98100
+11.832	0.92700	0.99300
+Source
+Boublik T.; Benson G.C.: Molar Excess Gibbs Free Energies of Benzene-m-Xylene Mixtures. Can.J.Chem. 47 (1969) 539-542
+$$$Vapor-Liquid Equilibrium Data Set 6610
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	310.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+2.944	0.03700	0.29600
+3.040	0.04200	0.31400
+3.609	0.07200	0.44600
+3.925	0.08500	0.50100
+4.877	0.13700	0.61900
+7.341	0.26800	0.78200
+9.821	0.39400	0.86600
+11.423	0.47400	0.90000
+12.634	0.53500	0.91600
+14.852	0.65100	0.94800
+16.679	0.74500	0.96700
+18.065	0.81900	0.97700
+20.092	0.92800	0.99100
+Source
+Boublik T.; Benson G.C.: Molar Excess Gibbs Free Energies of Benzene-m-Xylene Mixtures. Can.J.Chem. 47 (1969) 539-542
+$$$Vapor-Liquid Equilibrium Data Set 6611
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	323.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+5.684	0.04400	0.30800
+7.014	0.08800	0.46400
+7.255	0.09500	0.48800
+8.862	0.14600	0.60300
+12.942	0.27400	0.76900
+16.692	0.38800	0.84800
+19.625	0.48000	0.89000
+21.532	0.53800	0.91100
+25.251	0.65400	0.94300
+28.238	0.74900	0.96200
+29.971	0.80400	0.97500
+30.717	0.82600	0.97600
+Source
+Boublik T.; Benson G.C.: Molar Excess Gibbs Free Energies of Benzene-m-Xylene Mixtures. Can.J.Chem. 47 (1969) 539-542
+Source
+Boublik T.; Benson G.C.: Molar Excess Gibbs Free Energies of Benzene-m-Xylene Mixtures. Can.J.Chem. 47 (1969) 539-542

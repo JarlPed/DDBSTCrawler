@@ -1,31 +1,31 @@
-$$$Solid-Liquid Equilibrium Data Set 6622	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C4H8O2S	120.172	126-33-0	Sulfolane	
-2	C6H12	84.161	110-82-7	Cyclohexane	
-T [K]	xL1 [mol/mol]	
-292.35	0.94120	
-292.71	0.95000	
-293.11	0.95230	
-294.00	0.95700	
-294.46	0.96620	
-294.67	0.97060	
-295.01	0.97720	
-296.39	0.98560	
-301.60	1.00000	
-Source	
-Domanska U.; Moollan W.C.; Letcher T.M.: Solubility of Sulfolane in Selected Organic Solvents. J.Chem.Eng.Data 41 (1996) 261-265	
-$$$Solid-Liquid Equilibrium Data Set 44050	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C4H8O2S	120.172	126-33-0	Sulfolane	
-T [K]	xL1 [mol/mol]	
-301.60	0.00000	
-301.27	0.00234	
-300.95	0.00468	
-300.42	0.00932	
-299.92	0.01392	
-299.43	0.01849	
-298.94	0.02301	
-298.04	0.03192	
-Source	
-Jannelli J.; Della Monica M.; Della Monica A.: Pripietá chimico fisiche del solfolano. Gazz.Chim.Ital. 94 (1964) 552-566	
+$$$Solid-Liquid Equilibrium Data Set 6622
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C4H8O2S	120.172	126-33-0	Sulfolane
+2	C6H12	84.161	110-82-7	Cyclohexane
+T [K]	xL1 [mol/mol]
+292.35	0.94120
+292.71	0.95000
+293.11	0.95230
+294.00	0.95700
+294.46	0.96620
+294.67	0.97060
+295.01	0.97720
+296.39	0.98560
+301.60	1.00000
+Source
+Domanska U.; Moollan W.C.; Letcher T.M.: Solubility of Sulfolane in Selected Organic Solvents. J.Chem.Eng.Data 41 (1996) 261-265
+$$$Solid-Liquid Equilibrium Data Set 44050
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C4H8O2S	120.172	126-33-0	Sulfolane
+T [K]	xL1 [mol/mol]
+301.60	0.00000
+301.27	0.00234
+300.95	0.00468
+300.42	0.00932
+299.92	0.01392
+299.43	0.01849
+298.94	0.02301
+298.04	0.03192
+Source
+Jannelli J.; Della Monica M.; Della Monica A.: Pripietá chimico fisiche del solfolano. Gazz.Chim.Ital. 94 (1964) 552-566

@@ -1,57 +1,57 @@
-$$$Enthalpy of Mixing Data Set 689	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-171.544	0.05490	
-292.880	0.13150	
-527.184	0.24020	
-602.496	0.29600	
-606.680	0.36210	
-698.728	0.49450	
-736.384	0.60090	
-707.096	0.63920	
-640.152	0.69100	
-493.712	0.80900	
-313.800	0.89070	
-Source	
-Campbell A.N.; Kartzmark E.M.: Thermodynamic and other Properties of Methanol + Acetone, Carbon Disulphide + Acetone, Carbon Disulphide + Methanol and Carbon Disulphide + Methanol + Acetone. J.Chem.Thermodyn. 5 (1973) 163-172	
-$$$Enthalpy of Mixing Data Set 690	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-257.000	0.12200	
-424.000	0.20500	
-522.000	0.28200	
-590.000	0.33700	
-664.000	0.41400	
-713.000	0.49600	
-707.000	0.57600	
-659.000	0.63600	
-628.000	0.68500	
-444.000	0.82600	
-Source	
-Coomber B.A.; Wormald C.J.: The Excess Enthalpies of Acetone + Water and of Acetone + some Normal Alcohols. J.Chem.Thermodyn. 8 (1976) 793-799	
-$$$Enthalpy of Mixing Data Set 691	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	CH4O	32.042	67-56-1	Methanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-149.050	0.06940	
-386.860	0.19340	
-556.007	0.31300	
-632.207	0.39860	
-635.556	0.40340	
-671.144	0.48370	
-686.635	0.57560	
-541.353	0.75740	
-Source	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
-Source	
-Campbell A.N.; Kartzmark E.M.: Thermodynamic and other Properties of Methanol + Acetone, Carbon Disulphide + Acetone, Carbon Disulphide + Methanol and Carbon Disulphide + Methanol + Acetone. J.Chem.Thermodyn. 5 (1973) 163-172	
-Coomber B.A.; Wormald C.J.: The Excess Enthalpies of Acetone + Water and of Acetone + some Normal Alcohols. J.Chem.Thermodyn. 8 (1976) 793-799	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
+$$$Enthalpy of Mixing Data Set 689
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CH4O	32.042	67-56-1	Methanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+171.544	0.05490
+292.880	0.13150
+527.184	0.24020
+602.496	0.29600
+606.680	0.36210
+698.728	0.49450
+736.384	0.60090
+707.096	0.63920
+640.152	0.69100
+493.712	0.80900
+313.800	0.89070
+Source
+Campbell A.N.; Kartzmark E.M.: Thermodynamic and other Properties of Methanol + Acetone, Carbon Disulphide + Acetone, Carbon Disulphide + Methanol and Carbon Disulphide + Methanol + Acetone. J.Chem.Thermodyn. 5 (1973) 163-172
+$$$Enthalpy of Mixing Data Set 690
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CH4O	32.042	67-56-1	Methanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+257.000	0.12200
+424.000	0.20500
+522.000	0.28200
+590.000	0.33700
+664.000	0.41400
+713.000	0.49600
+707.000	0.57600
+659.000	0.63600
+628.000	0.68500
+444.000	0.82600
+Source
+Coomber B.A.; Wormald C.J.: The Excess Enthalpies of Acetone + Water and of Acetone + some Normal Alcohols. J.Chem.Thermodyn. 8 (1976) 793-799
+$$$Enthalpy of Mixing Data Set 691
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	CH4O	32.042	67-56-1	Methanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+149.050	0.06940
+386.860	0.19340
+556.007	0.31300
+632.207	0.39860
+635.556	0.40340
+671.144	0.48370
+686.635	0.57560
+541.353	0.75740
+Source
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222
+Source
+Campbell A.N.; Kartzmark E.M.: Thermodynamic and other Properties of Methanol + Acetone, Carbon Disulphide + Acetone, Carbon Disulphide + Methanol and Carbon Disulphide + Methanol + Acetone. J.Chem.Thermodyn. 5 (1973) 163-172
+Coomber B.A.; Wormald C.J.: The Excess Enthalpies of Acetone + Water and of Acetone + some Normal Alcohols. J.Chem.Thermodyn. 8 (1976) 793-799
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222

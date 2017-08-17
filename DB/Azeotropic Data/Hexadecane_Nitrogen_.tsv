@@ -1,9 +1,9 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C16H34	226.446	544-76-3	Hexadecane	
-2	N2	28.013	7727-37-9	Nitrogen	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-nonesupercrit	323.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1	
-nonesupercrit	373.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1	
-nonesupercrit	423.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1	
-nonesupercrit	zeotropic supercritical	
-1	Sultanov R.G.; Skripka V.G.; Namiot A.Y.: Die Phasengleichgewichte von Methan und Stickstoff mit hochsiedenden Kohelenwasserstoffen. Gazov.Delo (Moscow)  (1972) 43-46	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C16H34	226.446	544-76-3	Hexadecane
+2	N2	28.013	7727-37-9	Nitrogen
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+nonesupercrit	323.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1
+nonesupercrit	373.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1
+nonesupercrit	423.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1
+nonesupercrit	zeotropic supercritical
+1	Sultanov R.G.; Skripka V.G.; Namiot A.Y.: Die Phasengleichgewichte von Methan und Stickstoff mit hochsiedenden Kohelenwasserstoffen. Gazov.Delo (Moscow)  (1972) 43-46

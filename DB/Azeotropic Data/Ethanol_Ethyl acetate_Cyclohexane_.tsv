@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-3	C6H12	84.161	110-82-7	Cyclohexane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-homPmax	330.950	79.460	0.38400	0.11200	n.a.	n.a.	Author	1	
-homPmax	334.450	89.459	0.40300	0.09700	n.a.	n.a.	Author	1	
-homPmax	338.000	101.325	0.41600	0.08200	n.a.	n.a.	Author	1	
-homPmax	homogeneous pressure maximum	
-1	Storonkin A.V.; Morachevskii A.G.; Kudryavtseva L.S.: The Effect of Temperature and Pressure on the Composition of Ternary Azeotropes. Zh.Fiz.Khim. 31 (1957) 395-402	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+3	C6H12	84.161	110-82-7	Cyclohexane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+homPmax	330.950	79.460	0.38400	0.11200	n.a.	n.a.	Author	1
+homPmax	334.450	89.459	0.40300	0.09700	n.a.	n.a.	Author	1
+homPmax	338.000	101.325	0.41600	0.08200	n.a.	n.a.	Author	1
+homPmax	homogeneous pressure maximum
+1	Storonkin A.V.; Morachevskii A.G.; Kudryavtseva L.S.: The Effect of Temperature and Pressure on the Composition of Ternary Azeotropes. Zh.Fiz.Khim. 31 (1957) 395-402

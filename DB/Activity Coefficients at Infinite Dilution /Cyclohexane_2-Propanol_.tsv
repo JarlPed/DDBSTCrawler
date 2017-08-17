@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C3H8O	60.096	67-63-0	2-Propanol	
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source	
-312.80	23.400	EBUL	1	
-313.15	27.996	EBUL	2	
-322.90	18.340	EBUL	1	
-Short Term	Explanation	
-EBUL	ebulliometry	
-1	Trampe D.M.; Eckert C.A.: Limiting Activity Coefficients from an Improved Differential Boiling Point Technique. J.Chem.Eng.Data 35 (1990) 156-162	
-2	Pividal K.A.; Sandler S.I.: Infinite Dilution Activity Coefficients of Binary Systems Containing Primary Amines and Alcohols. J.Chem.Eng.Data 35 (1990) 53-60	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C3H8O	60.096	67-63-0	2-Propanol
+Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
+312.80	23.400	EBUL	1
+313.15	27.996	EBUL	2
+322.90	18.340	EBUL	1
+Short Term	Explanation
+EBUL	ebulliometry
+1	Trampe D.M.; Eckert C.A.: Limiting Activity Coefficients from an Improved Differential Boiling Point Technique. J.Chem.Eng.Data 35 (1990) 156-162
+2	Pividal K.A.; Sandler S.I.: Infinite Dilution Activity Coefficients of Binary Systems Containing Primary Amines and Alcohols. J.Chem.Eng.Data 35 (1990) 53-60

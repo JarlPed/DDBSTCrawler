@@ -1,10 +1,10 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-2	C2H6O	46.069	64-17-5	Ethanol	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	53.329	n.a.	n.a.	n.a.	Author	2	
-none	n.a.	100.868	n.a.	n.a.	n.a.	Author	2	
-none	323.150	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	zeotropic	
-1	Gonzalez C.; van Ness H.C.: 9. Total-Pressure Data and gE for Water / Ethylene Glycol / Ethanol at 50 °C. J.Chem.Eng.Data 28 (1983) 410-412	
-2	Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+2	C2H6O	46.069	64-17-5	Ethanol
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	53.329	n.a.	n.a.	n.a.	Author	2
+none	n.a.	100.868	n.a.	n.a.	n.a.	Author	2
+none	323.150	n.a.	n.a.	n.a.	n.a.	Author	1
+none	zeotropic
+1	Gonzalez C.; van Ness H.C.: 9. Total-Pressure Data and gE for Water / Ethylene Glycol / Ethanol at 50 °C. J.Chem.Eng.Data 28 (1983) 410-412
+2	Villa Rivera J.E.: Application a la Deshydratation par Distillation des Melanges d'Alcools de Synthese. Thesis  (1983)

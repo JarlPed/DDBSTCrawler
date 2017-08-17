@@ -1,8 +1,8 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O	46.069	64-17-5	Ethanol	
-2	C6H14	86.177	110-54-3	Hexane	
-3	C6H12	84.161	592-41-6	1-Hexene	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-none	349.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	1	
-none	zeotropic	
-1	Kudryavtseva L.S.; Viit Kh.Kh.; Eizen O.G.: Liquid-Vapour Equilibria in the Ethanol-Heptane-Isooctane and Hex-1-ene-Hexane-Ethanol Ternary Systems. Viniti  (1971) 1-11	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O	46.069	64-17-5	Ethanol
+2	C6H14	86.177	110-54-3	Hexane
+3	C6H12	84.161	592-41-6	1-Hexene
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+none	349.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	1
+none	zeotropic
+1	Kudryavtseva L.S.; Viit Kh.Kh.; Eizen O.G.: Liquid-Vapour Equilibria in the Ethanol-Heptane-Isooctane and Hex-1-ene-Hexane-Ethanol Ternary Systems. Viniti  (1971) 1-11

@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H8O	60.096	67-63-0	2-Propanol	
-2	CH4O	32.042	67-56-1	Methanol	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source	
-none	313.150	n.a.	n.a.	n.a.	n.a.	Author from VLE	3	
-none	323.150	n.a.	n.a.	n.a.	n.a.	Author from VLE	2	
-none	328.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1	
-none	zeotropic	
-1	Freshwater D.C.; Pike K.A.: Vapor-Liquid Equilibrium Data for Systems of Acetone-Methanol Isopropanol. J.Chem.Eng.Data 12 (1967) 179-183	
-2	Olivares A.; Suares J.; Trejo A.: Estudio del Equilibrio Liquido - Vapor por Ebulliometria Dinamica. Rev.Inst.Mex.Petrol. 16 (1984) 48-56	
-3	Oracz P.: Liquid-Vapor Equilibrium and Excess Gibbs Energy of 2-Propanol + 1-Alkanols (C1-C5) or + 2-Methyl-1-propanol. Int.Data Series Sel.Data Mixtures Ser. A 1989 (1989) 268-285	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H8O	60.096	67-63-0	2-Propanol
+2	CH4O	32.042	67-56-1	Methanol
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
+none	313.150	n.a.	n.a.	n.a.	n.a.	Author from VLE	3
+none	323.150	n.a.	n.a.	n.a.	n.a.	Author from VLE	2
+none	328.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST	1
+none	zeotropic
+1	Freshwater D.C.; Pike K.A.: Vapor-Liquid Equilibrium Data for Systems of Acetone-Methanol Isopropanol. J.Chem.Eng.Data 12 (1967) 179-183
+2	Olivares A.; Suares J.; Trejo A.: Estudio del Equilibrio Liquido - Vapor por Ebulliometria Dinamica. Rev.Inst.Mex.Petrol. 16 (1984) 48-56
+3	Oracz P.: Liquid-Vapor Equilibrium and Excess Gibbs Energy of 2-Propanol + 1-Alkanols (C1-C5) or + 2-Methyl-1-propanol. Int.Data Series Sel.Data Mixtures Ser. A 1989 (1989) 268-285

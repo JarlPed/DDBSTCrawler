@@ -1,70 +1,70 @@
-$$$Excess Volume Data Set 1722	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	303.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0510	0.07500	
-0.0980	0.12440	
-0.1600	0.20000	
-0.2020	0.27000	
-0.2690	0.46300	
-0.2730	0.47370	
-0.2450	0.59290	
-0.1380	0.77320	
-0.0740	0.86510	
-Source	
-Rastogi R.P.; Nath J.; Misra J.: II. Mixtures of Carbon Tetrachloride, Benzene, o-Xylene, and m-Xylene. J.Phys.Chem. 71 (1967) 2524-2535	
-$$$Excess Volume Data Set 1839	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.0185	0.02580	
-0.0581	0.06660	
-0.1045	0.11740	
-0.1622	0.19090	
-0.2094	0.26250	
-0.2439	0.33080	
-0.2717	0.40470	
-0.2861	0.46480	
-0.2919	0.51730	
-0.2978	0.53200	
-0.2921	0.56290	
-0.2966	0.56580	
-0.2882	0.60260	
-0.2915	0.60970	
-0.2837	0.63650	
-0.2809	0.65480	
-0.2640	0.70270	
-0.2391	0.75370	
-0.2065	0.80400	
-0.1682	0.85210	
-0.1249	0.89740	
-0.0826	0.93570	
-0.0485	0.96300	
-0.0194	0.98530	
-Source	
-Singh J.; Pflug H.D.; Benson G.C.: Molar Excess Enthalpies and Volumes of Benzene-Isomeric Xylene Systems at 25°. J.Phys.Chem. 72 (1968) 1939-1944	
-$$$Excess Volume Data Set 7573	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H6	78.114	71-43-2	Benzene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	293.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
-0.09473	0.13120	
-0.15692	0.24340	
-0.25595	0.37988	
-0.28475	0.47733	
-0.23206	0.58030	
-0.2283	0.66851	
-0.1961	0.76251	
-0.14466	0.84397	
-0.07736	0.92225	
-Source	
-Sumer K.M.; Thompson A.R.: Refraction, Dispersion, and Densities of Benzene, Toluene, and Xylene Mixtures. J.Chem.Eng.Data 13 (1968) 30-34	
-Source	
-Rastogi R.P.; Nath J.; Misra J.: II. Mixtures of Carbon Tetrachloride, Benzene, o-Xylene, and m-Xylene. J.Phys.Chem. 71 (1967) 2524-2535	
-Singh J.; Pflug H.D.; Benson G.C.: Molar Excess Enthalpies and Volumes of Benzene-Isomeric Xylene Systems at 25°. J.Phys.Chem. 72 (1968) 1939-1944	
-Sumer K.M.; Thompson A.R.: Refraction, Dispersion, and Densities of Benzene, Toluene, and Xylene Mixtures. J.Chem.Eng.Data 13 (1968) 30-34	
+$$$Excess Volume Data Set 1722
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	303.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0510	0.07500
+0.0980	0.12440
+0.1600	0.20000
+0.2020	0.27000
+0.2690	0.46300
+0.2730	0.47370
+0.2450	0.59290
+0.1380	0.77320
+0.0740	0.86510
+Source
+Rastogi R.P.; Nath J.; Misra J.: II. Mixtures of Carbon Tetrachloride, Benzene, o-Xylene, and m-Xylene. J.Phys.Chem. 71 (1967) 2524-2535
+$$$Excess Volume Data Set 1839
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.0185	0.02580
+0.0581	0.06660
+0.1045	0.11740
+0.1622	0.19090
+0.2094	0.26250
+0.2439	0.33080
+0.2717	0.40470
+0.2861	0.46480
+0.2919	0.51730
+0.2978	0.53200
+0.2921	0.56290
+0.2966	0.56580
+0.2882	0.60260
+0.2915	0.60970
+0.2837	0.63650
+0.2809	0.65480
+0.2640	0.70270
+0.2391	0.75370
+0.2065	0.80400
+0.1682	0.85210
+0.1249	0.89740
+0.0826	0.93570
+0.0485	0.96300
+0.0194	0.98530
+Source
+Singh J.; Pflug H.D.; Benson G.C.: Molar Excess Enthalpies and Volumes of Benzene-Isomeric Xylene Systems at 25°. J.Phys.Chem. 72 (1968) 1939-1944
+$$$Excess Volume Data Set 7573
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H6	78.114	71-43-2	Benzene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	293.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+0.09473	0.13120
+0.15692	0.24340
+0.25595	0.37988
+0.28475	0.47733
+0.23206	0.58030
+0.2283	0.66851
+0.1961	0.76251
+0.14466	0.84397
+0.07736	0.92225
+Source
+Sumer K.M.; Thompson A.R.: Refraction, Dispersion, and Densities of Benzene, Toluene, and Xylene Mixtures. J.Chem.Eng.Data 13 (1968) 30-34
+Source
+Rastogi R.P.; Nath J.; Misra J.: II. Mixtures of Carbon Tetrachloride, Benzene, o-Xylene, and m-Xylene. J.Phys.Chem. 71 (1967) 2524-2535
+Singh J.; Pflug H.D.; Benson G.C.: Molar Excess Enthalpies and Volumes of Benzene-Isomeric Xylene Systems at 25°. J.Phys.Chem. 72 (1968) 1939-1944
+Sumer K.M.; Thompson A.R.: Refraction, Dispersion, and Densities of Benzene, Toluene, and Xylene Mixtures. J.Chem.Eng.Data 13 (1968) 30-34

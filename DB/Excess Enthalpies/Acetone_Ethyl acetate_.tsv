@@ -1,38 +1,38 @@
-$$$Enthalpy of Mixing Data Set 1347	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-93.366	0.20620	
-119.742	0.32370	
-132.722	0.50460	
-131.047	0.59650	
-123.511	0.66440	
-98.390	0.75350	
-44.799	0.91280	
-Source	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
-$$$Enthalpy of Mixing Data Set 8903	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C4H8O2	88.106	141-78-6	Ethyl acetate	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
-68.300	0.17440	
-98.500	0.25500	
-122.200	0.34350	
-134.800	0.44360	
-133.100	0.55020	
-126.300	0.59770	
-125.700	0.60330	
-114.100	0.67040	
-98.100	0.73450	
-80.000	0.80120	
-57.800	0.86520	
-36.100	0.92120	
-Source	
-Shen S.; Wang Y.; Shi J.; Benson G.C.; Lu B.C.-Y.: Excess Enthalpies of the Systems Acetone + Ethyl Acetate and Cyclohexane + Cyclohexanone. J.Chem.Eng.Data 37 (1992) 400-402	
-Source	
-Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222	
-Shen S.; Wang Y.; Shi J.; Benson G.C.; Lu B.C.-Y.: Excess Enthalpies of the Systems Acetone + Ethyl Acetate and Cyclohexane + Cyclohexanone. J.Chem.Eng.Data 37 (1992) 400-402	
+$$$Enthalpy of Mixing Data Set 1347
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+93.366	0.20620
+119.742	0.32370
+132.722	0.50460
+131.047	0.59650
+123.511	0.66440
+98.390	0.75350
+44.799	0.91280
+Source
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222
+$$$Enthalpy of Mixing Data Set 8903
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C4H8O2	88.106	141-78-6	Ethyl acetate
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+68.300	0.17440
+98.500	0.25500
+122.200	0.34350
+134.800	0.44360
+133.100	0.55020
+126.300	0.59770
+125.700	0.60330
+114.100	0.67040
+98.100	0.73450
+80.000	0.80120
+57.800	0.86520
+36.100	0.92120
+Source
+Shen S.; Wang Y.; Shi J.; Benson G.C.; Lu B.C.-Y.: Excess Enthalpies of the Systems Acetone + Ethyl Acetate and Cyclohexane + Cyclohexanone. J.Chem.Eng.Data 37 (1992) 400-402
+Source
+Hirobe H.: Thermochemical Studies. J.Fac.Sci.Univ.Tokyo Sec.1 1 (1926) 155-222
+Shen S.; Wang Y.; Shi J.; Benson G.C.; Lu B.C.-Y.: Excess Enthalpies of the Systems Acetone + Ethyl Acetate and Cyclohexane + Cyclohexanone. J.Chem.Eng.Data 37 (1992) 400-402

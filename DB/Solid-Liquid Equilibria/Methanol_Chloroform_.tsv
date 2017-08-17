@@ -1,31 +1,31 @@
-$$$Solid-Liquid Equilibrium Data Set 540	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CH4O	32.042	67-56-1	Methanol	
-2	CHCl3	119.377	67-66-3	Chloroform	
-T [K]	xL1 [mol/mol]	
-209.65	0.00000	
-207.45	0.26443	
-197.75	0.54596	
-189.55	0.70168	
-178.45	0.79694	
-161.35	0.86932	
-167.95	0.94365	
-175.35	1.00000	
-Source	
-Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408	
-$$$Solid-Liquid Equilibrium Data Set 42385	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-T [K]	xL1 [mol/mol]	
-195.65	0.44800	
-Source	
-Fisher Wyatt W.: Part II. The Freezing-Point Diagrams and Latent Heats of Evaporation of Binary Mixtures of Volatile Liquids. Trans.Faraday Soc. 25 (1929) 43-48	
-$$$Solid-Liquid Equilibrium Data Set 42386	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-T [K]	xL1 [mol/mol]	xS1 [mol/mol]	
-161.35	0.12400	0.12400	
-Source	
-Fisher Wyatt W.: Part II. The Freezing-Point Diagrams and Latent Heats of Evaporation of Binary Mixtures of Volatile Liquids. Trans.Faraday Soc. 25 (1929) 43-48	
+$$$Solid-Liquid Equilibrium Data Set 540
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CH4O	32.042	67-56-1	Methanol
+2	CHCl3	119.377	67-66-3	Chloroform
+T [K]	xL1 [mol/mol]
+209.65	0.00000
+207.45	0.26443
+197.75	0.54596
+189.55	0.70168
+178.45	0.79694
+161.35	0.86932
+167.95	0.94365
+175.35	1.00000
+Source
+Sapgir S.: VII. Application de l'analyse thermique à des mélanges binaires de composés organiques fondant à tres basse temperature. Bull.Soc.Chim.Belg. 38 (1929) 392-408
+$$$Solid-Liquid Equilibrium Data Set 42385
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+T [K]	xL1 [mol/mol]
+195.65	0.44800
+Source
+Fisher Wyatt W.: Part II. The Freezing-Point Diagrams and Latent Heats of Evaporation of Binary Mixtures of Volatile Liquids. Trans.Faraday Soc. 25 (1929) 43-48
+$$$Solid-Liquid Equilibrium Data Set 42386
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+T [K]	xL1 [mol/mol]	xS1 [mol/mol]
+161.35	0.124000.12400
+Source
+Fisher Wyatt W.: Part II. The Freezing-Point Diagrams and Latent Heats of Evaporation of Binary Mixtures of Volatile Liquids. Trans.Faraday Soc. 25 (1929) 43-48

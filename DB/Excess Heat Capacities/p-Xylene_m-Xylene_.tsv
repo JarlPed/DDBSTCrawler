@@ -1,56 +1,56 @@
-$$$Excess Heat Capacity Data Set 537	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-0.0080	0.11065	
-0.0080	0.20220	
-0.0090	0.30582	
-0.0100	0.39271	
-0.0160	0.50007	
-0.0160	0.60611	
-0.0180	0.69530	
-0.0190	0.79491	
-0.0160	0.89616	
-Source	
-Fortier J.-L.; Benson G.C.: Heat Capacities of Binary C8 Alkylbenzene Mixtures. J.Chem.Eng.Data 25 (1980) 47-49	
-$$$Excess Heat Capacity Data Set 730	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	303.65	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-0.0030	0.04900	
-0.0070	0.14900	
-0.0110	0.25210	
-0.0150	0.35110	
-0.0170	0.45170	
-0.0200	0.54890	
-0.0210	0.65020	
-0.0200	0.74580	
-0.0170	0.84790	
-0.0100	0.95170	
-Source	
-Jain D.V.S.; Chadha R.; Sehgal S.K.: Excess molar heat capacities of binary mixtures of the isomeric xylenes at 303.65 - 321.65 K. Fluid Phase Equilib. 96 (1994) 195-202	
-$$$Excess Heat Capacity Data Set 731	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C8H10	106.167	106-42-3	p-Xylene	
-2	C8H10	106.167	108-38-3	m-Xylene	
-Temperature	306.65	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
-0.0030	0.04900	
-0.0070	0.14900	
-0.0120	0.25210	
-0.0160	0.35110	
-0.0180	0.45170	
-0.0210	0.54890	
-0.0220	0.65020	
-0.0210	0.74580	
-0.0180	0.84790	
-0.0110	0.95170	
-Source	
-Jain D.V.S.; Chadha R.; Sehgal S.K.: Excess molar heat capacities of binary mixtures of the isomeric xylenes at 303.65 - 321.65 K. Fluid Phase Equilib. 96 (1994) 195-202	
-Source	
-Fortier J.-L.; Benson G.C.: Heat Capacities of Binary C8 Alkylbenzene Mixtures. J.Chem.Eng.Data 25 (1980) 47-49	
-Jain D.V.S.; Chadha R.; Sehgal S.K.: Excess molar heat capacities of binary mixtures of the isomeric xylenes at 303.65 - 321.65 K. Fluid Phase Equilib. 96 (1994) 195-202	
+$$$Excess Heat Capacity Data Set 537
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+0.0080	0.11065
+0.0080	0.20220
+0.0090	0.30582
+0.0100	0.39271
+0.0160	0.50007
+0.0160	0.60611
+0.0180	0.69530
+0.0190	0.79491
+0.0160	0.89616
+Source
+Fortier J.-L.; Benson G.C.: Heat Capacities of Binary C8 Alkylbenzene Mixtures. J.Chem.Eng.Data 25 (1980) 47-49
+$$$Excess Heat Capacity Data Set 730
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	303.65	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+0.0030	0.04900
+0.0070	0.14900
+0.0110	0.25210
+0.0150	0.35110
+0.0170	0.45170
+0.0200	0.54890
+0.0210	0.65020
+0.0200	0.74580
+0.0170	0.84790
+0.0100	0.95170
+Source
+Jain D.V.S.; Chadha R.; Sehgal S.K.: Excess molar heat capacities of binary mixtures of the isomeric xylenes at 303.65 - 321.65 K. Fluid Phase Equilib. 96 (1994) 195-202
+$$$Excess Heat Capacity Data Set 731
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C8H10	106.167	106-42-3	p-Xylene
+2	C8H10	106.167	108-38-3	m-Xylene
+Temperature	306.65	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+0.0030	0.04900
+0.0070	0.14900
+0.0120	0.25210
+0.0160	0.35110
+0.0180	0.45170
+0.0210	0.54890
+0.0220	0.65020
+0.0210	0.74580
+0.0180	0.84790
+0.0110	0.95170
+Source
+Jain D.V.S.; Chadha R.; Sehgal S.K.: Excess molar heat capacities of binary mixtures of the isomeric xylenes at 303.65 - 321.65 K. Fluid Phase Equilib. 96 (1994) 195-202
+Source
+Fortier J.-L.; Benson G.C.: Heat Capacities of Binary C8 Alkylbenzene Mixtures. J.Chem.Eng.Data 25 (1980) 47-49
+Jain D.V.S.; Chadha R.; Sehgal S.K.: Excess molar heat capacities of binary mixtures of the isomeric xylenes at 303.65 - 321.65 K. Fluid Phase Equilib. 96 (1994) 195-202

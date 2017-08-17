@@ -1,55 +1,55 @@
-$$$Vapor-Liquid Equilibrium Data Set 25570	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	653.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-22270.835	0.020305	0.000215878986637	
-21623.688	0.028186	0.000104828999611	
-20564.575	0.05159	8.63265013322E-5	
-19946.760	0.06580	5.24085007783E-5	
-18760.057	0.08738	4.00760000048E-5	
-18044.249	0.10847	2.80524000118E-5	
-17249.915	0.11522	2.62027006102E-5	
-16514.375	0.13915	2.21949994739E-5	
-15935.756	0.17343	3.08248985448E-7	
-Source	
-Parisod C.J.; Plattner E.: Vapor-Liquid Equilibria of the NaCl-H2O System in the Temperature Range 300-440 °C. J.Chem.Eng.Data 26 (1981) 16-20	
-$$$Vapor-Liquid Equilibrium Data Set 25571	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	673.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-27821.445	0.02370	0.000648265006021	
-27890.106	0.032405	0.000308461982058	
-24349.864	0.07616	0.000101744997664	
-23398.609	0.09363	2.28116005019E-5	
-22114.048	0.11767	1.10972005132E-5	
-21054.935	0.12719	1.01724999695E-5	
-20495.914	0.16521	1.04807004391E-5	
-19073.898	0.18618	4.0072700358E-6	
-Source	
-Parisod C.J.; Plattner E.: Vapor-Liquid Equilibria of the NaCl-H2O System in the Temperature Range 300-440 °C. J.Chem.Eng.Data 26 (1981) 16-20	
-$$$Vapor-Liquid Equilibrium Data Set 25572	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	ClNa	58.442	7647-14-5	Sodium chloride	
-2	H2O	18.015	7732-18-5	Water	
-Temperature	693.15	K	
-P [kPa]	x1 [mol/mol]	y1 [mol/mol]	
-32342.273	0.03562	0.0024797199294	
-31440.081	0.05197	0.00167079002131	
-30380.968	0.06539	0.0010505199898	
-29763.152	0.07363	0.000833829981275	
-28635.378	0.09589	0.000432	
-28331.403	0.09681	0.000432	
-27390.014	0.11038	0.000299201987218	
-26066.123	0.12924	0.000185026001418	
-24859.822	0.14397	0.000129501990159	
-23526.198	0.16175	7.7075601439E-5	
-22653.337	0.18004	6.47417036816E-5	
-21702.082	0.20271	4.93252991873E-5	
-Source	
-Parisod C.J.; Plattner E.: Vapor-Liquid Equilibria of the NaCl-H2O System in the Temperature Range 300-440 °C. J.Chem.Eng.Data 26 (1981) 16-20	
-Source	
-Parisod C.J.; Plattner E.: Vapor-Liquid Equilibria of the NaCl-H2O System in the Temperature Range 300-440 °C. J.Chem.Eng.Data 26 (1981) 16-20	
+$$$Vapor-Liquid Equilibrium Data Set 25570
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	H2O	18.015	7732-18-5	Water
+Temperature	653.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+22270.835	0.020305	0.000215878986637
+21623.688	0.028186	0.000104828999611
+20564.575	0.05159	8.63265013322E-5
+19946.760	0.06580	5.24085007783E-5
+18760.057	0.08738	4.00760000048E-5
+18044.249	0.10847	2.80524000118E-5
+17249.915	0.11522	2.62027006102E-5
+16514.375	0.13915	2.21949994739E-5
+15935.756	0.17343	3.08248985448E-7
+Source
+Parisod C.J.; Plattner E.: Vapor-Liquid Equilibria of the NaCl-H2O System in the Temperature Range 300-440 °C. J.Chem.Eng.Data 26 (1981) 16-20
+$$$Vapor-Liquid Equilibrium Data Set 25571
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	H2O	18.015	7732-18-5	Water
+Temperature	673.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+27821.445	0.02370	0.000648265006021
+27890.106	0.032405	0.000308461982058
+24349.864	0.07616	0.000101744997664
+23398.609	0.09363	2.28116005019E-5
+22114.048	0.11767	1.10972005132E-5
+21054.935	0.12719	1.01724999695E-5
+20495.914	0.16521	1.04807004391E-5
+19073.898	0.18618	4.0072700358E-6
+Source
+Parisod C.J.; Plattner E.: Vapor-Liquid Equilibria of the NaCl-H2O System in the Temperature Range 300-440 °C. J.Chem.Eng.Data 26 (1981) 16-20
+$$$Vapor-Liquid Equilibrium Data Set 25572
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	ClNa	58.442	7647-14-5	Sodium chloride
+2	H2O	18.015	7732-18-5	Water
+Temperature	693.15	K
+P [kPa]	x1 [mol/mol]	y1 [mol/mol]
+32342.273	0.03562	0.0024797199294
+31440.081	0.05197	0.00167079002131
+30380.968	0.06539	0.0010505199898
+29763.152	0.07363	0.000833829981275
+28635.378	0.09589	0.000432
+28331.403	0.09681	0.000432
+27390.014	0.11038	0.000299201987218
+26066.123	0.12924	0.000185026001418
+24859.822	0.14397	0.000129501990159
+23526.198	0.16175	7.7075601439E-5
+22653.337	0.18004	6.47417036816E-5
+21702.082	0.20271	4.93252991873E-5
+Source
+Parisod C.J.; Plattner E.: Vapor-Liquid Equilibria of the NaCl-H2O System in the Temperature Range 300-440 °C. J.Chem.Eng.Data 26 (1981) 16-20
+Source
+Parisod C.J.; Plattner E.: Vapor-Liquid Equilibria of the NaCl-H2O System in the Temperature Range 300-440 °C. J.Chem.Eng.Data 26 (1981) 16-20

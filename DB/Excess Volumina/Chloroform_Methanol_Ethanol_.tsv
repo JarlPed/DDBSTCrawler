@@ -1,23 +1,23 @@
-$$$Excess Volume Data Set 5022	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	CH4O	32.042	67-56-1	Methanol	
-3	C2H6O	46.069	64-17-5	Ethanol	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]	
--0.15092	0.13289	0.68702	
--0.10034	0.12167	0.51276	
--0.08666	0.13425	0.27813	
--0.10194	0.27509	0.52053	
--0.1344	0.35418	0.32168	
--0.4136	0.30034	0.30266	
-0.020504	0.46217	0.29851	
--0.10334	0.18510	0.51648	
--0.7048	0.17137	0.43727	
--0.1997	0.65370	0.20909	
--0.23624	0.08371	0.15945	
--0.04524	0.04059	0.86951	
-Source	
-Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340	
-Source	
-Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340	
+$$$Excess Volume Data Set 5022
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	CH4O	32.042	67-56-1	Methanol
+3	C2H6O	46.069	64-17-5	Ethanol
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]	x2 [mol/mol]
+-0.15092	0.13289	0.68702
+-0.10034	0.12167	0.51276
+-0.08666	0.13425	0.27813
+-0.10194	0.27509	0.52053
+-0.1344	0.35418	0.32168
+-0.4136	0.30034	0.30266
+0.020504	0.46217	0.29851
+-0.10334	0.18510	0.51648
+-0.7048	0.17137	0.43727
+-0.1997	0.65370	0.20909
+-0.23624	0.08371	0.15945
+-0.04524	0.04059	0.86951
+Source
+Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340
+Source
+Wei I.-C.; Rowley R.L.: Ternary Liquid Mixture Viscosities and Densities. J.Chem.Eng.Data 29 (1984) 336-340

@@ -1,61 +1,61 @@
-$$$Enthalpy of Mixing Data Set 1939	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	298.150	K	
-hE [J/mol]	x1 [mol/mol]	
-39.356	0.02700	
-152.818	0.09000	
-319.034	0.23700	
-414.493	0.30400	
-508.277	0.36800	
-592.851	0.49000	
-648.116	0.61400	
-633.044	0.70000	
-594.107	0.75300	
-307.730	0.95900	
-227.762	0.98100	
-Source	
-Belousov V.P.; Kurtynina L.M.; Kozulyaev A.A.: VII.Mischungswärme des Cyclohexans mit Propanol, n-Butanol, Isobutanol und Dekanol. Vestn.Leningr.Univ.Fiz.Khim.  (1970) 163-166	
-$$$Enthalpy of Mixing Data Set 1940	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	308.150	K	
-hE [J/mol]	x1 [mol/mol]	
-124.767	0.07400	
-235.298	0.13800	
-515.814	0.33700	
-625.089	0.43600	
-707.150	0.52100	
-731.853	0.60600	
-726.828	0.70600	
-676.168	0.77700	
-601.224	0.83000	
-476.876	0.92000	
-414.912	0.94300	
-Source	
-Belousov V.P.; Kurtynina L.M.; Kozulyaev A.A.: VII.Mischungswärme des Cyclohexans mit Propanol, n-Butanol, Isobutanol und Dekanol. Vestn.Leningr.Univ.Fiz.Khim.  (1970) 163-166	
-$$$Enthalpy of Mixing Data Set 1941	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C6H12	84.161	110-82-7	Cyclohexane	
-2	C4H10O	74.123	71-36-3	1-Butanol	
-Temperature	318.150	K	
-hE [J/mol]	x1 [mol/mol]	
-211.433	0.09800	
-260.000	0.12700	
-544.284	0.28500	
-711.756	0.40600	
-788.374	0.49100	
-846.990	0.55400	
-869.179	0.60600	
-872.948	0.61700	
-888.439	0.65200	
-848.246	0.74200	
-766.603	0.82000	
-575.685	0.92400	
-509.533	0.94200	
-Source	
-Belousov V.P.; Kurtynina L.M.; Kozulyaev A.A.: VII.Mischungswärme des Cyclohexans mit Propanol, n-Butanol, Isobutanol und Dekanol. Vestn.Leningr.Univ.Fiz.Khim.  (1970) 163-166	
-Source	
-Belousov V.P.; Kurtynina L.M.; Kozulyaev A.A.: VII.Mischungswärme des Cyclohexans mit Propanol, n-Butanol, Isobutanol und Dekanol. Vestn.Leningr.Univ.Fiz.Khim.  (1970) 163-166	
+$$$Enthalpy of Mixing Data Set 1939
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	298.150	K
+hE [J/mol]	x1 [mol/mol]
+39.356	0.02700
+152.818	0.09000
+319.034	0.23700
+414.493	0.30400
+508.277	0.36800
+592.851	0.49000
+648.116	0.61400
+633.044	0.70000
+594.107	0.75300
+307.730	0.95900
+227.762	0.98100
+Source
+Belousov V.P.; Kurtynina L.M.; Kozulyaev A.A.: VII.Mischungswärme des Cyclohexans mit Propanol, n-Butanol, Isobutanol und Dekanol. Vestn.Leningr.Univ.Fiz.Khim.  (1970) 163-166
+$$$Enthalpy of Mixing Data Set 1940
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	308.150	K
+hE [J/mol]	x1 [mol/mol]
+124.767	0.07400
+235.298	0.13800
+515.814	0.33700
+625.089	0.43600
+707.150	0.52100
+731.853	0.60600
+726.828	0.70600
+676.168	0.77700
+601.224	0.83000
+476.876	0.92000
+414.912	0.94300
+Source
+Belousov V.P.; Kurtynina L.M.; Kozulyaev A.A.: VII.Mischungswärme des Cyclohexans mit Propanol, n-Butanol, Isobutanol und Dekanol. Vestn.Leningr.Univ.Fiz.Khim.  (1970) 163-166
+$$$Enthalpy of Mixing Data Set 1941
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C6H12	84.161	110-82-7	Cyclohexane
+2	C4H10O	74.123	71-36-3	1-Butanol
+Temperature	318.150	K
+hE [J/mol]	x1 [mol/mol]
+211.433	0.09800
+260.000	0.12700
+544.284	0.28500
+711.756	0.40600
+788.374	0.49100
+846.990	0.55400
+869.179	0.60600
+872.948	0.61700
+888.439	0.65200
+848.246	0.74200
+766.603	0.82000
+575.685	0.92400
+509.533	0.94200
+Source
+Belousov V.P.; Kurtynina L.M.; Kozulyaev A.A.: VII.Mischungswärme des Cyclohexans mit Propanol, n-Butanol, Isobutanol und Dekanol. Vestn.Leningr.Univ.Fiz.Khim.  (1970) 163-166
+Source
+Belousov V.P.; Kurtynina L.M.; Kozulyaev A.A.: VII.Mischungswärme des Cyclohexans mit Propanol, n-Butanol, Isobutanol und Dekanol. Vestn.Leningr.Univ.Fiz.Khim.  (1970) 163-166

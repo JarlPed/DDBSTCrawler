@@ -1,96 +1,96 @@
-$$$Excess Volume Data Set 8	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.2520	0.10000	
--0.3960	0.15149	
--0.5000	0.19984	
--0.6500	0.25000	
--0.7410	0.30001	
--0.8690	0.34997	
--0.9620	0.39987	
--1.0530	0.45001	
--1.1110	0.49979	
--1.1620	0.55000	
--1.1950	0.59999	
--1.1740	0.65018	
--1.1380	0.69998	
--1.0380	0.74998	
--0.8980	0.79967	
--0.8260	0.82004	
--0.7480	0.83860	
--0.6490	0.85994	
--0.5520	0.87998	
--0.4510	0.89930	
--0.3440	0.91999	
--0.2380	0.93994	
--0.1360	0.96005	
--0.0560	0.98002	
-Source	
-Uosaki Y.; Sogo K.; Kunumine T.; Moriyoshi T.: Excess molar volumes of (a cyclic amide + water) at 298.15 K and 308.15 K.. J.Chem.Thermodyn. 22 (1990) 257-262	
-$$$Excess Volume Data Set 9	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	308.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.1570	0.05000	
--0.3100	0.10000	
--0.4490	0.15001	
--0.5750	0.20000	
--0.6810	0.25003	
--0.7910	0.30002	
--0.8840	0.34993	
--0.9790	0.40000	
--1.0450	0.44996	
--1.1020	0.49996	
--1.1370	0.55003	
--1.1490	0.59994	
--1.1280	0.65003	
--1.0800	0.70002	
--0.9810	0.74999	
--0.8410	0.79991	
--0.7690	0.81994	
--0.6920	0.83994	
--0.6040	0.86001	
--0.5110	0.87986	
--0.4180	0.90000	
--0.3210	0.91999	
--0.2440	0.94005	
--0.1330	0.95999	
--0.0550	0.98001	
-Source	
-Uosaki Y.; Sogo K.; Kunumine T.; Moriyoshi T.: Excess molar volumes of (a cyclic amide + water) at 298.15 K and 308.15 K.. J.Chem.Thermodyn. 22 (1990) 257-262	
-$$$Excess Volume Data Set 1049	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	H2O	18.015	7732-18-5	Water	
-2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone	
-Temperature	298.150	K	
-Excess Volume [cm3/mol]	x1 [mol/mol]	
--0.009232	0.00320	
--0.019028	0.01450	
--0.05962	0.03050	
--0.2624	0.09490	
--0.3579	0.14580	
--0.3666	0.15040	
--0.6808	0.26380	
--0.8838	0.36480	
--1.0466	0.44240	
--1.0607	0.46140	
--1.1588	0.54410	
--1.1730	0.65750	
--1.1716	0.66230	
--1.0359	0.75280	
--0.8079	0.82390	
--0.6677	0.85740	
--0.5981	0.87190	
--0.31086	0.92710	
--0.12164	0.96470	
--0.017097	0.99250	
-Source	
-Wu Z.; Zeck S.; Knapp H.: Measurements of the Solubility of Carbon Dioxide, Ethylene and Methane in n-Methylpyrrolidone and in its Aqueous Solution. Ber.Bunsen-Ges.Phys.Chem. 89 (1985) 1009-1013	
-Source	
-Uosaki Y.; Sogo K.; Kunumine T.; Moriyoshi T.: Excess molar volumes of (a cyclic amide + water) at 298.15 K and 308.15 K.. J.Chem.Thermodyn. 22 (1990) 257-262	
-Wu Z.; Zeck S.; Knapp H.: Measurements of the Solubility of Carbon Dioxide, Ethylene and Methane in n-Methylpyrrolidone and in its Aqueous Solution. Ber.Bunsen-Ges.Phys.Chem. 89 (1985) 1009-1013	
+$$$Excess Volume Data Set 8
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.2520	0.10000
+-0.3960	0.15149
+-0.5000	0.19984
+-0.6500	0.25000
+-0.7410	0.30001
+-0.8690	0.34997
+-0.9620	0.39987
+-1.0530	0.45001
+-1.1110	0.49979
+-1.1620	0.55000
+-1.1950	0.59999
+-1.1740	0.65018
+-1.1380	0.69998
+-1.0380	0.74998
+-0.8980	0.79967
+-0.8260	0.82004
+-0.7480	0.83860
+-0.6490	0.85994
+-0.5520	0.87998
+-0.4510	0.89930
+-0.3440	0.91999
+-0.2380	0.93994
+-0.1360	0.96005
+-0.0560	0.98002
+Source
+Uosaki Y.; Sogo K.; Kunumine T.; Moriyoshi T.: Excess molar volumes of (a cyclic amide + water) at 298.15 K and 308.15 K.. J.Chem.Thermodyn. 22 (1990) 257-262
+$$$Excess Volume Data Set 9
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	308.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.1570	0.05000
+-0.3100	0.10000
+-0.4490	0.15001
+-0.5750	0.20000
+-0.6810	0.25003
+-0.7910	0.30002
+-0.8840	0.34993
+-0.9790	0.40000
+-1.0450	0.44996
+-1.1020	0.49996
+-1.1370	0.55003
+-1.1490	0.59994
+-1.1280	0.65003
+-1.0800	0.70002
+-0.9810	0.74999
+-0.8410	0.79991
+-0.7690	0.81994
+-0.6920	0.83994
+-0.6040	0.86001
+-0.5110	0.87986
+-0.4180	0.90000
+-0.3210	0.91999
+-0.2440	0.94005
+-0.1330	0.95999
+-0.0550	0.98001
+Source
+Uosaki Y.; Sogo K.; Kunumine T.; Moriyoshi T.: Excess molar volumes of (a cyclic amide + water) at 298.15 K and 308.15 K.. J.Chem.Thermodyn. 22 (1990) 257-262
+$$$Excess Volume Data Set 1049
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	H2O	18.015	7732-18-5	Water
+2	C5H9NO	99.133	872-50-4	N-Methyl-2-pyrrolidone
+Temperature	298.150	K
+Excess Volume [cm3/mol]	x1 [mol/mol]
+-0.009232	0.00320
+-0.019028	0.01450
+-0.05962	0.03050
+-0.2624	0.09490
+-0.3579	0.14580
+-0.3666	0.15040
+-0.6808	0.26380
+-0.8838	0.36480
+-1.0466	0.44240
+-1.0607	0.46140
+-1.1588	0.54410
+-1.1730	0.65750
+-1.1716	0.66230
+-1.0359	0.75280
+-0.8079	0.82390
+-0.6677	0.85740
+-0.5981	0.87190
+-0.31086	0.92710
+-0.12164	0.96470
+-0.017097	0.99250
+Source
+Wu Z.; Zeck S.; Knapp H.: Measurements of the Solubility of Carbon Dioxide, Ethylene and Methane in n-Methylpyrrolidone and in its Aqueous Solution. Ber.Bunsen-Ges.Phys.Chem. 89 (1985) 1009-1013
+Source
+Uosaki Y.; Sogo K.; Kunumine T.; Moriyoshi T.: Excess molar volumes of (a cyclic amide + water) at 298.15 K and 308.15 K.. J.Chem.Thermodyn. 22 (1990) 257-262
+Wu Z.; Zeck S.; Knapp H.: Measurements of the Solubility of Carbon Dioxide, Ethylene and Methane in n-Methylpyrrolidone and in its Aqueous Solution. Ber.Bunsen-Ges.Phys.Chem. 89 (1985) 1009-1013

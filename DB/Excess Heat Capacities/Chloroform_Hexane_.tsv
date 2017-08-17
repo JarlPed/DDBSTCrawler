@@ -1,19 +1,19 @@
-$$$Excess Heat Capacity Data Set 883	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	CHCl3	119.377	67-66-3	Chloroform	
-2	C6H14	86.177	110-54-3	Hexane	
-Temperature	298.15	K	
-Excess Heat Capacity [J/mol*K]	x1 [mol/mol]	
--1.0100	0.10510	
--1.6900	0.22110	
--2.0100	0.31380	
--2.2300	0.40890	
--2.2300	0.51470	
--2.0800	0.60830	
--1.8000	0.70690	
--1.4100	0.80330	
--0.7500	0.90490	
-Source	
-Fenclova D.; Dohnal V.; Perez-Casas S.; Frigolet C.; Costas M.: Excess heat capacities, excess enthalpies, and excess volumes of trichloromethane + some oxygenated solvents or + the corresponding homomorphic hydrocarbons at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 1 (1995) 217-237	
-Source	
-Fenclova D.; Dohnal V.; Perez-Casas S.; Frigolet C.; Costas M.: Excess heat capacities, excess enthalpies, and excess volumes of trichloromethane + some oxygenated solvents or + the corresponding homomorphic hydrocarbons at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 1 (1995) 217-237	
+$$$Excess Heat Capacity Data Set 883
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	CHCl3	119.377	67-66-3	Chloroform
+2	C6H14	86.177	110-54-3	Hexane
+Temperature	298.15	K
+Excess Heat Capacity [J/mol*K]	x1 [mol/mol]
+-1.0100	0.10510
+-1.6900	0.22110
+-2.0100	0.31380
+-2.2300	0.40890
+-2.2300	0.51470
+-2.0800	0.60830
+-1.8000	0.70690
+-1.4100	0.80330
+-0.7500	0.90490
+Source
+Fenclova D.; Dohnal V.; Perez-Casas S.; Frigolet C.; Costas M.: Excess heat capacities, excess enthalpies, and excess volumes of trichloromethane + some oxygenated solvents or + the corresponding homomorphic hydrocarbons at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 1 (1995) 217-237
+Source
+Fenclova D.; Dohnal V.; Perez-Casas S.; Frigolet C.; Costas M.: Excess heat capacities, excess enthalpies, and excess volumes of trichloromethane + some oxygenated solvents or + the corresponding homomorphic hydrocarbons at 298.15 K. Eldata Int.Electron.J.Phys.-Chem.Data 1 (1995) 217-237

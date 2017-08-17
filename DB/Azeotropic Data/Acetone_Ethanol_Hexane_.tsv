@@ -1,11 +1,11 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C3H6O	58.080	67-64-1	Acetone	
-2	C2H6O	46.069	64-17-5	Ethanol	
-3	C6H14	86.177	110-54-3	Hexane	
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source	
-none	n.a.	101.320	n.a.	n.a.	n.a.	Distillation	Author	1	
-homPmax	360.520	304.000	0.61630	n.a.	0.35250	Distillation	Author	1	
-homPmax	379.170	506.000	0.55330	n.a.	0.35430	Distillation	Author	1	
-none	zeotropic	
-homPmax	homogeneous pressure maximum	
-1	Yan X.; Wang Q.; Chen G.; Han S.: Determination of Azeotropes at Superatmospheric Pressures for Binary and Ternary Systems. Huagong-Xuebao / CIESC J. 47 (1996) 106-109	
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C3H6O	58.080	67-64-1	Acetone
+2	C2H6O	46.069	64-17-5	Ethanol
+3	C6H14	86.177	110-54-3	Hexane
+Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
+none	n.a.	101.320	n.a.	n.a.	n.a.	Distillation	Author	1
+homPmax	360.520	304.000	0.61630	n.a.	0.35250	Distillation	Author	1
+homPmax	379.170	506.000	0.55330	n.a.	0.35430	Distillation	Author	1
+none	zeotropic
+homPmax	homogeneous pressure maximum
+1	Yan X.; Wang Q.; Chen G.; Han S.: Determination of Azeotropes at Superatmospheric Pressures for Binary and Ternary Systems. Huagong-Xuebao / CIESC J. 47 (1996) 106-109

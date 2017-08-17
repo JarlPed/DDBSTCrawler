@@ -1,64 +1,64 @@
-$$$Solid-Liquid Equilibrium Data Set 990	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-269.55	0.03124	
-264.85	0.06765	
-258.45	0.11063	
-249.65	0.16213	
-238.15	0.22496	
-223.15	0.30332	
-Source	
-Clendenning K.A.: XI. Evaluation of Levo-2,3-Butanediol as a Non-Volatile Antifreeze Compound. Can.J.Res.Sect.F 24 (1946) 249-271	
-$$$Solid-Liquid Equilibrium Data Set 1450	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-273.15	0.00000	
-267.46	0.05090	
-258.50	0.11300	
-251.72	0.15470	
-241.58	0.20940	
-230.96	0.26160	
-224.12	0.28800	
-225.28	0.30970	
-225.49	0.31220	
-226.22	0.32870	
-228.03	0.36620	
-229.89	0.42760	
-230.50	0.48000	
-230.54	0.49340	
-230.49	0.51360	
-230.37	0.53200	
-230.22	0.54100	
-232.12	0.56360	
-233.42	0.57580	
-234.62	0.59050	
-240.27	0.66120	
-241.58	0.67980	
-243.72	0.70830	
-247.42	0.76390	
-252.88	0.85290	
-256.04	0.91030	
-260.46	1.00000	
-Source	
-Ott J.B.; Goates J.R.; Lamb J.D.: Solid-Liquid Phase Equilibria in Water + Ethylene Glycol. J.Chem.Thermodyn. 4 (1972) 123-126	
-$$$Solid-Liquid Equilibrium Data Set 2854	
-No.	Formula	Molar Mass	CAS Registry Number	Name	
-1	C2H6O2	62.068	107-21-1	1,2-Ethanediol	
-2	H2O	18.015	7732-18-5	Water	
-T [K]	xL1 [mol/mol]	
-269.65	0.03124	
-264.95	0.06726	
-258.45	0.11016	
-249.15	0.16071	
-237.45	0.22426	
-219.85	0.30244	
-227.75	0.53508	
-242.65	0.72139	
-251.65	0.84869	
-260.07	0.99691	
-Source	
-Dykyj J.; Kuska V.; Seprakova M.: Physikalische Eigenschaften des Äthylenglykols und seiner Derivaten (I) Erstarrungspunkte von Lösungen von Äthylenglykolen. Chem.Zvesti 10 (1956) 193-203	
+$$$Solid-Liquid Equilibrium Data Set 990
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+269.55	0.03124
+264.85	0.06765
+258.45	0.11063
+249.65	0.16213
+238.15	0.22496
+223.15	0.30332
+Source
+Clendenning K.A.: XI. Evaluation of Levo-2,3-Butanediol as a Non-Volatile Antifreeze Compound. Can.J.Res.Sect.F 24 (1946) 249-271
+$$$Solid-Liquid Equilibrium Data Set 1450
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+273.15	0.00000
+267.46	0.05090
+258.50	0.11300
+251.72	0.15470
+241.58	0.20940
+230.96	0.26160
+224.12	0.28800
+225.28	0.30970
+225.49	0.31220
+226.22	0.32870
+228.03	0.36620
+229.89	0.42760
+230.50	0.48000
+230.54	0.49340
+230.49	0.51360
+230.37	0.53200
+230.22	0.54100
+232.12	0.56360
+233.42	0.57580
+234.62	0.59050
+240.27	0.66120
+241.58	0.67980
+243.72	0.70830
+247.42	0.76390
+252.88	0.85290
+256.04	0.91030
+260.46	1.00000
+Source
+Ott J.B.; Goates J.R.; Lamb J.D.: Solid-Liquid Phase Equilibria in Water + Ethylene Glycol. J.Chem.Thermodyn. 4 (1972) 123-126
+$$$Solid-Liquid Equilibrium Data Set 2854
+No.	Formula	Molar Mass	CAS Registry Number	Name
+1	C2H6O2	62.068	107-21-1	1,2-Ethanediol
+2	H2O	18.015	7732-18-5	Water
+T [K]	xL1 [mol/mol]
+269.65	0.03124
+264.95	0.06726
+258.45	0.11016
+249.15	0.16071
+237.45	0.22426
+219.85	0.30244
+227.75	0.53508
+242.65	0.72139
+251.65	0.84869
+260.07	0.99691
+Source
+Dykyj J.; Kuska V.; Seprakova M.: Physikalische Eigenschaften des Äthylenglykols und seiner Derivaten (I) Erstarrungspunkte von Lösungen von Äthylenglykolen. Chem.Zvesti 10 (1956) 193-203
