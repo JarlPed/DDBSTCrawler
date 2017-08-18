@@ -1,9 +1,0 @@
-$$$Solid-Liquid Equilibrium Data Set 8224
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	CHCl3	119.377	67-66-3	Chloroform
-2	N2	28.013	7727-37-9	Nitrogen
-Pressure	1.0132	bar
-T [K]	xL1 [mol/mol]
-77.40	0.00000
-Source
-Dabrowska B.: Solubility of CFCl3, CHCl3, CCl4 and C2HCl3 in liquid nitrogen at 77.4 K. Cryogenics 31 (1991) 896-899

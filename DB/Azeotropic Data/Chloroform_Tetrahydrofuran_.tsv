@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	CHCl3	119.377	67-66-3	Chloroform
-2	C4H8O	72.107	109-99-9	Tetrahydrofuran
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-homPmin	303.150	19.513	0.45600	n.a.	Phase equilibrium	DDBST	1
-homPmin	313.150	29.859	0.45300	n.a.	Phase equilibrium	DDBST	1
-homPmin	323.150	44.767	0.45400	n.a.	Phase equilibrium	DDBST	1
-homPmin	homogeneous pressure minimum
-1	Paul H.-I.: Experimentelle Untersuchung der Flüssigkeits-Dampf-Phasengleichgewichte und volumentrischen Eigenschaften binärer und ternärer Mischungen. Fortschrittsber.VDI Reihe 3 135 (1987) 235-261

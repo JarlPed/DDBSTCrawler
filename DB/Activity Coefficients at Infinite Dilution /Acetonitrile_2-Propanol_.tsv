@@ -1,8 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C2H3N	41.053	75-05-8	Acetonitrile
-2	C3H8O	60.096	67-63-0	2-Propanol
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
-298.15	4.6900	GLCI	1
-Short Term	Explanation
-GLCI	GLC (without gas phase correction)
-1	Dallas A.J.: Vol. I - IV. Thesis  (1995)

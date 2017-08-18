@@ -1,8 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C4H8O2	88.106	141-78-6	Ethyl acetate
-2	C6H12	84.161	110-82-7	Cyclohexane
-3	CH4O	32.042	67-56-1	Methanol
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
-none	n.a.	101.325	n.a.	n.a.	n.a.	Distillation	Author	1
-none	zeotropic
-1	Lecat M.: L´azéotropisme. La tension de vapeur des mélanges de liquides. L´azéotropisme  (1918) 1-319

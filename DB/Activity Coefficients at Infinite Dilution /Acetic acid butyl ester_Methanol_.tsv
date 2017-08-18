@@ -1,8 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	CH4O	32.042	67-56-1	Acetic acid butyl ester
-2	CH4O	32.042	67-56-1	Methanol
-Temperature [K]	Activity Coeff. at Inf. Dil.	Measurement Method	Source
-313.20	3.2500	GLCR	1
-Short Term	Explanation
-GLCR	GLC (with gas phase correction)
-1	Wang S.; Wang W.; Feng X.; Wu Y.: Measurement of the Activity Coefficients at Infinite Dilution and Their Relations with Temperature. Gaoxiao-huaxue-gongcheng-xuebao 7 (1993) 14-21

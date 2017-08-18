@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C6H12	84.161	110-82-7	Cyclohexane
-2	C10H8	128.174	91-20-3	Naphthalene
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-none	373.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	1
-none	413.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	1
-none	453.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	1
-none	zeotropic
-1	Lee C.-H.; Holder G.D.: Vapor-Liquid Equilibria in the Toluene/Naphthalene and Cyclohexane/Naphthalene. J.Chem.Eng.Data 38 (1993) 320-323

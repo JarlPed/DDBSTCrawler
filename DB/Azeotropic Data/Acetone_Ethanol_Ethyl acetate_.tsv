@@ -1,8 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C3H6O	58.080	67-64-1	Acetone
-2	C2H6O	46.069	64-17-5	Ethanol
-3	C4H8O2	88.106	141-78-6	Ethyl acetate
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
-none	n.a.	101.325	n.a.	n.a.	n.a.	n.a.	Author	1
-none	zeotropic
-1	Carta R.; Dernini S.; Sanna P.: Isobaric Vapor Liquid Equilibria for the Ternary System Acetone - Ethyl Acetate - Ethanol. J.Chem.Eng.Data 29 (1984) 463-466

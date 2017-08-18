@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C16H34	226.446	544-76-3	Hexadecane
-2	CH4	16.043	74-82-8	Methane
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-nonesupercrit	462.450	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1
-nonesupercrit	542.650	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1
-nonesupercrit	623.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram from VLE	1
-nonesupercrit	zeotropic supercritical
-1	Lin H.M.; Sebastian H.M.; Chao K.C.: Gas-Liquid Equilibrium in Hydrogen + n-Hexadecane and Methane +  n-Hexadecane at Elevated Temperatures and Pressures. J.Chem.Eng.Data 25 (1980) 252-254

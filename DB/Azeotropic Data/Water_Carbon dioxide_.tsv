@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	H2O	18.015	7732-18-5	Water
-2	CO2	44.010	124-38-9	Carbon dioxide
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-nonesupercrit	373.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram	1
-nonesupercrit	393.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram	1
-nonesupercrit	413.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from diagram	1
-nonesupercrit	zeotropic supercritical
-1	Müller G.: Experimentelle Untersuchung des Dampf-Flüssigkeits-Gleichgewichts im System Ammoniak-Kohlendioxid-Wasser zwischen 100 und 200° C bei Drücken bis 90 Bar. Thesis  (1983)

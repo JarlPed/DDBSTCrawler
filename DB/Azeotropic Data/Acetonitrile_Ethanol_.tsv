@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C2H3N	41.053	75-05-8	Acetonitrile
-2	C2H6O	46.069	64-17-5	Ethanol
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-homPmax	325.050	45.330	n.a.	0.45300	Phase equilibrium	DDBST	1
-homPmax	330.500	56.395	n.a.	0.48100	Phase equilibrium	DDBST	1
-homPmax	336.000	69.461	n.a.	0.49800	Phase equilibrium	DDBST	1
-homPmax	homogeneous pressure maximum
-1	Dohnal V.; Vesely F.; Holub R.; Pick J.: Liquid-Vapor Equilibrium and Heats of Mixing in the Ethanol-Acetonitrile System. Collect.Czech.Chem.Commun. 47 (1982) 3177-3187

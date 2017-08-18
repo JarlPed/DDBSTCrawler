@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C4H8O2	88.106	141-78-6	Ethyl acetate
-2	CO2	44.010	124-38-9	Carbon dioxide
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-none	228.050	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from table	1
-none	238.150	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from table	1
-none	247.950	n.a.	n.a.	n.a.	Phase equilibrium	DDBST from table	1
-none	zeotropic
-1	Shenderei E.R.; Zelvenskii Y.D.; Ivanovskii F.D.: Löslichkeit des Kohlenstoffdioxids in Methylethylketon, Ethylacetat und Toluol bei niedriger Temperatur unter dem Druck. Khim.Prom.  (1960) 370-374

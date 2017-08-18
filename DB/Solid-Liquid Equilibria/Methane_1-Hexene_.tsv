@@ -1,9 +1,0 @@
-$$$Solid-Liquid Equilibrium Data Set 32493
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	CH4	16.043	74-82-8	Methane
-2	C6H12	84.161	592-41-6	1-Hexene
-T [K]	P [bar]	xL1 [mol/mol]
-125.75	150.0	0.84573
-125.05	100.0	0.84573
-Source
-Oeder D.: Phasengleichgewichte, kritische Erscheinungen und PVT-Daten in binären Methan-Kohlenwasserstoff-Systemen von -150 bis 20 °C und bis 3000 bar. Thesis  (1969)

@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C2H4O2	60.053	64-19-7	Acetic acid
-2	N2	28.013	7727-37-9	Nitrogen
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-nonesupercrit	323.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	1
-nonesupercrit	373.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	1
-nonesupercrit	423.150	n.a.	n.a.	n.a.	Phase equilibrium	Author	1
-nonesupercrit	zeotropic supercritical
-1	Efremova G.D.; Makarevich L.A.; Sokolova E.S.: Phasengleichgewichte im System Essigsäure-Stickstoff. Khim.Prom.  (1961) 563-564

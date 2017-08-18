@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C4H8O2	88.106	141-78-6	Ethyl acetate
-2	H2O	18.015	7732-18-5	Water
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-hetPmax	271.250	3.333	0.84560	n.a.	n.a.	Author	1
-hetPmax	283.200	6.666	0.83222	n.a.	n.a.	Author	1
-hetPmax	291.600	10.466	0.81988	n.a.	n.a.	Author	1
-hetPmax	heterogeneous pressure maximum
-1	Merriman R.W.: The Azeotropic Mixtures of Ethyl Acetate Ethyl Alcohol, and Water at Pressures Above and Below the Atmospheric Pressure. Part I. J.Chem.Soc.London 103 (1913) 1790-1801

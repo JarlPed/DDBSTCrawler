@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C2H6O	46.069	64-17-5	Ethanol
-2	C6H12	84.161	110-82-7	Cyclohexane
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-homPmax	321.670	53.320	0.39100	n.a.	n.a.	Author	1
-homPmax	323.150	57.060	0.39500	n.a.	n.a.	Author	1
-homPmax	327.850	68.520	0.41100	n.a.	n.a.	Author	1
-homPmax	homogeneous pressure maximum
-1	Svoboda V.; Vonkova J.; Holub R.; Pick J.: Heats of Vaporization of Binary Azeotropic Mixtures Containing Aliphatic and Hyrocarbons. Collect.Czech.Chem.Commun. 42 (1977) 2607-2614

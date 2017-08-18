@@ -1,8 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C3H6O	58.080	67-64-1	Acetone
-2	C6H6	78.114	71-43-2	Benzene
-3	C3H8O	60.096	67-63-0	2-Propanol
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
-none	318.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	1
-none	zeotropic
-1	Vitman T.A.; Zharov V.T.: Liquid-Vapor Equilibrium in the System Acetone-Benzene-Toluene-Isopropyl Alcohol and Verification of Data Obtained by the Open Evaporation Method. J.Appl.Chem.USSR 42 (1969) 2710-2713

@@ -1,9 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	H2O	18.015	7732-18-5	Water
-2	C16H34	226.446	544-76-3	Hexadecane
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	Measurement Method	Evaluation	Source
-hetPmax	473.150	1696.554	0.99200	n.a.	Phase equilibrium	Author from VLE	1
-hetPmax	523.150	4069.759	0.98550	n.a.	Phase equilibrium	Author from VLE	1
-hetPmax	548.150	6129.162	0.98000	n.a.	Phase equilibrium	Author from VLE	1
-hetPmax	heterogeneous pressure maximum
-1	Sultanov R.G.; Skripka V.G.; Namiot A.Y.: Phase Equilibria in the n-Hexadecane-Water System at High Temperatures. Viniti  (1971) 1-11

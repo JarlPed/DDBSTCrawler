@@ -1,8 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	C3H6O	58.080	67-64-1	Acetone
-2	C6H12	84.161	110-82-7	Cyclohexane
-3	C3H8O	60.096	67-63-0	2-Propanol
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
-none	318.150	n.a.	n.a.	n.a.	n.a.	n.a.	Author	1
-none	zeotropic
-1	Vitman T.A.; Zharov V.T.: Dampf-Flüssig-Gleichgewicht in Systemen Cyclohexan-Isopropanol-Benzol-Toluol und Cyclohexan-Aceton-Isopropanol-Toluol. Vestn.Leningr.Univ.Fiz.Khim.  (1971) 83-86

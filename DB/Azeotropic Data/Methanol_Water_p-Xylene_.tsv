@@ -1,8 +1,0 @@
-No.	Formula	Molar Mass	CAS Registry Number	Name
-1	CH4O	32.042	67-56-1	Methanol
-2	H2O	18.015	7732-18-5	Water
-3	C8H10	106.167	106-42-3	p-Xylene
-Azeotropic Type	T [K]	P [kPa]	yaz,1 [mol/mol]	yaz,2 [mol/mol]	yaz,3 [mol/mol]	Measurement Method	Evaluation	Source
-noneMisGap	n.a.	101.725	n.a.	n.a.	n.a.	n.a.	Author	1
-noneMisGap	zeotropic miscibility gap
-1	Budantseva L.S.; Lesteva T.M.; Nemtsov M.S.: Azeotrope Formation in Methanol-Water-Hydrocarbon Systems. Part I.. Viniti  (1973) 1-8
