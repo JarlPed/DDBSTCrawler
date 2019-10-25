@@ -1,6 +1,4 @@
-import urllib2
 import requests 
-
 import re
 from bs4 import BeautifulSoup
 
@@ -23,6 +21,7 @@ def DDBST_table(DDBST_url):
     
     soup = BeautifulSoup(page, 'html.parser')
     tab = []
+    soup.getText
     for rel_item in soup.find_all(['table','h3']):
         if re.search('Data Set',rel_item.get_text() ):
             tab.append(['$$$'+rel_item.get_text()] )
@@ -36,10 +35,14 @@ def DDBST_table(DDBST_url):
                 for elem in line.find_all(['th','td']):
                     # string without whitespace before of after characters
                     # added utf-8 formating to include unusual letters i.e. german letters ect..
-                    item = elem.get_text().strip().encode('utf-8') 
+                    item = elem.get_text().strip('\t').strip(' ')
+                    
                     
                     try:
-                        fetchline.append(item)
+                        if (item != '\xa0'):
+                            fetchline.append(item)
+                        else:
+                            fetchline.append('<empty>')
                     except:
                         fetchline.append('PARSING_ERROR_HERE')
                         
@@ -49,7 +52,7 @@ def DDBST_table(DDBST_url):
     return tab
 
 def DDBST_DB_free(prnt):
-    page = urllib2.urlopen(page_main)
+    page = requests.get(page_main).text
     soup = BeautifulSoup(page, 'html.parser')
     tab = soup.find_all('table')[0]
     res = ['url']
@@ -66,7 +69,7 @@ def DDBST_DB_free(prnt):
         qlist = [li]
 
         for elem in line.find_all(['a','td','th']):
-            qlist.append( elem.get_text() )
+            qlist.append( str( elem.get_text() ) )
 
         res.append(qlist)
     # end for
@@ -79,7 +82,7 @@ def DDBST_DB_free(prnt):
 
 def All_links(url):
     ''' fetches all possible urls from href tags'''
-    page = urllib2.urlopen(url)
+    page = requests.get(url).text
     soup = BeautifulSoup(page, 'html.parser')
     h = []
     for link in soup.find_all('a'):
@@ -102,8 +105,8 @@ def DB(DDBST_url):
     ret_elem = []
     for link in soup.find_all('p')[3:-1]:
         #pdb.set_trace()
-        header = link.find('a').get('href')
-        name = link.find('a').getText()
+        header = str( link.find('a').get('href') )
+        name = str ( link.find('a').getText() )
         
         #wspace_iter = [m.start(0) for m in re.finditer(' ', header)]
         #if wspace_iter:
